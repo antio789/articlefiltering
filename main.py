@@ -2,6 +2,8 @@ from ollama import chat
 from ollama import ChatResponse
 from pypdf import PdfReader
 import json
+import glob
+import tiktoken
 
 '''READ CONTENT DEFINITIONS'''
 def json_read(path):
@@ -27,6 +29,10 @@ def llm_prompt(string):
   ])
   print(response.message.content)
 
+def count_tokens(text, model="gpt-4"):
+    encoder = tiktoken.encoding_for_model(model)
+    return len(encoder.encode(text))
+
 
 '''INITIALIZING CONTENT'''
 general_prompt = rf("general_prompt")
@@ -35,11 +41,14 @@ review_prompt = rf("review_prompt")
 
 general_questions = json_read('q_general.json')
 
-article_text = pdf_read("Bercy1-s2.0-S019689042400757X-main.pdf")
+articles_list = glob.glob("articles/*.pdf")
+
+article_text = pdf_read(articles_list[0])
 
 
 'FILTERING'
 prompt = general_prompt + "\nquestion:\n" + general_questions[0].get("question") + "\nArticle to read:\n" + article_text
-print(prompt)
-
+#print(prompt)
+#llm_prompt(prompt)
+#print(count_tokens(prompt))
 

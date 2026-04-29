@@ -2,63 +2,63 @@
   "questions": [
     {
       "qid": 1,
-      "question": "can you find reference to mechanical pretreatment (e.g., grinding, milling, extrusion, shearing, chopping)"
+      "question": "Does this review explicitly reference mechanical pretreatment (e.g., grinding, milling, extrusion, shearing, chopping,...)"
     },
     {
       "qid": 2,
-      "question": "Does it explicitly describe the use of thermal pretreatment on a substrate (e.g., microwave, hydrothermal treatment, steam explosion, autoclave)"
+      "question": "Does this review explicitly reference thermal pretreatment (e.g., microwave, hydrothermal treatment, steam explosion, autoclave)"
     },
     {
       "qid": 3,
-      "question": "Does it explicitly describe the use of ultrasound pretreatment on a substrate"
+      "question": "Does this review explicitly reference ultrasound pretreatment"
     },
     {
       "qid": 4,
-      "question": "Does it explicitly describe the use of pressure-based pretreatment on a substrate (e.g., high-pressure homogenisation, pressure shock treatment, hydrodynamic cavitation, mechanical jet), (Methods where pressure is only indirectly applied due to enclosed heating (e.g., autoclave) must be excluded.)"
+      "question": "Does this review explicitly reference pressure-based pretreatment (e.g., high-pressure homogenisation, pressure shock treatment, hydrodynamic cavitation, mechanical jet), (Methods where pressure is only indirectly applied due to enclosed heating (e.g., autoclave) must be excluded.)"
     },
     {
       "qid": 5,
-      "question": "Does it explicitly describe the use of pulsed electric field or other electrical pretreatment techniques applied to a substrate to disrupt material and increase availability"
+      "question": "Does this review explicitly reference pulsed electric field or other electrical pretreatment techniques applied to a substrate to disrupt material and increase availability"
     },
     {
       "qid": 6,
-      "question": "Does it explicitly describe the use of alkaline pretreatment on a substrate"
+      "question": "Does this review explicitly reference alkaline pretreatment"
     },
     {
       "qid": 7,
-      "question": "Does it explicitly describe the use of acidic pretreatment on a substrate"
+      "question": "Does this review explicitly reference acidic pretreatment"
     },
     {
       "qid": 8,
-      "question": "Does it explicitly describe the use of oxidative pretreatment on a substrate (e.g., traditional oxidizers such as H₂O₂, or advanced oxidation processes such as oxidizers combined with UV, Fenton reactions, or TiO₂)"
+      "question": "Does this review explicitly reference oxidative pretreatment (e.g., traditional oxidizers such as H₂O₂, or advanced oxidation processes such as oxidizers combined with UV, Fenton reactions, or TiO₂)"
     },
     {
       "qid": 9,
-      "question": "Does it explicitly describe the use of solvent-based pretreatment on a substrate"
+      "question": "Does this review explicitly reference solvent-based pretreatment"
     },
     {
       "qid": 10,
-      "question": "Does it explicitly describe the use of chemical pretreatment on a substrate, where chemical pretreatment signifies the degradation of complex material to improve bioavailability using some chemical compound that is different from the more prevalent techniques (alkaline, acidic, oxidation and solvent)? Examples of those techniques can be (surfactant, solubilizer, salts,...)"
+      "question": "Does this review explicitly reference chemical pretreatment, where chemical pretreatment signifies the degradation of complex material to improve bioavailability using some chemical compound that is different from the more prevalent techniques (alkaline, acidic, oxidation and solvent)? Examples of those techniques can be (surfactant, solubilizer, salts,...)"
     },
     {
       "qid": 11,
-      "question": "Does it explicitly describe the use of enzyme-based pretreatment on a substrate (this also includes crude enzyme treatments)"
+      "question": "Does this review explicitly reference enzyme-based pretreatment (this also includes crude enzyme treatments)"
     },
     {
       "qid": 12,
-      "question": "Does it explicitly describe the use of fungi-based pretreatment on a substrate (this excludes enzymes extracted from a fungi)"
+      "question": "Does this review explicitly reference fungi-based pretreatment (this excludes enzymes extracted from a fungi)"
     },
     {
       "qid": 13,
-      "question": "Does it explicitly describe the use of microbial-based pretreatment on a substrate (this can be a bacterial treatment but also microbial consortium) (note: enzymes extracted from a microorganism as well as the use of substrate rich in microorganisms should be excluded)"
+      "question": "Does this review explicitly reference microbial-based pretreatment (this can be a bacterial treatment but also microbial consortium) (note: enzymes extracted from a microorganism as well as the use of substrate rich in microorganisms should be excluded)"
     },
     {
       "qid": 14,
-      "question": "Does it explicitly describe the use of biologically active substrate on a substrate for pretreatment, (this can be through the reuse of digestate, adding compost, rumen, or activated sludge,...)"
+      "question": "Does this review explicitly reference biologically active substrate for pretreatment, (this can be through the reuse of digestate, adding compost, rumen, or activated sludge,...)"
     },
     {
       "qid": 15,
-      "question": "Does it explicitly describe the use of nanoparticles to improve the digestion process"
+      "question": "Does this review explicitly reference nanoparticles to improve the digestion process"
     },
     {
       "qid": 16,

@@ -1,12 +1,18 @@
-read the whole article then answer the question according to these requirements:
-You are a researcher specialised in anaerobic digestion screening a scientific article for the presence of specific technologies and treatments related to biogas and anaerobic digestion.
-You have to filter articles based on a binary(yes or no) question, this will then be used futher to classify articles. Therefore, you need to answer the following question with objectivity and rigour, the precision is much more important than efficiency, use as much time and resources as necessary. 
-As other requirements: consider expert knowledge in anaerobic digestion, avoid over-interpretation and inferred reasoning, this would be counterproductive to the goal. For example: if the article is about "to improve digestion" do not assume the answer can be true because it would also affect post digestion. This hurts the accuracy of the classification. Do not ignore parts of the questions.
+Read the whole article then answer the question according to these requirements:
+Consider expert knowledge in anaerobic digestion to screen the scientific article for the presence of specific technologies and treatments related to biogas and anaerobic digestion.
+You have to filter articles based on a binary(yes or no) question, this will then be used further to classify articles.
+Therefore, you need to answer the following question with objectivity and rigour, the precision is much more important than efficiency, use as much time and resources as necessary.
+For other requirements: avoid over-interpretation and inferred reasoning, this would be counterproductive to the goal. For example: if the article is about "to improve digestion" do not assume the answer can be true because it would also affect post digestion. This hurts the accuracy of the classification.
+Do not ignore parts of the questions.
 The review article is about anaerobic digestion, you must ignore abstract, introduction, conclusion and references, as they provide outside information that will poison the answer, but the rest of the text should be used and everything should be kept in mind.
-To answer the question: return a json with your answer (true or false), and reasoning. For the reasoning, go through the text and discuss your question if its correct or not, give a final answer in answer and write your whole reasoning in reasoning.
-Example: {
-reasoning:”the whole reasoning”
-answer:”final answer”
-}
+
+To answer the question:
+1.respect the following format, this will allow for machine processing to split your response in the reasoning for logging and the final answer for further filtering, please one write true or false for the final answer part:
+the reasoning
+###
+final answer{true/false}
+2.How to proceed: For the reasoning, answer the question then discuss your question if its correct or not, and give a final response in final answer.
+
+
 
 

@@ -1,12 +1,10 @@
 {
   "questions": [
     {
-      "qid": 1,
-      "question": "Is this article a review in the general sense(including state art, scoing reviews), compared to research articles with an experiment or novel concept ?"
+      "question": "Is this article subject related to biogas technology? true/false"
     },
     {
-      "qid": 2,
-      "question": "Is this article subject related to biogas technology?"
+      "question": "Is this article a review in the general sense(including state art, scoping reviews,...), compared to research articles with an experiment or novel concept ? answer as true for a review, false for a research article"
     }
   ]
 }

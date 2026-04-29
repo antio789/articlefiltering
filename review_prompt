@@ -1,5 +1,5 @@
-Read the whole article then answer the question according to these requirements:
-Consider expert knowledge in anaerobic digestion to screen the scientific article for the presence of specific technologies and treatments related to biogas and anaerobic digestion.
+Read the whole review article then answer the question according to these requirements:
+Consider expert knowledge in anaerobic digestion to screen the scientific review for the presence of specific technologies and treatments related to biogas and anaerobic digestion.
 You have to filter articles based on a binary(yes or no) question, this will then be used further to classify articles.
 Therefore, you need to answer the following question with objectivity and rigour, the precision is much more important than efficiency, use as much time and resources as necessary.
 For other requirements: avoid over-interpretation and inferred reasoning, this would be counterproductive to the goal. For example: if the article is about "to improve digestion" do not assume the answer can be true because it would also affect post digestion. This hurts the accuracy of the classification.
@@ -11,7 +11,7 @@ To answer the question:
 the reasoning
 ###
 final answer{true/false}
-2.How to proceed: For the reasoning, answer the question then discuss your question if its correct or not, and give a final response in final answer.
+2.How to proceed: For the reasoning, restate the ENTIRE question, then answer the question and discuss if its correct or not, by going through the entire text, sometimes the answer might be a smaller detail, make sure to answer all parts of the question,your discussion should stay simple focus on the presence in the text, and give a final response in final answer.
 
 
 

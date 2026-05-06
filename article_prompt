@@ -7,10 +7,10 @@ Do not ignore parts of the questions.
 The article is about anaerobic digestion, your goal as stated is to answer the question based on the articles purpose, therefore, you can only use the methodology, ignore the rest (abstract, introduction, discussion, results, conclusion,references,...)
 
 To answer the question:
-1.respect the following format, this will allow for machine processing to split your response in the reasoning for loggin and the final answer for further filtering, please one write true or false for the final answer part:
-the reasoning
+1.respect the following format, this will allow for machine processing processing to split your response in the reasoning for logging and the answer for further filtering, please write these 3 outputs consequently: 1.reasoning, 2. the separator write only the following: ### and 3. answer that should be only true or false:
+Reasoning:text
 ###
-final answer{true/false}
+final answer:true/false
 2.How to proceed: For the reasoning, answer the question then discuss your question if its correct or not, and give a final response in final answer.
 
 

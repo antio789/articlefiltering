@@ -14,7 +14,7 @@
     },
     {
       "qid": 4,
-      "question": "Does this review explicitly reference pressure-based pretreatment (e.g., high-pressure homogenisation, pressure shock treatment, hydrodynamic cavitation, mechanical jet), (Methods where pressure is only indirectly applied due to enclosed heating (e.g., autoclave) must be excluded.)"
+      "question": "Does this review explicitly mention pressure-based pretreatment methods such as high-pressure homogenisation, pressure shock treatment, hydrodynamic cavitation, mechanical jet,...,  don't pay attention to methods where pressure is only indirectly applied(e.g. due to enclosed heating such as autoclave)"
     },
     {
       "qid": 5,
@@ -38,7 +38,7 @@
     },
     {
       "qid": 10,
-      "question": "Does this review explicitly reference chemical pretreatment, where chemical pretreatment signifies the degradation of complex material to improve bioavailability using some chemical compound that is different from the more prevalent techniques (alkaline, acidic, oxidation and solvent)? Examples of those techniques can be (surfactant, solubilizer, salts,...)"
+      "question": "Can you find reference to other chemical pretreatment, such as (surfactant, solubilizer, salts,...), not including these 4 techniques (alkaline, acidic, oxidation and solvent), where chemical pretreatment signifies the degradation of complex material to improve bioavailability"
     },
     {
       "qid": 11,
@@ -46,7 +46,7 @@
     },
     {
       "qid": 12,
-      "question": "Does this review explicitly reference fungi-based pretreatment (this excludes enzymes extracted from a fungi)"
+      "question": "Does this review explicitly reference the direct use of fungi as a biological pretreatment"
     },
     {
       "qid": 13,
@@ -58,7 +58,7 @@
     },
     {
       "qid": 15,
-      "question": "Does this review explicitly reference nanoparticles to improve the digestion process(can be for various ways, generally to improve methane, but through different mechanisms: nutrients, electron transfer,... for example"
+      "question": "Does this review explicitly mentions nanoparticles as a method to improve the digestion process, such as increasing methane production, acting as micronutrient supplements, or aiding in cell wall destruction, for example"
     },
     {
       "qid": 16,
@@ -98,7 +98,7 @@
     },
     {
       "qid": 25,
-      "question": "Does it mention then Anaerobic Contact reactor as an anaerobic digester"
+      "question": "Does it mention the Anaerobic Contact reactor as an anaerobic digester (known as a combination of a CSTR with a sedimentation tank)"
     },
     {
       "qid": 26,
@@ -126,15 +126,15 @@
     },
     {
       "qid": 32,
-      "question": "Does it mention or describe the derivative of biofilm reactors (such as filter/fixed bed or fluidized bed but excluding these ones specifically) as an anaerobic digester"
+      "question": "Does the article mention reactors that are derivatives of biofilm reactors (such as filter/fixed bed or fluidized bed but excluding these ones specifically) as an anaerobic digester"
     },
     {
       "qid": 33,
-      "question": "Does it mention or describe the membrane reactor as an anaerobic digester"
+      "question": "Does it mention membrane technology for anaerobic digestion reactor"
     },
     {
       "qid": 34,
-      "question": "Does it mention or describe the hybrid reactor as an anaerobic digester, where here hybrid reactor is considered as a mix of two reactor designs (example UASB with fixed bed inside), this category should exclude reactors called hybrid but that are two or more reactors put into series (example fixed bed stage + fluidized bed stage)"
+      "question": "does the article mention hybrid reactor, if it does mention this, does it in the idea of reactor combination(such as UASB with fixed bed) rather than multistage"
     },
     {
       "qid": 35,
@@ -178,7 +178,7 @@
     },
     {
       "qid": 46,
-      "question": "Does it mention or describe the labyrinth flow reactor as an anaerobic digester, defined as a compartmentalized reactor with a complex up- and down-flow path designed to separate or control acidogenic and methanogenic phases, similar in operation to a baffled reactor"
+      "question": "Does it mention or describe the labyrinth flow reactor, it is generally defined as a compartmentalized reactor with a complex up- and down-flow path designed to separate or control acidogenic and methanogenic phases, similar in operation to a baffled reactor"
     },
     {
       "qid": 47,
@@ -206,11 +206,23 @@
     },
     {
       "qid": 53,
-      "question": "Does it, in that context, explicitly describe the enhancement of digestate as a fertilizer through nutrient addition"
+      "question": "Does it, in that context, explicitly describe the enhancement of digestate qualities as a fertilizer through nutrient addition, ignore nutrient addition during pretreatment to enhance the digestion process"
     },
     {
       "qid": 54,
       "question": "Does it, in that context, explicitly describe the enhancement of digestate as a fertilizer through drying"
+    },
+    {
+      "qid": 55,
+      "question": "Does it, in that context, explicitly describe the reduction or elimination of pathogens or more generally decontamination?"
+    },
+    {
+      "qid": 56,
+      "question": "Does the review discuss the concept of circular economy linked to biogas technology?"
+    },
+    {
+      "qid": 57,
+      "question": "does this review discusses the impact of the biogas sector on greenhouse gas ?"
     }
   ]
 }

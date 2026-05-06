@@ -4,10 +4,10 @@ Avoid over-interpretation and inferred reasoning, this hurts the accuracy of the
 Do not ignore parts of the questions.
 
 To answer the question:
-1.respect the following format, this will allow for machine processing processing to split your response in the reasoning for logging and the answer for further filtering, please only write true or false for the answer part:
-the reasoning
+1.respect the following format, this will allow for machine processing processing to split your response in the reasoning for logging and the answer for further filtering, please write these 3 outputs consequently: 1.reasoning, 2. the separator write only the following: ### and 3. answer that should be only true or false:
+Reasoning:text
 ###
-final answer{true/false}
+final answer:true/false
 2.How to proceed: For the reasoning, answer the question then discuss your question if its correct or not, and give a final response in final answer.
 
 

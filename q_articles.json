@@ -82,11 +82,11 @@
     },
     {
       "qid": 21,
-      "question": "Does it, in that context, explicitly describe the use of a SBR (sequencing batch reactor) reactor as an anaerobic digester"
+      "question": "Does it, in that context, explicitly describe the use of a SBR (sequencing batch reactor) reactor as an anaerobic digester. with definition: a batch reactoroperating in cycles. Typically: filling, reaction, settling and withdrawal with an optional resting period. where a part of the sludge is then reused for inoculation of the next sequence. The concept of continuous operational cycling is important. It needs to be differentiated from a simple batch process"
     },
     {
       "qid": 22,
-      "question": "Does it, in that context, explicitly describe the use of a CSTR reactor as an anaerobic digester"
+      "question": "Does it, in that context, explicitly describe the use of a CSTR reactor as an anaerobic digester, where the key part of the definition is the continuous process of feeding and digestate evacuation, due to real world operation the process might not be perfectly continuous but intermittent or semi-continuous. mentions of mixing are not enough"
     },
     {
       "qid": 23,
@@ -94,11 +94,11 @@
     },
     {
       "qid": 24,
-      "question": "Does it, in that context, explicitly describe the use of a plug flow reactor as an anaerobic digester"
+      "question": "Does it, in that context, explicitly describe the use of a plug flow reactor as an anaerobic digester, the attention to the definition that characterises this reactor is important with radial mixing but not axial front or back. mention of the name synonym or the specific process is necessary, having a inlet and outlet is not a sufficient criteria"
     },
     {
       "qid": 25,
-      "question": "Does it, in that context, explicitly describe the use of an Anaerobic Contact reactor as an anaerobic digester"
+      "question": "Does it, in that context, explicitly describe the use of an Anaerobic Contact reactor as an anaerobic digester, with as definition: high rate reactor separating solids from hydraulic retention in wastewaters it is a combination of a CSTR with a sedimentation tank. The settled sludge is recirculated back while the liquid effluent is removed, mention of the reactor and some description of the process are necessary"
     },
     {
       "qid": 26,
@@ -138,7 +138,7 @@
     },
     {
       "qid": 35,
-      "question": "Does it, in that context, explicitly describe the use of a multistage reactor as an anaerobic digester, where here multistage is defined as two or more reactors as multiple stages (for example leach bed reactor in combination with high rate reactor such as UASB, or multiple CSTR in series), care needs to be put into consideration in reading the text appropriately for this question, as certain researcher might call their reactor hybrid even though it is only reactors put into series."
+      "question": "Does it, in that context, explicitly describe the use of a multistage reactor as an anaerobic digester, where here multistage is defined as two or more reactors in series for the process of anaerobic digestion (for example leach bed reactor in combination with high rate reactor such as UASB, or multiple CSTR in series), care needs to be put into consideration in reading the text appropriately for this question, as certain researcher might call their reactor hybrid even though it is only reactors put into series."
     },
     {
       "qid": 36,
@@ -150,7 +150,7 @@
     },
     {
       "qid": 38,
-      "question": "Does the article explicitly describe the use of any anaerobic digester reactor type not listed below (batch, SBR, CSTR, Leach Bed, plug flow, anaerobic contact, UASB, EGSB, UASB derivatives, baffled, filter/fixed bed, fluidized bed, biofilm derivatives, membrane, hybrid, multistage, small-scale, lagoon, rotating disk/contactor, gradual concentric chambers, tower, loop, hydraulic flush, bionic, labyrinth flow, self-flotation), where the text clearly explains the specific reactor design and its operation anywhere in the main text?"
+      "question": "Does the article explicitly describe the use of any anaerobic digester reactor type not listed here (batch, SBR, CSTR, Leach Bed, plug flow, anaerobic contact, UASB, EGSB, UASB derivatives, baffled, filter/fixed bed, fluidized bed, biofilm derivatives, membrane, hybrid, multistage, small-scale, lagoon, rotating disk/contactor, gradual concentric chambers, tower, loop, hydraulic flush, bionic, labyrinth flow, self-flotation), where to be considered true the text needs to clearly explain the specific reactor design, differentiate it beyond basic laboratory setup and its operation ?"
     },
     {
       "qid": 39,

@@ -1,4 +1,5 @@
 from ollama import chat, generate
+from pip._internal.utils import datetime
 from pypdf import PdfReader
 import json
 import glob
@@ -60,20 +61,41 @@ def classify_article(text):
     filter_list = []
     #askes the main questions: 1.if its anaerobic digestion otherwise return, 2.if it's a review
     for i in general_questions:
-        prompt = "Article to read:\n" + text + "\nquestion:\n" + i.get("question") + ' \n'+ general_prompt
-        response = llm_prompt(prompt)
-        response.lower()
-        print(response)
-        reasoning, answer = response.split("###")
+        general_prompt = "Article to read:\n" + text + "\nquestion:\n" + i.get("question") + ' \n'+ general_prompt
+        general_response = llm_prompt(general_prompt)
+        general_response.lower()
+        print(general_response)
+        general_reasoning, general_answer = general_response.split("###")
         filter_list.append({
             "qid": i.get("qid"),
             "question": i.get("question"),
-            "reasoning": reasoning.strip(),
-            "answer": answer.strip()
+            "reasoning": general_reasoning.strip(),
+            "answer": general_answer.strip()
         })
-        if i == 0 and "false" in answer:
+        if i == 0 and "false" in general_answer:
             return filter_list
     #splits the questions in between reviews and articles as the prompt is slightly different, true means review
+    filters = article_filters
+    filter_prompt = article_prompt
+    logger.info("Review article:" + filter_list[1]["answer"].lower())
+    if "true" in filter_list[1]["answer"].lower():
+        filters = review_filters
+        filter_prompt = review_prompt
+
+    for q in filters:
+        logger.info(q.get("qid"))
+        prompt_question = "Article to read:\n" + text + "\nquestion:\n" + q.get("question") + ' \n' + filter_prompt
+        output = llm_prompt(prompt_question)
+        print(output)
+        review_reasoning, review_answer = output.split("###")
+        logger.info(str(q.get("qid")) + str(review_reasoning))
+        filter_list.append({
+            "qid": q.get("qid"),
+            "question": q.get("question"),
+            "reasoning": review_reasoning.strip(),
+            "answer": review_answer.strip()
+        })
+
     if "true" in filter_list[1]["answer"].lower():
         print("review")
         for q in review_filters:
@@ -81,13 +103,13 @@ def classify_article(text):
             prompt_question = "Article to read:\n" + text + "\nquestion:\n" + q.get("question") + ' \n' + review_prompt
             output = llm_prompt(prompt_question)
             print(output)
-            reasoning, answer = response.split("###")
-            logger.info(str(q.get("qid")) + str(reasoning))
+            review_reasoning, review_answer = output.split("###")
+            logger.info(str(q.get("qid")) + str(review_reasoning))
             filter_list.append({
                 "qid": q.get("qid"),
                 "question": q.get("question"),
-                "reasoning": reasoning.strip(),
-                "answer": answer.strip()
+                "reasoning": review_reasoning.strip(),
+                "answer": review_answer.strip()
             })
     else:
         print("article")
@@ -96,18 +118,36 @@ def classify_article(text):
             prompt_question = "Article to read:\n" + text + "\nquestion:\n" + q.get("question") + ' \n' + article_prompt
             output = llm_prompt(prompt_question)
             print(output)
-            reasoning, answer = response.split("###")
-            logger.info(str(q.get("qid"))+ str(reasoning))
+            article_reasoning, article_answer = output.split("###")
+            logger.info(str(q.get("qid"))+ str(article_reasoning))
             filter_list.append({
+                "qid": q.get("qid"),
+                "question": q.get("question"),
+                "reasoning": article_reasoning.strip(),
+                "answer": article_answer.strip()
+            })
+    return filter_list
+
+def process_question(questionnaire,text,prompt):
+    results = []
+    for q in questionnaire:
+        logger.info(q.get("qid"))
+        prompt_question = "Article to read:\n" + text + "\nquestion:\n" + q.get("question") + ' \n' + prompt
+        output = llm_prompt(prompt_question)
+        logger.info(output)
+        try:
+            reasoning, answer = output.split("###")
+            results.append({
                 "qid": q.get("qid"),
                 "question": q.get("question"),
                 "reasoning": reasoning.strip(),
                 "answer": answer.strip()
             })
-    return filter_list
+        except ValueError as e:
+            logger.warning(f'failed at splitting: f{e}, moving to next question')
+    return results
 
-
-'num_predict allows for changing output context length, need specific model'
+'num_predict allows for changing output context length, need specific model, qwen currently best option but not sufficiently precise'
 def clean_article(text):
     prompt = '''
     this is a science article that has been converted from pdf to text.
@@ -133,14 +173,21 @@ def clean_article(text):
 
 def run_filtering():
     logger.info('start')
-    idart=0
     for art in articles_list:
         article_text = read_pdf(art)
         filtered = classify_article(article_text)
-        name= 'article'+str(idart)+'.json'
+        tempname = str(art).replace(".pdf", "")
+        tempname = tempname.replace("articles/", "")
+        name= 'article_'+tempname+'.json'
+        filtered.append({
+            "article_path": art
+        })
+        jsonfile={
+            "filters": filtered,
+            "article_path": art
+        }
         with open(name, 'w') as f:
-            json.dump(filtered, f)
-        idart+=1
+            json.dump(jsonfile, f, indent=2 )
     logger.info('end')
 
 def run_oneQ(id, text):
@@ -157,5 +204,5 @@ def run_oneQ(id, text):
     output = llm_prompt(prompt_question)
     print(output)
 
-logging.basicConfig(filename='llmlog.log',format='%(asctime)s %(message)s',level=logging.INFO)
-print(articles_list[0])
+logging.basicConfig(format='%(asctime)s %(message)s',level=logging.INFO, handlers=[logging.FileHandler(f"logs{datetime.now().strftime('%d %H:%M')}.log"), logging.StreamHandler()])
+run_filtering()

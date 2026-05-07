@@ -1,4 +1,4 @@
-from ollama import chat, generate
+from ollama import generate
 from pip._internal.utils import datetime
 from pypdf import PdfReader
 import json
@@ -26,20 +26,17 @@ def read_pdf(path):
 #models tested mistral, ministral, mistrallite, nemotron, qwen, gemma3n:e2b.
 # ministral-3:8b: too large, 4k context maximum for 8gb vram
 # gemma 3, fastest can go up to 128k, 86k to leave space to increase output size  - gemmatest86k
-# qwen3.5, reasoning model, but at a slower speed and smaller context requires deeper analysis qwen
+# qwen3.5, reasoning model, but at a slower speed and smaller context, requires analysis with larger vram and faster GPU
 def llm_prompt(string):
     response = generate(model='gemmatest86k', prompt=string, options={'temperature':0,'num_predict':12000,'seed':15})
     time = int(int(response['total_duration'])/1000000000)
-    logger.info(time)
-    print(str(time) + ' seconds of runtime')
+    logger.info(time + ' seconds of runtime')
     return response['response']
-
 
 #testing function to predict token utilisation by input
 def count_tokens(text, model="gpt-4"):
     encoder = tiktoken.encoding_for_model(model)
     return len(encoder.encode(text))
-
 
 '''INITIALIZING CONTENT'''
 general_prompt = read_file("general_prompt")
@@ -47,8 +44,8 @@ article_prompt = read_file("article_prompt")
 review_prompt = read_file("review_prompt")
 
 general_questions = read_json('q_general.json')
-review_filters = read_json('q_reviews.json')
-article_filters = read_json('q_articles.json')
+review_questions = read_json('q_reviews.json')
+article_questions = read_json('q_articles.json')
 
 articles_list = glob.glob("articles/*.pdf")
 
@@ -59,76 +56,21 @@ articles_list = glob.glob("articles/*.pdf")
 def classify_article(text):
     print(text)
     filter_list = []
-    #askes the main questions: 1.if its anaerobic digestion otherwise return, 2.if it's a review
-    for i in general_questions:
-        general_prompt = "Article to read:\n" + text + "\nquestion:\n" + i.get("question") + ' \n'+ general_prompt
-        general_response = llm_prompt(general_prompt)
-        general_response.lower()
-        print(general_response)
-        general_reasoning, general_answer = general_response.split("###")
-        filter_list.append({
-            "qid": i.get("qid"),
-            "question": i.get("question"),
-            "reasoning": general_reasoning.strip(),
-            "answer": general_answer.strip()
-        })
-        if i == 0 and "false" in general_answer:
-            return filter_list
+    #asks the main questions: 1.if it's related to anaerobic digestion returns otherwise, 2.if it's a review
+    filter_list = filter_list + process_questions(general_questions, text, general_prompt)
+    if "false" in filter_list[0].get("question"):
+        return filter_list
     #splits the questions in between reviews and articles as the prompt is slightly different, true means review
-    filters = article_filters
+    filters = article_questions
     filter_prompt = article_prompt
     logger.info("Review article:" + filter_list[1]["answer"].lower())
     if "true" in filter_list[1]["answer"].lower():
-        filters = review_filters
+        filters = review_questions
         filter_prompt = review_prompt
-
-    for q in filters:
-        logger.info(q.get("qid"))
-        prompt_question = "Article to read:\n" + text + "\nquestion:\n" + q.get("question") + ' \n' + filter_prompt
-        output = llm_prompt(prompt_question)
-        print(output)
-        review_reasoning, review_answer = output.split("###")
-        logger.info(str(q.get("qid")) + str(review_reasoning))
-        filter_list.append({
-            "qid": q.get("qid"),
-            "question": q.get("question"),
-            "reasoning": review_reasoning.strip(),
-            "answer": review_answer.strip()
-        })
-
-    if "true" in filter_list[1]["answer"].lower():
-        print("review")
-        for q in review_filters:
-            print(q.get("qid"))
-            prompt_question = "Article to read:\n" + text + "\nquestion:\n" + q.get("question") + ' \n' + review_prompt
-            output = llm_prompt(prompt_question)
-            print(output)
-            review_reasoning, review_answer = output.split("###")
-            logger.info(str(q.get("qid")) + str(review_reasoning))
-            filter_list.append({
-                "qid": q.get("qid"),
-                "question": q.get("question"),
-                "reasoning": review_reasoning.strip(),
-                "answer": review_answer.strip()
-            })
-    else:
-        print("article")
-        for q in article_filters:
-            print(q.get("qid"))
-            prompt_question = "Article to read:\n" + text + "\nquestion:\n" + q.get("question") + ' \n' + article_prompt
-            output = llm_prompt(prompt_question)
-            print(output)
-            article_reasoning, article_answer = output.split("###")
-            logger.info(str(q.get("qid"))+ str(article_reasoning))
-            filter_list.append({
-                "qid": q.get("qid"),
-                "question": q.get("question"),
-                "reasoning": article_reasoning.strip(),
-                "answer": article_answer.strip()
-            })
+    filter_list = filter_list + process_questions(filters, text, filter_prompt)
     return filter_list
 
-def process_question(questionnaire,text,prompt):
+def process_questions(questionnaire, text, prompt):
     results = []
     for q in questionnaire:
         logger.info(q.get("qid"))
@@ -137,14 +79,18 @@ def process_question(questionnaire,text,prompt):
         logger.info(output)
         try:
             reasoning, answer = output.split("###")
-            results.append({
-                "qid": q.get("qid"),
-                "question": q.get("question"),
-                "reasoning": reasoning.strip(),
-                "answer": answer.strip()
-            })
+
         except ValueError as e:
             logger.warning(f'failed at splitting: f{e}, moving to next question')
+            reasoning = output
+            answer = "error"
+
+        results.append({
+            "qid": q.get("qid"),
+            "question": q.get("question"),
+            "reasoning": reasoning.strip(),
+            "answer": answer.strip()
+        })
     return results
 
 'num_predict allows for changing output context length, need specific model, qwen currently best option but not sufficiently precise'
@@ -195,12 +141,12 @@ def run_oneQ(id, text):
     if qid==43:
         print("note id 43 is not present")
         return
-    if id>len(review_filters)+1:
+    if id>len(review_questions)+1:
         print("outside scope")
         return
     if qid>43: qid=qid-1
-    print(review_filters[qid].get("qid"))
-    prompt_question = "Article to read:\n" + text + "\nquestion:\n" + review_filters[qid].get("question") + ' \n' + review_prompt
+    print(review_questions[qid].get("qid"))
+    prompt_question = "Article to read:\n" + text + "\nquestion:\n" + review_questions[qid].get("question") + ' \n' + review_prompt
     output = llm_prompt(prompt_question)
     print(output)
 

@@ -1,10 +1,10 @@
 from ollama import generate
-from pip._internal.utils import datetime
 from pypdf import PdfReader
 import json
 import glob
 import tiktoken
 import logging
+from datetime import datetime
 
 logger = logging.getLogger(__name__)
 
@@ -30,7 +30,7 @@ def read_pdf(path):
 def llm_prompt(string):
     response = generate(model='gemmatest86k', prompt=string, options={'temperature':0,'num_predict':12000,'seed':15})
     time = int(int(response['total_duration'])/1000000000)
-    logger.info(time + ' seconds of runtime')
+    logger.info(f'{time} seconds of runtime')
     return response['response']
 
 #testing function to predict token utilisation by input
@@ -150,5 +150,5 @@ def run_oneQ(id, text):
     output = llm_prompt(prompt_question)
     print(output)
 
-logging.basicConfig(format='%(asctime)s %(message)s',level=logging.INFO, handlers=[logging.FileHandler(f"logs{datetime.now().strftime('%d %H:%M')}.log"), logging.StreamHandler()])
+logging.basicConfig(format='%(asctime)s %(message)s',level=logging.INFO, handlers=[logging.FileHandler(f"logs{datetime.now().strftime('%d_%H-%M')}.log"), logging.StreamHandler()])
 run_filtering()

@@ -1,10 +1,10 @@
 from ollama import generate
-from pip._internal.utils import datetime
 from pypdf import PdfReader
 import json
 import glob
 import tiktoken
 import logging
+from datetime import datetime
 
 logger = logging.getLogger(__name__)
 
@@ -30,7 +30,7 @@ def read_pdf(path):
 def llm_prompt(string):
     response = generate(model='gemmatest86k', prompt=string, options={'temperature':0,'num_predict':12000,'seed':15})
     time = int(int(response['total_duration'])/1000000000)
-    logger.info(time + ' seconds of runtime')
+    logger.info(f'{time} seconds of runtime')
     return response['response']
 
 #testing function to predict token utilisation by input
@@ -54,11 +54,10 @@ articles_list = glob.glob("articles/*.pdf")
 
 'LLM FILTERING'
 def classify_article(text):
-    print(text)
     filter_list = []
     #asks the main questions: 1.if it's related to anaerobic digestion returns otherwise, 2.if it's a review
     filter_list = filter_list + process_questions(general_questions, text, general_prompt)
-    if "false" in filter_list[0].get("question"):
+    if "false" in filter_list[0].get("answer"):
         return filter_list
     #splits the questions in between reviews and articles as the prompt is slightly different, true means review
     filters = article_questions
@@ -120,6 +119,7 @@ def clean_article(text):
 def run_filtering():
     logger.info('start')
     for art in articles_list:
+        logger.info(art)
         article_text = read_pdf(art)
         filtered = classify_article(article_text)
         tempname = str(art).replace(".pdf", "")
@@ -150,5 +150,5 @@ def run_oneQ(id, text):
     output = llm_prompt(prompt_question)
     print(output)
 
-logging.basicConfig(format='%(asctime)s %(message)s',level=logging.INFO, handlers=[logging.FileHandler(f"logs{datetime.now().strftime('%d %H:%M')}.log"), logging.StreamHandler()])
+logging.basicConfig(format='%(asctime)s %(message)s',level=logging.INFO, handlers=[logging.FileHandler(f"logs{datetime.now().strftime('%d_%H-%M')}.log"), logging.StreamHandler()])
 run_filtering()

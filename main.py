@@ -150,5 +150,14 @@ def run_oneQ(id, text):
     output = llm_prompt(prompt_question)
     print(output)
 
+def run_article(id):
+    for i in range(1,59):
+        run_oneQ(i,read_pdf(articles_list[aID]))
+
 logging.basicConfig(format='%(asctime)s %(message)s',level=logging.INFO, handlers=[logging.FileHandler(f"logs{datetime.now().strftime('%d_%H-%M')}.log"), logging.StreamHandler()])
-run_filtering()
+#run_filtering()
+for i in articles_list:
+    print(i)
+aID=5
+print(articles_list[aID])
+

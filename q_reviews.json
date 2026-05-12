@@ -1,233 +1,238 @@
 {
   "questions": [
     {
-      "qid": 1,
-      "question": "Does this review explicitly reference and provide at least some form of description or example (e.g., grinding, milling, extrusion, shearing, chopping,...) of technologies for mechanical pretreatment  in the context of anaerobic digestion"
-    },
-    {
-      "qid": 2,
-      "question": "Does this review explicitly reference and provide at least some form of description or example (e.g., microwave, hydrothermal treatment, steam explosion, autoclave) of technologies for thermal pretreatment  in the context of anaerobic digestion. Note temperature of the digestion is not a pretreatment"
-    },
-    {
-      "qid": 3,
-      "question": "Does this review explicitly reference and provide at least some form of description for ultrasound pretreatment, the literature sometimes uses synonyms such as sonication, ultrasonic,... in the context of anaerobic digestion"
-    },
-    {
-      "qid": 4,
-      "question": "Does this review explicitly mention and provide at least some form of description or example (e.g., high-pressure homogenisation, pressure shock treatment, hydrodynamic cavitation, mechanical jet,...) of technologies for pressure-based pretreatment,  ignore methods where pressure is only indirectly applied(e.g. due to enclosed heating such as autoclave)"
-    },
-    {
-      "qid": 5,
-      "question": "Does this review explicitly reference and provide at least some form of description or example of technologies for pulsed electric field or other electrical pretreatment techniques applied to a substrate to disrupt material and increase availability"
-    },
-    {
-      "qid": 6,
-      "question": "Does this review explicitly reference and provide at least some form of description or example of technologies (e.g., NaOH, KOH,...) for alkaline pretreatment in the context of anaerobic digestion"
-    },
-    {
-      "qid": 7,
-      "question": "Does this review explicitly reference and provide at least some form of description or example of technologies (Formic acid,H2SO4,...) for acidic pretreatment in the context of anaerobic digestion"
-    },
-    {
-      "qid": 8,
-      "question": "Does this review explicitly reference and provide at least some form of description or example of technologies (e.g., traditional oxidizers such as H₂O₂, or advanced oxidation processes such as oxidizers combined with UV, Fenton reactions, or TiO₂) for oxidative pretreatment in the context of anaerobic digestion"
-    },
-    {
-      "qid": 9,
-      "question": "Does this review explicitly reference and provide at least some form of description or example of technologies (organosolv, ioniq liquid,...) for solvent-based pretreatment"
-    },
-    {
-      "qid": 10,
-      "question": "Can you find reference to other chemical pretreatment, such as (surfactant, solubilizer, salts,...), not including these 4 techniques (alkaline, acidic, oxidation and solvent), where chemical pretreatment signifies the degradation of complex material to improve bioavailability"
-    },
-    {
-      "qid": 11,
-      "question": "Does this review explicitly reference and provide at least some form of description or example of technologies (enzyme name for eaxmple, this also includes crude enzyme treatments) for enzyme-based pretreatment "
-    },
-    {
-      "qid": 12,
-      "question": "Does this review explicitly reference and provide at least some form of description or example of technologies( species names for example) for the direct use of fungi as a biological pretreatment"
-    },
-    {
-      "qid": 13,
-      "question": "Does this review explicitly reference and provide at least some form of description or example of technologies (e.g., this can be a bacterial treatment but also microbial consortium) for microbial-based pretreatment  (note: enzymes extracted from a microorganism as well as the use of substrate rich in microorganisms should be excluded)"
-    },
-    {
-      "qid": 14,
-      "question": "Does this review explicitly reference and provide at least some form of description or example of technologies (e.g, this can be through the reuse of digestate, adding compost, rumen, or activated sludge,...) for biologically active substrate for pretreatment, "
-    },
-    {
-      "qid": 15,
-      "question": "Does this review explicitly mentions and provide at least some form of explanations such as examples or mechanism for nanoparticles as a method to improve the digestion process, such as increasing methane production, acting as micronutrient supplements, or aiding in cell wall destruction, for example"
-    },
-    {
-      "qid": 16,
-      "question": "Does the article describe the use of disinhibiting treatments (e.g., coagulants, biochar, ammonia stripping) applied to the substrate or reactor before or during digestion to improve microbial activity or methane production"
-    },
-    {
-      "qid": 17,
-      "question": "Does the article describe the use of chelating agents added to the substrate or reactor before or during digestion to enhance microbial activity or substrate degradation"
-    },
-    {
-      "qid": 18,
-      "question": "Does the article describe the addition of nutrients (e.g., nitrogen, phosphorus, micronutrients) to the substrate or reactor before or during digestion to improve microbial activity or methane production during the digestion process"
-    },
-    {
-      "qid": 19,
-      "question": "Does the article describe additional treatments applied to the substrate or reactor before or during digestion to optimize the digestion process, (considering treatments that do not have as goal the improvement of bioavailability of material like you would have with physical, chemical, or biological treatment), treatments such as nutrient addition, disinhibition with: coagulants, biochar, ammonia stripping,..., chelating agent or the use of nanoparticles but excluding these ones other similar treatments, it can be simple things such as washing in algae to remove salt for example"
-    },
-    {
-      "qid": 20,
-      "question": "Does it mention and provide at least some form of description for the batch reactor"
-    },
-    {
-      "qid": 21,
-      "question": "Does it mention and provide at least some form of description for the SBR (sequencing batch reactor) reactor"
-    },
-    {
-      "qid": 22,
-      "question": "Does it mention and provide at least some form of description for the CSTR reactor"
-    },
-    {
-      "qid": 23,
-      "question": "Does it mention and provide at least some form of description for the Leach Bed reactor"
-    },
-    {
-      "qid": 24,
-      "question": "Does it mention and provide at least some form of description for the plug flow reactor"
-    },
-    {
-      "qid": 25,
-      "question": "Does it mention and provide at least some form of description for the Anaerobic Contact reactor (known as a combination of a CSTR with a sedimentation tank)"
-    },
-    {
-      "qid": 26,
-      "question": "Does it mention and provide at least some form of description for the UASB reactor"
-    },
-    {
-      "qid": 27,
-      "question": "Does it mention and provide at least some form of description for then EGSB reactor"
-    },
-    {
-      "qid": 28,
-      "question": "Does it mention the UASB derivate reactor (excluding EGSB), this infers a sludge blanket reactor such as IC reactor (internal circulation), induced bed, upflow solid reactor,..."
-    },
-    {
-      "qid": 29,
-      "question": "Does it mention and provide at least some form of description for the baffled reactor"
-    },
-    {
-      "qid": 30,
-      "question": "Does it mention and provide at least some form of description for the filter/fixed bed reactor (a reactor with a settled biofilm)"
-    },
-    {
-      "qid": 31,
-      "question": "Does it mention and provide at least some form of description for the fluidized bed reactor (similar to filter/fixed bed with biofilm except that the support media is in suspension)"
-    },
-    {
-      "qid": 32,
-      "question": "Does the article mention reactors that are derivatives of biofilm reactors (such as filter/fixed bed or fluidized bed but excluding these ones specifically)"
-    },
-    {
-      "qid": 33,
-      "question": "Does it mention and provide at least some form of description for membrane technology for anaerobic digestion reactor"
-    },
-    {
-      "qid": 34,
-      "question": "does the article mention hybrid reactor, if it does mention this, does it in the idea of reactor combination(such as UASB with fixed bed) rather than multistage"
-    },
-    {
-      "qid": 35,
-      "question": "Does it mention and provide at least some form of description for multistage reactor, for either the concept of adding stages or where it gives examples of multistage reactors(for example leach bed reactor in combination with high rate reactor such as UASB, or multiple CSTR in series), care needs to be put into consideration in reading the text appropriately for this question, as certain researcher might call their reactor hybrid even though it is only reactors put into series."
-    },
-    {
-      "qid": 36,
-      "question": "Does it mention and provide at least some form of description for small scale reactors, here defined as low tech reactors with no heating or mixing, such as fixed dome, floating drum or tubular reactors (usually made out of plastic, the text needs to make it clear that it is such a low tech reactor)"
-    },
-    {
-      "qid": 37,
-      "question": "Does it mention and provide at least some form of description for the lagoon reactor"
-    },
-    {
-      "qid": 38,
-      "question": "Does the article explicitly describe the use of any anaerobic digester reactor type not listed here: (batch, SBR, CSTR, Leach Bed, plug flow, anaerobic contact, UASB, EGSB, UASB derivatives, baffled, filter/fixed bed, fluidized bed, biofilm derivatives, membrane, hybrid, multistage, small-scale, lagoon, rotating disk/contactor, gradual concentric chambers, tower, loop, hydraulic flush, bionic, labyrinth flow, self-flotation), where the text clearly explains the specific reactor design and its operation anywhere in the main text?"
-    },
-    {
-      "qid": 39,
-      "question": "Does the article mentions and provide at least some form of description for rotating disk or rotating contactor reactor, it can be broadly defined as a reactor in which one or more disks rotate within the reactor volume to promote attached and suspended biomass growth through periodic contact with the substrate"
-    },
-    {
-      "qid": 40,
-      "question": "Does it mention and provide at least some form of description for the gradual concentric chambers reactor,  defined as a reactor composed of concentric zones or chambers enabling sequential anaerobic (and potentially aerobic) treatment within a single structure"
-    },
-    {
-      "qid": 41,
-      "question": "Does the text explicitly describe a tower reactor as a vertical, modular reactor where biogas-induced circulation or gas-lift effects promote mixing and biomass suspension, including tower or multiplate configurations?"
-    },
-    {
-      "qid": 42,
-      "question": "Does it mention and provide at least some form of description for the loop reactor, defined as a reactor incorporating a physical loop that recirculates the substrate through the system, typically driven by biogas lift or mechanical means to enhance mixing and mass transfer"
-    },
-    {
-      "qid": 44,
-      "question": "Does it mention and provide at least some form of description for the hydraulic flush reactor, defined as a semi-continuous mixed reactor in which a portion of the digestate is periodically removed, phase-separated, and partially returned to the reactor to reduce inhibition effects and control process conditions"
-    },
-    {
-      "qid": 45,
-      "question": "Does it mention and provide at least some form of description for the concept of a bionic reactor, defined as a reactor or process design inspired by biological digestion systems, such as animal gastrointestinal tracts, potentially involving multi-stage configurations or bioaugmentation strategies"
-    },
-    {
-      "qid": 46,
-      "question": "Does it mention and provide at least some form of description for labyrinth flow reactor, it is generally defined as a compartmentalized reactor with a complex up- and down-flow path designed to separate or control acidogenic and methanogenic phases, similar in operation to a baffled reactor"
-    },
-    {
-      "qid": 47,
-      "question": "Does it mention and provide at least some form of description for the self-flotation reactor, defined as an upflow reactor in which biogas bubbles are intentionally used to attach to and float suspended solids for separation or retention within the system"
-    },
-    {
-      "qid": 48,
-      "question": "Does it, in that context, explicitly describe the use of the digestate as a fertilizer for crop growth"
-    },
-    {
-      "qid": 49,
-      "question": "Does it, in that context, explicitly describe the use of the biogas directly as an energy source, this means research around biogas performance/advantages/disadvantages for electricity, cooking,..."
-    },
-    {
-      "qid": 50,
-      "question": "Does it, in that context, explicitly discuss the biogas adoption subject around social issues"
-    },
-    {
-      "qid": 51,
-      "question": "Does it, in that context, explicitly discuss the biogas adoption subject around economical issues"
-    },
-    {
-      "qid": 52,
-      "question": "Does it, in that context, explicitly discuss the biomass potential of a substrate or a geographic area"
-    },
-    {
-      "qid": 53,
-      "question": "Does it, in that context, explicitly describe the enhancement of digestate qualities as a fertilizer through nutrient addition, ignore nutrient addition during pretreatment to enhance the digestion process"
-    },
-    {
-      "qid": 54,
-      "question": "Does it, in that context, explicitly describe the enhancement of digestate as a fertilizer through drying"
-    },
-    {
-      "qid": 55,
-      "question": "Does it, in that context, explicitly describe the reduction or elimination of pathogens or more generally decontamination?"
-    },
-    {
-      "qid": 56,
-      "question": "does this review discusses the impact of the biogas sector on greenhouse gas ?"
-    },
-    {
-      "qid": 57,
-      "question": "Does the review discuss the application of phosphogypsum in the field of anaerobic digestion?"
-    },
-    {
-      "qid": 58,
-      "question": "Does the review discuss the concept of circular economy linked to biogas technology?"
+      "type": "other",
+      "Additional_info": "",
+      "questions": [
+        {
+          "qid": 1,
+          "question": "Does this review explicitly reference and provide at least some form of description or example (e.g., grinding, milling, extrusion, shearing, chopping,...) of technologies for mechanical pretreatment  in the context of anaerobic digestion"
+        },
+        {
+          "qid": 2,
+          "question": "Does this review explicitly reference and provide at least some form of description or example (e.g., microwave, hydrothermal treatment, steam explosion, autoclave) of technologies for thermal pretreatment  in the context of anaerobic digestion. Note temperature of the digestion is not a pretreatment"
+        },
+        {
+          "qid": 3,
+          "question": "Does this review explicitly reference and provide at least some form of description for ultrasound pretreatment, the literature sometimes uses synonyms such as sonication, ultrasonic,..."
+        },
+        {
+          "qid": 4,
+          "question": "Does this review explicitly mention and provide at least some form of description or example (e.g., high-pressure homogenisation, pressure shock treatment, hydrodynamic cavitation, mechanical jet,...) of technologies for pressure-based pretreatment,  ignore methods where pressure is only indirectly applied(e.g. due to enclosed heating such as autoclave)"
+        },
+        {
+          "qid": 5,
+          "question": "Does this review explicitly reference and provide at least some form of description or example of technologies for pulsed electric field or other electrical pretreatment techniques applied to a substrate to disrupt material and increase availability"
+        },
+        {
+          "qid": 6,
+          "question": "Does this review explicitly reference and provide at least some form of description or example of technologies (e.g., NaOH, KOH,...) for alkaline pretreatment in the context of anaerobic digestion"
+        },
+        {
+          "qid": 7,
+          "question": "Does this review explicitly reference and provide at least some form of description or example of technologies (Formic acid,H2SO4,...) for acidic pretreatment in the context of anaerobic digestion"
+        },
+        {
+          "qid": 8,
+          "question": "Does this review explicitly reference and provide at least some form of description or example of technologies (e.g., traditional oxidizers such as H₂O₂, or advanced oxidation processes such as oxidizers combined with UV, Fenton reactions, or TiO₂) for oxidative pretreatment in the context of anaerobic digestion"
+        },
+        {
+          "qid": 9,
+          "question": "Does this review explicitly reference and provide at least some form of description or example of technologies (organosolv, ioniq liquid,...) for solvent-based pretreatment"
+        },
+        {
+          "qid": 10,
+          "question": "Can you find reference to other chemical pretreatment, such as (surfactant, solubilizer, salts,...), not including these 4 techniques (alkaline, acidic, oxidation and solvent), where chemical pretreatment signifies the degradation of complex material to improve bioavailability"
+        },
+        {
+          "qid": 11,
+          "question": "Does this review explicitly reference and provide at least some form of description or example of technologies (enzyme name for eaxmple, this also includes crude enzyme treatments) for enzyme-based pretreatment "
+        },
+        {
+          "qid": 12,
+          "question": "Does this review explicitly reference and provide at least some form of description or example of technologies( species names for example) for the direct use of fungi as a biological pretreatment"
+        },
+        {
+          "qid": 13,
+          "question": "Does this review explicitly reference and provide at least some form of description or example of technologies (e.g., this can be a bacterial treatment but also microbial consortium) for microbial-based pretreatment  (note: enzymes extracted from a microorganism as well as the use of substrate rich in microorganisms should be excluded)"
+        },
+        {
+          "qid": 14,
+          "question": "Does this review explicitly reference and provide at least some form of description or example of technologies (e.g, this can be through the reuse of digestate, adding compost, rumen, or activated sludge,...) for biologically active substrate for pretreatment, "
+        },
+        {
+          "qid": 15,
+          "question": "Does this review explicitly mentions and provide at least some form of explanations such as examples or mechanism for nanoparticles as a method to improve the digestion process, such as increasing methane production, acting as micronutrient supplements, or aiding in cell wall destruction, for example"
+        },
+        {
+          "qid": 16,
+          "question": "Does the article describe the use of disinhibiting treatments (e.g., coagulants, biochar, ammonia stripping) applied to the substrate or reactor before or during digestion to improve microbial activity or methane production"
+        },
+        {
+          "qid": 17,
+          "question": "Does the article describe the use of chelating agents added to the substrate or reactor before or during digestion to enhance microbial activity or substrate degradation"
+        },
+        {
+          "qid": 18,
+          "question": "Does the article describe the addition of nutrients (e.g., nitrogen, phosphorus, micronutrients) to the substrate or reactor before or during digestion to improve microbial activity or methane production during the digestion process"
+        },
+        {
+          "qid": 19,
+          "question": "Does the article describe additional treatments applied to the substrate or reactor before or during digestion to optimize the digestion process, (considering treatments that do not have as goal the improvement of bioavailability of material like you would have with physical, chemical, or biological treatment), treatments such as nutrient addition, disinhibition with: coagulants, biochar, ammonia stripping,..., chelating agent or the use of nanoparticles but excluding these ones other similar treatments, it can be simple things such as washing in algae to remove salt for example"
+        },
+        {
+          "qid": 20,
+          "question": "Does it mention and provide at least some form of description for the batch reactor"
+        },
+        {
+          "qid": 21,
+          "question": "Does it mention and provide at least some form of description for the SBR (sequencing batch reactor) reactor"
+        },
+        {
+          "qid": 22,
+          "question": "Does it mention and provide at least some form of description for the CSTR reactor"
+        },
+        {
+          "qid": 23,
+          "question": "Does it mention and provide at least some form of description for the Leach Bed reactor"
+        },
+        {
+          "qid": 24,
+          "question": "Does it mention and provide at least some form of description for the plug flow reactor"
+        },
+        {
+          "qid": 25,
+          "question": "Does it mention and provide at least some form of description for the Anaerobic Contact reactor (known as a combination of a CSTR with a sedimentation tank)"
+        },
+        {
+          "qid": 26,
+          "question": "Does it mention and provide at least some form of description for the UASB reactor"
+        },
+        {
+          "qid": 27,
+          "question": "Does it mention and provide at least some form of description for then EGSB reactor"
+        },
+        {
+          "qid": 28,
+          "question": "Does it mention the UASB derivate reactor (excluding EGSB), this infers a sludge blanket reactor such as IC reactor (internal circulation), induced bed, upflow solid reactor,..."
+        },
+        {
+          "qid": 29,
+          "question": "Does it mention and provide at least some form of description for the baffled reactor"
+        },
+        {
+          "qid": 30,
+          "question": "Does it mention and provide at least some form of description for the filter/fixed bed reactor (a reactor with a settled biofilm)"
+        },
+        {
+          "qid": 31,
+          "question": "Does it mention and provide at least some form of description for the fluidized bed reactor (similar to filter/fixed bed with biofilm except that the support media is in suspension)"
+        },
+        {
+          "qid": 32,
+          "question": "Does the article mention reactors that are derivatives of biofilm reactors (such as filter/fixed bed or fluidized bed but excluding these ones specifically)"
+        },
+        {
+          "qid": 33,
+          "question": "Does it mention and provide at least some form of description for membrane technology for anaerobic digestion reactor"
+        },
+        {
+          "qid": 34,
+          "question": "does the article mention hybrid reactor, if it does mention this, does it in the idea of reactor combination(such as UASB with fixed bed) rather than multistage"
+        },
+        {
+          "qid": 35,
+          "question": "Does it mention and provide at least some form of description for multistage reactor, for either the concept of adding stages or where it gives examples of multistage reactors(for example leach bed reactor in combination with high rate reactor such as UASB, or multiple CSTR in series), care needs to be put into consideration in reading the text appropriately for this question, as certain researcher might call their reactor hybrid even though it is only reactors put into series."
+        },
+        {
+          "qid": 36,
+          "question": "Does it mention and provide at least some form of description for small scale reactors, here defined as low tech reactors with no heating or mixing, such as fixed dome, floating drum or tubular reactors (usually made out of plastic, the text needs to make it clear that it is such a low tech reactor)"
+        },
+        {
+          "qid": 37,
+          "question": "Does it mention and provide at least some form of description for the lagoon reactor"
+        },
+        {
+          "qid": 38,
+          "question": "Does the article explicitly describe the use of any anaerobic digester reactor type not listed here: (batch, SBR, CSTR, Leach Bed, plug flow, anaerobic contact, UASB, EGSB, UASB derivatives, baffled, filter/fixed bed, fluidized bed, biofilm derivatives, membrane, hybrid, multistage, small-scale, lagoon, rotating disk/contactor, gradual concentric chambers, tower, loop, hydraulic flush, bionic, labyrinth flow, self-flotation), where the text clearly explains the specific reactor design and its operation anywhere in the main text?"
+        },
+        {
+          "qid": 39,
+          "question": "Does the article mentions and provide at least some form of description for rotating disk or rotating contactor reactor, it can be broadly defined as a reactor in which one or more disks rotate within the reactor volume to promote attached and suspended biomass growth through periodic contact with the substrate"
+        },
+        {
+          "qid": 40,
+          "question": "Does it mention and provide at least some form of description for the gradual concentric chambers reactor,  defined as a reactor composed of concentric zones or chambers enabling sequential anaerobic (and potentially aerobic) treatment within a single structure"
+        },
+        {
+          "qid": 41,
+          "question": "Does the text explicitly describe a tower reactor as a vertical, modular reactor where biogas-induced circulation or gas-lift effects promote mixing and biomass suspension, including tower or multiplate configurations?"
+        },
+        {
+          "qid": 42,
+          "question": "Does it mention and provide at least some form of description for the loop reactor, defined as a reactor incorporating a physical loop that recirculates the substrate through the system, typically driven by biogas lift or mechanical means to enhance mixing and mass transfer"
+        },
+        {
+          "qid": 44,
+          "question": "Does it mention and provide at least some form of description for the hydraulic flush reactor, defined as a semi-continuous mixed reactor in which a portion of the digestate is periodically removed, phase-separated, and partially returned to the reactor to reduce inhibition effects and control process conditions"
+        },
+        {
+          "qid": 45,
+          "question": "Does it mention and provide at least some form of description for the concept of a bionic reactor, defined as a reactor or process design inspired by biological digestion systems, such as animal gastrointestinal tracts, potentially involving multi-stage configurations or bioaugmentation strategies"
+        },
+        {
+          "qid": 46,
+          "question": "Does it mention and provide at least some form of description for labyrinth flow reactor, it is generally defined as a compartmentalized reactor with a complex up- and down-flow path designed to separate or control acidogenic and methanogenic phases, similar in operation to a baffled reactor"
+        },
+        {
+          "qid": 47,
+          "question": "Does it mention and provide at least some form of description for the self-flotation reactor, defined as an upflow reactor in which biogas bubbles are intentionally used to attach to and float suspended solids for separation or retention within the system"
+        },
+        {
+          "qid": 48,
+          "question": "Does it, in that context, explicitly describe the use of the digestate as a fertilizer for crop growth"
+        },
+        {
+          "qid": 49,
+          "question": "Does it, in that context, explicitly describe the use of the biogas directly as an energy source, this means research around biogas performance/advantages/disadvantages for electricity, cooking,..."
+        },
+        {
+          "qid": 50,
+          "question": "Does it, in that context, explicitly discuss the biogas adoption subject around social issues"
+        },
+        {
+          "qid": 51,
+          "question": "Does it, in that context, explicitly discuss the biogas adoption subject around economical issues"
+        },
+        {
+          "qid": 52,
+          "question": "Does it, in that context, explicitly discuss the biomass potential of a substrate or a geographic area"
+        },
+        {
+          "qid": 53,
+          "question": "Does it, in that context, explicitly describe the enhancement of digestate qualities as a fertilizer through nutrient addition, ignore nutrient addition during pretreatment to enhance the digestion process"
+        },
+        {
+          "qid": 54,
+          "question": "Does it, in that context, explicitly describe the enhancement of digestate as a fertilizer through drying"
+        },
+        {
+          "qid": 55,
+          "question": "Does it, in that context, explicitly describe the reduction or elimination of pathogens or more generally decontamination?"
+        },
+        {
+          "qid": 56,
+          "question": "does this review discusses the impact of the biogas sector on greenhouse gas ?"
+        },
+        {
+          "qid": 57,
+          "question": "Does the review discuss the application of phosphogypsum in the field of anaerobic digestion?"
+        },
+        {
+          "qid": 58,
+          "question": "Does the review discuss the concept of circular economy linked to biogas technology?"
+        }
+      ]
     }
-
   ]
 }

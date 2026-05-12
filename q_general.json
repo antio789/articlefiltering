@@ -1,12 +1,18 @@
 {
   "questions": [
     {
-      "qid": "G1",
-      "question": "Is this article subject related to biogas technology? true/false"
-    },
-    {
-      "qid": "G2",
-      "question": "Is this article classified as a review article (including systematic reviews, scoping reviews, state-of-the-art reviews, etc.) compared to a research article (presenting original data, experiments, or novel concepts)?"
+      "type": "other",
+      "Additional_info": "",
+      "questions": [
+        {
+          "qid": "G1",
+          "question": "Is this article subject related to biogas technology? true/false"
+        },
+        {
+          "qid": "G2",
+          "question": "Is this article classified as a review article (including systematic reviews, scoping reviews, state-of-the-art reviews, etc.) and NOT a research article (presenting original data, experiments, or novel concepts)?"
+        }
+      ]
     }
   ]
 }

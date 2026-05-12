@@ -1,17 +1,9 @@
-Read the whole article then answer the question according to these requirements:
-Consider expert knowledge in anaerobic digestion to screen the scientific article for the presence of specific technologies and treatments related to biogas and anaerobic digestion.
-You have to filter articles based on a binary(yes or no) question, this will then be used further to classify articles.
-Therefore, you need to answer the following question with objectivity and rigour, the precision is much more important than efficiency, use as much time and resources as necessary.
-For other requirements: avoid over-interpretation and inferred reasoning, this would be counterproductive to the goal. For example: if the article is about "to improve digestion" do not assume the answer can be true because it would also affect post digestion. This hurts the accuracy of the classification.
-Do not ignore parts of the questions.
-The article is about anaerobic digestion, your goal as stated is to answer the question based on the articles purpose, therefore, you can only use the methodology, ignore the rest (abstract, introduction, discussion, results, conclusion,references,...)
+Read only the methodology part of the article.
+Answer the stated question, in the context of anaerobic digestion with objectivity and no inference and by respecting the following format for your answer:
 
-To answer the question:
-1.respect the following format, this will allow for machine processing processing to split your response in the reasoning for logging and the answer for further filtering, please write these 3 outputs consequently: 1.reasoning, 2. the separator write only the following: ### and 3. answer that should be only true or false:
-Reasoning:text
+Reasoning: [Restate the question, discuss it from the methodology to reach a conclusion]
 ###
-final answer:true/false
-2.How to proceed: For the reasoning, answer the question then discuss your question if its correct or not, afterwards write separator and give a final answer that should be only true or false and nothing else. Please, Keep strictly to this format; no multiple ### are allowed, or answers that deviate from a simple boolean.
+[true or false]
 
 
 

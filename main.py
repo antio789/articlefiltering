@@ -28,7 +28,7 @@ def read_pdf(path):
 # gemma 3, fastest can go up to 128k, 86k to leave space to increase output size  - gemmatest86k
 # qwen3.5, reasoning model, but at a slower speed and smaller context, requires analysis with larger vram and faster GPU
 def llm_prompt(string):
-    response = generate(model='gemmatest86k', prompt=string, options={'temperature':0,'num_predict':12000,'seed':15})
+    response = generate(model='gemmatest86k', prompt=string, options={'temperature':0.1,'num_predict':12000,'seed':15})
     time = int(int(response['total_duration'])/1000000000)
     logger.info(f'{time} seconds of runtime')
     return response['response']
@@ -71,25 +71,26 @@ def classify_article(text):
 
 def process_questions(questionnaire, text, prompt):
     results = []
-    for q in questionnaire:
-        logger.info(q.get("qid"))
-        prompt_question = "Article to read:\n" + text + "\nquestion:\n" + q.get("question") + ' \n' + prompt
-        output = llm_prompt(prompt_question)
-        logger.info(output)
-        try:
-            reasoning, answer = output.split("###")
+    for section in questionnaire:
+        for q in section.get("questions"):
+            logger.info(q.get("qid"))
+            prompt_question = "Article to read:\n" + text + "\nquestion:\n" +section.get("Additional_info")+"\n"+ q.get("question") + ' \n' + prompt
+            output = llm_prompt(prompt_question)
+            logger.info(output)
+            try:
+                reasoning, answer = output.split("###")
 
-        except ValueError as e:
-            logger.warning(f'failed at splitting: f{e}, moving to next question')
-            reasoning = output
-            answer = "error"
+            except ValueError as e:
+                logger.warning(f'failed at splitting: f{e}, moving to next question')
+                reasoning = output
+                answer = "error"
 
-        results.append({
-            "qid": q.get("qid"),
-            "question": q.get("question"),
-            "reasoning": reasoning.strip(),
-            "answer": answer.strip()
-        })
+            results.append({
+                "qid": q.get("qid"),
+                "question": q.get("question"),
+                "reasoning": reasoning.strip(),
+                "answer": answer.strip()
+            })
     return results
 
 'num_predict allows for changing output context length, need specific model, qwen currently best option but not sufficiently precise'
@@ -119,38 +120,51 @@ def clean_article(text):
 def run_filtering():
     logger.info('start')
     for art in articles_list:
-        logger.info(art)
-        article_text = read_pdf(art)
-        filtered = classify_article(article_text)
-        tempname = str(art).replace(".pdf", "")
-        tempname = tempname.replace("articles/", "")
-        name= 'article_'+tempname+'.json'
-        filtered.append({
-            "article_path": art
-        })
-        jsonfile={
-            "filters": filtered,
-            "article_path": art
-        }
-        with open(name, 'w') as f:
-            json.dump(jsonfile, f, indent=2 )
+        run_article(art)
     logger.info('end')
+
+def run_article(path):
+    logger.info(path)
+    article_text = read_pdf(path)
+    filtered = classify_article(article_text)
+    tempname = str(path).replace(".pdf", "")
+    tempname = tempname.replace("articles/", "")
+    name = 'article_' + tempname + '.json'
+    filtered.append({
+        "article_path": path
+    })
+    jsonfile = {
+        "filters": filtered,
+        "article_path": path
+    }
+    with open(name, 'w') as f:
+        json.dump(jsonfile, f, indent=2)
+
 
 def run_oneQ(questionid, text):
     qid= questionid - 1
     if qid==43:
         print("note id 43 is not present")
         return
-    if questionid>len(review_questions)+1:
+    if questionid>58:
         print("outside scope")
         return
     if qid>43: qid=qid-1
+    questiontext =""
+    for section in review_questions:
+        for q in section.get("questions"):
+            if q.get("qid") == qid:
+                questiontext = q.get("question")
+                break
+        if questiontext != "":
+            break
+
     logger.info(review_questions[qid].get("qid"))
     prompt_question = "Article to read:\n" + text + "\nquestion:\n" + review_questions[qid].get("question") + ' \n' + review_prompt
     output = llm_prompt(prompt_question)
     logger.info(output)
 
-def run_article(id):
+def run_reviewquestions(id):
     text = read_pdf(articles_list[aID])
     logger.info(text)
     for question in range(1, 59):
@@ -160,7 +174,7 @@ logging.basicConfig(format='%(asctime)s %(message)s',level=logging.INFO, handler
 #run_filtering()
 for i in articles_list:
     print(i)
-aID=10
+aID=0
 arttext=read_pdf(articles_list[aID])
-for i in range(48,58):
-    run_oneQ(i,arttext)
+print(arttext)
+run_article(articles_list[aID])

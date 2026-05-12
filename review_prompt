@@ -1,19 +1,9 @@
-Read the whole review article then answer the question according to these requirements:
-Consider expert knowledge in anaerobic digestion to screen the scientific review for the presence of specific technologies and treatments related to biogas and anaerobic digestion.
-You have to filter articles based on a binary(yes or no) question, this will then be used further to classify articles.
-Therefore, you need to answer the following question with objectivity and rigour, the precision is much more important than efficiency, use as much time and resources as necessary.
-For other requirements: avoid over-interpretation and inferred reasoning, this would be counterproductive to the goal. For example: if the article is about "to improve digestion" do not assume the answer can be true because it would also affect post digestion. This hurts the accuracy of the classification.
-Do not ignore parts of the questions, and pay attention in the text to potential synonyms as the reference used in the question might be different(ex sonication, ultrasound,...)
-The review article is about anaerobic digestion, you must ignore abstract, introduction, conclusion and references, as they provide outside information that will poison the answer, but the rest of the text should be used and everything should be kept in mind.
-You should ignore information not related to anaerobic digestion, as some reviews might discuss similar elements but in other context and it is thus important to avoid including them in the questions as they exclusively look at filtering articles based on anaerobic digestion
-Remember to use context for the answer as in a review the link might not be always directly stated (ex:when discussing pretreatments, the text might not directly reference its use on a substrate). No complex overinterpretation are needed, keep to the words of the questions.
-
-To answer the question:
-1.respect the following format, this will allow for machine processing processing to split your response in the reasoning for logging and the answer for further filtering, please write these 3 outputs consequently: 1.reasoning, 2. the separator write only the following: ### and 3. answer that should be only true or false:
-Reasoning:text
+Read the main text of the article (you must ignore abstract, introduction, conclusion, references).
+Answer the stated question, in the context of anaerobic digestion with objectivity and no inference and by respecting the following format for your answer:
+Format your answer as:
+Reasoning: [Restate the question, discuss its presence in the text]
 ###
-final answer:true or false
-2.How to proceed: For the reasoning, restate the ENTIRE question, discus if its correct or not, by going through the entire usable text,not including what you should ignore, make sure to answer all parts of the question and pay attention as the reference in the text might be in details and require the context of the paragraph. Your discussion should stay simple and short by focus on the presence in the text, there no need for complex interpretations. afterwards write separator and give a final answer. Keep strictly to this format no multiple ### are allowed, and answer must be true or false, and ONLY one of those two words.  "true or false", "true/false" are invalid answers.
+[true or false]
 
 
 

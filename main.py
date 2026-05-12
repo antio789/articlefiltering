@@ -136,28 +136,31 @@ def run_filtering():
             json.dump(jsonfile, f, indent=2 )
     logger.info('end')
 
-def run_oneQ(id, text):
-    qid=id-1
+def run_oneQ(questionid, text):
+    qid= questionid - 1
     if qid==43:
         print("note id 43 is not present")
         return
-    if id>len(review_questions)+1:
+    if questionid>len(review_questions)+1:
         print("outside scope")
         return
     if qid>43: qid=qid-1
-    print(review_questions[qid].get("qid"))
+    logger.info(review_questions[qid].get("qid"))
     prompt_question = "Article to read:\n" + text + "\nquestion:\n" + review_questions[qid].get("question") + ' \n' + review_prompt
     output = llm_prompt(prompt_question)
-    print(output)
+    logger.info(output)
 
 def run_article(id):
-    for i in range(1,59):
-        run_oneQ(i,read_pdf(articles_list[aID]))
+    text = read_pdf(articles_list[aID])
+    logger.info(text)
+    for question in range(1, 59):
+        run_oneQ(question, text)
 
 logging.basicConfig(format='%(asctime)s %(message)s',level=logging.INFO, handlers=[logging.FileHandler(f"logs{datetime.now().strftime('%d_%H-%M')}.log"), logging.StreamHandler()])
 #run_filtering()
 for i in articles_list:
     print(i)
-aID=5
-print(articles_list[aID])
-
+aID=10
+arttext=read_pdf(articles_list[aID])
+for i in range(48,58):
+    run_oneQ(i,arttext)

@@ -141,6 +141,7 @@ def run_article(path):
         json.dump(jsonfile, f, indent=2)
 
 
+
 def run_oneQ(questionid, text):
     qid= questionid - 1
     if qid==43:
@@ -169,6 +170,8 @@ def run_reviewquestions(id):
     logger.info(text)
     for question in range(1, 59):
         run_oneQ(question, text)
+
+
 
 logging.basicConfig(format='%(asctime)s %(message)s',level=logging.INFO, handlers=[logging.FileHandler(f"logs{datetime.now().strftime('%d_%H-%M')}.log"), logging.StreamHandler()])
 #run_filtering()

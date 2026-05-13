@@ -63,7 +63,7 @@
       ]
     },
     {
-      "type": "other",
+      "type": "improvements",
       "Additional_info": "",
       "questions": [
         {
@@ -81,11 +81,13 @@
         {
           "qid": 18,
           "question": "Does the article describe the addition of nutrients (e.g., nitrogen, phosphorus, micronutrients) to the substrate or reactor before or during digestion to improve microbial activity or methane production during the digestion process"
-        },
-        {
-          "qid": 19,
-          "question": "Does the article describe additional treatments applied to the substrate or reactor before or during digestion to optimize the digestion process, (considering treatments that do not have as goal the improvement of bioavailability of material like you would have with physical, chemical, or biological treatment), treatments such as nutrient addition, disinhibition with: coagulants, biochar, ammonia stripping,..., chelating agent or the use of nanoparticles but excluding these ones other similar treatments, it can be simple things such as washing in algae to remove salt for example"
-        },
+        }
+      ]
+    },
+    {
+      "type": "reactor",
+      "Additional_info": "",
+      "questions": [
         {
           "qid": 20,
           "question": "Does it, in that context, explicitly describe the use of a batch reactor as an anaerobic digester"
@@ -193,6 +195,16 @@
         {
           "qid": 47,
           "question": "Does it, in that context, explicitly describe the use of a self-flotation reactor as an anaerobic digester, defined as an upflow reactor in which biogas bubbles are intentionally used to attach to and float suspended solids for separation or retention within the system"
+        }
+      ]
+    },
+    {
+      "type": "other",
+      "Additional_info": "",
+      "questions": [
+        {
+          "qid": 19,
+          "question": "Does the article describe additional treatments applied to the substrate or reactor before or during digestion to optimize the digestion process, (considering treatments that do not have as goal the improvement of bioavailability of material like you would have with physical, chemical, or biological treatment), treatments such as nutrient addition, disinhibition with: coagulants, biochar, ammonia stripping,..., chelating agent or the use of nanoparticles but excluding these ones other similar treatments, it can be simple things such as washing in algae to remove salt for example"
         },
         {
           "qid": 48,

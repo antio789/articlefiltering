@@ -42,13 +42,13 @@ def llm_prompt(string):
 
 
 '''INITIALIZING CONTENT'''
-general_prompt = read_file("general_prompt")
-article_prompt = read_file("article_prompt")
-review_prompt = read_file("review_prompt")
+general_prompt = read_file("prompts/general_prompt")
+article_prompt = read_file("prompts/article_prompt")
+review_prompt = read_file("prompts/review_prompt")
 
-general_questions = read_json('q_general.json')
-review_questions = read_json('q_reviews.json')
-article_questions = read_json('q_articles.json')
+general_questions = read_json('prompts/q_general.json')
+review_questions = read_json('prompts/q_reviews.json')
+article_questions = read_json('prompts/q_articles.json')
 
 articles_list = glob.glob("pretreatmentarticles/*.pdf")
 
@@ -112,4 +112,5 @@ def run_pretreatment():
     logger.info('end')
 
 logging.basicConfig(format='%(asctime)s %(message)s',level=logging.INFO, handlers=[logging.FileHandler(f"logs{datetime.now().strftime('%d_%H-%M')}.log"), logging.StreamHandler()])
-run_pretreatment()
+#run_pretreatment()
+print(read_pdf("pretreatmentarticles/752.pdf"))

@@ -39,15 +39,15 @@ def count_tokens(text, model="gpt-4"):
     return len(encoder.encode(text))
 
 '''INITIALIZING CONTENT'''
-general_prompt = read_file("general_prompt")
-article_prompt = read_file("article_prompt")
-review_prompt = read_file("review_prompt")
+general_prompt = read_file("prompts/general_prompt")
+article_prompt = read_file("prompts/article_prompt")
+review_prompt = read_file("prompts/review_prompt")
 
-general_questions = read_json('q_general.json')
-review_questions = read_json('q_reviews.json')
-article_questions = read_json('q_articles.json')
+general_questions = read_json('prompts/q_general.json')
+review_questions = read_json('prompts/q_reviews.json')
+article_questions = read_json('prompts/q_articles.json')
 
-articles_list = glob.glob("articles/*.pdf")
+articles_list = glob.glob("BRT_articles/*.pdf")
 
 #article_text = read_pdf(articles_list[0])
 

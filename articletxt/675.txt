@@ -1,0 +1,150 @@
+TITLE: Improving the methane production from zucchini stem by response surface methodology and different pretreatments
+
+
+1 Introduction
+
+Zucchini (Cucurbita pepo L.) is one of the most popular vegetables widely cultivated in China (Peng et al., 2019). The annual production of zucchini is up to 8.0 million tons (TRIDGE, 2019) and about 2.4 million tons of zucchini stem (ZS) are discarded after harvesting of zucchini (Ravi et al., 2018). Owing to high moisture and organic matter contents, poor management of ZS not only causes serious environmental issues such as foul smell and leachate pollution but also leads to a tremendous waste of natural resource (Reinoso Moreno et al., 2019; Shen et al., 2013).
+
+Anaerobic digestion (AD) is one of the most widely applied technologies for converting different organic matters and biomass wastes to bio-methane as a clean energy with limited environmental influences (Akyol et al., 2019; Rocha-Meneses et al., 2019). In recent years, with rapid progress of biogas industry in China, large numbers of medium and large-scale biogas plants have been set up (Zhao et al., 2017), however, traditional AD feedstocks are not stable and sustainable due to the seasonal cultivation. Hence, it is curial to discover new source of substrates with good AD performance to solve the shortage of AD feedstock supply. ZS contains organic matter and high moisture content, so that it is possible to be utilized in AD process. Moreover, zucchini is usually cultivated in greenhouse (especially in China) throughout the whole year, which makes ZS have the potential to be applied as a continuous feedstock for AD plants. So far, no literature about utilizing ZS for AD has been reported yet, therefore, it is necessary to investigate the AD performance of ZS as a novel feedstock.
+
+AD efficiency is affected by several factors, including organic loading (OL) and feed to inoculum ratio (F/I ratio) (Cremonez et al., 2019; Haider et al., 2015). Improper OL and F/I ratio affect activity of microorganism, start-up time of AD process, and stability of the AD system (Polizzi et al., 2018). Previous literatures reported that different feedstocks have different optimal OL and F/I ratio. For example, the optimal OL and F/I ratio of durian shell, vinegar residue, and cotton stalk, were in a wide range of 20–32 g_VS∙L^−1 and 0.2–0.8, respectively (Feng et al., 2017; Zhang et al., 2018; Zhao et al., 2017). Nevertheless, the proper OL and F/I ratio of ZS have not been reported yet. Thus, determining optimal OL and F/I ratio is significant to explore the methane production performance of ZS. On the other hand, the recalcitrance of lignocellulosic biomass normally restricts hydrolysis rate during the AD process and leads to a low methane yield performance (Lima et al., 2018; Patowary and Baruah, 2018). Different pretreatment techniques, including chemical pretreatment, physical pretreatment, and biological pretreatment, have been investigated in previous researches of lignocellulosic biomass for disrupting complicated structure and enhancing AD performance (Kleingesinds et al., 2018; Tang et al., 2017). As a lignocellulosic biomass, pretreatment may also be useful for ZS to further improve its methane production efficiency. So far, there is no literature regarding the effects of different pretreatments on ZS for AD. In this study, optimal OL and F/I ratio of ZS were explored by response surface methodology (RSM), which is a mathematical and statistical method widely applied for optimizing variables and obtaining desirable response value (Arami-Niya et al., 2012; Berhanu et al., 2018). Then six pretreatments, including KOH, Ca(OH)_2, NaOH, alkaline hydrogen peroxide (AHP), HCl, and microwave (MW) pretreatment, were performed on ZS.
+
+The aims of this study were to: (1) investigate the methane production performance of ZS as a novel AD feedstock, (2) enhance the methane yield by optimizing AD condition via RSM, and (3) maximize the conversion efficiency of ZS for methane production by applying different pretreatments.
+
+
+2 Materials and methods
+
+
+2.1 Substrate and inoculum
+
+ZS was gathered from a farm in Shandong province, China. It was shredded into particles about 3−5 mm and then stored in a refrigerator under −18 °C for retaining freshness before AD. The inoculum was the anaerobic sludge obtained from Donghuashan Biogas Plant in Beijing and was kept in plastic bucket for two weeks under room temperature for minimizing the background gas production. And then, the supernatant was removed and the precipitate was used in the AD test.
+
+
+2.2 Pretreatment methods
+
+The selected pretreatment solutions for this study were KOH, Ca(OH)_2, NaOH, AHP, and HCl with concentrations of 1%, 2%, 3%, and 4% (mass fraction), respectively. The pH of AHP was set as 11.5 and was adjusted by NaOH. The pretreatments were carried out under room temperature for 24 h by mixing the ZS and solutions to the moisture content (MC) of 95% calculated from Eq. 1 (Li et al., 2015). FORMULA: M C = ( 1 - T o t a l s o l i d w e i g h t o f Z S T o t a l w e i g h t o f Z S + S o l u t i o n w e i g h t ) × 100%
+
+For MW pretreatment, ZS was microwaved at 300 w, 500 w, and 700 w, respectively, for 10 min under the MC of 95%. The pretreated ZS was finally separated from liquid for the future use.
+
+
+2.3 Experiment design and model analysis of RSM
+
+Central composite design (CCD) of RSM was adopted to design the experiments by the Design-Expert 8.0.6 software. Two factors (OL and F/I ratio) were set at five levels: ± 1, 0, and ± α. The Eq. 2 was used to determine the α value, FORMULA: α = 2 k / 4 where k equals to the number of factors. In this study, the α value was calculated to be 1.414. Based on the comprehensive literature review about the proper OL and F/I ratio of different substrates, the ranges of OL and F/I ratio were chosen as 3–35 g_VS∙L^−1 and 0.5–2, respectively (Feng et al., 2017; Zhang et al., 2018; Zhao et al., 2017). The coded and actual values of OL and F/I ratio at different levels are shown in Table S1 and 13 runs of AD experiments designed by CCD-RSM are shown in Table S2. The cumulative methane yield (CMY) of ZS was set as the response value.
+
+
+2.4 Anaerobic digestion
+
+AD experiment was conducted in triplicate using 500 mL-bottle with a working volume of 250 mL at 37 °C. The substrate and inoculum were added according to the OL and F/I ratio shown in Table S2. The nitrogen was used to create an anaerobic environment and three blank bottles without substrates were tested to remove the influence of background methane yield in inoculum.
+
+
+2.5 Analytical methods
+
+
+2.5.1 Basic characteristics
+
+The total solids (TS) and volatile solids (VS) of ZS were determined according to APHA (2005) standard method (APHA, 2005). The elemental compositions (C, H, N, and S) were determined by an elemental analyzer and used to estimate the oxygen content (C + H + O + N = 99.5%) on the basis of VS (Ning et al., 2018). The cellulose, hemicellulose, and lignin contents of ZS were detected using an ANKOM 2000 fiber analyzer by determining neutral detergent fiber (NDF), acid detergent fiber (ADF), and acid detergent lignin (ADL) (Li et al., 2018b).
+
+
+2.5.2 Methane production
+
+The methane production was calculated based on the biogas production and methane content. The biogas production was calculated using Eq. 3 (Shen et al., 2019), FORMULA: Δ V b i o g a s = Δ P × V h e a d × C R × T where Δ V b i o g a s , Δ P , V h e a d , C , R , and T represent the biogas volume (L), the pressure difference (KPa), the head space of reactor (L), the molar volume (22.41 L∙mol^−1), the universal gas constant (8.314 J∙K^−1∙mol^−1), and the absolute temperature (K), respectively. The headspace pressure of reactor was determined by a 3151 WAL-BMP-Test system pressure gauge (WAL Messund Regelsysteme GmbH, Oldenburg, Lower Saxony, Germany). The methane content of biogas was detected by gas chromatograph (Agilent 7890B, Santa Clara, CA, USA).
+
+
+2.5.3 Structure characteristics
+
+The microscopic surface structure of ZS was observed with scanning electron microscope (SEM, Hitachi S-4700, Japan) at a magnification of 500. Fourier transform infrared spectroscopy (FTIR, Nicolet 6700, USA) was utilized to detect the structural features of raw and pretreated ZS. And X-ray diffraction (XRD) was applied to measure the crystallinity index (CrI) of cellulose in ZS. The Bruker D8-Advance (Germany) was equipped with Cu Kα1 target source at 40 kV and 40 mA. ZS samples were scanned from 5° to 60° with a speed of 10 °/min. The CrI was calculated by Eq. 4 (Li et al., 2015) as follows, FORMULA: C r I ( % ) = [ ( I 002 - I a m o r p h o u s ) ] I 002 ×100% where I_002 is the diffraction intensity at 2θ≈22° (002 lattice plane in cellulose) and I_amorphous is the diffraction intensity at 2θ≈18° (amorphous region in cellulose).
+
+
+2.5.4 Effluent characteristics
+
+The pH value of the AD effluent was detected by an Le438 pH electrode (Mettler Toledo, USA). The total ammonia nitrogen (TAN) was determined according to a Nessler’s reagent spectrophotometry (Xue et al., 2019). The total alkalinity (TA) was detected by the sulfuric acid titrimetric method (Li et al., 2018a).
+
+
+2.6 Theoretical maximum methane yield and biodegradability
+
+The theoretical maximum methane yield (MMY) of the substrate was calculated by Eq. 5 and Eq. 6 according to the elemental compositions of the substrate. The biodegradability (B_d) was used to describe the extent to which the substrate transformed into methane in the AD process, which was calculated by Eq. 7 (Li et al., 2018b). FORMULA: M M Y ( m L C H 4 g v s ) = 22.4 × 1000 × ( 0.5 n + 0.125 a - 0.25 b - 0.375 c ) 12 n + a + 16 b + 14 c × ( 1 - l i g n i n % )
+
+
+2.7 Kinetic model
+
+The modified Gompertz model was employed to simulate the CMY for analyzing the methane production process, represented as Eq. 8 (Ning et al., 2018), FORMULA: B = B 0 ∙ exp { - exp [ μ M ∙ e B 0 ( λ - t ) + 1 ] } where B refers to the simulated cumulative methane yield (mL∙g_VS ^−1), B_0 stands for the simulated maximum cumulative methane yield (mL∙g_VS ^−1), μ M is the maximum methane production rate (mL∙g_VS ^−1∙d^−1), λ represents the lag phase time (d), e is 2.72, and t means the AD time (d).
+
+
+2.8 Statistical analysis
+
+The analysis of variance (ANOVA) was applied to analyze the difference of methane yields from pretreated and raw ZS by IBM SPSS Statistics 19 software.
+
+
+3 Results and discussion
+
+
+3.1 Characteristics of ZS
+
+Characteristics of ZS and inoculum are shown in Table 1 . The TS of ZS was only 7.02%, indicating a high moisture content like other vegetable wastes (Ravi et al., 2018). The VS/TS was up to 82.77%, showing an abundant organic content which might be suitable for AD (Zhao et al., 2017). The cellulose, hemicellulose, and lignin contents of ZS were 28.86%, 12.95%, and 7.91%, respectively. These characteristics made ZS potential to be a feedstock for methane production in AD process. According to its elemental compositions, the chemical formula of ZS was calculated as C_11.3H_17.6O_6.9N and the MMY of ZS was estimated to be 420.9 mL∙g_VS ^−1.
+
+
+3.2 Influences of F/I ratio and OL on methane yield of ZS
+
+2D contour and 3D response surface plots obtained by RSM are presented in Fig. 1 . As seen in 2D contour plot, the CMY kept rising and then slightly declined with the F/I ratio decreasing from 2 to 0.5. Meanwhile, the CMY showed a sharp rise and followed by a decline with OL increasing from 3 g_VS∙L^−1 to 35 g_VS∙L^−1. These results indicated that both F/I ratio and OL had obvious influences on the CMY. Moreover, as shown in 3D response surfaces plot, the maximum CMY could be obtained around the F/I ratio of 0.5 and the OL of 18 g_VS∙L^−1.
+
+
+3.3 Analysis of response surface model
+
+A quadratic polynomial model describing the relationship between response value and real values of factors was obtained by RSM and shown as follows: FORMULA: Y = 166.78 + 4.02 A + 12.52 B + 1.57 A B - 0.15 A 2 - 26.89 B 2 where Y, A, and B present CMY, OL, and F/I ratio, respectively. The significance of the model was analyzed by ANOVA in Design-Expert 8.0.6 and the results are shown in Table S3. The R^2 value of the model was 0.88, which was in the desirable range (> 0.75), indicating this model had a good fit. The high F-value (10.29) and low p-value (0.004) of the model also implied its significance. Besides, the F-value of lack of fit (LOF) was only 4.06, which indicated that it was not significant relative to the pure error (Kainthola et al., 2019). A low coefficient of variation (C.V.% < 10%) means the experimental data is accurate and credible (Feng et al., 2017), and in this study the value of C.V.% was 5.08%, suggesting that the model was significant and credible. The predicted response value of each run was similar with the actual value, which was shown in Table S2. The optimal OL and F/I ratio were determined to be 17.8 g_VS∙L^−1 and 0.75, respectively, with a predicted maximum CMY of 207.2 mL∙g_VS ^−1. Then a verified CMY of 239.6 mL∙g_VS ^−1 was obtained by validation experiment, which was close to the predicted value, further verifying the credibility of the model.
+
+
+3.4 Impacts of different pretreatments on methane yield of ZS
+
+Cumulative methane yield of different pretreated ZS is shown in Fig. 2 . As for KOH pretreatment, the highest CMY was achieved at concentration of 2% (p < 0.01). Compared with 2% KOH pretreatment, the improvement effects of 3% and 4% KOH pretreatments on CMY were relatively lower, which might be because too much degradable organic content was lost in 3% and 4% KOH solutions (Jaffar et al., 2016). As shown in Fig. 2b, only 3% and 4% Ca(OH)_2 pretreated ZS had higher CMY than raw ZS (p < 0.05), and the CMY of 3% Ca(OH)_2 pretreated ZS showed no significant difference (p > 0.05) with 4% Ca(OH)_2 pretreatment. Considering cost and AD efficiency, 3% was selected as the optimal Ca(OH)_2 dose. As for Fig. 2c and Fig. 2d, both NaOH and AHP pretreatments achieved the highest CMY at 4% dose, which were significantly higher than other doses (p < 0.05). Among HCl concentrations, only 3% HCl pretreated ZS showed a slightly higher CMY than raw ZS and all other doses had negative impacts. As for MW pretreated group (Fig. 2 f), 500 w and 700 w MW pretreated ZS had higher CMY than 300 w MW (p < 0.05), and there was no significant difference (p > 0.05) between CMY of 500 w MW and 700 w MW pretreated ZS. For reducing the cost and energy consumption, 500 w was regarded as the best condition for MW pretreatment.
+
+The CMY of ZS under optimal condition of each pretreatment is summarized in Table 2 and Fig. 3 a. Among all the pretreatments, 4% NaOH pretreated ZS had the highest CMY of 338.3 mL∙g_VS ^−1 (p < 0.01), with a B_d of 80.39% which was 74.91% higher than that of raw ZS. It was followed by 4% AHP pretreated ZS with a CMY of 277.6 mL∙g_VS ^−1 and a B_d of 65.96%, which had no significant difference with that of 2% KOH pretreated ZS (p > 0.05). In addition, 500 w MW and 3% Ca(OH)_2 pretreated ZS had the same CMY of 233.8 mL∙g_VS ^−1. The improvement of CMY after Ca(OH)_2 pretreatment is less than other alkaline pretreatments, which might be due to the low solubility of Ca(OH)_2 (Soares Rodrigues et al., 2016). Besides, 3% HCl pretreatment only showed a little enhancement on methane yield, indicating its limited influence on structure of ZS (Dai et al., 2017; Fu et al., 2018).
+
+
+3.5 Kinetics analysis
+
+Modified Gompertz model was used to simulate the methane production process of different pretreated ZS. The kinetic plots and parameters are presented in Fig. 3b and Table 2, respectively. The values of correlation coefficient (R^2) were ranged from 0.990 to 0.997, and all the B_0 values were close to the CMY of different pretreated ZS, implying this model could simulate the methane production process of different pretreated ZS well. Furthermore, μ M and λ represent the maximum methane production rate and the lag phase time in AD process, respectively. All the pretreated ZS had higher μ M (11.09–18.98 mL∙g_VS ^−1∙d^−1) than raw ZS (8.74 mL∙g_VS ^−1∙d^−1), illustrating that all the pretreatments could enhance the maximum methane production rate, while 4% NaOH and 4% AHP pretreated ZS showed relatively higher λ (2.65 d and 2.39 d, respectively) than other pretreatments (0.34–1.41 d), indicating these two pretreatments retarded the start-up of AD process. It was likely that residual Na^+ ion in pretreated ZS increased adaptation time of microorganism (Appels et al., 2008).
+
+
+3.6 Compositional variations of ZS after different pretreatments
+
+Lignocellulosic compositions of ZS after different pretreatments are presented in Table 3 . Results showed that the hemicellulose contents were decreased after all the chemical pretreatments. In particular, after 4% NaOH, 4% AHP, and 3% HCl pretreatments, the hemicellulose contents decreased sharply from 12.95% to 3.97–5.96%. Furthermore, 4% NaOH and 4% AHP pretreatments had the effective delignification, which decreased lignin contents from 7.91% to 4.71% and 5.02%. Overall, 4% NaOH pretreatment destroyed more hemicellulose and lignin of ZS than other pretreatments, indicating 4% NaOH pretreatment effectively broke down the complex lignocellulose structure of ZS, which might increase the accessibility of microorganism to the cellulose and hemicellulose in ZS.
+
+
+3.7 Structural changes of ZS after different pretreatments
+
+
+3.7.1 SEM analysis
+
+The SEM images of ZS after different pretreatments are given in Fig. S1. As seen in Fig. S1a, raw ZS exhibited a compact and smooth surface with regular texture. After 4% NaOH, 4% AHP, and 2% KOH pretreatments, the surface became rough and uneven with serious broken crevices (Fig. S1b, Fig. S1c, and Fig. S1d, respectively). These structural changes made biodegradable cellulose and hemicellulose exposed and increased the accessibility of microorganism, which might be beneficial for improving methane yield. The structures of 3% Ca(OH)_2 and 500 w MW pretreated ZS were also partly broken (Fig. S1e and Fig. S1f). However, HCl pretreated ZS still showed a relatively compact skeletal structure (Fig. S1g).
+
+
+3.7.2 XRD analysis
+
+XRD patterns of different pretreated ZS are presented in Fig. S2. All the ZS samples had two similar peaks at 16° and 22°, which stood for the cellulose I (Li et al., 2015), indicating the cellulose crystalline structure was not changed after pretreatments. CrI of cellulose represents the relative content of crystalline cellulose in biomass. The CrI values of 2% KOH, 3% Ca(OH)_2, 4% NaOH, 4% AHP, and 3% HCl pretreated ZS were 38.8%, 29.5%, 40.6%, 34.4%, and 34.8%, respectively, which were all higher than raw ZS (17.1%), probably due to that the non-crystalline components were partly removed after these pretreatments (Li et al., 2015). Among all the pretreatments, 4% NaOH pretreated ZS showed the highest CrI value, indicating non-crystalline components in ZS are effectively removed, which made it easily digested during AD process.
+
+
+3.7.3 FTIR analysis
+
+The FTIR spectra of different pretreated ZS are shown in Fig. S3. The peak at the wavelength of 1247 cm^−1 corresponds to syringl ring, CO stretch and xylan in lignin (Chen et al., 2019), and the peak at the wavelength of 1515 cm^−1 stands for aromatic skeletal vibration of lignin (Chen et al., 2019; Huang et al., 2019). These two peaks decreased or even vanished in 2% KOH, 3% Ca(OH)_2, 4% NaOH, and 4% AHP pretreated ZS, demonstrating the significant lignin removal of alkaline and AHP pretreatments (Chen et al., 2019; Huang et al., 2019). Moreover, the peak at the wavelength of 1739 cm^−1 represents carbonyl CO and acetyl stretching vibration in hemicellulose, which disappeared after alkaline and AHP pretreatments, indicating the hemicellulose could be partly destroyed by these pretreatments (Huang et al., 2019).
+
+In summary, the results of structural changes were highly consistent with the compositional variations, collectively suggesting that alkaline and AHP pretreatments could effectively destroy the complex lignocellulosic structure of ZS, which was beneficial to improve the methane yield.
+
+
+4 Conclusion
+
+This study proved that zucchini stem (ZS) had a good methane production performance and then the anaerobic digestion efficiency was maximized by different pretreatment techniques. Results showed that the optimal AD condition was at the OL of 17.8 g_VS∙L^−1 and the F/I ratio of 0.75, and 4% NaOH pretreated ZS performed the highest CMY of 338.3 mL∙g_VS ^−1 with a biodegradability of 80.39%, which was 74.91% higher than raw ZS. These findings of this research not only explore a novel, potential, and continuous AD feedstock and meanwhile offer a promising utilization method for other vegetable crops residues, but also provide an effective conversion of ZS waste for clean energy production, which shows tremendous economic, environmental, and social benefits.
+
+
+ CRediT authorship contribution statement
+
+Yiqin Gu: Methodology, Investigation, Writing - original draft. Fanfan Cai: Software. Zhe Zhu: Validation. Zhuangqiang Dai: Validation. Chang Chen: Funding acquisition, Conceptualization, Supervision, Writing - review & editing. Guangqing Liu: Funding acquisition, Conceptualization, Supervision, Writing - review & editing.
+
+
+Appendix A Supplementary data
+
+Supplementary material related to this article can be found, in the online version, at doi:https://doi.org/10.1016/j.indcrop.2020.112402.
+
+
+Appendix A Supplementary data
+
+The following is Supplementary data to this article:

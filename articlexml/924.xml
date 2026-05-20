@@ -1,0 +1,1917 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S1878029616000633</prism:url><dc:identifier>doi:10.1016/j.proenv.2016.02.062</dc:identifier><eid>1-s2.0-S1878029616000633</eid><prism:doi>10.1016/j.proenv.2016.02.062</prism:doi><pii>S1878-0296(16)00063-3</pii><dc:title>Improving Methane Production During the Anaerobic Digestion of Waste Activated Sludge: Cao-ultrasonic Pretreatment and Using Different Seed Sludges </dc:title><prism:publicationName>Procedia Environmental Sciences</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>18780296</prism:issn><prism:volume>31</prism:volume><prism:startingPage>743</prism:startingPage><prism:endingPage>752</prism:endingPage><prism:pageRange>743-752</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2016-12-31</prism:coverDate><prism:coverDisplayDate>2016</prism:coverDisplayDate><prism:copyright>© 2016 The Author(s). Published by Elsevier B.V.</prism:copyright><prism:publisher>The Author(s). Published by Elsevier B.V.</prism:publisher><prism:issueName>Selected Proceedings of the Tenth International Conference on Waste Management and Technology</prism:issueName><dc:creator>Geng, Yucong</dc:creator><dc:creator>Zhang, Bo</dc:creator><dc:creator>Du, Lianzhu</dc:creator><dc:creator>Tang, Zhi</dc:creator><dc:creator>Li, Qiang</dc:creator><dc:creator>Zhou, Zheng</dc:creator><dc:creator>Yin, Xiaobo</dc:creator><dc:description>
+                  Three individual seed sludges, which domesticated by filter paper (SS1), food waste (SS2) and grease (SS3), respectively, were used for enhancing the methane production of waste activated sludge (WAS). Also CaO-ultrasonic pretreatment was performed on WAS to evaluate the effectiveness on improving efficient anaerobic digestion (AD). The results showed that WAS being acidated for 24h after CaO-ultrasonic pretreatment was an effective method for increasing initial methane production rate. The daily concentration of volatile fatty acids (VFAs) during the AD course showed that the propionic was easier to be reduced after adding seed sludge. The optimum seed sludge for improving methane production and biodegradability of WAS was SS3, which led to an increase in the methane production of 68.92% and VS reduction of 69.20% higher than the control. This pretreatment combined with adding optimum seed sludge can greatly improve clean energy generation from WAS.
+               </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType>ElsevierWaived</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by-nc-nd/4.0/</openaccessUserLicense><dcterms:subject>Waste activated sludge</dcterms:subject><dcterms:subject>anaerobic digestion</dcterms:subject><dcterms:subject>Cao-ultrasound pretreatment</dcterms:subject><dcterms:subject>seed sludge</dcterms:subject><dcterms:subject>methane production</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S1878029616000633" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S1878029616000633" rel="scidir"/></coredata><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>270397</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291714</xocs:ssid>
+         <xocs:ssid type="subj">291780</xocs:ssid>
+         <xocs:ssid type="subj">291781</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Procedia Environmental Sciences</xocs:srctitle>
+      <xocs:normalized-srctitle>PROCEDIAENVIRONMENTALSCIENCES</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20160425">2016-04-25</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20160425">2016-04-25</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20160425">2016-04-25</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20160425">2016-04-25</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2016-04-25T09:36:24</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S1878029616000633</xocs:eid>
+      <xocs:pii-formatted>S1878-0296(16)00063-3</xocs:pii-formatted>
+      <xocs:pii-unformatted>S1878029616000633</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.proenv.2016.02.062</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S1878029616X00023</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20160425">2016-04-25T05:45:17.141181-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20160101</xocs:date-search-begin>
+      <xocs:date-search-end>20161231</xocs:date-search-end>
+      <xocs:year-nav>2016</xocs:year-nav>
+      <xocs:indexeddate epoch="1461581117">2016-04-25T10:45:17.141181Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confeditor contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content oa subj suppl tomb vol volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authkeywords authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>1878-0296</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>18780296</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>31</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>31</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 31</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>100</xocs:sort-order>
+      <xocs:first-fp>743</xocs:first-fp>
+      <xocs:last-lp>752</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>743</xocs:first-page>
+         <xocs:last-page>752</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>2016</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>2016</xocs:cover-date-text>
+      <xocs:cover-date-start>2016-01-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2016-12-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2016</xocs:cover-date-year>
+      <xocs:title-editors-groups>
+         <xocs:title-editors-group>
+            <ce:title>Selected Proceedings of the Tenth International Conference on Waste Management and Technology</ce:title>
+            <ce:editors>
+               <ce:author-group>
+                  <ce:author>
+                     <ce:degrees>Dr.</ce:degrees>
+                     <ce:given-name>Jinhui</ce:given-name>
+                     <ce:surname>Li</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+               <ce:author-group>
+                  <ce:author>
+                     <ce:degrees>Dr.</ce:degrees>
+                     <ce:given-name>Faqin</ce:given-name>
+                     <ce:surname>Dong</ce:surname>
+                  </ce:author>
+               </ce:author-group>
+            </ce:editors>
+         </xocs:title-editors-group>
+      </xocs:title-editors-groups>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Municipal sewage sludge management and utilization</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2016 The Author(s). Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>IMPROVINGMETHANEPRODUCTIONDURINGANAEROBICDIGESTIONWASTEACTIVATEDSLUDGECAOULTRASONICPRETREATMENTUSINGDIFFERENTSEEDSLUDGES</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>GENG</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>Y</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="sbref0005">
+            <xocs:ref-normalized-surname>CHI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>45</xocs:ref-first-fp>
+            <xocs:ref-last-lp>50</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0010">
+            <xocs:ref-normalized-surname>DAI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0015">
+            <xocs:ref-normalized-surname>YU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>758</xocs:ref-first-fp>
+            <xocs:ref-last-lp>761</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0020">
+            <xocs:ref-normalized-surname>BOUGRIER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>711</xocs:ref-first-fp>
+            <xocs:ref-last-lp>718</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0025">
+            <xocs:ref-normalized-surname>AYOL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2427</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2434</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0030">
+            <xocs:ref-normalized-surname>ROMANO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4564</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4571</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0035">
+            <xocs:ref-normalized-surname>APPELS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5743</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5748</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0040">
+            <xocs:ref-normalized-surname>DEMIREL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>173</xocs:ref-first-fp>
+            <xocs:ref-last-lp>190</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0045">
+            <xocs:ref-normalized-surname>YU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>279</xocs:ref-first-fp>
+            <xocs:ref-last-lp>285</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0050">
+            <xocs:ref-normalized-surname>TYAGI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1220</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1288</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0055">
+            <xocs:ref-normalized-surname>CHO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>480</xocs:ref-first-fp>
+            <xocs:ref-last-lp>483</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0060">
+            <xocs:ref-normalized-surname>CARRERE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>15</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0065">
+            <xocs:ref-normalized-surname>HARRISON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1991</xocs:ref-pub-year>
+            <xocs:ref-first-fp>217</xocs:ref-first-fp>
+            <xocs:ref-last-lp>240</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="oref0070"/>
+         <xocs:ref-info refid="sbref0075">
+            <xocs:ref-normalized-surname>TIEHM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2003</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2009</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0080">
+            <xocs:ref-normalized-surname>BIEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>939</xocs:ref-first-fp>
+            <xocs:ref-last-lp>949</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0085">
+            <xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>271</xocs:ref-first-fp>
+            <xocs:ref-last-lp>275</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0090">
+            <xocs:ref-normalized-surname>NATHAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>750</xocs:ref-first-fp>
+            <xocs:ref-last-lp>756</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0095">
+            <xocs:ref-normalized-surname>MOUNEIMNE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>89</xocs:ref-first-fp>
+            <xocs:ref-last-lp>94</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0100">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>536</xocs:ref-first-fp>
+            <xocs:ref-last-lp>543</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0105">
+            <xocs:ref-normalized-surname>LIANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>175</xocs:ref-first-fp>
+            <xocs:ref-last-lp>181</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0110">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>459</xocs:ref-first-fp>
+            <xocs:ref-last-lp>465</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0115">
+            <xocs:ref-normalized-surname>JIAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>19</xocs:ref-first-fp>
+            <xocs:ref-last-lp>22</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0120">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>78</xocs:ref-first-fp>
+            <xocs:ref-last-lp>81</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="oref0125"/>
+         <xocs:ref-info refid="sbref0130">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>297</xocs:ref-first-fp>
+            <xocs:ref-last-lp>304</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0135">
+            <xocs:ref-normalized-surname>KRISHNA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1821</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1830</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0140">
+            <xocs:ref-normalized-surname>CONNAUGHTON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1009</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1017</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0145">
+            <xocs:ref-normalized-surname>ZHAI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>126</xocs:ref-first-fp>
+            <xocs:ref-last-lp>131</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0150">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>119</xocs:ref-first-fp>
+            <xocs:ref-last-lp>126</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0155">
+            <xocs:ref-normalized-surname>PEREZELVIRA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1525</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1532</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0160">
+            <xocs:ref-normalized-surname>NEIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1541</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1545</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>U</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0165">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>131</xocs:ref-first-fp>
+            <xocs:ref-last-lp>136</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sbref0170">
+            <xocs:ref-normalized-surname>XIAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>109</xocs:ref-first-fp>
+            <xocs:ref-last-lp>115</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>GENGX2016X743</xocs:refkey3>
+         <xocs:refkey4lp>GENGX2016X743X752</xocs:refkey4lp>
+         <xocs:refkey4ai>GENGX2016X743XY</xocs:refkey4ai>
+         <xocs:refkey5>GENGX2016X743X752XY</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2016-02-23T00:13:56Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>ElsevierWaived</xocs:oa-sponsor-type>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:oa-user-license>
+         <xocs:oa-access-inherited-from winid="http://vtw.elsevier.com/content/oaw/PROC_UNBOUNDED_ESWaived">OA-Window</xocs:oa-access-inherited-from>
+      </xocs:open-access>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en">This is an open access article under the CC BY-NC-ND license.</xocs:cp-license-line>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2016 The Author(s). Published by Elsevier B.V.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S1878-0296(16)00063-3</xocs:pii-formatted>
+         <xocs:pii-unformatted>S1878029616000633</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S1878029616000633</xocs:eid>
+         <xocs:doi>10.1016/j.proenv.2016.02.062</xocs:doi>
+         <xocs:cid>270397</xocs:cid>
+         <xocs:timestamp>2016-04-25T05:45:17.141181-04:00</xocs:timestamp>
+         <xocs:cover-date-start>2016-01-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2016-12-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S1878029616000633-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1878029616000633/MAIN/application/pdf/b0823b93481c6b431f1b96f9269e77cb/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1878029616000633/MAIN/application/pdf/b0823b93481c6b431f1b96f9269e77cb/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>325557</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>10</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S1878029616000633-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1878029616000633/PREVIEW/image/png/1290b75c39ca9f0e725f59c990ff9df7/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1878029616000633/PREVIEW/image/png/1290b75c39ca9f0e725f59c990ff9df7/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>50095</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:rawtext xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd"> Procedia Environmental Sciences  31 ( 2016 )  743 â€“ 752  1878-0296 Â© 2016 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license  (http://creativecommons.org/licenses/by-nc-nd/4.0/). Peer-review under responsibility of Tsinghua University/ Basel Convention Regional Centre for Asia and the Pacific doi: 10.1016/j.proenv.2016.02.062  Available online at www.sciencedirect.com ScienceDirect The Tenth International Conference on Waste Management and Technology (ICWMT)  Improving methane production during the anaerobic digestion of  waste activated sludge: Cao-ultrasonic pretreatment and using  different seed sludges  Yucong Genga,b, Bo Zhangc, Lianzhu Dud, Zhi Tanga,b, Qiang Lia,b, Zheng Zhoua,b and  Xiaobo Yina,b*  aBiogas Institute of Ministry of Agriculture, 4-13 Renmin Road.South, Chengdu, 610041, China  bKey Laboratory of Agriculture Rural Renewable Energy Development and Utilization, 4-13 Renmin Road.South, Chengdu, 610041, China  cSchool of Environmental Science and Engineering, Tainjin University, Tainjin 300072, China  dAgro-Enviromental Protection Institute, Ministry of Agriculture, Tianjin 301191, China  Abstract  Three individual seed sludges, which domesticated by filter paper (SS1), food waste (SS2) and grease (SS3)Ëˆrespectively,  were used for enhancing the methane production of waste activated sludge (WAS). Also CaO-ultrasonic pretreatment was  performed on WAS to evaluate the effectiveness on improving efficient anaerobic digestion (AD). The results showed that WAS  being acidated for 24 h after CaO-ultrasonic pretreatment was an effective method for increasing initial methane production rate.  The daily concentration of volatile fatty acids (VFAs) during the AD course showed that the propionic was easier to be reduced  after adding seed sludge. The optimum seed sludge for improving methane production and biodegradability of WAS was SS3,  which led to an increase in the methane production of 68.92% and VS reduction of 69.20% higher than the control. This  pretreatment combined with adding optimum seed sludge can greatly improve clean energy generation from WAS.    Â© 2015 The Authors. Published by Elsevier B.V.  Peer-review under responsibility of Tsinghua University/ Basel Convention Regional Centre for Asia and the Pacific.  Keywords: Waste activated sludge; anaerobic digestion; Cao-ultrasound pretreatment; seed sludge; methane production;        * Corresponding author. Tel.: +86-28-85230683; fax: +86-28-85230683.  E-mail address: yinxiaobo@caas.cn  Â© 2016 The Authors. Published by Elsevier B.V This is an open access article under the CC BY-NC-ND license  (http://creativecommons.org/licenses/by-nc-nd/4.0/). Peer-review under responsibility of Tsinghua University/ Basel Convention Regional Centre for Asia and the Pacific 744   Yucong Geng et al. /  Procedia Environmental Sciences  31 ( 2016 )  743 â€“ 752  1. Introduction  Activated sludge process is an effective method for sewage treatment. During AD process, large amounts of  excess WAS will be produced in the process. Early in 2007, 4.54Ã—106 tons of dry WAS was produced in China1.  And according to prediction, the production of WAS in China will be more than 6Ã—108 tons2. WAS not only contains  various pathogens and persistent organic pollutants, but also contains large amount of inorganic matters. Traditional  handing methods such as landfill and incineration will lead to secondary environment pollution3.  AD treatment has been widely studied for stabilizing WAS4. The  advantages of this method were obvious: (1)  effective reduction in sludge volume, (2) produce clean energy in the form of biogas, (3) environment friendly  reaction products, (4) the lower treatment cost requirement and spaces than the traditional process5,6,7. Though AD  process brought us environmental and economic benefits, there were still some defects: (1) the limited conversion of  organic matter, (2) long retention times (3) non-biodegradable organic structures8,9,10. These defects are mainly  caused by the retarded hydrolysis of WAS. The microbial cells and membrances in the WAS are not easily to be  penetrated by the hydrolytic enzymes11. Therefor, various cell disruption methods have been explored to enhance the  hydrolysis rate and methane production such as physical, chemical, biological and combined pretreatments12.  Among these technologies, ultrasonic pretreatment has the advantage of destroying microbial cells to extract  intracellular material13. Additionally, the short chain acids production can be enhanced and AD process can be  shortened due to the release of soluble organic substrates from WAS14. In Teihmâ€™s study, the VS removal of WAS  increased from 21.5% to 33.7% (+36%) after ultrasonic pretreatment at 41 kHz for 150min15. Another research  showed that 24% increasement of biogas production was reached after ultrasonic pretreatment at 20 kHz for 60s16.  Similarly, alkaline pretreatment was examined to be an effective method to destroy the cell surface structure  and make the the cellular substances more susceptible to enzymatic action. Moreover, alkaline pretreatment needed  simple device which was easy to be operated17. Combined pretreatment of alkaline and ultrasound pretreatment was  demonstrated to be able to reduce the dewaterability of WAS more effectively18. NaOH and KOH was used as the  alkaline part because of the strong alkalinity. However, a high concentration of Na+ or K+ may cause AD process  slow down and even inhibit the activity of methanogens19. Ca(OH)2, as a kind of alkalis, also can improve the AD  efficiency of WAS and have less inhibiting effect than NaOH or KaOH20. Lime, as a cheap industrial raw material  which mainly contains CaO, can improve carbohydrate digestion and biogas production with smooth cordgrass as  fermentation substrate21. However, few reports have been published about pretreatment of WAS using CaO as an  alternative to NaOH or KaOH.   In order to enhance the effective of WAS degradation, the pretreatment methods have been widely explored, but  the effect of seed sludge addition was often ignored. Anaerobic seed sludges may come from the bottom from the  pond, deep in the sewer, cattle cesspool or the pig cesspool22. Also inoculums can be domesticated by pig manure,  cow dung, cornstalk, vinasse or food waste23,24. Different inoculum may result in different biogas production rate,  total biogas production or methane percentage because of the special species and amounts distribution. Using the  appropriate seed sludge can shorten start-up period and improve the methane production24.  Consequently, in our research, three kinds of seed sludges domesticated with grease, food waste and filter paper,  respectively were added into the WAS which pretreated in CaO-ultrasonic way, aim to: (1) evaluate the effect of  CaO-ultrasonic pretreatment, (2) enhance the methane production rate, VS reduction and total methane production  of WAS, (3) explore a better combined method to deal with WAS, (4) lay a theoretical foundation for further  industrial application.    2.Materials and methods    2.1 WAS and seed sludges  The WAS was collected from department of dehydration of Xianyanglu wastewater treatment plant (Tianjin,  China). Total solids (TS) of WAS was diluted from 20% to 8% before used in the experiments. The basic  characteristics of WAS is shown in Table. 1.  The resource of seed sludges was from the sewage treatment plant in Chengdu, Sichuan, China. The sludge was  separated into three parts and domesticated in the same conditions except only one factor, inoculation of carbon  source. The first inoculum was grease with daily dosage of 1gÂ·L-1d-1. The second and the last inoculums were food  745 Yucong Geng et al. /  Procedia Environmental Sciences  31 ( 2016 )  743 â€“ 752  waste and filter paper with the same daily dosage. After a month of domesticating, the basic characteristics of the  three kind of seed sludges are shown in Table 1.  Table 1. Characteristics of WAS, PWAS and seed sludges.  Sludges Domesticated by pH TS (%) VS (%) VS/TS (%)  WAS - 6.8 8.11 4.46 54.99  PWAS - 9.5 8.53 4.44 52.07  APWAS - 7.5 8.49 4.38 51.59  Seed sludge 1 (SS1) Grease 6.7 3.81 1.65 43.41  Seed sludge 2 (SS2) Food waste 6.8 0.89 0.55 61.24  Seed sludge 3 (SS3) Filter paper 6.8 2.37 1.22 51.48    WAS was first mixed evenly with CaO with a dose of 40mg g-1 TS in a 5.0 L beaker. Then the mixed sample  was disintegrated in an ultrasonic reactor (TZ-U1, Beijing, China) with a working volume of 2 L. The reactor  equiped with two 75 W ultrasonic probes at its bottom which can produce a 20 kHz ultrasound. After a handling  time of 30 min, CaO-ultrasonic pretreatment for WAS was finished.  2.3 Batch AD experiments  Batch AD was conducted in anaerobic batch reactors of 250 mL BPN culture bottles with hermetically sealed  stoppers at capacity mesophilic conditions to examine biogas production, variation of VFAs and WAS degradability  of raw and pretreatment sludge samples. Each bottle of test group was filled with 150 mL of substrate and 50 mL of  seed sludge. And the control groups were filled with 150 mL of substrate and 50 mL of distilled water. The initial  pH was natural. Because of a high pH at 9.5 of pretreated WAS may inhibit the AD process, another batch  experiment was initiated with PWAS which was acidated under natural conditions for one day. The initial pH of  acidulated PWAS (APWAS) was tested around 7.5 in the previous experiments. All the batch AD experiments were  shown in Table 2. Each group set up three parallel experiments. The reactors were laid in a constant temperature  incubator at 37f2Ä‡ for 25 days. Samples were taken every 24 h to examine daily biogas production, methane  content and VFAs conditions. In the end of batch AD experiments, samples were collected to test TS and VS  conditions.    Table 2. Experimental design for batch AD experiments.  Trials  Substrate (mL) Seed sludge (mL)  Distilled  water  (mL)  WAS  Preatment  WAS  (PWAS)  Acidated  preatment  WAS  (APWAS)  SS1 SS2 SS3  1 150 - - 50 - - -  2 150 - - - 50 - -  3 150 - - - - 50 -  4 150 - - - - - 50  5 - 150 - 50 - - -  6 - 150 - - 50 - -  7 - 150 - - - 50 -  8 - 150 - - - - 50  9 - - 150 50 - - -  10 - - 150 - 50 - -  11 - - 150 - - 50 -  12 - - 150 - - - 50    2.4 Analysis methods  Total solids (TS) , volatile solids (VS) and pH were measured according to the standard methods (APHA, 1995)25.  The analyze of VFAs contained acetic acid, propionic acid and butanoic acid. 1ml of samples was extracted from  746   Yucong Geng et al. /  Procedia Environmental Sciences  31 ( 2016 )  743 â€“ 752  the samples, and acidified by adding 5% vitriol before centrifuging at 10000 r/min for 10 min. The resulting  supernatants of 2-Î¼l were injected for gas chromatography analysis. VFAs were determined using a Shangfen  GC112A gas chromatograph equiped with a packed column (GDX103, length 10 m; i.d. 2 mm; o.d. 3 mm). The  flow rate of H2 carrier was 20 ml/min. The temperature of oven and the flame ionization detection system were  210 Ä‡ and 270 Ä‡, respectively. After run time of 7 min, the VFAs were calculated by comparing the peak area  with standard substances.  The biogas was collect and quantify by a gas device. The methane content of biogas was measured using a gas  chromatograph (Micro GC490, Agilent) equipped with a packed column(MSA/PPU, Agilent). The injector and  column temperatures were 100 and 50 Ä‡, respectively. H2 was used as the carrier gas with a pressure condition at  100 k Pa.     3. Results and discussion  Biogas is produced from AD process and manly contains methane and carbon dioxide (CO2). Methane, as the  main energy material of biogas, is an important index to assess performance of AD26. The AD process can be  divided into four steps: hydrolysis, acidification, acetogenesis and methanogenesis. In the first two steps, organic  matters are converted into small molecules and turned into volatile fatty acids(VFAs), such as acetic acid, propionic  acid and butanoic acid, which can be used to produce methane and CO2 in the acetogenesis and methanogenesis  process27. So the concentration of VFAs during AD is also an important factor to reflect the AD efficiency. To  investigate the effects of CaO-ultrasonic pretreatment and different seed sludges, the cumulation of methane  production and VFAs concentration during the AD of 25 d are shown in Fig. 1-3.    3.1. Comparison among different seed sludges for AD of WAS  The cumulative methane production of WAS with different seed sludges were calculated based on the daily  methane production as shown in Fig.1(a). All the groups started to produce methane no more than 3 days. On the  15th day, the cumulative methane production of WAS with SS3 reached to 983.3 mL. The cumulative methane  production of WAS were only 674.1(SS1),  736.7 mL(SS2) and 225.2 mL(control) at the same time. In the end of  the 25 daysâ€™ batch experiments, the cumulative methane production obtained by seed sludges with SS1, SS2 and  SS3 were 1178.1 mL, 1236.8 mL and 1211.9 ml, respectively. The effect of different seed sludges for cumulative  methane production of WAS was very similar. The enhancements of methane production were 43.3%(SS1),  50.5%(SS2) and 47.5%(SS3) higher than the control check of 821.9 mL, respectively. Thought the highest  enhancement of methane production of WAS was achieved by SS2, it is easy to be found that there was a higher  methane production rate of WAS by SS3 than other seed sludges and control check.   The VFAs concentration during the AD process of WAS by different seed sludges is shown in Fig. 1(b). On the  first day of AD process, the total VFAs concentration reached up to 1814.7 mg/L, 1677.3 mg/L, 1005.8 mg/L and  1603.7 mg/L by the seed sludges of SS1, SS2, SS3 and control, respectively. Acetic acid was the main component of  VFAs (more than 70%) except control. The control group contained butanoic acid of 52.8%, propanoic acid of 7.4%  and acetic acid of 39.8%. The highest concentration of VFAs were achieved on day 3 (2187.6 mg/L), day3 (1869.5  mg/L), day 1 (1005.8 mg/L) and day 12 (1321.9 mg/L) by SS1, SS2, SS3 and control, respectively. Then the VFAs  concentration of each group gradually decreawsed after reaching the highest VFAs level. This result showed that the  efficiency of hydrolytic and acidification had been improved by the seed sludges addition. As we know, acetic acid  can be more easily used by methanogens to produce methane and CO2 than propionic acid28. In our research, as the  experiments went on, acetic acid and butanoic acid decreased gradually. And the butanoic acid disappeared after 13  d in all groups. The propionic acid had been accumulated from the beginning of the batch experiments to the highest  of 966.3 mg/L on day 13(SS1), 1150.0 mg/L on day 13(SS2), 530.9 mg/L on day 12(SS3) and 1121.9 mg/L on day  16(CK). And the propionic became the main component of VFAs instead of acetic acid. On the 15th day, the  concentration of propionic acid decreased to 21.4 mg/L by SS3. At the same time, there still were a large amount of  propionic acid in other groups, which were 788.5 mg/L(SS1), 971.6 mg/L(SS2) and 622.3 mg/L(SS3), respectively.  The concentration of propionic acid decreased to a low level of 25.4 mg/L by SS1 on day 19. And 2 days later, the  concentration of propionic acid decreased to 28.7 mg/L by SS2. Even in the end of batch experiments, there was still  a lot of propionic acid of 879.6 mg/L left in control check. It is demonstrated that SS3 has stronger ability turning  VFAs into methane than other seed sludges or control check.  747 Yucong Geng et al. /  Procedia Environmental Sciences  31 ( 2016 )  743 â€“ 752                                  Fig.1 (a) Effect of seed sludges on methane yield of WAS.                                        Fig. 1(b) The VFAs concentration during the AD process of WAS.  The results showed that among the three kinds of seed sludges, the most effective for AD of WAS was SS3  addition, which can greatly improve utilization rate of VFAs and methane production.     3.2. Comparison among different seed sludges for AD of PWAS  The effect of seed sludges on methane yield from PWAS AD is shown in Fig 2(a). Unlike WAS, there was a long  lag time of methane production for PWAS. In the first week, there was almost no methane produced in all groups.  Then the PWAS with SS1 and SS3 first began to produce methane. The lag time of PWAS with SS2 lasted for 18  days. And the longest lag time(23 days) for methane production was achieved by control check (PWAS with no seed  sludges). Zhai et al. studied the effect of 5 different initial pH (6.0, 6.5, 7.0, 7.5 and 8.0) on AD. He found that the  lag-phase times of treatments with initial pH of 6.5 and 7.5 were 10 days shorter than the group with pH of 8.029. In  Zhangâ€™s research, to achieve the maximum total biogas production, the optimal initial pH was controled at 6.81.  And a high pH inhibited the AD process and reduce the biogas production in a certain time30. In our research, as  shown in table 1, the pH of PWAS was 9.5, which was the main factor to cause such a long lag time during AD  process of PWAS.                                                   7LPH Ë„GË… 0H WK DQ H  \L HO G   P /  66  :$6 66  :$6 66  :$6 :$6 748   Yucong Geng et al. /  Procedia Environmental Sciences  31 ( 2016 )  743 â€“ 752                              Fig. 2(a) Effect of seed sludges on methane yield of PWAS.  After 25 daysâ€™ batch experiment, the cumulative methane production of PWAS without seed sludges was only  128.6 mL(control check). And the cumulative methane production obtained by seed sludges with SS2 was 666.7 mL,  which was 46.1% less than that of WAS (1238.8 mL). The cumulative methane production of PWAS with SS1 and  SS3 was 1251.1 mL and 1262.2 mL, which were 6.2% and 4.2% higher than those of WAS(1178.1 mL and 1211.9  mL) with same seed sludges. Though the negative effects of pH were obvious, SS1 and SS3 had a strong ability to  adapt the initial alkaline environment. Moreover, the cumulative methane production of WAS after CaO-ultrasonic  pretreatment had been enhanced in SS1 and SS3 groups.   The concentration of VFAs during the AD process of PWAS is shown in Fig.2(b). During batch experiments, the  total VFAs of each group gradually accumulated and reach to the highest at 4194.2 mg/L(SS1), 4883.9 mg/L(SS2),  3879.0 mg/L(SS3), and 4980 mg/L(CK) on the 5th day, 9th day, 7th day and 13ed day, respectively. Because of the  consumption of VFAs to produce methane by methanogens and the reduction of available organic matter in the  sludge, the concentration of total VFAs began to reduce after reaching the highest level. Among the three kinds of  VFAs, acetic acid was the main component in early period of all groups. And the proportion of propionic acid  gradually increased with the reduction of acetic acid. The total VFAs first reduce to a low level at 98.8 mg/L on day  19 by SS1. Then on day 22, it reduce to a low level at 90.1 mg/L by SS3. In the end of the batch experiments, there  were still 1659.1 mg/L total VFAs by SS1. And the CK group still contained 3476.0 mg/L of total VFAs. The results  showed that though a high pH can inhibit methanogenesis, there was no harmful effect on VFAs production process.                                    Fig.2 (b) The VFAs concentration during the AD process of PWAS.                                                     7LPH Ë„GË… 0H WK DQ H  \L HO G   P /  66  3:$6 66  3:$6 66  3:$6 3:$6 749 Yucong Geng et al. /  Procedia Environmental Sciences  31 ( 2016 )  743 â€“ 752  Accoding to the changing of VFAs concentration and methane yield during the AD process, both SS1 and SS3  were the suitable seed sludges for PWAS AD. Cao-ultrasonic pretreatment united with suitable seed sludge addition  can enhance the total methane production.    3.3. Comparison among different seed sludges for AD of APWAS  To make a better initial environment for AD, the PWAS was stayed for 24 h under nature conditions to acidate.  The production of organic acid can counteract alkalinity caused by CaO. After acidification, the pH of APWAS  reduced from 9.5 to 7.5 as shown in Table. 1. And as shown in Fig. 3(b), the initial total VFAs was increased to  1814.7 mg/L. Then the APWAS was used as substrate for batch experiments. The cumulative methane production of  APWAS by seed sludges is shown in Fig. 3(b). There was almost no lag time for methane production by SS2 and  SS3 addition. The SS1 group and control check contained a lag time of around 5 days. Though there was a similar  methane production rate by SS2 and SS3 groups in the early period of APWAS AD process, there was a large  distance of cumulative methane production in the end of batch experiments. The cumulative methane production by  SS2 was only 927.3 mL, which was even 7.5% less than control check of 1002.4 mL. SS2 may consume more  organic matter for microorganism growth than other seed sludges or produce other products during AD process. The  reason remained to be further researched and proved. The cumulative methane production by SS1 and SS3 was  1249.3 mL and 1383.2 mL , which were 38.0% and 24.6% higher than the control. Comparing with the cumulative  methane production of WAS (821.9 mL), the cumulative methane production of APWAS by SS3 was increased by  68.92%. That means after CaO-ultrasonic pretreatment and using optimum seed sludge of SS3 under a comfortable  condition, the methane production performance got an obvious improvement.   The VFAs concentration during AD process of APWAS is shown in Fig 3(b). The initial total concentration of  VFAs was 1814.7 mg/L. Then the total VFAs reached to the highest in SS1, SS2, SS3 and CK groups at 2541.1  mg/L, 2203.5 mg/L, 2322.6 mg/L and 2405.9 mg/L on day 3, day 1, day 1 and day 5, respectively. After reaching  the highest methane yield, the total VFAs began to reduce and propanoic acid became the main component instead  of acetic acid gradually. On day 12, the concentration of total VFAs reduced to a low level at 157.2 mg/L by SS3.  And there was only 20.7 mg/L total VFAs remained on the next day. SS1 and SS2 groups consumed VFAs to a low  level at 103.4 mg/L and 78.4 mg/L on day 15. In the end of batch experiments, there was still 204.2 mg/L total  VFAs remained in control check. It is easy to be found that SS3 can use VFAs faster than other seed sludges. And  for control group, the conversion of VFAs was lower than that of seed sludges addition groups. This is one of the  reasons that a higher methane production had been achieved by adding seed sludges than CK.                                   Fig.3 (a) Effect of seed sludges on methane yield of APWAS.                                                                                           7LPH Ë„GË… 0H WK DQ H  \L HO G   P /  66  $3:$6 66  $3:$6 66  $3:$6 $3:$6 750   Yucong Geng et al. /  Procedia Environmental Sciences  31 ( 2016 )  743 â€“ 752                                      Fig. 3(b) The VFAs concentration during the AD process of APWAS.  In our research, the VFAs reduction match up to the accumulate methane production. The faster VFAs reduced,  the higher methane production rate can be achieved. So the accumulation and reduction of VFAs can be an  important factor to reflect AD system efficiency during batch experiments.   3.4. Methane yield and VS reduction  The methane yield and VS reduction of all groups after the digestion for 25 d are shown in Fig. 4. The methane  yield of raw WAS was found to be 123.3 mL/gÂ·VS with a VS reduction of 16.95%. The methane yield can be  increased to 176.6, 185.5 and 181.8 mL/JÂ·VS with VS reduction of 23.04%, 24.75% and 23.1% by adding SS1, SS2  and SS3, respectively. After Cao-ultrasonic pretreatment, the methane yield increased to 187.7 and 189.3 mL/JÂ·VS  with a VS reduction of 21.69% and 22.50% by SS1 and SS3. The methane yield reduced to 100 mL/JÂ·VS with VS  reduction of 14.55% by SS2. The AD process of control group was serious inhibited and the methane yield was only  19.3 mL/JÂ·VS with VS reduction of 11.01%. After Cao-ultrasound pretreatment, the pH of WAS turn to alkalinity,  which strongly inhibited the ability of microorganism to use organic matter to produce meth. SS1 and SS3 can adapt  the alkaline condition more quickly than SS2 or microorganism of CK itself by the results. So the VS reduction and  biogas production of SS2 and CK groups were lower than the other two groups. The best results were attained with  CaO-ultrasonic pretreatment WAS acidated for one day. The methane yield increased to 150.4 mL/JÂ·VS with VS  reduction of 23.4% for control group. The optimum seed sludge was found to be SS3, which can increase the  methane yield from 123.3 mL/JÂ·VS to 208.3 mL/JÂ·VS and VS reduction from 16.95% to 28.68%. The methane  yield and VS reduction by SS3 were 68.92% and 69.20% higher than those of raw WAS group.                         Fig. 4 The methane yield and VS reduction of all groups.    In previous studies of other researchers, ultrasound and alkalized pretreatment have been used to enhance AD  0 50 100 150 200 250 66  66  66  &amp;. 66  66  66  &amp;. 66  66  66  &amp;. :$6 3:$6 $3:$6 M et ha ne  y ie ld  (m L/ gV S) 0 10 20 30 40 50 VS   re du ct io n  (% ) 0HWKDQH \LHOG 96 UHGXFWLRQ 751 Yucong Geng et al. /  Procedia Environmental Sciences  31 ( 2016 )  743 â€“ 752  performance for WAS, and a certain achievement was obtained. In Perez-Elviraâ€™s study, the biogas production from  WAS increased by 42% after ultrasonic pretreatment31. Neis found that the biogas production was enhanced by 30%  after ultrasonic pretreatment32. In another research of treated at ultrasonic parameters beyond 2.0 W/mL and 15 min  for WAS, more organic substances were released33. Alkaline pretreatment by NaOH can increase the methane  production from 251.2 mL/LÂ·d to 362.2 mL/LÂ·d34. In our research, we first combined CaO-ultrasound pretreatment  with seed sludges addition to improve the methane production and VS reduction successfully. A methane  increasement of 68.92% higher and VS reduction of 69.20% higher than control had been achieved. The effective of  methane yield and VS reduction by combained method (Cao ultrasound pretreatment, acdification and seed sludges  addition) was higher than that of using a single method, respectively.     4. Conclusion  In this study, a new method was explored for improving AD performance of WAS. For AD process of WAS,  CaO-ultrasound pretreatment would cause a initial alkaline environment, which could inhibit the methanogens to  produce methane. This problem can be solved after PWAS laying for a day under natural surroundings. After 25  daysâ€™ batch experiments, the CaO-ultrasound pretreatment with acdification and optimum seed sludge addition of  SS3, which had a stronger ability of degrading WAS and producing methane than SS1 and SS2, can increase  68.92% of methane yield and 69.2% of VS reduction. The effective of WAS AD by SS3 a stronger This study may  pave a new way for industrial application of dealing with WAS.    Acknowledgements  This study was supported by Special Fund for Agro-scientific Research in the Public Interest Project of China  (201303101-2A).  References  1. Chi YZ, Zhang ST, Li YY. Treatment and disposal of sewage sludge in China. J Environ Conserv Eng 2009;38,45-50..  2. Dai XH. Stuation and thinking on the diposal of urban sludge in our country. Water &amp; Wastewater Eng 2012;28,1-5.  3. Yu SY, Zhang GM, Li JZ, Zhao ZW, Kang XR. Effect of endogenous hydrolytic enzymes pretreatment on the anaerobic digestion of sludge.  Bioresour Technol 2013;146,758-761.  4. Bougrier C, Albasi C, Delgenes JP, Carrere H. Effect of ultrasonic, thermal and ozone pre-treatments on waste activated sludge solubilisation  and anaerobic biodegradability. Chem Eng Process 2006;45,711-718.  5. Ayol A. Enzymatic treatment effects on dewaterability of anaerobically digested biosolids- I: performance evaluations. Process Biochem  2005;40,2427-2434.  6. Romano RT, Zhang RH, Teter S, McGarvey JA. The effect of enzyme addition on anaerobic digestion of Jose Tall Wheat Grass. Bioresour  Technol 2009;100,4564-4571.  7. Appels L, Degreve J, Vander BB, Van IJ, Dewil R. Influence of low temperature thermal pre-treatment on sludge solubilisation, heavy metal  release and anaerobic digestion. Bioresour Technol 2010;101,5743-5748.  8. Demirel B, Scherer P. The role of acetotrophic and hydrogenotrophic methanogens during anaerobic conversion of biomass to methane; a  review. Rev Environ Sci Biotechnol 2008;7,173-190.  9. Yu B, Xu J, Yuan H, Low Z, Lin J, Zhu N. Enhancement of anaerobic digestion of waste activated sludge by electrochemical pretreatment.  Fuel 2014;130,279-285.  10. Tyagi VK, Lo SL, Appels L, Dewil R. Ultrasonic treatment of waste sludge: a review on mechanisms and application. Crit Rev Environ Sci  Technol 2014;44,1220-1288.  11. Cho SK, Shin HS, Kim DH. Waste activated sludge hydrolysis during ultrasonication: two-step disintegration. Bioresour Technol  2012;121,480-483.  12. Carrere H, Dumas C, Battimelli A, Batstonce DJ, Delgenes JP, Steyer JP, Ferrer I. Pretreatment methods to improve sludge anaerobic  degradability: a review. J Hazard Mater 2010;183,1-15.  13. Harrison STL. Bacterial cell disruption: a key unit operation in the recovery of intracellular products. Biotechnol Adv 1991;9,217-240.  14. Nakasaki K, Tran LTH, Idemoto Y, Abe M, Rollon AP. Comparison of organic matter degradation and microbial community during  thermophilic composting of two different types of anaerobic sludge. Bioresour Technol;100,676-682.  15. Tiehm A, Nickel K, Zellhorn M, Neis U. Ultrasonic waste activated sludge disintegration for improving anaerobic stabilization. Water Res  2001;35,2003-2009.  752   Yucong Geng et al. /  Procedia Environmental Sciences  31 ( 2016 )  743 â€“ 752  16. Bien JB, Malina G, Bien JD, Wolny L. Enhancing anaerobic fermentation of sewage sludge for increasing biogas generation. J Environ Sci  Health Part A-Toxic/Hazard. Subst Environ Eng 2004;39,939-949.  17. Kim J, Park C, Kim TH, Lee M, Kim S, Kim K, Lee J. Effects of various pretreatments for enhanced anaerobic digestion with waste activated  sludge. J Biosci Bioeng 2003;95,271-275.  18. Nathan DP, Steve SH, Ronald WT. Combined alkaline and ultrasound pretreatment of thickened pulp mill waste activated sludge for  improved anaerobic. Biomass Bioenerg 2012;46,750-756.  19. Mouneimne AH, Carrer H, Bernet JP, Delgenes JP. Effect of saponification on the anaerobic digestion of solid fatty residues. Bioresour  Technol 2003;90,89-94.  20. Zhang L, Deokjin J. Enhanced anaerobic digestion of piggery wastewater by ammonia stripping: Effect of alkali types. J Hazard Mater  2010;182,536-543.  21. Liang YG, Zheng Z, Hua RM, Luo XZ. A preliminary study of simultaneous lime treatment and dry digestion of smooth cordgrass for biogas  production. Chen Eng J 2011;174,175-181.  22. Li LQ, Li XJ, Zheng MX, Chen JJ. Influence of inoculum sources on the anaerobic digestion of corn stover. Int Confere on Biomass Energy  Technol 2008;12,459-465.  23. Jiao GZ, Li M, Zhao YC. Effects of seeding sludge on hydrogen production from anaerobic fermentation of food wastes with and without the  buffering additives. Environ Pollut &amp; Control 2009;2,19-22.  24. Zhang X, Yu JF, Liu JD, Zhang HQ, Zhang SD. Effects of different inocula on anaerobic-thermophilic digestion of cattle manure. J Guangxi  Norl-Univ: Nat Sci Edit 2007;25,78-81.  25. APHA (American Public Health Association), Standard Methods for the Examination of Water and Wastewater (19th ed.). Washington DC,  USA; 1995.  26. Zhang YB, Feng YH, Yu QL, Xu ZB, Quan X. Enhanced high-solids anaerobic digestion of waste activated sludge by the addition of scrap  iron. Bioresour Technol 2014;159,297-304.  27. Krishna D, Kalamdhad AS. Pre-treatment and anaerobic digestion of food waste for high rate methane production â€“ a review. J Environ  Chem Eng 2014;2,1821-1830.  28. Connaughton S, Collins G, Oâ€™Flaherty V. Development of microbial community structure and activity in a high-rate anaerobic bioreactor at  181 Ä‡. Water Res 2006;40,1009-1017.  29. Zhai NN, Zhang T, Yin DX, Yang GH, Wang XJ, Ren GX, Feng YZ. Effect of initial pH on anaerobic co-digestion of kitchen waste and cow  manure. Waste Manage 2015;38,126-131.  30. Zhang T, Mao CL, Zhai NN, Wang XJ, Yang GH. Influence of initial pH on thermophilic anaerobic co-digestion of swine manure and maize  stalk. Waste Manage 2015;35,119-126.  31. Perez-Elvira S, Fdz-Polanco M, Plaza FL, Garralon G, Fdz-Polanco F. Ultrasound pre-treatment for anaerobic digestion improvement. Water  Sci Technol 2009;60,1525-1532.  32. Neis U, Nickel K, Lunden A. Improving anaerobic and aerobic degradation bu ultrasonic disintegration of biomass. J Environ Sci Health  Parta-Toxic/Hazard Subst Environ Eng 2008;43,1541-1545.  33. Liu YL, Li X, Kang XR, Yuan YX, Jiao ML, Zhan JL, Du MA. Effect of extracellular polymeric substances disintegration by ultrasonic  pretreatment on waste activated sludge acidification. Int Biodeter Biodegr 2015;102,131-136.  34. Xiao BY, Liu C, Liu JX, Guo XS. Evaluation of the microbial cell structure damages in alkaline pretreatment of waste activated sludge.  Bioresour Technol 2015;196,109-115.   review. J Hazard Mater 2010;183,1-15.  13. Harrison STL. Bacterial cell disruption: a key unit operation in the recovery of intracellular products. Biotechnol Adv 1991;9,217-240.  14. Nakasaki K, Tran LTH, Idemoto Y, Abe M, Rollon AP. Comparison of organic matter degradation and microbial community during  thermophilic composting of two different types of anaerobic sludge. Bioresour Technol;100,676-682.  15. Tiehm A, Nickel K, Zellhorn M, Neis U. Ultrasonic waste activated sludge disintegration for improving anaerobic stabilization. Water Res  2001;35,2003-2009.  752   Yucong Geng et al. /  Procedia Environmental Sciences  31 ( 2016 )  743 â€“ 752  16. Bien JB, Malina G, Bien JD, Wolny L. Enhancing anaerobic fermentation of sewage sludge for increasing biogas generation. J Environ Sci  Health Part A-Toxic/Hazard. Subst Environ Eng 2004;39,939-949.  17. Kim J, Park C, Kim TH, Lee M, Kim S, Kim K, Lee J. Effects of various pretreatments for enhanced anaerobic digestion with waste activated  sludge. J Biosci Bioeng 2003;95,271-275.  18. Nathan DP, Steve SH, Ronald WT. Combined alkaline and ultrasound pretreatment of thickened pulp mill waste activated sludge for  improved anaerobic. Biomass Bioenerg 2012;46,750-756.  19. Mouneimne AH, Carrer H, Bernet JP, Delgenes JP. Effect of saponification on the anaerobic digestion of solid fatty residues. Bioresour  Technol 2003;90,89-94.  20. Zhang L, Deokjin J. Enhanced anaerobic digestion of piggery wastewater by ammonia stripping: Effect of alkali types. J Hazard Mater  2010;182,536-543.  21. Liang YG, Zheng Z, Hua RM, Luo XZ. A preliminary study of simultaneous lime treatment and dry digestion of smooth cordgrass for biogas  production. Chen Eng J 2011;174,175-181.  22. Li LQ, Li XJ, Zheng MX, Chen JJ. Influence of inoculum sources on the anaerobic digestion of corn stover. Int Confere on Biomass Energy  Technol 2008;12,459-465.  23. Jiao GZ, Li M, Zhao YC. Effects of seeding sludge on hydrogen production from anaerobic fermentation of food wastes with and without the  buffering additives. Environ Pollut &amp; Control 2009;2,19-22.  24. Zhang X, Yu JF, Liu JD, Zhang HQ, Zhang SD. Effects of different inocula on anaerobic-thermophilic digestion of cattle manure. J Guangxi  Norl-Univ: Nat Sci Edit 2007;25,78-81.  25. APHA (American Public Health Association), Standard Methods for the Examination of Water and Wastewater (19th ed.). Washington DC,  USA; 1995.  26. Zhang YB, Feng YH, Yu QL, Xu ZB, Quan X. Enhanced high-solids anaerobic digestion of waste activated sludge by the addition of scrap  iron. Bioresour Technol 2014;159,297-304.  27. Krishna D, Kalamdhad AS. Pre-treatment and anaerobic digestion of food waste for high rate methane production â€“ a review. J Environ  Chem Eng 2014;2,1821-1830.  28. Connaughton S, Collins G, Oâ€™Flaherty V. Development of microbial community structure and activity in a high-rate anaerobic bioreactor at  181 Ä‡. Water Res 2006;40,1009-1017.  29. Zhai NN, Zhang T, Yin DX, Yang GH, Wang XJ, Ren GX, Feng YZ. Effect of initial pH on anaerobic co-digestion of kitchen waste and cow  manure. Waste Manage 2015;38,126-131.  30. Zhang T, Mao CL, Zhai NN, Wang XJ, Yang GH. Influence of initial pH on thermophilic anaerobic co-digestion of swine manure and maize  stalk. Waste Manage 2015;35,119-126.  31. Perez-Elvira S, Fdz-Polanco M, Plaza FL, Garralon G, Fdz-Po</xocs:rawtext><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.4" xml:lang="en" docsubtype="fla">
+         <item-info>
+            <jid>PROENV</jid>
+            <aid>2969</aid>
+            <ce:pii>S1878-0296(16)00063-3</ce:pii>
+            <ce:doi>10.1016/j.proenv.2016.02.062</ce:doi>
+            <ce:copyright type="other" year="2016">The Authors</ce:copyright>
+         </item-info>
+         <head>
+            <ce:article-footnote>
+               <ce:label>☆</ce:label>
+               <ce:note-para id="npar0005" view="all">Peer-review under responsibility of Tsinghua University/ Basel Convention Regional Centre for Asia and the Pacific.</ce:note-para>
+            </ce:article-footnote>
+            <ce:title id="tit0005">Improving Methane Production During the Anaerobic Digestion of Waste Activated Sludge: Cao-ultrasonic Pretreatment and Using Different Seed Sludges</ce:title>
+            <ce:author-group id="aug0005">
+               <ce:author id="aut0005">
+                  <ce:given-name>Yucong</ce:given-name>
+                  <ce:surname>Geng</ce:surname>
+                  <ce:cross-ref id="crf0005" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0010" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0010">
+                  <ce:given-name>Bo</ce:given-name>
+                  <ce:surname>Zhang</ce:surname>
+                  <ce:cross-ref id="crf0015" refid="aff0015">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0015">
+                  <ce:given-name>Lianzhu</ce:given-name>
+                  <ce:surname>Du</ce:surname>
+                  <ce:cross-ref id="crf0020" refid="aff0020">
+                     <ce:sup loc="post">d</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0020">
+                  <ce:given-name>Zhi</ce:given-name>
+                  <ce:surname>Tang</ce:surname>
+                  <ce:cross-ref id="crf0025" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0030" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0025">
+                  <ce:given-name>Qiang</ce:given-name>
+                  <ce:surname>Li</ce:surname>
+                  <ce:cross-ref id="crf0035" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0040" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0030">
+                  <ce:given-name>Zheng</ce:given-name>
+                  <ce:surname>Zhou</ce:surname>
+                  <ce:cross-ref id="crf0045" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0050" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="aut0035">
+                  <ce:given-name>Xiaobo</ce:given-name>
+                  <ce:surname>Yin</ce:surname>
+                  <ce:cross-ref id="crf0055" refid="aff0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0060" refid="aff0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref id="crf0065" refid="cor0005">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff0005">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Biogas Institute of Ministry of Agriculture, 4-13 Renmin Road.South, Chengdu, 610041, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Biogas Institute of Ministry of Agriculture, 4-13 Renmin Road.South, Chengdu, 610041</sa:organization>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff0010">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Key Laboratory of Agriculture Rural Renewable Energy Development and Utilization, 4-13 Renmin Road.South, Chengdu, 610041, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Key Laboratory of Agriculture Rural Renewable Energy Development and Utilization, 4-13 Renmin Road.South, Chengdu, 610041</sa:organization>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff0015">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>School of Environmental Science and Engineering, Tainjin University, Tainjin 300072, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>School of Environmental Science and Engineering, Tainjin University, Tainjin 300072</sa:organization>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="aff0020">
+                  <ce:label>d</ce:label>
+                  <ce:textfn>Agro-Enviromental Protection Institute, Ministry of Agriculture, Tianjin 301191, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Agro-Enviromental Protection Institute, Ministry of Agriculture, Tianjin 301191</sa:organization>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor0005">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author. Tel.: +86-28-85230683; fax: +86-28-85230683.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:abstract id="abs0005" view="all" class="author"><ce:abstract-sec id="abst0005" view="all">
+                  <ce:simple-para id="spar0005" view="all">Three individual seed sludges, which domesticated by filter paper (SS1), food waste (SS2) and grease (SS3), respectively, were used for enhancing the methane production of waste activated sludge (WAS). Also CaO-ultrasonic pretreatment was performed on WAS to evaluate the effectiveness on improving efficient anaerobic digestion (AD). The results showed that WAS being acidated for 24<ce:hsp sp="0.25"/>h after CaO-ultrasonic pretreatment was an effective method for increasing initial methane production rate. The daily concentration of volatile fatty acids (VFAs) during the AD course showed that the propionic was easier to be reduced after adding seed sludge. The optimum seed sludge for improving methane production and biodegradability of WAS was SS3, which led to an increase in the methane production of 68.92% and VS reduction of 69.20% higher than the control. This pretreatment combined with adding optimum seed sludge can greatly improve clean energy generation from WAS.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords id="kwd0005" class="keyword" view="all">
+               <ce:section-title id="sect0010">Keywords</ce:section-title>
+               <ce:keyword id="kw0005">
+                  <ce:text>Waste activated sludge</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0010">
+                  <ce:text>anaerobic digestion</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0015">
+                  <ce:text>Cao-ultrasound pretreatment</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0020">
+                  <ce:text>seed sludge</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0025">
+                  <ce:text>methane production</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <tail view="all">
+            <ce:bibliography id="bibl0005" view="all">
+               <ce:section-title id="sect0020">References</ce:section-title>
+               <ce:bibliography-sec id="bibs0005" view="all">
+                  <ce:bib-reference id="bib0005">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="sbref0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.Z.</ce:given-name>
+                                 <ce:surname>Chi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.T.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.Y.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Treatment and disposal of sewage sludge in China</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Environ Conserv Eng</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>38</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>45</sb:first-page>
+                              <sb:last-page>50</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0010">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="sbref0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.H.</ce:given-name>
+                                 <ce:surname>Dai</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Stuation and thinking on the diposal of urban sludge in our country</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water &amp; Wastewater Eng</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>28</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>5</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0015">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="sbref0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.Y.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.M.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.Z.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.W.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.R.</ce:given-name>
+                                 <ce:surname>Kang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of endogenous hydrolytic enzymes pretreatment on the anaerobic digestion of sludge</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour Technol</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>146</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>758</sb:first-page>
+                              <sb:last-page>761</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0020">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="sbref0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Bougrier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Albasi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Delgenes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Carrere</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of ultrasonic, thermal and ozone pre-treatments on waste activated sludge solubilisation and anaerobic biodegradability</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem Eng Process</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>45</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>711</sb:first-page>
+                              <sb:last-page>718</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0025">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="sbref0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Ayol</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Enzymatic treatment effects on dewaterability of anaerobically digested biosolids- I: performance evaluations</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Process Biochem</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>40</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2427</sb:first-page>
+                              <sb:last-page>2434</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0030">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="sbref0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.T.</ce:given-name>
+                                 <ce:surname>Romano</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.H.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Teter</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>McGarvey</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The effect of enzyme addition on anaerobic digestion of Jose Tall Wheat Grass</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour Technol</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>100</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4564</sb:first-page>
+                              <sb:last-page>4571</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0035">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="sbref0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Appels</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Degreve</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.B.</ce:given-name>
+                                 <ce:surname>Vander</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.J.</ce:given-name>
+                                 <ce:surname>Van</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Dewil</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Influence of low temperature thermal pre-treatment on sludge solubilisation, heavy metal release and anaerobic digestion</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour Technol</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>101</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5743</sb:first-page>
+                              <sb:last-page>5748</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0040">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="sbref0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Demirel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Scherer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The role of acetotrophic and hydrogenotrophic methanogens during anaerobic conversion of biomass to methane; a review</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Rev Environ Sci Biotechnol</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>173</sb:first-page>
+                              <sb:last-page>190</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0045">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="sbref0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Yuan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Low</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Enhancement of anaerobic digestion of waste activated sludge by electrochemical pretreatment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Fuel</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>130</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>279</sb:first-page>
+                              <sb:last-page>285</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0050">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="sbref0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.K.</ce:given-name>
+                                 <ce:surname>Tyagi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.L.</ce:given-name>
+                                 <ce:surname>Lo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Appels</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Dewil</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ultrasonic treatment of waste sludge: a review on mechanisms and application</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Crit Rev Environ Sci Technol</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>44</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1220</sb:first-page>
+                              <sb:last-page>1288</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0055">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="sbref0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Cho</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.S.</ce:given-name>
+                                 <ce:surname>Shin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.H.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Waste activated sludge hydrolysis during ultrasonication: two-step disintegration</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour Technol</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>121</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>480</sb:first-page>
+                              <sb:last-page>483</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0060">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="sbref0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Carrere</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Dumas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Battimelli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.J.</ce:given-name>
+                                 <ce:surname>Batstonce</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Delgenes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Steyer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Ferrer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Pretreatment methods to improve sludge anaerobic degradability: a review</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Hazard Mater</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>183</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>15</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0065">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="sbref0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.T.L.</ce:given-name>
+                                 <ce:surname>Harrison</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Bacterial cell disruption: a key unit operation in the recovery of intracellular products</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biotechnol Adv</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1991</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>217</sb:first-page>
+                              <sb:last-page>240</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0070">
+                     <ce:label>[14]</ce:label>
+                     <ce:other-ref id="oref0070">
+                        <ce:textref>Nakasaki K, Tran LTH, Idemoto Y, Abe M, Rollon AP. Comparison of organic matter degradation and microbial community during thermophilic composting of two different types of anaerobic sludge. <ce:italic>Bioresour Technol</ce:italic>;100,676-682.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0075">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="sbref0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Tiehm</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Nickel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Zellhorn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Neis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ultrasonic waste activated sludge disintegration for improving anaerobic stabilization</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Res</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2003</sb:first-page>
+                              <sb:last-page>2009</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0080">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="sbref0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.B.</ce:given-name>
+                                 <ce:surname>Bien</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Malina</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.D.</ce:given-name>
+                                 <ce:surname>Bien</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Wolny</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Enhancing anaerobic fermentation of sewage sludge for increasing biogas generation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Environ Sci Health Part A-Toxic/Hazard. Subst Environ Eng</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>939</sb:first-page>
+                              <sb:last-page>949</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0085">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="sbref0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.H.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effects of various pretreatments for enhanced anaerobic digestion with waste activated sludge</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Biosci Bioeng</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>95</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>271</sb:first-page>
+                              <sb:last-page>275</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0090">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="sbref0090">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.P.</ce:given-name>
+                                 <ce:surname>Nathan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Steve</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.T.</ce:given-name>
+                                 <ce:surname>Ronald</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Combined alkaline and ultrasound pretreatment of thickened pulp mill waste activated sludge for improved anaerobic</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biomass Bioenerg</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>46</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>750</sb:first-page>
+                              <sb:last-page>756</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0095">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="sbref0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.H.</ce:given-name>
+                                 <ce:surname>Mouneimne</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Carrer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Bernet</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Delgenes</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of saponification on the anaerobic digestion of solid fatty residues</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour Technol</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>90</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>89</sb:first-page>
+                              <sb:last-page>94</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0100">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="sbref0100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Deokjin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Enhanced anaerobic digestion of piggery wastewater by ammonia stripping: Effect of alkali types</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Hazard Mater</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>182</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>536</sb:first-page>
+                              <sb:last-page>543</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0105">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="sbref0105">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.G.</ce:given-name>
+                                 <ce:surname>Liang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Zheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.M.</ce:given-name>
+                                 <ce:surname>Hua</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.Z.</ce:given-name>
+                                 <ce:surname>Luo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A preliminary study of simultaneous lime treatment and dry digestion of smooth cordgrass for biogas production</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chen Eng J</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>174</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>175</sb:first-page>
+                              <sb:last-page>181</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0110">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="sbref0110">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.Q.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.J.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.X.</ce:given-name>
+                                 <ce:surname>Zheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Influence of inoculum sources on the anaerobic digestion of corn stover</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int Confere on Biomass Energy Technol</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>459</sb:first-page>
+                              <sb:last-page>465</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0115">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="sbref0115">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.Z.</ce:given-name>
+                                 <ce:surname>Jiao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.C.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effects of seeding sludge on hydrogen production from anaerobic fermentation of food wastes with and without the buffering additives</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Environ Pollut &amp; Control</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>19</sb:first-page>
+                              <sb:last-page>22</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0120">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="sbref0120">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.F.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.D.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.Q.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.D.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effects of different inocula on anaerobic-thermophilic digestion of cattle manure</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Guangxi Norl-Univ: Nat Sci Edit</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>78</sb:first-page>
+                              <sb:last-page>81</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0125">
+                     <ce:label>[25]</ce:label>
+                     <ce:other-ref id="oref0125">
+                        <ce:textref>APHA (American Public Health Association), <ce:italic>Standard Methods for the Examination of Water and Wastewater (19th ed.)</ce:italic>. Washington DC, USA; 1995.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0130">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="sbref0130">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.B.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.H.</ce:given-name>
+                                 <ce:surname>Feng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.L.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.B.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Quan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Enhanced high-solids anaerobic digestion of waste activated sludge by the addition of scrap iron</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour Technol</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>159</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>297</sb:first-page>
+                              <sb:last-page>304</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0135">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference id="sbref0135">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Krishna</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.S.</ce:given-name>
+                                 <ce:surname>Kalamdhad</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Pre-treatment and anaerobic digestion of food waste for high rate methane production – a review</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Environ Chem Eng</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1821</sb:first-page>
+                              <sb:last-page>1830</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0140">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference id="sbref0140">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Connaughton</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Collins</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>O’Flaherty</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Development of microbial community structure and activity in a high-rate anaerobic bioreactor at 181</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>̊C Water Res</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>40</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1009</sb:first-page>
+                              <sb:last-page>1017</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0145">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference id="sbref0145">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.N.</ce:given-name>
+                                 <ce:surname>Zhai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.X.</ce:given-name>
+                                 <ce:surname>Yin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.H.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.J.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.X.</ce:given-name>
+                                 <ce:surname>Ren</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.Z.</ce:given-name>
+                                 <ce:surname>Feng</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of initial pH on anaerobic co-digestion of kitchen waste and cow manure</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Waste Manage</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>38</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>126</sb:first-page>
+                              <sb:last-page>131</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0150">
+                     <ce:label>[30]</ce:label>
+                     <sb:reference id="sbref0150">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.L.</ce:given-name>
+                                 <ce:surname>Mao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.N.</ce:given-name>
+                                 <ce:surname>Zhai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.J.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.H.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Influence of initial pH on thermophilic anaerobic co-digestion of swine manure and maize stalk</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Waste Manage</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>119</sb:first-page>
+                              <sb:last-page>126</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0155">
+                     <ce:label>[31]</ce:label>
+                     <sb:reference id="sbref0155">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Perez-Elvira</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Fdz-Polanco</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.L.</ce:given-name>
+                                 <ce:surname>Plaza</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Garralon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Fdz-Polanco</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ultrasound pre-treatment for anaerobic digestion improvement</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Sci Technol</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>60</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1525</sb:first-page>
+                              <sb:last-page>1532</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0160">
+                     <ce:label>[32]</ce:label>
+                     <sb:reference id="sbref0160">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Neis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Nickel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Lunden</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Improving anaerobic and aerobic degradation bu ultrasonic disintegration of biomass</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Environ Sci Health Parta-Toxic/Hazard Subst Environ Eng</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>43</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1541</sb:first-page>
+                              <sb:last-page>1545</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0165">
+                     <ce:label>[33]</ce:label>
+                     <sb:reference id="sbref0165">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.L.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.R.</ce:given-name>
+                                 <ce:surname>Kang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.X.</ce:given-name>
+                                 <ce:surname>Yuan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.L.</ce:given-name>
+                                 <ce:surname>Jiao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Zhan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Du</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of extracellular polymeric substances disintegration by ultrasonic pretreatment on waste activated sludge acidification</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int Biodeter Biodegr</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>102</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>131</sb:first-page>
+                              <sb:last-page>136</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0170">
+                     <ce:label>[34]</ce:label>
+                     <sb:reference id="sbref0170">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.Y.</ce:given-name>
+                                 <ce:surname>Xiao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.X.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.S.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Evaluation of the microbial cell structure damages in alkaline pretreatment of waste activated sludge</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour Technol</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>196</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>109</sb:first-page>
+                              <sb:last-page>115</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

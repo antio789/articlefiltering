@@ -1,0 +1,116 @@
+{
+  "filters": [
+    {
+      "qid": 1,
+      "question": "Does it explicitly describe the use of mechanical pretreatment (e.g., grinding, milling, extrusion, shearing, chopping) on a substrate",
+      "reasoning": "Reasoning: The question asks if the methodology section explicitly describes the use of mechanical pretreatment techniques like grinding, milling, extrusion, shearing, or chopping. Let\u2019s examine the \u201cMaterial and methods\u201d section of the article. The FW was collected from the kitchen and mixed with a kitchen blender to reduce the particle size. This clearly indicates a mechanical process \u2013 blending \u2013 was used to reduce the particle size of the food waste before storage. There is no mention of other mechanical pretreatment methods.",
+      "answer": "true"
+    },
+    {
+      "qid": 2,
+      "question": "Does it explicitly describe the use of thermal pretreatment on a substrate (e.g., microwave, hydrothermal treatment, steam explosion, autoclave)",
+      "reasoning": "Reasoning: The question asks if the methodology section explicitly describes thermal pretreatment on a substrate. I will review the \u201cMaterial and methods\u201d section of the article to determine if thermal pretreatment is described, specifically detailing the techniques used (e.g., microwave, hydrothermal, steam explosion, autoclave).\n\nThe methodology section describes \u201cThermal pre-treatment\u201d. It states: \u201cTo evaluate the effect of temperature on the improvement of anaerobic digestion of food waste, 1 kg of substrate was placed in an oven (Binder GmbH BF 400 Germany) for each temperature variant. Five different temperatures were used (60 \u00b0C, 80 \u00b0C, 100 \u00b0C, 120 \u00b0C and 140 \u00b0C) at different treatment durations, 1 h for 60 and 80 \u00b0C, and 30 min for 100, 120 and 140 \u00b0C.\u201d",
+      "answer": "true"
+    },
+    {
+      "qid": 3,
+      "question": "Does it explicitly describe the use of ultrasound pretreatment on a substrate",
+      "reasoning": "Reasoning: The question asks if the methodology section explicitly describes the use of ultrasound pretreatment on a substrate for anaerobic digestion. I will review the \u201cMaterial and methods\u201d section of the article to determine if ultrasound pretreatment is mentioned.\n\nThe methodology section details the following pretreatment methods:\n*   **Thermal pre-treatment (TP):** This involved placing the food waste in an oven at temperatures ranging from 60\u00b0C to 140\u00b0C for varying durations.\n*   **Biological pre-hydrolysis (BPH):** This involved incubating the food waste at temperatures of 37\u00b0C, 55\u00b0C, and 55\u00b0C for varying durations.\n\nThere is no mention of ultrasound pretreatment anywhere in this section.",
+      "answer": "False"
+    },
+    {
+      "qid": 4,
+      "question": "Does it explicitly describe the use of pressure-based pretreatment on a substrate (e.g., high-pressure homogenisation, pressure shock treatment, hydrodynamic cavitation, mechanical jet), (Methods where pressure is only indirectly applied due to enclosed heating (e.g., autoclave) must be excluded.)",
+      "reasoning": "Reasoning: The question asks whether the methodology section explicitly describes pressure-based pretreatment techniques. Let\u2019s analyze the provided text focusing on the \u201cMaterials and methods\u201d section. The methodology details thermal pretreatment (TP) and biological pre-hydrolysis (BPH). TP involves placing the substrate in an oven (Binder GmbH BF 400 Germany) at temperatures ranging from 60\u00b0C to 140\u00b0C for varying durations. BPH is carried out in glass vessels at temperatures of 37\u00b0C, 55\u00b0C, and combinations thereof. There is no mention of any pressure-based techniques, such as high-pressure homogenisation, hydrodynamic cavitation, or mechanical jet treatment. The oven used applies heat, which is a form of thermal energy, but it doesn\u2019t involve applying pressure to the substrate.",
+      "answer": "false"
+    },
+    {
+      "qid": 5,
+      "question": "Does it explicitly describe the use of pulsed electric field or other electrical pretreatment techniques applied to a substrate to disrupt material and increase availability",
+      "reasoning": "Reasoning: The question asks if the methodology section describes the use of pulsed electric fields or other electrical pretreatment techniques. Let\u2019s examine the \u201cMaterial and methods\u201d section, specifically the \u201cPre-treatments methods\u201d and \u201cThermal pre-treatment\u201d subsections. The text details the methods used for thermal pretreatment, including temperatures ranging from 60\u00b0C to 140\u00b0C for varying durations. It describes the process of disintegration and liquefaction of the substrate through heat. However, there is no mention of pulsed electric fields or any other electrical pretreatment techniques. The focus remains solely on thermal treatment.",
+      "answer": "False"
+    },
+    {
+      "qid": 6,
+      "question": "Does it explicitly describe the use of alkaline pretreatment on a substrate",
+      "reasoning": "Reasoning: The question asks if the methodology section explicitly describes the use of alkaline pretreatment on a substrate for anaerobic digestion. I will analyze the \u201cMaterial and methods\u201d section of the article to determine if alkaline pretreatment is mentioned. The methodology describes the following pretreatment methods: \u201cThermal pre-treatment\u201d and \u201cBiological pre-hydrolysis treatment\u201d. It details the specific conditions for each, including temperature ranges and durations. There is no mention of any pretreatment involving alkaline conditions or pH adjustment.",
+      "answer": "false"
+    },
+    {
+      "qid": 7,
+      "question": "Does it explicitly describe the use of acidic pretreatment on a substrate",
+      "reasoning": "Reasoning: The question asks if the methodology section explicitly describes the use of acidic pretreatment on a substrate for anaerobic digestion. I will review the \u201cMaterial and methods\u201d section of the article to determine if any mention of acidic pretreatment is present. The methodology section details the methods used for thermal and biological pre-hydrolysis. It describes the temperature ranges used for thermal pretreatment (60\u00b0C, 80\u00b0C, 100\u00b0C, 120\u00b0C, and 140\u00b0C) and the temperature ranges used for biological pre-hydrolysis (37\u00b0C, 55\u00b0C). It does not mention any use of acids or acidic conditions during the pretreatment process.",
+      "answer": "false"
+    },
+    {
+      "qid": 8,
+      "question": "Does it explicitly describe the use of oxidative pretreatment on a substrate (e.g., traditional oxidizers such as H\u2082O\u2082, or advanced oxidation processes such as oxidizers combined with UV, Fenton reactions, or TiO\u2082)",
+      "reasoning": "Reasoning: The question asks if the methodology section explicitly describes the use of oxidative pretreatment, such as traditional oxidizers or advanced oxidation processes, in the context of anaerobic digestion. Let\u2019s examine the \u201cMaterial and methods\u201d section of the article. The methodology details thermal pretreatment (TP) and biological pre-hydrolysis (BPH). It describes the TP process as involving placing the substrate in an oven at temperatures ranging from 60\u00b0C to 140\u00b0C for varying durations. It also describes BPH as carried out in glass vessels at temperatures of 37\u00b0C, 55\u00b0C, and combinations thereof, with a 10:1 ratio of food waste to inoculum. There is no mention of any oxidative pretreatment methods, including the use of oxidizers like hydrogen peroxide, UV, Fenton reactions, or TiO\u2082.",
+      "answer": "false"
+    },
+    {
+      "qid": 9,
+      "question": "Does it explicitly describe the use of solvent-based pretreatment on a substrate",
+      "reasoning": "Reasoning: The question asks if the methodology section describes solvent-based pretreatment. Let\u2019s examine the \u201cMaterial and methods\u201d section, specifically the pre-treatment methods. It details two pre-treatment methods: \u201cThermal pre-treatment\u201d and \u201cBiological pre-hydrolysis treatment\u201d. Neither of these methods involves the use of solvents or any liquid other than water. The thermal pretreatment involves heating the substrate in an oven, and the biological pre-hydrolysis involves microbial activity in a vessel with a mixture of food waste and inoculum. Therefore, the methodology does not describe the use of solvent-based pretreatment.",
+      "answer": "false"
+    },
+    {
+      "qid": 10,
+      "question": "Does it explicitly describe the use of chemical pretreatment on a substrate, where chemical pretreatment signifies the degradation of complex material to improve bioavailability using some chemical compound that is different from the more prevalent techniques (alkaline, acidic, oxidation and solvent)? Examples of those techniques can be (surfactant, solubilizer, salts,...)",
+      "reasoning": "Reasoning: The question asks whether the methodology section explicitly describes the use of chemical pretreatment, defined as using chemical compounds to degrade complex material and improve bioavailability. Let\u2019s analyze the methodology section for details regarding chemical pretreatment techniques.\n\nThe methodology section details two pre-treatment methods: \u201cThermal pre-treatment\u201d (TP) and \u201cBiological pre-hydrolysis\u201d (BPH). It describes TP as using an oven at temperatures ranging from 60\u00b0C to 140\u00b0C for varying durations to promote hydrolysis. BPH involves moderate temperatures (35 \u2013 70\u00b0C) and microbial activity to depolymerize macromolecules. There is no mention of using any chemical compounds, surfactants, solubilizers, salts, or other chemicals to degrade the food waste. The descriptions focus solely on temperature and microbial activity.",
+      "answer": "False"
+    },
+    {
+      "qid": 11,
+      "question": "Does it explicitly describe the use of enzyme-based pretreatment on a substrate (this also includes crude enzyme treatments)",
+      "reasoning": "Reasoning: The question asks if the methodology section explicitly describes the use of enzyme-based pretreatment, including crude enzyme treatments. Let\u2019s examine the \u201cMaterial and methods\u201d section, specifically the pre-treatment methods. The methodology details two pre-treatment methods: \u201cThermal pre-treatment\u201d and \u201cBiological pre-hydrolysis treatment\u201d. It describes the thermal pretreatment as using temperature to promote hydrolysis and the biological pre-hydrolysis as involving \u201cacidogenic bacteria\u201d causing extracellular depolymerization of macromolecules. Neither method explicitly mentions the use of enzymes, whether crude or otherwise. The description focuses on temperature and bacterial activity, not on adding or utilizing enzymes.",
+      "answer": "false"
+    },
+    {
+      "qid": 12,
+      "question": "Does it explicitly describe the use of fungi-based pretreatment on a substrate (this excludes enzymes extracted from a fungi)",
+      "reasoning": "Reasoning: The question asks if the methodology section describes the use of fungi-based pretreatment. The methodology section details two pretreatment methods: thermal pretreatment (TP) and biological pre-hydrolysis (BPH). TP involves using temperature to break down organic materials, while BPH utilizes acidogenic bacteria to depolymerize macromolecules. Neither method explicitly mentions the use of fungi or fungal-derived enzymes. It describes microbial processes (bacteria) but doesn\u2019t specify a fungal source.",
+      "answer": "false"
+    },
+    {
+      "qid": 13,
+      "question": "Does it explicitly describe the use of microbial-based pretreatment on a substrate (this can be a bacterial treatment but also microbial consortium) (note: enzymes extracted from a microorganism as well as the use of substrate rich in microorganisms should be excluded)",
+      "reasoning": "Reasoning: The question asks whether the methodology section describes microbial-based pretreatment. Let\u2019s analyze the provided text, specifically the \u201cMaterial and methods\u201d and \u201cPre-treatments methods\u201d sections.\n\nThe methodology details two types of pre-treatments: \u201cThermal pre-treatment\u201d (TP) and \u201cBiological pre-hydrolysis\u201d (BPH). TP involves heating the food waste to temperatures between 60\u00b0C and 140\u00b0C for varying durations. BPH, on the other hand, is defined as \u201ctwo crucial parameters, temperature and micro-organisms\u2026 acidogenic bacteria cause extracellular depolymerization of macromolecules (proteins, lipids, and polysaccharides) into oligomers and monomers.\u201d This clearly describes a microbial process \u2013 the BPH utilizes bacteria to break down the complex organic molecules of the food waste. The BPH is carried out at moderate temperatures (35 \u2013 70 \u00b0C) and involves a 10:1 ratio of inoculum to substrate.",
+      "answer": "True"
+    },
+    {
+      "qid": 14,
+      "question": "Does it explicitly describe the use of biologically active substrate on a substrate for pretreatment, (this can be through the reuse of digestate, adding compost, rumen, or activated sludge,...)",
+      "reasoning": "Reasoning: The question asks if the methodology section describes the use of biologically active substrates for pretreatment. Let\u2019s examine the \u201cMaterial and methods\u201d section of the article, specifically focusing on the \u201cPre-treatments methods\u201d and \u201cBiological pre-hydrolysis treatment\u201d subsections.\n\nThe article states that BPH was carried out in 1 L glass vessels that were flushed for five minutes using nitrogen (N_2) and then placed in the incubator for 40 h at different temperatures (37 \u00b0C, 55 \u00b0C). The mixture of food waste and inoculum was 10:1 (w/w). The inoculum consisted of digestate from previously completed batch digestion tests. This indicates that the BPH utilized digestate \u2013 a product of anaerobic digestion \u2013 as an inoculum, effectively using a biologically active substrate to facilitate the pre-hydrolysis process.",
+      "answer": "True"
+    },
+    {
+      "qid": 15,
+      "question": "Does it explicitly describe the use of nanoparticles to improve the digestion process",
+      "reasoning": "Reasoning: The methodology section details the experimental setup for both thermal and biological pre-hydrolysis treatments. It describes the temperature ranges used for thermal pretreatment (60\u00b0C, 80\u00b0C, 100\u00b0C, 120\u00b0C, and 140\u00b0C) and the temperature ranges used for biological pre-hydrolysis (37\u00b0C, 55\u00b0C). However, there is no mention of nanoparticles, their use, or their effect on the anaerobic digestion process within this methodology section. The focus is solely on the temperature variations and durations of the two pre-hydrolysis techniques.",
+      "answer": "False"
+    },
+    {
+      "qid": 16,
+      "question": "Does the article describe the use of disinhibiting treatments (e.g., coagulants, biochar, ammonia stripping) applied to the substrate or reactor before or during digestion to improve microbial activity or methane production",
+      "reasoning": "Reasoning: The article\u2019s methodology section details the anaerobic digestion process, focusing on the application of thermal and biological pre-hydrolysis treatments to the food waste substrate. It describes the preparation of the substrate, the execution of the pre-treatment methods (temperature variations for thermal pre-hydrolysis and temperature variations for biological pre-hydrolysis), and the subsequent anaerobic digestion in batch tests. However, there is no mention of any disinhibiting treatments, such as coagulants, biochar, or ammonia stripping, being applied to the substrate or reactor. The methodology solely focuses on the pre-hydrolysis treatments themselves and the anaerobic digestion process without any interventions aimed at directly addressing microbial inhibition or enhancing activity.",
+      "answer": "False"
+    },
+    {
+      "qid": 17,
+      "question": "Does the article describe the use of chelating agents added to the substrate or reactor before or during digestion to enhance microbial activity or substrate degradation",
+      "reasoning": "Reasoning: The question asks if the article describes the use of chelating agents in the anaerobic digestion process. I will examine the \u201cMaterials and Methods\u201d section, specifically focusing on the preparation of the inoculum and the experimental setup, to determine if any such agents were utilized. The methodology details the preparation of the inoculum, which consists of digestate from previously completed batch digestion tests. It also describes the use of a ratio of VS Substrate to VS Inoculum (ai) of 0.5 \u00b1 0.2. There is no mention of any additives, including chelating agents, being added to the substrate or reactor before or during digestion.",
+      "answer": "False"
+    },
+    {
+      "qid": 18,
+      "question": "Does the article describe the addition of nutrients (e.g., nitrogen, phosphorus, micronutrients) to the substrate or reactor before or during digestion to improve microbial activity or methane production during the digestion process",
+      "reasoning": "Reasoning: The question asks if the article describes the addition of nutrients to the anaerobic digestion process. I will examine the \u201cMaterial and methods\u201d section, specifically the sections detailing the inoculum and batch tests, to determine if any nutrient supplementation was employed.\n\nThe methodology describes the inoculum as consisting of \u201cdigestate from previously completed batch digestion tests.\u201d It does not state that any nutrients were added to the inoculum. The batch tests utilize a ratio of VS Substrate to VS Inoculum (ai) of 0.5 \u00b1 0.2, indicating the inoculum was derived from previous digestion tests and not supplemented with additional nutrients. The article does not mention any deliberate addition of nutrients (e.g., nitrogen, phosphorus, micronutrients) to the substrate or reactor.",
+      "answer": "False"
+    },
+    {
+      "article_path": "articletxt/1798.txt"
+    }
+  ],
+  "article_path": "articletxt/1798.txt"
+}

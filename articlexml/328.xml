@@ -1,0 +1,2660 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0960852417304182</prism:url><dc:identifier>doi:10.1016/j.biortech.2017.03.137</dc:identifier><eid>1-s2.0-S0960852417304182</eid><prism:doi>10.1016/j.biortech.2017.03.137</prism:doi><pii>S0960-8524(17)30418-2</pii><dc:title>Prerequisite – An electrohydrolysis pretreatment for anaerobic digestion of lignocellulose waste material </dc:title><prism:publicationName>Bioresource Technology</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>09608524</prism:issn><prism:volume>235</prism:volume><prism:startingPage>274</prism:startingPage><prism:endingPage>280</prism:endingPage><prism:pageRange>274-280</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2017-07-31</prism:coverDate><prism:coverDisplayDate>July 2017</prism:coverDisplayDate><prism:copyright>© 2017 Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd.</prism:publisher><dc:creator>Veluchamy, C.</dc:creator><dc:creator>Raju, V. Wilson</dc:creator><dc:creator>Kalamdhad, Ajay S.</dc:creator><dc:description>
+                  This novel work is focused on evaluating the electrohydrolysis pretreatment conditions (applied voltage and time) and anaerobic digestion process for the biological bioconversion of pulp and paper mill sludge into biogas in batch assay. The pretreatment at 15V for 45min shows highest impact on sludge solubilization. The XRD and FT-IR spectroscopic characterization shows the development of aliphatic, unsaturated and carbonyl carbon functionalities in the pretreated samples. FESEM picture also qualities the change in alteration of structure after pretreatment. Batch anaerobic bioreactor was carried out to determine the efficacy of electrohydrolysis pretreated and untreated pulp and paper mill sludge. The methane production potential was increased from 274±5 to 301±4mL CH4/g VS after electrohydrolysis pretreatment.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Electrohydrolysis</dcterms:subject><dcterms:subject>Hydrolysis</dcterms:subject><dcterms:subject>Pretreatment</dcterms:subject><dcterms:subject>Anaerobic digestion</dcterms:subject><dcterms:subject>Lignocellulose material</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0960852417304182" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0960852417304182" rel="scidir"/></coredata><objects><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="82" size="3066">https://api.elsevier.com/content/object/eid/1-s2.0-S0960852417304182-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="200" height="163" size="4731">https://api.elsevier.com/content/object/eid/1-s2.0-S0960852417304182-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="fx1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="162" size="12643">https://api.elsevier.com/content/object/eid/1-s2.0-S0960852417304182-fx1.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="164" height="164" size="11998">https://api.elsevier.com/content/object/eid/1-s2.0-S0960852417304182-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="756" height="282" size="30927">https://api.elsevier.com/content/object/eid/1-s2.0-S0960852417304182-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="378" height="309" size="17851">https://api.elsevier.com/content/object/eid/1-s2.0-S0960852417304182-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="fx1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="270" height="200" size="16667">https://api.elsevier.com/content/object/eid/1-s2.0-S0960852417304182-fx1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="378" height="377" size="28289">https://api.elsevier.com/content/object/eid/1-s2.0-S0960852417304182-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="3346" height="1246" size="239773">https://api.elsevier.com/content/object/eid/1-s2.0-S0960852417304182-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1675" height="1369" size="145074">https://api.elsevier.com/content/object/eid/1-s2.0-S0960852417304182-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="fx1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="717" height="531" size="40653">https://api.elsevier.com/content/object/eid/1-s2.0-S0960852417304182-fx1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1004" height="1001" size="80916">https://api.elsevier.com/content/object/eid/1-s2.0-S0960852417304182-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="mmc1" category="standard" type="APPLICATION" multimediatype="Microsoft Word file" mimetype="application/word" size="458023">https://api.elsevier.com/content/object/eid/1-s2.0-S0960852417304182-mmc1.docx?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="96" height="39" size="529">https://api.elsevier.com/content/object/eid/1-s2.0-S0960852417304182-si1.gif?httpAccept=%2A%2F%2A</object></objects><scopus-id>85016616093</scopus-id><scopus-eid>2-s2.0-85016616093</scopus-eid><pubmed-id>28371765</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/85016616093" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271433</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291731</xocs:ssid>
+         <xocs:ssid type="subj">291744</xocs:ssid>
+         <xocs:ssid type="subj">291793</xocs:ssid>
+         <xocs:ssid type="subj">291832</xocs:ssid>
+         <xocs:ssid type="subj">291838</xocs:ssid>
+         <xocs:ssid type="subj">291850</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Bioresource Technology</xocs:srctitle>
+      <xocs:normalized-srctitle>BIORESOURCETECHNOLOGY</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20170325">2017-03-25</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20170325">2017-03-25</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20170331">2017-03-31</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20170331">2017-03-31</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2017-04-19T18:11:20</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0960852417304182</xocs:eid>
+      <xocs:pii-formatted>S0960-8524(17)30418-2</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0960852417304182</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.biortech.2017.03.137</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0960852417X00084</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20170419">2017-04-19T13:23:59.563001-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20170701</xocs:date-search-begin>
+      <xocs:date-search-end>20170731</xocs:date-search-end>
+      <xocs:year-nav>2017</xocs:year-nav>
+      <xocs:indexeddate epoch="1490406083">2017-03-25T01:41:23.297272Z</xocs:indexeddate>
+      <xocs:articleinfo>absattachment articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table e-component body mmlmath acknowledge affil appendices articletitle auth authfirstini authfull authkeywords authlast highlightsabst primabst ref specialabst</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0960-8524</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>09608524</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>235</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>235</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 235</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>46</xocs:sort-order>
+      <xocs:first-fp>274</xocs:first-fp>
+      <xocs:last-lp>280</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>274</xocs:first-page>
+         <xocs:last-page>280</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201707</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>July 2017</xocs:cover-date-text>
+      <xocs:cover-date-start>2017-07-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2017-07-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2017</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Full Length Articles</xocs:hub-sec-title>
+         <xocs:hub-sec>
+            <xocs:hub-sec-title>Physico-Chemical and Thermo-Chemical Processes for Biomass</xocs:hub-sec-title>
+         </xocs:hub-sec>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2017 Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>PREREQUISITEELECTROHYDROLYSISPRETREATMENTFORANAEROBICDIGESTIONLIGNOCELLULOSEWASTEMATERIAL</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>VELUCHAMY</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>C</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Materials and methods</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Materials</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Experimental set up</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Anaerobic biodegradability tests</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Analytical methods</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.5</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Instrumental characterization</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Result and discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Pretreatment effect on chemical characteristics</xocs:item-toc-section-title>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.1.1</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Effect of sCOD and VFA with applied voltage</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.1.2</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Effect of sCOD and VFA with time</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.1.3</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Effect of current and time for applied voltage and time</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Pretreatment effect on composition and characterization of PPMS</xocs:item-toc-section-title>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.2.1</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Compositional analysis</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.2.2</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>FESEM</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.2.3</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>FTIR</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.2.4</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>XRD</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Pretreatment effect on biogas production</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgement</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:appendices">
+            <xocs:item-toc-label>Appendix A</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Supplementary data</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="h0005">
+            <xocs:ref-normalized-surname>APHA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>STANDARDMETHODSFOREXAMINATIONWATERWASTEWATER</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0010">
+            <xocs:ref-normalized-surname>DHAMODHARAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>237</xocs:ref-first-fp>
+            <xocs:ref-last-lp>241</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0015">
+            <xocs:ref-normalized-surname>DILALLO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1961</xocs:ref-pub-year>
+            <xocs:ref-first-fp>356</xocs:ref-first-fp>
+            <xocs:ref-last-lp>365</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0020"/>
+         <xocs:ref-info refid="h0025">
+            <xocs:ref-normalized-surname>ELLIOTT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4273</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4286</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0030">
+            <xocs:ref-normalized-surname>ELLIOTT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>497</xocs:ref-first-fp>
+            <xocs:ref-last-lp>505</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0035">
+            <xocs:ref-normalized-surname>GABHANE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>96</xocs:ref-first-fp>
+            <xocs:ref-last-lp>102</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0040">
+            <xocs:ref-normalized-surname>GAUR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>104</xocs:ref-first-fp>
+            <xocs:ref-last-lp>112</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0045"/>
+         <xocs:ref-info refid="h0050">
+            <xocs:ref-normalized-surname>HIMMEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>804</xocs:ref-first-fp>
+            <xocs:ref-last-lp>807</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0055">
+            <xocs:ref-normalized-surname>HU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>55</xocs:ref-first-fp>
+            <xocs:ref-last-lp>63</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0060">
+            <xocs:ref-normalized-surname>JACKSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>407</xocs:ref-first-fp>
+            <xocs:ref-last-lp>414</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0065">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>BIOENERGYPRINCIPLESAPPLICATIONS</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0070">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3061</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3068</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0075">
+            <xocs:ref-normalized-surname>MAHMOUD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2381</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2407</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0080">
+            <xocs:ref-normalized-surname>MARCATO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>260</xocs:ref-first-fp>
+            <xocs:ref-last-lp>266</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0085">
+            <xocs:ref-normalized-surname>MONTE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>293</xocs:ref-first-fp>
+            <xocs:ref-last-lp>308</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0090">
+            <xocs:ref-normalized-surname>MORAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>149</xocs:ref-first-fp>
+            <xocs:ref-last-lp>159</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0095">
+            <xocs:ref-normalized-surname>NELSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1964</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1325</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1341</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0100">
+            <xocs:ref-normalized-surname>PATEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>291</xocs:ref-first-fp>
+            <xocs:ref-last-lp>297</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0105">
+            <xocs:ref-normalized-surname>SHARMA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>350</xocs:ref-first-fp>
+            <xocs:ref-last-lp>357</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0110"/>
+         <xocs:ref-info refid="h0115">
+            <xocs:ref-normalized-surname>UPDEGRAFF</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1969</xocs:ref-pub-year>
+            <xocs:ref-first-fp>420</xocs:ref-first-fp>
+            <xocs:ref-last-lp>424</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0120">
+            <xocs:ref-normalized-surname>VARGHESE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2304</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2317</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0125">
+            <xocs:ref-normalized-surname>VELUCHAMY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2017</xocs:ref-pub-year>
+            <xocs:ref-first-fp>197</xocs:ref-first-fp>
+            <xocs:ref-last-lp>204</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0130">
+            <xocs:ref-normalized-surname>WOOD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5729</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5735</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0135">
+            <xocs:ref-normalized-surname>XU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>TREATMENTSECONDARYSLUDGEFORENERGYRECOVERYENERGYRECOVERY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0140">
+            <xocs:ref-normalized-surname>YANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>26</xocs:ref-first-fp>
+            <xocs:ref-last-lp>40</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0145">
+            <xocs:ref-normalized-surname>YANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>569</xocs:ref-first-fp>
+            <xocs:ref-last-lp>575</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0150">
+            <xocs:ref-normalized-surname>YUAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>82</xocs:ref-first-fp>
+            <xocs:ref-last-lp>88</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0155">
+            <xocs:ref-normalized-surname>ZHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>93</xocs:ref-first-fp>
+            <xocs:ref-last-lp>102</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0160">
+            <xocs:ref-normalized-surname>ZHENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>35</xocs:ref-first-fp>
+            <xocs:ref-last-lp>53</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>VELUCHAMYX2017X274</xocs:refkey3>
+         <xocs:refkey4lp>VELUCHAMYX2017X274X280</xocs:refkey4lp>
+         <xocs:refkey4ai>VELUCHAMYX2017X274XC</xocs:refkey4ai>
+         <xocs:refkey5>VELUCHAMYX2017X274X280XC</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2019-03-31T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-embargo-status>UnderEmbargo</xocs:sa-embargo-status>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2017 Elsevier Ltd. All rights reserved.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0960-8524(17)30418-2</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0960852417304182</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0960852417304182</xocs:eid>
+         <xocs:doi>10.1016/j.biortech.2017.03.137</xocs:doi>
+         <xocs:cid>271433</xocs:cid>
+         <xocs:timestamp>2017-04-19T13:23:59.563001-04:00</xocs:timestamp>
+         <xocs:cover-date-start>2017-07-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2017-07-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0960852417304182-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0960852417304182/MAIN/application/pdf/44fd4b44380a82f056f51f85c4b32b45/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0960852417304182/MAIN/application/pdf/44fd4b44380a82f056f51f85c4b32b45/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>609640</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0960852417304182-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0960852417304182/PREVIEW/image/png/6f2e7af113d05119a7da0cf5bcfde21b/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0960852417304182/PREVIEW/image/png/6f2e7af113d05119a7da0cf5bcfde21b/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>42461</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0960852417304182-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0960852417304182/gr2/THUMBNAIL/image/gif/c1189f84e720b8616415f9721a394ddf/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0960852417304182/gr2/THUMBNAIL/image/gif/c1189f84e720b8616415f9721a394ddf/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3066</xocs:filesize>
+               <xocs:pixel-height>82</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0960852417304182-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0960852417304182/gr3/THUMBNAIL/image/gif/2f7b1e35f702ae8159a311f4b449f8e4/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0960852417304182/gr3/THUMBNAIL/image/gif/2f7b1e35f702ae8159a311f4b449f8e4/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4731</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>200</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0960852417304182-fx1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0960852417304182/fx1/THUMBNAIL/image/gif/ae4285f97297a55e85b62b7f2628c6c4/fx1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0960852417304182/fx1/THUMBNAIL/image/gif/ae4285f97297a55e85b62b7f2628c6c4/fx1.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>fx1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>12643</xocs:filesize>
+               <xocs:pixel-height>162</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0960852417304182-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0960852417304182/gr1/THUMBNAIL/image/gif/41b6adc3ea420390e5d54ff996be5619/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0960852417304182/gr1/THUMBNAIL/image/gif/41b6adc3ea420390e5d54ff996be5619/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11998</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>164</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0960852417304182-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0960852417304182/gr2/DOWNSAMPLED/image/jpeg/7580f330760928d191e7831fbd8655ff/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0960852417304182/gr2/DOWNSAMPLED/image/jpeg/7580f330760928d191e7831fbd8655ff/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>30927</xocs:filesize>
+               <xocs:pixel-height>282</xocs:pixel-height>
+               <xocs:pixel-width>756</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0960852417304182-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0960852417304182/gr3/DOWNSAMPLED/image/jpeg/ae4b87a97b54266deb3bf688cb253e4b/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0960852417304182/gr3/DOWNSAMPLED/image/jpeg/ae4b87a97b54266deb3bf688cb253e4b/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>17851</xocs:filesize>
+               <xocs:pixel-height>309</xocs:pixel-height>
+               <xocs:pixel-width>378</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0960852417304182-fx1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0960852417304182/fx1/DOWNSAMPLED/image/jpeg/5b59fb3f6e23a4810f33f88dfb6c6ca2/fx1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0960852417304182/fx1/DOWNSAMPLED/image/jpeg/5b59fb3f6e23a4810f33f88dfb6c6ca2/fx1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>fx1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>16667</xocs:filesize>
+               <xocs:pixel-height>200</xocs:pixel-height>
+               <xocs:pixel-width>270</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0960852417304182-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0960852417304182/gr1/DOWNSAMPLED/image/jpeg/9575074e259182dd7439d0c6a4d8158c/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0960852417304182/gr1/DOWNSAMPLED/image/jpeg/9575074e259182dd7439d0c6a4d8158c/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>28289</xocs:filesize>
+               <xocs:pixel-height>377</xocs:pixel-height>
+               <xocs:pixel-width>378</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0960852417304182-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0960852417304182/gr2/HIGHRES/image/jpeg/9e15c96578fcf5f337bc5e8dd967a1ca/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0960852417304182/gr2/HIGHRES/image/jpeg/9e15c96578fcf5f337bc5e8dd967a1ca/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>239773</xocs:filesize>
+               <xocs:pixel-height>1246</xocs:pixel-height>
+               <xocs:pixel-width>3346</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0960852417304182-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0960852417304182/gr3/HIGHRES/image/jpeg/479e8622b8c78a71e63a6718b1f3fe56/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0960852417304182/gr3/HIGHRES/image/jpeg/479e8622b8c78a71e63a6718b1f3fe56/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>145074</xocs:filesize>
+               <xocs:pixel-height>1369</xocs:pixel-height>
+               <xocs:pixel-width>1675</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0960852417304182-fx1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0960852417304182/fx1/HIGHRES/image/jpeg/cf305f7807e62be8d538c28e55434dce/fx1_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0960852417304182/fx1/HIGHRES/image/jpeg/cf305f7807e62be8d538c28e55434dce/fx1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>fx1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>40653</xocs:filesize>
+               <xocs:pixel-height>531</xocs:pixel-height>
+               <xocs:pixel-width>717</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0960852417304182-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0960852417304182/gr1/HIGHRES/image/jpeg/c1b6eedc31a14e6bbab7236266ccdecb/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0960852417304182/gr1/HIGHRES/image/jpeg/c1b6eedc31a14e6bbab7236266ccdecb/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>80916</xocs:filesize>
+               <xocs:pixel-height>1001</xocs:pixel-height>
+               <xocs:pixel-width>1004</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0960852417304182-mmc1.docx</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0960852417304182/mmc1/MAIN/application/msword/c1e570f3928a8c2b32df5611d0bc11ea/mmc1.docx</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0960852417304182/mmc1/MAIN/application/msword/c1e570f3928a8c2b32df5611d0bc11ea/mmc1.docx</xocs:ucs-locator>
+               <xocs:file-basename>mmc1</xocs:file-basename>
+               <xocs:filename>mmc1.docx</xocs:filename>
+               <xocs:extension>docx</xocs:extension>
+               <xocs:filesize>458023</xocs:filesize>
+               <xocs:attachment-type>APPLICATION</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0960852417304182-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0960852417304182/STRIPIN/image/gif/b54b61a1a877b13cdd7c3180c49c4e8c/si1.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0960852417304182/STRIPIN/image/gif/b54b61a1a877b13cdd7c3180c49c4e8c/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>529</xocs:filesize>
+               <xocs:pixel-height>39</xocs:pixel-height>
+               <xocs:pixel-width>96</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" xml:lang="en" version="5.4">
+         <item-info>
+            <jid>BITE</jid>
+            <aid>17841</aid>
+            <ce:pii>S0960-8524(17)30418-2</ce:pii>
+            <ce:doi>10.1016/j.biortech.2017.03.137</ce:doi>
+            <ce:copyright type="full-transfer" year="2017">Elsevier Ltd</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cn0010">
+                  <ce:simple-para id="sp0030" view="all">A schematic diagram of the experimental setup of electrohydrolysis pretreatment.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/23.4" xlink:href="pii:S0960852417304182/gr1" id="lk00005"/>
+            </ce:figure>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cn0015">
+                  <ce:simple-para id="sp0035" view="all">The effect of applied voltage and time on COD and VFA in electrohydrolysis pretreatment. a) The effect of applied voltage on the COD and VFA for 20<ce:hsp sp="0.25"/>min. b) The effect of time on the COD and VFA at 15<ce:hsp sp="0.25"/>V with different time intervals.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/23.4" xlink:href="pii:S0960852417304182/gr2" id="lk00010"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cn0020">
+                  <ce:simple-para id="sp0040" view="all">Cumulative methane production of electrohydrolysis pretreated and untreated (control) pulp and paper mill sludge.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/23.4" xlink:href="pii:S0960852417304182/gr3" id="lk00015"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" frame="topbot" id="t0005" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cn0025">
+                  <ce:simple-para id="sp0045" view="all">The initial chemical characterization of pulp and paper mill sludge and cow dung.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="3">
+                  <colspec colname="col1" align="left"/>
+                  <colspec colname="col2" align="left"/>
+                  <colspec colname="col3" align="left"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Parameter</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Pulp and paper mill sludge</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Cow dung</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Moisture content (%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">73.75<hsp sp="0.25"/>±<hsp sp="0.25"/>1.36</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">79.73<hsp sp="0.25"/>±<hsp sp="0.25"/>1.46</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Total solid (TS) (%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">26.25<hsp sp="0.25"/>±<hsp sp="0.25"/>0.40</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">20.27<hsp sp="0.25"/>±<hsp sp="0.25"/>0.76</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Volatile solid (VS) (%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">18.88<hsp sp="0.25"/>±<hsp sp="0.25"/>0.75</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">16.62<hsp sp="0.25"/>±<hsp sp="0.25"/>1.36</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">VS/TS</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">71.92</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">81.98</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">pH</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">6.53<hsp sp="0.25"/>±<hsp sp="0.25"/>0.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">7.30<hsp sp="0.25"/>±<hsp sp="0.25"/>0.36</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Total Nitrogen (%, b.d.w<cross-ref refid="tblfn1" id="c0005">
+                              <sup loc="post">a</sup>
+                           </cross-ref>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.03<hsp sp="0.25"/>±<hsp sp="0.25"/>0.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3.08<hsp sp="0.25"/>±<hsp sp="0.25"/>0.04</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Organic carbon (%,b.d.w<cross-ref refid="tblfn1" id="c0010">
+                              <sup loc="post">a</sup>
+                           </cross-ref>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">35.16<hsp sp="0.25"/>±<hsp sp="0.25"/>1.14</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">46.34<hsp sp="0.25"/>±<hsp sp="0.25"/>1.36</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">C/N ratio</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">34</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">15</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:legend>
+                  <ce:simple-para id="sp0050" view="all">Numbers are mean<ce:hsp sp="0.25"/>±<ce:hsp sp="0.25"/>standard deviation from three replicates.</ce:simple-para>
+               </ce:legend>
+               <ce:table-footnote id="tblfn1">
+                  <ce:label>a</ce:label>
+                  <ce:note-para id="np005" view="all">b.d.w. based on dry weight.</ce:note-para>
+               </ce:table-footnote>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" frame="topbot" id="t0010" rowsep="0" colsep="0">
+               <ce:label>Table 2</ce:label>
+               <ce:caption id="cn0030">
+                  <ce:simple-para id="sp0055" view="all">Variation of current and resistance with the different applied voltage (V) at particular time (20<ce:hsp sp="0.25"/>min).</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="9">
+                  <colspec colname="col1" align="left"/>
+                  <colspec colname="col2" align="left"/>
+                  <colspec colname="col3" align="left"/>
+                  <colspec colname="col4" align="left"/>
+                  <colspec colname="col5" align="left"/>
+                  <colspec colname="col6" align="left"/>
+                  <colspec colname="col7" align="left"/>
+                  <colspec colname="col8" align="left"/>
+                  <colspec colname="col9" align="left"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1">Time (min)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Current (amp)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Resistance (ohm)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Current (amp)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Resistance (ohm)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Current (amp)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Resistance (ohm)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Current (amp)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Resistance (ohm)</entry>
+                     </row>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col2" nameend="col3">at 10<hsp sp="0.25"/>V</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col4" nameend="col5">at 15<hsp sp="0.25"/>V</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col6" nameend="col7">at 20<hsp sp="0.25"/>V</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col8" nameend="col9">at 25<hsp sp="0.25"/>V</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.029</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">344.828</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.050</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">300.000</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.075</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">266.667</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">250.000</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.029</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">344.828</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.055</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">272.727</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.075</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">266.667</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">250.000</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.029</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">344.828</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.055</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">272.727</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.075</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">266.667</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.11</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">227.273</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">15</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.029</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">344.828</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.055</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">272.727</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.075</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">266.667</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.11</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">227.273</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">20</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.029</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">344.828</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.055</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">272.727</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.076</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">263.158</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.11</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">227.273</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:legend>
+                  <ce:simple-para id="sp0060" view="all">Numbers are the mean of two pretreatment experiment.</ce:simple-para>
+               </ce:legend>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" frame="topbot" id="t0015" rowsep="0" colsep="0">
+               <ce:label>Table 3</ce:label>
+               <ce:caption id="cn0035">
+                  <ce:simple-para id="sp0065" view="all">Variation of current and resistance with the different time at 15<ce:hsp sp="0.25"/>V.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="9">
+                  <colspec colname="col1" align="left"/>
+                  <colspec colname="col2" align="left"/>
+                  <colspec colname="col3" align="left"/>
+                  <colspec colname="col4" align="left"/>
+                  <colspec colname="col5" align="left"/>
+                  <colspec colname="col6" align="left"/>
+                  <colspec colname="col7" align="left"/>
+                  <colspec colname="col8" align="left"/>
+                  <colspec colname="col9" align="left"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1">Time (min)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Current (amp)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Resistance (ohm)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Current (amp)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Resistance (ohm)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Current (amp)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Resistance (ohm)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Current (amp)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Resistance (ohm)</entry>
+                     </row>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col2" nameend="col3">at 15 (min)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col4" nameend="col5">at 30(min)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col6" nameend="col7">at 45 (min)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col8" nameend="col9">at 60 (min)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.040</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">375.000</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.051</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">294.118</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.049</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">306.122</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.047</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">319.149</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.040</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">375.000</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.051</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">294.118</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.049</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">306.122</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.047</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">319.149</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.041</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">365.853</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.052</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">288.462</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.051</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">294.118</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.047</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">319.149</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">15</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.041</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">365.853</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.052</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">288.462</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.051</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">294.118</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.049</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">306.122</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">20</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.052</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">288.462</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.051</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">294.118</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.049</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">306.122</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">25</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.052</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">286.260</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.052</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">288.462</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.049</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">306.122</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">30</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.024</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">625.000</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.053</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">283.019</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.050</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">300.000</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">35</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.054</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">277.778</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.050</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">300.000</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">40</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.056</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">267.857</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.051</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">294.118</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">45</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.056</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">267.857</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.051</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">294.118</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">50</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.051</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">294.118</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">55</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.051</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">294.118</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">60</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.051</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">294.118</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:legend>
+                  <ce:simple-para id="sp0070" view="all">Numbers are the mean of two pretreatment experiment.</ce:simple-para>
+               </ce:legend>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" frame="topbot" id="t0020" rowsep="0" colsep="0">
+               <ce:label>Table 4</ce:label>
+               <ce:caption id="cn0040">
+                  <ce:simple-para id="sp0075" view="all">Pretreatment conditions and lignocellulose contents of untreated and pretreated pulp and paper mill sludge.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="7">
+                  <colspec colname="col1" align="left"/>
+                  <colspec colname="col2" align="left"/>
+                  <colspec colname="col3" align="left"/>
+                  <colspec colname="col4" align="left"/>
+                  <colspec colname="col5" align="left"/>
+                  <colspec colname="col6" align="left"/>
+                  <colspec colname="col7" align="left"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Parameters</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Voltage (V)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Time (min)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Acid insoluble lignin (%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Acid soluble lignin (%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Hemicellulose (%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Cellulose (%)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Control</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.30<hsp sp="0.25"/>±<hsp sp="0.25"/>0.12</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3.53<hsp sp="0.25"/>±<hsp sp="0.25"/>0.12</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">6.27<hsp sp="0.25"/>±<hsp sp="0.25"/>0.75</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">32.75<hsp sp="0.25"/>±<hsp sp="0.25"/>1.26</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Electrohydrolysis</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">15</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">45</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.91<hsp sp="0.25"/>±<hsp sp="0.25"/>0.11</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">6.17<hsp sp="0.25"/>±<hsp sp="0.25"/>0.08</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">5.88<hsp sp="0.25"/>±<hsp sp="0.25"/>0.59</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">37.75<hsp sp="0.25"/>±<hsp sp="0.25"/>1.37</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:legend>
+                  <ce:simple-para id="sp0080" view="all">Numbers are mean<ce:hsp sp="0.25"/>±<ce:hsp sp="0.25"/>standard deviation from three replicates.</ce:simple-para>
+               </ce:legend>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" frame="topbot" id="t0025" rowsep="0" colsep="0">
+               <ce:label>Table 5</ce:label>
+               <ce:caption id="cn0045">
+                  <ce:simple-para id="sp0085" view="all">Characteristics FTIR bands of pretreated pulp and paper mill sludge.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="5">
+                  <colspec colname="col1" align="left"/>
+                  <colspec colname="col2" align="left"/>
+                  <colspec colname="col3" align="left"/>
+                  <colspec colname="col4" align="left"/>
+                  <colspec colname="col5" align="left"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Fiber component</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Wavenumber reported (cm<sup loc="post">-1</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Wavenumber picked (cm<sup loc="post">-1</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Functional group</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Assignment</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="5">Cellulose</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1048</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1014</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">C-OH</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">O-H bond bending</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1270–1280</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1252</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">C-O-C</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Aryl-alkyl ether vibration</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1640</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1631</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Fiber-OH</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Absorbed water bending</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2890</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2875</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">H-C-H</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Alkyl, aliphatic deformation</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">4000–2995</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3346</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">OH</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Acid, methanol stretching</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">4000–2995</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3675</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">OH</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Acid, methanol stretching</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col5">
+                           <vsp sp="0.5"/>
+                        </entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="3">Hemicellulose</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1048</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1014</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">C-OH</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">O-H bond bending</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2890</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2860</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">H-C-H</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Alkyl, aliphatic deformation</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">4000–2995</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3337</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">OH</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Acid, methanol stretching</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">4000–2995</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3675</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">OH</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Acid, methanol stretching</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col5">
+                           <vsp sp="0.5"/>
+                        </entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="7">Lignin</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">700–900</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">684</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">C-H</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Aromatic hydrogen deformation</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">700–900</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">800</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">C-H</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Aromatic hydrogen deformation</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1048</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1014</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">C-OH</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">O-H bond bending</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1158</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1160</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">C-O</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Phenyl bending</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1430</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1433</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">O-CH<inf loc="post">3</inf>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Methoxyl-O-CH<inf loc="post">3</inf> deformation</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2890</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2860</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">H-C-H</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Alkyl, aliphatic deformation</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">4000–2995</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3333</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">OH</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Acid, methanol stretching</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">4000–2995</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3675</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">OH</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Acid, methanol stretching</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title id="tm005">Prerequisite – An electrohydrolysis pretreatment for anaerobic digestion of lignocellulose waste material</ce:title>
+            <ce:author-group id="ag005">
+               <ce:author id="au005" author-id="S0960852417304182-43652795c9416313e4a972ac8d80cc7b">
+                  <ce:given-name>C.</ce:given-name>
+                  <ce:surname>Veluchamy</ce:surname>
+                  <ce:cross-ref refid="cor1" id="c0015">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au010" author-id="S0960852417304182-75672c490ae9daedd1f2745bf95a1991">
+                  <ce:given-name>V. Wilson</ce:given-name>
+                  <ce:surname>Raju</ce:surname>
+               </ce:author>
+               <ce:author id="au015" author-id="S0960852417304182-47041c360f95728bc4e9096eb3571df8">
+                  <ce:given-name>Ajay S.</ce:given-name>
+                  <ce:surname>Kalamdhad</ce:surname>
+               </ce:author>
+               <ce:affiliation id="af005">
+                  <ce:textfn>Department of Civil Engineering, Indian Institute of Technology Guwahati, Guwahati 781039, India</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Civil Engineering</sa:organization>
+                     <sa:organization>Indian Institute of Technology Guwahati</sa:organization>
+                     <sa:city>Guwahati</sa:city>
+                     <sa:postal-code>781039</sa:postal-code>
+                     <sa:country>India</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="27" month="2" year="2017"/>
+            <ce:date-revised day="18" month="3" year="2017"/>
+            <ce:date-accepted day="22" month="3" year="2017"/>
+            <ce:abstract class="graphical" xml:lang="en" id="ab005" view="all">
+               <ce:section-title id="st005">Graphical abstract</ce:section-title>
+               <ce:abstract-sec id="as005" view="all">
+                  <ce:simple-para id="sp0005" view="all">Schematic diagram of electrohydrolysis pretreatment of anaerobic digestion of lignocellulose waste material.</ce:simple-para>
+                  <ce:simple-para id="sp0010" view="all">
+                     <ce:display>
+                        <ce:figure id="f0020">
+                           <ce:link locator="fx1" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/23.4" xlink:href="pii:S0960852417304182/fx1" id="lk00020"/>
+                        </ce:figure>
+                     </ce:display>
+                  </ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            
+            <ce:abstract class="author" xml:lang="en" id="ab015" view="all"><ce:abstract-sec id="as015" view="all">
+                  <ce:simple-para id="sp0020" view="all">This novel work is focused on evaluating the electrohydrolysis pretreatment conditions (applied voltage and time) and anaerobic digestion process for the biological bioconversion of pulp and paper mill sludge into biogas in batch assay. The pretreatment at 15<ce:hsp sp="0.25"/>V for 45<ce:hsp sp="0.25"/>min shows highest impact on sludge solubilization. The XRD and FT-IR spectroscopic characterization shows the development of aliphatic, unsaturated and carbonyl carbon functionalities in the pretreated samples. FESEM picture also qualities the change in alteration of structure after pretreatment. Batch anaerobic bioreactor was carried out to determine the efficacy of electrohydrolysis pretreated and untreated pulp and paper mill sludge. The methane production potential was increased from 274<ce:hsp sp="0.25"/>±<ce:hsp sp="0.25"/>5 to 301<ce:hsp sp="0.25"/>±<ce:hsp sp="0.25"/>4<ce:hsp sp="0.25"/>mL CH<ce:inf loc="post">4</ce:inf>/g VS after electrohydrolysis pretreatment.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword" id="kg005" view="all">
+               <ce:section-title id="st020">Keywords</ce:section-title>
+               <ce:keyword id="k0005">
+                  <ce:text>Electrohydrolysis</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0010">
+                  <ce:text>Hydrolysis</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0015">
+                  <ce:text>Pretreatment</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0020">
+                  <ce:text>Anaerobic digestion</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0025">
+                  <ce:text>Lignocellulose material</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="st025">Introduction</ce:section-title>
+                  <ce:para id="p0025" view="all">An anaerobic digestion is a mature technology widely applied for bioenergy production from the sewage sludge, animal manure, agricultural residue, industrial sludge and energy crops in developing and developed countries (<ce:cross-ref refid="b0065" id="c0020">Li and Khanal, 2016</ce:cross-ref>). These substrate has high levels of biodegradable organics make it an ideal feedstock for anaerobic digestion. Due to the continuous production in the industrial level, there is a huge accumulation of waste especially in pulp and paper mill industry, the gargantuan quantity of sludge was produced. Handling and management of this produced sludge from effluent treatment plant of pulp and paper mill has account more than 60% of the total wastewater treatment plant operating cost (<ce:cross-refs refid="b0085 b0135" id="r0005">Monte et al., 2009; Xu and Lancaster, 2009</ce:cross-refs>). <ce:cross-ref refid="b0060" id="c0025">Jackson et al. (2000)</ce:cross-ref> reported the produced sludge contains 45–50% of organic fraction with high moisture content that can be treated efficiently by biological treatment than thermal treatment.</ce:para>
+                  <ce:para id="p0030" view="all">The lignocellulose material consists mainly of cellulose, hemicellulose, and lignin. Due to the inherent recalcitrant structure of lignocellulose material towards enzymatic deconstruction (<ce:cross-ref refid="b0050" id="c0030">Himmel et al., 2007</ce:cross-ref>) pretreatment is necessary to make the holocelluloses amenable to enzymatic hydrolysis and fermentation (<ce:cross-refs refid="b0140 b0105" id="r0010">Yang and Wyman, 2008; Sharma et al., 2015</ce:cross-refs>). In recent years there has been renewed interest in pretreatment of lignocellulose biomass and waste for anaerobic digestion. The several structural and compositional properties of lignocellulosic content render it resistant to biodegradation. Even though there has been an extensive research on the effect of pretreatment, the correlation between the degradability of lignocellulose material, the structural and compositional properties remains unclear and contradictory (<ce:cross-ref refid="b0160" id="c0035">Zheng et al., 2014</ce:cross-ref>). Different kinds of physical, chemical, and biological pretreatments have been proposed for the conversion of organic matter to valuable energy source as biogas (<ce:cross-ref refid="b0025" id="c0040">Elliott and Mahmood, 2007</ce:cross-ref>).</ce:para>
+                  <ce:para id="p0035" view="all">As hydrolysis is a rate-limiting step in anaerobic digestion of pulp and paper mill sludge (PPMS) (<ce:cross-refs refid="b0030 b0130" id="r0015">Elliott and Mahmood, 2012; Wood et al., 2009</ce:cross-refs>) and also in previous study by <ce:cross-ref refid="b0125" id="c0045">Veluchamy and Kalamdhad (2017)</ce:cross-ref> reported that pretreatment is necessary to fasten the hydrolysis stage because of the longer digestion time. To accelerate the hydrolysis step, a novel electrohydrolysis pretreatment was investigated. Based on literature known so for, an electrohydrolysis pretreatment has been studied first to improve the hydrolysis stage in anaerobic digestion of lignocellulose waste material. The principle of electrohydrolysis pretreatment relies on electrophoresis, ohmic heating and electroosmosis resulting in the disintegration of particles and microbial cell lysis (<ce:cross-ref refid="b0155" id="c0050">Zhen et al., 2014</ce:cross-ref>). The electrophoresis is the process in which shifting of ions relative to a static phase depending on its electrical charge and molecular size (<ce:cross-ref refid="b0075" id="c0055">Mahmoud et al., 2010</ce:cross-ref>). The process in which thermal energy is generated by passing electric current through organic materials is known as ohmic heating (<ce:cross-ref refid="b0120" id="c0060">Varghese et al., 2014</ce:cross-ref>). The motion of solid particles suspended in a liquid, under the influence of an electrical field is known as electro-osmosis (<ce:cross-ref refid="b0075" id="c0065">Mahmoud et al., 2010</ce:cross-ref>). Electrohydrolysis is the process of passing direct current (DC) through an ionic substance to solubilize the organic matter by breaking the bonds between polymers induced by application of current through electrodes. Electrodes when connected to DC one becomes positively charged electrode and another becomes negatively charged electrode. This initiates the movement of electrolyte towards electrodes i.e., positive ions move to cathode and negative ions move to anode.</ce:para>
+                  <ce:para id="p0040" view="all">To delineate the effect of electrohydrolysis pretreatment, an applied voltage (DC) and time study were performed to fasten the hydrolysis step in anaerobic digestion. Therefore, in the light of literature studies the objective of this study is to the investigate the effect of electrohydrolysis pretreatment conditions (applied voltage and time), also to elucidate the changes produced in the structure and composition of the PPMS before and after pretreatment, followed by the batch anaerobic digestion process for the biological conversion of PPMS into biogas.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="st030">Materials and methods</ce:section-title>
+                  <ce:section id="s0015" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title id="st035">Materials</ce:section-title>
+                     <ce:para id="p0045" view="all">PPMS was obtained from the Nagaon paper mill located at Jagiroad, Assam, India. PPMS collected from the filter house of effluent treatment plant was used as a substrate. Collected PPMS was stored in refrigerator at 4<ce:hsp sp="0.25"/>°C before further use. Cow dung collected from farm present in the vicinity of Indian Institute of Technology Guwahati, North Guwahati, India, was used as the inoculum for the batch study. <ce:cross-ref refid="t0005" id="c0070">Table 1</ce:cross-ref>
+                        <ce:float-anchor refid="t0005"/> shows the initial chemical characterization of substrate and inoculum.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0020" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title id="st040">Experimental set up</ce:section-title>
+                     <ce:para id="p0050" view="all">
+                        <ce:cross-ref refid="f0005" id="c0075">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="f0005"/> gives the schematic representation of electrohydrolysis pretreatment setup. It consist of cylindrical plastic feed tank (10<ce:hsp sp="0.25"/>cm diameter and 30<ce:hsp sp="0.25"/>cm height), DC power generator, graphite electrode, flash mixer, RPM regulator, multimeter, ammeter and tachometer. The feed tank was half filled with PPMS in the ratio of 1:3 (PPMS: distilled water) to get slurry form. As PPMS contain high total solid content, three part of water is added to PPMS in order to make slurry condition to avoid clogging and also to provide enough passage way for DC. With the help of graphite electrode DC is supplied to the sample kept in the plastic tank. Two graphite electrode as cathode and anode are half immersed into the sample, placed at a distance without touching flash mixture and wall of the plastic reaction tank (<ce:cross-ref refid="f0005" id="c0080">Fig. 1</ce:cross-ref>). With the help of insulated flash mixture which is rotating at 300<ce:hsp sp="0.25"/>rpm, the sample kept in a plastic feed tank are in suspension. The rpm of the flash mixture is maintained by the rpm regulator and with the tachometer. Ammeter and multimeter are used to measure the current and applied voltage respectively.</ce:para>
+                     <ce:para id="p0055" view="all">For electrohydrolysis pretreatment study, 200<ce:hsp sp="0.25"/>g of PPMS is added to 600<ce:hsp sp="0.25"/>mL of distilled water and mix properly to get slurry form. Based on the preliminary and literature (<ce:cross-refs refid="b0150 b0155" id="r0020">Yuan et al., 2011; Zhen et al., 2014</ce:cross-refs>) pretreatment condition such as applied voltage and time were selected. The pretreatment study is split into two approach. The first approach based on applied voltage (V) study, the prepared samples are kept at different applied voltage at a particular time. After getting the suitable voltage, the second approach based on time study, the prepared samples were kept at varied time with the best voltage in the plastic tank. The samples kept outside without any treatment is used as the control.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0025" view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title id="st045">Anaerobic biodegradability tests</ce:section-title>
+                     <ce:para id="p0060" view="all">Batch reactor was performed to test the rate and extent of anaerobic biodegradability of untreated (control) and electrohydrolysis pretreated PPMS. Anaerobic reactors (1<ce:hsp sp="0.25"/>L) were loaded with the mixture of pretreated PPMS and cow dung (set 1), and the mixture of untreated and cow dung (set 2) at a fixed food to microorganisms ratio equals to 2 based on volatile solid (VS) content that was attained from the previous study (<ce:cross-ref refid="b0125" id="c0085">Veluchamy and Kalamdhad, 2017</ce:cross-ref>). After adding essential macro and micro nutrients, all the reactor were purged with nitrogen in order to make anaerobic condition. Then it was coupled to another aspirator bottle having 1.5<ce:hsp sp="0.25"/>N sodium hydroxide (NaOH) solution that absorbs the CO<ce:inf loc="post">2</ce:inf> and H<ce:inf loc="post">2</ce:inf>S and displaces NaOH solution that represent methane (CH<ce:inf loc="post">4</ce:inf>) production (<ce:cross-ref refid="b0010" id="c0090">Dhamodharan et al., 2015</ce:cross-ref>). All the reactor were maintained at room temperature varies from 30 to 38<ce:hsp sp="0.25"/>°C. Manual mixing was done three to four time in a day. The experiment was conducted in triplicate for 35<ce:hsp sp="0.25"/>d.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0030" view="all">
+                     <ce:label>2.4</ce:label>
+                     <ce:section-title id="st050">Analytical methods</ce:section-title>
+                     <ce:para id="p0065" view="all">The different parameter such as pH, soluble chemical oxygen demand (sCOD), total solids, moisture content, and volatile solids, were analysed using standard protocols according to <ce:cross-ref refid="b0005" id="c0095">APHA (2005)</ce:cross-ref>. Volatile fatty acid was analysed by pH titration method adopted by the <ce:cross-ref refid="b0015" id="c0100">DiLallo and Albertson (1961)</ce:cross-ref>. Lignin was analysed using National renewable energy laboratory (NREL) procedure (<ce:cross-refs refid="b0020 b0110" id="r0025">Ehrman, 1996; Templeton and Ehrman, 1995</ce:cross-refs>). Cellulose and hemicellulose were analysed according to the protocol adopted by <ce:cross-ref refid="b0115" id="c0105">Updegraff (1969)</ce:cross-ref> and <ce:cross-ref refid="b0045" id="c0110">Goering and Van (1975)</ce:cross-ref> respectively. To determine the significant in dissimilarities between unpretreated and pretreated, analysis of variance (ANOVA) was used in the Origin Pro 9.0. Pretreatment experiments were conducted twice and their samples were analysed in triplicate.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0035" view="all">
+                     <ce:label>2.5</ce:label>
+                     <ce:section-title id="st055">Instrumental characterization</ce:section-title>
+                     <ce:para id="p0070" view="all">To study the structural changes happen on the PPMS before and after pretreatment, the instrumental analysis was carried out to identify the alteration happen on PPMS material surface. The surface alteration has been identified by field emission scanning electron microscopy (FESEM (Zeiss, Sigma)). Double coated gold samples were used for the imaging, to put off degradation and for charge build up. The changes in lignocellulosic fraction has been extensively studied by using Fourier transform infrared (FT-IR). The FT-IR spectrum (PerkinElmer Spectrum 2) was recorded from 4000 to 400<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup> at 16 scan with a resolution of 4<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup>. 1<ce:hsp sp="0.25"/>mg of dried PPMS was mixed with 300<ce:hsp sp="0.25"/>mg of KBr in a mortar, then the mixture was compressed for 3<ce:hsp sp="0.25"/>min at 10<ce:hsp sp="0.25"/>MPa to set up the sample disc. Moreover, the cellulose crystallinity has been characterized by X-ray diffractograms (XRD) with the Bruker, D-8 advance from 5<ce:hsp sp="0.25"/>°C to 35<ce:hsp sp="0.25"/>°C of diffracting angle (2θ) at the scanning speed of 5<ce:sup loc="post">o</ce:sup>/min. The crystallinity index was measured from the XRD pattern by an empirical method (<ce:cross-ref refid="b0095" id="c0115">Nelson and O'Connor, 1964</ce:cross-ref>) using the following equation.<ce:display>
+                           <ce:formula id="e0005">
+                              <mml:math altimg="si1.gif" overflow="scroll">
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mi>I</mml:mi>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mi>C</mml:mi>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:mfrac>
+                                    <mml:mrow>
+                                       <mml:msub>
+                                          <mml:mrow>
+                                             <mml:mi>I</mml:mi>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mi mathvariant="italic">cr</mml:mi>
+                                          </mml:mrow>
+                                       </mml:msub>
+                                       <mml:mo>-</mml:mo>
+                                       <mml:msub>
+                                          <mml:mrow>
+                                             <mml:mi>I</mml:mi>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mi mathvariant="italic">am</mml:mi>
+                                          </mml:mrow>
+                                       </mml:msub>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:msub>
+                                          <mml:mrow>
+                                             <mml:mi>I</mml:mi>
+                                          </mml:mrow>
+                                          <mml:mrow>
+                                             <mml:mi mathvariant="italic">cr</mml:mi>
+                                          </mml:mrow>
+                                       </mml:msub>
+                                    </mml:mrow>
+                                 </mml:mfrac>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>Where <ce:italic>I<ce:inf loc="post">C</ce:inf>
+                        </ce:italic> is the crystallinity index, <ce:italic>I<ce:inf loc="post">cr</ce:inf>
+                        </ce:italic> is the maximum diffraction intensity at peak position at 2θ<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>31° and <ce:italic>I<ce:inf loc="post">am</ce:inf>
+                        </ce:italic> is the intensity at 2θ<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>18°.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0040" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="st060">Result and discussion</ce:section-title>
+                  <ce:section id="s0045" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title id="st065">Pretreatment effect on chemical characteristics</ce:section-title>
+                     <ce:section id="s0050" view="all">
+                        <ce:label>3.1.1</ce:label>
+                        <ce:section-title id="st070">Effect of sCOD and VFA with applied voltage</ce:section-title>
+                        <ce:para id="p0075" view="all">The effect of applied voltage with constant time on PPMS treated by DC current in electrohydrolysis pretreatment was shown in <ce:cross-ref refid="f0010" id="c0120">Fig 2</ce:cross-ref>
+                           <ce:float-anchor refid="f0010"/>(a). It was observed from the <ce:cross-ref refid="f0010" id="c0125">Fig 2</ce:cross-ref>(a) that the increase in applied voltage has shown increase in solubilization rate which was measured in the form of sCOD and VFA. The sCOD and VFA increased up to 15<ce:hsp sp="0.25"/>V and then it got reduced. Further increasing the applied voltage shows decrease in sCOD and VFA. At higher applied voltage, there is a release of higher quantity of electron by the DC current but there was not sufficient protons from the substrate. During the reaction time there is a higher rate of vaporization of volatile compound produced from the pretreatment effect than the solubilization rate (<ce:cross-ref refid="b0155" id="c0130">Zhen et al., 2014</ce:cross-ref>). This may be the reason for reduction in sCOD and VFA at higher voltage. The increase in sCOD and VFA at 15 V was due to the release of sufficient electron by the DC current that was enough to neutralize the protons released from the PPMS. Thus, 15<ce:hsp sp="0.25"/>V is found to be best for the time study.</ce:para>
+                     </ce:section>
+                     <ce:section id="s0055" view="all">
+                        <ce:label>3.1.2</ce:label>
+                        <ce:section-title id="st075">Effect of sCOD and VFA with time</ce:section-title>
+                        <ce:para id="p0080" view="all">Hence for the time study, the samples were kept at 15 V for the different time duration. It was observed from the <ce:cross-ref refid="f0010" id="c0135">Fig 2</ce:cross-ref>(b) that the increase in exposure time has shown increase in solubilization rate which was measured in the form of sCOD and VFA. From the time study <ce:cross-ref refid="f0010" id="c0140">Fig. 2</ce:cross-ref>(b), the sample kept at the 45<ce:hsp sp="0.25"/>min showed the highest sCOD with the increment of 1.91 times and VFA of about 1.85 times increment in electrohydrolysis pretreatment than control sample of PPMS. <ce:cross-ref refid="b0155" id="c0145">Zhen et al. (2014)</ce:cross-ref> obtained an increase of 1.5 times sCOD in waste activated sludge for the sample pretreated at 20<ce:hsp sp="0.25"/>V for 40<ce:hsp sp="0.25"/>min. Thus, 15<ce:hsp sp="0.25"/>V for 45<ce:hsp sp="0.25"/>min is found to be best pretreatment conditions for the electrohydrolysis pretreatment of PPMS.</ce:para>
+                     </ce:section>
+                     <ce:section id="s0060" view="all">
+                        <ce:label>3.1.3</ce:label>
+                        <ce:section-title id="st080">Effect of current and time for applied voltage and time</ce:section-title>
+                        <ce:para id="p0085" view="all">It was observed that at the same applied voltage, the current is gradually increasing with the time of exposure (<ce:cross-refs refid="t0010 t0015" id="r0030">Tables 2 and 3</ce:cross-refs>
+                           <ce:float-anchor refid="t0010"/>
+                           <ce:float-anchor refid="t0015"/>). This is because of increase in conductivity caused by solubilization of particulate organic matter by the breaking of bonds between polymers induced by application of DC current. It was found that increase in applied voltage, then the slope of the current versus time also increased. When the sample pretreated at 10<ce:hsp sp="0.25"/>V, there was no change in current whereas at 15 V showed an increase of current 0.005<ce:hsp sp="0.25"/>amp. This is because of at higher voltages, there is more energy available to cause rapid solubilization of organic matter.</ce:para>
+                        <ce:para id="p0090" view="all">By analyzing the resistance versus time, it was observed that at the same applied voltage, the resistance is gradually decreasing as the time of exposure increases (<ce:cross-refs refid="t0010 t0015" id="r0035">Tables 2 and 3</ce:cross-refs>). This is because of hydrolysis of polymer into simple soluble monomers. As the time of exposure increased, more and more particulate matter is getting solubilized. The sample pretreated at 15<ce:hsp sp="0.25"/>V for 15<ce:hsp sp="0.25"/>min shows 2.6% reduction of resistance whereas at 45<ce:hsp sp="0.25"/>min shows a 12.5% reduction of resistance. This huge difference in reduction of resistance at 15<ce:hsp sp="0.25"/>V for longer exposure time, there is more energy available to break the bonds between polymers. Very few literature is available, <ce:cross-ref refid="b0155" id="c0150">Zhen et al. (2014)</ce:cross-ref> investigated the effect of combined electrical-alkali pretreatment to enhance the hydrolysis of waste activated sludge for anaerobic digestion process but does not revealed the effect of current or resistance with time.</ce:para>
+                     </ce:section>
+                  </ce:section>
+                  <ce:section id="s0065" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title id="st085">Pretreatment effect on composition and characterization of PPMS</ce:section-title>
+                     <ce:section id="s0070" view="all">
+                        <ce:label>3.2.1</ce:label>
+                        <ce:section-title id="st090">Compositional analysis</ce:section-title>
+                        <ce:para id="p0095" view="all">The compositional analysis was performed to identify the changes in composition of cellulose, hemicellulose, and lignin, at the before and after the electrohydrolysis pretreatment of PPMS. <ce:cross-ref refid="t0020" id="c0155">Table 4</ce:cross-ref>
+                           <ce:float-anchor refid="t0020"/> shows the pretreatment conditions and lignocellulose contents of untreated and pretreated PPMS. From <ce:cross-ref refid="t0020" id="c0160">Table 4</ce:cross-ref>, it was observed that the increase in acid soluble lignin, insoluble lignin, and cellulose and reduction in the hemicellulose content. The increment in acid soluble and cellulose portrays that the electrohydrolysis pretreatment has the higher liquefaction and delignification characteristic. Similar results also obtained in the previous literature in thermal pretreatment (<ce:cross-ref refid="b0070" id="c0165">Li et al., 2007</ce:cross-ref>). Suggesting that the presence of higher acid soluble lignin could be easily fermentable by the fermentative microorganisms (<ce:cross-ref refid="b0100" id="c0170">Patel et al., 2015</ce:cross-ref>) and also the cellulose present in the pretreated PPMS has been easily accessed by the microbes when compared to the untreated PPMS. The reduction in the hemicellulose content may leads to the formation fermentation inhibitor such as furfural from xylose, hydroxymethylfurfural (HMF) from glucose, and acetic acid from acetate groups attached to the hemicellulose (<ce:cross-refs refid="b0040 b0105" id="r0040">Gaur et al., 2016; Sharma et al., 2015</ce:cross-refs>). During electrohydrolysis pretreatment, hemicellulose is breakdown mainly into xylose and small amount of glucose. Thus, higher liquefaction and delignification of lignocellulose matter by the electrohydrolysis pretreatment could cut down or speedup the hydrolysis step, with the enhanced biogas production in anaerobic digestion. The experimental data of the lignocellulose content has quite a similar value for control and electrohydrolysis pretreatment. On analyzing the results by ANOVA, lignocellulose content varied significantly between the control and electrohydrolysis pretreatment (P<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>0.0023).</ce:para>
+                     </ce:section>
+                     <ce:section id="s0075" view="all">
+                        <ce:label>3.2.2</ce:label>
+                        <ce:section-title id="st095">FESEM</ce:section-title>
+                        <ce:para id="p0100" view="all">The physical structure of the untreated (control) and electrohydrolysis pretreated PPMS was studied by FESEM. FESEM images of control and electrohydrolysis pretreated PPMS (<ce:cross-ref refid="s0105" id="c0175">Supplementary information S1</ce:cross-ref>) showed a greater changes in morphological changes. The control sample has rigid compacted smooth surface with some batches, whereas in electrohydrolysis pretreated sample shows its morphological changes with fissures and large hollows on their surface layer. Due to the alteration in their morphological, there was a release of easily biodegradable substance that enhance the bioaccessibility of cellulose in the electrohydrolysis pretreatment. Similar finding has been identified for the lignocellulose material using different heating devise (<ce:cross-refs refid="b0035 b0155" id="r0045">Gabhane et al., 2011; Zhen et al., 2014</ce:cross-refs>).</ce:para>
+                     </ce:section>
+                     <ce:section id="s0080" view="all">
+                        <ce:label>3.2.3</ce:label>
+                        <ce:section-title id="st100">FTIR</ce:section-title>
+                        <ce:para id="p0105" view="all">With the help of characteristic absorbance band at FTIR spectrum, the structural and components change in cellulose, hemicellulose, and lignin can be extensively studied and evaluated. <ce:cross-ref refid="b0090" id="c0180">Morán et al. (2008)</ce:cross-ref> had been well documented the characteristic FTIR bands of cellulose, hemicellulose, and lignin. The characteristic band changes in relative absorbance were applied to determine the structural and components change after pretreatment. FTIR spectra of electrohydrolysis pretreated and untreated PPMS (<ce:cross-ref refid="s0105" id="c0185">Supplementary information S2</ce:cross-ref>) has shown variation in the characteristic band in relative absorbance of lignocellulose content. The efficiency of electrohydrolysis pretreatment effect on structural changes has been studied by comparing with <ce:cross-ref refid="b0090" id="c0190">Morán et al. (2008)</ce:cross-ref> (as denoted by wavenumber reported) and the present pretreatment study (as denoted by wavenumber picked) with the corresponding assignment are enlisted in <ce:cross-ref refid="t0025" id="c0195">Table 5</ce:cross-ref>
+                           <ce:float-anchor refid="t0025"/>. After pretreatment the relative absorbance band of the lignin characteristic bands are slightly decreased, whereas the relative absorbance band of the cellulose are slightly increased, indicating a changes in the relative structural and components of lignocellulose content. To the best literature till now, there was no study used the FTIR analysis for the structural changes at pretreatment stage, whereas the study related to reduction in organic content and aliphatic chain during anaerobic digestion (<ce:cross-refs refid="b0080 b0145" id="r0050">Marcato et al., 2009; Yang et al., 2009</ce:cross-refs>) has been studied.</ce:para>
+                     </ce:section>
+                     <ce:section id="s0085" view="all">
+                        <ce:label>3.2.4</ce:label>
+                        <ce:section-title id="st105">XRD</ce:section-title>
+                        <ce:para id="p0110" view="all">By studying the changes in cellulose crystallinity, the effectiveness of electrohydrolysis pretreatment on PPMS was evaluated. The XRD spectra of control and electrohydrolysis pretreated PPMS (<ce:cross-ref refid="s0105" id="c0200">Supplementary information S3</ce:cross-ref>) has shown great variation in their peaks reduction. The sharp peaks in control sample indicates the higher crystalline in nature whereas in pretreated PPMS possess less peaks that indicates the amorphous nature. Reduced peaks (<ce:cross-ref refid="s0105" id="c0205">Fig. S3</ce:cross-ref>) after pretreatment depicts the reduction in their cellulose crystallinity. After pretreatment, there was a severe reduction in cellulose crystallinity. It was observed mathematically that the cellulose crystallinity reduced from 0.9137 in control to 0.7833 electrohydrolysis pretreated PPMS. <ce:cross-ref refid="b0145" id="c0210">Yang et al. (2009)</ce:cross-ref> depicted that any reduction in crystallinity of cellulose would contribute to an increased fragility and susceptibility of cell wall for the cellulolytic microorganisms. These results are in accordance with previous pretreatment studies for ethanol production (<ce:cross-refs refid="b0035 b0140" id="r0055">Gabhane et al., 2011; Yang and Wyman, 2008</ce:cross-refs>).</ce:para>
+                     </ce:section>
+                  </ce:section>
+                  <ce:section id="s0090" view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title id="st110">Pretreatment effect on biogas production</ce:section-title>
+                     <ce:para id="p0115" view="all">Electrohydrolysis pretreatment of PPMS at 15<ce:hsp sp="0.25"/>V for 45<ce:hsp sp="0.25"/>min showed the higher rate of solubilization. So, batch anaerobic study was conducted for pretreated and unpretreated PPMS to evaluate the rate and efficacy of electrohydrolysis pretreatment for enhanced CH<ce:inf loc="post">4</ce:inf> production. The steep curve of cumulative CH<ce:inf loc="post">4</ce:inf> production of electrohydrolysis pretreated PPMS provides the evident for superior degradation than the untreated PPMS (<ce:cross-ref refid="f0015" id="c0215">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="f0015"/>). The cumulative CH<ce:inf loc="post">4</ce:inf> production on the 35<ce:sup loc="post">th</ce:sup> day of electrohydrolysis pretreated PPMS was 2618<ce:hsp sp="0.25"/>±<ce:hsp sp="0.25"/>10<ce:hsp sp="0.25"/>mL of CH<ce:inf loc="post">4</ce:inf> whereas for untreated PPMS was 2068<ce:hsp sp="0.25"/>±<ce:hsp sp="0.25"/>12<ce:hsp sp="0.25"/>mL of CH<ce:inf loc="post">4</ce:inf>. The pretreatment at 15<ce:hsp sp="0.25"/>V for 45<ce:hsp sp="0.25"/>min alter the lignocellulose structure in PPMS leading to production of fermentable sugars that can be quickly and efficiently biodegraded with the enhanced CH<ce:inf loc="post">4</ce:inf> production. This rapid degradation was due to the presence of easily accessible soluble organic matter for the acidogenic and methanogenic microorganisms for the enhanced CH<ce:inf loc="post">4</ce:inf> production (<ce:cross-ref refid="b0055" id="c0220">Hu et al., 2016</ce:cross-ref>). The biodegradation of untreated PPMS took more time with less CH<ce:inf loc="post">4</ce:inf> production. This is because of the inherent recalcitrant structure of lignocellulose content (<ce:cross-ref refid="b0160" id="c0225">Zheng et al., 2014</ce:cross-ref>) in PPMS. Thus, it depicting the necessity of electrohydrolysis pretreatment to cut down (or) speedup the hydrolysis step in anaerobic digestion of PPMS for the enhanced quantity of CH<ce:inf loc="post">4</ce:inf> production. After the electrohydrolysis pretreatment, CH<ce:inf loc="post">4</ce:inf> production potential was increased from 274<ce:hsp sp="0.25"/>±<ce:hsp sp="0.25"/>5 to 301<ce:hsp sp="0.25"/>±<ce:hsp sp="0.25"/>4<ce:hsp sp="0.25"/>mL CH<ce:inf loc="post">4</ce:inf>/g VS in PPMS.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0095" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="st115">Conclusion</ce:section-title>
+                  <ce:para id="p0120" view="all">The novel study revealed that electrohydrolysis pretreatment has significant effect on lignocellulose content in speedup the hydrolysis step in anaerobic digestion process. It was perceived that the organic and inorganic compounds were efficiently solubilized at 15<ce:hsp sp="0.25"/>V for 45<ce:hsp sp="0.25"/>min in electrohydrolysis pretreatment. Compositional and instrumental analysis such as FESEM, XRD, and FT-IR spectra showed that the electrohydrolysis pretreatment has strongly affect the lignocellulose structures. Batch study revealed that CH<ce:inf loc="post">4</ce:inf> production potential was increased from 274<ce:hsp sp="0.25"/>±<ce:hsp sp="0.25"/>5 to 301<ce:hsp sp="0.25"/>±<ce:hsp sp="0.25"/>4<ce:hsp sp="0.25"/>mL CH<ce:inf loc="post">4</ce:inf>/g VS in pulp and paper mill sludge after pretreatment.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ak005" view="all">
+               <ce:section-title id="st120">Acknowledgement</ce:section-title>
+               <ce:para id="p0125" view="all">The authors would like to thank Dr. Praveen Kumar, Department of Electronics and Electrical Engineering, Indian Institute of Technology Guwahati, for providing the laboratory facility.</ce:para>
+            </ce:acknowledgment>
+            <ce:appendices view="all">
+               <ce:section view="compact-standard" id="s0100">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="st125">Supplementary data</ce:section-title>
+                  <ce:para id="p0130" view="all">Supplementary data associated with this article can be found, in the online version, at <ce:inter-ref xlink:href="doi:10.1016/j.biortech.2017.03.137" xlink:type="simple" id="ir005">http://dx.doi.org/10.1016/j.biortech.2017.03.137</ce:inter-ref>.</ce:para>
+               </ce:section>
+               <ce:section view="extended" id="s0105">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="st130">Supplementary data</ce:section-title>
+                  <ce:para id="p0135" view="all">
+                     <ce:display>
+                        <ce:e-component id="m0005">
+                           <ce:label>Supplementary data 1</ce:label>
+                           <ce:caption id="cn0005">
+                              <ce:simple-para id="sp0025" view="all">Supplementary Figs. S1–S3.</ce:simple-para>
+                           </ce:caption>
+                           <ce:link locator="mmc1" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/46.1" xlink:href="pii:S0960852417304182/mmc1" id="lk00025"/>
+                        </ce:e-component>
+                     </ce:display>
+                  </ce:para>
+               </ce:section>
+            </ce:appendices>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bi005" view="all">
+               <ce:section-title id="st135">References</ce:section-title>
+               <ce:bibliography-sec id="bs005" view="all">
+                  <ce:bib-reference id="b0005">
+                     <ce:label>APHA, 2005</ce:label>
+                     <sb:reference id="h0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>APHA</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Standard Methods for the Examination of Water and Wastewater</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:edition>20th ed.</sb:edition>
+                              <sb:date>2005</sb:date>
+                              <sb:publisher>
+                                 <sb:name>APHA, American Public Health Association</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0010">
+                     <ce:label>Dhamodharan et al., 2015</ce:label>
+                     <sb:reference id="h0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Dhamodharan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Kumar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.S.</ce:given-name>
+                                 <ce:surname>Kalamdhad</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of different livestock dungs as inoculum on food waste anaerobic digestion and its kinetics</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>180</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>237</sb:first-page>
+                              <sb:last-page>241</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0015">
+                     <ce:label>DiLallo and Albertson, 1961</ce:label>
+                     <sb:reference id="h0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>DiLallo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.E.</ce:given-name>
+                                 <ce:surname>Albertson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Volatile acids by direct titration</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Water Pollut. Conf. Fed.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>33</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>4</sb:issue-nr>
+                              <sb:date>1961</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>356</sb:first-page>
+                              <sb:last-page>365</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0020">
+                     <ce:label>Ehrman, 1996</ce:label>
+                     <ce:other-ref id="h0020">
+                        <ce:textref>Ehrman, T., 1996. Determination of acid-soluble lignin in biomass. NREL CAT Task Lab Anal Procedure, #004.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0025">
+                     <ce:label>Elliott and Mahmood, 2007</ce:label>
+                     <sb:reference id="h0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Elliott</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Mahmood</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Pretreatment technologies for advancing anaerobic digestion of pulp and paper biotreatment residues</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>41</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>19</sb:issue-nr>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4273</sb:first-page>
+                              <sb:last-page>4286</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0030">
+                     <ce:label>Elliott and Mahmood, 2012</ce:label>
+                     <sb:reference id="h0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Elliott</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Mahmood</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Comparison of mechanical pretreatment methods for the enhancement of anaerobic digestion of pulp and paper waste activated sludge</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Environ. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>84</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6</sb:issue-nr>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>497</sb:first-page>
+                              <sb:last-page>505</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0035">
+                     <ce:label>Gabhane et al., 2011</ce:label>
+                     <sb:reference id="h0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Gabhane</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.P.M.</ce:given-name>
+                                 <ce:surname>Prince William</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.N.</ce:given-name>
+                                 <ce:surname>Vaidya</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Mahapatra</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Chakrabarti</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Influence of heating source on the efficacy of lignocellulosic pretreatment – a cellulosic ethanol perspective</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biomass Bioenergy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>96</sb:first-page>
+                              <sb:last-page>102</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0040">
+                     <ce:label>Gaur et al., 2016</ce:label>
+                     <sb:reference id="h0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Gaur</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Soam</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Sharma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.P.</ce:given-name>
+                                 <ce:surname>Gupta</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.R.</ce:given-name>
+                                 <ce:surname>Bansal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Kumar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.K.</ce:given-name>
+                                 <ce:surname>Tuli</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Bench scale dilute acid pretreatment optimization for producing fermentable sugars from cotton stalk and physicochemical characterization</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ind. Crop. Prod.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>83</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>104</sb:first-page>
+                              <sb:last-page>112</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0045">
+                     <ce:label>Goering and Van, 1975</ce:label>
+                     <ce:other-ref id="h0045">
+                        <ce:textref>Goering, H., Van, S. 1975. Forage fibre analysis, (Ed.) U.D.o.A.R. Service. Washington.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0050">
+                     <ce:label>Himmel et al., 2007</ce:label>
+                     <sb:reference id="h0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.E.</ce:given-name>
+                                 <ce:surname>Himmel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.Y.</ce:given-name>
+                                 <ce:surname>Ding</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.K.</ce:given-name>
+                                 <ce:surname>Johnson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.S.</ce:given-name>
+                                 <ce:surname>Adney</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.R.</ce:given-name>
+                                 <ce:surname>Nimlos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Brady</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.D.</ce:given-name>
+                                 <ce:surname>Foust</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Biomass recalcitrance: engineering plants and enzymes for biofuels production</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Science</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>315</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>5813</sb:issue-nr>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>804</sb:first-page>
+                              <sb:last-page>807</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0055">
+                     <ce:label>Hu et al., 2016</ce:label>
+                     <sb:reference id="h0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Hao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Cao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Enhancing anaerobic digestion of lignocellulosic materials in excess sludge by bioaugmentation and pre-treatment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Waste Manage.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>49</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>55</sb:first-page>
+                              <sb:last-page>63</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0060">
+                     <ce:label>Jackson et al., 2000</ce:label>
+                     <sb:reference id="h0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Jackson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Line</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Wilson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Hetherington</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Application of composted pulp and paper mill sludge to a young pine plantation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Environ. Qual.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>29</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>407</sb:first-page>
+                              <sb:last-page>414</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0065">
+                     <ce:label>Li and Khanal, 2016</ce:label>
+                     <sb:reference id="h0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Khanal</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Bioenergy: Principles and Applications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2016</sb:date>
+                              <sb:publisher>
+                                 <sb:name>John Wiley &amp; Sons</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0070">
+                     <ce:label>Li et al., 2007</ce:label>
+                     <sb:reference id="h0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Henriksson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Gellerstedt</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Lignin depolymerization/repolymerization and its critical role for delignification of aspen wood by steam explosion</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>98</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>16</sb:issue-nr>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3061</sb:first-page>
+                              <sb:last-page>3068</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0075">
+                     <ce:label>Mahmoud et al., 2010</ce:label>
+                     <sb:reference id="h0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Mahmoud</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Olivier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Vaxelaire</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.F.A.</ce:given-name>
+                                 <ce:surname>Hoadley</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Electrical field: a historical review of its application and contributions in wastewater sludge dewatering</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>44</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2381</sb:first-page>
+                              <sb:last-page>2407</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0080">
+                     <ce:label>Marcato et al., 2009</ce:label>
+                     <sb:reference id="h0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.E.</ce:given-name>
+                                 <ce:surname>Marcato</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Mohtar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Revel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Pouech</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Hafidi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Guiresse</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Impact of anaerobic digestion on organic matter quality in pig slurry</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. Biodeter. Biodegr.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>63</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>260</sb:first-page>
+                              <sb:last-page>266</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0085">
+                     <ce:label>Monte et al., 2009</ce:label>
+                     <sb:reference id="h0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.C.</ce:given-name>
+                                 <ce:surname>Monte</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Fuente</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Blanco</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Negro</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Waste management from pulp and paper production in the European Union</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Waste Manage.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>29</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>293</sb:first-page>
+                              <sb:last-page>308</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0090">
+                     <ce:label>Morán et al., 2008</ce:label>
+                     <sb:reference id="h0090">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.I.</ce:given-name>
+                                 <ce:surname>Morán</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.A.</ce:given-name>
+                                 <ce:surname>Alvarez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.P.</ce:given-name>
+                                 <ce:surname>Cyras</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Vázquez</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Extraction of cellulose and preparation of nanocellulose from sisal fibers</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Cellulose</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>15</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>149</sb:first-page>
+                              <sb:last-page>159</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0095">
+                     <ce:label>Nelson and O'Connor, 1964</ce:label>
+                     <sb:reference id="h0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.L.</ce:given-name>
+                                 <ce:surname>Nelson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.T.</ce:given-name>
+                                 <ce:surname>O'Connor</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Relation of certain infrared bands to cellulose crystallinity and crystal lattice type. Part II. A new infrared ratio for estimation of crystallinity in celluloses I and II</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Appl. Polym. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>1964</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1325</sb:first-page>
+                              <sb:last-page>1341</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0100">
+                     <ce:label>Patel et al., 2015</ce:label>
+                     <sb:reference id="h0100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.K.</ce:given-name>
+                                 <ce:surname>Patel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Debroy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Sharma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Saini</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Mathur</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Gupta</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.K.</ce:given-name>
+                                 <ce:surname>Tuli</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Biohydrogen production from a novel alkalophilic isolate Clostridium sp. IODB-O3</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>175</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>291</sb:first-page>
+                              <sb:last-page>297</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0105">
+                     <ce:label>Sharma et al., 2015</ce:label>
+                     <sb:reference id="h0105">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Sharma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Kumar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Gaur</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Agrawal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.P.</ce:given-name>
+                                 <ce:surname>Gupta</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.K.</ce:given-name>
+                                 <ce:surname>Tuli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Das</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Pilot scale study on steam explosion and mass balance for higher sugar recovery from rice straw</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>175</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>350</sb:first-page>
+                              <sb:last-page>357</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0110">
+                     <ce:label>Templeton and Ehrman, 1995</ce:label>
+                     <ce:other-ref id="h0110">
+                        <ce:textref>Templeton, D., Ehrman, T., 1995. Determination of acid-insoluble lignin in biomass NREL CAT Task. Lab Anal Procedure, #003.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0115">
+                     <ce:label>Updegraff, 1969</ce:label>
+                     <sb:reference id="h0115">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.M.</ce:given-name>
+                                 <ce:surname>Updegraff</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Semimicro determination of cellulose in biological materials</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Biochem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>32</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>1969</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>420</sb:first-page>
+                              <sb:last-page>424</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0120">
+                     <ce:label>Varghese et al., 2014</ce:label>
+                     <sb:reference id="h0120">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.S.</ce:given-name>
+                                 <ce:surname>Varghese</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.C.</ce:given-name>
+                                 <ce:surname>Pandey</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Radhakrishna</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.S.</ce:given-name>
+                                 <ce:surname>Bawa</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Technology, applications and modelling of ohmic heating: a review</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Food Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>51</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>10</sb:issue-nr>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2304</sb:first-page>
+                              <sb:last-page>2317</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0125">
+                     <ce:label>Veluchamy and Kalamdhad, 2017</ce:label>
+                     <sb:reference id="h0125">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Veluchamy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.S.</ce:given-name>
+                                 <ce:surname>Kalamdhad</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Biochemical methane potential test for pulp and paper mill sludge with different food / microorganisms ratios and its kinetics</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. Biodeter. Biodegr.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>117</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2017</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>197</sb:first-page>
+                              <sb:last-page>204</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0130">
+                     <ce:label>Wood et al., 2009</ce:label>
+                     <sb:reference id="h0130">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Wood</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Tran</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Master</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Pretreatment of pulp mill secondary sludge for high-rate anaerobic conversion to biogas</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>100</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>23</sb:issue-nr>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5729</sb:first-page>
+                              <sb:last-page>5735</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0135">
+                     <ce:label>Xu and Lancaster, 2009</ce:label>
+                     <sb:reference id="h0135">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.C.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Lancaster</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Treatment of Secondary Sludge for Energy Recovery. Energy Recovery</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2009</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Nova Science Publishers Inc</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>187-211</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0140">
+                     <ce:label>Yang and Wyman, 2008</ce:label>
+                     <sb:reference id="h0140">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.E.</ce:given-name>
+                                 <ce:surname>Wyman</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Pretreatment: the key to unlocking low-cost cellulosic ethanol</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biofuel. Bioprod. Biorefin.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>26</sb:first-page>
+                              <sb:last-page>40</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0145">
+                     <ce:label>Yang et al., 2009</ce:label>
+                     <sb:reference id="h0145">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Zheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Meng</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Lignocellulosic structural changes of Spartina alterniflora after anaerobic mono-and co-digestion</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. Biodeter. Biodegr.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>63</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>5</sb:issue-nr>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>569</sb:first-page>
+                              <sb:last-page>575</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0150">
+                     <ce:label>Yuan et al., 2011</ce:label>
+                     <sb:reference id="h0150">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.P.</ce:given-name>
+                                 <ce:surname>Yuan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.F.</ce:given-name>
+                                 <ce:surname>Yan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.F.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.W.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Enhancement of waste activated sludge dewaterability by electro-chemical pretreatment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Hazard. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>187</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1–3</sb:issue-nr>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>82</sb:first-page>
+                              <sb:last-page>88</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0155">
+                     <ce:label>Zhen et al., 2014</ce:label>
+                     <sb:reference id="h0155">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Zhen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.Y.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Combined electrical-alkali pretreatment to increase the anaerobic hydrolysis rate of waste activated sludge during anaerobic digestion</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>128</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>93</sb:first-page>
+                              <sb:last-page>102</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0160">
+                     <ce:label>Zheng et al., 2014</ce:label>
+                     <sb:reference id="h0160">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Pretreatment of lignocellulosic biomass for enhanced biogas production</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Prog. Energy Combust.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>42</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>35</sb:first-page>
+                              <sb:last-page>53</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

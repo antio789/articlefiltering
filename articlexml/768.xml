@@ -1,0 +1,2123 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0964830513003624</prism:url><dc:identifier>doi:10.1016/j.ibiod.2013.10.007</dc:identifier><eid>1-s2.0-S0964830513003624</eid><prism:doi>10.1016/j.ibiod.2013.10.007</prism:doi><pii>S0964-8305(13)00362-4</pii><dc:title>Examining the mechanisms of short-term solubilization of ground food waste for high-rate anaerobic digestion </dc:title><prism:publicationName>International Biodeterioration &amp; Biodegradation</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>09648305</prism:issn><prism:volume>86</prism:volume><prism:startingPage>327</prism:startingPage><prism:endingPage>333</prism:endingPage><prism:pageRange>327-333</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2014-01-31</prism:coverDate><prism:coverDisplayDate>January 2014</prism:coverDisplayDate><prism:copyright>Copyright © 2013 Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd.</prism:publisher><dc:creator>Graunke, Ryan E.</dc:creator><dc:creator>Wilkie, Ann C.</dc:creator><dc:description>
+                  Optimizing short-term solubilization is essential for high-rate anaerobic digestion of food waste. The purpose of this study was to measure the short-term kinetics of food waste solubilization and understand what mechanisms are responsible for driving food waste solubilization. Two solubilization assays were conducted to measure the solubilization of mechanically processed food waste. Three methods of mechanical grinding were utilized: an in-sink food disposer and a manual meat grinder with either small or medium size plate openings. A control assay was conducted to measure the release of endogenous soluble material into an aqueous medium. An enzyme assay was conducted to examine short-term food waste hydrolysis. The assays were diluted and buffered to prevent product and pH inhibition, respectively, and allow maximum solubilization to occur. Percent solubilization was calculated as the soluble chemical oxygen demand (COD) fraction of total COD. Data from the two assays were used to calculate the kinetics of endogenous solubilization and enzymatic hydrolysis. Regardless of grinding method, food waste was 27% solubilized within 1 h through endogenous solubilization. Enzymatic hydrolysis was responsible for an additional 29–31% solubilization by 4 h. This study showed that ground food waste was approximately 60% solubilized within 4 h under optimal conditions.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Endogenous solubilization</dcterms:subject><dcterms:subject>Enzymatic hydrolysis</dcterms:subject><dcterms:subject>Food waste</dcterms:subject><dcterms:subject>Anaerobic digestion</dcterms:subject><dcterms:subject>Mechanical pretreatment</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0964830513003624" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0964830513003624" rel="scidir"/></coredata><objects><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="157" size="12504">https://api.elsevier.com/content/object/eid/1-s2.0-S0964830513003624-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="163" size="10324">https://api.elsevier.com/content/object/eid/1-s2.0-S0964830513003624-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="159" size="12319">https://api.elsevier.com/content/object/eid/1-s2.0-S0964830513003624-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="162" size="11152">https://api.elsevier.com/content/object/eid/1-s2.0-S0964830513003624-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="160" size="12046">https://api.elsevier.com/content/object/eid/1-s2.0-S0964830513003624-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="366" height="262" size="35757">https://api.elsevier.com/content/object/eid/1-s2.0-S0964830513003624-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="366" height="272" size="30265">https://api.elsevier.com/content/object/eid/1-s2.0-S0964830513003624-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="366" height="265" size="35510">https://api.elsevier.com/content/object/eid/1-s2.0-S0964830513003624-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="366" height="270" size="32650">https://api.elsevier.com/content/object/eid/1-s2.0-S0964830513003624-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="366" height="267" size="35485">https://api.elsevier.com/content/object/eid/1-s2.0-S0964830513003624-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1622" height="1162" size="141250">https://api.elsevier.com/content/object/eid/1-s2.0-S0964830513003624-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1622" height="1206" size="120952">https://api.elsevier.com/content/object/eid/1-s2.0-S0964830513003624-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1622" height="1174" size="143875">https://api.elsevier.com/content/object/eid/1-s2.0-S0964830513003624-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1622" height="1198" size="133572">https://api.elsevier.com/content/object/eid/1-s2.0-S0964830513003624-gr4_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="1622" height="1182" size="142149">https://api.elsevier.com/content/object/eid/1-s2.0-S0964830513003624-gr5_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P04" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="1111767">https://api.elsevier.com/content/object/eid/1-s2.0-S0964830513003624-Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P04.jpg?httpAccept=%2A%2F%2A</object><object ref="Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P01" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="148483">https://api.elsevier.com/content/object/eid/1-s2.0-S0964830513003624-Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P01.jpg?httpAccept=%2A%2F%2A</object><object ref="Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P20" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="125220">https://api.elsevier.com/content/object/eid/1-s2.0-S0964830513003624-Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P20.jpg?httpAccept=%2A%2F%2A</object><object ref="Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P13" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="201982">https://api.elsevier.com/content/object/eid/1-s2.0-S0964830513003624-Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P13.jpg?httpAccept=%2A%2F%2A</object><object ref="Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P23" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="153042">https://api.elsevier.com/content/object/eid/1-s2.0-S0964830513003624-Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P23.jpg?httpAccept=%2A%2F%2A</object><object ref="Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013" category="standard" type="AAM-PDF" multimediatype="Acrobat PDF file" mimetype="application/pdf" size="298077">https://api.elsevier.com/content/object/eid/1-s2.0-S0964830513003624-Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013.pdf?httpAccept=%2A%2F%2A</object><object ref="Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P07" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="1076787">https://api.elsevier.com/content/object/eid/1-s2.0-S0964830513003624-Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P07.jpg?httpAccept=%2A%2F%2A</object><object ref="Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P14" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="212460">https://api.elsevier.com/content/object/eid/1-s2.0-S0964830513003624-Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P14.jpg?httpAccept=%2A%2F%2A</object><object ref="Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P10" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="588714">https://api.elsevier.com/content/object/eid/1-s2.0-S0964830513003624-Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P10.jpg?httpAccept=%2A%2F%2A</object><object ref="Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P05" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="973286">https://api.elsevier.com/content/object/eid/1-s2.0-S0964830513003624-Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P05.jpg?httpAccept=%2A%2F%2A</object><object ref="Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P09" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="1098039">https://api.elsevier.com/content/object/eid/1-s2.0-S0964830513003624-Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P09.jpg?httpAccept=%2A%2F%2A</object><object ref="Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P03" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="1050938">https://api.elsevier.com/content/object/eid/1-s2.0-S0964830513003624-Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P03.jpg?httpAccept=%2A%2F%2A</object><object ref="Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P19" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="150287">https://api.elsevier.com/content/object/eid/1-s2.0-S0964830513003624-Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P19.jpg?httpAccept=%2A%2F%2A</object><object ref="Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P21" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="151644">https://api.elsevier.com/content/object/eid/1-s2.0-S0964830513003624-Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P21.jpg?httpAccept=%2A%2F%2A</object><object ref="Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P17" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="199439">https://api.elsevier.com/content/object/eid/1-s2.0-S0964830513003624-Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P17.jpg?httpAccept=%2A%2F%2A</object><object ref="Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P18" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="377955">https://api.elsevier.com/content/object/eid/1-s2.0-S0964830513003624-Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P18.jpg?httpAccept=%2A%2F%2A</object><object ref="Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P22" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="152275">https://api.elsevier.com/content/object/eid/1-s2.0-S0964830513003624-Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P22.jpg?httpAccept=%2A%2F%2A</object><object ref="Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P16" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="202644">https://api.elsevier.com/content/object/eid/1-s2.0-S0964830513003624-Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P16.jpg?httpAccept=%2A%2F%2A</object><object ref="Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P15" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="204789">https://api.elsevier.com/content/object/eid/1-s2.0-S0964830513003624-Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P15.jpg?httpAccept=%2A%2F%2A</object><object ref="Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P12" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="411359">https://api.elsevier.com/content/object/eid/1-s2.0-S0964830513003624-Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P12.jpg?httpAccept=%2A%2F%2A</object><object ref="Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P06" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="1024750">https://api.elsevier.com/content/object/eid/1-s2.0-S0964830513003624-Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P06.jpg?httpAccept=%2A%2F%2A</object><object ref="Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P08" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="1009462">https://api.elsevier.com/content/object/eid/1-s2.0-S0964830513003624-Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P08.jpg?httpAccept=%2A%2F%2A</object><object ref="Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P11" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="857424">https://api.elsevier.com/content/object/eid/1-s2.0-S0964830513003624-Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P11.jpg?httpAccept=%2A%2F%2A</object><object ref="Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P02" category="thumbnail" type="ALTIMG" multimediatype="JPEG image file" mimetype="image/jpeg" size="452701">https://api.elsevier.com/content/object/eid/1-s2.0-S0964830513003624-Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P02.jpg?httpAccept=%2A%2F%2A</object></objects><scopus-id>84888057405</scopus-id><scopus-eid>2-s2.0-84888057405</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/84888057405" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271813</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291767</xocs:ssid>
+         <xocs:ssid type="subj">291783</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>International Biodeterioration &amp; Biodegradation</xocs:srctitle>
+      <xocs:normalized-srctitle>INTERNATIONALBIODETERIORATIONBIODEGRADATION</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20131113">2013-11-13</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20131113">2013-11-13</xocs:available-online-date>
+      <xocs:ew-transaction-id>2018-04-02T19:02:22</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0964830513003624</xocs:eid>
+      <xocs:pii-formatted>S0964-8305(13)00362-4</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0964830513003624</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.ibiod.2013.10.007</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.3</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0964830513X00113</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20240102">2024-01-02T22:45:26.844361Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20140101</xocs:date-search-begin>
+      <xocs:date-search-end>20140131</xocs:date-search-end>
+      <xocs:year-nav>2014</xocs:year-nav>
+      <xocs:indexeddate epoch="1384300800">2013-11-13T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast grantsponsor highlightsabst otherkwds primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0964-8305</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>09648305</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>86</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>86</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>PC</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 86, Part C</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>20</xocs:sort-order>
+      <xocs:first-fp>327</xocs:first-fp>
+      <xocs:last-lp>333</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>327</xocs:first-page>
+         <xocs:last-page>333</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201401</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>January 2014</xocs:cover-date-text>
+      <xocs:cover-date-start>2014-01-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2014-01-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2014</xocs:cover-date-year>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2013 Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>EXAMININGMECHANISMSSHORTTERMSOLUBILIZATIONGROUNDFOODWASTEFORHIGHRATEANAEROBICDIGESTION</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>GRAUNKE</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>R</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Materials and methods</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Standard food waste</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Hydrolytic enzymes</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Mechanical grinding methods</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Solubilization assays</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.5</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Statistical analysis</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.6</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Analytical methods</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Control assay</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Enzyme assay</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>5</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="sref1">
+            <xocs:ref-normalized-surname>APHA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>STANDARDMETHODSFOREXAMINATIONWATERWASTEWATER</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref2">
+            <xocs:ref-normalized-surname>CEKMECELIOGLU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>735</xocs:ref-first-fp>
+            <xocs:ref-last-lp>739</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref3">
+            <xocs:ref-normalized-surname>EASTMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>352</xocs:ref-first-fp>
+            <xocs:ref-last-lp>366</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref4">
+            <xocs:ref-normalized-surname>GALLAHER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1975</xocs:ref-pub-year>
+            <xocs:ref-first-fp>803</xocs:ref-first-fp>
+            <xocs:ref-last-lp>806</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref5">
+            <xocs:ref-normalized-surname>HAMBLETON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>845</xocs:ref-first-fp>
+            <xocs:ref-last-lp>852</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref6">
+            <xocs:ref-normalized-surname>HE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1145</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1151</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref7">
+            <xocs:ref-normalized-surname>IZUMI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>601</xocs:ref-first-fp>
+            <xocs:ref-last-lp>608</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref8">
+            <xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>51</xocs:ref-first-fp>
+            <xocs:ref-last-lp>59</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref9">
+            <xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>130</xocs:ref-first-fp>
+            <xocs:ref-last-lp>134</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref10">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1369</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1373</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref11">
+            <xocs:ref-normalized-surname>LU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1637</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1643</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref12">
+            <xocs:ref-normalized-surname>NEVES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>965</xocs:ref-first-fp>
+            <xocs:ref-last-lp>972</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref13">
+            <xocs:ref-normalized-surname>PALMOWSKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>231</xocs:ref-first-fp>
+            <xocs:ref-last-lp>238</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref14">
+            <xocs:ref-normalized-surname>PRASHANTH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>488</xocs:ref-first-fp>
+            <xocs:ref-last-lp>496</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref15">
+            <xocs:ref-normalized-surname>USEPA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>MUNICIPALSOLIDWASTEGENERATIONRECYCLINGDISPOSALINUNITEDSTATESFACTSFIGURESFOR2011</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref16">
+            <xocs:ref-normalized-surname>VEEKEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1076</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1081</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref17">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>345</xocs:ref-first-fp>
+            <xocs:ref-last-lp>351</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="sref18">
+            <xocs:ref-normalized-surname>WILKIE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>195</xocs:ref-first-fp>
+            <xocs:ref-last-lp>205</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>BIOENERGY</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>BIOMETHANEBIOMASSBIOWASTEBIOFUELS</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>GRAUNKEX2014X327</xocs:refkey3>
+         <xocs:refkey4lp>GRAUNKEX2014X327X333</xocs:refkey4lp>
+         <xocs:refkey4ai>GRAUNKEX2014X327XR</xocs:refkey4ai>
+         <xocs:refkey5>GRAUNKEX2014X327X333XR</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0964-8305(13)00362-4</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0964830513003624</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0964830513003624</xocs:eid>
+         <xocs:doi>10.1016/j.ibiod.2013.10.007</xocs:doi>
+         <xocs:cid>271813</xocs:cid>
+         <xocs:timestamp>2024-01-02T22:45:26.844361Z</xocs:timestamp>
+         <xocs:cover-date-start>2014-01-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2014-01-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0964830513003624-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0964830513003624/MAIN/application/pdf/3b99d8017371a899216ad32a5171543d/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0964830513003624/MAIN/application/pdf/3b99d8017371a899216ad32a5171543d/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>587603</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0964830513003624-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0964830513003624/PREVIEW/image/png/c445b13f3f6939aa7aeb6f0d1a27a6c1/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0964830513003624/PREVIEW/image/png/c445b13f3f6939aa7aeb6f0d1a27a6c1/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>60540</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0964830513003624-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0964830513003624/gr1/THUMBNAIL/image/gif/e9b2343448059e73697e626c864ffc28/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0964830513003624/gr1/THUMBNAIL/image/gif/e9b2343448059e73697e626c864ffc28/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>12504</xocs:filesize>
+               <xocs:pixel-height>157</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0964830513003624-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0964830513003624/gr2/THUMBNAIL/image/gif/79304acc8571f7077caddb6405080d7e/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0964830513003624/gr2/THUMBNAIL/image/gif/79304acc8571f7077caddb6405080d7e/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>10324</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0964830513003624-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0964830513003624/gr3/THUMBNAIL/image/gif/c153e7d744f367ab682e28e2a5207697/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0964830513003624/gr3/THUMBNAIL/image/gif/c153e7d744f367ab682e28e2a5207697/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>12319</xocs:filesize>
+               <xocs:pixel-height>159</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0964830513003624-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0964830513003624/gr4/THUMBNAIL/image/gif/7d993c857a4df2cc023d9db2bce0d587/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0964830513003624/gr4/THUMBNAIL/image/gif/7d993c857a4df2cc023d9db2bce0d587/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11152</xocs:filesize>
+               <xocs:pixel-height>162</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0964830513003624-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0964830513003624/gr5/THUMBNAIL/image/gif/cb2427f739636dee364fc834b5a64982/gr5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0964830513003624/gr5/THUMBNAIL/image/gif/cb2427f739636dee364fc834b5a64982/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>12046</xocs:filesize>
+               <xocs:pixel-height>160</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0964830513003624-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0964830513003624/gr1/DOWNSAMPLED/image/jpeg/92de73a6345fe364a2217064696b573c/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0964830513003624/gr1/DOWNSAMPLED/image/jpeg/92de73a6345fe364a2217064696b573c/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>35757</xocs:filesize>
+               <xocs:pixel-height>262</xocs:pixel-height>
+               <xocs:pixel-width>366</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0964830513003624-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0964830513003624/gr2/DOWNSAMPLED/image/jpeg/d3917291d991f572b55bcb5c56433b08/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0964830513003624/gr2/DOWNSAMPLED/image/jpeg/d3917291d991f572b55bcb5c56433b08/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>30265</xocs:filesize>
+               <xocs:pixel-height>272</xocs:pixel-height>
+               <xocs:pixel-width>366</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0964830513003624-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0964830513003624/gr3/DOWNSAMPLED/image/jpeg/4a88f44c3db41226251204f66332a67b/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0964830513003624/gr3/DOWNSAMPLED/image/jpeg/4a88f44c3db41226251204f66332a67b/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>35510</xocs:filesize>
+               <xocs:pixel-height>265</xocs:pixel-height>
+               <xocs:pixel-width>366</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0964830513003624-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0964830513003624/gr4/DOWNSAMPLED/image/jpeg/fc516192f3306590ea8c27f3c71d198e/gr4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0964830513003624/gr4/DOWNSAMPLED/image/jpeg/fc516192f3306590ea8c27f3c71d198e/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>32650</xocs:filesize>
+               <xocs:pixel-height>270</xocs:pixel-height>
+               <xocs:pixel-width>366</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0964830513003624-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0964830513003624/gr5/DOWNSAMPLED/image/jpeg/01710a5129b4c45cced7751efd291943/gr5.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0964830513003624/gr5/DOWNSAMPLED/image/jpeg/01710a5129b4c45cced7751efd291943/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>35485</xocs:filesize>
+               <xocs:pixel-height>267</xocs:pixel-height>
+               <xocs:pixel-width>366</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0964830513003624-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0964830513003624/gr1/HIGHRES/image/jpeg/2346d1e04581d5a417d119c7c666ddb3/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0964830513003624/gr1/HIGHRES/image/jpeg/2346d1e04581d5a417d119c7c666ddb3/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>141250</xocs:filesize>
+               <xocs:pixel-height>1162</xocs:pixel-height>
+               <xocs:pixel-width>1622</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0964830513003624-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0964830513003624/gr2/HIGHRES/image/jpeg/8a1c89027a879622bfd393e8f0ab184a/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0964830513003624/gr2/HIGHRES/image/jpeg/8a1c89027a879622bfd393e8f0ab184a/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>120952</xocs:filesize>
+               <xocs:pixel-height>1206</xocs:pixel-height>
+               <xocs:pixel-width>1622</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0964830513003624-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0964830513003624/gr3/HIGHRES/image/jpeg/b8eae8cff158ff5fca988720cb07a00d/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0964830513003624/gr3/HIGHRES/image/jpeg/b8eae8cff158ff5fca988720cb07a00d/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>143875</xocs:filesize>
+               <xocs:pixel-height>1174</xocs:pixel-height>
+               <xocs:pixel-width>1622</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0964830513003624-gr4_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0964830513003624/gr4/HIGHRES/image/jpeg/b0f3c417aeb95de4e0e42f59983e2cdd/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0964830513003624/gr4/HIGHRES/image/jpeg/b0f3c417aeb95de4e0e42f59983e2cdd/gr4_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>133572</xocs:filesize>
+               <xocs:pixel-height>1198</xocs:pixel-height>
+               <xocs:pixel-width>1622</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0964830513003624-gr5_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0964830513003624/gr5/HIGHRES/image/jpeg/172b3ca5eebd8ed0cf4417c09ebd6ce1/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0964830513003624/gr5/HIGHRES/image/jpeg/172b3ca5eebd8ed0cf4417c09ebd6ce1/gr5_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>142149</xocs:filesize>
+               <xocs:pixel-height>1182</xocs:pixel-height>
+               <xocs:pixel-width>1622</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0964830513003624-Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P04.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10KF74V0RC0/PAGE-IMAGE/image/jpg/90c6ca138fed5499997a62698816fe0a/Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P04.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10KF74V0RC0/PAGE-IMAGE/image/jpg/90c6ca138fed5499997a62698816fe0a/Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P04.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/b6de3713-e920-4a48-8324-68f257dcfda8</xocs:ucs-locator>
+               <xocs:file-basename>Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P04</xocs:file-basename>
+               <xocs:filename>Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P04.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>1111767</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0964830513003624-Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P01.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10KF74V0RC0/PAGE-IMAGE/image/jpg/90eeaf82c67a00bf37a6f32d781f5f72/Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P01.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10KF74V0RC0/PAGE-IMAGE/image/jpg/90eeaf82c67a00bf37a6f32d781f5f72/Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P01.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/b5fcb6ab-540e-4f5f-a133-073d649d7173</xocs:ucs-locator>
+               <xocs:file-basename>Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P01</xocs:file-basename>
+               <xocs:filename>Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P01.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>148483</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0964830513003624-Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P20.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10KF74V0RC0/PAGE-IMAGE/image/jpg/94b5e6b0ebd3d4a4db6b7c3dac2db8ff/Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P20.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10KF74V0RC0/PAGE-IMAGE/image/jpg/94b5e6b0ebd3d4a4db6b7c3dac2db8ff/Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P20.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/053ae6a6-8ce2-436f-b499-de1c7150e2a8</xocs:ucs-locator>
+               <xocs:file-basename>Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P20</xocs:file-basename>
+               <xocs:filename>Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P20.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>125220</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0964830513003624-Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P13.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10KF74V0RC0/PAGE-IMAGE/image/jpg/f768a22cb365436ee989a4a75f1162b3/Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P13.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10KF74V0RC0/PAGE-IMAGE/image/jpg/f768a22cb365436ee989a4a75f1162b3/Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P13.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/23958c7f-3747-4758-962e-30eefeee424f</xocs:ucs-locator>
+               <xocs:file-basename>Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P13</xocs:file-basename>
+               <xocs:filename>Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P13.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>201982</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0964830513003624-Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P23.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10KF74V0RC0/PAGE-IMAGE/image/jpg/b084e0740e9f1c91db602328aabdbdaa/Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P23.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10KF74V0RC0/PAGE-IMAGE/image/jpg/b084e0740e9f1c91db602328aabdbdaa/Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P23.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/8a858923-3247-44bf-949c-eafbe853f0cf</xocs:ucs-locator>
+               <xocs:file-basename>Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P23</xocs:file-basename>
+               <xocs:filename>Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P23.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>153042</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0964830513003624-Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10KF74V0RC0/MAIN/application/pdf/e3e51350d3162c5189c2b2cab7ace427/Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10KF74V0RC0/MAIN/application/pdf/e3e51350d3162c5189c2b2cab7ace427/Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/935b492f-ad95-4c57-83c1-aaaa29cb3092</xocs:ucs-locator>
+               <xocs:file-basename>Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013</xocs:file-basename>
+               <xocs:filename>Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>false</xocs:pdf-optimized>
+               <xocs:filesize>298077</xocs:filesize>
+               <xocs:attachment-type>AAM-PDF</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0964830513003624-Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P07.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10KF74V0RC0/PAGE-IMAGE/image/jpg/33e57b1cd6ed8509c6855b15d44fc3f2/Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P07.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10KF74V0RC0/PAGE-IMAGE/image/jpg/33e57b1cd6ed8509c6855b15d44fc3f2/Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P07.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/e44c8a4b-225e-4732-a6c6-59b6d40b53d0</xocs:ucs-locator>
+               <xocs:file-basename>Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P07</xocs:file-basename>
+               <xocs:filename>Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P07.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>1076787</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0964830513003624-Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P14.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10KF74V0RC0/PAGE-IMAGE/image/jpg/5c578f9f6d2841bfd8335e8eaaa7ecf6/Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P14.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10KF74V0RC0/PAGE-IMAGE/image/jpg/5c578f9f6d2841bfd8335e8eaaa7ecf6/Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P14.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/678e08f6-3036-49a7-9a65-ca6d05f2a4fc</xocs:ucs-locator>
+               <xocs:file-basename>Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P14</xocs:file-basename>
+               <xocs:filename>Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P14.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>212460</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0964830513003624-Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P10.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10KF74V0RC0/PAGE-IMAGE/image/jpg/641c7cde6440cc82e6a7ce27b2ca2dde/Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P10.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10KF74V0RC0/PAGE-IMAGE/image/jpg/641c7cde6440cc82e6a7ce27b2ca2dde/Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P10.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/b9cb562d-2521-41ed-a21b-f1436618db82</xocs:ucs-locator>
+               <xocs:file-basename>Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P10</xocs:file-basename>
+               <xocs:filename>Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P10.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>588714</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0964830513003624-Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P05.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10KF74V0RC0/PAGE-IMAGE/image/jpg/21e7e99e7808cc8356b048a623c2ba94/Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P05.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10KF74V0RC0/PAGE-IMAGE/image/jpg/21e7e99e7808cc8356b048a623c2ba94/Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P05.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/44e19740-00e3-447d-a997-c5c2519359c6</xocs:ucs-locator>
+               <xocs:file-basename>Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P05</xocs:file-basename>
+               <xocs:filename>Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P05.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>973286</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0964830513003624-Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P09.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10KF74V0RC0/PAGE-IMAGE/image/jpg/543a12135de572f230f86fc7618e743f/Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P09.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10KF74V0RC0/PAGE-IMAGE/image/jpg/543a12135de572f230f86fc7618e743f/Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P09.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/5d6403f3-657b-4d28-8aa8-f08286625037</xocs:ucs-locator>
+               <xocs:file-basename>Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P09</xocs:file-basename>
+               <xocs:filename>Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P09.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>1098039</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0964830513003624-Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P03.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10KF74V0RC0/PAGE-IMAGE/image/jpg/2f9c88f5e459e8f368f095072d000317/Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P03.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10KF74V0RC0/PAGE-IMAGE/image/jpg/2f9c88f5e459e8f368f095072d000317/Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P03.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/71ac255a-d251-4e98-9d17-8daf42c0d6ed</xocs:ucs-locator>
+               <xocs:file-basename>Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P03</xocs:file-basename>
+               <xocs:filename>Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P03.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>1050938</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0964830513003624-Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P19.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10KF74V0RC0/PAGE-IMAGE/image/jpg/52d5f1e63e58ce387c64d5bd5f90670f/Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P19.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10KF74V0RC0/PAGE-IMAGE/image/jpg/52d5f1e63e58ce387c64d5bd5f90670f/Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P19.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/30684c3b-de1f-434f-9d34-70b285eadb31</xocs:ucs-locator>
+               <xocs:file-basename>Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P19</xocs:file-basename>
+               <xocs:filename>Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P19.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>150287</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0964830513003624-Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P21.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10KF74V0RC0/PAGE-IMAGE/image/jpg/f96b7421d9ec3b88fc5025e6470bb356/Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P21.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10KF74V0RC0/PAGE-IMAGE/image/jpg/f96b7421d9ec3b88fc5025e6470bb356/Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P21.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/e77a4855-5144-438f-9549-1cba58c6a83d</xocs:ucs-locator>
+               <xocs:file-basename>Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P21</xocs:file-basename>
+               <xocs:filename>Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P21.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>151644</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0964830513003624-Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P17.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10KF74V0RC0/PAGE-IMAGE/image/jpg/f3380fbd9e16c0ae110ce0e4cb706ca8/Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P17.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10KF74V0RC0/PAGE-IMAGE/image/jpg/f3380fbd9e16c0ae110ce0e4cb706ca8/Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P17.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/5e553651-af1f-4e88-81cd-c33030804d1d</xocs:ucs-locator>
+               <xocs:file-basename>Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P17</xocs:file-basename>
+               <xocs:filename>Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P17.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>199439</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0964830513003624-Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P18.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10KF74V0RC0/PAGE-IMAGE/image/jpg/70ba5e943568333b5301f2e98e742565/Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P18.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10KF74V0RC0/PAGE-IMAGE/image/jpg/70ba5e943568333b5301f2e98e742565/Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P18.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/dae14e61-bd0b-4d82-bdd2-379103fdef84</xocs:ucs-locator>
+               <xocs:file-basename>Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P18</xocs:file-basename>
+               <xocs:filename>Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P18.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>377955</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0964830513003624-Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P22.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10KF74V0RC0/PAGE-IMAGE/image/jpg/4244b1db8b23b27ba4711737272a5ff5/Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P22.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10KF74V0RC0/PAGE-IMAGE/image/jpg/4244b1db8b23b27ba4711737272a5ff5/Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P22.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/0ce2b0fc-c927-4152-a381-9ec28e664c10</xocs:ucs-locator>
+               <xocs:file-basename>Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P22</xocs:file-basename>
+               <xocs:filename>Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P22.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>152275</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0964830513003624-Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P16.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10KF74V0RC0/PAGE-IMAGE/image/jpg/d954849d3f9eba5f1f9195265dbe093b/Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P16.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10KF74V0RC0/PAGE-IMAGE/image/jpg/d954849d3f9eba5f1f9195265dbe093b/Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P16.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/d2dc7e28-36b7-4ea9-945c-69e8c39cfdee</xocs:ucs-locator>
+               <xocs:file-basename>Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P16</xocs:file-basename>
+               <xocs:filename>Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P16.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>202644</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0964830513003624-Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P15.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10KF74V0RC0/PAGE-IMAGE/image/jpg/117e2ea15d0590ea1647a6e8db6d7798/Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P15.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10KF74V0RC0/PAGE-IMAGE/image/jpg/117e2ea15d0590ea1647a6e8db6d7798/Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P15.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/fec7df36-4537-40dc-ab5f-c49a17986491</xocs:ucs-locator>
+               <xocs:file-basename>Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P15</xocs:file-basename>
+               <xocs:filename>Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P15.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>204789</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0964830513003624-Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P12.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10KF74V0RC0/PAGE-IMAGE/image/jpg/952883071f94058efaa9fe02241f1662/Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P12.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10KF74V0RC0/PAGE-IMAGE/image/jpg/952883071f94058efaa9fe02241f1662/Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P12.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/cc540240-56cd-45fa-be67-093cf216e0f9</xocs:ucs-locator>
+               <xocs:file-basename>Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P12</xocs:file-basename>
+               <xocs:filename>Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P12.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>411359</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0964830513003624-Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P06.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10KF74V0RC0/PAGE-IMAGE/image/jpg/ba4a8c48012ead82adb9df28c2c5a987/Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P06.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10KF74V0RC0/PAGE-IMAGE/image/jpg/ba4a8c48012ead82adb9df28c2c5a987/Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P06.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/6897cf96-6b0d-4546-b793-969d692f8cb9</xocs:ucs-locator>
+               <xocs:file-basename>Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P06</xocs:file-basename>
+               <xocs:filename>Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P06.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>1024750</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0964830513003624-Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P08.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10KF74V0RC0/PAGE-IMAGE/image/jpg/8b51551ead761f03c97147f4ce54ee4f/Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P08.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10KF74V0RC0/PAGE-IMAGE/image/jpg/8b51551ead761f03c97147f4ce54ee4f/Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P08.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/fae183c4-e4b8-430c-8a89-7aaa85c0bd7b</xocs:ucs-locator>
+               <xocs:file-basename>Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P08</xocs:file-basename>
+               <xocs:filename>Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P08.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>1009462</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0964830513003624-Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P11.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10KF74V0RC0/PAGE-IMAGE/image/jpg/6c5f1adc42de66680d9aaf09405f3bc9/Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P11.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10KF74V0RC0/PAGE-IMAGE/image/jpg/6c5f1adc42de66680d9aaf09405f3bc9/Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P11.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/b48810b7-37e6-4a24-917b-0a4bd4e737f0</xocs:ucs-locator>
+               <xocs:file-basename>Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P11</xocs:file-basename>
+               <xocs:filename>Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P11.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>857424</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0964830513003624-Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P02.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/egi:10KF74V0RC0/PAGE-IMAGE/image/jpg/4b516f75c43f4d5d9025573325f36499/Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P02.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/egi:10KF74V0RC0/PAGE-IMAGE/image/jpg/4b516f75c43f4d5d9025573325f36499/Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P02.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://ucs.elsevier.com/asset/b1f6de94-aeeb-4019-9282-201a8f2d2a53</xocs:ucs-locator>
+               <xocs:file-basename>Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P02</xocs:file-basename>
+               <xocs:filename>Ryan_E_Graunke_Endogenous_solubilization_enzymatic_2013_P02.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>452701</xocs:filesize>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" version="5.2" xml:lang="en">
+         <item-info>
+            <jid>INBI</jid>
+            <aid>3212</aid>
+            <ce:pii>S0964-8305(13)00362-4</ce:pii>
+            <ce:doi>10.1016/j.ibiod.2013.10.007</ce:doi>
+            <ce:copyright type="full-transfer" year="2013">Elsevier Ltd</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cap0010">
+                  <ce:simple-para id="fspara0010" view="all">Soluble COD, glucose and xylose analysis of ground food waste in aqueous solution. Data shown is for the grinder (small plate): Soluble COD (<ce:bold>– • – • –</ce:bold>); Glucose (—); Xylose (<ce:bold>– – –</ce:bold>).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cap0015">
+                  <ce:simple-para id="fspara0015" view="all">Endogenous solubilization of ground food waste (triplicate data points with regressions): Grinder, small plate (— regression, ◊ data); Grinder, medium plate (<ce:bold>– – –</ce:bold> regression, □ data); Disposer (<ce:bold>– • – • –</ce:bold> regression, ▵ data).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="fig3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cap0020">
+                  <ce:simple-para id="fspara0020" view="all">Soluble COD, glucose and xylose analysis of ground food waste in aqueous solution with excess hydrolytic enzymes. Data shown is for the grinder (small plate): Soluble COD (<ce:bold>– • – • –</ce:bold>); Glucose (—); Xylose (<ce:bold>– – –</ce:bold>).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:figure id="fig4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cap0025">
+                  <ce:simple-para id="fspara0025" view="all">Enzymatic hydrolysis of ground food waste (triplicate data points with regressions): Grinder, small plate (— regression ◊ data); Grinder, medium plate (<ce:bold>– – –</ce:bold> regression, □ data); Disposer (<ce:bold>– • – • –</ce:bold> regression, ▵ data).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4"/>
+            </ce:figure>
+            <ce:figure id="fig5">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cap0030">
+                  <ce:simple-para id="fspara0030" view="all">Solubilization of ground food waste from endogenous solubilization and enzymatic hydrolysis. Data is based on the regression analysis for the grinder (small plate): Particulate COD (—); Soluble COD-Enzymatic hydrolysis (<ce:bold>– – –</ce:bold>); Soluble COD-Endogenous solubilization (<ce:bold>– • – • –</ce:bold>); Soluble COD-Unreleased endogenous (— —).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl1" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cap0035">
+                  <ce:simple-para id="tspara0010" view="all">Composition of standard food waste.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="4">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Components</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Percent composition (% ww<cross-ref refid="tbl1fna" id="crosref0160">
+                              <sup loc="post">a</sup>
+                           </cross-ref>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Percent composition (% of TCOD<cross-ref refid="tbl1fnb" id="crosref0165">
+                              <sup loc="post">b</sup>
+                           </cross-ref>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Representative organic macromolecule</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Apple, Red Delicious</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">24</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">11.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Carbohydrate (sugar, pectin)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Potato, Russet</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">24</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">13.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Carbohydrate (starch)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Beans, red kidney (canned, drained and rinsed)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">20</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">21.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Protein</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Broccoli (florets)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">12</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">4.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Carbohydrate (cellulose)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Bread, white hamburger bun</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">12</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">29.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Carbohydrate (starch)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Cheese, Sharp Cheddar</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">19.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Protein, lipid</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:table-footnote id="tbl1fna">
+                  <ce:label>a</ce:label>
+                  <ce:note-para id="ntpara0010" view="all">ww = wet weight.</ce:note-para>
+               </ce:table-footnote>
+               <ce:table-footnote id="tbl1fnb">
+                  <ce:label>b</ce:label>
+                  <ce:note-para id="ntpara0015" view="all">TCOD = Total chemical oxygen demand.</ce:note-para>
+               </ce:table-footnote>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl2" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 2</ce:label>
+               <ce:caption id="cap0040">
+                  <ce:simple-para id="tspara0015" view="all">Physicochemical properties of standard food waste and food waste collected from local schools and restaurants.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="3">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Property</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Standard food waste (mean ± SD)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">School/Restaurant food waste (mean ± SD)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Total solids (TS) (%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">29.94 ± 0.20</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">28.8 ± 13.5</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Volatile solids (% TS)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">95.41 ± 0.001</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">91.0 ± 5.8</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Total COD (g kg<sup loc="post">−1</sup> ww<cross-ref refid="tbl2fna" id="crosref0170">
+                              <sup loc="post">a</sup>
+                           </cross-ref>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">348.89 ± 22.87</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">376.9 ± 184.3</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Soluble COD (g kg<sup loc="post">−1</sup> ww)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">87.9 ± 2.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Conductivity (mS cm<sup loc="post">−1</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">4.37 ± 0.16</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Alkalinity (mg CaCO<inf loc="post">3</inf> eq. kg<sup loc="post">−1</sup> ww)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">1344.8 ± 3.67</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Total nitrogen (% TS)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">3.08 ± 0.12</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">3.03 ± 0.812</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Total phosphorus (% TS)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.32 ± 0.0008</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.41 ± 0.18</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:table-footnote id="tbl2fna">
+                  <ce:label>a</ce:label>
+                  <ce:note-para id="ntpara0020" view="all">ww = wet weight.</ce:note-para>
+               </ce:table-footnote>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl3" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 3</ce:label>
+               <ce:caption id="cap0045">
+                  <ce:simple-para id="tspara0020" view="all">Experimental regime for solubilization assays of ground food waste.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="3">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Control assay</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Enzyme assay</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Food waste</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">10 g (ww<cross-ref refid="tbl3fna" id="crosref0175">
+                              <sup loc="post">a</sup>
+                           </cross-ref>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">10 g (ww)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Phosphate buffer</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">250 mL</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">250 mL</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Commercial enzyme</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">N/A</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1 g</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Total volume</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1 L (640 mL deionized water)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1 L (640 mL deionized water)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Loading rate</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3.5 g COD L<sup loc="post">−1</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3.5 g COD L<sup loc="post">−1</sup>
+                        </entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="2">Grinding methods<cross-ref refid="tbl3fnb" id="crosref0180">
+                              <sup loc="post">b</sup>
+                           </cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Grinder (small plate opening)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Grinder (small plate opening)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Grinder (medium plate opening)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Grinder (medium plate opening)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Disposer</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Disposer</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:table-footnote id="tbl3fna">
+                  <ce:label>a</ce:label>
+                  <ce:note-para id="ntpara0025" view="all">ww = wet weight.</ce:note-para>
+               </ce:table-footnote>
+               <ce:table-footnote id="tbl3fnb">
+                  <ce:label>b</ce:label>
+                  <ce:note-para id="ntpara0030" view="all">Assays were conducted in triplicate for each grinding method.</ce:note-para>
+               </ce:table-footnote>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl4" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 4</ce:label>
+               <ce:caption id="cap0050">
+                  <ce:simple-para id="tspara0025" view="all">Regression parameter estimates for endogenous solubilization and estimated 4 h endogenous solubilization of ground food waste.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="4">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>k</italic> (h<sup loc="post">−1</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>CODesf</italic>
+                           <inf loc="post">
+                              <italic>f</italic>
+                           </inf> (%)<cross-ref refid="tbl4fna" id="crosref0185">
+                              <sup loc="post">a</sup>
+                           </cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>CODesf</italic>
+                           <inf loc="post">
+                              <italic>4</italic>
+                           </inf> (%)<cross-ref refid="tbl4fnb" id="crosref0190">
+                              <sup loc="post">b</sup>
+                           </cross-ref>
+                        </entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Grinder (small plate opening)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">24.3 ± 2.6 <italic>x</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">27.8 ± 0.3 <italic>x</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">27.8</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Grinder (medium plate opening)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">12.7 ± 1.4 <italic>y</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">27.1 ± 0.4 <italic>x</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">27.1</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Disposer</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">14.9 ± 0.9 <italic>y</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">27.2 ± 0.2 <italic>x</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">27.2</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:legend>
+                  <ce:simple-para id="tspara0030" view="all">Different letters (x, y) in the same column represent significant difference (<ce:italic>α</ce:italic> = 0.01).</ce:simple-para>
+               </ce:legend>
+               <ce:table-footnote id="tbl4fna">
+                  <ce:label>a</ce:label>
+                  <ce:note-para id="ntpara0035" view="all">
+                     <ce:italic>CODesf</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>f</ce:italic>
+                     </ce:inf> = maximum fraction of TCOD solubilized through endogenous solubilization.</ce:note-para>
+               </ce:table-footnote>
+               <ce:table-footnote id="tbl4fnb">
+                  <ce:label>b</ce:label>
+                  <ce:note-para id="ntpara0040" view="all">
+                     <ce:italic>CODesf</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>4</ce:italic>
+                     </ce:inf> = fraction of TCOD solubilized through endogenous solubilization after 4 h.</ce:note-para>
+               </ce:table-footnote>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl5" frame="topbot" colsep="0" rowsep="0">
+               <ce:label>Table 5</ce:label>
+               <ce:caption id="cap0055">
+                  <ce:simple-para id="tspara0035" view="all">Regression parameter estimates for enzymatic hydrolysis and estimated 4 h enzymatic hydrolysis of ground food waste.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="4">
+                  <colspec colnum="1" colname="col1"/>
+                  <colspec colnum="2" colname="col2"/>
+                  <colspec colnum="3" colname="col3"/>
+                  <colspec colnum="4" colname="col4"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>k</italic> (h<sup loc="post">−1</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>CODhsf</italic>
+                           <inf loc="post">
+                              <italic>f</italic>
+                           </inf> (%)<cross-ref refid="tbl5fna" id="crosref0195">
+                              <sup loc="post">a</sup>
+                           </cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>CODhsf</italic>
+                           <inf loc="post">
+                              <italic>4</italic>
+                           </inf> (%)<cross-ref refid="tbl5fnb" id="crosref0200">
+                              <sup loc="post">b</sup>
+                           </cross-ref>
+                        </entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Grinder (small plate opening)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">0.83 ± 0.05 <italic>x</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">32.2 ± 0.5 <italic>x</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">31.1</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Grinder (medium plate opening)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">1.19 ± 0.22 <italic>x</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">29.2 ± 1.0 <italic>y</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">29.0</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Disposer</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">1.05 ± 0.13 <italic>x</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">30.5 ± 0.8 <italic>y</italic>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">30.1</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:legend>
+                  <ce:simple-para id="tspara0040" view="all">Different letters (x, y) in the same column represent significant difference (<ce:italic>α</ce:italic> = 0.01).</ce:simple-para>
+               </ce:legend>
+               <ce:table-footnote id="tbl5fna">
+                  <ce:label>a</ce:label>
+                  <ce:note-para id="ntpara0045" view="all">
+                     <ce:italic>CODhsf</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>f</ce:italic>
+                     </ce:inf> = maximum fraction of TCOD solubilized through enzymatic hydrolysis.</ce:note-para>
+               </ce:table-footnote>
+               <ce:table-footnote id="tbl5fnb">
+                  <ce:label>b</ce:label>
+                  <ce:note-para id="ntpara0050" view="all">
+                     <ce:italic>CODhsf</ce:italic>
+                     <ce:inf loc="post">
+                        <ce:italic>4</ce:italic>
+                     </ce:inf> = fraction of TCOD solubilized through enzymatic hydrolysis after 4 h.</ce:note-para>
+               </ce:table-footnote>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title id="title0010">Examining the mechanisms of short-term solubilization of ground food waste for high-rate anaerobic digestion</ce:title>
+            <ce:author-group id="augrp0010">
+               <ce:author id="au1" author-id="S0964830513003624-56f2138baf5e3b16a612894baad533b1">
+                  <ce:given-name>Ryan E.</ce:given-name>
+                  <ce:surname>Graunke</ce:surname>
+               </ce:author>
+               <ce:author id="au2" author-id="S0964830513003624-760aa4c2dd23c4cb8c6492711342bcac">
+                  <ce:given-name>Ann C.</ce:given-name>
+                  <ce:surname>Wilkie</ce:surname>
+                  <ce:cross-ref refid="cor1" id="crosref0010">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff1">
+                  <ce:textfn>Soil and Water Science Department, University of Florida-IFAS, P.O. Box 110960, Gainesville, FL 32611-0960, USA</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Soil and Water Science Department</sa:organization>
+                     <sa:organization>University of Florida-IFAS</sa:organization>
+                     <sa:address-line>P.O. Box 110960</sa:address-line>
+                     <sa:city>Gainesville</sa:city>
+                     <sa:state>FL</sa:state>
+                     <sa:postal-code>32611-0960</sa:postal-code>
+                     <sa:country>USA</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>∗</ce:label>
+                  <ce:text>Corresponding author. Tel.: +1 352 392 8699; fax: +1 352 392 7008.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="30" month="7" year="2013"/>
+            <ce:date-revised day="5" month="10" year="2013"/>
+            <ce:date-accepted day="7" month="10" year="2013"/>
+            <ce:abstract xml:lang="en" id="abs0010" view="all" class="author"><ce:abstract-sec id="abssec0010" view="all">
+                  <ce:simple-para id="abspara0010" view="all">Optimizing short-term solubilization is essential for high-rate anaerobic digestion of food waste. The purpose of this study was to measure the short-term kinetics of food waste solubilization and understand what mechanisms are responsible for driving food waste solubilization. Two solubilization assays were conducted to measure the solubilization of mechanically processed food waste. Three methods of mechanical grinding were utilized: an in-sink food disposer and a manual meat grinder with either small or medium size plate openings. A control assay was conducted to measure the release of endogenous soluble material into an aqueous medium. An enzyme assay was conducted to examine short-term food waste hydrolysis. The assays were diluted and buffered to prevent product and pH inhibition, respectively, and allow maximum solubilization to occur. Percent solubilization was calculated as the soluble chemical oxygen demand (COD) fraction of total COD. Data from the two assays were used to calculate the kinetics of endogenous solubilization and enzymatic hydrolysis. Regardless of grinding method, food waste was 27% solubilized within 1 h through endogenous solubilization. Enzymatic hydrolysis was responsible for an additional 29–31% solubilization by 4 h. This study showed that ground food waste was approximately 60% solubilized within 4 h under optimal conditions.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            
+            <ce:keywords xml:lang="en" id="kwrds0010" view="all" class="keyword">
+               <ce:section-title id="sectitle0020">Keywords</ce:section-title>
+               <ce:keyword id="kwrd0010">
+                  <ce:text>Endogenous solubilization</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0015">
+                  <ce:text>Enzymatic hydrolysis</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0020">
+                  <ce:text>Food waste</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0025">
+                  <ce:text>Anaerobic digestion</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kwrd0030">
+                  <ce:text>Mechanical pretreatment</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+            <ce:keywords xml:lang="en" class="abr" id="kwrds0010a" view="all">
+               <ce:section-title id="sectitle0010a">Abbreviations</ce:section-title>
+               <ce:keyword id="kwrd0010a">
+                  <ce:text>
+                     <ce:italic>CODsf</ce:italic>
+                  </ce:text>
+                  <ce:keyword id="kwrd0015a">
+                     <ce:text>The soluble fraction of total chemical oxygen demand</ce:text>
+                  </ce:keyword>
+               </ce:keyword>
+               <ce:keyword id="kwrd0020a">
+                  <ce:text>
+                     <ce:italic>CODesf</ce:italic>
+                  </ce:text>
+                  <ce:keyword id="kwrd0025a">
+                     <ce:text>
+                        <ce:italic>CODsf</ce:italic> in the endogenous solubilization (control) assay</ce:text>
+                  </ce:keyword>
+               </ce:keyword>
+               <ce:keyword id="kwrd0030a">
+                  <ce:text>
+                     <ce:italic>CODhsf</ce:italic>
+                  </ce:text>
+                  <ce:keyword id="kwrd0035a">
+                     <ce:text>
+                        <ce:italic>CODsf</ce:italic> in the hydrolytic enzyme solubilization assay due only to enzymatic hydrolysis</ce:text>
+                  </ce:keyword>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="sec1" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="sectitle0025">Introduction</ce:section-title>
+                  <ce:para id="p0035" view="all">In the United States, food waste is a significant component of municipal solid waste and the vast majority of food waste is currently landfilled. In 2011, more than 36 million tons of food waste was disposed in the United States, or 21% of municipal solid waste, only 4% of which was diverted from landfills (<ce:cross-ref refid="bib15" id="crosref0015">USEPA, 2013</ce:cross-ref>). There are increasing efforts across the U.S. and Europe to divert food waste from landfills for beneficial use. One potential solution is anaerobic digestion, which creates biofuel and biofertilizer from food waste (<ce:cross-ref refid="bib18" id="crosref0020">Wilkie, 2008</ce:cross-ref>). Utilizing high-rate anaerobic digestion technology, such as fixed-film digestion, could improve the efficiency of anaerobic digestion of food waste. However, a significant hurdle to overcome in high-rate anaerobic digestion of food waste is optimizing the solubilization step (<ce:cross-refs refid="bib17 bib10" id="crosrefs0010">Wang et al., 2006; Liu et al., 2008</ce:cross-refs>). Various pretreatment methods, including thermal, freezing/thawing, enzymatic, and mechanical, are proposed as a solution for increasing the solubilization of food waste and, therefore, the rate and extent of food waste anaerobic digestion. In order to examine the efficacy of pretreatment, it is first necessary to understand the mechanisms through which food waste solubilizes.</ce:para>
+                  <ce:para id="p0040" view="all">Organic matter in food waste can be represented as total chemical oxygen demand (TCOD), which can be divided into two primary fractions: water-soluble organic material and particulate organic material. Food waste contains endogenous intracellular and extracellular water-soluble organic material, as measured by soluble chemical oxygen demand (SCOD). In the present study, SCOD is any organic matter that can pass through a 0.45 μm filter. Particulate organic material, as measured by particulate chemical oxygen demand (PCOD), is any larger organic material that cannot pass through the filter. The relative proportions of SCOD and PCOD in food waste depend on the individual components of the food waste. Components with high sugar contents, such as fruits, generally have a higher proportion of SCOD, due to the ready solubility of simple sugars such as glucose and fructose. More fibrous components tend to have higher PCOD. In raw foods, SCOD is typically intracellular, such as cytoplasm contained within cell walls and cell membranes, while PCOD is comprised of the cell walls and cell membranes or larger intracellular structures, such as plastids. Some cooked or processed food waste components, such as bread and cheese, are acellular as the cells have been disrupted and extruded during processing. In these processed foods, the SCOD is extracellular and is readily released when placed in water.</ce:para>
+                  <ce:para id="p0045" view="all">Solubilization is a critically important step in anaerobic digestion because the microbial consortia require organic matter in a soluble form for cellular assimilation. The rate at which particulate material is solubilized can determine the overall kinetics of anaerobic digestion and the overall vitality of the microbial consortia. Because anaerobic digestion necessitates acidogenesis of neutral solubilized compounds, there must be sufficient alkalinity in the digester to buffer the free organic acid intermediates. The rate and extent to which organic matter is solubilized and subsequently fermented into organic acids determines the alkalinity requirement of the digester. Thus, solubilization kinetics may dictate the required digester volume and the amount of base required for pH control. A pretreatment reactor for solubilization and/or acidification in a two-phase system may be beneficial in optimizing anaerobic digestion depending on the solubilization kinetics of the feedstock (<ce:cross-refs refid="bib17 bib10" id="crosrefs0015">Wang et al., 2006; Liu et al., 2008</ce:cross-refs>). Solubilization kinetics are also impacted when considering effluent recycling since the enzymes and microorganisms in the effluent may facilitate solubilization (<ce:cross-ref refid="bib11" id="crosref0025">Lü et al., 2008</ce:cross-ref>).</ce:para>
+                  <ce:para id="p0070" view="all">For particulate feedstocks, such as food waste, solubilization has been considered the rate-limiting step of the entire digestion process (<ce:cross-refs refid="bib3 bib13 bib17 bib7" id="crosrefs0020">Eastman and Ferguson, 1981; Palmowski and Müller, 2003; Wang et al., 2006; Izumi et al., 2010</ce:cross-refs>). The ratio between SCOD and PCOD endogenous to the feedstock is critical for the overall anaerobic digestion kinetics (<ce:cross-ref refid="bib14" id="crosref0030">Prashanth et al., 2006</ce:cross-ref>). While SCOD can be readily assimilated by the microbial consortia, PCOD must be hydrolyzed by extracellular hydrolytic enzymes produced by the microbial consortia. There are many factors that limit enzymatic hydrolysis rates. Four principal factors that limit enzymatic hydrolysis are adequate enzyme levels, substrate characteristics (particulate surface area and resistance to degradation), pH inhibition of enzyme activity, and product inhibition of enzyme kinetics. The characteristics of particulate material present in food waste significantly impact the kinetics of enzymatic hydrolysis (<ce:cross-ref refid="bib12" id="crosref0035">Neves et al., 2008</ce:cross-ref>). More recalcitrant materials, such as cellulose, structural proteins, and other oligomers of lipids, proteins and/or carbohydrates, have slower hydrolysis kinetics than more easily degradable materials, such as starch. Disruption of the substrate cells and tissues can increase the substrate availability to hydrolytic enzymes (<ce:cross-ref refid="bib7" id="crosref0040">Izumi et al., 2010</ce:cross-ref>). Enzymatic hydrolysis can also be limited by pH or product inhibition (<ce:cross-refs refid="bib16 bib6" id="crosrefs0025">Veeken et al., 2000; He et al., 2006</ce:cross-refs>). Because acidogenesis tends to lower pH, it is important that acids are either buffered or rapidly converted to CH<ce:inf loc="post">4</ce:inf> and CO<ce:inf loc="post">2</ce:inf> to maximize hydrolysis and anaerobic digestion kinetics. Although acidification in anaerobic digestion is typically more detrimental to acetogenesis and methanogenesis, an excessively low pH can also reduce enzymatic hydrolysis due to reduced enzyme activity outside of the enzymes' pH optima. This can be potentially problematic in a two-phased anaerobic digestion system with a separate hydrolytic/acidogenic reactor, which tends to operate at a lower pH than the methanogenic reactor. Accumulation of hydrolysis end-products, which can result if acidogenesis is reduced, may also inhibit enzymatic hydrolysis and consequently limit acetogenesis because there are insufficient acid intermediates available to the acetogens. Product inhibition can be overcome with robust microbial consortia that rapidly consume these end-products or by dilution with an aqueous phase, which requires a larger digester volume. Active microbial consortia can also reduce pH inhibition by consuming the products of acidogenesis and preventing acidification.</ce:para>
+                  <ce:para id="p0075" view="all">Optimal anaerobic digestion of food waste relies on balanced microbial consortia. The vitality of the consortia depends on a supply of organic intermediates consistently available supply of organic intermediates for microbial assimilation. The short-term solubilization kinetics determine the amount of soluble organic material that is rapidly available to the acidifying microorganisms and subsequently to the acetogenic and methanogenic microorganisms. <ce:cross-ref refid="bib9" id="crosref0045">Kim et al. (2012)</ce:cross-ref> demonstrated that in a thermophilic anaerobic digester fed with food waste and sewage sludge, higher rates of acetogenesis and methanogenesis are supported by higher hydrolytic enzyme activity compared to mesophilic conditions; hence, the rate of hydrolysis can be the driving factor in overall anaerobic digestion kinetics.</ce:para>
+                  <ce:para id="p0080" view="all">The purpose of the present study was to examine the short-term solubilization kinetics of ground food waste and to understand what mechanisms are responsible for driving and limiting short-term solubilization when pH and product inhibition are excluded. Mechanically ground food waste was used in this study to maximize solubilization by rupturing cells and disrupting tissues. In order to measure the relative contribution of endogenous solubilization and enzymatic hydrolysis, two different solubilization assays were conducted. A control assay measured the release of endogenous SCOD by diluting mechanically ground food waste with a buffered aqueous solution. An enzyme assay measured enzymatic hydrolysis of mechanically ground food waste in the presence of excess hydrolytic enzymes in a buffered aqueous medium, such that enzymes were not limiting and the maximum rate of hydrolysis could be achieved. By using identical food waste under identical assay conditions, the kinetics of both endogenous SCOD release and enzymatic hydrolysis could be determined.</ce:para>
+               </ce:section>
+               <ce:section id="sec2" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="sectitle0030">Materials and methods</ce:section-title>
+                  <ce:section id="sec2.1" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title id="sectitle0035">Standard food waste</ce:section-title>
+                     <ce:para id="p0085" view="all">Due to the general heterogeneity of food waste, a standardized food waste was developed for the present study to allow repeatable experiments and directly comparable data. The standard food waste consisted of fresh food waste constituents representing the major macromolecule groups of food waste: carbohydrates, proteins, and fats (<ce:cross-ref refid="tbl1" id="crosref0050">Table 1</ce:cross-ref>
+                        <ce:float-anchor refid="tbl1"/>). The constituents were proportioned to simulate actual food waste analogous to that generated from local food service establishments (i.e. restaurants and schools). Fresh food waste was used because it would allow the immediate and short-term solubilization to be measured, unlike actual food waste collected from a food service area, which may have already begun the solubilization process. To ensure that the standard food waste was representative of food waste generated in the community, the physicochemical properties of the standard food waste were compared to the physicochemical parameters of food waste collected from local schools and restaurants (<ce:cross-ref refid="tbl2" id="crosref0055">Table 2</ce:cross-ref>
+                        <ce:float-anchor refid="tbl2"/>). Thirty samples of daily food waste generated from three local schools and fifty samples of daily food waste generated from three local restaurants were analyzed in triplicate (<ce:cross-ref refid="tbl2" id="crosref0060">Table 2</ce:cross-ref>). The standard food waste was within the mean ±one standard deviation range for each property measured on the school and restaurant food waste.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.2" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title id="sectitle0040">Hydrolytic enzymes</ce:section-title>
+                     <ce:para id="p0090" view="all">A commercial digestive enzyme formulation (Digest<ce:sup loc="post">®</ce:sup>, Enzymedica Inc., Venice, FL) was applied in excess in order to measure the maximum short-term hydrolysis of ground food waste. The formulation contained a variety of hydrolytic enzymes including cellulases, amylases, proteases and lipases, <ce:italic>inter alia</ce:italic>, obtained from <ce:italic>Aspergillus niger</ce:italic> and <ce:italic>Aspergillus oryzae</ce:italic>. Preliminary studies indicated that the enzymes were not limiting at a dosage rate of 1 g per 500 g of food waste. Therefore, to ensure the enzymes were applied in excess, a dosage rate of 1 g per 10 g of food waste was used in the enzyme assay.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.3" view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title id="sectitle0045">Mechanical grinding methods</ce:section-title>
+                     <ce:para id="p0095" view="all">The standard food waste in this study was ground using three different methods: an in-sink food disposer (Badger 9 model, InSinkErator, Racine, WI) with a strainer hole size of 0.75 cm, and a manual meat grinder with two different extrusion plates that had either medium (1.0 cm) or small (0.5 cm) plate openings (Grizzly H7778 No 32, Grizzly Industrial, Inc., Bellingham, WA). The strainer hole and plate opening dimensions only determined the maximum particle size that could pass through the disposer or grinder, but did not determine the overall particle size reduction of the ground food waste. The primary driver in particle size reduction in the meat grinder was the shear action of the helical impeller against the wall of the grinder. These grinding methods were selected as bench-scale analogues of commercial-scale food waste grinding equipment to represent different mechanical maceration techniques.</ce:para>
+                     <ce:para id="p0100" view="all">To ensure representativeness, 500 g of the standard food waste was formulated and ground separately by each grinding method. For the grinder treatment, 500 g of food waste was coarsely chopped and then fed through the grinder. Ground food waste was mixed by hand and 10 g (wet weight (ww)) representative samples were obtained for use in the assays. For the disposer treatment, 500 g of food waste was flushed through the disposer using 500 mL of deionized (DI) water, resulting in a 1:1 mixture of food waste and water from which 20 g (ww) representative samples were obtained for use in the assays. To account for any variation in the food waste, TCOD was measured in triplicate on each formulation (i.e. for each grinding method in each assay) and was used to normalize the solubilization data as a percent of TCOD.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.4" view="all">
+                     <ce:label>2.4</ce:label>
+                     <ce:section-title id="sectitle0050">Solubilization assays</ce:section-title>
+                     <ce:para id="p0105" view="all">Two solubilization assays were conducted for 8 h to measure the short-term solubilization kinetics of food waste. A control assay was conducted by adding freshly ground food waste to buffered water to measure the maximum short-term release of endogenous SCOD from food waste. An enzyme assay was conducted by adding freshly ground food waste and excess hydrolytic enzymes to buffered water to measure the maximum short-term solubilization due to enzymatic hydrolysis. Each assay was conducted in triplicate for each type of grinding method. The complete experimental regime is shown in <ce:cross-ref refid="tbl3" id="crosref0065">Table 3</ce:cross-ref>
+                        <ce:float-anchor refid="tbl3"/>. Assays were conducted in 1 L glass beakers maintained at 35 °C in a water bath (Versa-Bath S Model 236, Thermo Fisher Scientific, Waltham, MA) under static conditions. Beakers were covered with plastic film (Glad<ce:sup loc="post">®</ce:sup> Cling Wrap) held with a rubber band to reduce evaporation and potential contamination. To prevent pH inhibition, the assay was buffered with a phosphate buffer (0.5 M NaOH titrated into 0.5 M KH<ce:inf loc="post">2</ce:inf>PO<ce:inf loc="post">4</ce:inf> to pH 6.5). To prevent product inhibition, food waste was diluted to 3.5 g COD L<ce:sup loc="post">−1</ce:sup> in buffered DI water. Twenty mL aliquots were obtained from each replicate to measure SCOD at 0.1, 1, 2, 4, 6, and 8 h. Replicates were thoroughly mixed with a magnetic stir bar while sampling. The SCOD measured in each assay was normalized as a percent of the TCOD of that specific formulation of the standard food waste to calculate the soluble fraction of chemical oxygen demand (<ce:italic>CODsf</ce:italic>). The <ce:italic>CODsf</ce:italic> of the control assay represented the release of soluble endogenous material (<ce:italic>CODesf</ce:italic>). The <ce:italic>CODsf</ce:italic> of the enzyme assay represented both the soluble organic matter produced through enzymatic hydrolysis (<ce:italic>CODhsf</ce:italic>) and the <ce:italic>CODesf</ce:italic>. Thus, the <ce:italic>CODsf</ce:italic> of the enzyme assay minus the <ce:italic>CODsf</ce:italic> of the control assay (<ce:italic>CODesf</ce:italic>) represents the <ce:italic>CODhsf</ce:italic>. In the enzyme assay, SCOD of the enzyme cocktail itself was measured in triplicate and the average value was subtracted from all measurements.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.5" view="all">
+                     <ce:label>2.5</ce:label>
+                     <ce:section-title id="sectitle0055">Statistical analysis</ce:section-title>
+                     <ce:para id="p0110" view="all">First-order kinetics were assumed for regression analysis of endogenous solubilization and enzymatic hydrolysis as follows: <ce:italic>CODsf</ce:italic>
+                        <ce:inf loc="post">
+                           <ce:italic>t</ce:italic>
+                        </ce:inf> = <ce:italic>CODsf</ce:italic>
+                        <ce:inf loc="post">
+                           <ce:italic>f</ce:italic>
+                        </ce:inf> * (1 − e<ce:sup loc="post">−<ce:italic>kt</ce:italic>
+                        </ce:sup>), where <ce:italic>CODsf</ce:italic>
+                        <ce:inf loc="post">
+                           <ce:italic>t</ce:italic>
+                        </ce:inf> was the SCOD fraction of TCOD at time <ce:italic>t</ce:italic>, <ce:italic>CODsf</ce:italic>
+                        <ce:inf loc="post">
+                           <ce:italic>f</ce:italic>
+                        </ce:inf> was the maximum SCOD fraction of TCOD, and <ce:italic>k</ce:italic> was the kinetic rate constant (h<ce:sup loc="post">−1</ce:sup>). The solver add-in in Microsoft Excel 2007 was utilized to solve for <ce:italic>CODsf</ce:italic>
+                        <ce:inf loc="post">
+                           <ce:italic>f</ce:italic>
+                        </ce:inf> and <ce:italic>k</ce:italic> by minimizing the residual sum of squares of triplicate data points. The standard error of each parameter estimate was calculated using the square root of the variance calculated from the change in residual sum of squares around the optimal parameter estimate. A Student's <ce:italic>t</ce:italic>-test (<ce:italic>α</ce:italic> = 0.01) was used to determine significant differences between means of parameter estimates.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec2.6" view="all">
+                     <ce:label>2.6</ce:label>
+                     <ce:section-title id="sectitle0060">Analytical methods</ce:section-title>
+                     <ce:para id="p0115" view="all">Total solids (TS), volatile solids (VS), TCOD, SCOD, conductivity, alkalinity, total nitrogen (TN), and total phosphorous (TP) were measured on the standard food waste to characterize the substrate. Soluble COD, organic acids, and sugars were measured on aliquots taken throughout the assay, and pH was measured at the time of sampling to confirm the assay did not vary beyond pH 6.4–6.5 (data not shown). Total solids and VS were measured according to standard methods (<ce:cross-ref refid="bib1" id="crosref0070">APHA, 2005</ce:cross-ref>) by drying 100 g (ww) samples at 103 °C for 24 h and ashing at 550 °C for 2 h. Total COD and SCOD were measured using Hach COD reagent tubes (HR 20–1500 mg COD/L) according to standard methods (<ce:cross-ref refid="bib1" id="crosref0075">APHA, 2005</ce:cross-ref>). For TCOD, samples were fully homogenized using a 360 mL stainless steel blender for 1 min on high speed prior to sampling for analysis. For SCOD, fully homogenized samples of the standard food waste and aliquots from the assay were placed in a refrigerated water bath at 4 °C to quench metabolic activity and subsequently centrifuged at 12,000 rpm for 30 min in a refrigerated centrifuge at 4 °C. Supernatant was then filtered through a 0.45 μm nylon syringe filter. Conductivity was measured on an Accumet Model 30 conductivity meter (Thermo Fisher Scientific, Waltham, MA) after diluting food waste 1:1 in DI water. Alkalinity was measured according to standard methods (<ce:cross-ref refid="bib1" id="crosref0080">APHA, 2005</ce:cross-ref>) after diluting food waste 1:1 in DI water. To measure TN and TP, samples were digested using a modification of the aluminum block digestion procedure of <ce:cross-ref refid="bib4" id="crosref0085">Gallaher et al. (1975)</ce:cross-ref>. The catalyst used was 1.5 g of 9:1 K<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4</ce:inf>:CuSO<ce:inf loc="post">4</ce:inf>, and digestion was conducted for at least 4 h at 375 °C using 6 mL of H<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4</ce:inf> and 2 mL H<ce:inf loc="post">2</ce:inf>O<ce:inf loc="post">2</ce:inf>. Nitrogen and phosphorus in the digestate were measured by semiautomated colorimetry (<ce:cross-ref refid="bib5" id="crosref0090">Hambleton, 1977</ce:cross-ref>). Organic acids and sugars were measured by high-pressure liquid chromatography (HPLC) using an HP 1090 Series II chromatograph (Hewlett Packard, Palo Alto, CA) equipped with a Bio-Rad Aminex HPX-87H ion exclusion column (45 °C; solvent phase of 4 mM H<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4</ce:inf>; flow rate of 0.5 mL min<ce:sup loc="post">−1</ce:sup>; injection volume of 10 μL) and dual detectors (refractive index detector and UV detector set at 210 nm). One mL of each aliquot from SCOD analysis was filtered using a 0.2 μm nylon syringe filter. Ten μL of 0.1 N sulfuric acid were added to 1 mL samples. Samples were analyzed with standards for glucose, xylose, lactic acid, succinic acid, formic acid, acetic acid, propionic acid, butyric acid, and ethanol. The pH of the assays was measured using an Accumet Model 10 pH meter with a Ross Sure Flow combination electrode.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec3" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="sectitle0065">Results</ce:section-title>
+                  <ce:section id="sec3.1" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title id="sectitle0070">Control assay</ce:section-title>
+                     <ce:para id="p0120" view="all">
+                        <ce:cross-ref refid="fig1" id="crosref0095">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="fig1"/> shows the SCOD, glucose, and xylose released from freshly ground food waste into aqueous solution (control assay). The SCOD measurements for all three grinding methods were similar (data not shown); therefore, data is shown for the grinder (small plate) as a representative grinding method. Immediately after grinding (0.1 h), food waste ground with the grinder (small plate) reached 834.0 ± 45.2 mg SCOD L<ce:sup loc="post">−1</ce:sup> and within 1 h reached 879.3 ± 21.4 mg SCOD L<ce:sup loc="post">−1</ce:sup>. After this initial solubilization, SCOD remained constant throughout the remainder of the 8 h in the control assay. Glucose levels reached 149.4 ± 13.1 mg COD L<ce:sup loc="post">−1</ce:sup> (140.2 ± 12.3 mg glucose L<ce:sup loc="post">−1</ce:sup>) immediately after grinding and remained relatively constant throughout the remainder of the assay, averaging 15% of the SCOD. Xylose levels reached 16.2 ± 0.7 mg COD L<ce:sup loc="post">−1</ce:sup> (15.2 ± 0.7 mg xylose L<ce:sup loc="post">−1</ce:sup>) immediately after grinding and remained constant throughout the remainder of the assay, averaging 1.7% of the SCOD. This indicated that the soluble sugars, as a constituent of the SCOD, were released into solution immediately. No organic acids were detected in the 8 h of the assay, which indicated that the solubilized organic matter was not fermented through acidogenesis during the assay.</ce:para>
+                     <ce:para id="p0125" view="all">The SCOD measurements were normalized as the fraction of TCOD solubilized through endogenous solubilization in the control assay (<ce:italic>CODesf</ce:italic>). <ce:cross-ref refid="fig2" id="crosref0100">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="fig2"/> shows <ce:italic>CODesf</ce:italic> of the three grinding methods at 0, 0.1, 1, 2, 4, 6, and 8 h (data points). Food waste ground with the grinder (small plate) was 25.4 ± 1.4% solubilized immediately following grinding (0.1 h), while food waste ground with the grinder (medium plate) and disposer was 19.5 ± 1.1% and 21.1 ± 0.4% solubilized at 0.1 h, respectively. By 1 h, food waste solubilization plateaued at 27.4 ± 1.5% for all three grinding methods for the remainder of the assay. The <ce:italic>CODesf</ce:italic> data were used for regression analysis to estimate the first-order rate constant (<ce:italic>k</ce:italic>) and the maximum <ce:italic>CODesf</ce:italic> (<ce:italic>CODesf</ce:italic>
+                        <ce:inf loc="post">
+                           <ce:italic>f</ce:italic>
+                        </ce:inf>) (<ce:cross-ref refid="tbl4" id="crosref0105">Table 4</ce:cross-ref>
+                        <ce:float-anchor refid="tbl4"/>). The regressions are also shown in <ce:cross-ref refid="fig2" id="crosref0110">Fig. 2</ce:cross-ref>. The grinder (small plate) resulted in a significantly higher first-order rate constant (24.3 ± 2.6 h<ce:sup loc="post">−1</ce:sup>) than the grinder (medium plate) (12.7 ± 1.4 h<ce:sup loc="post">−1</ce:sup>) and the disposer (14.9 ± 0.9 h<ce:sup loc="post">−1</ce:sup>). For all three grinding methods, <ce:italic>CODesf</ce:italic>
+                        <ce:inf loc="post">
+                           <ce:italic>f</ce:italic>
+                        </ce:inf> was approximately 27%.</ce:para>
+                  </ce:section>
+                  <ce:section id="sec3.2" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title id="sectitle0075">Enzyme assay</ce:section-title>
+                     <ce:para id="p0130" view="all">
+                        <ce:cross-ref refid="fig3" id="crosref0115">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="fig3"/> shows the SCOD, glucose, and xylose released from freshly ground food waste into aqueous solution with excess hydrolytic enzymes (enzyme assay). The SCOD measurements for all three grinding methods were similar (data not shown); therefore, data is shown for the grinder (small plate) as a representative grinding method. Immediately after grinding (0.1 h), food waste ground with the grinder (small plate) reached 928.0 ± 22.0 mg SCOD L<ce:sup loc="post">−1</ce:sup> and by 4 h reached 1897.3 ± 76.0 mg SCOD L<ce:sup loc="post">−1</ce:sup>. After 4 h, solubilization remained relatively constant. Glucose levels reached 886.2 ± 44.5 mg COD L<ce:sup loc="post">−1</ce:sup> (831.3 ± 41.7 mg glucose L<ce:sup loc="post">−1</ce:sup>) by 4 h and remained relatively constant throughout the remainder of the assay, averaging 47% of the SCOD. The higher amount of glucose as a percent of SCOD compared to the control assay indicated that the hydrolytic enzymes were rapidly hydrolyzing the food waste into glucose monomers. Xylose levels did not increase along with the glucose and SCOD and were similar to levels in the control assay, reaching 17.7 ± 2.2 mg COD L<ce:sup loc="post">−1</ce:sup> (16.6 ± 2.1 mg xylose L<ce:sup loc="post">−1</ce:sup>) immediately after grinding and remaining constant throughout the remainder of the assay, averaging 1.0% of the SCOD. This indicated that the relatively limited amount of xylose in the substrate was released immediately and no further xylose monomers were produced by hydrolysis. No organic acids were detected in the 8 h of the assay, which indicated that the solubilized organic matter was not fermented through acidogenesis during the assay.</ce:para>
+                     <ce:para id="p0135" view="all">Because the food waste, grinding methods, and assay conditions were identical in both assays, it was assumed that the endogenous solubilization that occurred in the control assay also occurred in the enzyme assay. Therefore, the SCOD measured in the control assay (normalized as <ce:italic>CODesf</ce:italic>) was subtracted from the SCOD measured in the enzyme assay. The difference was normalized as the fraction of TCOD solubilized through enzymatic hydrolysis (<ce:italic>CODhsf</ce:italic>). <ce:cross-ref refid="fig4" id="crosref0120">Fig. 4</ce:cross-ref>
+                        <ce:float-anchor refid="fig4"/> shows <ce:italic>CODhsf</ce:italic> of the three grinding methods at 0, 0.1, 1, 2, 4, 6, and 8 h (data points). Immediately after grinding, hydrolysis was responsible for 6.8 ± 3.1% solubilization for all three grinding methods. However, by 4 h, hydrolysis plateaued, at which point 30.7 ± 2.7% of ground food waste was solubilized through enzymatic hydrolysis alone for all three grinding methods. The <ce:italic>CODhsf</ce:italic> data were used for regression analysis to estimate the first-order rate constant (<ce:italic>k</ce:italic>) and the maximum <ce:italic>CODhsf</ce:italic> (<ce:italic>CODhsf</ce:italic>
+                        <ce:inf loc="post">
+                           <ce:italic>f</ce:italic>
+                        </ce:inf>) (<ce:cross-ref refid="tbl5" id="crosref0125">Table 5</ce:cross-ref>
+                        <ce:float-anchor refid="tbl5"/>). The regressions are also shown in <ce:cross-ref refid="fig4" id="crosref0130">Fig. 4</ce:cross-ref>. All three grinding methods had statistically similar rate constants, at approximately 1 h<ce:sup loc="post">−1</ce:sup>, while the grinder (small plate) had a significantly higher <ce:italic>CODhsf</ce:italic>
+                        <ce:inf loc="post">
+                           <ce:italic>f</ce:italic>
+                        </ce:inf>. However, for all grinding methods, enzymatic hydrolysis was responsible for 29–31% solubilization of ground food waste by 4 h in addition to the 27% solubilization due to endogenous solubilization.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="sec4" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="sectitle0080">Discussion</ce:section-title>
+                  <ce:para id="p0140" view="all">The two assays in this study were used to elucidate the mechanisms for short-term solubilization of ground food waste with and without excess hydrolytic enzymes. From these assays, it was possible to determine the kinetics of both endogenous solubilization and enzymatic hydrolysis and to quantify the relative contribution of each process to the overall short-term solubilization of ground food waste. Solubilization in the control assay represented the release of endogenous SCOD (i.e. endogenous solubilization) in the absence of hydrolytic enzymes. The SCOD of the substrate was measured at 87.9 ± 2.7 g SCOD kg<ce:sup loc="post">−1</ce:sup> food waste (ww), or approximately 25% of TCOD (<ce:cross-ref refid="tbl2" id="crosref0135">Table 2</ce:cross-ref>). Therefore, the entire complement of SCOD from the 10 g of food waste was released into solution within 1 h via endogenous solubilization.</ce:para>
+                  <ce:para id="p0145" view="all">The additional solubilization in the enzyme assay over the control assay was due to enzymatic hydrolysis. Because the hydrolytic enzymes were added in excess, this represents the maximum short-term hydrolysis of ground food waste. Since endogenous solubilization only accounted for 27% solubilization of TCOD, enzymatic hydrolysis by exogenous hydrolytic enzymes is critical to maximizing food waste solubilization. Presumably, hydrolytic enzymes in a well-balanced and active anaerobic digester would behave similarly to the hydrolytic enzymes in the present study. The enzyme assay indicated that, even in the short term (4 h), enzymatic hydrolysis was responsible for the majority of solubilization (∼29–31%), although enzymatic hydrolysis occurred at a slower rate than endogenous solubilization. Mechanically grinding the food waste prior to enzyme addition likely exposed greater surface area of the food waste, which facilitated enzyme–substrate interactions.</ce:para>
+                  <ce:para id="p0150" view="all">
+                     <ce:cross-ref refid="fig5" id="crosref0140">Fig. 5</ce:cross-ref>
+                     <ce:float-anchor refid="fig5"/> shows ground food waste solubilization through the release of endogenous SCOD and enzymatic hydrolysis of PCOD as a percent of the TCOD of the standard food waste. Nearly all of the SCOD was released through endogenous solubilization by 0.1 h and 41% of the PCOD, or 30.7% of the TCOD, was hydrolyzed by 4 h. Because pH and product inhibition were prevented and the hydrolytic enzymes were applied in excess, this study demonstrated that approximately 60% of the standard food waste used was able to be solubilized within 4 h under optimal conditions. Since solubilization is the precursor to acidogenesis, which is often the fastest step in anaerobic digestion, it can be assumed that the solubilized fraction of the food waste will be rapidly acidified. This is important in regards to the alkalinity requirement for a digester in that it must be sufficient to buffer 60% of the food waste, but alkalinity is not required to buffer 100% of the food waste TCOD. Food waste does not have a high content of recalcitrant lignocellulosic material. Therefore, it can be assumed that most of the remaining 40% TCOD is slower degrading particulate material and would eventually be hydrolyzed with further enzymatic hydrolysis. However, this material does not contribute to the rapid dynamics of initial substrate solubilization that impacts digester stability.</ce:para>
+                  <ce:para id="p0155" view="all">The present study measured the short-term kinetics of endogenous solubilization and enzymatic hydrolysis under optimum conditions. In a similar study, <ce:cross-ref refid="bib2" id="crosref0145">Cekmecelioglu and Uncu (2013)</ce:cross-ref> added carbohydrases to ground food waste as a means of increasing glucose production. The authors found that glucose concentration plateaued at approximately 6 h, food waste was approximately 70% solubilized to glucose within 6 h, and solubilization occurred at a first-order kinetic rate of 0.644 h<ce:sup loc="post">−1</ce:sup>. <ce:cross-ref refid="bib8" id="crosref0150">Kim et al. (2005)</ce:cross-ref> utilized a hydrolytic enzyme cocktail as a means of increasing food waste solubilization for volatile fatty acid generation from food waste. They applied the enzyme cocktail at a rate of 0.4% (v v<ce:sup loc="post">−1</ce:sup>) to blended, screened (1.41 mm) food waste diluted to 20 g COD L<ce:sup loc="post">−1</ce:sup> and buffered to pH 6.5. After 12 h, an untreated control was 37.5% solubilized, while the enzymatically treated ground food waste was 62.0% solubilized. Ground food waste reached a maximum solubilization of 68.5% after 4 days. Their study found similar total solubilization after 12 h with enzyme treatment as the present study's maximum of 60% after only 4 h. However, unlike the present study, <ce:cross-ref refid="bib8" id="crosref0155">Kim et al. (2005)</ce:cross-ref> used food waste that had been in storage and the food waste was already partially acidified prior to the experiments. In their study, solubilization in the untreated control cannot be attributed solely to endogenous solubilization due to the abundance of spoilage microorganisms in their food waste. Some solubilization had already occurred prior to any measured SCOD and, therefore, their results for the untreated control may be artificially high and the relative contributions from endogenous solubilization and enzymatic hydrolysis could not be determined. The present study, however, was able to elucidate endogenous solubilization and enzymatic hydrolysis kinetics by using a freshly ground, standard food waste with and without excess hydrolytic enzymes.</ce:para>
+               </ce:section>
+               <ce:section id="sec5" view="all">
+                  <ce:label>5</ce:label>
+                  <ce:section-title id="sectitle0085">Conclusions</ce:section-title>
+                  <ce:para id="p0160" view="all">This study identified the relative contribution of endogenous solubilization and enzymatic hydrolysis to the solubilization of food waste and demonstrated that ground food waste can be a rapidly degradable substrate, with the majority of the material solubilized within 4 h. With mechanical grinding, 27% of the TCOD was available almost immediately through the release of endogenous soluble organic material, and an additional 30% of food waste TCOD was enzymatically hydrolyzed by 4 h. This rapid solubilization can facilitate the use of high-rate anaerobic digesters for food waste digestion because solubilized material is readily available for microbial uptake, which allows for the establishment and maintenance of robust microbial consortia.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ack0010" view="all">
+               <ce:section-title id="sectitle0090">Acknowledgements</ce:section-title>
+               <ce:para id="p0165" view="all">This research was funded by the <ce:grant-sponsor id="gs1" xlink:type="simple" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Hinkley Center for Solid and Hazardous Waste Management, Gainesville, Florida</ce:grant-sponsor>.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="cebib0010" view="all">
+               <ce:section-title id="sectitle0095">References</ce:section-title>
+               <ce:bibliography-sec id="cebibsec0010" view="all">
+                  <ce:bib-reference id="bib1">
+                     <ce:label>APHA, 2005</ce:label>
+                     <sb:reference id="sref1">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>APHA</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Standard Methods for the Examination of Water and Wastewater</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:edition>20th ed.</sb:edition>
+                              <sb:date>2005</sb:date>
+                              <sb:publisher>
+                                 <sb:name>American Public Health Association</sb:name>
+                                 <sb:location>Washington D.C</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>Cekmecelioglu and Uncu, 2013</ce:label>
+                     <sb:reference id="sref2">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Cekmecelioglu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.N.</ce:given-name>
+                                 <ce:surname>Uncu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Kinetic modeling of enzymatic hydrolysis of pretreated kitchen wastes for enhancing bioethanol production</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Waste Manag.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>33</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>735</sb:first-page>
+                              <sb:last-page>739</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.wasman.2012.08.003</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>Eastman and Ferguson, 1981</ce:label>
+                     <sb:reference id="sref3">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Eastman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.F.</ce:given-name>
+                                 <ce:surname>Ferguson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Solubilization of particulate organic carbon during the acid phase of anaerobic digestion</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. (Water Pollut. Control Fed.)</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>53</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>352</sb:first-page>
+                              <sb:last-page>366</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="http://www.jstor.org/stable/25041085" id="intref0010" xlink:type="simple">http://www.jstor.org/stable/25041085</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>Gallaher et al., 1975</ce:label>
+                     <sb:reference id="sref4">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.N.</ce:given-name>
+                                 <ce:surname>Gallaher</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.O.</ce:given-name>
+                                 <ce:surname>Weldon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.G.</ce:given-name>
+                                 <ce:surname>Futral</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>An aluminum block digester for plant and soil analysis</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Soil Sci. Soc. Am. J.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1975</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>803</sb:first-page>
+                              <sb:last-page>806</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.2136/sssaj1975.03615995003900040052x</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>Hambleton, 1977</ce:label>
+                     <sb:reference id="sref5">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.G.</ce:given-name>
+                                 <ce:surname>Hambleton</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Semiautomated method for simultaneous determination of phosphorus, calcium and crude protein in animal feeds</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Assoc. Off. Anal. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>60</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>845</sb:first-page>
+                              <sb:last-page>852</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>He et al., 2006</ce:label>
+                     <sb:reference id="sref6">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.J.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Lü</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.M.</ce:given-name>
+                                 <ce:surname>Shao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.J.</ce:given-name>
+                                 <ce:surname>Pan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.J.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Enzymatic hydrolysis of polysaccharide-rich particulate organic waste</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biotechnol. Bioeng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>93</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1145</sb:first-page>
+                              <sb:last-page>1151</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1002/bit.20834</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>Izumi et al., 2010</ce:label>
+                     <sb:reference id="sref7">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Izumi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.-k.</ce:given-name>
+                                 <ce:surname>Okishio</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Nagao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Niwa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Yamamoto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Toda</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effects of particle size on anaerobic digestion of food waste</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. Biodeterior. Biodegrad.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>64</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>601</sb:first-page>
+                              <sb:last-page>608</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.ibiod.2010.06.013</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>Kim et al., 2005</ce:label>
+                     <sb:reference id="sref8">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.J.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.G.</ce:given-name>
+                                 <ce:surname>Choi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.D.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.H.</ce:given-name>
+                                 <ce:surname>Chung</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of enzymatic pretreatment on solubilization and volatile fatty acid production in fermentation of food waste</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>52</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>51</sb:first-page>
+                              <sb:last-page>59</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>Kim et al., 2012</ce:label>
+                     <sb:reference id="sref9">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.W.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.Y.</ce:given-name>
+                                 <ce:surname>Nam</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.T.</ce:given-name>
+                                 <ce:surname>Kang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.H.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.W.</ce:given-name>
+                                 <ce:surname>Jung</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.S.</ce:given-name>
+                                 <ce:surname>Shin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Hydrolytic activities of extracellular enzymes in thermophilic and mesophilic anaerobic sequencing-batch reactors treating organic fractions of municipal solid wastes</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>110</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>130</sb:first-page>
+                              <sb:last-page>134</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.biortech.2012.01.146</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>Liu et al., 2008</ce:label>
+                     <sb:reference id="sref10">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.Y.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.B.</ce:given-name>
+                                 <ce:surname>Ding</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Sreeramachandran</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Stabnikova</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Enhancement of food waste digestion in the hybrid anaerobic solid-liquid system</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>57</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1369</sb:first-page>
+                              <sb:last-page>1373</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.2166/wst.2008.081</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>Lü et al., 2008</ce:label>
+                     <sb:reference id="sref11">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Lü</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.J.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.P.</ce:given-name>
+                                 <ce:surname>Hao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.M.</ce:given-name>
+                                 <ce:surname>Shao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Impact of recycled effluent on the hydrolysis during anaerobic digestion of vegetable and flower waste</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>58</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1637</sb:first-page>
+                              <sb:last-page>1643</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.2166/wst.2008.511</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>Neves et al., 2008</ce:label>
+                     <sb:reference id="sref12">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Neves</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Gonçalo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Oliveira</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.M.</ce:given-name>
+                                 <ce:surname>Alves</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Influence of composition on the biomethanation potential of restaurant waste at mesophilic temperatures</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Waste Manag.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>28</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>965</sb:first-page>
+                              <sb:last-page>972</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1016/j.wasman.2007.03.031</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>Palmowski and Müller, 2003</ce:label>
+                     <sb:reference id="sref13">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.M.</ce:given-name>
+                                 <ce:surname>Palmowski</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Müller</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Anaerobic degradation of organic materials – significance of the substrate surface area</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>47</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>231</sb:first-page>
+                              <sb:last-page>238</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>Prashanth et al., 2006</ce:label>
+                     <sb:reference id="sref14">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Prashanth</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Kumar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Mehrotra</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Anaerobic degradability: effect of particulate COD</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Environ. Eng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>132</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>488</sb:first-page>
+                              <sb:last-page>496</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1061/(ASCE)0733-9372(2006)132:4(488)</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>USEPA, 2013</ce:label>
+                     <sb:reference id="sref15">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>USEPA</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Municipal Solid Waste Generation, Recycling, and Disposal in the United States: Facts and Figures for 2011</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:comment>EPA530-F-13-001</sb:comment>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2013</sb:date>
+                              <sb:publisher>
+                                 <sb:name>United States Environmental Protection Agency</sb:name>
+                                 <sb:location>Washington, DC</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>available online at:</sb:comment>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="http://www.epa.gov/osw/nonhaz/municipal/pubs/MSWcharacterization_508_053113_fs.pdf" id="intref0015" xlink:type="simple">http://www.epa.gov/osw/nonhaz/municipal/pubs/MSWcharacterization_508_053113_fs.pdf</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>Veeken et al., 2000</ce:label>
+                     <sb:reference id="sref16">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Veeken</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Kalyuzhnyi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Scharff</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Hamelers</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of pH and VFA on hydrolysis of organic solid waste</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Environ. Eng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>126</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1076</sb:first-page>
+                              <sb:last-page>1081</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1061/(ASCE)0733-9372(2000)126:12(1076)</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>Wang et al., 2006</ce:label>
+                     <sb:reference id="sref17">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.Y.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.C.M.</ce:given-name>
+                                 <ce:surname>Kao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Stabnikova</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Digestion of pre-treated food waste in a hybrid anaerobic solid–liquid (HASL) system</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Technol. Biotechnol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>81</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>345</sb:first-page>
+                              <sb:last-page>351</sb:last-page>
+                           </sb:pages>
+                           <ce:doi>10.1002/jctb.1401</ce:doi>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>Wilkie, 2008</ce:label>
+                     <sb:reference id="sref18">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.C.</ce:given-name>
+                                 <ce:surname>Wilkie</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Biomethane from biomass, biowaste, and biofuels</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>J.D.</ce:given-name>
+                                    <ce:surname>Wall</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>C.S.</ce:given-name>
+                                    <ce:surname>Harwood</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>A.</ce:given-name>
+                                    <ce:surname>Demain</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>Bioenergy</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2008</sb:date>
+                              <sb:publisher>
+                                 <sb:name>American Society for Microbiology</sb:name>
+                                 <sb:location>Washington DC</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>195</sb:first-page>
+                              <sb:last-page>205</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

@@ -50,7 +50,7 @@ general_questions = read_json('prompts/q_general.json')
 review_questions = read_json('prompts/q_reviews.json')
 article_questions = read_json('prompts/q_articles.json')
 
-articles_list = glob.glob("pretreatmentarticles/*.pdf")
+articles_list = glob.glob("articletxt/*.txt")
 
 test = os.environ.get('elsevierapi', '5432')
 os.environ['test'] = 'development'
@@ -90,9 +90,9 @@ def process_questions(questionnaire, text, prompt):
 
 def run_pretreatmentarticle(path):
     logger.info(path)
-    article_text = read_pdf(path)
+    article_text = read_file(path)
     filtered = classify_article(article_text)
-    tempname = str(path).replace(".pdf", "").replace("pretreatmentarticles/", "")
+    tempname = str(path).replace(".txt", "").replace("articletxt/", "")
 
     name = 'ptoutput/' + tempname + '.json'
     filtered.append({
@@ -112,5 +112,4 @@ def run_pretreatment():
     logger.info('end')
 
 logging.basicConfig(format='%(asctime)s %(message)s',level=logging.INFO, handlers=[logging.FileHandler(f"logs{datetime.now().strftime('%d_%H-%M')}.log"), logging.StreamHandler()])
-#run_pretreatment()
-print(read_pdf("pretreatmentarticles/752.pdf"))
+run_pretreatment()

@@ -1,0 +1,2546 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S096085241300936X</prism:url><dc:identifier>doi:10.1016/j.biortech.2013.06.017</dc:identifier><eid>1-s2.0-S096085241300936X</eid><prism:doi>10.1016/j.biortech.2013.06.017</prism:doi><pii>S0960-8524(13)00936-X</pii><dc:title>Evaluation of thermal, ultrasonic and alkali pretreatments on mixed-microalgal biomass to enhance anaerobic methane production </dc:title><prism:publicationName>Bioresource Technology</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>09608524</prism:issn><prism:volume>143</prism:volume><prism:startingPage>330</prism:startingPage><prism:endingPage>336</prism:endingPage><prism:pageRange>330-336</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2013-09-30</prism:coverDate><prism:coverDisplayDate>September 2013</prism:coverDisplayDate><prism:copyright>Copyright © 2013 Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd.</prism:publisher><dc:creator>Cho, Sunja</dc:creator><dc:creator>Park, Seonghwan</dc:creator><dc:creator>Seon, Jiyun</dc:creator><dc:creator>Yu, Jaechul</dc:creator><dc:creator>Lee, Taeho</dc:creator><dc:description>
+                  Anaerobic digestion was regarded as one of the ways to recover energy from mixed-microalgae biomass in this study. After applying thermal-, ultrasonic-, and alkali-pretreatments to raw microalgae biomass to promote the digestion efficiency, a biochemical methane potential was investigated to evaluate the effectiveness of the pre-treatments for the purpose. As the pretreatment intensity increased, the solubilization of the mixed microalgae increased. However, the increased solubilization was not followed proportionally by the increased methane production. The highest methane productivity was achieved by the thermal-pretreatment at 120°C (405mL CH4/g-VS), which was 1.2 times higher than that of the non-pretreatment condition (336mL CH4/g-VS). The net energy analysis revealed that only the pretreatment adjusted to pH 9 yielded a slightly higher energy gains (12.8kJ/g-VS) than that of non-pretreatment condition (11.9kJ/g-VS). These findings recommend direct supply of microalgae biomass for anaerobic digestion.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Microalgal biomass</dcterms:subject><dcterms:subject>Anaerobic digestion</dcterms:subject><dcterms:subject>Pretreatment method</dcterms:subject><dcterms:subject>Methane production</dcterms:subject><dcterms:subject>Net energy balance</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S096085241300936X" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S096085241300936X" rel="scidir"/></coredata><objects><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="519" height="299" size="46147">https://api.elsevier.com/content/object/eid/1-s2.0-S096085241300936X-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="378" height="285" size="20298">https://api.elsevier.com/content/object/eid/1-s2.0-S096085241300936X-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="311" height="341" size="34275">https://api.elsevier.com/content/object/eid/1-s2.0-S096085241300936X-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="771" height="578" size="100658">https://api.elsevier.com/content/object/eid/1-s2.0-S096085241300936X-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="126" size="7173">https://api.elsevier.com/content/object/eid/1-s2.0-S096085241300936X-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="218" height="164" size="5085">https://api.elsevier.com/content/object/eid/1-s2.0-S096085241300936X-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="149" height="164" size="7005">https://api.elsevier.com/content/object/eid/1-s2.0-S096085241300936X-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="164" size="7908">https://api.elsevier.com/content/object/eid/1-s2.0-S096085241300936X-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="mmc1" category="standard" type="APPLICATION" multimediatype="Microsoft Powerpoint file" mimetype="application/ppt" size="108948">https://api.elsevier.com/content/object/eid/1-s2.0-S096085241300936X-mmc1.ppt?httpAccept=%2A%2F%2A</object></objects><scopus-id>84879773227</scopus-id><scopus-eid>2-s2.0-84879773227</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/84879773227" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271433</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291731</xocs:ssid>
+         <xocs:ssid type="subj">291744</xocs:ssid>
+         <xocs:ssid type="subj">291793</xocs:ssid>
+         <xocs:ssid type="subj">291832</xocs:ssid>
+         <xocs:ssid type="subj">291838</xocs:ssid>
+         <xocs:ssid type="subj">291850</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Bioresource Technology</xocs:srctitle>
+      <xocs:normalized-srctitle>BIORESOURCETECHNOLOGY</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20130613">2013-06-13</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20130613">2013-06-13</xocs:available-online-date>
+      <xocs:ew-transaction-id>2013-12-19T13:06:36</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S096085241300936X</xocs:eid>
+      <xocs:pii-formatted>S0960-8524(13)00936-X</xocs:pii-formatted>
+      <xocs:pii-unformatted>S096085241300936X</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.biortech.2013.06.017</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0960852413X00148</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150515">2015-05-15T03:58:50.499931-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20130901</xocs:date-search-begin>
+      <xocs:date-search-end>20130930</xocs:date-search-end>
+      <xocs:year-nav>2013</xocs:year-nav>
+      <xocs:indexeddate epoch="1371081600">2013-06-13T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings suppl volfirst volissue webpdf webpdfpagecount figure table e-component body acknowledge affil appendices articletitle auth authfirstini authfull authkeywords authlast highlightsabst primabst ref alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0960-8524</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>09608524</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>143</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>143</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 143</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>39</xocs:sort-order>
+      <xocs:first-fp>330</xocs:first-fp>
+      <xocs:last-lp>336</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>330</xocs:first-page>
+         <xocs:last-page>336</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201309</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>September 2013</xocs:cover-date-text>
+      <xocs:cover-date-start>2013-09-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2013-09-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2013</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Full Length Articles</xocs:hub-sec-title>
+         <xocs:hub-sec>
+            <xocs:hub-sec-title>Biofuels and Biorefineries</xocs:hub-sec-title>
+         </xocs:hub-sec>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2013 Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>EVALUATIONTHERMALULTRASONICALKALIPRETREATMENTSMIXEDMICROALGALBIOMASSENHANCEANAEROBICMETHANEPRODUCTION</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>CHO</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>S</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>methods</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Substrates and inoculum</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Pretreatments</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Biochemical methane potential (BMP) test</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Effect of initial solubilization by pretreatments on BMP tests</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.5</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Intermediates analysis in BMP tests</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.6</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Microbial community analysis</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.7</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Analytical methods</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.8</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Net energy balance</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.9</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Input energies at thermal- and ultrasonic-pretreatment</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.10</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Input energy at alkali-pretreatment</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.11</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Output energy</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Effect of pretreatments on methane production</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Effect of solubilization by the pretreatments on methane production</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Intermediates changes on the BMP tests</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>DGGE results for microbial community analysis</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.5</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Analysis of net energy balance</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:appendices">
+            <xocs:item-toc-label>Appendix A</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Supplementary data</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="h0005">
+            <xocs:ref-normalized-surname>ABDELELHALEEM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>71</xocs:ref-first-fp>
+            <xocs:ref-last-lp>74</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0010">
+            <xocs:ref-normalized-surname>ALZATE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>488</xocs:ref-first-fp>
+            <xocs:ref-last-lp>494</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0015">
+            <xocs:ref-normalized-surname>ANGELIDAKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>927</xocs:ref-first-fp>
+            <xocs:ref-last-lp>934</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0020">
+            <xocs:ref-normalized-surname>BARRETT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-first-fp>307</xocs:ref-first-fp>
+            <xocs:ref-last-lp>311</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0025">
+            <xocs:ref-normalized-surname>BECKER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>207</xocs:ref-first-fp>
+            <xocs:ref-last-lp>210</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0030">
+            <xocs:ref-normalized-surname>BENEDETTI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2353</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2362</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0035">
+            <xocs:ref-normalized-surname>BOMKE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7790</xocs:ref-first-fp>
+            <xocs:ref-last-lp>7801</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0040">
+            <xocs:ref-normalized-surname>BOUGRIER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>711</xocs:ref-first-fp>
+            <xocs:ref-last-lp>718</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0045">
+            <xocs:ref-normalized-surname>CHAKINALA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1113</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1122</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0050">
+            <xocs:ref-normalized-surname>GONZALEZFERNANDEZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>219</xocs:ref-first-fp>
+            <xocs:ref-last-lp>223</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0055">
+            <xocs:ref-normalized-surname>HALIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>178</xocs:ref-first-fp>
+            <xocs:ref-last-lp>185</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0060">
+            <xocs:ref-normalized-surname>HARUN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>304</xocs:ref-first-fp>
+            <xocs:ref-last-lp>309</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0065">
+            <xocs:ref-normalized-surname>HENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>191</xocs:ref-first-fp>
+            <xocs:ref-last-lp>197</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0070">
+            <xocs:ref-normalized-surname>HU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>621</xocs:ref-first-fp>
+            <xocs:ref-last-lp>639</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Q</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0075">
+            <xocs:ref-normalized-surname>HUANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>38</xocs:ref-first-fp>
+            <xocs:ref-last-lp>46</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0080">
+            <xocs:ref-normalized-surname>KAKSONEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>279</xocs:ref-first-fp>
+            <xocs:ref-last-lp>289</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0085">
+            <xocs:ref-normalized-surname>KEYMER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>128</xocs:ref-first-fp>
+            <xocs:ref-last-lp>133</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="j0005"/>
+         <xocs:ref-info refid="h0090">
+            <xocs:ref-normalized-surname>LOPEZTORRES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2229</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2234</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0095">
+            <xocs:ref-normalized-surname>MATAALVAREZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3</xocs:ref-first-fp>
+            <xocs:ref-last-lp>16</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0100">
+            <xocs:ref-normalized-surname>MUZYER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1993</xocs:ref-pub-year>
+            <xocs:ref-first-fp>695</xocs:ref-first-fp>
+            <xocs:ref-last-lp>700</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0105">
+            <xocs:ref-normalized-surname>NAKANO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4941</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4946</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0110">
+            <xocs:ref-normalized-surname>NGUYEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>161</xocs:ref-first-fp>
+            <xocs:ref-last-lp>166</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0115">
+            <xocs:ref-normalized-surname>PASSOS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>79</xocs:ref-first-fp>
+            <xocs:ref-last-lp>86</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0120">
+            <xocs:ref-normalized-surname>RAS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>200</xocs:ref-first-fp>
+            <xocs:ref-last-lp>206</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0125">
+            <xocs:ref-normalized-surname>RIVIERE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>700</xocs:ref-first-fp>
+            <xocs:ref-last-lp>714</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0130">
+            <xocs:ref-normalized-surname>ROECKHOLTZHAUER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>321</xocs:ref-first-fp>
+            <xocs:ref-last-lp>326</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0135">
+            <xocs:ref-normalized-surname>SAWAYAMA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>33</xocs:ref-first-fp>
+            <xocs:ref-last-lp>39</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0140">
+            <xocs:ref-normalized-surname>SENGCO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>169</xocs:ref-first-fp>
+            <xocs:ref-last-lp>172</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0145">
+            <xocs:ref-normalized-surname>STEINBUCHEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>535</xocs:ref-first-fp>
+            <xocs:ref-last-lp>542</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0150">
+            <xocs:ref-normalized-surname>VASUDEVAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>421</xocs:ref-first-fp>
+            <xocs:ref-last-lp>430</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0155">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>309</xocs:ref-first-fp>
+            <xocs:ref-last-lp>313</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Q</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0160">
+            <xocs:ref-normalized-surname>WILTSHIRE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>119</xocs:ref-first-fp>
+            <xocs:ref-last-lp>126</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0165">
+            <xocs:ref-normalized-surname>XU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>91</xocs:ref-first-fp>
+            <xocs:ref-last-lp>99</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0170">
+            <xocs:ref-normalized-surname>YEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>130</xocs:ref-first-fp>
+            <xocs:ref-last-lp>134</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>CHOX2013X330</xocs:refkey3>
+         <xocs:refkey4lp>CHOX2013X330X336</xocs:refkey4lp>
+         <xocs:refkey4ai>CHOX2013X330XS</xocs:refkey4ai>
+         <xocs:refkey5>CHOX2013X330X336XS</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0960-8524(13)00936-X</xocs:pii-formatted>
+         <xocs:pii-unformatted>S096085241300936X</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S096085241300936X</xocs:eid>
+         <xocs:doi>10.1016/j.biortech.2013.06.017</xocs:doi>
+         <xocs:cid>271433</xocs:cid>
+         <xocs:timestamp>2013-12-19T15:59:55.324413-05:00</xocs:timestamp>
+         <xocs:cover-date-start>2013-09-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2013-09-30</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S096085241300936X-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S096085241300936X/MAIN/application/pdf/15455ebd12a8c51d26981bce2419718f/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S096085241300936X/MAIN/application/pdf/15455ebd12a8c51d26981bce2419718f/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>1029136</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S096085241300936X-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S096085241300936X/PREVIEW/image/png/d8ee4cbde2b7b6d1f8243ba5d71579ee/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S096085241300936X/PREVIEW/image/png/d8ee4cbde2b7b6d1f8243ba5d71579ee/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>56203</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S096085241300936X-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S096085241300936X/gr1/DOWNSAMPLED/image/jpeg/4fe7f4a86cac201f9925d1602b6ab94e/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S096085241300936X/gr1/DOWNSAMPLED/image/jpeg/4fe7f4a86cac201f9925d1602b6ab94e/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>46147</xocs:filesize>
+               <xocs:pixel-height>299</xocs:pixel-height>
+               <xocs:pixel-width>519</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S096085241300936X-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S096085241300936X/gr4/DOWNSAMPLED/image/jpeg/eb82fc870e5ccdf1b1185365612eca3c/gr4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S096085241300936X/gr4/DOWNSAMPLED/image/jpeg/eb82fc870e5ccdf1b1185365612eca3c/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>20298</xocs:filesize>
+               <xocs:pixel-height>285</xocs:pixel-height>
+               <xocs:pixel-width>378</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S096085241300936X-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S096085241300936X/gr3/DOWNSAMPLED/image/jpeg/426bae0f90a759544f56fb9249ce77ff/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S096085241300936X/gr3/DOWNSAMPLED/image/jpeg/426bae0f90a759544f56fb9249ce77ff/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>34275</xocs:filesize>
+               <xocs:pixel-height>341</xocs:pixel-height>
+               <xocs:pixel-width>311</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S096085241300936X-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S096085241300936X/gr2/DOWNSAMPLED/image/jpeg/2e4c80dc46d0dd14735265c5370c9fdd/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S096085241300936X/gr2/DOWNSAMPLED/image/jpeg/2e4c80dc46d0dd14735265c5370c9fdd/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>100658</xocs:filesize>
+               <xocs:pixel-height>578</xocs:pixel-height>
+               <xocs:pixel-width>771</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S096085241300936X-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S096085241300936X/gr1/THUMBNAIL/image/gif/5322ff6b507ebeec63b714b448c1df7c/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S096085241300936X/gr1/THUMBNAIL/image/gif/5322ff6b507ebeec63b714b448c1df7c/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7173</xocs:filesize>
+               <xocs:pixel-height>126</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S096085241300936X-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S096085241300936X/gr4/THUMBNAIL/image/gif/490417728360c6b0858c3e07615c4e47/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S096085241300936X/gr4/THUMBNAIL/image/gif/490417728360c6b0858c3e07615c4e47/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5085</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>218</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S096085241300936X-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S096085241300936X/gr3/THUMBNAIL/image/gif/23da6495fce49f65e1141ddac76032f2/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S096085241300936X/gr3/THUMBNAIL/image/gif/23da6495fce49f65e1141ddac76032f2/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7005</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>149</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S096085241300936X-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S096085241300936X/gr2/THUMBNAIL/image/gif/679397f219e7f3b89a596eb438c13676/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S096085241300936X/gr2/THUMBNAIL/image/gif/679397f219e7f3b89a596eb438c13676/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>7908</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S096085241300936X-mmc1.ppt</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S096085241300936X/mmc1/MAIN/application/vnd.ms-powerpoint/ab482ce5ceeeaac9820bb192a2c0e071/mmc1.ppt</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S096085241300936X/mmc1/MAIN/application/vnd.ms-powerpoint/ab482ce5ceeeaac9820bb192a2c0e071/mmc1.ppt</xocs:ucs-locator>
+               <xocs:file-basename>mmc1</xocs:file-basename>
+               <xocs:filename>mmc1.ppt</xocs:filename>
+               <xocs:extension>ppt</xocs:extension>
+               <xocs:filesize>108948</xocs:filesize>
+               <xocs:attachment-type>APPLICATION</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" xml:lang="en" version="5.2">
+         <item-info>
+            <jid>BITE</jid>
+            <aid>11933</aid>
+            <ce:pii>S0960-8524(13)00936-X</ce:pii>
+            <ce:doi>10.1016/j.biortech.2013.06.017</ce:doi>
+            <ce:copyright type="full-transfer" year="2013">Elsevier Ltd</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cn0010">
+                  <ce:simple-para id="sp0020" view="all">Specific methane productivity, the ratio of methane to total gas production obtained from the BMP experiments and the final SCOD measured on Day 23. The C, T, and S on the <ce:italic>X</ce:italic>-axis represent the results from the bottles of control (non-pretreated sample), thermal-pretreated samples, and ultra-sonicated samples in that order.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cn0015">
+                  <ce:simple-para id="sp0025" view="all">Variations of glucose and VFA concentrations in mixed microalgae samples were depicted as (a) non-treated, (b) thermal-pretreated (120<ce:hsp sp="0.25"/>°C, 30<ce:hsp sp="0.25"/>min) while the CH<ce:inf loc="post">4</ce:inf> production in the samples was shown as (c) non-treated and (d) thermal-pretreated (120<ce:hsp sp="0.25"/>°C, 30<ce:hsp sp="0.25"/>min) on cultivation time for the BMP test period.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cn0020">
+                  <ce:simple-para id="sp0030" view="all">DGGE profiles of partial 16S rRNA genes (V3 region) obtained from the biomass in each bottle for BMP tests. The L represents DNA ladder and S, C and T represent the origin of the DNAs; anaerobic digester sludge (seeding inoculums), the bottles having non-pretreated microalgae (control) and thermal-pretreated microalgae. The number of 0, 1, and 15 indicates the days sampled in that order.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:figure id="f0020">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cn0025">
+                  <ce:simple-para id="sp0035" view="all">Energy balances attributed to the pretreatments. The C, T, and S on the X-axis represent the results from the non-pretreated samples, thermal-pretreated samples, and ultra-sonicated samples in that order.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" frame="topbot" id="t0005" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cn0030">
+                  <ce:simple-para id="sp0040" view="all">Solubilization and net energy balances on each pretreatment.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="11">
+                  <colspec colname="col1" align="left"/>
+                  <colspec colname="col2" align="left"/>
+                  <colspec colname="col3" align="left"/>
+                  <colspec colname="col4" align="left"/>
+                  <colspec colname="col5" align="left"/>
+                  <colspec colname="col6" align="left"/>
+                  <colspec colname="col7" align="left"/>
+                  <colspec colname="col8" align="left"/>
+                  <colspec colname="col9" align="left"/>
+                  <colspec colname="col10" align="left"/>
+                  <colspec colname="col11" align="left"/>
+                  <thead>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Pre-treatment method</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Non pretreatment</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col3" nameend="col5" rowsep="1">Thermal treatment</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col6" nameend="col8" rowsep="1">Ultrasonic treatment</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col9" nameend="col11" rowsep="1">Alkali treatment</entry>
+                     </row>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">50<hsp sp="0.25"/>°C</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">80<hsp sp="0.25"/>°C</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">120<hsp sp="0.25"/>°C</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">30<hsp sp="0.25"/>s</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">90<hsp sp="0.25"/>s</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">180<hsp sp="0.25"/>s</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">pH 9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">pH 11</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">pH 13</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col11">
+                           <italic>Solubilization</italic>
+                        </entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">TCOD (mg<hsp sp="0.25"/>L<sup loc="post">−1</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">12,327</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">12,327</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">12,327</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">12,327</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">12,327</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">12,327</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">12,327</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">12,327</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">12,327</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">12,327</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">SCOD (mg<hsp sp="0.25"/>L<sup loc="post">−1</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">735</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">904</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2693</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">4080</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">973</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1639</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2282</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1358</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1309</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3120</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Solubiliztion (%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">16.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">28.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">7.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">13.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">5.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">5.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">20.6</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col11">
+                           <italic>Energy balances</italic>
+                        </entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Device or reagent</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Water bath</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Water bath</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Autoclave</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Sonicator</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Sonicator</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Sonicator</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">NaOH</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">NaOH</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">NaOH</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Power (<italic>W</italic>
+                           <hsp sp="0.25"/>=<hsp sp="0.25"/>J<hsp sp="0.25"/>s<sup loc="post">−1</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1000</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1000</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2000</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">130</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">130</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">130</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Reaction time (s)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1800</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1800</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1800</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">30</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">90</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">180</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Methane productivity (mL CH<inf loc="post">4</inf> g<hsp sp="0.25"/>VS<sup loc="post">−1</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">336</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">351</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">384</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">405</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">356</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">368</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">385</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">363</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">327</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">213</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Input energy (kJ<hsp sp="0.25"/>g<hsp sp="0.25"/>VS<sup loc="post">−1</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">18</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">18</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">39</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">117</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">234</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1 E-4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">8 E-4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2 E-3</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Output energy (kJ<hsp sp="0.25"/>g<hsp sp="0.25"/>VS<sup loc="post">−1</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">11.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">12.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">13.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">14.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">12.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">13.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">13.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">12.8.</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">11.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">7.5</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Net energy production (kJ<hsp sp="0.25"/>g<hsp sp="0.25"/>VS<sup loc="post">−1</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">11.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">−5.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">−4.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">6.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">−26.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">−104.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">−220.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">12.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">11.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">7.5</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title id="tm005">Evaluation of thermal, ultrasonic and alkali pretreatments on mixed-microalgal biomass to enhance anaerobic methane production</ce:title>
+            <ce:author-group id="ag005">
+               <ce:author id="au005">
+                  <ce:given-name>Sunja</ce:given-name>
+                  <ce:surname>Cho</ce:surname>
+               </ce:author>
+               <ce:author id="au010">
+                  <ce:given-name>Seonghwan</ce:given-name>
+                  <ce:surname>Park</ce:surname>
+               </ce:author>
+               <ce:author id="au015">
+                  <ce:given-name>Jiyun</ce:given-name>
+                  <ce:surname>Seon</ce:surname>
+               </ce:author>
+               <ce:author id="au020">
+                  <ce:given-name>Jaechul</ce:given-name>
+                  <ce:surname>Yu</ce:surname>
+               </ce:author>
+               <ce:author id="au025">
+                  <ce:given-name>Taeho</ce:given-name>
+                  <ce:surname>Lee</ce:surname>
+                  <ce:cross-ref refid="cor1" id="c0005">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="af005">
+                  <ce:textfn>Department of Civil and Environmental Engineering, Graduate School of Engineering, Pusan National University, Busan 609-735, Republic of Korea</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Civil and Environmental Engineering</sa:organization>
+                     <sa:organization>Graduate School of Engineering</sa:organization>
+                     <sa:organization>Pusan National University</sa:organization>
+                     <sa:city>Busan</sa:city>
+                     <sa:postal-code>609-735</sa:postal-code>
+                     <sa:country>Republic of Korea</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author. Address: School of Civil and Environmental Engineering, Pusan National University, 30 Jangjeon-dong, Geumjeong-gu, Busan 609-735, Republic of Korea. Tel.: +82 (0) 51 510 2465; fax: +82 (0) 51 514 9574.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="10" month="4" year="2013"/>
+            <ce:date-revised day="2" month="6" year="2013"/>
+            <ce:date-accepted day="4" month="6" year="2013"/>
+            
+            <ce:abstract class="author" xml:lang="en" id="ab010" view="all"><ce:abstract-sec id="as010" view="all">
+                  <ce:simple-para id="sp0010" view="all">Anaerobic digestion was regarded as one of the ways to recover energy from mixed-microalgae biomass in this study. After applying thermal-, ultrasonic-, and alkali-pretreatments to raw microalgae biomass to promote the digestion efficiency, a biochemical methane potential was investigated to evaluate the effectiveness of the pre-treatments for the purpose. As the pretreatment intensity increased, the solubilization of the mixed microalgae increased. However, the increased solubilization was not followed proportionally by the increased methane production. The highest methane productivity was achieved by the thermal-pretreatment at 120<ce:hsp sp="0.25"/>°C (405<ce:hsp sp="0.25"/>mL CH<ce:inf loc="post">4</ce:inf>/g-VS), which was 1.2 times higher than that of the non-pretreatment condition (336<ce:hsp sp="0.25"/>mL CH<ce:inf loc="post">4</ce:inf>/g-VS). The net energy analysis revealed that only the pretreatment adjusted to pH 9 yielded a slightly higher energy gains (12.8<ce:hsp sp="0.25"/>kJ/g-VS) than that of non-pretreatment condition (11.9<ce:hsp sp="0.25"/>kJ/g-VS). These findings recommend direct supply of microalgae biomass for anaerobic digestion.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword" id="kg005" view="all">
+               <ce:section-title id="st125">Keywords</ce:section-title>
+               <ce:keyword id="k0005">
+                  <ce:text>Microalgal biomass</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0010">
+                  <ce:text>Anaerobic digestion</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0015">
+                  <ce:text>Pretreatment method</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0020">
+                  <ce:text>Methane production</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0025">
+                  <ce:text>Net energy balance</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="st005">Introduction</ce:section-title>
+                  <ce:para id="p0005" view="all">The rapid growth of microalgae in eutrophication makes the drinking water treatment difficult and disturbs the ecosystem of rivers and lakes. Several microalgae excrete harmful toxins which can damage human health through drinking or skin contact. Therefore, many studies have focused on the proper way of reducing microalgal bloom such as flocculent settling using clay (<ce:cross-ref refid="b0145" id="c0010">Sengco and Anderson, 2004</ce:cross-ref>) or barley stew (<ce:cross-ref refid="b0020" id="c0015">Barrett et al., 1996</ce:cross-ref>), ultrasonic destruction (<ce:cross-ref refid="b0110" id="c0020">Nakano et al., 2001</ce:cross-ref>), and a combination of ultrasonic irradiation and coagulation (<ce:cross-ref refid="b0065" id="c0025">Heng et al., 2009</ce:cross-ref>). Recently, removing microalgae from drinking water bodies has become a challenge that came along with the climate changes in Korea.</ce:para>
+                  <ce:para id="p0010" view="all">On the other hand, bioenergy production via mass culture of microalgae is being studied throughout the world, and efforts are being made to industrialize bioenergy production using them. Microalgae produce O<ce:inf loc="post">2</ce:inf> and effective products by consuming CO<ce:inf loc="post">2</ce:inf> and photo-energy which is spontaneously recycling. In addition, their photosynthesis efficiency (3–8%) is higher than that of terrestrial plants (0.5–2%), and yields a higher biomass production per a unit area (<ce:cross-ref refid="b0155" id="c0030">Vasudevan and Briggs, 2008</ce:cross-ref>). Moreover, specific conditions such as nitrogen depletion stimulate microalgae’s ability to accumulate lipid in their cells unlike plants in which the condition is likely to result in plant diseases or no fruits (<ce:cross-ref refid="b0070" id="c0035">Hu et al., 2008</ce:cross-ref>). Thus, mass production of microalgae promotes reduction of CO<ce:inf loc="post">2</ce:inf> in the atmosphere and shows the unexplored potentials of microalgae to become a feedstock for biodiesel, a renewable energy for transportation fuel besides the utilization for food additives (<ce:cross-ref refid="b0025" id="c0040">Becker, 2007</ce:cross-ref>), health supplement foods (<ce:cross-ref refid="b0030" id="c0045">Benedetti et al., 2004</ce:cross-ref>), pigments (<ce:cross-ref refid="b0165" id="c0050">Wiltshire et al., 2000</ce:cross-ref>), livestock or fish farm feed (<ce:cross-ref refid="b0135" id="c0055">Roeck-Holtzhauer et al., 2009</ce:cross-ref>).</ce:para>
+                  <ce:para id="p0015" view="all">There are many ways to recover the photo-energy fixed in microalgal cells; thermochemical liquefaction (<ce:cross-refs refid="b0140 b0075" id="r0005">Sawayama et al., 1999; Huang et al., 2010</ce:cross-refs>), transesterificaion (<ce:cross-refs refid="b0075 b0170" id="r0010">Huang et al., 2010; Xu and Mi, 2011</ce:cross-refs>), gasification (<ce:cross-refs refid="b0045 b0075" id="r0015">Chakinala et al., 2010; Huang et al., 2010</ce:cross-refs>), thermo-hydrolysis (<ce:cross-refs refid="b0010 b0085" id="r0020">Alzate et al., 2012; Keymer et al., 2013</ce:cross-refs>) and pyrolysis (<ce:cross-ref refid="b0075" id="c0060">Huang et al., 2010</ce:cross-ref>). Methane production from microalgae biomass through anaerobic digestion is one of the methods which have been used for energy production from wet organic wastes to date.</ce:para>
+                  <ce:para id="p0020" view="all">In anaerobic digestion, microalgae can be used as a substrate for methane production. The main advantages of anaerobic digestion for energy recovery from microalgae are: (1) the microalgae harvested from water-based culture systems may directly act as a substrate, (2) the microalgae lipid-extracted, transesterified and co-digested with glycerol can be used for the substrate of anaerobic digestion (<ce:cross-ref refid="b0085" id="c0065">Keymer et al., 2013</ce:cross-ref>), (3) final residues remaining after anaerobic digestion can be used for fertilizers due to its high nitrogen contents as a disposal method, and (4) they can apply to microalgae harvested from various natural environments.</ce:para>
+                  <ce:para id="p0025" view="all">The compounds and structure of microalgae are various: no distinguishable cell wall, compounds that are mainly protein-originated, and cellulose or hemi-cellulose family compounds, other sugars and algal-resistant polymers. The pretreatment methods for effective energy recovery from organic matters can vary depending on the energy recovery process or energy forms; hydrothermal acid pretreatment for ethanol production (<ce:cross-refs refid="b0115 b0060" id="r0025">Nguyen et al., 2009; Harun and Danquah, 2011</ce:cross-refs>), a low temperature (<ce:cross-ref refid="b0120" id="c0070">Passos et al., 2013</ce:cross-ref>), thermal, alkali and ozone pretreatments for anaerobic digestion (<ce:cross-ref refid="b0040" id="c0075">Bougrier et al., 2006</ce:cross-ref>), decreasing temperature and increasing pressure for biodiesel production (<ce:cross-ref refid="b0055" id="c0080">Halim et al., 2011</ce:cross-ref>).</ce:para>
+                  <ce:para id="p0030" view="all">In this study, the energy recovery from microalgae biomass through anaerobic digestion were investigated, and evaluated the energy recovery efficiency of three pretreating methods, thermal-, ultrasonic-, and alkali-pretreatments, on microalgae for anaerobic digestion. The potential of anaerobic degradation was estimated by performing the biochemical methane potential (BMP) test after applying the pretreatments. The economic feasibility of energy recovery was assessed on the basis of balancing input and output energy. In addition, considering that microorganisms convert cells of microalgae into methane and carbon dioxide via organic acid on anaerobic digestion, the microbial community involved in the BMP test was investigated by means of the polymerase chain reaction and the denaturing gradient gel electrophoresis (PCR-DGGE) technique.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="st010">methods</ce:section-title>
+                  <ce:section id="s0015" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title id="st015">Substrates and inoculum</ce:section-title>
+                     <ce:para id="p0035" view="all">A mixture of a <ce:italic>Chlorella</ce:italic> sp. (70% dry cell weight of total microalgae biomass weight, w<ce:hsp sp="0.25"/>w<ce:sup loc="post">−1</ce:sup>) and a <ce:italic>Scenedesmus</ce:italic> sp. (30% dry cell weight of total microalgae biomass weight, w<ce:hsp sp="0.25"/>w<ce:sup loc="post">−1</ce:sup>) was prepared as the substrate for anaerobic digestion in this study. Each biomass was harvested by sedimentation and centrifugation (5<ce:hsp sp="0.25"/>min, 3000<ce:hsp sp="0.25"/>rpm) after cultivation in cylindrical photo-bioreactors (the working volume is 22<ce:hsp sp="0.25"/>L) under continuous illumination with fluorescent light (20<ce:hsp sp="0.25"/>μmol<ce:hsp sp="0.25"/>m<ce:sup loc="post">−2</ce:sup>
+                        <ce:hsp sp="0.25"/>s<ce:sup loc="post">−1</ce:sup>) at 25<ce:hsp sp="0.25"/>°C. A modified Bold’s Basal Medium was used for the cultivation: K<ce:inf loc="post">2</ce:inf>HPO<ce:inf loc="post">4</ce:inf> 75<ce:hsp sp="0.25"/>mg L<ce:sup loc="post">−1</ce:sup>, MgSO<ce:inf loc="post">4</ce:inf>·7H<ce:inf loc="post">2</ce:inf>O 251<ce:hsp sp="0.25"/>mg<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup>, CaCl<ce:inf loc="post">2</ce:inf>·2H<ce:inf loc="post">2</ce:inf>O 25<ce:hsp sp="0.25"/>mg<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup>, KH<ce:inf loc="post">2</ce:inf>PO<ce:inf loc="post">4</ce:inf> 175<ce:hsp sp="0.25"/>mg<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup>, NaCl 25<ce:hsp sp="0.25"/>mg<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup>, H<ce:inf loc="post">3</ce:inf>BO<ce:inf loc="post">3</ce:inf> 28<ce:hsp sp="0.25"/>mg<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup>, MnCl<ce:inf loc="post">2</ce:inf>·4H<ce:inf loc="post">2</ce:inf>O 3.60<ce:hsp sp="0.25"/>mg<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup>, ZnSO<ce:inf loc="post">4</ce:inf>·7H<ce:inf loc="post">2</ce:inf>O 22<ce:hsp sp="0.25"/>mg<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup>, CuSO<ce:inf loc="post">4</ce:inf>·5H<ce:inf loc="post">2</ce:inf>O 3.92<ce:hsp sp="0.25"/>mg<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup>, Na<ce:inf loc="post">2</ce:inf>MoO<ce:inf loc="post">4</ce:inf>·2H<ce:inf loc="post">2</ce:inf>O 1.92<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>10<ce:sup loc="post">−1</ce:sup>
+                        <ce:hsp sp="0.25"/>mg<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup>, Na<ce:inf loc="post">2</ce:inf>EDTA·2H<ce:inf loc="post">2</ce:inf>O 49.9<ce:hsp sp="0.25"/>mg<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup>, KOH 31<ce:hsp sp="0.25"/>mg<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup>, FeSO<ce:inf loc="post">4</ce:inf>·7H<ce:inf loc="post">2</ce:inf>O 12.4<ce:hsp sp="0.25"/>mg<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup>, H<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4</ce:inf> 1.86<ce:hsp sp="0.25"/>mg<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup>, CoCl<ce:inf loc="post">2</ce:inf>·6H<ce:inf loc="post">2</ce:inf>O 7.99<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>10<ce:sup loc="post">−1</ce:sup>
+                        <ce:hsp sp="0.25"/>mg<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup>, NaNO<ce:inf loc="post">3</ce:inf> 250<ce:hsp sp="0.25"/>mg<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup>, NaHCO<ce:inf loc="post">3</ce:inf> 840<ce:hsp sp="0.25"/>mg<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup>.</ce:para>
+                     <ce:para id="p0040" view="all">The anaerobic sludge obtained from an anaerobic digester at Su-yeong WWTP in Busan, Korea was used as the inoculum to decompose the microalgae mixture in the following BMP test. Each concentration of the substrate and the anaerobic sludge was adjusted to ca. 5<ce:hsp sp="0.25"/>g-VS (Volatile Solid) L<ce:sup loc="post">−1</ce:sup>, respectively, by using distilled water, and then BMP experiments were conducted after mixing them.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0020" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title id="st020">Pretreatments</ce:section-title>
+                     <ce:para id="p0045" view="all">Several pretreatment methods such as thermal-, ultrasonic-, and alkali-treatment were selected from the preliminary study and literature review (<ce:cross-refs refid="b0040 b0095" id="r0030">Bougrier et al., 2006; López Torres and Espinosa Lloréns, 2008</ce:cross-refs>), and they were applied to enhance anaerobic digestion of the mixed-microalgae biomass by partial destruction of cells. However, the pretreatments stronger than the strengths applied in this study were not attempted because of high input energy costs.</ce:para>
+                     <ce:para id="p0050" view="all">Thermal-pretreatment was conducted for 30<ce:hsp sp="0.25"/>min at 50<ce:hsp sp="0.25"/>°C and 80<ce:hsp sp="0.25"/>°C with a water bath (CW-10G, Jeio Tech), and at 120<ce:hsp sp="0.25"/>°C with an autoclave (HAC-045, LK LabKorea). Ultrasonic pretreatments was conducted for 30, 90, and 180<ce:hsp sp="0.25"/>s on an ultrasonicator (VCX-130, Vibra-Cell) of 130<ce:hsp sp="0.25"/>W. Alkali pretreatment was adjusted to pH 9, 11, and 13 by 5<ce:hsp sp="0.25"/>N NaOH. The efficiency of solubilization by the pretreatment methods was calculated by the following equation expressed as a function of changes in chemical oxygen demand (COD<ce:inf loc="post">cr</ce:inf>).</ce:para>
+                     <ce:para id="p0055" view="all">
+                        <ce:italic>S</ce:italic> (%)<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>(SCOD<ce:inf loc="post">f</ce:inf>
+                        <ce:hsp sp="0.25"/>−<ce:hsp sp="0.25"/>SCOD<ce:inf loc="post">i</ce:inf>)<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>100/(TCOD<ce:inf loc="post">i</ce:inf>
+                        <ce:hsp sp="0.25"/>−<ce:hsp sp="0.25"/>SCOD<ce:inf loc="post">i</ce:inf>)</ce:para>
+                     <ce:para id="p0060" view="all">where <ce:italic>S</ce:italic>, SCOD, and TCOD refer to solubilization (%), soluble chemical oxygen demand (SCOD, f: final, i: initial) (m<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup>) and total chemical oxygen demand (TCOD,<ce:hsp sp="0.25"/>mg L<ce:sup loc="post">−1</ce:sup>) in that order.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0025" view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title id="st025">Biochemical methane potential (BMP) test</ce:section-title>
+                     <ce:para id="p0065" view="all">A BMP test provides the optimum condition for anaerobic digestion and has an advantage of simple measurement of biogas and methane produced. Hence, the test has been widely used to evaluate the maximum potential of methane production which is obtainable from certain substrates in a batch experiment of anaerobic digestion (<ce:cross-refs refid="b0015 b0010" id="r0035">Angelidaki et al., 2009; Alzate et al., 2012</ce:cross-refs>). The BMP test was conducted in 100<ce:hsp sp="0.25"/>mL glass serum bottles sealed with Teflon rubber septum in this study. The substrate and inoculums (1 to 1, g<ce:hsp sp="0.25"/>g<ce:sup loc="post">−1</ce:sup>) adjusted to 10<ce:hsp sp="0.25"/>g-VS<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup> were mixed, and the total working volume was set at 60<ce:hsp sp="0.25"/>mL. The pH was adjusted to pH 7 after the mixing, and the headspace of the bottles was flushed with N<ce:inf loc="post">2</ce:inf> gas to maintain an anaerobic condition. The gas and methane production obtained from each pretreated mixed-microalgae biomass on the BMP tests were compared with those obtained from non-pretreated mixed-microalgae biomass.</ce:para>
+                     <ce:para id="p0070" view="all">The BMP tests were carried out in duplicates for each sample. The bottles were placed in a shaking incubator of 80<ce:hsp sp="0.25"/>rpm at 37<ce:hsp sp="0.25"/>°C (B-201S, Hanbaek Scientific Co.). Samples were collected periodically for analysis. Biogas and methane production were measured throughout the incubation period of 23<ce:hsp sp="0.25"/>days at appropriate time interval. During the initial 7<ce:hsp sp="0.25"/>days after the incubation, the biogas and methane production were measured with the interval of 1<ce:hsp sp="0.25"/>day and with the interval of 2 or 3<ce:hsp sp="0.25"/>days after the initial 7<ce:hsp sp="0.25"/>days. The biogas production was measured after sampling with a glass syringe, and the content of methane produced was determined by a gas chromatography (GC5890, Hewlett Packard) equipped with a thermal conductivity detector. The biogas production was corrected for STP condition (<ce:cross-ref refid="b0015" id="c0085">Angelidaki et al., 2009</ce:cross-ref>). At the end of the BMP tests, the final SCOD<ce:inf loc="post">Cr</ce:inf> concentrations in each sample were measured to estimate the SCOD<ce:inf loc="post">Cr</ce:inf> removal efficiency.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0030" view="all">
+                     <ce:label>2.4</ce:label>
+                     <ce:section-title id="st030">Effect of initial solubilization by pretreatments on BMP tests</ce:section-title>
+                     <ce:para id="p0075" view="all">Two samples thermal-pretreated at the temperatures of 50<ce:hsp sp="0.25"/>°C and 120<ce:hsp sp="0.25"/>°C for 30<ce:hsp sp="0.25"/>min were selected for this experiment because the solubilization of the biomass thermal-pretreated by the temperature of 120<ce:hsp sp="0.25"/>°C was the highest, which respected as showing the highest gas production among all pretreatments. The bottles containing non-pretreated microalgae were used for the control. The solid and liquid phases were separated by centrifugation (10<ce:hsp sp="0.25"/>min, 3,000<ce:hsp sp="0.25"/>rpm), and then each phase was adjusted to 30<ce:hsp sp="0.25"/>mL of distilled water before using it as the substrate for the further BMP test.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0035" view="all">
+                     <ce:label>2.5</ce:label>
+                     <ce:section-title id="st035">Intermediates analysis in BMP tests</ce:section-title>
+                     <ce:para id="p0080" view="all">To understand the correlation between the changes in the concentration of intermediates and methane production on the incubation time, the concentrations of glucose and volatile fatty acid (VFA)s, such as acetate, propionate, lactate, butyrate and valerate, were analyzed during the BMP test of 25<ce:hsp sp="0.25"/>days. The BMP test of this case was carried out in quadruplicates for each sample and the total working volume was set at 80<ce:hsp sp="0.25"/>mL for the incubation of 25<ce:hsp sp="0.25"/>days. The biogas and methane production were measured, and simultaneously the sample of 1<ce:hsp sp="0.25"/>mL was collected for the analysis of glucose and VFA concentrations.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0040" view="all">
+                     <ce:label>2.6</ce:label>
+                     <ce:section-title id="st040">Microbial community analysis</ce:section-title>
+                     <ce:para id="p0085" view="all">To identify the difference of anaerobic bacteria community in each sample for the BMP test, PCR-DGGE analysis was performed (<ce:cross-ref refid="b0105" id="c0090">Muzyer et al., 1993</ce:cross-ref>). The DNA isolation kit (Power-soil DNA isolation kit, Mo Bio) was used to extract the total genomic DNA from the samples derived from each BMP bottle. Bacterial 16S rRNA genes were amplified from the extracted genomic DNA by PCR using Thermal Cycler (MyCycler, Bio-Rad) with the universal primers of <ce:underline>GC clamped</ce:underline> 27F (5′-<ce:underline>CGC CCG CCG CGC GCG GCG GGC GGG GCG GGG GCA CGG GGG G</ce:underline>AG AGT TTG ATC M(A/C)TG GCT CAG-3′) and 518R (5′-ATT ACC GCG GCT GCT GG-3′) (<ce:cross-ref refid="b0080" id="c0095">Kaksonen et al., 2004</ce:cross-ref>).</ce:para>
+                     <ce:para id="p0090" view="all">The PCR protocol included an initial denaturation of 95<ce:hsp sp="0.25"/>°C for 5<ce:hsp sp="0.25"/>min, 30 cycles of 95<ce:hsp sp="0.25"/>°C for 1<ce:hsp sp="0.25"/>min, 53<ce:hsp sp="0.25"/>°C for 1<ce:hsp sp="0.25"/>min, 72<ce:hsp sp="0.25"/>°C for 2<ce:hsp sp="0.25"/>min of denaturation, annealing, and extension followed by 5<ce:hsp sp="0.25"/>min of final extension at 72<ce:hsp sp="0.25"/>°C. DGGE was performed with a D-Code System (BioRad). The PCR amplification products were loaded onto 8% (w<ce:hsp sp="0.25"/>v<ce:sup loc="post">−1</ce:sup>) polyacrylamide gels with a denaturing gradient from 30% to 60%. The DGGE was run for 6<ce:hsp sp="0.25"/>h at 200<ce:hsp sp="0.25"/>V. After electrophoresis, the gel was stained with ethidium bromide and captured by using a digital camera (Olympus). For the identification of DGGE bands in individual samples, several DGGE bands were cut, eluted in 50<ce:hsp sp="0.25"/>ml of TE buffer overnight, and ligated into the blunt T-vector (Solgent, Korea) after re-amplifying the DNA fragments with the same sequences but with no GC clamped primer set. Then, the cloned DNA fragments were sequenced with M13 F primer using an ABI PRISM 3700 DNA analyzer. The results of the partial RNA gene sequences were compared with the sequences enrolled in the BLAST database (http://www.ncbi.nlm.nih.gov/).</ce:para>
+                  </ce:section>
+                  <ce:section id="s0045" view="all">
+                     <ce:label>2.7</ce:label>
+                     <ce:section-title id="st045">Analytical methods</ce:section-title>
+                     <ce:para id="p0095" view="all">Total solids (TS) and volatile solids (VS) were measured by the standard methods. TCOD, SCOD concentrations, and the ammonia nitrogen (NH<ce:inf loc="post">3</ce:inf>–N) concentrations were analyzed with a water test kit (HS 2300, Humas Co. Ltd.). Methane content in biogas was analyzed by a gas chromatography (GC, 5890, Hewlett Packard) equipped with a thermal conductivity detector (carrier gas: He, oven temperature: 35<ce:hsp sp="0.25"/>°C, column temperature: 100<ce:hsp sp="0.25"/>°C, detector temperature: 220<ce:hsp sp="0.25"/>°C), and pH was determined with a pH meter (Orion 3 Star pH Benchtop, Thermo Scientific). The concentration of glucose, acetate, lactate, butyrate and valerate was analyzed by a high performance liquid chromatography (Ultimate HPLC system, Dionex; Aminex®HPX-87 H column (300<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>7.8<ce:hsp sp="0.25"/>mm); Bio-RAD RI-101 detector, Shodex; column temperature: 65<ce:hsp sp="0.25"/>°C, flow rate: 0.5<ce:hsp sp="0.25"/>mL<ce:hsp sp="0.25"/>min<ce:sup loc="post">−1</ce:sup>, carrier: 2.5<ce:hsp sp="0.25"/>mm H<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4</ce:inf>). All samples for the analysis of glucose and VFA concentrations were filtered by using disposable 0.20<ce:hsp sp="0.25"/>μm PVDF syringes after centrifugation at 3000<ce:hsp sp="0.25"/>rpm for 5<ce:hsp sp="0.25"/>min.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0050" view="all">
+                     <ce:label>2.8</ce:label>
+                     <ce:section-title id="st050">Net energy balance</ce:section-title>
+                     <ce:para id="p0100" view="all">To assess the economic feasibility of the pretreatements, the input (<ce:italic>E</ce:italic>
+                        <ce:inf loc="post">in</ce:inf>) and output energy (<ce:italic>E</ce:italic>
+                        <ce:inf loc="post">out</ce:inf>) were calculated by applying the following methods. Net energy (<ce:italic>E</ce:italic>
+                        <ce:inf loc="post">net</ce:inf>) balance indicates the difference between <ce:italic>E</ce:italic>
+                        <ce:inf loc="post">in</ce:inf> and <ce:italic>E</ce:italic>
+                        <ce:inf loc="post">out</ce:inf>.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0055" view="all">
+                     <ce:label>2.9</ce:label>
+                     <ce:section-title id="st055">Input energies at thermal- and ultrasonic-pretreatment</ce:section-title>
+                     <ce:para id="p0105" view="all">
+                        <ce:italic>E</ce:italic>
+                        <ce:inf loc="post">in</ce:inf> (kJ<ce:hsp sp="0.25"/>g-VS<ce:sup loc="post">−1</ce:sup>)<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>
+                        <ce:italic>P</ce:italic>
+                        <ce:inf loc="post">d</ce:inf>·<ce:italic>t</ce:italic>/1,000·<ce:italic>C</ce:italic>
+                        <ce:inf loc="post">s</ce:inf>·<ce:italic>V</ce:italic>
+                        <ce:inf loc="post">d</ce:inf>
+                     </ce:para>
+                     <ce:para id="p0110" view="all">where <ce:italic>P</ce:italic>
+                        <ce:inf loc="post">d</ce:inf>, <ce:italic>t</ce:italic>, <ce:italic>C</ce:italic>
+                        <ce:inf loc="post">s</ce:inf> and <ce:italic>V</ce:italic>
+                        <ce:inf loc="post">d</ce:inf> refer to device power energy (<ce:italic>P</ce:italic>
+                        <ce:inf loc="post">d</ce:inf>, J<ce:hsp sp="0.25"/>s<ce:sup loc="post">−1</ce:sup>), pretreatment duration time (<ce:italic>t</ce:italic>), microalgae concentration (<ce:italic>C</ce:italic>
+                        <ce:inf loc="post">s</ce:inf>, 10<ce:hsp sp="0.25"/>g-VS<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup>) and effective volume (<ce:italic>V</ce:italic>
+                        <ce:inf loc="post">d</ce:inf>, L).</ce:para>
+                  </ce:section>
+                  <ce:section id="s0060" view="all">
+                     <ce:label>2.10</ce:label>
+                     <ce:section-title id="st060">Input energy at alkali-pretreatment</ce:section-title>
+                     <ce:para id="p0115" view="all">
+                        <ce:italic>E</ce:italic>
+                        <ce:inf loc="post">in</ce:inf> (kJ<ce:hsp sp="0.25"/>g-VS<ce:sup loc="post">−1</ce:sup>)<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>
+                        <ce:italic>V</ce:italic>
+                        <ce:inf loc="post">a</ce:inf>·<ce:italic>N</ce:italic>
+                        <ce:inf loc="post">a</ce:inf>·<ce:italic>W</ce:italic>
+                        <ce:inf loc="post">a</ce:inf>·<ce:italic>Y</ce:italic>
+                        <ce:inf loc="post">a</ce:inf>·<ce:italic>P</ce:italic>
+                        <ce:inf loc="post">E</ce:inf>/<ce:italic>C</ce:italic>
+                        <ce:inf loc="post">s</ce:inf>·<ce:italic>V</ce:italic>
+                        <ce:inf loc="post">s</ce:inf>
+                     </ce:para>
+                     <ce:para id="p0120" view="all">where <ce:italic>V</ce:italic>
+                        <ce:inf loc="post">a</ce:inf>, <ce:italic>N</ce:italic>
+                        <ce:inf loc="post">a</ce:inf>, <ce:italic>W</ce:italic>
+                        <ce:inf loc="post">a</ce:inf>, <ce:italic>Y</ce:italic>
+                        <ce:inf loc="post">a</ce:inf>, <ce:italic>P</ce:italic>
+                        <ce:inf loc="post">E</ce:inf>, <ce:italic>C</ce:italic>
+                        <ce:inf loc="post">s</ce:inf> and <ce:italic>V</ce:italic>
+                        <ce:inf loc="post">s</ce:inf> refer to the used volume of NaOH (<ce:italic>V</ce:italic>
+                        <ce:inf loc="post">a</ce:inf>, L), Normal concentration of NaOH solution (<ce:italic>N</ce:italic>
+                        <ce:inf loc="post">a</ce:inf>, 5<ce:hsp sp="0.25"/>eq L<ce:sup loc="post">−1</ce:sup>), the equivalent weight of NaOH (<ce:italic>W</ce:italic>
+                        <ce:inf loc="post">a</ce:inf>, 40<ce:hsp sp="0.25"/>g<ce:hsp sp="0.25"/>eq<ce:sup loc="post">−1</ce:sup>), the cost of NaOH (<ce:italic>Y</ce:italic>
+                        <ce:inf loc="post">a</ce:inf>, 1.55<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>10<ce:sup loc="post">−2</ce:sup> $<ce:hsp sp="0.25"/>g<ce:sup loc="post">−1</ce:sup>), reciprocal industrial electricity rates (<ce:italic>P</ce:italic>
+                        <ce:inf loc="post">E</ce:inf>, 13.82<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>10<ce:sup loc="post">−2</ce:sup>
+                        <ce:hsp sp="0.25"/>kJ $<ce:sup loc="post">−1</ce:sup>), microalgae biomass volume (<ce:italic>V</ce:italic>
+                        <ce:inf loc="post">s</ce:inf>, 0.03<ce:hsp sp="0.25"/>L), microalgae concentration (<ce:italic>C</ce:italic>
+                        <ce:inf loc="post">s</ce:inf>, 10<ce:hsp sp="0.25"/>g-VS L<ce:sup loc="post">−1</ce:sup>) in that order.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0065" view="all">
+                     <ce:label>2.11</ce:label>
+                     <ce:section-title id="st065">Output energy</ce:section-title>
+                     <ce:para id="p0125" view="all">
+                        <ce:italic>E</ce:italic>
+                        <ce:inf loc="post">out</ce:inf>
+                        <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>35.315·<ce:italic>P</ce:italic>
+                        <ce:inf loc="post">CH4</ce:inf> 
+                        <ce:italic>Y</ce:italic>
+                        <ce:inf loc="post">CH4</ce:inf>/1000</ce:para>
+                     <ce:para id="p0130" view="all">where 35.515, <ce:italic>P</ce:italic>
+                        <ce:inf loc="post">CH4</ce:inf> and <ce:italic>Y</ce:italic>
+                        <ce:inf loc="post">CH4</ce:inf> indicate the constant coefficient (35.315<ce:hsp sp="0.25"/>kJ L-CH<ce:inf loc="post">4</ce:inf>
+                        <ce:sup loc="post">−1</ce:sup>), methane productivity per g-VS (mL-CH<ce:inf loc="post">4</ce:inf> g-VS<ce:sup loc="post">−1</ce:sup>) and recovery of methane (here, it is assumed as 100%).</ce:para>
+                     <ce:para id="p0135" view="all">The methane productivity <ce:italic>P</ce:italic>
+                        <ce:inf loc="post">CH4</ce:inf> is calculated by the following equation. The volume of methane produced, which is the value of the volume of methane produced a standard condition (0<ce:hsp sp="0.25"/>°C, 1<ce:hsp sp="0.25"/>atm), was divided by the quantity of volatile solid (VS) in the bottles.</ce:para>
+                     <ce:para id="p0140" view="all">
+                        <ce:italic>P</ce:italic>
+                        <ce:inf loc="post">CH4</ce:inf> (mL CH<ce:inf loc="post">4</ce:inf>/g VS)<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>
+                        <ce:italic>V</ce:italic>
+                        <ce:inf loc="post">0- CH4 gas volume (mL)</ce:inf>/VS <ce:inf loc="post">algae (g)</ce:inf>
+                     </ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0070" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="st070">Results and discussion</ce:section-title>
+                  <ce:section id="s0075" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title id="st075">Effect of pretreatments on methane production</ce:section-title>
+                     <ce:para id="p0145" view="all">The initial total-COD<ce:inf loc="post">Cr</ce:inf> (TCOD) and soluble-COD<ce:inf loc="post">Cr</ce:inf> (SCOD) of the raw microalgae were 12,330<ce:hsp sp="0.25"/>mg<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup> and 770<ce:hsp sp="0.25"/>mg<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup>, respectively, without pretreatments. In all the pretreatments to which mixed-microalgae was applied, the SCOD<ce:inf loc="post">Cr</ce:inf> increased with the strength of the pretreatments (<ce:cross-ref refid="t0005" id="c0100">Table 1</ce:cross-ref>
+                        <ce:float-anchor refid="t0005"/>).</ce:para>
+                     <ce:para id="p0150" view="all">The accumulative biogas and methane production for the incubation time of 23<ce:hsp sp="0.25"/>days are shown in <ce:cross-ref refid="f0005" id="c0105">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="f0005"/> and the daily gas production showed as the <ce:cross-ref refid="s0110" id="c0220">Supplementary 1.</ce:cross-ref> The productivity increased linearly for initial 3<ce:hsp sp="0.25"/>days in all bottles, but it began to decrease gradually. Then the production was almost stopped after 16<ce:hsp sp="0.25"/>days of incubation.</ce:para>
+                     <ce:para id="p0155" view="all">There was a positive correlation (<ce:italic>P</ce:italic> value of 0.00057) between the soluble CODs and methane production except the samples alkali-pretreated. The highest accumulated biogas production (accu-GP, 204.0<ce:hsp sp="0.25"/>±<ce:hsp sp="0.25"/>2.4<ce:hsp sp="0.25"/>mL) and methane production (accu-MP, 121.5<ce:hsp sp="0.25"/>±<ce:hsp sp="0.25"/>2.3<ce:hsp sp="0.25"/>mL) were obtained from the microalgae biomass thermal-pretreated at 120<ce:hsp sp="0.25"/>°C for 30<ce:hsp sp="0.25"/>°C. These are 1.1 (accu-GP) and 1.2 times (accu-MP) higher than those obtained from the non-pretreated microalgae mixture which showed the amounts of 180.6<ce:hsp sp="0.25"/>±<ce:hsp sp="0.25"/>0.0<ce:hsp sp="0.25"/>mL (accu-GP) and 100.8<ce:hsp sp="0.25"/>±<ce:hsp sp="0.25"/>0.2<ce:hsp sp="0.25"/>mL (accu-MP).</ce:para>
+                     <ce:para id="p0160" view="all">However, the increased methane production was not proportional to the increase of SCOD by the pretreatments; for an example, the maximum difference of the initial SCOD between the samples, non-treated and thermal-treated with 120<ce:hsp sp="0.25"/>°C, was 5 times while the accumulative methane production showed 1.2 times. The lack of correlation between the solubilization and methane production as well as the superiority of thermal pre-treatment on methane production using microalgae resources have already reported by <ce:cross-ref refid="b0010" id="c0110">Alzate et al. (2012)</ce:cross-ref> and <ce:cross-ref refid="b0085" id="c0115">Keymer et al. (2013)</ce:cross-ref>.</ce:para>
+                     <ce:para id="p0165" view="all">The ratios (v<ce:hsp sp="0.25"/>v<ce:sup loc="post">−1</ce:sup>) of methane gas to total biogas production were similar in the range of 56∼60% (<ce:cross-ref refid="f0005" id="c0120">Fig. 1</ce:cross-ref>) except the microalgae biomass alkali-pretreated to pH 13 which showed below 45% (43.6%). The alkali-pretreatment to pH 13 suspected to have partially damaged the activity of the inoculums because the initial pH of the mixture reached pH 10.2. It is out of the optimum pH ranges for anaerobic digestion (<ce:cross-ref refid="b0100" id="c0125">Mata-alvarez et al., 2000</ce:cross-ref>) even though the high pH was adjusted to pH 7.0 before the incubation for the BMP test. This would explain why the remaining SCOD on final Day 23 was the highest in the sample (<ce:cross-ref refid="f0005" id="c0130">Fig. 1</ce:cross-ref>).</ce:para>
+                     <ce:para id="p0170" view="all">Among the methane productivities obtained through the BMP tests, the biggest maximum productivity (336<ce:hsp sp="0.25"/>mL-CH<ce:inf loc="post">4</ce:inf> g-VS<ce:sup loc="post">−1</ce:sup>) was compatible with the others; <ce:cross-ref refid="b0175" id="c0135">Yen and Brune (2007)</ce:cross-ref> reported as 136<ce:hsp sp="0.25"/>mL-CH<ce:inf loc="post">4</ce:inf> g-VS<ce:sup loc="post">−1</ce:sup>. In addition, the value of 336<ce:hsp sp="0.25"/>mL-CH<ce:inf loc="post">4</ce:inf> g-VS<ce:sup loc="post">−1</ce:sup> is comparable with the results obtained from the anaerobic digestion with single species of microalga digestion (<ce:cross-ref refid="b0125" id="c0140">Ras et al., 2011</ce:cross-ref>). This indicates that the substrate of the mixed microalgae has a sufficient potential to generate bioenergy as the form of methane through anaerobic digestion although the higher value obtained from this study might be overestimated due to the stable batch mode cultivation of this study unlike the continuous cultivation in a bigger reactor performed by <ce:cross-ref refid="b0125" id="c0145">Ras et al. (2011)</ce:cross-ref>.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0080" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title id="st080">Effect of solubilization by the pretreatments on methane production</ce:section-title>
+                     <ce:para id="p0175" view="all">The maximum solubilization was observed by the thermal pretreatment at 120<ce:hsp sp="0.25"/>°C, and the amount was five times as the amount of 4,080<ce:hsp sp="0.25"/>mg-SCOD/L compared with that of the non-pretreatment (735<ce:hsp sp="0.25"/>mg-SCOD/L).</ce:para>
+                     <ce:para id="p0180" view="all">To estimate the effect of initial solubilization of microalgae by the pretreatments on methane production, the solid and liquid phases were separately collected and each of them supplied into the bottles as the only substrate for the BMP test. According to the results, the maximum attribution of the liquid phase in the thermal-treated samples was 10.8% (v<ce:hsp sp="0.25"/>v<ce:sup loc="post">−1</ce:sup>) of the total methane production while it showed 3.1% (v<ce:hsp sp="0.25"/>v<ce:sup loc="post">−1</ce:sup>) in the control (non-pretreated samples). This demonstrated that most methane production did not result from the liquid phases but the solid phases even though the initial difference of SCOD, mainly due to the difference of solubilization, were kept till the final incubation time.</ce:para>
+                     <ce:para id="p0185" view="all">It speculated that the biological decomposition of the substrates would act stronger than the pretreatments in the solubilization of microalgae cells. In short, the substrate, microalgae biomass, might be decomposed by hydrolysis of anaerobic bacteria rather than by the pretreatments (<ce:cross-ref refid="b0175" id="c0150">Yen and Brune, 2007</ce:cross-ref>). According to these findings, the methane production would be more improved by other factors, for examples inoculums, loading rates and pH control, to affect biological activity itself rather than physical- or chemical-pretreatments.</ce:para>
+                     <ce:para id="p0190" view="all">However, it was true that the biggest difference was obtained from the liquid phase of the biomass pretreated by the strong thermal-pretreatment of 120<ce:hsp sp="0.25"/>°C for 30<ce:hsp sp="0.25"/>min, and it produced a higher methane amount (14% to the total methane production) than that (3%) obtained from the biomass pretreated by the relatively weak thermal-pretreatment. In other words, the strong strength pretreatment might have enabled the substrate to easily decompose by anaerobic bacteria in the bottles, and the total amount of accumulated methane production was affected by the initial difference SCOD among the samples until the cultivation was finished. In conclusion, the low solubilization by the pretreatments applied in this study could not show a big difference on the methane production, which was well corresponded with a recent result reported by <ce:cross-ref refid="b0050" id="c0155">Gonzalez-Fernandez et al. (2013)</ce:cross-ref>.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0085" view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title id="st085">Intermediates changes on the BMP tests</ce:section-title>
+                     <ce:para id="p0195" view="all">
+                        <ce:cross-ref refid="f0010" id="c0160">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="f0010"/> depicts the concentrations of VFAs and accumulated methane production on the cultivation time. Glucose, lactate, propionate and acetate were detected from both samples, in which non-pretreated substrate and strong thermal-pretreated substrate were applied, and measured from the incubation time of Day 0. From the two samples, glucose was detected for the whole incubation period of 25<ce:hsp sp="0.25"/>days, while lactate, propionate and acetate were mainly detected for the initial period of incubation, and even the concentrations of acetate and propionate were so different for initial 5<ce:hsp sp="0.25"/>days between the two samples. The thermal-pretreatment might have enhanced the transformation of glucose to the smaller carbon organic acids which could be removed quickly as the forms of methane gas. Therefore, the methane production between the samples of thermal-pretreated and non-pretreated was quite different as 41.1<ce:hsp sp="0.25"/>mmol<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup>
+                        <ce:hsp sp="0.25"/>day<ce:sup loc="post">−1</ce:sup> and 33.4<ce:hsp sp="0.25"/>mmol<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup>
+                        <ce:hsp sp="0.25"/>day<ce:sup loc="post">−1</ce:sup> in the order.</ce:para>
+                     <ce:para id="p0200" view="all">However, the difference in the accelerated methane production disappeared gradually with incubation time, and it became similar after the incubation period of Day 4. <ce:cross-ref refid="b0160" id="c0165">Wang et al. (1999)</ce:cross-ref> have reported a same fact that a rapid transformation of VFA in the sewage waste sludge treated by the sonication resulted in an improved initial methane production.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0090" view="all">
+                     <ce:label>3.4</ce:label>
+                     <ce:section-title id="st090">DGGE results for microbial community analysis</ce:section-title>
+                     <ce:para id="p0205" view="all">To understand the changes in the microbial community on the BMP experiments, PCR-DGGE was conducted, and the gel image is shown in <ce:cross-ref refid="f0015" id="c0170">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="f0015"/>. When the microbial communities sampled on Day 15 are compared with those of Day 0, the number of DGGE bands reflecting the major populations in the microbial community increased in the bottles having non-pretreated microalgae rather than that in the bottles having the thermal-pretreated microalgae. The bands numbered 1, 5, 6, 9, and 10 were expressed on the lanes for the non-pretreated sample, and the bands of 1, 5 and 6 were especially clear with the sample harvested on Day 1, but the intensity of the bands weakened and disappeared by Day 15, relatively (<ce:cross-ref refid="f0015" id="c0175">Fig. 3</ce:cross-ref>).</ce:para>
+                     <ce:para id="p0210" view="all">Band 1 showed a high similarity of 99% with the rRNA gene sequence of <ce:italic>Aquimonas</ce:italic> sp. D11–21 (<ce:cross-ref refid="b0090" id="c0180">Krieger et al., 2006</ce:cross-ref>), and band 5 was affiliated with a species of <ce:italic>Gibberella moniliformis</ce:italic> (99% similarity) (<ce:cross-ref refid="b0035" id="c0185">Bömke et al., 2008</ce:cross-ref>). They have been reported as the species of denitrifying bacteria found in red or green algae. Band 6 was affiliated with uncultured <ce:italic>Bacterioidetes</ce:italic> sp. (99% similarity) which belongs to proteolytic bacteria (<ce:cross-ref refid="b0130" id="c0190">Rivière et al., 2009</ce:cross-ref>). This indicates that the bacterial groups might be involved in destruction of microalgal cell walls because the bacterial bands were derived from the non-pretreated sample.</ce:para>
+                     <ce:para id="p0215" view="all">The bands of 2, 3, 4, 7, and 8 were expressed in all samples. The DNA sequences of band 2 were affiliated with uncultured <ce:italic>Synergistetes</ce:italic> bacterium species (98% similarity) which has the ability to decompose amino acids to single chained volatile fatty acids (<ce:cross-ref refid="b0130" id="c0195">Rivière et al., 2009</ce:cross-ref>). <ce:italic>Acinetobacter</ce:italic> sp. (band 7, 100% similarity) can decompose lignin and amino acids (<ce:cross-ref refid="b0005" id="c0200">Abdel-El-Haleem, 2004</ce:cross-ref>), and Alcaligenes Genus (band 8, 100% similarity) was proposed as acid forming bacteria (<ce:cross-ref refid="b0150" id="c0205">Steinbüchel and Schlegel, 2006</ce:cross-ref>).</ce:para>
+                  </ce:section>
+                  <ce:section id="s0095" view="all">
+                     <ce:label>3.5</ce:label>
+                     <ce:section-title id="st095">Analysis of net energy balance</ce:section-title>
+                     <ce:para id="p0220" view="all">The input and output energy on each pretreatment were calculated to evaluate energy balances and summarized in <ce:cross-ref refid="t0005" id="c0210">Table 1</ce:cross-ref> and <ce:cross-ref refid="f0020" id="c0215">Fig. 4</ce:cross-ref>
+                        <ce:float-anchor refid="f0020"/>. The results of net energy balance analysis indicate that the ultrasonic- and thermal-pretreatments resulted in negative net energy while alkali- treatments resulted in a weak positive net energy. However, the increase of net energy obtained from the alkali pretreatments was not far superior to that obtained from non-pretreated samples. Furthermore, it may be not practically positive as considering the cost for completely mixing the chemical and biomass in a practical scale. These findings led us to conclude that the pretreatments applied in this study were insufficient to promote the methane production on anaerobic digestion of the microalgae.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0100" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="st100">Conclusion</ce:section-title>
+                  <ce:para id="p0225" view="all">The solubilization of microalgae cells increased with the increased intensity of pretreatments, thermal-, ultrasonic- and alkali-pretreatments, which resulted in the increase of initial SCOD and methane production on the BMP tests. The biggest solubilization was obtained by the thermal-pretreatment of 120<ce:hsp sp="0.25"/>°C (29%). However, the improvement of methane production by the pretreatments was not superior of input energy cost or ignorable. Therefore, it is recommended that raw microalgae be applied directly as the substrate for anaerobic digestion, because it did not result in a significant energy gains compared with that of the non-pretreated samples in the view of energy balance.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ak005" view="all">
+               <ce:section-title id="st130">Acknowledgements</ce:section-title>
+               <ce:para id="p0265" view="all">This work was supported by the Energy Efficiency &amp; Resources of the Korea Institute of Energy Technology Evaluation and Planning (KETEP) Grant funded by the <ce:grant-sponsor xlink:type="simple" id="gp005" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Korea government Ministry of Knowledge Economy</ce:grant-sponsor> (<ce:grant-number refid="gp005">2012T100201665</ce:grant-number>).</ce:para>
+            </ce:acknowledgment>
+            <ce:appendices view="all">
+               <ce:section view="compact-standard" id="s0105">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="st105">Supplementary data</ce:section-title>
+                  <ce:para id="p0230" view="all">Supplementary data associated with this article can be found, in the online version, at <ce:inter-ref xlink:href="doi:10.1016/j.biortech.2013.06.017" xlink:type="simple" id="ir0005">http://dx.doi.org/10.1016/j.biortech.2013.06.017</ce:inter-ref>.</ce:para>
+               </ce:section>
+               <ce:section view="extended" id="s0110">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="st110">Supplementary data</ce:section-title>
+                  <ce:para id="p0235" view="all">
+                     <ce:display>
+                        <ce:e-component id="m0005">
+                           <ce:label>Supplementary data</ce:label>
+                           <ce:caption id="cn0005">
+                              <ce:simple-para id="sp0015" view="all">The accumulated gas and methane volume calculated in the BMP tests on cultivation time. The C, T and S represent the samples non-pretreated (control), thermal- and ultrasonic-pretreated.</ce:simple-para>
+                           </ce:caption>
+                           <ce:link locator="mmc1"/>
+                        </ce:e-component>
+                     </ce:display>
+                  </ce:para>
+               </ce:section>
+            </ce:appendices>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bi0005" view="all">
+               <ce:section-title id="st135">References</ce:section-title>
+               <ce:bibliography-sec id="bs0005" view="all">
+                  <ce:bib-reference id="b0005">
+                     <ce:label>Abdel-El-Haleem, 2004</ce:label>
+                     <sb:reference id="h0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Abdel-El-Haleem</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Acinetobacter: Environmental and biotechnological applications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Afr. J. Biotechnol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>4</sb:issue-nr>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>71</sb:first-page>
+                              <sb:last-page>74</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0010">
+                     <ce:label>Alzate et al., 2012</ce:label>
+                     <sb:reference id="h0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.E.</ce:given-name>
+                                 <ce:surname>Alzate</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Munoz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Rogalla</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Fdz-Polanco</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.I.</ce:given-name>
+                                 <ce:surname>Perez-Elvira</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Biochemical methane potential of microalgae: Influence of substrate to inoculums ratio, biomass concentration and pretreatment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresource Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>123</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>488</sb:first-page>
+                              <sb:last-page>494</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0015">
+                     <ce:label>Angelidaki et al., 2009</ce:label>
+                     <sb:reference id="h0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Angelidaki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Alves</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Bolzonella</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Borzacconi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Campos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Guwy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Kalyuzhnyi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Jenicek</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.B.</ce:given-name>
+                                 <ce:surname>Lier</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Defining the biomethane potential (BMP) of solid organic wastes and energy crops: A proposed protocol for batch assays</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>59</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>5</sb:issue-nr>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>927</sb:first-page>
+                              <sb:last-page>934</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0020">
+                     <ce:label>Barrett et al., 1996</ce:label>
+                     <sb:reference id="h0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Barrett</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Curnow</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Littlejohn</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The control of diatom and cyanobacterial blooms in reservoirs using barley straw</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Hydrobiologia</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>340</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>1996</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>307</sb:first-page>
+                              <sb:last-page>311</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0025">
+                     <ce:label>Becker, 2007</ce:label>
+                     <sb:reference id="h0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Becker</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Micro-algae as a source of protein</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biotechnol. Adv.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>207</sb:first-page>
+                              <sb:last-page>210</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0030">
+                     <ce:label>Benedetti et al., 2004</ce:label>
+                     <sb:reference id="h0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Benedetti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Benvenuti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Pagliarani</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Francogli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Scoglio</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Canestrari</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Antioxidant properties of a novel phycocyanin extract from the blue-green alga <ce:italic>Aphanizomenon flos-aquae</ce:italic>
+                              </sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Life Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>75</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>19</sb:issue-nr>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2353</sb:first-page>
+                              <sb:last-page>2362</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0035">
+                     <ce:label>Bömke et al., 2008</ce:label>
+                     <sb:reference id="h0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Bömke</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.C.</ce:given-name>
+                                 <ce:surname>Rojas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Hedden</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Tudzynski</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Loss of gibberellin production in <ce:italic>Fusarium verticillioides</ce:italic> (gibberella fujikuroi MP-A) is due to a deletion in the gibberellic acid gene cluster</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Environ. Microb.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>74</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>24</sb:issue-nr>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7790</sb:first-page>
+                              <sb:last-page>7801</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0040">
+                     <ce:label>Bougrier et al., 2006</ce:label>
+                     <sb:reference id="h0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Bougrier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Albasi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Delgenes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Carrere</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of ultrasonic, thermal and ozone pre-treatments on waste activated sludge solubilisation and anaerobic biodegradability</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Eng. Process.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>45</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>8</sb:issue-nr>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>711</sb:first-page>
+                              <sb:last-page>718</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0045">
+                     <ce:label>Chakinala et al., 2010</ce:label>
+                     <sb:reference id="h0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.G.</ce:given-name>
+                                 <ce:surname>Chakinala</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.W.F.</ce:given-name>
+                                 <ce:surname>Brilman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.P.M.</ce:given-name>
+                                 <ce:surname>Swaaij</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.R.A.</ce:given-name>
+                                 <ce:surname>Kersten</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Catalytic and non-catalytic supercritical water gasification of microalgae and glycerol</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ind. Eng. Chem. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>49</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1113</sb:first-page>
+                              <sb:last-page>1122</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0050">
+                     <ce:label>Gonzalez-Fernandez et al., 2013</ce:label>
+                     <sb:reference id="h0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Gonzalez-Fernandez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Sialve</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Bermet</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Steyer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of organic loading rate on anaerobic digestion of thermally pretreated <ce:italic>Scenedesmus</ce:italic> sp. biomass</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresource Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>129</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>219</sb:first-page>
+                              <sb:last-page>223</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0055">
+                     <ce:label>Halim et al., 2011</ce:label>
+                     <sb:reference id="h0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Halim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Galdman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.K.</ce:given-name>
+                                 <ce:surname>Danquah</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Webley</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Oil extraction from microalgae for biodiesel production</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresource Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>102</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>178</sb:first-page>
+                              <sb:last-page>185</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0060">
+                     <ce:label>Harun and Danquah, 2011</ce:label>
+                     <sb:reference id="h0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Harun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Danquah</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Influence of acid pre-treatment on microalgal biomass for bioethanol production</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Process Biochem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>46</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>304</sb:first-page>
+                              <sb:last-page>309</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0065">
+                     <ce:label>Heng et al., 2009</ce:label>
+                     <sb:reference id="h0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Heng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Jun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Wen-jie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Guibai</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Algae removal by ultrasonic irradiation–coagulation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Desalination</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>239</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>191</sb:first-page>
+                              <sb:last-page>197</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0070">
+                     <ce:label>Hu et al., 2008</ce:label>
+                     <sb:reference id="h0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Sommerfeld</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Jarvis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Ghirardi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Posewitz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Seibert</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Darzins</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Microalgal triacylglycerols as feedstocks for biofuel production: perspectives and advances</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Plant J.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>54</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>621</sb:first-page>
+                              <sb:last-page>639</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0075">
+                     <ce:label>Huang et al., 2010</ce:label>
+                     <sb:reference id="h0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Huang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Wei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Biodiesel production by microalgal biotechnology</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Energ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>87</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>38</sb:first-page>
+                              <sb:last-page>46</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0080">
+                     <ce:label>Kaksonen et al., 2004</ce:label>
+                     <sb:reference id="h0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.H.</ce:given-name>
+                                 <ce:surname>Kaksonen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Plumb</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.D.</ce:given-name>
+                                 <ce:surname>Franzmann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Puhakka</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Simple organic electron donors support diverse sulfate-reducing communities in fluidized-bed reactors treating acidic metal- and sulfate-containing wastewater</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>FEMS Microbiol. Ecol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>47</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>279</sb:first-page>
+                              <sb:last-page>289</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0085">
+                     <ce:label>Keymer et al., 2013</ce:label>
+                     <sb:reference id="h0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Keymer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Ruffell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Pratt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Lant</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>High pressure thermal hydrolysis as pre-treatment to increase the methane yield during anaerobic digestion of microalgae</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresource Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>131</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>128</sb:first-page>
+                              <sb:last-page>133</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0090">
+                     <ce:label>Krieger et al., 2006</ce:label>
+                     <ce:other-ref id="j0005">
+                        <ce:textref>Krieger, B., Schwermer, C.U., Rezakhani, N., Horn, M.A., Gieseke, A., Cytryn, E., 2006. Diversity of nitrate-reducing and denitrifying bacteria in a marine aquaculture biofilter and their response to sulfide. 11th International Symposium on Microbial Ecologly (ISME-11).</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0095">
+                     <ce:label>López Torres and Espinosa Lloréns, 2008</ce:label>
+                     <sb:reference id="h0090">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>López Torres</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Espinosa Lloréns</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of alkaline pretreatment on anaerobic digestion of solid wastes</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Waste Manage.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>28</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>11</sb:issue-nr>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2229</sb:first-page>
+                              <sb:last-page>2234</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0100">
+                     <ce:label>Mata-Alvarez et al., 2000</ce:label>
+                     <sb:reference id="h0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Mata-Alvarez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Mace</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Llabres</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Anaerobic digestion of organic solid wastes. An overview of research achievements and perspectives</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresource Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>74</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3</sb:first-page>
+                              <sb:last-page>16</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0105">
+                     <ce:label>Muzyer et al., 1993</ce:label>
+                     <sb:reference id="h0100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Muzyer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.C.</ce:given-name>
+                                 <ce:surname>de Wall</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.G.</ce:given-name>
+                                 <ce:surname>Uitterlinden</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Profiling of complex microbial populations by denaturing gradient gel electrophoresis of polymerase chain reaction-amplified genes coding for 16S rRNA</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>App. Environ. Microbiol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>59</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1993</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>695</sb:first-page>
+                              <sb:last-page>700</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0110">
+                     <ce:label>Nakano et al., 2001</ce:label>
+                     <sb:reference id="h0105">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Nakano</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.J.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Matsumura</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>In situ algal bloom control by the integration of ultrasonic radiation and jet circulation to flushing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Environ. Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>24</sb:issue-nr>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4941</sb:first-page>
+                              <sb:last-page>4946</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0115">
+                     <ce:label>Nguyen et al., 2009</ce:label>
+                     <sb:reference id="h0110">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.T.</ce:given-name>
+                                 <ce:surname>Nguyen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.P.</ce:given-name>
+                                 <ce:surname>Choi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.J.</ce:given-name>
+                                 <ce:surname>Sim</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Hydrothermal acid pretreatment of <ce:italic>Chlamydomonas reinhardtii</ce:italic> biomass for ethanol production</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Microbiol. Biotechnol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>19</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>161</sb:first-page>
+                              <sb:last-page>166</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0120">
+                     <ce:label>Passos et al., 2013</ce:label>
+                     <sb:reference id="h0115">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Passos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Garcia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Ferrer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Impact of low temperature pretreatment on the anaerobic digestion of microalgal biomass</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresource Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>138</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>79</sb:first-page>
+                              <sb:last-page>86</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0125">
+                     <ce:label>Ras et al., 2011</ce:label>
+                     <sb:reference id="h0120">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Ras</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Lardon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Bruno</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Bernet</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Steyer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Experimental study on a coupled process of production and anaerobic digestion of <ce:italic>Chlorella vulgaris</ce:italic>
+                              </sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresource Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>102</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>200</sb:first-page>
+                              <sb:last-page>206</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0130">
+                     <ce:label>Rivière et al., 2009</ce:label>
+                     <sb:reference id="h0125">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Rivière</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Desvignes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Pelletier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Chaussonnerie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Guermazi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Weissenbach</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Towards the definition of a core of microorganisms involved in anaerobic digestion of sludge</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>ISME J.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>6</sb:issue-nr>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>700</sb:first-page>
+                              <sb:last-page>714</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0135">
+                     <ce:label>Roeck-Holtzhauer et al., 2009</ce:label>
+                     <sb:reference id="h0130">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Roeck-Holtzhauer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Claire</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Bresdin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Amicel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Derrien</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Vitamin, free amino acid and fatty acid compositions of some marine planktonic microalgae used in aquaculture</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bot. Mar.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>36</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>4</sb:issue-nr>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>321</sb:first-page>
+                              <sb:last-page>326</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0140">
+                     <ce:label>Sawayama et al., 1999</ce:label>
+                     <sb:reference id="h0135">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Sawayama</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Minowa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.-Y.</ce:given-name>
+                                 <ce:surname>Yokoyama</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Possibility of renewable energy production and CO<ce:inf loc="post">2</ce:inf> mitigation by thermochemical liquefaction of microalgae</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biomass Bioenerg.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>17</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>33</sb:first-page>
+                              <sb:last-page>39</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0145">
+                     <ce:label>Sengco and Anderson, 2004</ce:label>
+                     <sb:reference id="h0140">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.R.</ce:given-name>
+                                 <ce:surname>Sengco</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.M.</ce:given-name>
+                                 <ce:surname>Anderson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Controlling harmful algal blooms through clay flocculation1</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Eukaryot. Microbiol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>51</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>169</sb:first-page>
+                              <sb:last-page>172</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0150">
+                     <ce:label>Steinbüchel and Schlegel, 2006</ce:label>
+                     <sb:reference id="h0145">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Steinbüchel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Schlegel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Physiology and molecular genetics of poly (β-hydroxyalkanoic acid) synthesis in Alcaligenes eutrophus</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Mol. Microbiol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>535</sb:first-page>
+                              <sb:last-page>542</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0155">
+                     <ce:label>Vasudevan and Briggs, 2008</ce:label>
+                     <sb:reference id="h0150">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.T.</ce:given-name>
+                                 <ce:surname>Vasudevan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Briggs</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Biodiesel production-current state of the art and challenges</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Ind. Microbiol. Biotechnol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>421</sb:first-page>
+                              <sb:last-page>430</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0160">
+                     <ce:label>Wang et al., 1999</ce:label>
+                     <sb:reference id="h0155">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Kuninobu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Kakimoto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>I-Ogawa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Kato</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Upgrading of anaerobic digestion of waste activated sludge by ultrasonic pretreatment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresource Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>68</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>309</sb:first-page>
+                              <sb:last-page>313</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0165">
+                     <ce:label>Wiltshire et al., 2000</ce:label>
+                     <sb:reference id="h0160">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.H.</ce:given-name>
+                                 <ce:surname>Wiltshire</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Boersma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Möller</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Buhtz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Extraction of pigments and fatty acids from the green alga <ce:italic>Scenedesmus obliquus</ce:italic> (Chlorophyceae)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Aquat. Ecol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>34</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>119</sb:first-page>
+                              <sb:last-page>126</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0170">
+                     <ce:label>Xu and Mi, 2011</ce:label>
+                     <sb:reference id="h0165">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Mi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Simplifying the process of microalgal biodiesel production through in situ transesterification technology</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Am. Oil. Chem. Soc.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>88</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>91</sb:first-page>
+                              <sb:last-page>99</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0175">
+                     <ce:label>Yen and Brune, 2007</ce:label>
+                     <sb:reference id="h0170">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.W.</ce:given-name>
+                                 <ce:surname>Yen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.E.</ce:given-name>
+                                 <ce:surname>Brune</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Anaerobic co-digestion of algal sludge and waste paper to produce methane</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresource Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>98</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>130</sb:first-page>
+                              <sb:last-page>134</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

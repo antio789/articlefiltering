@@ -1,0 +1,90 @@
+TITLE: The effects of waste-activated sludge pretreatment using hydrodynamic cavitation for methane production
+
+
+1 Introduction
+
+Over the last 10 years in South Korea, the number of waste water treatment plants (WWTPs) has rapidly increased to ensure the water quality of rivers and brooks. This upsurge of WWTPs, however, has brought an increase in the produced sewage sludge, which must be treated before disposal with additional cost, due to the potentially pathogenic, unstable, and irresoluble nature of the biosludge [1].
+
+Disposal in sea or landfills, currently the most common practice for sludge management, gives rise to secondary pollution including leaching of heavy metals, nitrogen (N), and phosphorus (P) [2,3]. As a sustainable alternative, anaerobic digestion (AD) has been adopted to reduce sludge volume with the production of useful products, most notably methane. AD is now considered as an indispensable process in modern WWTPs [4], although some limitations do exist, such as long hydraulic retention time (HRT) and low hydrolysis efficiency of waste-activated sludge (WAS) [5]. WAS mainly consists of microbial cells and extracellular polymeric substances (EPS), which are a complex mixture of proteins, polysaccharides, and lipids [6]. Microbial cell walls serve as sufficiently strong barriers that hinder the biodegradation of intracellular organics through the general AD process [7]. Pretreatment is to break the cell walls so that intracellular organics can be released are thus typically required. These solubilized cell components are much more biodegradable and the HRT of the subsequent AD process becomes greatly shortened [8,9].
+
+Various pretreatment methods have been developed to date. Thermal pretreatment has been examined over an extensive range of temperatures from 50 to 200 °C [10]. Sludge solubility was considerably enhanced by increasing the pretreatment temperature above 150 °C, but the production yield of methane was not improved [11]. Although alkaline pretreatment using NaOH, KOH, and Ca(OH)_2 was reported to be comparatively efficacious in terms of sludge solubility, a high concentration of sodium or potassium ions inhibits AD. To minimize this negative effect, alkaline pretreatment is often combined with physical methods such as heating and sonication [12]. Ultrasound, a powerful physical method, produces high shear force via cavitation, making it possible to effectively disintegrate the sludge. However, the generation of ultrasound is energy intensive, and its application thus requires careful analysis of overall cost [13,14]. Moreover, scaling-up for field applications is more of an issue [15].
+
+Hydrodynamic cavitation (HC) exhibits similar effects to the ultrasonic method with greatly reduced energy consumption and thus, can be considered as a cost-effective substitute. Cavitation is generated, not from a sonication horn, but by forcing fluid flow through either a venturi tube or an orifice plate, where pressure substantially drops even to the level of vapor pressure. Many microbubbles are formed as a consequence of this pressure drop at the throat. These cavities subsequently collapse when the pressure is restored downstream of the mechanical contraction. A number of studies have been conducted on various application targets, including cell disintegration, polymerization, and hydrolysis and transesterification of fatty oil [16–18].
+
+The primary goal of this study is to obtain the optimal conditions for sludge pretreatment using HC for the purpose of maximum methane production from WAS. To improve the efficacy of sludge disintegration, another pretreatment approach, i.e., alkaline treatment was combined with HC, and their synergetic effects were examined, in terms of the release of COD, protein, total nitrogen (TN), and total phosphate (TP) and the production of methane.
+
+
+2 Materials and methods
+
+
+2.1 Waste-activated sludge (WAS) and anaerobic granular sludge
+
+WAS was obtained from a final settling basin of a municipal Waste Water Treatment Plant (WWTP) in Daejeon, South Korea. Anaerobic granular sludge (AGS), which was used as an inoculum for methane production, was obtained from the same WWTP. The characteristics of the sludge are listed in Table 1 .
+
+
+2.2 Pretreatment methods
+
+Thermal pretreatment was carried out as a control, where sludge samples (50 ml) were heated in reactors at temperature ranging from 110 °C to 150 °C for 20 min in an oil bath (Daihan Science, Korea). The reactors were laminated with Teflon to prevent internal corrosion.
+
+Alkaline pretreatment was also conducted. 5 N of Ca(OH)_2, KOH and NaOH solution, respectively, were added to 50 ml of WAS to attain a final pH ranging from 8 to 13. The samples were then continuously mixed for 1 h for individual pretreatment and 20 min for combined pretreatment.
+
+Ultrasonication was performed with 50 ml of WAS with 20 kHz frequency (VCX-750, S&M, USA) and the applied amplitude (Max.750 W) was 20%.
+
+The reactor for hydrodynamic cavitation (hydrocavitator) was made of stainless steel and was connected to a water pump (TPH2T6KS; Walrus Pump (Taiwan) Ltd.). A radial form of orifice plate had 27 holes of 1 mm diameter as shown in Fig. 1 . The inner diameter of pipe line was all 20 mm. The pressures of upstream and downstream were kept at around 0.7 and 0.07 MPa. Under this condition, fluid velocity at the orifice plate was 21.2 m/s, and cavitation number was estimated to be 2.79 [19]. The maximum capacity of the hydrocavitator was 1.5 L. Reaction times of both ultrasonic and HC pretreatment were set to 1, 5, 10, 15, and 20 min. All pretreatments were performed in triplicate to minimize random error.
+
+
+2.3 Methane production
+
+Methane production from pretreated sludge was examined using four identical AD reactors: one untreated control and three samples treated with HC, alkaline, and combined (HC + alkaline) methods, respectively. Long term batch mode experiments were executed in 200 ml serum bottles. Pretreated WAS and AGS (45 ml of each) were added to each bottle. The pH of this mixed sludge was adjusted to 7.0 ± 0.1, as it is well known that the optimal pH for methane production is usually neutral. The inoculated sludge was incubated at 35 °C and 80 rpm in a shaking incubator, and the volume of produced gas was measured by a calibrated syringe.
+
+
+2.4 Analysis
+
+The disintegration degree (DD) was calculated using the following equation: FORMULA: Disintegration degree ( % ) = ( SCOD f - SCOD i ) / ( TCOD i - SCOD i ) × 100 The soluble chemical oxygen demand (COD) of pretreated sludge is denoted as SCOD_f, SCOD of unpretreated sludge is written as SCOD_i, and the total COD of unpretreated sludge is TCOD_i [20].
+
+Specific energy consumptions of devices used for the pretreatment were as follows: 3 kW for the oil bath, 1.5 kW for the hydrocavitator, and 0.75 kW for ultrasonication. The applied specific energy input was calculated using an equation below: FORMULA: Applied specific energy input = J / V where J is the amount of energy joules (kilowatt × seconds, kJ) and V is the reaction volume of total solids (TS kg).
+
+Gas chromatography (GC, Gow Mac series 580) was used to analyze the constituent of produced gas in the methane generation step. A thermal conductivity detector (TCD) and a stainless steel column (1.8 m × 3.2 mm) packed with porapak Q (80/100 mesh) were equipped in the GC. The temperatures of the column, injector, and detector were individually maintained at 50, 80, and 90 °C.
+
+The pretreated sludge was filtered with a 0.2 μm membrane and analyzed for the composition of soluble substances, such as N, P, and protein. Protein concentration was measured according to Lowry’s method [21], and total solids (TS) and volatile solids (VS) were determined by Standard Methods [22]. Concentrations of nitrogen (N), phosphate (P), and COD were measured using a Hach DR 5000 UV–Vis Laboratory Spectrophotometer (Hach, USA). Images of the WAS particles were obtained with a field-emission scanning electron microscope (FEI, Sirion, Netherlands).
+
+
+3 Results and discussion
+
+
+3.1 Individual pretreatment
+
+Different pretreatment approaches (thermal, chemical, physical, and physico-chemical methods) were compared in terms of the degree of sludge disintegration. As expected, temperature showed a positive effect on disintegration, which increased from 14% at 110 °C to 20% at 150 °C (Fig. 2 a). Temperature above 150 °C also led to high solubilization of WAS, but did not necessarily yield increased methane conversion, which was in good agreement with Dwyer [11].
+
+Alkaline pretreatment was performed at pH values from 8 to 13 with the following alkali reagents: NaOH, KOH, and Ca(OH)_2. The values of DD varied as a function of pH. When the pH reached 12, a threefold smaller amount of NaOH solution was required than when the pH reached 13, even though the DD values were not substantially different. Therefore, pH 12 was determined as optimal in the case of pretreatment with NaOH on the basis of the total amount of required reagent. As shown in Fig. 2b, the effectiveness followed the order of NaOH > KOH > Ca(OH)_2 with a maximum DD of 40.10% at pH 13 with NaOH. Pretreatment with NaOH exhibited a higher level of COD solubility compared to pretreatment with KOH, Ca(OH)_2, and Mg(OH)_2 [12]. This efficacy order is a result of monobasic alkali reagent having higher efficiency of WAS solubilization than dibasic alkali reagents. The monobasic alkali reagent had a weaker ionic bond force than the dibasic alkali reagents, and hence hydroxyl radicals were more easily formed by ultrasonication and/or HC and thus more radicals acted on the sludge [23].
+
+Ragan et al. [24] reported 46% COD solubilization with NaOH. Ray et al. [25] achieved a 45% increase of solubilization at 30 meq/L NaOH. With different agents, Kim et al. [12] obtained varied degree of solubilization: 40, 37, and 15% with NaOH, KOH, and Ca(OH)_2, respectively.
+
+The effects of ultrasonic and HC pretreatments with respect to reaction time are shown in Fig. 2c. The DD values of ultrasonic pretreatment ranged between 1.10 and 20.31%, and those of HC pretreatment between 11.52 and 23.67%. Although both ultrasonic and HC pretreatment methods share the same principle of cavitation, the disintegration pattern was somewhat different. The disintegration of WAS proceeded smoothly in the ultrasonic pretreatment, whereas a large amount of WAS was solubilized within one minute in the HC pretreatment. The spread velocity of active cavitation in ultrasonication is maintained only very near to the transducer and it decreases farther away [26]. A possible explanation is that ultrasonic waves produce microbubbles near the tip of a horn and thus a certain amount of time is required for the cavitation effect to spread to the whole portion of sludge. On the contrary, sludge is recirculated 18 times per minute in the hydrocavitator; therefore, microbubbles are immediately and effectively distributed over the entire sludge.
+
+The amount of consumed energy for both systems was continuously monitored. As shown in Fig. 3 , the specific energy input range from 180 to 3600 kJ/kg TS in the ultrasonic pretreatment. At the same reaction times, the HC system consumed specific energy input of 60–1200 kJ/kg TS. When calculated on the basis of the same DD value, the HC pretreatment consumed three times less energy than the ultrasonic counterpart.
+
+
+3.2 Synergetic effect of combined pretreatment
+
+Synergetic effects for WAS disintegration were explored with a combination of the aforementioned different approaches, namely, alkaline, HC, ultrasonic, and thermal pretreatment, as shown in Table 2 . The sum of the DD values was 37.57% when alkaline and HC were tested separately, whereas that of the combined pretreatment was 53.47%, suggesting that synergy indeed played a role in this HC-based sludge disintegration. All three pretreatments combined with NaOH displayed DD% (D) of around 53%. This apparent theoretical limit of the pretreatment approaches was repeatedly reached only after 20 min, which is a distinct advantage of using HC over other physical means.
+
+Although the synergetic effect of HC and NaOH methods (15.90%) was slightly lower than that of the other coupled means (ultrasonic + NaOH (19.78%) and thermal + NaOH (19.10%)), the chosen method was found to consume much less energy (1200 kJ/kg TS vs. 3600 and 72000 kJ/kg TS).
+
+Kim et al. [5] reported DD values of 21.4% and 19.5% with separate KOH (pH 12) and ultrasonic (7,500 kJ/kg TS) pretreatments, respectively, and 18.9% synergetic improvement with combined pretreatment. Using a combined pretreatment (thermal + NaOH), Valo et al. [27] achieved a 5% synergetic effect, which decreased with more intense conditions. Curiously, a combined treatment (e.g., microwave + NaOH) did not result in a synergistic improvement but rather impaired the disintegration degree [28], implying that both optimal pretreatment methods and conditions exist.
+
+Scanning Electron Microscopy (SEM) is a physical method, as opposed to chemical methods such as COD, protein, TN, and TP, to ascertain the portion of sludge that is disintegrated and to investigate the surface structures of mollicutes. As shown in Fig. 4 , there were significant differences in the microscopic surface images of four sludge samples. Each cell is distinctly identifiable (P-1), and cells were not completely destroyed. HC-treated sludge (P-2) exhibited many pores, caused by the powerful action of cavitation in which micro-sized bubbles burst at the surface of cells. The alkaline agent loosened cell walls, most likely by means of hydroxyl radicals (P-3 and P-4). These mechanical and chemical forces were exerted on microbial cells in a synergistic manner, thereby leading to effective disintegration (P-4 vs. P-1, P-2, and P-3).
+
+Fig. 5 displays the synergetic effect of the combined (HC + NaOH) pretreatment according to different factors. The combined pretreatment was found to be very effective on sludge disintegration compared to individual pretreatment. The sludge disintegration caused the conversion of a large portion of macromolecules to soluble forms, resulting in improved performance of the AD process, including decreased sludge volume and hydraulic retention time and increased methane production. Protein is one of the primary components of the microbial cell, and disintegration of protein is generally accompanied by considerable enhancement of soluble N and P [29,30]. However, increased levels of N and P by pretreatment has been reported to pose problems in subsequent downstream processes [31]; for instance, soluble N that exists in the form of ammonia is known to inhibit the AD process.
+
+
+3.3 Methane production
+
+Since improved biodegradability of WAS is our ultimate goal, and this is not necessarily represented by the degree of disintegration, AD was conducted with pretreated sludge. CH_4 production was monitored and its accumulation was measured for 14 days (Fig. 6 ). The daily CH_4 yield sharply increased in the early stages and gradually decreased thereafter. The cumulative CH_4 yield of the combined pretreatment was 78.02 ml/g COD_added up to 14 days, which was significantly higher in comparison to 61.17 ml/g COD_added with NaOH pretreatment alone, 51.28 ml/g COD_added with HC only, and 45.52 ml/g COD_added without any treatment. The CH_4 content of each sample was 63.90%, 58.50%, 56.99%, and 54.07%, respectively. These results show that both the cumulative yield and the percentage of CH_4 indeed depended on the degree of sludge disintegration.
+
+Sludge pretreatment has not been applied to WWTP in South Korea, because its cost is impracticably high with current technologies and at the same time the associated problems are not negligible. Thermal pretreatment changes the effluent color and increases ammonia inhibition. Alkaline pretreatment requires use of very strong chemicals and these reagents cause ammonia inhibition of AD. Neutralization is necessary to address the problem of ammonia inhibition, but this presents an additional cost. Ultrasonication, albeit not considering its high power consumption, has a fatal issue when it comes to scaling-up. Horn type systems are commonly used reactor designs in these systems. Cavitation effect occurs only close to the vibrating surface and rapidly vanishes from 2 to 5 cm. If multiple transducers producing cavitation from various spots are developed and optimized, larger scale operation of ultrasonication is possible [32]. HC is free from all of the aforementioned limitations. A HC system includes only a pump and an orifice plate, and thus scaling up is not an issue. In fact, current wastewater treatment facilities already use sufficiently large pumping systems. Overall, HC is a well-established technology at laboratory, pilot, and even industrial scale operation [33].
+
+
+4 Conclusions
+
+Various pretreatment processes such as alkaline, thermal, ultrasonic, and HC result in enhancement of soluble COD, N, P, and protein in WAS. Among these pretreatment methods, HC was found to be an effective physical technique with relatively low power consumption and ease of scaling-up. When HC was assisted with NaOH pretreatment, a significant synergy effect was exerted and this was well reflected by the cumulative yield of CH_4. Considering its unique and distinct advantages in terms of treatment efficiency, cost, and scalability, HC is a promising pretreatment approach that has high implementation potential.

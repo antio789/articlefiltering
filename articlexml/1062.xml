@@ -1,0 +1,2401 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0956053X15000756</prism:url><dc:identifier>doi:10.1016/j.wasman.2015.01.036</dc:identifier><eid>1-s2.0-S0956053X15000756</eid><prism:doi>10.1016/j.wasman.2015.01.036</prism:doi><pii>S0956-053X(15)00075-6</pii><dc:title>Zero-valent iron enhanced methanogenic activity in anaerobic digestion of waste activated sludge after heat and alkali pretreatment </dc:title><prism:publicationName>Waste Management</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>0956053X</prism:issn><prism:volume>38</prism:volume><prism:startingPage>297</prism:startingPage><prism:endingPage>302</prism:endingPage><prism:pageRange>297-302</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2015-04-30</prism:coverDate><prism:coverDisplayDate>April 2015</prism:coverDisplayDate><prism:copyright>Copyright © 2015 Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd.</prism:publisher><dc:creator>Zhang, Yaobin</dc:creator><dc:creator>Feng, Yinghong</dc:creator><dc:creator>Quan, Xie</dc:creator><dc:description>
+                  Heat or alkali pretreatment is the effective method to improve hydrolysis of waste sludge and then enhance anaerobic sludge digestion. However the pretreatment may inactivate the methanogens in the sludge. In the present work, zero-valent iron (ZVI) was used to enhance the methanogenic activity in anaerobic sludge digester under two methanogens-suppressing conditions, i.e. heat-pretreatment and alkali condition respectively. With the addition of ZVI, the lag time of methane production was shortened, and the methane yield increased by 91.5% compared to the control group. The consumption of VFA was accelerated by ZVI, especially for acetate, indicating that the acetoclastic methanogenesis was enhanced. In the alkali-condition experiment, the hydrogen produced decreased from 27.6 to 18.8mL when increasing the ZVI dosage from 0 to 10g/L. Correspondingly, the methane yield increased from 1.9 to 32.2mL, which meant that the H2-utilizing methanogenes was enriched. These results suggested that the addition of ZVI into anaerobic digestion of sludge after pretreated by the heat or alkali process could efficiently recover the methanogenic activity and increase the methane production and sludge reduction.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Waste activated sludge</dcterms:subject><dcterms:subject>Anaerobic digestion</dcterms:subject><dcterms:subject>Zero-valent iron (ZVI)</dcterms:subject><dcterms:subject>Heat pretreatment</dcterms:subject><dcterms:subject>Alkali treatment</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0956053X15000756" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0956053X15000756" rel="scidir"/></coredata><objects><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="316" height="20" size="1219">https://api.elsevier.com/content/object/eid/1-s2.0-S0956053X15000756-si2.gif?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="196" height="15" size="823">https://api.elsevier.com/content/object/eid/1-s2.0-S0956053X15000756-si1.gif?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="316" height="489" size="41049">https://api.elsevier.com/content/object/eid/1-s2.0-S0956053X15000756-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="338" height="219" size="12587">https://api.elsevier.com/content/object/eid/1-s2.0-S0956053X15000756-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="335" height="434" size="35010">https://api.elsevier.com/content/object/eid/1-s2.0-S0956053X15000756-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="317" height="218" size="24868">https://api.elsevier.com/content/object/eid/1-s2.0-S0956053X15000756-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="317" height="484" size="38407">https://api.elsevier.com/content/object/eid/1-s2.0-S0956053X15000756-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="106" height="164" size="4196">https://api.elsevier.com/content/object/eid/1-s2.0-S0956053X15000756-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="142" size="4748">https://api.elsevier.com/content/object/eid/1-s2.0-S0956053X15000756-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="126" height="163" size="5012">https://api.elsevier.com/content/object/eid/1-s2.0-S0956053X15000756-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="150" size="8874">https://api.elsevier.com/content/object/eid/1-s2.0-S0956053X15000756-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="107" height="163" size="4087">https://api.elsevier.com/content/object/eid/1-s2.0-S0956053X15000756-gr2.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>84933677229</scopus-id><scopus-eid>2-s2.0-84933677229</scopus-eid><pubmed-id>25681947</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/84933677229" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271837</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291710</xocs:ssid>
+         <xocs:ssid type="subj">291768</xocs:ssid>
+         <xocs:ssid type="subj">291769</xocs:ssid>
+         <xocs:ssid type="subj">291793</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Waste Management</xocs:srctitle>
+      <xocs:normalized-srctitle>WASTEMANAGEMENT</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20150211">2015-02-11</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20150211">2015-02-11</xocs:available-online-date>
+      <xocs:ew-transaction-id>2015-03-25T03:16:50</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0956053X15000756</xocs:eid>
+      <xocs:pii-formatted>S0956-053X(15)00075-6</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0956053X15000756</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.wasman.2015.01.036</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0956053X15X00043</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150515">2015-05-15T03:42:29.749782-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20150401</xocs:date-search-begin>
+      <xocs:date-search-end>20150430</xocs:date-search-end>
+      <xocs:year-nav>2015</xocs:year-nav>
+      <xocs:indexeddate epoch="1423695734">2015-02-11T23:02:14.976483Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast grantnumber grantsponsor highlightsabst primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0956-053X</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>0956053X</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>38</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>38</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 38</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>35</xocs:sort-order>
+      <xocs:first-fp>297</xocs:first-fp>
+      <xocs:last-lp>302</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>297</xocs:first-page>
+         <xocs:last-page>302</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201504</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>April 2015</xocs:cover-date-text>
+      <xocs:cover-date-start>2015-04-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2015-04-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2015</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Special waste: Sludge</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2015 Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>ZEROVALENTIRONENHANCEDMETHANOGENICACTIVITYINANAEROBICDIGESTIONWASTEACTIVATEDSLUDGEAFTERHEATALKALIPRETREATMENT</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>ZHANG</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>Y</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Material and methods</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Characteristic of waste sludge</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Effects of ZVI on methane production from heat pretreated sludge</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Influence of ZVI on methane production from sludge under alkali condition</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Analysis</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Effects of ZVI on methane production from heat-pretreated sludge</xocs:item-toc-section-title>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.1.1</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Biogas production</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.1.2</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>VFA production</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.1.3</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Sludge reduction</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Influence of ZVI on methane production under alkali condition</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgment</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="h0010">
+            <xocs:ref-normalized-surname>AHRING</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>559</xocs:ref-first-fp>
+            <xocs:ref-last-lp>565</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0005"/>
+         <xocs:ref-info refid="h0015">
+            <xocs:ref-normalized-surname>APPELS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5743</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5748</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0020">
+            <xocs:ref-normalized-surname>CARRERE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>15</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0025">
+            <xocs:ref-normalized-surname>DANIELS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>509</xocs:ref-first-fp>
+            <xocs:ref-last-lp>511</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0030">
+            <xocs:ref-normalized-surname>DUNFIELD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1993</xocs:ref-pub-year>
+            <xocs:ref-first-fp>321</xocs:ref-first-fp>
+            <xocs:ref-last-lp>326</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0035">
+            <xocs:ref-normalized-surname>FAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>84</xocs:ref-first-fp>
+            <xocs:ref-last-lp>89</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0040">
+            <xocs:ref-normalized-surname>FENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>242</xocs:ref-first-fp>
+            <xocs:ref-last-lp>250</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0045">
+            <xocs:ref-normalized-surname>FR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>755</xocs:ref-first-fp>
+            <xocs:ref-last-lp>761</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0050">
+            <xocs:ref-normalized-surname>FUKUZAKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>719</xocs:ref-first-fp>
+            <xocs:ref-last-lp>723</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0055">
+            <xocs:ref-normalized-surname>GALLERT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>405</xocs:ref-first-fp>
+            <xocs:ref-last-lp>410</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0060">
+            <xocs:ref-normalized-surname>HEO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>211</xocs:ref-first-fp>
+            <xocs:ref-last-lp>219</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0065">
+            <xocs:ref-normalized-surname>JIANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2191</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2198</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0070">
+            <xocs:ref-normalized-surname>KARRI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>121</xocs:ref-first-fp>
+            <xocs:ref-last-lp>127</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0075">
+            <xocs:ref-normalized-surname>KOSTER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1561</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1567</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0080">
+            <xocs:ref-normalized-surname>KOTSYURBENKO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1159</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1173</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0085">
+            <xocs:ref-normalized-surname>LAGERKVIST</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1634</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1650</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0090">
+            <xocs:ref-normalized-surname>LAY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1361</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1367</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0095">
+            <xocs:ref-normalized-surname>LEE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1450</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1455</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0100">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>189</xocs:ref-first-fp>
+            <xocs:ref-last-lp>194</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0105">
+            <xocs:ref-normalized-surname>LIU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>179</xocs:ref-first-fp>
+            <xocs:ref-last-lp>185</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0110">
+            <xocs:ref-normalized-surname>LU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1015</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1026</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0115">
+            <xocs:ref-normalized-surname>MASUKO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>69</xocs:ref-first-fp>
+            <xocs:ref-last-lp>72</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0120">
+            <xocs:ref-normalized-surname>MENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>80</xocs:ref-first-fp>
+            <xocs:ref-last-lp>85</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0125">
+            <xocs:ref-normalized-surname>OH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5186</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5190</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0130">
+            <xocs:ref-normalized-surname>RANI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>107</xocs:ref-first-fp>
+            <xocs:ref-last-lp>116</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0135">
+            <xocs:ref-normalized-surname>SCHMIDT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1993</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2546</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2551</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0140">
+            <xocs:ref-normalized-surname>SIRIWONGRUNGSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4204</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4210</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0145">
+            <xocs:ref-normalized-surname>YANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6790</xocs:ref-first-fp>
+            <xocs:ref-last-lp>6800</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0150">
+            <xocs:ref-normalized-surname>YUAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2025</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2029</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0160">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4802</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4808</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0155">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>10</xocs:ref-first-fp>
+            <xocs:ref-last-lp>16</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0165">
+            <xocs:ref-normalized-surname>ZHAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1353</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1358</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Q</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0170">
+            <xocs:ref-normalized-surname>ZHAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3317</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3323</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>ZHANGX2015X297</xocs:refkey3>
+         <xocs:refkey4lp>ZHANGX2015X297X302</xocs:refkey4lp>
+         <xocs:refkey4ai>ZHANGX2015X297XY</xocs:refkey4ai>
+         <xocs:refkey5>ZHANGX2015X297X302XY</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0956-053X(15)00075-6</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0956053X15000756</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0956053X15000756</xocs:eid>
+         <xocs:doi>10.1016/j.wasman.2015.01.036</xocs:doi>
+         <xocs:cid>271837</xocs:cid>
+         <xocs:timestamp>2015-03-25T00:21:14.940985-04:00</xocs:timestamp>
+         <xocs:cover-date-start>2015-04-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2015-04-30</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0956053X15000756-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956053X15000756/MAIN/application/pdf/fb9e23920d846ad497bfe970517249fc/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956053X15000756/MAIN/application/pdf/fb9e23920d846ad497bfe970517249fc/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>452852</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0956053X15000756-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956053X15000756/PREVIEW/image/png/4668dd42affbcd9b2e8327613ff38836/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956053X15000756/PREVIEW/image/png/4668dd42affbcd9b2e8327613ff38836/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>61053</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956053X15000756-si2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956053X15000756/STRIPIN/image/gif/c73a0d4f06fb4f7ef8c5804d32d80797/si2.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956053X15000756/STRIPIN/image/gif/c73a0d4f06fb4f7ef8c5804d32d80797/si2.gif</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1219</xocs:filesize>
+               <xocs:pixel-height>20</xocs:pixel-height>
+               <xocs:pixel-width>316</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956053X15000756-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956053X15000756/STRIPIN/image/gif/da5f7b9b54788e0c66e9584f8ea9026e/si1.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956053X15000756/STRIPIN/image/gif/da5f7b9b54788e0c66e9584f8ea9026e/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>823</xocs:filesize>
+               <xocs:pixel-height>15</xocs:pixel-height>
+               <xocs:pixel-width>196</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956053X15000756-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956053X15000756/gr1/DOWNSAMPLED/image/jpeg/22aa70becb03a09be7b5db07a19e8736/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956053X15000756/gr1/DOWNSAMPLED/image/jpeg/22aa70becb03a09be7b5db07a19e8736/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>41049</xocs:filesize>
+               <xocs:pixel-height>489</xocs:pixel-height>
+               <xocs:pixel-width>316</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956053X15000756-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956053X15000756/gr5/DOWNSAMPLED/image/jpeg/2cb5d4facff474a2ed64f3f797a1486d/gr5.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956053X15000756/gr5/DOWNSAMPLED/image/jpeg/2cb5d4facff474a2ed64f3f797a1486d/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>12587</xocs:filesize>
+               <xocs:pixel-height>219</xocs:pixel-height>
+               <xocs:pixel-width>338</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956053X15000756-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956053X15000756/gr4/DOWNSAMPLED/image/jpeg/9f11d4f7fb499cc5a671079f3a113cb6/gr4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956053X15000756/gr4/DOWNSAMPLED/image/jpeg/9f11d4f7fb499cc5a671079f3a113cb6/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>35010</xocs:filesize>
+               <xocs:pixel-height>434</xocs:pixel-height>
+               <xocs:pixel-width>335</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956053X15000756-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956053X15000756/gr3/DOWNSAMPLED/image/jpeg/d78cf4f08e5df761e9e5501f174e1624/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956053X15000756/gr3/DOWNSAMPLED/image/jpeg/d78cf4f08e5df761e9e5501f174e1624/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>24868</xocs:filesize>
+               <xocs:pixel-height>218</xocs:pixel-height>
+               <xocs:pixel-width>317</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956053X15000756-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956053X15000756/gr2/DOWNSAMPLED/image/jpeg/e531fc4c0df0d5a4410472d75c5771c9/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956053X15000756/gr2/DOWNSAMPLED/image/jpeg/e531fc4c0df0d5a4410472d75c5771c9/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>38407</xocs:filesize>
+               <xocs:pixel-height>484</xocs:pixel-height>
+               <xocs:pixel-width>317</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956053X15000756-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956053X15000756/gr1/THUMBNAIL/image/gif/7415a449a363d12232a3e735cec73d51/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956053X15000756/gr1/THUMBNAIL/image/gif/7415a449a363d12232a3e735cec73d51/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4196</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>106</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956053X15000756-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956053X15000756/gr5/THUMBNAIL/image/gif/45f7f60580715eb4de9461f5dd26939f/gr5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956053X15000756/gr5/THUMBNAIL/image/gif/45f7f60580715eb4de9461f5dd26939f/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4748</xocs:filesize>
+               <xocs:pixel-height>142</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956053X15000756-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956053X15000756/gr4/THUMBNAIL/image/gif/66194ad5af0cdaeb2eb80c0315a3f699/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956053X15000756/gr4/THUMBNAIL/image/gif/66194ad5af0cdaeb2eb80c0315a3f699/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5012</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>126</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956053X15000756-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956053X15000756/gr3/THUMBNAIL/image/gif/2b3903e6c91a1df71a69655550085353/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956053X15000756/gr3/THUMBNAIL/image/gif/2b3903e6c91a1df71a69655550085353/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>8874</xocs:filesize>
+               <xocs:pixel-height>150</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0956053X15000756-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0956053X15000756/gr2/THUMBNAIL/image/gif/ff702ce1c01b797db5a088a27c1887c6/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0956053X15000756/gr2/THUMBNAIL/image/gif/ff702ce1c01b797db5a088a27c1887c6/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4087</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>107</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" xml:lang="en" version="5.2">
+         <item-info>
+            <jid>WM</jid>
+            <aid>9209</aid>
+            <ce:pii>S0956-053X(15)00075-6</ce:pii>
+            <ce:doi>10.1016/j.wasman.2015.01.036</ce:doi>
+            <ce:copyright type="full-transfer" year="2015">Elsevier Ltd</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cn0005">
+                  <ce:simple-para id="sp0015" view="all">Biogas production (a) methane and (b) carbon dioxide.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cn0010">
+                  <ce:simple-para id="sp0020" view="all">Effect of ZVI on TVFA (a) and SCOD (b).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cn0015">
+                  <ce:simple-para id="sp0025" view="all">Concentration of VSS and TCOD after the digestion.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:figure id="f0020">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption id="cn0020">
+                  <ce:simple-para id="sp0030" view="all">The total yield and composition of the biogas from fermentation (a) biogas concentration and (b) percentage.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4"/>
+            </ce:figure>
+            <ce:figure id="f0025">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption id="cn0025">
+                  <ce:simple-para id="sp0035" view="all">VSS concentration and reduction efficiency after the digestion (the concentration of VSS was expressed by pillar and its removal efficiency was expressed by diamond).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" frame="topbot" id="t0005" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cn0030">
+                  <ce:simple-para id="sp0040" view="all">Characteristics of the raw sludge and heat-treated sludge.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="3">
+                  <colspec colname="col1" align="left"/>
+                  <colspec colname="col2" align="char" char="±"/>
+                  <colspec colname="col3" align="char" char="±"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Parameters</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Raw sludge</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Heat-treated sludge</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">pH</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">7.0<hsp sp="0.25"/>±<hsp sp="0.25"/>0.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">7.0<hsp sp="0.25"/>±<hsp sp="0.25"/>0.2</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">TSS (total suspended solids, mg/L)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">11,832<hsp sp="0.25"/>±<hsp sp="0.25"/>749</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">10,885<hsp sp="0.25"/>±<hsp sp="0.25"/>868</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">VSS (volatile suspended solids, mg/L)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">7219<hsp sp="0.25"/>±<hsp sp="0.25"/>401</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">6497<hsp sp="0.25"/>±<hsp sp="0.25"/>286</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">TCOD (total chemical oxygen demand, mg/L)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">12,194<hsp sp="0.25"/>±<hsp sp="0.25"/>1345</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">10,730<hsp sp="0.25"/>±<hsp sp="0.25"/>1171</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">SCOD (soluble chemical oxygen demand, mg/L)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">384<hsp sp="0.25"/>±<hsp sp="0.25"/>34</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">662<hsp sp="0.25"/>±<hsp sp="0.25"/>61</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Total protein (mg/L)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">3511<hsp sp="0.25"/>±<hsp sp="0.25"/>212</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">3230<hsp sp="0.25"/>±<hsp sp="0.25"/>335</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Total polysaccharide (mg/L)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">868<hsp sp="0.25"/>±<hsp sp="0.25"/>39</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">781<hsp sp="0.25"/>±<hsp sp="0.25"/>71</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:legend>
+                  <ce:simple-para id="sp0045" view="all">Standard deviation obtained from triplicate tests.</ce:simple-para>
+               </ce:legend>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" frame="topbot" id="t0010" rowsep="0" colsep="0">
+               <ce:label>Table 2</ce:label>
+               <ce:caption id="cn0035">
+                  <ce:simple-para id="sp0050" view="all">Individual VFA concentration and percentage.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="6">
+                  <colspec colname="col1" align="left"/>
+                  <colspec colname="col2" align="char" char="."/>
+                  <colspec colname="col3" align="char" char="."/>
+                  <colspec colname="col4" align="char" char="."/>
+                  <colspec colname="col5" align="char" char="."/>
+                  <colspec colname="col6" align="char" char="."/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col2" nameend="col6">ZVI dosage</entry>
+                     </row>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Control</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">10</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Acetate</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">379.2 (47)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">311.4 (45)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">103.0 (35)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">90.8 (38)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">78.6 (30)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Propionate</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">40.3 (5)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">37.3 (5)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">25.1 (8)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">22.5 (9)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">25.4 (10)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Butyrate</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">135.5 (17)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">116.3 (17)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">88.5 (30)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">78.8 (33)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">81.1 (31)</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Valerate</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">250.2 (31)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">231.2 (33)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">79.3 (27)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">47.0 (20)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">77.0 (29)</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:legend>
+                  <ce:simple-para id="sp0055" view="all">The concentrations are expressed in mg/L with the percentage in bracket.</ce:simple-para>
+               </ce:legend>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title id="tm005">Zero-valent iron enhanced methanogenic activity in anaerobic digestion of waste activated sludge after heat and alkali pretreatment</ce:title>
+            <ce:author-group id="ag005">
+               <ce:author id="au005">
+                  <ce:given-name>Yaobin</ce:given-name>
+                  <ce:surname>Zhang</ce:surname>
+                  <ce:cross-ref refid="cor1" id="c0005">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au010">
+                  <ce:given-name>Yinghong</ce:given-name>
+                  <ce:surname>Feng</ce:surname>
+                  <ce:cross-ref refid="cor1" id="c0010">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au015">
+                  <ce:given-name>Xie</ce:given-name>
+                  <ce:surname>Quan</ce:surname>
+               </ce:author>
+               <ce:affiliation id="af005">
+                  <ce:textfn>Dalian University of Technology, Key Laboratory of Industrial Ecology and Environmental Engineering, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Dalian University of Technology</sa:organization>
+                     <sa:organization>Key Laboratory of Industrial Ecology and Environmental Engineering</sa:organization>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding authors. Tel.: +86 411 8470 6140; fax: +86 411 8470 6263 (Y. Zhang). Tel.: +86 411 8470 6460; fax: +86 411 8470 6263 (Y. Feng).</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="7" month="5" year="2014"/>
+            <ce:date-accepted day="23" month="1" year="2015"/>
+            
+            <ce:abstract class="author" xml:lang="en" id="ab010" view="all"><ce:abstract-sec id="as010" view="all">
+                  <ce:simple-para id="sp0010" view="all">Heat or alkali pretreatment is the effective method to improve hydrolysis of waste sludge and then enhance anaerobic sludge digestion. However the pretreatment may inactivate the methanogens in the sludge. In the present work, zero-valent iron (ZVI) was used to enhance the methanogenic activity in anaerobic sludge digester under two methanogens-suppressing conditions, i.e. heat-pretreatment and alkali condition respectively. With the addition of ZVI, the lag time of methane production was shortened, and the methane yield increased by 91.5% compared to the control group. The consumption of VFA was accelerated by ZVI, especially for acetate, indicating that the acetoclastic methanogenesis was enhanced. In the alkali-condition experiment, the hydrogen produced decreased from 27.6 to 18.8<ce:hsp sp="0.25"/>mL when increasing the ZVI dosage from 0 to 10<ce:hsp sp="0.25"/>g/L. Correspondingly, the methane yield increased from 1.9 to 32.2<ce:hsp sp="0.25"/>mL, which meant that the H<ce:inf loc="post">2</ce:inf>-utilizing methanogenes was enriched. These results suggested that the addition of ZVI into anaerobic digestion of sludge after pretreated by the heat or alkali process could efficiently recover the methanogenic activity and increase the methane production and sludge reduction.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword" id="kg005" view="all">
+               <ce:section-title id="st080">Keywords</ce:section-title>
+               <ce:keyword id="k0005">
+                  <ce:text>Waste activated sludge</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0010">
+                  <ce:text>Anaerobic digestion</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0015">
+                  <ce:text>Zero-valent iron (ZVI)</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0020">
+                  <ce:text>Heat pretreatment</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0025">
+                  <ce:text>Alkali treatment</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="st005">Introduction</ce:section-title>
+                  <ce:para id="p0005" view="all">Waste activated sludge generated from biological wastewater treatment processes has increased continuously in the recent decades due to increasing population and new construction of waste water treatment plants. Large amount of organic compounds containing in the waste sludge presents a potential threat to environment for example leaching of liquid and odor (<ce:cross-ref refid="b0095" id="c0015">Lee and Han, 2013</ce:cross-ref>). Anaerobic digestion is the most applied technique for waste activated sludge stabilization because of its high abilities to transform organic matters into biogas mixture of methane and carbon dioxide. However, the yield of methane is often limited by slow hydrolysis of sludge. To improve the hydrolysis of waste sludge, chemical, mechanical and biological methods (<ce:cross-refs refid="b0085 b0130" id="r0005">Lagerkvist and Morgan, 2012; Rani et al., 2012</ce:cross-refs>) have been applied to pretreat sludge to disintegrate sludge cells and release intracellular materials into the water phase.</ce:para>
+                  <ce:para id="p0010" view="all">Heat treatment was one of prevalent method to improve the hydrolysis of waste sludge since its simple operation (<ce:cross-ref refid="b0125" id="c0020">Oh et al., 2003</ce:cross-ref>). Hydrolysis of sludge under alkali condition developed by <ce:cross-ref refid="b0170" id="c0025">Zhao et al. (2010)</ce:cross-ref> also gained attention in recent years due to its dramatic enhancement of the hydrolysis of sludge. Although improving the hydrolysis–acidification of sludge, the heat and alkali processes are harmful to methanogenesis because methanogens grow only under an appropriate temperature and a narrowly neutral pH range (<ce:cross-ref refid="b0030" id="c0030">Dunfield et al., 1993</ce:cross-ref>). Three temperature regimes can be used in anaerobic digesters: psychrophilic, mesophilic and thermophilic with varied optimum temperature ranges for the domination of different strains of methane-forming bacteria. Psychrophilic fermentors operate at about 25<ce:hsp sp="0.25"/>°C, mesophilic ones at around 35<ce:hsp sp="0.25"/>°C and thermophilic at around 55<ce:hsp sp="0.25"/>°C. The heat treatment at 102<ce:hsp sp="0.25"/>°C for approximately 30<ce:hsp sp="0.25"/>min could kill most methanogens (<ce:cross-ref refid="b0055" id="c0035">Gallert and Winter, 1997</ce:cross-ref>). The alkali pH was also a factor in preventing methanogenic activity. Methanogenic bacteria are extremely sensitive to pH and prefer pH around 6.8–7.2 as the growth rate of methanogens is greatly reduced when pH out of this range (<ce:cross-ref refid="b0155" id="c0040">Zhang et al., 2013</ce:cross-ref>). Thus, after the pretreatment, adding extra seed sludge or inoculum (dosing ratio: 10–30%) into the digester was necessary to maintain the sustainable methane production (<ce:cross-refs refid="b0100 b0015" id="r0010">Li et al., 2012; Appels et al., 2010</ce:cross-refs>), which however not only might increase the operating cost, but also occupied the considerable digestion space to decrease waste sludge load.</ce:para>
+                  <ce:para id="p0015" view="all">Zero-valent iron (ZVI), as a reductive material, has been widely applied in wastewater treatment, groundwater purification and soil remediation (<ce:cross-ref refid="b0065" id="c0045">Jiang et al., 2011</ce:cross-ref>). In previous study, it was found that ZVI could decline the oxidation–reduction potential (ORP) to create a more favorable environment for anaerobic wastewater treatment when it was added into anaerobic systems (<ce:cross-ref refid="b0105" id="c0050">Liu et al., 2012</ce:cross-ref>). In another previous work, adding ZVI in an anaerobic digestion of waste sludge was confirmed to enhance methane production (<ce:cross-ref refid="b0040" id="c0055">Feng et al., 2013</ce:cross-ref>). Specifically, the methane production was raised by about 21% at 10<ce:hsp sp="0.25"/>g/L of iron scrap added into the anaerobic sludge digester.</ce:para>
+                  <ce:para id="p0020" view="all">Based on the consideration above, it was assumed that the addition of ZVI in anaerobic digestion was likely to improved the methanogenic activity to make the anaerobic system rapidly recovered from the heat and/or alkali inhibition. If this hypothesis is true, the sludge after the heat and/or alkali treatment might be directly processed for anaerobic digestion with no need of supplementing methanogens or seed sludge. The objectives of this work are (1) to investigate the effects of ZVI on the methanogenesis after the heat pretreatment and/or under alkali condition; and (2) to enhance the methane production from the suppressed sludge by adding ZVI. We expected to provide a new idea in enhancing the digestion of sludge suppressed by heat or alkali pretreatment.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="st010">Material and methods</ce:section-title>
+                  <ce:section id="s0015" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title id="st015">Characteristic of waste sludge</ce:section-title>
+                     <ce:para id="p0025" view="all">Waste activated sludge used in this study was obtained from the secondary sedimentation tank of a municipal wastewater treatment plant in Dalian, China. The sludge was concentrated by settling for 24<ce:hsp sp="0.25"/>h, and stored at 4<ce:hsp sp="0.25"/>°C before use. It was reported that most methanogens could be killed at 102<ce:hsp sp="0.25"/>°C for 30<ce:hsp sp="0.25"/>min (<ce:cross-ref refid="b0055" id="c0060">Gallert and Winter, 1997</ce:cross-ref>). Therefore the raw sludge was heated at 102<ce:hsp sp="0.25"/>°C for 30<ce:hsp sp="0.25"/>min to become the heat-treated sludge. The characteristics of the waste activated sludge and heat-treated sludge are listed in <ce:cross-ref refid="t0005" id="c0065">Table 1</ce:cross-ref>
+                        <ce:float-anchor refid="t0005"/>.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0020" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title id="st020">Effects of ZVI on methane production from heat pretreated sludge</ce:section-title>
+                     <ce:para id="p0030" view="all">Adding inoculum sludge into waste sludge is a common method to proceed a sludge digestion (the inoculum seed ratio ranges from 10% to 30%). This model had been operated in our previous works to investigate the effects of ZVI (<ce:cross-ref refid="b0040" id="c0070">Feng et al., 2013</ce:cross-ref>). In the present study, in order to more directly observe the function of ZVI in recovering the methanogenic activity from the pretreatment, the sludge digestion was operated under no addition of inoculums but with whole pretreated sludge. After the sludge was heated and cooled down to the room temperature, 200<ce:hsp sp="0.25"/>mL of the sludge was added into five 250<ce:hsp sp="0.25"/>mL serum bottles, respectively. Five dosage levels of ZVI powder (0, 1, 2, 5 and 10<ce:hsp sp="0.25"/>g/L, 0.2<ce:hsp sp="0.25"/>mm diameter, 0.05<ce:hsp sp="0.25"/>m<ce:sup loc="post">2</ce:sup>/g BET surface area, purity &gt;98%) were added into the five serum bottles above, respectively. All serum bottles were capped with rubber stoppers and flushed with nitrogen gas to remove oxygen before the anaerobic digestion. The bottles were placed in an air-bath shaker (120<ce:hsp sp="0.25"/>rpm) at 35<ce:hsp sp="0.25"/>±<ce:hsp sp="0.25"/>1<ce:hsp sp="0.25"/>°C for 20<ce:hsp sp="0.25"/>d. During the digestion, the biogas produced from each bottle was collected into gasbag for analysis. After the digestion, the mixture was poured out, and their supernatant and remainder sludge were analyzed, respectively.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0025" view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title id="st025">Influence of ZVI on methane production from sludge under alkali condition</ce:section-title>
+                     <ce:para id="p0035" view="all">Another experiment was operated under alkali condition to compare the methane production from the sludge digestion with four dosage levels of ZVI (0, 1, 5, 10<ce:hsp sp="0.25"/>g/L). <ce:cross-ref refid="b0170" id="c0075">Zhao et al. (2010)</ce:cross-ref> found that anaerobic fermentation under pH 10 could significantly enhance the hydrolysis–acidification and decrease the methanogenic activity. Although ZVI could alleviate the anaerobic acidity to help the system kept at a neutral pH through the reaction of Fe<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>2H<ce:sup loc="post">+</ce:sup>
+                        <ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>Fe<ce:sup loc="post">2+</ce:sup>
+                        <ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>H<ce:inf loc="post">2</ce:inf>, it had no capacity to make the pH of digestion system up to 10. Therefore, 4<ce:hsp sp="0.25"/>M NaOH was added to maintain the pH of all serum bottles at 10 during the digestion no matter how much ZVI was dosed. The digestion was lasted for 8<ce:hsp sp="0.25"/>d. Other experimental conditions were the same as the sludge digestion with the heat-treated sludge. All the experiments were repeated twice, and their mean values were used as the experimental results.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0030" view="all">
+                     <ce:label>2.4</ce:label>
+                     <ce:section-title id="st030">Analysis</ce:section-title>
+                     <ce:para id="p0040" view="all">Sludge samples from the reactors were analyzed for total suspended solid (TSS), volatile suspended solids (VSS), total protein and total polysaccharide. Then the samples were centrifuged at 8000<ce:hsp sp="0.25"/>rpm for 10<ce:hsp sp="0.25"/>min and immediately filtered through a cellulose membrane with a pore size of 0.45<ce:hsp sp="0.25"/>μm for analysis of soluble COD (SCOD), soluble protein, soluble polysaccharide and VFAs. TSS, VSS and SCOD were determined according to Standard Methods for the Examination of Water and Wastewater (<ce:cross-ref refid="b0005" id="c0080">APHA., 1998</ce:cross-ref>). Proteins were measured with Lowry’s method using bovine serum albumin as a standard solution (<ce:cross-ref refid="b0045" id="c0085">Fr et al., 1995</ce:cross-ref>). Polysaccharide was measured with phenol–sulfuric acid method using glucose as a standard solution (<ce:cross-ref refid="b0115" id="c0090">Masuko et al., 2005</ce:cross-ref>). The equivalent relationships between COD and substrates were as follows: 1.5<ce:hsp sp="0.25"/>g-COD/g protein, 1.06<ce:hsp sp="0.25"/>g-COD/g carbohydrate, 1.07<ce:hsp sp="0.25"/>g-COD/g acetate, 1.51<ce:hsp sp="0.25"/>g-COD/g propionate, 1.82<ce:hsp sp="0.25"/>g-COD/g butyrate, and 2.04<ce:hsp sp="0.25"/>g-COD/g valerate (<ce:cross-ref refid="b0110" id="c0095">Lu et al., 2012</ce:cross-ref>). The ORP was measured using an ORP combination glass-body redox electrode (Sartorius PY-R01, Germany). The components of biogas (including methane, hydrogen and carbon dioxide) were analyzed with a gas chromatograph (Shimadzu, GC-14C) equipped with a thermal conductivity detector and a 1.5<ce:hsp sp="0.25"/>m stainless-steel column (Molecular Sieve, 80/100 mesh). The temperatures of injector, detector and column were kept at 100<ce:hsp sp="0.25"/>°C, 105<ce:hsp sp="0.25"/>°C and 60<ce:hsp sp="0.25"/>°C according to <ce:cross-ref refid="b0165" id="c0100">Zhao and Yu (2008)</ce:cross-ref>. Nitrogen was used as the carrier gas at a flow rate of 30<ce:hsp sp="0.25"/>ml/min. VFAs (acetate, propionate, butyrate and valerate) were measured in another gas chromatograph (Shimadzu, GC2010) with GC-flame ionization detector, FID (Shimadzu, Model 14B) and a 30<ce:hsp sp="0.25"/>m<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>0.25<ce:hsp sp="0.25"/>mm<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>0.25<ce:hsp sp="0.25"/>μm fused-silica capillary column (DB-FFAP). The operating temperatures for the injection port and the FID were 170<ce:hsp sp="0.25"/>°C. The temperature in the oven was gradually increased from 100 to 130<ce:hsp sp="0.25"/>°C at a rate of 5<ce:hsp sp="0.25"/>°C/min according to <ce:cross-ref refid="b0035" id="c0105">Fan et al. (2006)</ce:cross-ref>.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0035" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="st035">Results and discussion</ce:section-title>
+                  <ce:section id="s0040" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title id="st040">Effects of ZVI on methane production from heat-pretreated sludge</ce:section-title>
+                     <ce:section id="s0045" view="all">
+                        <ce:label>3.1.1</ce:label>
+                        <ce:section-title id="st045">Biogas production</ce:section-title>
+                        <ce:para id="p0045" view="all">It was reported that heat pretreatment could ruptures the cell wall and cell membranes of bacteria in the waste sludge (<ce:cross-ref refid="b0020" id="c0110">Carrère et al., 2010</ce:cross-ref>). It caused the complex organic molecules such as proteins, carbohydrates, lipids and nucleic acids to be released from the cells and be broken down. On the other hand, the heat treatment of sludge inactivated methanogenic microorganisms, but had little effect on spore-forming anaerobic bacteria in the hydrolysis–acidification process (<ce:cross-ref refid="b0090" id="c0115">Lay and Fan, 2003</ce:cross-ref>). The biogas of the sludge after the heat treatment is recorded in <ce:cross-ref refid="f0005" id="c0120">Fig. 1</ce:cross-ref>
+                           <ce:float-anchor refid="f0005"/>. From <ce:cross-ref refid="f0005" id="c0125">Fig. 1</ce:cross-ref>a, the methane production increased with the increase of ZVI dosage. For the control group (without ZVI added), there was little methane generated in the first 13<ce:hsp sp="0.25"/>days, and then the methane production increased over the fermentation time. This meant that the methanogenic activity was quite low after the heat pretreatment, and its activity was not recovered in a short period. At the ZVI dosage of 1<ce:hsp sp="0.25"/>g/L, there was a little increase in the methane production. When further increasing the ZVI dosage, the increment of the methane production was more obvious. For 10<ce:hsp sp="0.25"/>g/L of ZVI, the methane production was observed in the initial fourth day. This result indicated that the ZVI accelerated the recovery of the methanogenic activity which was suppressed by the heat pretreatment. After 20<ce:hsp sp="0.25"/>d, at ZVI of 0, 1, 2, 5 and 10<ce:hsp sp="0.25"/>g/L, the cumulative methane production was 201.5, 215.4, 259.5, 301.7 and 385.9<ce:hsp sp="0.25"/>mL, respectively, or 155.0, 165, 199.6, 232 and 296.8<ce:hsp sp="0.25"/>mL/g-VSS, respectively. In other words, the methane productivity at the dosage of 10<ce:hsp sp="0.25"/>g/L increased by 91.5% compared to the no-ZVI dosage. The methane production at 10<ce:hsp sp="0.25"/>g ZVI approached to references (<ce:cross-ref refid="b0060" id="c0130">Heo et al., 2003</ce:cross-ref>). From <ce:cross-ref refid="f0005" id="c0135">Fig. 1</ce:cross-ref>b, when increasing ZVI from 0 to 10<ce:hsp sp="0.25"/>g/L, the CO<ce:inf loc="post">2</ce:inf> production rose from 129.9 to 188.5<ce:hsp sp="0.25"/>mL. It was because CO<ce:inf loc="post">2</ce:inf> was a byproduct of the anaerobic digestion and higher CO<ce:inf loc="post">2</ce:inf> indicated more substrates were mineralized. This result was in agreement with the methane production. Also, the percentage of methane in the biogas increased significantly with the addition of ZVI (data no shown). At day 14, the methane percentage in the control reactor was only 11.4%, whereas this percentage reached 25.9%, 48.4%, 52.5% and 57.2% for ZVI of 1, 2, 5 and 10<ce:hsp sp="0.25"/>g/L. Although the methanogenic activity was recovered over time in the control reactor, the concentration of methane was still lower than the reactor with ZVI (58.4% for the control and 64% for 10<ce:hsp sp="0.25"/>g/L ZVI at day 20).</ce:para>
+                     </ce:section>
+                     <ce:section id="s0050" view="all">
+                        <ce:label>3.1.2</ce:label>
+                        <ce:section-title id="st050">VFA production</ce:section-title>
+                        <ce:para id="p0050" view="all">Sludge acidification is the result that the soluble organics with low molecular weight were decomposed by acidogenic bacteria. As the main products in the acidification of sludge, VFA would be consumed by methanogens. Thus, the methanogenic activity could also be evaluated by the content of VFA in the digesters (<ce:cross-ref refid="b0010" id="c0140">Ahring et al., 1995</ce:cross-ref>). As shown in <ce:cross-ref refid="f0010" id="c0145">Fig. 2</ce:cross-ref>
+                           <ce:float-anchor refid="f0010"/>a, the initial concentration of VFA was 351 COD-mg/L, and then increased rapidly. After 8-day fermentation, the production of VFA reached the maximum for all groups and their concentrations were as follows: the control group (2339.4<ce:hsp sp="0.25"/>mg-COD/L)<ce:hsp sp="0.25"/>&gt;<ce:hsp sp="0.25"/>1<ce:hsp sp="0.25"/>g/L (2080.0)<ce:hsp sp="0.25"/>&gt;<ce:hsp sp="0.25"/>2<ce:hsp sp="0.25"/>g/L (1555.3)<ce:hsp sp="0.25"/>&gt;<ce:hsp sp="0.25"/>5<ce:hsp sp="0.25"/>g/L (1405.2)<ce:hsp sp="0.25"/>≈<ce:hsp sp="0.25"/>10<ce:hsp sp="0.25"/>g/L (1461.1). At 20<ce:hsp sp="0.25"/>d, the VFA concentration decreased, and almost the same order of ZVI dosage was observed, i.e., the control (805.4<ce:hsp sp="0.25"/>mg-COD/L)<ce:hsp sp="0.25"/>&gt;<ce:hsp sp="0.25"/>1<ce:hsp sp="0.25"/>g/L (696.4)<ce:hsp sp="0.25"/>&gt;<ce:hsp sp="0.25"/>2<ce:hsp sp="0.25"/>g/L (295.9)<ce:hsp sp="0.25"/>≈<ce:hsp sp="0.25"/>5<ce:hsp sp="0.25"/>g/L (318.7)<ce:hsp sp="0.25"/>&gt;<ce:hsp sp="0.25"/>10<ce:hsp sp="0.25"/>g/L (262.1). The cumulative VFA yield in the control reactor was higher than the other groups during the whole digestion, in agreement with the low methanogenic activity.</ce:para>
+                        <ce:para id="p0055" view="all">The concentration and percentage of individual VFA after 20<ce:hsp sp="0.25"/>day fermentation are shown in <ce:cross-ref refid="t0010" id="c0150">Table 2</ce:cross-ref>
+                           <ce:float-anchor refid="t0010"/>. The VFA produced from waste sludge mainly included acetate, propionate, butyrate and valerate. After the fermentation, acetate was the most prevalent VFA for all groups, accounting for 30–45%. The concentration of acetate was 379.2, 311.4, 103.0, 90.8 and 78.6<ce:hsp sp="0.25"/>mg-COD/L for 0, 1, 2, 5 and 10<ce:hsp sp="0.25"/>g/L of ZVI, respectively. It is well-known that acetate was degraded into CH<ce:inf loc="post">4</ce:inf> and CO<ce:inf loc="post">2</ce:inf> directly by methanogens, resulting in the acetate decrease. This result indicated that the addition of ZVI enhanced the methanogenic activity and accelerated the consumption of VFA.</ce:para>
+                        <ce:para id="p0060" view="all">SCOD, as the production of the hydrolysis and acidification, mainly included soluble protein, soluble polysaccharide and VFA. Generally, SCOD increased in the beginning of the fermentation. Afterwards, SCOD would decrease when they were decomposed to VFA and further mineralized to CH<ce:inf loc="post">4</ce:inf> and CO<ce:inf loc="post">2</ce:inf>. <ce:cross-ref refid="f0010" id="c0155">Fig. 2</ce:cross-ref>b shows the changes of SCOD during the digestion. With the increase of ZVI dosage, the SCOD decreased, which was in accordance with the enhancement of methanogenesis by ZVI.</ce:para>
+                        <ce:para id="p0065" view="all">Previous study proved that the addition of ZVI enhanced the formation of VFA, especially the formation of acetate (<ce:cross-ref refid="b0040" id="c0160">Feng et al., 2013</ce:cross-ref>). It was because ZVI could maintain ORP at a relatively lower ORP level to enhance the acetic-type fermentation and weaken the propionic-type fermentation (<ce:cross-ref refid="b0120" id="c0165">Meng et al., 2013</ce:cross-ref>). On the other hand, the addition of ZVI promoted a number of key enzymes activities in the acetogenesis process (<ce:cross-ref refid="b0040" id="c0170">Feng et al., 2013</ce:cross-ref>). In this study, an opposite phenomenon was observed that the concentration of acetate was decreased with the increase of ZVI dosage. The reason might be attributed to the enrichment of acetoclastic methanogens. In anaerobic digestion process, methanogenic archaea are generally divided into two main groups based on their available substrates (<ce:cross-ref refid="b0070" id="c0175">Karri et al., 2006</ce:cross-ref>), i.e., acetoclastic methanogenes responsible for conversion of acetate into CH<ce:inf loc="post">4</ce:inf> and hydrogenotrophic methanogenes capable of converting H<ce:inf loc="post">2</ce:inf>/CO<ce:inf loc="post">2</ce:inf> into CH<ce:inf loc="post">4</ce:inf>. Among them, acetoclastic methanogenes have a major role in CH<ce:inf loc="post">4</ce:inf> production (approximately 70% of CH<ce:inf loc="post">4</ce:inf> is formed from acetate) (<ce:cross-ref refid="b0075" id="c0180">Koster et al., 1986</ce:cross-ref>). This result was in agreement with the report by <ce:cross-ref refid="b0145" id="c0185">Yang et al. (2013)</ce:cross-ref>, who found that the addition of nano-ZVI enhanced the population of acetoclastic methanogens.</ce:para>
+                     </ce:section>
+                     <ce:section id="s0055" view="all">
+                        <ce:label>3.1.3</ce:label>
+                        <ce:section-title id="st055">Sludge reduction</ce:section-title>
+                        <ce:para id="p0070" view="all">Sludge reduction was another parameter to evaluate the performance of anaerobic digestion. Most of organic matters from the sludge were decomposed and even mineralized after anaerobic digestion. VSS and TCOD are frequently used to characterize the sludge reduction rate. From <ce:cross-ref refid="f0015" id="c0190">Fig. 3</ce:cross-ref>
+                           <ce:float-anchor refid="f0015"/>, the VSS and TCOD after the fermentation decreased with the increase of ZVI dosage. The concentration of VSS was 6497<ce:hsp sp="0.25"/>mg/L before the digestion, and after the digestion its contents decreased to 4562, 4374, 4178, 3870 and 3743<ce:hsp sp="0.25"/>mg/L at the ZVI of 0, 1, 2, 5 and 10<ce:hsp sp="0.25"/>g/L, respectively. It indicated that the sludge reduction increased from 29.8% to 42.4% as increasing ZVI from 0 to 10<ce:hsp sp="0.25"/>g/L. After the digestion, the TCOD in the sludge decreased correspondingly. As increasing ZVI from 0 to 10<ce:hsp sp="0.25"/>g/L, the concentration of TCOD decreased from 8300 to 6796<ce:hsp sp="0.25"/>mg/L, and the removal ratio increased from 22.6% to 37.0%.</ce:para>
+                     </ce:section>
+                  </ce:section>
+                  <ce:section id="s0060" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title id="st060">Influence of ZVI on methane production under alkali condition</ce:section-title>
+                     <ce:para id="p0075" view="all">It was reported that most methanogens could only grow at a narrow pH range from 6.8 to 7.2. Alkali or acidic pH significantly suppressed the activity of methanogens (<ce:cross-ref refid="b0155" id="c0195">Zhang et al., 2013</ce:cross-ref>). The methanogenic activity was investigated under alkali condition (pH 10) with the addition of ZVI in this study. The total biogas production during fermentation is shown in <ce:cross-ref refid="f0020" id="c0200">Fig. 4</ce:cross-ref>
+                        <ce:float-anchor refid="f0020"/>a. For the control group (no ZVI added), hydrogen was the main compound in the biogas, accounting for 78.2% of the biogas (<ce:cross-ref refid="f0020" id="c0205">Fig. 4</ce:cross-ref>b). As an intermediate in anaerobic digestion, hydrogen would be accumulated when the hydrogen consumers (mainly methanogens) were inhibited. This indicated that the methanogenic activity was very low for the control group. Also, the solubility of CO<ce:inf loc="post">2</ce:inf> would increase under pH 10 which might decrease the concentration of CO<ce:inf loc="post">2</ce:inf> in the biogas. This result was in agreement with the report of <ce:cross-ref refid="b0170" id="c0210">Zhao et al. (2010)</ce:cross-ref>, who found the yield of hydrogen increased significantly under pH 10 (yield about 27<ce:hsp sp="0.25"/>mL/g-VSS). With the increase of ZVI dosage from 0 to 10<ce:hsp sp="0.25"/>g/L, the hydrogen production decreased and the methane production increased. For 0, 1, 5 and 10<ce:hsp sp="0.25"/>g/L of ZVI the hydrogen yield was 27.6, 28.3, 23.7 and 18.8<ce:hsp sp="0.25"/>mL, accounting for 78.2%, 76.0%, 53.0% and 28.9% of total biogas, respectively. The methane yield was 1.9, 2.6, 13.1 and 32.2<ce:hsp sp="0.25"/>mL for 0, 1, 5 and 10<ce:hsp sp="0.25"/>g/L of ZVI, respectively. It suggested that ZVI enhanced the methanogenic activity under the alkali condition.</ce:para>
+                     <ce:para id="p0080" view="all">H<ce:inf loc="post">2</ce:inf> concentration is considered as an indicative parameter to evaluate anaerobic digester performance. The decrease of hydrogen concentration and increment of methane concentration were the results from the acceleration of CO<ce:inf loc="post">2</ce:inf> utilization by hydrogen-utilizing microorganisms according to the reaction <ce:cross-refs refid="e0005 e0010" id="r0020">(1) and (2)</ce:cross-refs>.<ce:display>
+                           <ce:formula id="e0005">
+                              <ce:label>(1)</ce:label>
+                              <mml:math altimg="si1.gif" overflow="scroll">
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mtext>CO</mml:mtext>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mn>2</mml:mn>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>+</mml:mo>
+                                 <mml:mn>4</mml:mn>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mtext>H</mml:mtext>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mn>2</mml:mn>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mtext>CH</mml:mtext>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mn>4</mml:mn>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>+</mml:mo>
+                                 <mml:mn>2</mml:mn>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mtext>H</mml:mtext>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mn>2</mml:mn>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mtext>O</mml:mtext>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>
+                        <ce:display>
+                           <ce:formula id="e0010">
+                              <ce:label>(2)</ce:label>
+                              <mml:math altimg="si2.gif" overflow="scroll">
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mtext>CO</mml:mtext>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mn>2</mml:mn>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>+</mml:mo>
+                                 <mml:mn>4</mml:mn>
+                                 <mml:msup>
+                                    <mml:mrow>
+                                       <mml:mtext>Fe</mml:mtext>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mn>0</mml:mn>
+                                    </mml:mrow>
+                                 </mml:msup>
+                                 <mml:mo>+</mml:mo>
+                                 <mml:mn>8</mml:mn>
+                                 <mml:msup>
+                                    <mml:mrow>
+                                       <mml:mtext>H</mml:mtext>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mo>+</mml:mo>
+                                    </mml:mrow>
+                                 </mml:msup>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mtext>CH</mml:mtext>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mn>4</mml:mn>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>+</mml:mo>
+                                 <mml:mn>4</mml:mn>
+                                 <mml:msup>
+                                    <mml:mrow>
+                                       <mml:mtext>Fe</mml:mtext>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mn>2</mml:mn>
+                                       <mml:mo>+</mml:mo>
+                                    </mml:mrow>
+                                 </mml:msup>
+                                 <mml:mo>+</mml:mo>
+                                 <mml:mn>2</mml:mn>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mtext>H</mml:mtext>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mn>2</mml:mn>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mtext>O</mml:mtext>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>
+                     </ce:para>
+                     <ce:para id="p0120" view="all">The reaction <ce:cross-ref refid="e0005" id="c0245">(1)</ce:cross-ref> was one of main pathways for the methane generation driven by hydrogenotrophic methanogens, accounting for about 30–40% of the total methane production (<ce:cross-ref refid="b0080" id="c0215">Kotsyurbenko et al., 2004</ce:cross-ref>). In this process, hydrogen played a predominant role to serve as the electron carrier between acidification bacteria and hydrogenotrophic methanogens. The lack of hydrogenotrophic methanogens would result in the accumulation of hydrogen to impede the decomposition of organic acids because hydrogen was considered as a thermodynamically unfavorable intermediate (<ce:cross-refs refid="b0140 b0050" id="r0015">Siriwongrungson et al., 2007; Fukuzaki et al., 1990</ce:cross-refs>). <ce:cross-ref refid="b0135" id="c0220">Schmidt and Ahring (1993)</ce:cross-ref> reported that the addition of H<ce:inf loc="post">2</ce:inf>-utilizing methanogenes into disintegrating granules increased the degradation rate of both propionate and butyrate. Accordingly, the enrichment of hydrogenotrophic methanogens would enhance the degradation efficiency of intermediate VFA in an anaerobic system. It was also proved that the ZVI could directly serve as an electron donor for hydrogenotrophic methanogens to enhance the growth of hydrogenotrophic methanogens according to the reaction <ce:cross-ref refid="e0010" id="c0250">(2)</ce:cross-ref> (<ce:cross-ref refid="b0025" id="c0225">Daniels et al., 1987</ce:cross-ref>). It might decrease the partial pressure of hydrogen to drive the anaerobic digestion especially methanogenesis to process.</ce:para>
+                     <ce:para id="p0085" view="all">It was reported that the waste sludge fermentation under alkali condition enhanced the hydrolysis–acidification of sludge (<ce:cross-ref refid="b0150" id="c0230">Yuan et al., 2006</ce:cross-ref>). However, the drawback of this process was low-rate methanogenic activity, impeding the complete mineralization of organic matters. To address this drawback, <ce:cross-ref refid="b0160" id="c0235">Zhang et al. (2010)</ce:cross-ref> proposed a second fermentation using the alkali–fermented sludge with pH adjustment and methanogens addition. Although a high methane yield was achieved, the complex operation and additional chemicals addition made it difficult to be established in the full-scale application. A better strategy perhaps was that both hydrolysis–acidification and methanogenesis were enhanced simultaneously under the alkali condition. <ce:cross-ref refid="f0025" id="c0240">Fig. 5</ce:cross-ref>
+                        <ce:float-anchor refid="f0025"/> shows the VSS concentration and reduction ratio after the fermentation. The enhancement of hydrolysis–acidification of sludge under the alkali condition was significant. The VSS removal ratio of the control group was 44.4%. As increasing ZVI from 0 to 10<ce:hsp sp="0.25"/>g/L, the concentration of VSS decreased from 5.02 to 3.56<ce:hsp sp="0.25"/>g/L, and the removal ratio increased from 44.4% to 60.06%. These results indicated that addition of ZVI could decrease the alkali inhibition on the methane production to accelerate sludge digestion.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0065" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="st065">Conclusion</ce:section-title>
+                  <ce:para id="p0090" view="all">The methanogens was sensitive to the environment, and the variation of environment factors generally made against methanogenesis and thus reduced the methane yield in anaerobic sludge digestion. In this study, the addition of ZVI into anaerobic sludge digester could efficiently recover the methanogenic activity suppressed by heat-pretreatment and alkali condition, respectively. ZVI shortened the lag time of methane production, and increase the methane yield by 91.5%. The decomposition of acetate and hydrogen were accelerated by ZVI, indicating that the acetoclastic methanogenesis and H<ce:inf loc="post">2</ce:inf>-utilizing methanogenesis were enhanced. Also the VSS removal increased from 44.4% to 60.06% after the digestion at pH 10. This study suggested that ZVI could efficiently enhance methanogenenesis to improve the anaerobic sludge digestion even if methanogens were removed or totally inhibited in the pretreatment. Possibly, ZVI made the sludge digestion directly proceed with no need of adding seed sludge after the heat or alkali pretreatment, which not only might decrease the operating cost, but also could save a considerable digester space to have a higher sludge treatment load.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ak005" view="all">
+               <ce:section-title id="st085">Acknowledgment</ce:section-title>
+               <ce:para id="p0115" view="all">The authors acknowledge the financial support from the <ce:grant-sponsor xlink:type="simple" id="gp005" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">National Natural Scientific Foundation of China</ce:grant-sponsor> (<ce:grant-number refid="gp005">51378087</ce:grant-number>, <ce:grant-number refid="gp005">21177015</ce:grant-number>).</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bi0005" view="all">
+               <ce:section-title id="st090">References</ce:section-title>
+               <ce:bibliography-sec id="bs0005" view="all">
+                  <ce:bib-reference id="b0010">
+                     <ce:label>Ahring et al., 1995</ce:label>
+                     <sb:reference id="h0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.K.</ce:given-name>
+                                 <ce:surname>Ahring</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Sandberg</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Angelidaki</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Volatile fatty acids as indicators of process imbalance in anaerobic digestors</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Microbiol. Biotechnol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>43</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1995</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>559</sb:first-page>
+                              <sb:last-page>565</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0005">
+                     <ce:label>APHA, 1998</ce:label>
+                     <ce:other-ref id="h0005">
+                        <ce:textref>A.P.H.A., 1998. Standard Methods for the Examination of Water and Wastewater.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0015">
+                     <ce:label>Appels et al., 2010</ce:label>
+                     <sb:reference id="h0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Appels</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Degrève</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Van der Bruggen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Van Impe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Dewil</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Influence of low temperature thermal pre-treatment on sludge solubilisation, heavy metal release and anaerobic digestion</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>101</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5743</sb:first-page>
+                              <sb:last-page>5748</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0020">
+                     <ce:label>Carrère et al., 2010</ce:label>
+                     <sb:reference id="h0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Carrère</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Dumas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Battimelli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Batstone</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Delgenes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Steyer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Ferrer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Pretreatment methods to improve sludge anaerobic degradability: a review</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Hazard. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>183</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>15</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0025">
+                     <ce:label>Daniels et al., 1987</ce:label>
+                     <sb:reference id="h0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Daniels</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Belay</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.S.</ce:given-name>
+                                 <ce:surname>Rajagopal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.J.</ce:given-name>
+                                 <ce:surname>Weimer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Bacterial methanogenesis and growth from CO<ce:inf loc="post">2</ce:inf> with elemental iron as the sole source of electrons</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Science</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>237</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>509</sb:first-page>
+                              <sb:last-page>511</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0030">
+                     <ce:label>Dunfield et al., 1993</ce:label>
+                     <sb:reference id="h0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Dunfield</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Dumont</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.R.</ce:given-name>
+                                 <ce:surname>Moore</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Methane production and consumption in temperate and subarctic peat soils: response to temperature and pH</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Soil Biol. Biochem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1993</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>321</sb:first-page>
+                              <sb:last-page>326</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0035">
+                     <ce:label>Fan et al., 2006</ce:label>
+                     <sb:reference id="h0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.S.</ce:given-name>
+                                 <ce:surname>Fan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.r.</ce:given-name>
+                                 <ce:surname>Kan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.j.</ce:given-name>
+                                 <ce:surname>Lay</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of hydraulic retention time on anaerobic hydrogenesis in CSTR</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>97</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>84</sb:first-page>
+                              <sb:last-page>89</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0040">
+                     <ce:label>Feng et al., 2013</ce:label>
+                     <sb:reference id="h0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Feng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Quan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Enhanced anaerobic digestion of waste activated sludge digestion by the addition of zero valent iron</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>51</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>242</sb:first-page>
+                              <sb:last-page>250</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0045">
+                     <ce:label>Fr et al., 1995</ce:label>
+                     <sb:reference id="h0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Fr</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Griebe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Nielsen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Enzymatic activity in the activated-sludge floc matrix</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Microbiol. Biotechnol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>43</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1995</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>755</sb:first-page>
+                              <sb:last-page>761</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0050">
+                     <ce:label>Fukuzaki et al., 1990</ce:label>
+                     <sb:reference id="h0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Fukuzaki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Nishio</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Shobayashi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Nagai</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Inhibition of the fermentation of propionate to methane by hydrogen, acetate, and propionate</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Environ. Microbiol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>56</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>719</sb:first-page>
+                              <sb:last-page>723</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0055">
+                     <ce:label>Gallert and Winter, 1997</ce:label>
+                     <sb:reference id="h0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Gallert</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Winter</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mesophilic and thermophilic anaerobic digestion of source-sorted organic wastes: effect of ammonia on glucose degradation and methane production</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Microbiol. Biotechnol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>48</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>405</sb:first-page>
+                              <sb:last-page>410</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0060">
+                     <ce:label>Heo et al., 2003</ce:label>
+                     <sb:reference id="h0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Heo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Kang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Solubilization of waste activated sludge by alkaline pretreatment and biochemical methane potential (BMP) tests for anaerobic co-digestion of municipal organic waste</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>48</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>8</sb:issue-nr>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>211</sb:first-page>
+                              <sb:last-page>219</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0065">
+                     <ce:label>Jiang et al., 2011</ce:label>
+                     <sb:reference id="h0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Lv</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Du</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Pan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nitrate reduction using nanosized zero-valent iron supported by polystyrene resins: role of surface functional groups</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>45</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2191</sb:first-page>
+                              <sb:last-page>2198</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0070">
+                     <ce:label>Karri et al., 2006</ce:label>
+                     <sb:reference id="h0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Karri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Sierra-Alvarez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Field</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Toxicity of copper to acetoclastic and hydrogenotrophic activities of methanogens and sulfate reducers in anaerobic sludge</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chemosphere</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>62</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>121</sb:first-page>
+                              <sb:last-page>127</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0075">
+                     <ce:label>Koster et al., 1986</ce:label>
+                     <sb:reference id="h0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Koster</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Rinzema</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>De Vegt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Lettinga</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Sulfide inhibition of the methanogenic activity of granular sludge at various pH-levels</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>20</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1561</sb:first-page>
+                              <sb:last-page>1567</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0080">
+                     <ce:label>Kotsyurbenko et al., 2004</ce:label>
+                     <sb:reference id="h0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>O.R.</ce:given-name>
+                                 <ce:surname>Kotsyurbenko</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.J.</ce:given-name>
+                                 <ce:surname>Chin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.V.</ce:given-name>
+                                 <ce:surname>Glagolev</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Stubner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.V.</ce:given-name>
+                                 <ce:surname>Simankova</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.N.</ce:given-name>
+                                 <ce:surname>Nozhevnikova</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Conrad</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Acetoclastic and hydrogenotrophic methane production and methanogenic populations in an acidic West-Siberian peat bog</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Environ. Microbiol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1159</sb:first-page>
+                              <sb:last-page>1173</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0085">
+                     <ce:label>Lagerkvist and Morgan, 2012</ce:label>
+                     <sb:reference id="h0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Lagerkvist</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.F.</ce:given-name>
+                                 <ce:surname>Morgan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The effects of substrate pre-treatment on anaerobic digestion systems: a review</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Waste Manage.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>32</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1634</sb:first-page>
+                              <sb:last-page>1650</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0090">
+                     <ce:label>Lay and Fan, 2003</ce:label>
+                     <sb:reference id="h0090">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.-J.</ce:given-name>
+                                 <ce:surname>Lay</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.S.</ce:given-name>
+                                 <ce:surname>Fan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Influence of chemical nature of organic wastes on their conversion to hydrogen by heat-shock digested sludge</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Hydrogen Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>28</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1361</sb:first-page>
+                              <sb:last-page>1367</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0095">
+                     <ce:label>Lee and Han, 2013</ce:label>
+                     <sb:reference id="h0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.I.</ce:given-name>
+                                 <ce:surname>Han</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The effects of waste-activated sludge pretreatment using hydrodynamic cavitation for methane production</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ultrason. Sonochem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>20</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1450</sb:first-page>
+                              <sb:last-page>1455</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0100">
+                     <ce:label>Li et al., 2012</ce:label>
+                     <sb:reference id="h0100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Zou</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Optimized alkaline pretreatment of sludge before anaerobic digestion</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>123</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>189</sb:first-page>
+                              <sb:last-page>194</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0105">
+                     <ce:label>Liu et al., 2012</ce:label>
+                     <sb:reference id="h0105">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Quan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Meng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Optimization of anaerobic acidogenesis by adding Fe<ce:sup loc="post">0</ce:sup> powder to enhance anaerobic wastewater treatment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Eng. J.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>192</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>179</sb:first-page>
+                              <sb:last-page>185</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0110">
+                     <ce:label>Lu et al., 2012</ce:label>
+                     <sb:reference id="h0110">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Xing</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Ren</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Enhanced hydrogen production from waste activated sludge by cascade utilization of organic matter in microbial electrolysis cells</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>46</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1015</sb:first-page>
+                              <sb:last-page>1026</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0115">
+                     <ce:label>Masuko et al., 2005</ce:label>
+                     <sb:reference id="h0115">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Masuko</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Minami</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Iwasaki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Majima</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.I.</ce:given-name>
+                                 <ce:surname>Nishimura</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.C.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Carbohydrate analysis by a phenol–sulfuric acid method in microplate format</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anal. Biochem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>339</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>69</sb:first-page>
+                              <sb:last-page>72</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0120">
+                     <ce:label>Meng et al., 2013</ce:label>
+                     <sb:reference id="h0120">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Meng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Quan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Adding Fe<ce:sup loc="post">0</ce:sup> powder to enhance the anaerobic conversion of propionate to acetate</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biochem. Eng. J.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>73</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>80</sb:first-page>
+                              <sb:last-page>85</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0125">
+                     <ce:label>Oh et al., 2003</ce:label>
+                     <sb:reference id="h0125">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.-E.</ce:given-name>
+                                 <ce:surname>Oh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Van Ginkel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.E.</ce:given-name>
+                                 <ce:surname>Logan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The relative effectiveness of pH control and heat treatment for enhancing biohydrogen gas production</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Environ. Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5186</sb:first-page>
+                              <sb:last-page>5190</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0130">
+                     <ce:label>Rani et al., 2012</ce:label>
+                     <sb:reference id="h0130">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.U.</ce:given-name>
+                                 <ce:surname>Rani</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Kaliappan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.A.</ce:given-name>
+                                 <ce:surname>Kumar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Banu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Combined treatment of alkaline and disperser for improving solubilization and anaerobic biodegradability of dairy waste activated sludge</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>126</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>107</sb:first-page>
+                              <sb:last-page>116</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0135">
+                     <ce:label>Schmidt and Ahring, 1993</ce:label>
+                     <sb:reference id="h0135">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.E.</ce:given-name>
+                                 <ce:surname>Schmidt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.K.</ce:given-name>
+                                 <ce:surname>Ahring</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effects of hydrogen and formate on the degradation of propionate and butyrate in thermophilic granules from an upflow anaerobic sludge blanket reactor</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Environ. Microbiol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>59</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1993</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2546</sb:first-page>
+                              <sb:last-page>2551</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0140">
+                     <ce:label>Siriwongrungson et al., 2007</ce:label>
+                     <sb:reference id="h0140">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Siriwongrungson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Zeng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Angelidaki</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Homoacetogenesis as the alternative pathway for H<ce:inf loc="post">2</ce:inf> sink during thermophilic anaerobic degradation of butyrate under suppressed methanogenesis</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>41</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4204</sb:first-page>
+                              <sb:last-page>4210</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0145">
+                     <ce:label>Yang et al., 2013</ce:label>
+                     <sb:reference id="h0145">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Impact of nano zero valent iron (NZVI) on methanogenic activity and population dynamics in anaerobic digestion</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>47</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6790</sb:first-page>
+                              <sb:last-page>6800</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0150">
+                     <ce:label>Yuan et al., 2006</ce:label>
+                     <sb:reference id="h0150">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Yuan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Jiang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Gu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Improved bioproduction of short-chain fatty acids (SCFAs) from excess sludge under alkaline conditions</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Environ. Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>40</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2025</sb:first-page>
+                              <sb:last-page>2029</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0160">
+                     <ce:label>Zhang et al., 2010</ce:label>
+                     <sb:reference id="h0160">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>New sludge pretreatment method to improve methane production in waste activated sludge digestion</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Environ. Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>44</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4802</sb:first-page>
+                              <sb:last-page>4808</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0155">
+                     <ce:label>Zhang et al., 2013</ce:label>
+                     <sb:reference id="h0155">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Su</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Tan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Batch and semi-continuous anaerobic digestion of food waste in a dual solid–liquid system</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>145</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>10</sb:first-page>
+                              <sb:last-page>16</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0165">
+                     <ce:label>Zhao and Yu, 2008</ce:label>
+                     <sb:reference id="h0165">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Q.B.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.Q.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Fermentative H<ce:inf loc="post">2</ce:inf> production in an upflow anaerobic sludge blanket reactor at various pH values</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>99</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1353</sb:first-page>
+                              <sb:last-page>1358</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0170">
+                     <ce:label>Zhao et al., 2010</ce:label>
+                     <sb:reference id="h0170">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Waste activated sludge fermentation for hydrogen production enhanced by anaerobic process improvement and acetobacteria inhibition: the role of fermentation pH</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Environ. Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>44</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3317</sb:first-page>
+                              <sb:last-page>3323</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

@@ -1,0 +1,2297 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S1369703X09001478</prism:url><dc:identifier>doi:10.1016/j.bej.2009.05.003</dc:identifier><eid>1-s2.0-S1369703X09001478</eid><prism:doi>10.1016/j.bej.2009.05.003</prism:doi><pii>S1369-703X(09)00147-8</pii><dc:title>Kinetics of thermophilic batch anaerobic digestion of thermal hydrolysed waste activated sludge </dc:title><prism:publicationName>Biochemical Engineering Journal</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>1369703X</prism:issn><prism:volume>46</prism:volume><prism:issueIdentifier>2</prism:issueIdentifier><prism:startingPage>169</prism:startingPage><prism:endingPage>175</prism:endingPage><prism:pageRange>169-175</prism:pageRange><prism:number>2</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2009-10-01</prism:coverDate><prism:coverDisplayDate>1 October 2009</prism:coverDisplayDate><prism:copyright>Copyright © 2009 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Mottet, A.</dc:creator><dc:creator>Steyer, J.P.</dc:creator><dc:creator>Déléris, S.</dc:creator><dc:creator>Vedrenne, F.</dc:creator><dc:creator>Chauzy, J.</dc:creator><dc:creator>Carrère, H.</dc:creator><dc:description>
+                  Enhancing waste activated sludge (WAS) anaerobic digestion by thermal pretreatment has become of high interest. However, thermal treatment has been mainly combined to mesophilic anaerobic digestion. This paper presents the combination of sludge thermal pretreatment (110, 165 and 220°C) and batch thermophilic anaerobic digestion (55°C). Optimal conditions of thermal pretreatment were shown to be 165°C, involving a chemical oxygen demand (COD) and volatile solids (VS) solubilisation of 18 and 15% and a biodegradability increase from 47 to 61%. Treatments at 165°C were carried out in electric and steam modes and no significant difference on the impact of heating mode on sludge anaerobic biodegradability was observed. Moreover, it may be recommended not to carry out successive batch experiments to assess thermophilic BMP of sludge as accumulation of volatile fatty acids (VFA), particularly propionate, and a decrease of VFA uptake rates may occur. However, thermal pretreatment at 165°C allowed the decrease of propionate accumulation and an higher methane production.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Anaerobic digestion</dcterms:subject><dcterms:subject>Sludge management</dcterms:subject><dcterms:subject>Thermal pretreatment</dcterms:subject><dcterms:subject>Methane potential</dcterms:subject><dcterms:subject>Volatile fatty acids</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S1369703X09001478" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S1369703X09001478" rel="scidir"/></coredata><objects><object ref="si9" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="46" height="15" size="250">https://api.elsevier.com/content/object/eid/1-s2.0-S1369703X09001478-si9.gif?httpAccept=%2A%2F%2A</object><object ref="si8" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="46" height="15" size="250">https://api.elsevier.com/content/object/eid/1-s2.0-S1369703X09001478-si8.gif?httpAccept=%2A%2F%2A</object><object ref="si7" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="36" height="15" size="215">https://api.elsevier.com/content/object/eid/1-s2.0-S1369703X09001478-si7.gif?httpAccept=%2A%2F%2A</object><object ref="si6" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="405" height="42" size="2141">https://api.elsevier.com/content/object/eid/1-s2.0-S1369703X09001478-si6.gif?httpAccept=%2A%2F%2A</object><object ref="si5" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="46" height="15" size="250">https://api.elsevier.com/content/object/eid/1-s2.0-S1369703X09001478-si5.gif?httpAccept=%2A%2F%2A</object><object ref="si4" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="26" height="16" size="190">https://api.elsevier.com/content/object/eid/1-s2.0-S1369703X09001478-si4.gif?httpAccept=%2A%2F%2A</object><object ref="si3" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="21" height="16" size="188">https://api.elsevier.com/content/object/eid/1-s2.0-S1369703X09001478-si3.gif?httpAccept=%2A%2F%2A</object><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="172" height="39" size="770">https://api.elsevier.com/content/object/eid/1-s2.0-S1369703X09001478-si2.gif?httpAccept=%2A%2F%2A</object><object ref="si13" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="36" height="15" size="215">https://api.elsevier.com/content/object/eid/1-s2.0-S1369703X09001478-si13.gif?httpAccept=%2A%2F%2A</object><object ref="si12" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="36" height="15" size="215">https://api.elsevier.com/content/object/eid/1-s2.0-S1369703X09001478-si12.gif?httpAccept=%2A%2F%2A</object><object ref="si11" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="36" height="15" size="215">https://api.elsevier.com/content/object/eid/1-s2.0-S1369703X09001478-si11.gif?httpAccept=%2A%2F%2A</object><object ref="si10" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="46" height="15" size="250">https://api.elsevier.com/content/object/eid/1-s2.0-S1369703X09001478-si10.gif?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="46" height="15" size="250">https://api.elsevier.com/content/object/eid/1-s2.0-S1369703X09001478-si1.gif?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="387" height="216" size="19560">https://api.elsevier.com/content/object/eid/1-s2.0-S1369703X09001478-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="122" size="6063">https://api.elsevier.com/content/object/eid/1-s2.0-S1369703X09001478-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="391" height="224" size="25032">https://api.elsevier.com/content/object/eid/1-s2.0-S1369703X09001478-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="126" size="5389">https://api.elsevier.com/content/object/eid/1-s2.0-S1369703X09001478-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="798" height="747" size="150350">https://api.elsevier.com/content/object/eid/1-s2.0-S1369703X09001478-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="175" height="164" size="6810">https://api.elsevier.com/content/object/eid/1-s2.0-S1369703X09001478-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="391" height="684" size="102656">https://api.elsevier.com/content/object/eid/1-s2.0-S1369703X09001478-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="93" height="163" size="5335">https://api.elsevier.com/content/object/eid/1-s2.0-S1369703X09001478-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="fx1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="375" height="206" size="17237">https://api.elsevier.com/content/object/eid/1-s2.0-S1369703X09001478-fx1.jpg?httpAccept=%2A%2F%2A</object><object ref="fx1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="120" size="4098">https://api.elsevier.com/content/object/eid/1-s2.0-S1369703X09001478-fx1.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>67749146974</scopus-id><scopus-eid>2-s2.0-67749146974</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/67749146974" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271428</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291808</xocs:ssid>
+         <xocs:ssid type="subj">291850</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Biochemical Engineering Journal</xocs:srctitle>
+      <xocs:normalized-srctitle>BIOCHEMICALENGINEERINGJOURNAL</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20090513">2009-05-13</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20090513">2009-05-13</xocs:available-online-date>
+      <xocs:ew-transaction-id>2010-03-28T18:28:30</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S1369703X09001478</xocs:eid>
+      <xocs:pii-formatted>S1369-703X(09)00147-8</xocs:pii-formatted>
+      <xocs:pii-unformatted>S1369703X09001478</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.bej.2009.05.003</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S1369703X09X00100</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150515">2015-05-15T05:55:30.204224-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20091001</xocs:date-search-begin>
+      <xocs:year-nav>2009</xocs:year-nav>
+      <xocs:indexeddate epoch="1242172800">2009-05-13T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table body mmlmath affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>1369-703X</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>1369703X</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:vol-first>46</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>46</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>2</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>2</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 46, Issue 2</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>13</xocs:sort-order>
+      <xocs:first-fp>169</xocs:first-fp>
+      <xocs:last-lp>175</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>169</xocs:first-page>
+         <xocs:last-page>175</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20091001</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>1 October 2009</xocs:cover-date-text>
+      <xocs:cover-date-start>2009-10-01</xocs:cover-date-start>
+      <xocs:cover-date-year>2009</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Regular Articles</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2009 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>KINETICSTHERMOPHILICBATCHANAEROBICDIGESTIONTHERMALHYDROLYSEDWASTEACTIVATEDSLUDGE</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>MOTTET</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>A</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Materials and methods</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Waste activated sludge samples</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Thermal hydrolysis</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Determination of anaerobic degradation tests</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Analysis</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Impact of thermal pretreatment on sludge solubilisation and biodegradability</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Kinetics of batch anaerobic digestion</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="bib1">
+            <xocs:ref-normalized-surname>RULKENS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>9</xocs:ref-first-fp>
+            <xocs:ref-last-lp>15</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib2">
+            <xocs:ref-normalized-surname>PAVLOSTATHIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1519</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1530</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1992</xocs:ref-pub-year>
+            <xocs:ref-first-fp>857</xocs:ref-first-fp>
+            <xocs:ref-last-lp>866</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib4">
+            <xocs:ref-normalized-surname>KEPP</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>89</xocs:ref-first-fp>
+            <xocs:ref-last-lp>96</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>U</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib5">
+            <xocs:ref-normalized-surname>BOUGRIER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>20</xocs:ref-first-fp>
+            <xocs:ref-last-lp>27</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib6">
+            <xocs:ref-normalized-surname>CLIMENT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>335</xocs:ref-first-fp>
+            <xocs:ref-last-lp>342</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib7">
+            <xocs:ref-normalized-surname>BOUGRIER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>236</xocs:ref-first-fp>
+            <xocs:ref-last-lp>244</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib8">
+            <xocs:ref-normalized-surname>JEONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>856</xocs:ref-first-fp>
+            <xocs:ref-last-lp>863</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib9">
+            <xocs:ref-normalized-surname>DOHANYOS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>89</xocs:ref-first-fp>
+            <xocs:ref-last-lp>96</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib10">
+            <xocs:ref-normalized-surname>GAVALA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4561</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4572</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib11">
+            <xocs:ref-normalized-surname>SKIADAS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>161</xocs:ref-first-fp>
+            <xocs:ref-last-lp>166</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib12">
+            <xocs:ref-normalized-surname>FERRER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>186</xocs:ref-first-fp>
+            <xocs:ref-last-lp>192</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib13">
+            <xocs:ref-normalized-surname>CHAUZY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>255</xocs:ref-first-fp>
+            <xocs:ref-last-lp>263</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib14">
+            <xocs:ref-normalized-surname>BUFFIERE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>233</xocs:ref-first-fp>
+            <xocs:ref-last-lp>241</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib15">
+            <xocs:ref-normalized-surname>ANGELIDAKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>117</xocs:ref-first-fp>
+            <xocs:ref-last-lp>129</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib16">
+            <xocs:ref-normalized-surname>ANGELIDAKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>ANAEROBICBIODEGRADATIONACTIVITYINHIBITIONABAITASKGROUPMEETING9TH10THOCTOBER2006</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib17">
+            <xocs:ref-normalized-surname>APHAAWWAWEF</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>STANDARDMETHODSFOREXAMINATIONWATERWASTEWATER</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib18">
+            <xocs:ref-normalized-surname>LOWRY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1951</xocs:ref-pub-year>
+            <xocs:ref-first-fp>265</xocs:ref-first-fp>
+            <xocs:ref-last-lp>275</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib19">
+            <xocs:ref-normalized-surname>DREYWOOD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1946</xocs:ref-pub-year>
+            <xocs:ref-first-fp>499</xocs:ref-first-fp>
+            <xocs:ref-last-lp>504</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib20">
+            <xocs:ref-normalized-surname>MULLER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>121</xocs:ref-first-fp>
+            <xocs:ref-last-lp>128</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib21">
+            <xocs:ref-normalized-surname>STUCKEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1343</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1353</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib22">
+            <xocs:ref-normalized-surname>VAVILIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>941</xocs:ref-first-fp>
+            <xocs:ref-last-lp>953</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib23">
+            <xocs:ref-normalized-surname>SPEECE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>460</xocs:ref-first-fp>
+            <xocs:ref-last-lp>473</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib24">
+            <xocs:ref-normalized-surname>HYUN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>443</xocs:ref-first-fp>
+            <xocs:ref-last-lp>451</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib25">
+            <xocs:ref-normalized-surname>ZITOMER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>42</xocs:ref-first-fp>
+            <xocs:ref-last-lp>47</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib26">
+            <xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4369</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4385</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>MOTTETX2009X169</xocs:refkey3>
+         <xocs:refkey4lp>MOTTETX2009X169X175</xocs:refkey4lp>
+         <xocs:refkey4ai>MOTTETX2009X169XA</xocs:refkey4ai>
+         <xocs:refkey5>MOTTETX2009X169X175XA</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S1369-703X(09)00147-8</xocs:pii-formatted>
+         <xocs:pii-unformatted>S1369703X09001478</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S1369703X09001478</xocs:eid>
+         <xocs:doi>10.1016/j.bej.2009.05.003</xocs:doi>
+         <xocs:cid>271428</xocs:cid>
+         <xocs:timestamp>2010-09-23T16:36:17.478074-04:00</xocs:timestamp>
+         <xocs:cover-date-start>2009-10-01</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S1369703X09001478-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369703X09001478/MAIN/application/pdf/a83acab30315366771748536500cbd73/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1369703X09001478/MAIN/application/pdf/a83acab30315366771748536500cbd73/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>1141313</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S1369703X09001478-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369703X09001478/PREVIEW/image/png/efeae59bf8dc5cd22697dec314231bad/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1369703X09001478/PREVIEW/image/png/efeae59bf8dc5cd22697dec314231bad/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>62042</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369703X09001478-si9.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369703X09001478/STRIPIN/image/gif/1fccdd33a65b3c836a641730967fccf8/si10.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1369703X09001478/STRIPIN/image/gif/1fccdd33a65b3c836a641730967fccf8/si10.gif</xocs:ucs-locator>
+               <xocs:file-basename>si9</xocs:file-basename>
+               <xocs:filename>si9.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>250</xocs:filesize>
+               <xocs:pixel-height>15</xocs:pixel-height>
+               <xocs:pixel-width>46</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369703X09001478-si8.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369703X09001478/STRIPIN/image/gif/1fccdd33a65b3c836a641730967fccf8/si10.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1369703X09001478/STRIPIN/image/gif/1fccdd33a65b3c836a641730967fccf8/si10.gif</xocs:ucs-locator>
+               <xocs:file-basename>si8</xocs:file-basename>
+               <xocs:filename>si8.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>250</xocs:filesize>
+               <xocs:pixel-height>15</xocs:pixel-height>
+               <xocs:pixel-width>46</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369703X09001478-si7.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369703X09001478/STRIPIN/image/gif/52fc551113263a15a6a5b1ce0ca534b1/si13.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1369703X09001478/STRIPIN/image/gif/52fc551113263a15a6a5b1ce0ca534b1/si13.gif</xocs:ucs-locator>
+               <xocs:file-basename>si7</xocs:file-basename>
+               <xocs:filename>si7.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>215</xocs:filesize>
+               <xocs:pixel-height>15</xocs:pixel-height>
+               <xocs:pixel-width>36</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369703X09001478-si6.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369703X09001478/STRIPIN/image/gif/ee3415e4fd8ff883aa99a12854f9bd85/si6.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1369703X09001478/STRIPIN/image/gif/ee3415e4fd8ff883aa99a12854f9bd85/si6.gif</xocs:ucs-locator>
+               <xocs:file-basename>si6</xocs:file-basename>
+               <xocs:filename>si6.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>2141</xocs:filesize>
+               <xocs:pixel-height>42</xocs:pixel-height>
+               <xocs:pixel-width>405</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369703X09001478-si5.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369703X09001478/STRIPIN/image/gif/1fccdd33a65b3c836a641730967fccf8/si10.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1369703X09001478/STRIPIN/image/gif/1fccdd33a65b3c836a641730967fccf8/si10.gif</xocs:ucs-locator>
+               <xocs:file-basename>si5</xocs:file-basename>
+               <xocs:filename>si5.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>250</xocs:filesize>
+               <xocs:pixel-height>15</xocs:pixel-height>
+               <xocs:pixel-width>46</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369703X09001478-si4.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369703X09001478/STRIPIN/image/gif/8f6540ded5203e3648722eff31190384/si4.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1369703X09001478/STRIPIN/image/gif/8f6540ded5203e3648722eff31190384/si4.gif</xocs:ucs-locator>
+               <xocs:file-basename>si4</xocs:file-basename>
+               <xocs:filename>si4.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>190</xocs:filesize>
+               <xocs:pixel-height>16</xocs:pixel-height>
+               <xocs:pixel-width>26</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369703X09001478-si3.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369703X09001478/STRIPIN/image/gif/1e8e704d3fc5568f998af8b8dd5f36da/si3.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1369703X09001478/STRIPIN/image/gif/1e8e704d3fc5568f998af8b8dd5f36da/si3.gif</xocs:ucs-locator>
+               <xocs:file-basename>si3</xocs:file-basename>
+               <xocs:filename>si3.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>188</xocs:filesize>
+               <xocs:pixel-height>16</xocs:pixel-height>
+               <xocs:pixel-width>21</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369703X09001478-si2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369703X09001478/STRIPIN/image/gif/f6fb4df059b9c4c25e02c2c7fd0a7a57/si2.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1369703X09001478/STRIPIN/image/gif/f6fb4df059b9c4c25e02c2c7fd0a7a57/si2.gif</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>770</xocs:filesize>
+               <xocs:pixel-height>39</xocs:pixel-height>
+               <xocs:pixel-width>172</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369703X09001478-si13.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369703X09001478/STRIPIN/image/gif/52fc551113263a15a6a5b1ce0ca534b1/si13.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1369703X09001478/STRIPIN/image/gif/52fc551113263a15a6a5b1ce0ca534b1/si13.gif</xocs:ucs-locator>
+               <xocs:file-basename>si13</xocs:file-basename>
+               <xocs:filename>si13.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>215</xocs:filesize>
+               <xocs:pixel-height>15</xocs:pixel-height>
+               <xocs:pixel-width>36</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369703X09001478-si12.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369703X09001478/STRIPIN/image/gif/52fc551113263a15a6a5b1ce0ca534b1/si13.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1369703X09001478/STRIPIN/image/gif/52fc551113263a15a6a5b1ce0ca534b1/si13.gif</xocs:ucs-locator>
+               <xocs:file-basename>si12</xocs:file-basename>
+               <xocs:filename>si12.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>215</xocs:filesize>
+               <xocs:pixel-height>15</xocs:pixel-height>
+               <xocs:pixel-width>36</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369703X09001478-si11.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369703X09001478/STRIPIN/image/gif/52fc551113263a15a6a5b1ce0ca534b1/si13.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1369703X09001478/STRIPIN/image/gif/52fc551113263a15a6a5b1ce0ca534b1/si13.gif</xocs:ucs-locator>
+               <xocs:file-basename>si11</xocs:file-basename>
+               <xocs:filename>si11.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>215</xocs:filesize>
+               <xocs:pixel-height>15</xocs:pixel-height>
+               <xocs:pixel-width>36</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369703X09001478-si10.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369703X09001478/STRIPIN/image/gif/1fccdd33a65b3c836a641730967fccf8/si10.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1369703X09001478/STRIPIN/image/gif/1fccdd33a65b3c836a641730967fccf8/si10.gif</xocs:ucs-locator>
+               <xocs:file-basename>si10</xocs:file-basename>
+               <xocs:filename>si10.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>250</xocs:filesize>
+               <xocs:pixel-height>15</xocs:pixel-height>
+               <xocs:pixel-width>46</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369703X09001478-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369703X09001478/STRIPIN/image/gif/1fccdd33a65b3c836a641730967fccf8/si10.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1369703X09001478/STRIPIN/image/gif/1fccdd33a65b3c836a641730967fccf8/si10.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>250</xocs:filesize>
+               <xocs:pixel-height>15</xocs:pixel-height>
+               <xocs:pixel-width>46</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369703X09001478-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369703X09001478/gr1/DOWNSAMPLED/image/jpeg/ee9932f6e776e27881e6821b4eb3e835/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1369703X09001478/gr1/DOWNSAMPLED/image/jpeg/ee9932f6e776e27881e6821b4eb3e835/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>19560</xocs:filesize>
+               <xocs:pixel-height>216</xocs:pixel-height>
+               <xocs:pixel-width>387</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369703X09001478-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369703X09001478/gr1/THUMBNAIL/image/gif/d6769183a2e2779132962000cfb6fe56/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1369703X09001478/gr1/THUMBNAIL/image/gif/d6769183a2e2779132962000cfb6fe56/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6063</xocs:filesize>
+               <xocs:pixel-height>122</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369703X09001478-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369703X09001478/gr2/DOWNSAMPLED/image/jpeg/a532bbec4ad6f7dff49998ccab641bf7/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1369703X09001478/gr2/DOWNSAMPLED/image/jpeg/a532bbec4ad6f7dff49998ccab641bf7/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>25032</xocs:filesize>
+               <xocs:pixel-height>224</xocs:pixel-height>
+               <xocs:pixel-width>391</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369703X09001478-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369703X09001478/gr2/THUMBNAIL/image/gif/193dbad79b55169bda441d4e54cbfe4f/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1369703X09001478/gr2/THUMBNAIL/image/gif/193dbad79b55169bda441d4e54cbfe4f/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5389</xocs:filesize>
+               <xocs:pixel-height>126</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369703X09001478-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369703X09001478/gr3/DOWNSAMPLED/image/jpeg/4fa7b45cb58dddf6ca8f44a9792754ef/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1369703X09001478/gr3/DOWNSAMPLED/image/jpeg/4fa7b45cb58dddf6ca8f44a9792754ef/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>150350</xocs:filesize>
+               <xocs:pixel-height>747</xocs:pixel-height>
+               <xocs:pixel-width>798</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369703X09001478-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369703X09001478/gr3/THUMBNAIL/image/gif/87fc344613b288591b440344da94341d/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1369703X09001478/gr3/THUMBNAIL/image/gif/87fc344613b288591b440344da94341d/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6810</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>175</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369703X09001478-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369703X09001478/gr4/DOWNSAMPLED/image/jpeg/68d3decdbf370c78a9b56b1c786e0308/gr4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1369703X09001478/gr4/DOWNSAMPLED/image/jpeg/68d3decdbf370c78a9b56b1c786e0308/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>102656</xocs:filesize>
+               <xocs:pixel-height>684</xocs:pixel-height>
+               <xocs:pixel-width>391</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369703X09001478-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369703X09001478/gr4/THUMBNAIL/image/gif/be43fde5a8eb7f5cc749cd423c9689b3/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1369703X09001478/gr4/THUMBNAIL/image/gif/be43fde5a8eb7f5cc749cd423c9689b3/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5335</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>93</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369703X09001478-fx1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369703X09001478/fx1/DOWNSAMPLED/image/jpeg/c8a166c50d07319480823ae2a0d04e0b/fx1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1369703X09001478/fx1/DOWNSAMPLED/image/jpeg/c8a166c50d07319480823ae2a0d04e0b/fx1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:filename>fx1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>17237</xocs:filesize>
+               <xocs:pixel-height>206</xocs:pixel-height>
+               <xocs:pixel-width>375</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369703X09001478-fx1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369703X09001478/fx1/THUMBNAIL/image/gif/cd9485478783ff44bacf6f73bfa63394/fx1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1369703X09001478/fx1/THUMBNAIL/image/gif/cd9485478783ff44bacf6f73bfa63394/fx1.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:filename>fx1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4098</xocs:filesize>
+               <xocs:pixel-height>120</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.0" xml:lang="en" docsubtype="fla">
+         <item-info>
+            <jid>BEJ</jid>
+            <aid>4967</aid>
+            <ce:pii>S1369-703X(09)00147-8</ce:pii>
+            <ce:doi>10.1016/j.bej.2009.05.003</ce:doi>
+            <ce:copyright type="full-transfer" year="2009">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Impact of treatment temperature on solubilisation of WAS.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Soluble compound concentrations during batch anaerobic digestion of each sludge (batch 4).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="fig3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Methane production and VFA concentrations during batch anaerobic digestions of (A) untreated sludge, (B) pretreated at 110<ce:hsp sp="0.25"/>°C, (C) pretreated at 165<ce:hsp sp="0.25"/>°C in electric mode, (D) pretreated at 165<ce:hsp sp="0.25"/>°C in steam mode and (E) pretreated at 220<ce:hsp sp="0.25"/>°C.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:figure id="fig4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Acetate (A), propionate (B) accumulation maximum rates and methane (C) production specific maximum rates with different conditions of pretreatment through batch experiments.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl1" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">COD and VS solubilisation, methane potential and biodegradability of untreated and pretreated WAS at different conditions.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="5">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <colspec colname="col3"/>
+                  <colspec colname="col4"/>
+                  <colspec colname="col5"/>
+                  <thead valign="top">
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Conditions</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Solubilisation of COD (%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Solubilisation of VS (%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">BMP (<mml:math altimg="si1.gif" overflow="scroll">
+                              <mml:mrow>
+                                 <mml:mtext>m</mml:mtext>
+                                 <mml:msub>
+                                    <mml:mtext>L</mml:mtext>
+                                    <mml:mrow>
+                                       <mml:mtext>C</mml:mtext>
+                                       <mml:msub>
+                                          <mml:mtext>H</mml:mtext>
+                                          <mml:mn>4</mml:mn>
+                                       </mml:msub>
+                                    </mml:mrow>
+                                 </mml:msub>
+                              </mml:mrow>
+                           </mml:math>
+                           <hsp sp="0.25"/>g<inf loc="post">CODin</inf>
+                           <sup loc="post">−1</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Biodegradability (%)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">Raw sludge</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">165<hsp sp="0.25"/>±<hsp sp="0.25"/>17</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">47</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">110<hsp sp="0.25"/>°C</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">3.8<hsp sp="0.25"/>±<hsp sp="0.25"/>0.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">1.9<hsp sp="0.25"/>±<hsp sp="0.25"/>0,2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">186<hsp sp="0.25"/>±<hsp sp="0.25"/>10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">53</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">165<hsp sp="0.25"/>°C, electric</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">18.0<hsp sp="0.25"/>±<hsp sp="0.25"/>1.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">16.0<hsp sp="0.25"/>±<hsp sp="0.25"/>2.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">195<hsp sp="0.25"/>±<hsp sp="0.25"/>9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">56</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">165<hsp sp="0.25"/>°C, steam</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">17.8<hsp sp="0.25"/>±<hsp sp="0.25"/>0.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">14.0<hsp sp="0.25"/>±<hsp sp="0.25"/>1.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">215<hsp sp="0.25"/>±<hsp sp="0.25"/>7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">61</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">220<hsp sp="0.25"/>°C</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">27.0<hsp sp="0.25"/>±<hsp sp="0.25"/>1.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">24.0<hsp sp="0.25"/>±<hsp sp="0.25"/>2.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">142<hsp sp="0.25"/>±<hsp sp="0.25"/>22</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">41</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl2" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Comparison of each methane production obtained with different thermal pretreatment conditions (mean values of 4 successive batch experiments).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="fx1"/>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title>Kinetics of thermophilic batch anaerobic digestion of thermal hydrolysed waste activated sludge</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>A.</ce:given-name>
+                  <ce:surname>Mottet</ce:surname>
+                  <ce:cross-ref refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>J.P.</ce:given-name>
+                  <ce:surname>Steyer</ce:surname>
+                  <ce:cross-ref refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>S.</ce:given-name>
+                  <ce:surname>Déléris</ce:surname>
+                  <ce:cross-ref refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>F.</ce:given-name>
+                  <ce:surname>Vedrenne</ce:surname>
+                  <ce:cross-ref refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>J.</ce:given-name>
+                  <ce:surname>Chauzy</ce:surname>
+                  <ce:cross-ref refid="aff3">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>H.</ce:given-name>
+                  <ce:surname>Carrère</ce:surname>
+                  <ce:cross-ref refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff1">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>INRA, UR50, Laboratoire de Biotechnologie de l’Environnement, Avenue des Etangs, Narbonne, F-11100, France</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="aff2">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Veolia Environnement R&amp;D, Centre de Recherche sur l’Eau, F-78603 Maisons-Laffitte, France</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="aff3">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>Veolia Water Direction Technique, 1 rue Battista Pirelli, F-94410 Saint Maurice, France</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author. Tel.: +33 468 425 168; fax: +33 468 425 160.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="20" month="10" year="2008"/>
+            <ce:date-revised day="30" month="4" year="2009"/>
+            <ce:date-accepted day="5" month="5" year="2009"/>
+            <ce:abstract class="author"><ce:abstract-sec>
+                  <ce:simple-para view="all">Enhancing waste activated sludge (WAS) anaerobic digestion by thermal pretreatment has become of high interest. However, thermal treatment has been mainly combined to mesophilic anaerobic digestion. This paper presents the combination of sludge thermal pretreatment (110, 165 and 220<ce:hsp sp="0.25"/>°C) and batch thermophilic anaerobic digestion (55<ce:hsp sp="0.25"/>°C). Optimal conditions of thermal pretreatment were shown to be 165<ce:hsp sp="0.25"/>°C, involving a chemical oxygen demand (COD) and volatile solids (VS) solubilisation of 18 and 15% and a biodegradability increase from 47 to 61%. Treatments at 165<ce:hsp sp="0.25"/>°C were carried out in electric and steam modes and no significant difference on the impact of heating mode on sludge anaerobic biodegradability was observed. Moreover, it may be recommended not to carry out successive batch experiments to assess thermophilic BMP of sludge as accumulation of volatile fatty acids (VFA), particularly propionate, and a decrease of VFA uptake rates may occur. However, thermal pretreatment at 165<ce:hsp sp="0.25"/>°C allowed the decrease of propionate accumulation and an higher methane production.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>Anaerobic digestion</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Sludge management</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Thermal pretreatment</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Methane potential</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Volatile fatty acids</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title>Introduction</ce:section-title>
+                  <ce:para view="all">Biological processes are developed as the main process to improve efficiently the quality of the effluent in municipal wastewater treatment plants. Waste activated sludge (WAS), as a by-product, are generated in large and increasing quantities. Since the development of the biogas sector in France, following the July 2006 publication of new sufficiently attractive prices, WAS is more and more considered as renewable energy source and becomes an interesting substrate to anaerobic digestion. However, WAS anaerobic digestion is more difficult than for primary sludge and, with usual technologies nowadays available, only approximately 20–30% of the sludge organic matter are mineralized <ce:cross-ref refid="bib1">[1]</ce:cross-ref>.</ce:para>
+                  <ce:para view="all">Anaerobic digestion process follows four major steps: hydrolysis, acidogenesis, acetogenesis and methanogenesis. Hydrolysis is a slow step and is considered as the rate-limiting step of the overall process in the case of sludge degradation <ce:cross-ref refid="bib2">[2]</ce:cross-ref>. During hydrolysis step, organic compounds, such as polysaccharides, proteins and fats, are hydrolysed by extracellular enzymes to monomer or dimer compounds.</ce:para>
+                  <ce:para view="all">Over the last years, pretreatment steps, such as physical treatment with bead mill, sonication or high-pressure homogenizer, biological treatment with enzymatic hydrolysis, chemical treatment with alkaline addition were applied to improve hydrolysis of particulate organic matter and substantially biodegradability of sludge. Thermal treatment has been widely combined to anaerobic digestion performed in the mesophilic range and this resulted in an increase of biogas production and of the kinetic rates <ce:cross-ref refid="bib3">[3]</ce:cross-ref> and energy costs can be covered by biogas production <ce:cross-refs refid="bib4 bib5">[4,5]</ce:cross-refs>. Climent et al., Bougrier et al. and Jeong et al. <ce:cross-refs refid="bib6 bib7 bib8">[6–8]</ce:cross-refs> underlined the impact of solubilisation of particulate organic matter on the biogas production enhancement during anaerobic digestion. Another way to increase anaerobic digestion performances consists in operating digestors in thermophilic mode. Indeed, thermophilic anaerobic digestion allows to improve degradation rates, hence shorter retention times and provides an enhancement of the biogas production <ce:cross-ref refid="bib9">[9]</ce:cross-ref>. However, very few studies deal with the combination of thermal pretreatment and thermophilic anaerobic digestion of sludge <ce:cross-refs refid="bib10 bib11 bib12">[10–12]</ce:cross-refs>.</ce:para>
+                  <ce:para view="all">The objective of this work was to carefully analyse the impact of thermal pretreatment on thermophilic anaerobic digestion of WAS. Efficiency of thermal pretreatment was evaluated by solubilisation of COD and volatile solids (VS). Methane production and kinetics of volatile fatty acids (VFAs) and soluble chemical oxygen demand (COD) were measured during batch anaerobic biodegradation in order to investigate in details the hydrolysis of pretreated and untreated organic matter. Moreover, electric and steam modes for thermal pretreatment at 165<ce:hsp sp="0.25"/>°C were compared. Indeed, electric mode is generally used at laboratory scale whereas steam mode is used in industrial plants <ce:cross-ref refid="bib13">[13]</ce:cross-ref>.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title>Materials and methods</ce:section-title>
+                  <ce:section view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title>Waste activated sludge samples</ce:section-title>
+                     <ce:para view="all">Sludge samples were taken from a wastewater treatment plant (France), treating urban wastewaters and working with high load aerobic process at a sludge retention time of 0.4 days. Characteristics of WAS or raw sludge were: Total solids (TS): 46.6<ce:hsp sp="0.25"/>±<ce:hsp sp="0.25"/>2.3<ce:hsp sp="0.25"/>g<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup>, volatile solids (VS): 36.6<ce:hsp sp="0.25"/>±<ce:hsp sp="0.25"/>1.8<ce:hsp sp="0.25"/>g<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup>, total suspended solids (TSS): 40.5<ce:hsp sp="0.25"/>±<ce:hsp sp="0.25"/>2.0<ce:hsp sp="0.25"/>g<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup> (87%TS), volatile suspended solids (VSS): 31.5<ce:hsp sp="0.25"/>±<ce:hsp sp="0.25"/>1.6<ce:hsp sp="0.25"/>g<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup> (86%VS), COD: 64.0<ce:hsp sp="0.25"/>±<ce:hsp sp="0.25"/>9.6<ce:hsp sp="0.25"/>g<ce:inf loc="post">COD</ce:inf>
+                        <ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup> and soluble COD (&lt;0.45<ce:hsp sp="0.25"/>μm): 5.6<ce:hsp sp="0.25"/>±<ce:hsp sp="0.25"/>0.3<ce:hsp sp="0.25"/>g<ce:inf loc="post">COD</ce:inf>
+                        <ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup>.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title>Thermal hydrolysis</ce:section-title>
+                     <ce:para view="all">Thermal pretreatments were performed in a 10<ce:hsp sp="0.25"/>L agitated autoclave (Autoclave, class IV), allowing a temperature increase by electric mode or by steam mode. Sludge sample volume was around 6<ce:hsp sp="0.25"/>L. Temperatures of treatment were 110<ce:hsp sp="0.25"/>°C, 165<ce:hsp sp="0.25"/>°C and 220<ce:hsp sp="0.25"/>°C in electric mode and 165<ce:hsp sp="0.25"/>°C in steam mode. Once temperature was reached, treatments lasted for 30<ce:hsp sp="0.25"/>min. In general, at laboratory scale, autoclave has only a temperature increase by electric mode. Thus the process, used for thermal pretreatment, allowed us to compare performances obtained in electric mode against performances obtained in steam mode that is generally used at industrial scale.</ce:para>
+                     <ce:para view="all">The solubilisation of COD and VS were chosen to evaluate the degree of disintegration of pretreated sludge. This parameter defines the transfer of particulate organic matter to soluble organic matter. The solubilisation was expressed as a percentage, following the equation:<ce:display>
+                           <ce:formula>
+                              <mml:math altimg="si2.gif" overflow="scroll">
+                                 <mml:mrow>
+                                    <mml:msub>
+                                       <mml:mi>S</mml:mi>
+                                       <mml:mi>X</mml:mi>
+                                    </mml:msub>
+                                    <mml:mo stretchy="false">(</mml:mo>
+                                    <mml:mo>%</mml:mo>
+                                    <mml:mo stretchy="false">)</mml:mo>
+                                    <mml:mo>=</mml:mo>
+                                    <mml:mfrac>
+                                       <mml:mrow>
+                                          <mml:msub>
+                                             <mml:mi>S</mml:mi>
+                                             <mml:mi>S</mml:mi>
+                                          </mml:msub>
+                                          <mml:mo>−</mml:mo>
+                                          <mml:msub>
+                                             <mml:mi>S</mml:mi>
+                                             <mml:mrow>
+                                                <mml:msub>
+                                                   <mml:mi>S</mml:mi>
+                                                   <mml:mn>0</mml:mn>
+                                                </mml:msub>
+                                             </mml:mrow>
+                                          </mml:msub>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:msub>
+                                             <mml:mi>X</mml:mi>
+                                             <mml:mrow>
+                                                <mml:msub>
+                                                   <mml:mi>p</mml:mi>
+                                                   <mml:mn>0</mml:mn>
+                                                </mml:msub>
+                                             </mml:mrow>
+                                          </mml:msub>
+                                       </mml:mrow>
+                                    </mml:mfrac>
+                                    <mml:mo>×</mml:mo>
+                                    <mml:mn>100</mml:mn>
+                                 </mml:mrow>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>where <ce:italic>S</ce:italic>
+                        <ce:inf loc="post">
+                           <ce:italic>S</ce:italic>
+                        </ce:inf> and <mml:math altimg="si3.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:msub>
+                                 <mml:mi>S</mml:mi>
+                                 <mml:mrow>
+                                    <mml:msub>
+                                       <mml:mi>S</mml:mi>
+                                       <mml:mn>0</mml:mn>
+                                    </mml:msub>
+                                 </mml:mrow>
+                              </mml:msub>
+                           </mml:mrow>
+                        </mml:math> are the concentrations in soluble fraction, measured in treated and untreated sludge, respectively; <mml:math altimg="si4.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:msub>
+                                 <mml:mi>X</mml:mi>
+                                 <mml:mrow>
+                                    <mml:msub>
+                                       <mml:mi>p</mml:mi>
+                                       <mml:mn>0</mml:mn>
+                                    </mml:msub>
+                                 </mml:mrow>
+                              </mml:msub>
+                           </mml:mrow>
+                        </mml:math> is the concentration in particulate fraction, measured in untreated sludge.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title>Determination of anaerobic degradation tests</ce:section-title>
+                     <ce:para view="all">Biochemical methane potential (BMP) tests were used to establish anaerobic biodegradability and determination of the methane potential of WAS samples. The method was based from Buffiere et al. <ce:cross-ref refid="bib14">[14]</ce:cross-ref>. Anaerobic batch reactors were operated under thermophilic conditions. The temperature was kept at 55<ce:hsp sp="0.25"/>°C by water circulation in a water jacket. Six reactors, with a volume of 3.5<ce:hsp sp="0.25"/>L each, were used in parallel. The inoculum was taken from a full scale sludge anaerobic digester. One reactor was used with no feed to quantify the endogenous activity of the inoculum. Others reactors were fed with untreated sludge and with sludge treated at 110<ce:hsp sp="0.25"/>°C, 165<ce:hsp sp="0.25"/>°C (electric and steam modes) and 220<ce:hsp sp="0.25"/>°C. Organic loading was 0.5<ce:hsp sp="0.25"/>g<ce:inf loc="post">COD</ce:inf> of sludge per g<ce:inf loc="post">VS</ce:inf> of inoculum. Large inoculation ratio ensured high microbial activity, low risk for overloading and low risk of inhibition <ce:cross-ref refid="bib15">[15]</ce:cross-ref>. For each condition, four successive 22 days batch experiments were carried out in a same reactor to minimise the effect of the inoculum and two successive batch experiments were separated by 2 days. At the beginning of each BMP test, the reactors were purged with N<ce:inf loc="post">2</ce:inf>/CO<ce:inf loc="post">2</ce:inf> (75/25) gas mixture <ce:cross-ref refid="bib16">[16]</ce:cross-ref>. Biogas production and pH were measured continuously. An electronic volumetric gas counter was used to monitor biogas production. BMP is expressed as the produced methane relatively to the amount of introduced COD (<mml:math altimg="si5.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:mtext>m</mml:mtext>
+                              <mml:msub>
+                                 <mml:mtext>L</mml:mtext>
+                                 <mml:mrow>
+                                    <mml:mtext>C</mml:mtext>
+                                    <mml:msub>
+                                       <mml:mtext>H</mml:mtext>
+                                       <mml:mn>4</mml:mn>
+                                    </mml:msub>
+                                 </mml:mrow>
+                              </mml:msub>
+                           </mml:mrow>
+                        </mml:math>
+                        <ce:hsp sp="0.25"/>g<ce:inf loc="post">CODin</ce:inf>
+                        <ce:sup loc="post">−1</ce:sup>), in STP conditions.</ce:para>
+                     <ce:para view="all">It has to noted that endogenous activity decreased from batch 1 to 2. It represented about 12% of cumulated methane production from raw sludge in batch 1, 6% in batch 2, 3% in batch 3 and 5% in batch 4.</ce:para>
+                     <ce:para view="all">The biodegradability of the sludge was estimated from the BMP value and the theoretical maximal methane yield of 350<ce:hsp sp="0.25"/>mL<ce:hsp sp="0.25"/>g<ce:inf loc="post">COD</ce:inf>
+                        <ce:sup loc="post">−1</ce:sup> in STP conditions, following the equation:<ce:display>
+                           <ce:formula>
+                              <mml:math altimg="si6.gif" overflow="scroll">
+                                 <mml:mrow>
+                                    <mml:mtext>Biodegradability</mml:mtext>
+                                    <mml:mtext> </mml:mtext>
+                                    <mml:mo stretchy="false">(</mml:mo>
+                                    <mml:mo>%</mml:mo>
+                                    <mml:mo stretchy="false">)</mml:mo>
+                                    <mml:mo>=</mml:mo>
+                                    <mml:mn>100</mml:mn>
+                                    <mml:mo>×</mml:mo>
+                                    <mml:mfrac>
+                                       <mml:mrow>
+                                          <mml:mtext>BMP</mml:mtext>
+                                          <mml:mo stretchy="false">(</mml:mo>
+                                          <mml:mtext>m</mml:mtext>
+                                          <mml:msub>
+                                             <mml:mtext>L</mml:mtext>
+                                             <mml:mrow>
+                                                <mml:mtext>C</mml:mtext>
+                                                <mml:msub>
+                                                   <mml:mtext>H</mml:mtext>
+                                                   <mml:mn>4</mml:mn>
+                                                </mml:msub>
+                                             </mml:mrow>
+                                          </mml:msub>
+                                          <mml:mtext> </mml:mtext>
+                                          <mml:msup>
+                                             <mml:mrow>
+                                                <mml:msub>
+                                                   <mml:mtext>g</mml:mtext>
+                                                   <mml:mrow>
+                                                      <mml:mtext>COD</mml:mtext>
+                                                      <mml:mtext> </mml:mtext>
+                                                      <mml:mtext>introduced</mml:mtext>
+                                                   </mml:mrow>
+                                                </mml:msub>
+                                             </mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mo>−</mml:mo>
+                                                <mml:mn>1</mml:mn>
+                                             </mml:mrow>
+                                          </mml:msup>
+                                          <mml:mo stretchy="false">)</mml:mo>
+                                       </mml:mrow>
+                                       <mml:mrow>
+                                          <mml:mn>350</mml:mn>
+                                          <mml:mo stretchy="false">(</mml:mo>
+                                          <mml:mtext>m</mml:mtext>
+                                          <mml:msub>
+                                             <mml:mtext>L</mml:mtext>
+                                             <mml:mrow>
+                                                <mml:mtext>C</mml:mtext>
+                                                <mml:msub>
+                                                   <mml:mtext>H</mml:mtext>
+                                                   <mml:mn>4</mml:mn>
+                                                </mml:msub>
+                                             </mml:mrow>
+                                          </mml:msub>
+                                          <mml:mtext> </mml:mtext>
+                                          <mml:msup>
+                                             <mml:mrow>
+                                                <mml:msub>
+                                                   <mml:mtext>g</mml:mtext>
+                                                   <mml:mrow>
+                                                      <mml:mtext>COD</mml:mtext>
+                                                   </mml:mrow>
+                                                </mml:msub>
+                                             </mml:mrow>
+                                             <mml:mrow>
+                                                <mml:mo>−</mml:mo>
+                                                <mml:mn>1</mml:mn>
+                                             </mml:mrow>
+                                          </mml:msup>
+                                          <mml:mo stretchy="false">)</mml:mo>
+                                       </mml:mrow>
+                                    </mml:mfrac>
+                                 </mml:mrow>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>During each batch anaerobic digestion, total and soluble COD, VFA, biogas composition were regularly monitored in order to follow the formation of by-products, involved in the biological reactions (<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>).</ce:para>
+                     <ce:para view="all">Newman–Keuls tests, with a confidence interval at 90%, were realised to compare biodegradability values of each treated sludge and raw sludge and to estimate the significant differences between each biodegradability values.</ce:para>
+                     <ce:para view="all">The maximum accumulation rates of propionate and acetate and the maximum production rate of methane can be used to evaluate the impact of thermal pretreatment on the steps of acetogenesis and methanogenesis. Propionate and acetate accumulation rates (<ce:italic>K</ce:italic>
+                        <ce:inf loc="post">propionate</ce:inf> and <ce:italic>K</ce:italic>
+                        <ce:inf loc="post">acetate</ce:inf>) were calculated from the variation of propionate and acetate concentrations versus time during the accumulation phases. <ce:italic>K</ce:italic>
+                        <ce:inf loc="post">propionate</ce:inf> and <ce:italic>K</ce:italic>
+                        <ce:inf loc="post">acetate</ce:inf> were determined by the slope of the linear regression line between day 0 and the day corresponding to the maximal accumulation. These parameters were expressed in g<ce:inf loc="post">COD</ce:inf>
+                        <ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup>
+                        <ce:hsp sp="0.25"/>day<ce:sup loc="post">−1</ce:sup>. Accumulation of each compound is the result of production minus consumption. For example, acetate accumulation is the result of acetate production minus acetate conversion into methane and carbon dioxide. However, acetate production rate could not be calculated by taking into account methane production because we could not determine the parts of methane originating from acetoclastic methanogenesis and from hydrogenotrophic methanogenesis. For the methane production rate, the methane volume was converted to g<ce:inf loc="post">COD</ce:inf> and <mml:math altimg="si7.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:msub>
+                                 <mml:mi>K</mml:mi>
+                                 <mml:mrow>
+                                    <mml:mtext>C</mml:mtext>
+                                    <mml:msub>
+                                       <mml:mtext>H</mml:mtext>
+                                       <mml:mn>4</mml:mn>
+                                    </mml:msub>
+                                 </mml:mrow>
+                              </mml:msub>
+                           </mml:mrow>
+                        </mml:math>, expressed in g<ce:inf loc="post">COD</ce:inf>
+                        <ce:hsp sp="0.25"/>g<ce:inf loc="post">CODintro</ce:inf>
+                        <ce:sup loc="post">−1</ce:sup>
+                        <ce:hsp sp="0.25"/>day<ce:sup loc="post">−1</ce:sup>, was determined from the maximum value of the methane specific production rate, which was obtained by the derivative of the methane specific production.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>2.4</ce:label>
+                     <ce:section-title>Analysis</ce:section-title>
+                     <ce:para view="all">The particulate fraction was separated by centrifugation at 50<ce:hsp sp="0.25"/>000<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>
+                        <ce:italic>g</ce:italic>, 15<ce:hsp sp="0.25"/>min and 5<ce:hsp sp="0.25"/>°C. Supernatant was then filtered through a cellulose acetate membrane with 0.45<ce:hsp sp="0.25"/>μm pore size to obtain the soluble fraction.</ce:para>
+                     <ce:para view="all">COD measurements were realised on total and soluble fractions and measurements of TS, VS, TSS and VSS were realised on sludge and on solids of centrifugation, according to standard methods <ce:cross-ref refid="bib17">[17]</ce:cross-ref>. The oven-dried step, at 105<ce:hsp sp="0.25"/>°C for 24<ce:hsp sp="0.25"/>h, involved a volatilisation of VFA. TS and VS concentrations were thus corrected by taking into account VFA concentrations.</ce:para>
+                     <ce:para view="all">Proteins were measured according to the Lowry method <ce:cross-ref refid="bib18">[18]</ce:cross-ref>. The technique quantified the peptidic bounds. By using different known solutions of bovine serum albumin (BSA), a calibration curve was obtained and protein concentrations were determined in BSA equivalent gram per litre. Carbohydrates were measured with the anthrone reduction method <ce:cross-ref refid="bib19">[19]</ce:cross-ref>. It dosed carbohydrate concentrations by quantifying the carbonyl functions (C<ce:glyph name="dbnd"/>O). A calibration curve was obtained from glucose (Gluc) and carbohydrate concentrations were determined in glucose equivalent gram per litre.</ce:para>
+                     <ce:para view="all">VFA concentrations were measured by using gas chromatograph (GC-8000 Fisons instrument), equipped with a flame ionisation detector with an automatic sampler AS 800. The internal standard method allowed to measure acetate, propionate, butyrate and iso-butyrate, valerate and iso-valerate concentrations.</ce:para>
+                     <ce:para view="all">The composition of biogas was determined with a gas chromatograph (Shimadzu GC-8A), with a CTRI Alltech column, with argon as the carrier gas, equipped with a thermal conductivity detector and connected to an integrator (Shimadzu C-R8A).</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title>Results and discussion</ce:section-title>
+                  <ce:section view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title>Impact of thermal pretreatment on sludge solubilisation and biodegradability</ce:section-title>
+                     <ce:para view="all">Solubilisation of COD and VS are often used to evaluate the impact of pretreatment on the sludge maximal biodegradability. Results are summarised in <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>
+                        <ce:float-anchor refid="tbl1"/>. As already shown <ce:cross-refs refid="bib6 bib7">[6,7]</ce:cross-refs>, the values of COD and VS solubilisation increased with temperature until 220<ce:hsp sp="0.25"/>°C, from 3.8 to 27% and from 1.9 to 24%, respectively. The thermal pretreatment led to a transfer of particulate organic matter into the soluble phase, lower than 0.45<ce:hsp sp="0.25"/>μm and could be assimilated to a thermal hydrolysis. Thus, the application of thermal pretreatment on a largely particulate raw sludge (86%VS) should make more available organic components to the anaerobic microorganisms and could imply an increase of degradation rates and of produced biogas volume.</ce:para>
+                     <ce:para view="all">Nevertheless, the values of biodegradability (<ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>) showed a threshold value in the increase of methane production. Indeed, it increased with thermal pretreatment until a temperature of 165<ce:hsp sp="0.25"/>°C, from 165<ce:hsp sp="0.25"/>
+                        <mml:math altimg="si8.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:mtext>m</mml:mtext>
+                              <mml:msub>
+                                 <mml:mtext>L</mml:mtext>
+                                 <mml:mrow>
+                                    <mml:mtext>C</mml:mtext>
+                                    <mml:msub>
+                                       <mml:mtext>H</mml:mtext>
+                                       <mml:mn>4</mml:mn>
+                                    </mml:msub>
+                                 </mml:mrow>
+                              </mml:msub>
+                           </mml:mrow>
+                        </mml:math>
+                        <ce:hsp sp="0.25"/>g<ce:inf loc="post">CODin</ce:inf>
+                        <ce:sup loc="post">−1</ce:sup> for untreated sludge to 215<ce:hsp sp="0.25"/>
+                        <mml:math altimg="si9.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:mtext>m</mml:mtext>
+                              <mml:msub>
+                                 <mml:mtext>L</mml:mtext>
+                                 <mml:mrow>
+                                    <mml:mtext>C</mml:mtext>
+                                    <mml:msub>
+                                       <mml:mtext>H</mml:mtext>
+                                       <mml:mn>4</mml:mn>
+                                    </mml:msub>
+                                 </mml:mrow>
+                              </mml:msub>
+                           </mml:mrow>
+                        </mml:math>
+                        <ce:hsp sp="0.25"/>g<ce:inf loc="post">CODin</ce:inf>
+                        <ce:sup loc="post">−1</ce:sup> for sludge pretreated at 165<ce:hsp sp="0.25"/>°C in steam mode. Thus, among the tested temperatures, the optimum was 165<ce:hsp sp="0.25"/>°C. It is worth noting that an identical optimal temperature pretreatment was found for anaerobic digestion under mesophilic condition <ce:cross-ref refid="bib7">[7]</ce:cross-ref>.</ce:para>
+                     <ce:para view="all">Moreover at 220<ce:hsp sp="0.25"/>°C, although a large solubilisation of particulate organic matter occurred, sludge biodegradability was lowered to raw sludge biodegradability with 142<ce:hsp sp="0.25"/>
+                        <mml:math altimg="si10.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:mtext>m</mml:mtext>
+                              <mml:msub>
+                                 <mml:mtext>L</mml:mtext>
+                                 <mml:mrow>
+                                    <mml:mtext>C</mml:mtext>
+                                    <mml:msub>
+                                       <mml:mtext>H</mml:mtext>
+                                       <mml:mn>4</mml:mn>
+                                    </mml:msub>
+                                 </mml:mrow>
+                              </mml:msub>
+                           </mml:mrow>
+                        </mml:math>
+                        <ce:hsp sp="0.25"/>g<ce:inf loc="post">CODin</ce:inf>
+                        <ce:sup loc="post">−1</ce:sup>. This may be explained by the composition of solubilised organic matter (<ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="fig1"/>). At 220<ce:hsp sp="0.25"/>°C, protein solubilisation was similar to the one obtained at 165<ce:hsp sp="0.25"/>°C in steam mode, i.e. 40.1% and carbohydrates solubilisation strongly decreased from 15% at 165<ce:hsp sp="0.25"/>°C to 1.2%. However COD solubilisation increased from 18 to 27%. Thus, at 220<ce:hsp sp="0.25"/>°C, carbohydrates in the soluble phase reacted with other components to form products slowly or hardly biodegradable. These results are in agreement with those of Bougrier et al., Müller and Stuckey and McCarty <ce:cross-refs refid="bib5 bib20 bib21">[5,20,21]</ce:cross-refs>. They suggested that the presence of “burnt sugar” reactions and Maillard reactions for high pretreatment temperatures. The brown colour of the soluble phase of sludge treated at 220<ce:hsp sp="0.25"/>°C confirmed the presence of new compounds, like Amadori compounds and melanoidins which are recalcitrant to anaerobic degradation.</ce:para>
+                     <ce:para view="all">An objective of this study was to assess the impact of heating modes on solubilisation and biodegradation results. Solubilisation of COD, VS and carbohydrates, obtained at 165<ce:hsp sp="0.25"/>°C in both modes, did not show significant differences: it reached around 18, 15 and 15%, respectively with both modes. On the other hand, protein solubilisation was slightly higher for sludge treated with steam (40.2% against 34.5% in electric mode). Moreover, the Newman–Keuls test showed that the difference of BMP between treatments at 165<ce:hsp sp="0.25"/>°C (in electric and steam modes) were not significant with a 90% confidence interval (<ce:cross-ref refid="tbl2">Table 2</ce:cross-ref>
+                        <ce:float-anchor refid="tbl2"/>). Thus, it can be concluded that laboratory thermal hydrolysis carried out in electric mode properly represents industrial thermal hydrolysis carried out with steam injection.</ce:para>
+                     <ce:para view="all">Newman–Keuls test also showed that the improvement of sludge thermophilic anaerobic biodegradability was not significant after the 110<ce:hsp sp="0.25"/>°C pretreatment and confirmed the reduction of sludge biodegradability after 220<ce:hsp sp="0.25"/>°C treatment.</ce:para>
+                     <ce:para view="all">Solubilisation values and methane production values, representing initial and final conditions of the anaerobic digestion, are not sufficient to obtain a full understanding of anaerobic digestion mechanisms. Kinetics of intermediate products (VFAs and soluble COD) and final products of anaerobic digestion (CH<ce:inf loc="post">4</ce:inf> and CO<ce:inf loc="post">2</ce:inf>) are indeed interesting to explain biodegradability differences, involved by thermal pretreatment and to observe the potential degradation limits.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title>Kinetics of batch anaerobic digestion</ce:section-title>
+                     <ce:para view="all">The batch anaerobic digestion experiments of the five sludge samples were realised in five reactors, which were used in parallel. As in Buffiere et al. <ce:cross-ref refid="bib14">[14]</ce:cross-ref>, four successive batch experiments were carried out in a same reactor for each substrate in order to evaluate the inoculum adaptation. The experiments were monitored during 22 days.</ce:para>
+                     <ce:para view="all">
+                        <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="fig2"/> represents the measured COD<ce:inf loc="post">soluble</ce:inf> minus VFAs in batch 4. It can represent the transfer of compounds from the particulate phase to the soluble phase, i.e., the behaviour of hydrolysis, thus the production of soluble compounds (&lt;0.45<ce:hsp sp="0.25"/>μm), before their degradation by acetogenesis and acidogenesis.</ce:para>
+                     <ce:para view="all">
+                        <ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="fig3"/> represents methane production and VFA concentrations for batch 2, 3 and 4 for raw sludge and sludge treated at 110, 165<ce:hsp sp="0.25"/>°C and 220<ce:hsp sp="0.25"/>°C. VFA concentrations were not monitored for batch 1. It is important to define the VFA concentration variations monitored during experiments; they result from the VFA production by acidogenesis and from the VFA uptake by acetogenesis and aceticlastic methanogenesis. For example, an accumulation of acetate can be due to the step of acetate production faster than the step of acetate uptake. These values can bring interesting information into the understanding of mechanisms involved in the methane production.</ce:para>
+                     <ce:para view="all">The soluble COD concentration variations (<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>) of sludge pretreated in optimal conditions (165<ce:hsp sp="0.25"/>°C) showed a direct degradation of soluble organic matter and no significant accumulation of soluble COD. Thus, pretreatment allowed a better accessibility of organic matter, which was directly available for the biological steps, and could minimise the limiting effect of biological hydrolysis.</ce:para>
+                     <ce:para view="all">For the sludge pretreated at 220<ce:hsp sp="0.25"/>°C, despite a large solubilisation of COD (27%), soluble compound concentration at the end of experiment was high and decreased very slowly. It seems to indicate that compounds, formed at 220<ce:hsp sp="0.25"/>°C (e.g. memanoidins and Amadori compounds) were hardly biodegradable.</ce:para>
+                     <ce:para view="all">In the case of raw sludge and pretreated at 110<ce:hsp sp="0.25"/>°C, a first phase of degradation of particulate organic matter from day 0 to day 3 and a second phase of degradation from day 3 to day 6 were observed. The significant accumulation of soluble components seems to lead to the conclusion that two types of particulate matter constitute the sewage sludge: one fraction is quickly hydrolysed whereas the second fraction is more slowly hydrolysed. These two fractions are less significant on the soluble COD concentration variations of sludge pretreated at 165<ce:hsp sp="0.25"/>°C. But they can be clearly observed for all sludge samples in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>.</ce:para>
+                     <ce:para view="all">Indeed methane production curves showed two phases (<ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>). A first one, with a fast production corresponding to the degradation of readily accessible organic matter, like monomers and dimers compounds or exopolymers, lasted from day 2 to day 6. It is also characterised by the production and the accumulation of VFAs (from day 0 to day 4). The second phase, with a slower production, corresponding to the degradation of hardly accessible organic matter, like particulate macromolecules strongly linked in sludge structure or compounds located inside the cells lasted from day 6 to days 12–14. Finally, methane production was null or very low from day 14 to day 22.</ce:para>
+                     <ce:para view="all">The variations of acetate and propionate concentrations could be associated to the first and the second phases of methane production, respectively. Batch experiment 2 with sludge treated at 165<ce:hsp sp="0.25"/>°C in electric mode (<ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>C) could confirm this hypothesis. It was observed that the first phase of methane production was mainly associated to the acetate uptake, from the day 0 to day 6. During this phase, the highest methane volume was produced and the acetate concentration decreased strongly. The second phase of methane production was associated to the propionate uptake. Indeed the start-up of the second methane production phase with the uptake of propionate at day 7 could be observed and a plateau was reached at day 12 when the VFA uptake was complete. According to Vavilin et al. <ce:cross-ref refid="bib22">[22]</ce:cross-ref>, the acetogenesis and methanogenesis can be the rate-limiting steps in anaerobic digestion of a complex substrate at a high organic loading. These observations seem to show that the acetate and propionate degradation steps can also be considered as the limiting step for the anaerobic digestion of a complex substrate (waste activated sludge) with an organic loading of 0.5<ce:hsp sp="0.25"/>g<ce:inf loc="post">COD</ce:inf> per g<ce:inf loc="post">VS</ce:inf> of inoculum.</ce:para>
+                     <ce:para view="all">As discussed above, total methane production increased with thermal pretreatment temperature. However, a significant decrease of methane production for raw sludge was observed through successive batch experiments (<ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>A). This seems to be linked to the propionate accumulation. Thus successive thermophilic digestion batches of raw sludge may lead to an accumulation of propionate as already observed by Speece et al. <ce:cross-ref refid="bib23">[23]</ce:cross-ref>.</ce:para>
+                     <ce:para view="all">In the case of sludge treated at 220<ce:hsp sp="0.25"/>°C, the first phase of methane production, which was from day 0 to day 6 for the batch 2, had a tendency to increase in time through consecutive batch experiments, while a small methane production and a slow degradation rate of acetate were observed. This seems to indicate that the hardly biodegradable components produced at 220<ce:hsp sp="0.25"/>°C are slowly biodegradable. Thus the results can confirm that the melanoidins and Amadori compounds are hardly and slowly biodegradable. The enhancement of methane production observed during batch 4 could arise from an overestimation of produced volume (resulting from very slowly biodegradable compounds from previous experiments) and not from an adaptation of inoculum.</ce:para>
+                     <ce:para view="all">The values of propionate and acetate accumulation maximum rates, <ce:italic>K</ce:italic> expressed in g<ce:inf loc="post">COD</ce:inf>
+                        <ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup>
+                        <ce:hsp sp="0.25"/>day<ce:sup loc="post">−1</ce:sup>, can be used to accurately evaluate the impact of thermal pretreatment on the mechanisms of acetogenesis and methanogenesis steps (<ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>A and B<ce:float-anchor refid="fig4"/>). This parameter was determined from the slope of the linear regression line associated to the accumulation phase of propionate and acetate from day 0 to the day corresponding to the maximal accumulation of each batch experiment.</ce:para>
+                     <ce:para view="all">The values of <ce:italic>K</ce:italic>
+                        <ce:inf loc="post">propionate</ce:inf> did not show statistically significant differences (<ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>A). However, important differences were observed between the variations of propionate concentrations of each sludge with an accumulation of propionate in the case of the raw sludge and the sludge pretreated at 220<ce:hsp sp="0.25"/>°C (<ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>A and E), which could be correlated to the values of <ce:italic>K</ce:italic>
+                        <ce:inf loc="post">acetate</ce:inf>. Indeed, these propionate accumulations were associated to a low acetate accumulation maximum rate which may be associated to a low acetate production rate (<ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>B). The values of <ce:italic>K</ce:italic>
+                        <ce:inf loc="post">acetate</ce:inf> were below 0.10<ce:hsp sp="0.25"/>g<ce:inf loc="post">COD</ce:inf>
+                        <ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup>
+                        <ce:hsp sp="0.25"/>day<ce:sup loc="post">−1</ce:sup> when the propionate accumulation took place. Thus, propionate accumulations involved a partial inhibition of acidogenesis.</ce:para>
+                     <ce:para view="all">
+                        <ce:cross-ref refid="fig4">Fig. 4</ce:cross-ref>C presents the maximum methane specific production of each sludge through consecutive batch experiments, <mml:math altimg="si11.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:msub>
+                                 <mml:mi>K</mml:mi>
+                                 <mml:mrow>
+                                    <mml:mtext>C</mml:mtext>
+                                    <mml:msub>
+                                       <mml:mtext>H</mml:mtext>
+                                       <mml:mn>4</mml:mn>
+                                    </mml:msub>
+                                 </mml:mrow>
+                              </mml:msub>
+                           </mml:mrow>
+                        </mml:math> being expressed in g<ce:inf loc="post">COD</ce:inf>
+                        <ce:hsp sp="0.25"/>g<ce:inf loc="post">CODintro</ce:inf>
+                        <ce:hsp sp="0.25"/>day<ce:sup loc="post">−1</ce:sup>. This was determined from the maximum methane production specific rate throughout experiment time.</ce:para>
+                     <ce:para view="all">If we consider raw sludge, <mml:math altimg="si12.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:msub>
+                                 <mml:mi>K</mml:mi>
+                                 <mml:mrow>
+                                    <mml:mtext>C</mml:mtext>
+                                    <mml:msub>
+                                       <mml:mtext>H</mml:mtext>
+                                       <mml:mn>4</mml:mn>
+                                    </mml:msub>
+                                 </mml:mrow>
+                              </mml:msub>
+                           </mml:mrow>
+                        </mml:math> decreased which was followed by the decrease of final methane volume through consecutive batch experiments (<ce:cross-ref refid="fig3">Fig. 3</ce:cross-ref>A). This was associated to a strong propionate accumulation and a decrease of <ce:italic>K</ce:italic>
+                        <ce:inf loc="post">acetate</ce:inf>. This comment could confirm that a high propionate concentration can involve a partial inhibition of acidogenesis and methanogenesis steps. This was already underlined by Hyun et al. <ce:cross-ref refid="bib24">[24]</ce:cross-ref> who observed an inhibition of acetate degradation by a high propionate concentration (1<ce:hsp sp="0.25"/>g<ce:inf loc="post">COD</ce:inf>
+                        <ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup>) during the anaerobic digestion of propionate-enriched mixed cultures at 35<ce:hsp sp="0.25"/>°C.</ce:para>
+                     <ce:para view="all">The values of <ce:italic>K</ce:italic>
+                        <ce:inf loc="post">acetate</ce:inf> through consecutive batches for the sludge treated at 220<ce:hsp sp="0.25"/>°C were low with a value lower than 0.10<ce:hsp sp="0.25"/>g<ce:inf loc="post">COD</ce:inf>
+                        <ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup>
+                        <ce:hsp sp="0.25"/>day<ce:sup loc="post">−1</ce:sup>, and a large production of acetate was observed with a slow degradation of acetate, which was associated to a low <mml:math altimg="si13.gif" overflow="scroll">
+                           <mml:mrow>
+                              <mml:msub>
+                                 <mml:mi>K</mml:mi>
+                                 <mml:mrow>
+                                    <mml:mtext>C</mml:mtext>
+                                    <mml:msub>
+                                       <mml:mtext>H</mml:mtext>
+                                       <mml:mn>4</mml:mn>
+                                    </mml:msub>
+                                 </mml:mrow>
+                              </mml:msub>
+                           </mml:mrow>
+                        </mml:math>. Thus the produced compounds (melanoidins and Amadori compounds) had a negative effect on acetate degradation and methane production. These results confirmed that a fraction of solubilised organic matter were hardly and slowly biodegradable.</ce:para>
+                     <ce:para view="all">For the sludge samples pretreated at 110<ce:hsp sp="0.25"/>°C and 165<ce:hsp sp="0.25"/>°C (both modes), <ce:italic>K</ce:italic>
+                        <ce:inf loc="post">acetate</ce:inf> values were not significantly different and were stable. However, they showed important and statistically significant higher values than for raw sludge. For example in batch 2, <ce:italic>K</ce:italic>
+                        <ce:inf loc="post">acetate</ce:inf> was equal to 0.0939<ce:hsp sp="0.25"/>g<ce:inf loc="post">COD</ce:inf>
+                        <ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup>
+                        <ce:hsp sp="0.25"/>day<ce:sup loc="post">−1</ce:sup> and 0.1593<ce:hsp sp="0.25"/>g<ce:inf loc="post">COD</ce:inf>
+                        <ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup>
+                        <ce:hsp sp="0.25"/>day<ce:sup loc="post">−1</ce:sup> in the case of digestion of raw sludge and sludge pretreated at 165<ce:hsp sp="0.25"/>°C in steam mode, respectively. This enhancement was observed in each batch experiment. Moreover, the propionate accumulations were less important than in the case of raw sludge and sludge pretreated at 220<ce:hsp sp="0.25"/>°C. Thus, the solubilisation induced by the thermal pretreatment has an important impact on the step of acetate production from propionate and soluble components. <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref> showed that the thermal pretreatment allowed a decrease of the limiting effect of the anaerobic digestion hydrolysis step by solubilising a large part of organic matter, which is more available by the anaerobic microorganisms, in particular in the case of sludge pretreated at 165<ce:hsp sp="0.25"/>°C in both modes. The solubilised organic matter was directly degraded, allowing higher acetate and methane production rates, no or low propionate accumulation and a higher quantity of degraded organic matter.</ce:para>
+                     <ce:para view="all">The thermal hydrolysis enhanced the availability of organic matter. Thus, the solubilisation allowed to bring an available substrate in high quantity and it could allow maximising acidogenesis by a better development of acidogens and no propionate accumulations.</ce:para>
+                     <ce:para view="all">A second hypothesis is possible to explain the non-accumulation of propionate in the case of sludge pretreated in optimal conditions: anaerobic digestion can be stimulated by element trace metals. Indeed, Zitomer et al., Kim et al. and Speece et al. <ce:cross-refs refid="bib25 bib26 bib23">[25,26,23]</ce:cross-refs> showed that the supplementation of trace metals, like cobalt, iron and nickel had a positive effect on the degradation of propionate and acetate. Zitomer et al. <ce:cross-ref refid="bib25">[25]</ce:cross-ref> obtained a statistically significant increase of degradation of propionate and acetate for 77% of tested thermophilic biomass samples, upon supplementation with either nickel, cobalt or iron. The propionate degradation rate more frequently increased upon nutrient addition, especially in thermophilic systems, whereas the acetate degradation rate increased less frequently. In the sludge, the total metal concentrations may appear adequate but the metals may not be present in bioavailable form for the microorganisms. Thus, the disintegration of the sludge structure, induced by the thermal hydrolysis, could allow to make the trace metals more available for the microorganisms and could enhance the degradation of propionate. However, this hypothesis could not be validated since the measurements of trace metals were not realised.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title>Conclusions</ce:section-title>
+                  <ce:para view="all">Optimal conditions of thermal pretreatment were obtained at 165<ce:hsp sp="0.25"/>°C, involving a COD and VS solubilisation of 18 and 15% and a biodegradability increase from 47 to 61%. At 220<ce:hsp sp="0.25"/>°C, although a large solubilisation of particulate organic matter occurred, sludge biodegradability was lowered than other sludges (42%). Thus, a too high temperature treatment leads to the production of slowly and hardly biodegradable compounds, like Amadori compounds and melanoidins.</ce:para>
+                  <ce:para view="all">The Newman–Keuls test showed that the difference of BMP between treatments at 165<ce:hsp sp="0.25"/>°C (in electric and steam modes) was not significant. Thus, the laboratory thermal hydrolysis carried out in electric mode represents properly industrial thermal hydrolysis carried out with steam injection.</ce:para>
+                  <ce:para view="all">For all untreated and pretreated sludge, successive thermophilic batch digestion tests were not necessary to evaluate maximal methane production, as an adapted inoculum was used and VFA accumulations occurred through successive batches. One batch test, monitored until VFA concentrations reaches zero, seems sufficient to measure the maximal methane production of WAS.</ce:para>
+                  <ce:para view="all">Methane production kinetics were strongly linked to the acetate and propionate kinetics. The results showed that the degradation of propionate and acetate had a limiting effect on the methane production. The acetate degradation was associated to the first methane production phase and the propionate degradation was associated to the second methane production phase.</ce:para>
+                  <ce:para view="all">The thermal hydrolysis could minimise the limiting effect of hydrolysis due to a large solubilisation of organic matter, thus improved the availability of particulate organic matter and improved the acetate production rate, inducing a better conversion of propionate to acetate that avoided propionate accumulation.</ce:para>
+                  <ce:para view="all">Further work will concern the modeling of these results by ADM1, a complete model for anaerobic digestion. Special attention will be paid to the description of the hydrolysis which is the limiting step of anaerobic digestion of solid organic matter.</ce:para>
+               </ce:section>
+            </ce:sections>
+         </body>
+         <tail view="all">
+            <ce:bibliography view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec>
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Rulkens</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Sewage sludge as a biomass resource for the production of energy: overview and assessment of the various options</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Energy Fuels</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>22</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>9</sb:first-page>
+                              <sb:last-page>15</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.G.</ce:given-name>
+                                 <ce:surname>Pavlostathis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Gossett</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A kinetic model for anaerobic digestion of biological sludge</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biotechnol. Bioeng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>28</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1519</sb:first-page>
+                              <sb:last-page>1530</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.Y.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Noike</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Upgrading of anaerobic digestion of waste activated sludge by thermal pretreatment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>26</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1992</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>857</sb:first-page>
+                              <sb:last-page>866</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Kepp</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Machenbach</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Weisz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.E.</ce:given-name>
+                                 <ce:surname>Solheim</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Enhanced stabilisation of sewage sludge through thermal hydrolysis—three years of experience with full scale plant</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>42</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>89</sb:first-page>
+                              <sb:last-page>96</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Bougrier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Delgenes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Carrere</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Impacts of thermal pre-treatments on the semi-continuous anaerobic digestion of waste activated sludge</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biochem. Eng. J.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>34</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>20</sb:first-page>
+                              <sb:last-page>27</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Climent</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Ferrer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.d.M.</ce:given-name>
+                                 <ce:surname>Baeza</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Artola</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Vazquez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Font</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effects of thermal and mechanical pretreatments of secondary sludge on biogas production under thermophilic conditions</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Eng. J.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>133</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>335</sb:first-page>
+                              <sb:last-page>342</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Bougrier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Delgenes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Carrere</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effects of thermal treatments on five different waste activated sludge samples solubilisation, physical properties and anaerobic digestion</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Eng. J.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>139</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>236</sb:first-page>
+                              <sb:last-page>244</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.Y.</ce:given-name>
+                                 <ce:surname>Jeong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.C.</ce:given-name>
+                                 <ce:surname>Cha</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.S.</ce:given-name>
+                                 <ce:surname>Choi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Jeon</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Evaluation of methane production by the thermal pretreatment of waste activated sludge in an anaerobic digester</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Ind. Eng. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>856</sb:first-page>
+                              <sb:last-page>863</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Dohanyos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zabranska</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Kutil</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Jenicek</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Improvement of anaerobic digestion of sludge</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>49</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>89</sb:first-page>
+                              <sb:last-page>96</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.N.</ce:given-name>
+                                 <ce:surname>Gavala</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Yenal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.V.</ce:given-name>
+                                 <ce:surname>Skiadas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Westermann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.K.</ce:given-name>
+                                 <ce:surname>Ahring</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mesophilic and thermophilic anaerobic digestion of primary and secondary sludge. Effect of pre-treatment at elevated temperature</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4561</sb:first-page>
+                              <sb:last-page>4572</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.V.</ce:given-name>
+                                 <ce:surname>Skiadas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.N.</ce:given-name>
+                                 <ce:surname>Gavala</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.K.</ce:given-name>
+                                 <ce:surname>Ahring</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Thermal pre-treatment of primary and secondary sludge at 70 degrees C prior to anaerobic digestion</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>52</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>161</sb:first-page>
+                              <sb:last-page>166</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Ferrer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ponsá</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Vázquez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Font</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Increasing biogas production by thermal (70 C) sludge pre-treatment prior to thermophilic anaerobic digestion</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biochem. Eng. J.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>42</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>186</sb:first-page>
+                              <sb:last-page>192</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Chauzy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Graja</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Gerardin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Cretenot</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Patria</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Fernandes</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Minimisation of excess sludge production in a WWTP by coupling thermal hydrolysis and rapid anaerobic digestion</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>52</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>255</sb:first-page>
+                              <sb:last-page>263</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Buffiere</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Loisel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Bernet</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Delgenes</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Towards new indicators for the prediction of solid waste anaerobic digestion properties</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>53</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>233</sb:first-page>
+                              <sb:last-page>241</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Angelidaki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Sanders</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Assessment of the anaerobic biodegradability of macropollutants</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Rev. Environ. Sci. Bio/Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>117</sb:first-page>
+                              <sb:last-page>129</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Angelidaki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Alves</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Bolzonella</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Borzacconi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Campos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Guwy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Jenicek</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Kalyuzhnui</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>van Lier</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:title>
+                                 <sb:maintitle>Anaerobic Biodegradation, Activity and Inhibition (ABAI) Task Group Meeting 9th to 10th October 2006</sb:maintitle>
+                              </sb:title>
+                              <sb:conference>Prague</sb:conference>
+                              <sb:date>2006</sb:date>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>APHA-AWWA-WEF</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Standard Methods for the Examination of Water and Wastewater</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:edition>20th ed.</sb:edition>
+                              <sb:date>1999</sb:date>
+                              <sb:publisher>
+                                 <sb:name>American Public Health Association, American Water Works Association, Water Environmental Federation</sb:name>
+                                 <sb:location>Washington</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>O.H.</ce:given-name>
+                                 <ce:surname>Lowry</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.J.</ce:given-name>
+                                 <ce:surname>Rosebrough</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.L.</ce:given-name>
+                                 <ce:surname>Fau</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Randall</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Protein measurement with the Folin reagent</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Biol. Chem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>193</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1951</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>265</sb:first-page>
+                              <sb:last-page>275</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Dreywood</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Qualitative test for carbohydrates material</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ind. Eng. Chem., Anal. Ed.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1946</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>499</sb:first-page>
+                              <sb:last-page>504</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Müller</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Prospects and problems of sludge pre-treatment processes</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>44</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>121</sb:first-page>
+                              <sb:last-page>128</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.C.</ce:given-name>
+                                 <ce:surname>Stuckey</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.L.</ce:given-name>
+                                 <ce:surname>McCarty</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The effect of thermal pretreatment on the anaerobic biodegradability and toxicity of waste activated sludge</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1343</sb:first-page>
+                              <sb:last-page>1353</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib22">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.A.</ce:given-name>
+                                 <ce:surname>Vavilin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Fernandez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Palatsi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Flotats</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Hydrolysis kinetics in anaerobic degradation of particulate organic material: an overview</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Waste Manage.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>28</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>941</sb:first-page>
+                              <sb:last-page>953</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib23">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.E.</ce:given-name>
+                                 <ce:surname>Speece</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Boonyakitsombut</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Azbar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Ursillo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Overview of anaerobic treatment: thermophilic and propionate implications</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Environ. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>78</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>460</sb:first-page>
+                              <sb:last-page>473</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib24">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Hyun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Young</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.S.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Inhibition kinetics for propionate degradation using propionate-enriched mixed cultures</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>38</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>443</sb:first-page>
+                              <sb:last-page>451</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib25">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.H.</ce:given-name>
+                                 <ce:surname>Zitomer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.C.</ce:given-name>
+                                 <ce:surname>Johnson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.E.</ce:given-name>
+                                 <ce:surname>Speece</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Metal stimulation and municipal digester thermophilic/mesophilic activity</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Environ. Eng.-ASCE</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>134</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>42</sb:first-page>
+                              <sb:last-page>47</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib26">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.H.</ce:given-name>
+                                 <ce:surname>Ahn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.E.</ce:given-name>
+                                 <ce:surname>Speece</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Comparative process stability and efficiency of anaerobic digestion; mesophilic vs. thermophilic</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>36</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4369</sb:first-page>
+                              <sb:last-page>4385</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

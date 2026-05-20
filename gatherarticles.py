@@ -6,8 +6,10 @@ import httpx
 import time
 from lxml import etree
 from datetime import datetime
+from lxml import etree
 
 import csv
+
 
 logger = logging.getLogger(__name__)
 
@@ -22,15 +24,29 @@ def extract_dois(csv_file):
             DOI.append([id,doi])
     return DOI
 
-
-def scopus_paper_get(paper_doi,id):
-    apikey="f0acadd0199b030e18f6f4aff08e2263"
-    doi = paper_doi
+def request(url,id):
     timeout = httpx.Timeout(20.0, connect=60.0)
     client = httpx.Client(timeout=timeout)
-    url=str(f"https://api.elsevier.com/content/article/doi/{doi}?APIKey=5e6651f887493707ac5b67174ae5b51a&view=FULL")
-    print(str(url))
-    response=client.get(url)
+    try:
+        get = client.get(url)
+        try:
+            if get.status_code != None:
+                return get
+            else:
+                request(url, id)
+        except:
+            request(url, id)
+
+    except:
+        logger.info(f"failed at collection the following article: {id}")
+        request(url)
+
+
+def scopus_paper_get(paper_doi,id):
+    url=str(f"https://api.elsevier.com/content/article/doi/{paper_doi}?APIKey=5e6651f887493707ac5b67174ae5b51a&view=FULL")
+    url = url.replace('"',"")
+    print(url)
+    response = request(url,id)
     if response.status_code != 200:
         logger.info(f"{response.status_code} - id:{id}")
         return ""
@@ -54,13 +70,110 @@ def scopus_paper_get(paper_doi,id):
     #clean_text = "\n".join(abstract + body)
     return response.text
 
+NS = {
+    'ce': 'http://www.elsevier.com/xml/ja/ce',
+    'mml': 'http://www.w3.org/1998/Math/MathML'
+}
+
+import re
+
+def mathml_to_text(elem):
+    # flatten all text in document order
+    text = "".join(elem.itertext())
+
+    # collapse XML whitespace/newlines
+    text = re.sub(r"\s+", " ", text)
+
+    # nicer operator spacing
+    text = re.sub(r"\s*=\s*", " = ", text)
+    text = re.sub(r"\s*/\s*", " / ", text)
+    text = re.sub(r"\s*\+\s*", " + ", text)
+    text = re.sub(r"\s*-\s*", " - ", text)
+
+    return text.strip()
+
+
+def node_to_text(node):
+
+    parts = []
+
+    if node.text:
+        parts.append(node.text)
+
+    for child in node:
+
+        tag = etree.QName(child).localname
+
+        # ----------------------------------------
+        # DISPLAYED FORMULAS
+        # ----------------------------------------
+
+        if tag == "display":
+
+            formula = child.xpath(".//mml:math", namespaces=NS)
+
+            if formula:
+
+                formula_text = mathml_to_text(formula[0])
+
+                parts.append(f"\nFORMULA: {formula_text}\n")
+
+        # ----------------------------------------
+        # INLINE SUBSCRIPT
+        # ----------------------------------------
+
+        elif tag == "inf":
+
+            sub = "".join(child.itertext()).strip()
+
+            parts.append(f"_{sub}")
+
+        # ----------------------------------------
+        # INLINE SUPERSCRIPT
+        # ----------------------------------------
+
+        elif tag == "sup":
+
+            sup = "".join(child.itertext()).strip()
+
+            parts.append(f"^{sup}")
+
+        # ----------------------------------------
+        # HORIZONTAL SPACING
+        # ----------------------------------------
+
+        elif tag == "hsp":
+
+            parts.append(" ")
+
+        # ----------------------------------------
+        # DEFAULT RECURSION
+        # ----------------------------------------
+
+        else:
+
+            parts.append(node_to_text(child))
+
+        # preserve trailing text
+        if child.tail:
+            parts.append(child.tail)
+
+    # FINAL CLEANUP
+    text = "".join(parts)
+
+    text = re.sub(r"\s+", " ", text)
+
+    return text.strip()
+
 def xml_conversion(id):
-    from lxml import etree
+
 
     xml_file = "articlexml/"+id+".xml"
 
     tree = etree.parse(xml_file)
-
+    if len(tree.xpath("//*[local-name()='body']"))<1:
+        logger.info("article ignored: wrong format")
+        return
     body = tree.xpath("//*[local-name()='body']")[0]
     head = tree.xpath("//*[local-name()='head']")[0]
     out = []
@@ -78,7 +191,7 @@ def xml_conversion(id):
         # paragraphs
         paras = section.xpath("./*[local-name()='para']")
         for p in paras:
-            text = " ".join(p.xpath(".//text()"))
+            text = node_to_text(p)
             out.append(text.strip())
 
     # figures
@@ -99,7 +212,10 @@ def xml_conversion(id):
 
         rows = table.xpath(".//*[local-name()='row']")
         for row in rows:
-            cells = row.xpath(".//*[local-name()='entry']//text()")
+            cells = [
+                node_to_text(c)
+                for c in row.xpath(".//*[local-name()='entry']")
+            ]
             if cells:
                 out.append(" | ".join(c.strip() for c in cells))
 
@@ -123,10 +239,9 @@ def requestarticles():
             print(count)
         else:
             print("empty article at: "+link)
-        time.sleep(5)
+        time.sleep(3)
 
 logging.basicConfig(format='%(asctime)s %(message)s',level=logging.INFO, handlers=[logging.FileHandler(f"logs/logs{datetime.now().strftime('%d_%H-%M')}.log"), logging.StreamHandler()])
-
 
 requestarticles()
 

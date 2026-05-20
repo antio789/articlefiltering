@@ -1,0 +1,2394 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S1944398624120115</prism:url><dc:identifier>doi:10.5004/dwt.2017.0288</dc:identifier><eid>1-s2.0-S1944398624120115</eid><prism:doi>10.5004/dwt.2017.0288</prism:doi><pii>S1944-3986(24)12011-5</pii><dc:title>Effect of high pressure homogenization on anaerobic digestion of the sludge pretreated by combined alkaline and high pressure homogenization </dc:title><prism:publicationName>Desalination and Water Treatment</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>19443986</prism:issn><prism:volume>62</prism:volume><prism:startingPage>168</prism:startingPage><prism:endingPage>174</prism:endingPage><prism:pageRange>168-174</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2017-02-28</prism:coverDate><prism:coverDisplayDate>February 2017</prism:coverDisplayDate><prism:copyright>Copyright © 2017 Elsevier Inc.</prism:copyright><prism:publisher>Elsevier Inc.</prism:publisher><dc:creator>Fang, Wei</dc:creator><dc:creator>Zhang, Panyue</dc:creator><dc:creator>Shang, Ran</dc:creator><dc:creator>Ye, Jie</dc:creator><dc:creator>Wu, Yan</dc:creator><dc:creator>Zhang, Haibo</dc:creator><dc:creator>Liu, Jianbo</dc:creator><dc:creator>Gou, Xiying</dc:creator><dc:creator>Zeng, Guangming</dc:creator><dc:creator>Zhou, Shuqiong</dc:creator><dc:description>
+                  In order to improve the efficiency of anaerobic sludge digestion, alkaline and high pressure homogenization (HPH) were combined to pre-treat the excess activated sludge. The effect of HPH operating parameters, including homogenization pressure and cycle number, on the performances of anaerobic sludge digestion was studied. The results demonstrated that the performances of sludge disintegration and anaerobic digestion were markedly enhanced by increasing the homogenization pressure. After pretreatment at a homogenization pressure of 60 MPa with one homogenization cycle combined with an alkaline dosage of 0.04 mol/L, the sludge TCOD, VS removal and cumulative biogas production in a mesophilic anaerobic digestion system increased by 24.68%, 18.95% and 95.81%, respectively, in comparison with that with the alkaline pretreatment alone. But the sludge disintegration and biogas production only slightly increased with the increase of homogenization cycle. Considering biogas production and energy-saving, the suitable homogenization operation was selected as homogenization pressure of 60 MPa with once cycle. Relationships between methane yield and sludge disintegration showed that the improved methane production was mainly attributed to the sludge disintegration resulted from combined sludge pretreatment.
+               </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType>Author</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by-nc-nd/4.0/</openaccessUserLicense><dcterms:subject>Anaerobic digestion</dcterms:subject><dcterms:subject>High pressure homogenization</dcterms:subject><dcterms:subject>Alkaline pretreatment</dcterms:subject><dcterms:subject>Biogas production</dcterms:subject><dcterms:subject>Combined pretreatment</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S1944398624120115" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S1944398624120115" rel="scidir"/></coredata><scopus-id>85020283347</scopus-id><scopus-eid>2-s2.0-85020283347</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/85020283347" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>785634</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291810</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Desalination and Water Treatment</xocs:srctitle>
+      <xocs:normalized-srctitle>DESALINATIONWATERTREATMENT</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20240814">2024-08-14</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20240814">2024-08-14</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20240814">2024-08-14</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20240814">2024-08-14</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2024-08-14T18:28:56</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S1944398624120115</xocs:eid>
+      <xocs:pii-formatted>S1944-3986(24)12011-5</xocs:pii-formatted>
+      <xocs:pii-unformatted>S1944398624120115</xocs:pii-unformatted>
+      <xocs:doi>10.5004/dwt.2017.0288</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.1</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S1944398617X62000</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20240814">2024-08-14T17:56:04.700329Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20170201</xocs:date-search-begin>
+      <xocs:date-search-end>20170228</xocs:date-search-end>
+      <xocs:year-nav>2017</xocs:year-nav>
+      <xocs:indexeddate epoch="1723661764">2024-08-14T18:56:04.700329Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content oa subj suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authkeywords authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>1944-3986</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>19443986</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>62</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>62</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 62</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>18</xocs:sort-order>
+      <xocs:first-fp>168</xocs:first-fp>
+      <xocs:last-lp>174</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>168</xocs:first-page>
+         <xocs:last-page>174</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201702</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>February 2017</xocs:cover-date-text>
+      <xocs:cover-date-start>2017-02-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2017-02-28</xocs:cover-date-end>
+      <xocs:cover-date-year>2017</xocs:cover-date-year>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2017 Elsevier Inc.</xocs:copyright-line>
+      <xocs:normalized-article-title>EFFECTHIGHPRESSUREHOMOGENIZATIONANAEROBICDIGESTIONSLUDGEPRETREATEDBYCOMBINEDALKALINEHIGHPRESSUREHOMOGENIZATION</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>FANG</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>W</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="rf0005">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>171</xocs:ref-first-fp>
+            <xocs:ref-last-lp>177</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0010">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3835</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3844</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0015">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>384</xocs:ref-first-fp>
+            <xocs:ref-last-lp>388</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0020">
+            <xocs:ref-normalized-surname>CARRERE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>15</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0025">
+            <xocs:ref-normalized-surname>HIGGINS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>479</xocs:ref-first-fp>
+            <xocs:ref-last-lp>485</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0030">
+            <xocs:ref-normalized-surname>TIEHM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2003</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2009</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0035">
+            <xocs:ref-normalized-surname>YU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>279</xocs:ref-first-fp>
+            <xocs:ref-last-lp>285</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0040">
+            <xocs:ref-normalized-surname>LIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>366</xocs:ref-first-fp>
+            <xocs:ref-last-lp>373</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0045">
+            <xocs:ref-normalized-surname>SKIADAS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>161</xocs:ref-first-fp>
+            <xocs:ref-last-lp>166</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0050">
+            <xocs:ref-normalized-surname>NAH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2362</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2368</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0055">
+            <xocs:ref-normalized-surname>ZHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>93</xocs:ref-first-fp>
+            <xocs:ref-last-lp>102</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0060">
+            <xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>271</xocs:ref-first-fp>
+            <xocs:ref-last-lp>275</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0065">
+            <xocs:ref-normalized-surname>BACCAY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>885</xocs:ref-first-fp>
+            <xocs:ref-last-lp>891</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0070">
+            <xocs:ref-normalized-surname>CASSINI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>51</xocs:ref-first-fp>
+            <xocs:ref-last-lp>58</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0075">
+            <xocs:ref-normalized-surname>PENAUD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>258</xocs:ref-first-fp>
+            <xocs:ref-last-lp>263</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0080">
+            <xocs:ref-normalized-surname>MOUNEIMNE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>89</xocs:ref-first-fp>
+            <xocs:ref-last-lp>94</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0085">
+            <xocs:ref-normalized-surname>VALO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1197</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1203</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0090">
+            <xocs:ref-normalized-surname>VLYSSIDES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>201</xocs:ref-first-fp>
+            <xocs:ref-last-lp>206</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0095">
+            <xocs:ref-normalized-surname>JACQUEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>15</xocs:ref-first-fp>
+            <xocs:ref-last-lp>27</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0100">
+            <xocs:ref-normalized-surname>RAI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>437</xocs:ref-first-fp>
+            <xocs:ref-last-lp>446</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0105">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>496</xocs:ref-first-fp>
+            <xocs:ref-last-lp>501</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0110">
+            <xocs:ref-normalized-surname>BARJENBRUCH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>715</xocs:ref-first-fp>
+            <xocs:ref-last-lp>720</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0115">
+            <xocs:ref-normalized-surname>FLOURY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>843</xocs:ref-first-fp>
+            <xocs:ref-last-lp>853</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0120">
+            <xocs:ref-normalized-surname>WAHIDUNNABI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>430</xocs:ref-first-fp>
+            <xocs:ref-last-lp>446</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0125">
+            <xocs:ref-normalized-surname>ONYECHE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>56</xocs:ref-first-fp>
+            <xocs:ref-last-lp>61</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0130">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>514</xocs:ref-first-fp>
+            <xocs:ref-last-lp>519</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0135">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>814</xocs:ref-first-fp>
+            <xocs:ref-last-lp>820</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0140">
+            <xocs:ref-normalized-surname>FANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>167</xocs:ref-first-fp>
+            <xocs:ref-last-lp>172</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0145">
+            <xocs:ref-normalized-surname>BOUGRIER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>163</xocs:ref-first-fp>
+            <xocs:ref-last-lp>169</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0150">
+            <xocs:ref-normalized-surname>GREENBURG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1992</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>STANDARDMETHODSFOREXAMINATIONWATERWASTEWATER</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0155">
+            <xocs:ref-normalized-surname>PILLI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>18</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0160">
+            <xocs:ref-normalized-surname>DONSI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>520</xocs:ref-first-fp>
+            <xocs:ref-last-lp>532</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0165">
+            <xocs:ref-normalized-surname>TORRES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2229</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2234</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0170">
+            <xocs:ref-normalized-surname>TYAGI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>105</xocs:ref-first-fp>
+            <xocs:ref-last-lp>113</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0175">
+            <xocs:ref-normalized-surname>BRAGUGLIA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>S139</xocs:ref-first-fp>
+            <xocs:ref-last-lp>S143</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0180">
+            <xocs:ref-normalized-surname>WEEMAES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2330</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2336</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0185">
+            <xocs:ref-normalized-surname>CHOI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>207</xocs:ref-first-fp>
+            <xocs:ref-last-lp>211</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0190">
+            <xocs:ref-normalized-surname>DOGAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2139</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2148</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0195">
+            <xocs:ref-normalized-surname>GHOSE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>275</xocs:ref-first-fp>
+            <xocs:ref-last-lp>280</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0200">
+            <xocs:ref-normalized-surname>HWANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>297</xocs:ref-first-fp>
+            <xocs:ref-last-lp>309</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0205">
+            <xocs:ref-normalized-surname>BJORNSSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>844</xocs:ref-first-fp>
+            <xocs:ref-last-lp>849</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>FANGX2017X168</xocs:refkey3>
+         <xocs:refkey4lp>FANGX2017X168X174</xocs:refkey4lp>
+         <xocs:refkey4ai>FANGX2017X168XW</xocs:refkey4ai>
+         <xocs:refkey5>FANGX2017X168X174XW</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2024-08-13T07:10:23Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>Author</xocs:oa-sponsor-type>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:oa-user-license>
+         <xocs:oa-access-inherited-from winid="http://vtw.elsevier.com/content/oaw/1944-3986_UNBOUNDED_Author">OA-Window</xocs:oa-access-inherited-from>
+      </xocs:open-access>
+      <xocs:article-sharing-framework/>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S1944-3986(24)12011-5</xocs:pii-formatted>
+         <xocs:pii-unformatted>S1944398624120115</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S1944398624120115</xocs:eid>
+         <xocs:doi>10.5004/dwt.2017.0288</xocs:doi>
+         <xocs:cid>785634</xocs:cid>
+         <xocs:timestamp>2024-08-14T17:56:04.700329Z</xocs:timestamp>
+         <xocs:cover-date-start>2017-02-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2017-02-28</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S1944398624120115-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1944398624120115/MAIN/application/pdf/1859ebe46401a009e4383b4e818d7ac0/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>977403</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S1944398624120115-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1944398624120115/PREVIEW/image/png/32280022d99882782c0e2b038db7c33f/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>62905</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:rawtext xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">Effect of high pressure homogenization on anaerobic digestion of the sludge pretreated by combined alkaline and high pressure homogenization Wei Fang, a b fw8905@163.com Panyue Zhang, a b * zhangpanyue@hnu.edu.cn Ran Shang, c r.shang@tudelft.nl Jie Ye, a b yejie20@126.com Yan Wu, a b liyan19850618@163.com Haibo Zhang, a b haibo_zhang@hnu.edu.cn Jianbo Liu, a b liujianbo901114@163.com Xiying Gou, a b gouxiying@163.com Guangming Zeng, a b zgming@hnu.edu.cn Shuqiong Zhou, d zhoushuqiong@sztechand.com.cn a College of Environmental Science and Engineering, Hunan University, Changsha 410082, China College of Environmental Science and Engineering Hunan University Changsha 410082 China College of Environmental Science and Engineering, Hunan University, Changsha 410082, China, Tel. +86 15001255497; Fax: +86 10 62336900 b Key Laboratory of Environmental Biology and Pollution Control (Hunan University), Ministry of Education, Changsha 410082, P.R. China Key Laboratory of Environmental Biology and Pollution Control (Hunan University), Ministry of Education Changsha 410082 P.R. China Key Laboratory of Environmental Biology and Pollution Control (Hunan University), Ministry of Education, Changsha 410082, P.R. China, Tel. +86 15001255497; Fax: +86 10 62336900 c Department of Sanitary Engineering, Faculty of Civil Engineering and Geosciences, Delft University of Technology, P.O. Box 5048, 2600, GA, Delft, The Netherlands Department of Sanitary Engineering, Faculty of Civil Engineering and Geosciences Delft University of Technology P.O. Box 5048 Delft GA 2600 The Netherlands Department of Sanitary Engineering, Faculty of Civil Engineering and Geosciences, Delft University of Technology, P.O. Box 5048, 2600 GA Delft, The Netherlands d ShenZhen Techand Ecology and Environment CO., LTD., Shenzhen 518040, China ShenZhen Techand Ecology and Environment CO., LTD. Shenzhen 518040 China ShenZhen Techand Ecology and Environment CO., LTD., Shenzhen 518040, China * Corresponding author.   ABSTRACT In order to improve the efficiency of anaerobic sludge digestion, alkaline and high pressure homogenization (HPH) were combined to pre-treat the excess activated sludge. The effect of HPH operating parameters, including homogenization pressure and cycle number, on the performances of anaerobic sludge digestion was studied. The results demonstrated that the performances of sludge disintegration and anaerobic digestion were markedly enhanced by increasing the homogenization pressure. After pretreatment at a homogenization pressure of 60 MPa with one homogenization cycle combined with an alkaline dosage of 0.04 mol/L, the sludge TCOD, VS removal and cumulative biogas production in a mesophilic anaerobic digestion system increased by 24.68%, 18.95% and 95.81%, respectively, in comparison with that with the alkaline pretreatment alone. But the sludge disintegration and biogas production only slightly increased with the increase of homogenization cycle. Considering biogas production and energy-saving, the suitable homogenization operation was selected as homogenization pressure of 60 MPa with once cycle. Relationships between methane yield and sludge disintegration showed that the improved methane production was mainly attributed to the sludge disintegration resulted from combined sludge pretreatment. Keywords Anaerobic digestion High pressure homogenization Alkaline pretreatment Biogas production Combined pretreatment   References [1] S. Zhang, H. Guo, L. Du, J. Liang, X. Lu, N. Li, K. Zhang, Influence of NaOH and thermal pretreatment on dewatered activated sludge solubilisation and subsequent anaerobic digestion: Focused on high-solid state Bioresour. Technol. 185: (2015) 171-177 S. Zhang, H. Guo, L. Du, J. Liang, X. Lu, N. Li, K. Zhang, Influence of NaOH and thermal pretreatment on dewatered activated sludge solubilisation and subsequent anaerobic digestion: Focused on high-solid state, Bioresour. Technol., 185 (2015) 171â€“177. [2] L. Wang, T.N. Aziz, F.L. de los Reyes, III Determining the limits of anaerobic co-digestion of thickened waste activated sludge with grease interceptor waste Water Res. 47: (2013) 3835-3844 L. Wang, T.N. Aziz, F.L. de los Reyes III, Determining the limits of anaerobic co-digestion of thickened waste activated sludge with grease interceptor waste, Water Res., 47 (2013) 3835â€“3844. [3] X. Zhang, R.B. Ferreira, J. Hu, H. Spanjers, J.B. van Lier, Improving methane production and phosphorus release in anaerobic digestion of particulate saline sludge from a brackish aquaculture recirculation system Bioresour. Technol. 162: (2014) 384-388 X. Zhang, R.B. Ferreira, J. Hu, H. Spanjers, J.B. van Lier, Improving methane production and phosphorus release in anaerobic digestion of particulate saline sludge from a brackish aquaculture recirculation system, Bioresour. Technol., 162 (2014) 384â€“388. [4] H. Carrere, C. Dumas, A. Battimelli, D.J. Batstone, J.P. Delgenes, J.P. Steyer, I. Ferrer, Pretreatment methods to improve sludge anaerobic degradability: a review J. Hazard. Mater. 183: (2010) 1-15 H. Carrere, C. Dumas, A. Battimelli, D.J. Batstone, J.P. Delgenes, J.P. Steyer, I. Ferrer, Pretreatment methods to improve sludge anaerobic degradability: a review, J. Hazard. Mater., 183 (2010) 1â€“15. [5] M.J. Higgins, J.T. Novak, Characterization of exocellular protein and its role in bioflocculation J. Environ. Eng. 123: (1997) 479-485 M.J. Higgins, J.T. Novak, Characterization of exocellular protein and its role in bioflocculation, J. Environ. Eng., 123 (1997) 479â€“485. [6] A. Tiehm, K. Nickel, M. Zellhorn, U. Neis, Ultrasonic waste activated sludge disintegration for improving anaerobic stabilization Water Res. 35: (2001) 2003-2009 A. Tiehm, K. Nickel, M. Zellhorn, U. Neis, Ultrasonic waste activated sludge disintegration for improving anaerobic stabilization, Water Res., 35 (2001) 2003â€“2009. [7] B. Yu, J. Xu, H. Yuan, Z. Lou, J. Lin, N. Zhu, Enhancement of anaerobic digestion of waste activated sludge by electrochemical pretreatment Fuel 130: (2014) 279-285 B. Yu, J. Xu, H. Yuan, Z. Lou, J. Lin, N. Zhu, Enhancement of anaerobic digestion of waste activated sludge by electrochemical pretreatment, Fuel, 130 (2014) 279â€“285. [8] Y. Lin, D. Wang, S. Wu, C. Wang, Alkali pretreatment enhances biogas production in the anaerobic digestion of pulp and paper sludge J. Hazard. Mater. 170: (2009) 366-373 Y. Lin, D. Wang, S. Wu, C. Wang, Alkali pretreatment enhances biogas production in the anaerobic digestion of pulp and paper sludge, J. Hazard. Mater., 170 (2009) 366â€“373. [9] I.V. Skiadas, H.N. Gavala, J. Lu, B.K. Ahring, Thermal pretreatment of primary and secondary sludge at 70 C prior to anaerobic digestion Water Sci. Technol. 52: (2005) 161-166 I.V. Skiadas, H.N. Gavala, J. Lu, B.K. Ahring, Thermal pretreatment of primary and secondary sludge at 70 C prior to anaerobic digestion, Water Sci. Technol., 52 (2005) 161â€“166. [10] I.W. Nah, Y.W. Kang, K.Y. Hwang, W.K. Song, Mechanical pretreatment of waste activated sludge for anaerobic digestion process Water Res. 34: (2000) 2362-2368 I.W. Nah, Y.W. Kang, K.Y. Hwang, W.K. Song, Mechanical pretreatment of waste activated sludge for anaerobic digestion process, Water Res., 34 (2000) 2362â€“2368. [11] G.Y. Zhen, X.Q. Lu, Y.Y. Li, Y.C. Zhao, Combined electrical- alkali pretreatment to increase the anaerobic hydrolysis rate of waste activated sludge during anaerobic digestion Appl. Energy 128: (2014) 93-102 G.Y. Zhen, X.Q. Lu, Y.Y. Li, Y.C. Zhao, Combined electrical- alkali pretreatment to increase the anaerobic hydrolysis rate of waste activated sludge during anaerobic digestion, Appl. Energy, 128 (2014) 93â€“102. [12] J. Kim, C. Park, T.-H. Kim, M. Lee, S. Kim, S.-W. Kim, J. Lee, Effects of various pretreatments for enhanced anaerobic digestion with waste activated sludge J. Biosci. Bioeng. 95: (2003) 271-275 J. Kim, C. Park, T.-H. Kim, M. Lee, S. Kim, S.-W. Kim, J. Lee, Effects of various pretreatments for enhanced anaerobic digestion with waste activated sludge, J. Biosci. Bioeng., 95 (2003) 271â€“275. [13] R.A. Baccay, A.G. Hashimoto, Acidogenic and methanogenic fermentation of causticized straw Biotechnol. Bioeng. 26: (1984) 885-891 R.A. Baccay, A.G. Hashimoto, Acidogenic and methanogenic fermentation of causticized straw, Biotechnol. Bioeng., 26 (1984) 885â€“891. [14] S.T. Cassini, M.C.E. Andrade, T.A. Abreu, R. Keller, R.F. Goncalves, Alkaline and acid hydrolytic processes in aerobic and anaerobic sludges: effect on total EPS and fractions Water Sci. Technol. 53: (2006) 51-58 S.T. Cassini, M.C.E. Andrade, T.A. Abreu, R. Keller, R.F. Goncalves, Alkaline and acid hydrolytic processes in aerobic and anaerobic sludges: effect on total EPS and fractions, Water Sci. Technol., 53 (2006) 51â€“58. [15] V. Penaud, J.P. Delgenes, R. Moletta, Thermo-chemical pretreatment of a microbial biomass: influence of sodium hydroxide addition on solubilization and anaerobic biodegradability Enzyme Microb. Technol. 25: (1999) 258-263 V. Penaud, J.P. Delgenes, R. Moletta, Thermo-chemical pretreatment of a microbial biomass: influence of sodium hydroxide addition on solubilization and anaerobic biodegradability, Enzyme Microb. Technol., 25 (1999) 258â€“263. [16] A. Mouneimne, H. Carrere, N. Bernet, J. Delgenes, Effect of saponification on the anaerobic digestion of solid fatty residues Bioresour. Technol. 90: (2003) 89-94 A. Mouneimne, H. Carrere, N. Bernet, J. Delgenes, Effect of saponification on the anaerobic digestion of solid fatty residues, Bioresour. Technol., 90 (2003) 89â€“94. [17] A. Valo, H. Carrere, J.P. Delgenes, Thermal, chemical and thermo-chemical pre-treatment of waste activated sludge for anaerobic digestion J. Chem. Technol. Biotechnol. 79: (2004) 1197-1203 A. Valo, H. Carrere, J.P. Delgenes, Thermal, chemical and thermo-chemical pre-treatment of waste activated sludge for anaerobic digestion, J. Chem. Technol. Biotechnol., 79 (2004) 1197â€“1203. [18] A.G. Vlyssides, P.K. Karlis, Thermal-alkaline solubilization of waste activated sludge as a pre-treatment stage for anaerobic digestion Bioresour. Technol. 91: (2004) 201-206 A.G. Vlyssides, P.K. Karlis, Thermal-alkaline solubilization of waste activated sludge as a pre-treatment stage for anaerobic digestion, Bioresour. Technol., 91 (2004) 201â€“206. [19] N. Jacquel, C.-W. Lo, Y.-H. Wei, H.-S. Wu, S.S. Wang, Isolation and purification of bacterial poly (3-hydroxyalkanoates) Biochem. Eng. J. 39: (2008) 15-27 N. Jacquel, C.-W. Lo, Y.-H. Wei, H.-S. Wu, S.S. Wang, Isolation and purification of bacterial poly (3-hydroxyalkanoates), Biochem. Eng. J., 39 (2008) 15â€“27. [20] C.L. Rai, P.G. Rao, Influence of sludge disintegration by high pressure homogenizer on microbial growth in sewage sludge: an approach for excess sludge reduction Clean Technol. Environ. 11: (2009) 437-446 C.L. Rai, P.G. Rao, Influence of sludge disintegration by high pressure homogenizer on microbial growth in sewage sludge: an approach for excess sludge reduction, Clean Technol. Environ., 11 (2009) 437â€“446. [21] S. Zhang, P. Zhang, G. Zhang, J. Fan, Y. Zhang, Enhancement of anaerobic sludge digestion by high-pressure homogenization Bioresour. Technol. 118: (2012) 496-501 S. Zhang, P. Zhang, G. Zhang, J. Fan, Y. Zhang, Enhancement of anaerobic sludge digestion by high-pressure homogenization, Bioresour. Technol., 118 (2012) 496â€“501. [22] M. Barjenbruch, O. Kopplow, Enzymatic, mechanical and thermal pre-treatment of surplus sludge Adv. Environ. Res. 7: (2003) 715-720 M. Barjenbruch, O. Kopplow, Enzymatic, mechanical and thermal pre-treatment of surplus sludge, Adv. Environ. Res., 7 (2003) 715â€“720. [23] J. Floury, J. Bellettre, J. Legrand, A. Desrumaux, Analysis of a new type of high pressure homogeniser. A study of the flow pattern Chem. Eng. Sci. 59: (2004) 843-853 J. Floury, J. Bellettre, J. Legrand, A. Desrumaux, Analysis of a new type of high pressure homogeniser. A study of the flow pattern, Chem. Eng. Sci., 59 (2004) 843â€“853. [24] A.K. Wahidunnabi, C. Eskicioglu, High pressure homogenization and two-phased anaerobic digestion for enhanced biogas conversion from municipal waste sludge Water Res. 66: (2014) 430-446 A.K. Wahidunnabi, C. Eskicioglu, High pressure homogenization and two-phased anaerobic digestion for enhanced biogas conversion from municipal waste sludge, Water Res., 66 (2014) 430â€“446. [25] T. Onyeche, O. SchlÃ¤fer, M. Sievers, Advanced anaerobic digestion of sludge through high pressure homogenisation J. Solid Waste Technol. Manage. 29: (2003) 56-61 T. Onyeche, O. SchlÃ¤fer, M. Sievers, Advanced anaerobic digestion of sludge through high pressure homogenisation, J. Solid Waste Technol. Manage., 29 (2003) 56â€“61. [26] Y.X. Zhang, P.Y. Zhang, G.M. Zhang, W.F. Ma, H. Wu, B.Q. Ma, Sewage sludge disintegration by combined treatment of alkaline plus high pressure homogenization Bioresour. Technol. 123: (2012) 514-519 Y.X. Zhang, P.Y. Zhang, G.M. Zhang, W.F. Ma, H. Wu, B.Q. Ma, Sewage sludge disintegration by combined treatment of alkaline plus high pressure homogenization, Bioresour. Technol., 123 (2012) 514â€“519. [27] Y.X. Zhang, P.Y. Zhang, B.Q. Ma, H. Wu, S. Zhang, X. Xu, Sewage sludge disintegration by high-pressure homogenization: a sludge disintegration model J. Environ. Sci. China 24: (2012) 814-820 Y.X. Zhang, P.Y. Zhang, B.Q. Ma, H. Wu, S. Zhang, X. Xu, Sewage sludge disintegration by high-pressure homogenization: a sludge disintegration model, J. Environ. Sci. China, 24 (2012) 814â€“820. [28] W. Fang, P. Zhang, G. Zhang, S. Jin, D. Li, M. Zhang, X. Xu, Effect of alkaline addition on anaerobic sludge digestion with combined pretreatment of alkaline and high pressure homogenization Bioresour. Technol. 168: (2014) 167-172 W. Fang, P. Zhang, G. Zhang, S. Jin, D. Li, M. Zhang, X. Xu, Effect of alkaline addition on anaerobic sludge digestion with combined pretreatment of alkaline and high pressure homogenization, Bioresour. Technol., 168 (2014) 167â€“172. [29] C. Bougrier, H. Carrere, J.P. Delgenes, Solubilisation of waste- activated sludge by ultrasonic treatment Chem. Eng. J. 106: (2005) 163-169 C. Bougrier, H. Carrere, J.P. Delgenes, Solubilisation of waste- activated sludge by ultrasonic treatment, Chem. Eng. J., 106 (2005) 163â€“169. [30] A.E. Greenburg, L.S. Clesceri, A.D. Eaton, Standard methods for the Examination of Water and Wastewater (1992) Public Health Assoc Washington, DC A.E. Greenburg, L.S. Clesceri, A.D. Eaton, Standard methods for the Examination of Water and Wastewater, Public Health Assoc., Washington, DC, 1992. [31] S. Pilli, P. Bhunia, S. Yan, R.J. LeBlanc, R.D. Tyagi, R.Y. Sura-mpalli, Ultrasonic pretreatment of sludge: a review, Ultrason Sonochem. 18: (2011) 1-18 S. Pilli, P. Bhunia, S. Yan, R.J. LeBlanc, R.D. Tyagi, R.Y. Sura- mpalli, Ultrasonic pretreatment of sludge: a review, Ultrason. Sonochem., 18 (2011) 1â€“18. [32] F. DonsÃ¬, G. Ferrari, E. Lenza, P. Maresca, Main factors regulating microbial inactivation by high-pressure homogenization: operating parameters and scale of operation Chem. Eng. Sci. 64: (2009) 520-532 F. DonsÃ¬, G. Ferrari, E. Lenza, P. Maresca, Main factors regulating microbial inactivation by high-pressure homogenization: operating parameters and scale of operation, Chem. Eng. Sci., 64 (2009) 520â€“532. [33] M.L. Torres, M.D.E. Llorens, Effect of alkaline pretreatment on anaerobic digestion of solid wastes Waste Manage. 28: (2008) 2229-2234 M.L. Torres, M.D.E. Llorens, Effect of alkaline pretreatment on anaerobic digestion of solid wastes, Waste Manage., 28 (2008) 2229â€“2234. [34] V.K. Tyagi, S.L. Lo, Enhancement in mesophilic aerobic digestion of waste activated sludge by chemically assisted thermal pretreatment method Bioresour. Technol. 119: (2012) 105-113 V.K. Tyagi, S.L. Lo, Enhancement in mesophilic aerobic digestion of waste activated sludge by chemically assisted thermal pretreatment method, Bioresour. Technol., 119 (2012) 105â€“113. [35] C.M. Braguglia, A. Gianico, G. Mininni, Comparison between ozone and ultrasound disintegration on sludge anaerobic digestion J. Environ. Manage. 95: Suppl (2012) S139-S143 C.M. Braguglia, A. Gianico, G. Mininni, Comparison between ozone and ultrasound disintegration on sludge anaerobic digestion, J. Environ. Manage., 95 Suppl. (2012) S139â€“S143. [36] M. Weemaes, H. Grootaerd, F. Simoens, W. Verstraete, Anaerobic digestion of ozonized biosolids Water Res. 34: (2000) 2330-2336 M. Weemaes, H. Grootaerd, F. Simoens, W. Verstraete, Anaerobic digestion of ozonized biosolids, Water Res., 34 (2000) 2330â€“2336. [37] H.B. Choi, K.Y. Hwang, E.B. Shin, Effects on anaerobic digestion of sewage sludge pretreatment Water Sci. Technol. 35: (1997) 207-211 H.B. Choi, K.Y. Hwang, E.B. Shin, Effects on anaerobic digestion of sewage sludge pretreatment, Water Sci. Technol., 35 (1997) 207â€“211. [38] I. Dogan, F.D. Sanin, Alkaline solubilization and microwave irradiation as a combined sludge disintegration and minimization method Water Res. 43: (2009) 2139-2148 I. Dogan, F.D. Sanin, Alkaline solubilization and microwave irradiation as a combined sludge disintegration and minimization method, Water Res., 43 (2009) 2139â€“2148. [39] T. Ghose, A. Singh, S. Mukhopadhyay, Increased methane production in biogas Biotechnol. Lett. 1: (1979) 275-280 T. Ghose, A. Singh, S. Mukhopadhyay, Increased methane production in biogas, Biotechnol. Lett., 1 (1979) 275â€“280. [40] M.H. Hwang, N.J. Jang, S.H. Hyun, I.S. Kim, Anaerobic biohydrogen production from ethanol fermentation: the role of pH J. Biotechnol. 111: (2004) 297-309 M.H. Hwang, N.J. Jang, S.H. Hyun, I.S. Kim, Anaerobic biohydrogen production from ethanol fermentation: the role of pH, J. Biotechnol., 111 (2004) 297â€“309. [41] L. Bjornsson, M. Murto, B. Mattiasson, Evaluation of parameters for monitoring an anaerobic co-digestion process Appl. Microbiol. Biotechnol. 54: (2000) 844-849 L. Bjornsson, M. Murto, B. Mattiasson, Evaluation of parameters for monitoring an anaerobic co-digestion process, Appl. Microbiol. Biotechnol., 54 (2000) 844â€“849.   â€“172. [29] C. Bougrier, H. Carrere, J.P. Delgenes, Solubilisation of waste- activated sludge by ultrasonic treatment Chem. Eng. J. 106: (2005) 163-169 C. Bougrier, H. Carrere, J.P. Delgenes, Solubilisation of waste- activated sludge by ultrasonic treatment, Chem. Eng. J., 106 (2005) 163â€“169. [30] A.E. Greenburg, L.S. Clesceri, A.D. Eaton, Standard methods for the Examination of Water and Wastewater (1992) Public Health Assoc Washington, DC A.E. Greenburg, L.S. Clesceri, A.D. Eaton, Standard methods for the Examination of Water and Wastewater, Public Health Assoc., Washington, DC, 1992. [31] S. Pilli, P. Bhunia, S. Yan, R.J. LeBlanc, R.D. Tyagi, R.Y. Sura-mpalli, Ultrasonic pretreatment of sludge: a review, Ultrason Sonochem. 18: (2011) 1-18 S. Pilli, P. Bhunia, S. Yan, R.J. LeBlanc, R.D. Tyagi, R.Y. Sura- mpalli, Ultrasonic pretreatment of sludge: a review, Ultrason. Sonochem., 18 (2011) 1â€“18. [32] F. DonsÃ¬, G. Ferrari, E. Lenza, P. Maresca, Main factors regulating microbial inactivation by high-pressure homogenization: operating parameters and scale of operation Chem. Eng. Sci. 64: (2009) 520-532 F. DonsÃ¬, G. Ferrari, E. Lenza, P. Maresca, Main factors regulating microbial inactivation by high-pressure homogenization: operating parameters and scale of operation, Chem. Eng. Sci., 64 (2009) 520â€“532. [33] M.L. Torres, M.D.E. Llorens, Effect of alkaline pretreatment on anaerobic digestion of solid wastes Waste Manage. 28: (2008) 2229-2234 M.L. Torres, M.D.E. Llorens, Effect of alkaline pretreatment on anaerobic digestion of solid wastes, Waste Manage., 28 (2008) 2229â€“2234. [34] V.K. Tyagi, S.L. Lo, Enhancement in mesophilic aerobic digestion of waste activated sludge by chemically assisted thermal pretreatment method Bioresour. Technol. 119: (2012) 105-113 V.K. Tyagi, S.L. Lo, Enhancement in mesophilic aerobic digestion of waste activated sludge by chemically assisted thermal pretreatment method, Bioresour. Technol., 119 (2012) 105â€“113. [35] C.M. Braguglia, A. Gianico, G. Mininni, Comparison between ozone and ultrasound disintegration on sludge anaerobic digestion J. Environ. Manage. 95: Suppl (2012) S139-S143 C.M. Braguglia, A. Gianico, G. Mininni, Comparison between ozone and ultrasound disintegration on sludge anaerobic digestion, J. Environ. Manage., 95 Suppl. (2012) S139â€“S143. [36] M. Weemaes, H. Grootaerd, F. Simoens, W. Verstraete, Anaerobic dige</xocs:rawtext><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.6" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>DWT</jid>
+            <aid>62000018</aid>
+            <ce:pii>S1944-3986(24)12011-5</ce:pii>
+            <ce:doi>10.5004/dwt.2017.0288</ce:doi>
+            <ce:copyright type="full-transfer" year="2017">Elsevier Inc.</ce:copyright>
+            <ce:copyright-line>© 2017 Elsevier Inc.</ce:copyright-line>
+         </item-info>
+         <simple-head>
+            <ce:title id="ti0005">Effect of high pressure homogenization on anaerobic digestion of the sludge pretreated by combined alkaline and high pressure homogenization</ce:title>
+            <ce:author-group id="ag0005">
+               <ce:author id="au0005" author-id="S1944398624120115-6b6ec1bc030dbdc82ded766c9ceaad87">
+                  <ce:given-name>Wei</ce:given-name>
+                  <ce:surname>Fang</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="af0010" id="cf0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au0010" author-id="S1944398624120115-699a1b0aea3c96bed2fc1ccc7669901f">
+                  <ce:given-name>Panyue</ce:given-name>
+                  <ce:surname>Zhang</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0015">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="af0010" id="cf0020">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cr0005" id="cf0025">*</ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au0015" author-id="S1944398624120115-1a82c5d0dd91a35f78ddd84ab2e48f85">
+                  <ce:given-name>Ran</ce:given-name>
+                  <ce:surname>Shang</ce:surname>
+                  <ce:cross-ref refid="af0015" id="cf0030">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au0020" author-id="S1944398624120115-b921cd48e5579fbd61ab6fee7c641a78">
+                  <ce:given-name>Jie</ce:given-name>
+                  <ce:surname>Ye</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0035">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="af0010" id="cf0040">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au0025" author-id="S1944398624120115-5aca23dad3ec857464a45d2f72862c1b">
+                  <ce:given-name>Yan</ce:given-name>
+                  <ce:surname>Wu</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0045">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="af0010" id="cf0050">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au0030" author-id="S1944398624120115-9375793df64393bf93badf15f757ee9a">
+                  <ce:given-name>Haibo</ce:given-name>
+                  <ce:surname>Zhang</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0055">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="af0010" id="cf0060">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au0035" author-id="S1944398624120115-434d2af646dcd4dbc6ee832ab35753e1">
+                  <ce:given-name>Jianbo</ce:given-name>
+                  <ce:surname>Liu</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0065">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="af0010" id="cf0070">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au0040" author-id="S1944398624120115-6e778f8d3e4ecdc7bdf04979ee58708f">
+                  <ce:given-name>Xiying</ce:given-name>
+                  <ce:surname>Gou</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0075">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="af0010" id="cf0080">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au0045" author-id="S1944398624120115-c4fe9e4f42ca73ca13308dd969b1cab1">
+                  <ce:given-name>Guangming</ce:given-name>
+                  <ce:surname>Zeng</ce:surname>
+                  <ce:cross-ref refid="af0005" id="cf0085">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="af0010" id="cf0090">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au0050" author-id="S1944398624120115-fc051f1726a6c66fac233a2c90bb5d59">
+                  <ce:given-name>Shuqiong</ce:given-name>
+                  <ce:surname>Zhou</ce:surname>
+                  <ce:cross-ref refid="af0020" id="cf0095">
+                     <ce:sup loc="post">d</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="af0005" affiliation-id="S1944398624120115-a00b56de6b4ce9fedc79463d31aaeeea">
+                  <ce:label>a</ce:label>
+                  <ce:textfn id="tn0005">College of Environmental Science and Engineering, Hunan University, Changsha 410082, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>College of Environmental Science and Engineering</sa:organization>
+                     <sa:organization>Hunan University</sa:organization>
+                     <sa:city>Changsha</sa:city>
+                     <sa:postal-code>410082</sa:postal-code>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="se0005">College of Environmental Science and Engineering, Hunan University, Changsha 410082, China, Tel. +86 15001255497; Fax: +86 10 62336900</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="af0010" affiliation-id="S1944398624120115-e2bdb6f273dd5f415056c59bd28256cf">
+                  <ce:label>b</ce:label>
+                  <ce:textfn id="tn0010">Key Laboratory of Environmental Biology and Pollution Control (Hunan University), Ministry of Education, Changsha 410082, P.R. China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Key Laboratory of Environmental Biology and Pollution Control (Hunan University), Ministry of Education</sa:organization>
+                     <sa:city>Changsha</sa:city>
+                     <sa:postal-code>410082</sa:postal-code>
+                     <sa:country>P.R. China</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="se0010">Key Laboratory of Environmental Biology and Pollution Control (Hunan University), Ministry of Education, Changsha 410082, P.R. China, Tel. +86 15001255497; Fax: +86 10 62336900</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="af0015" affiliation-id="S1944398624120115-809ccf20ce178435ce66db83c3e06e51">
+                  <ce:label>c</ce:label>
+                  <ce:textfn id="tn0015">Department of Sanitary Engineering, Faculty of Civil Engineering and Geosciences, Delft University of Technology, P.O. Box 5048, 2600, GA, Delft, The Netherlands</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Sanitary Engineering, Faculty of Civil Engineering and Geosciences</sa:organization>
+                     <sa:organization>Delft University of Technology</sa:organization>
+                     <sa:address-line>P.O. Box 5048</sa:address-line>
+                     <sa:city>Delft</sa:city>
+                     <sa:state>GA</sa:state>
+                     <sa:postal-code>2600</sa:postal-code>
+                     <sa:country>The Netherlands</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="se0015">Department of Sanitary Engineering, Faculty of Civil Engineering and Geosciences, Delft University of Technology, P.O. Box 5048, 2600 GA Delft, The Netherlands</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="af0020" affiliation-id="S1944398624120115-383ec49ca080f95eb1e2ff55e413a15f">
+                  <ce:label>d</ce:label>
+                  <ce:textfn id="tn0020">ShenZhen Techand Ecology and Environment CO., LTD., Shenzhen 518040, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>ShenZhen Techand Ecology and Environment CO., LTD.</sa:organization>
+                     <sa:city>Shenzhen</sa:city>
+                     <sa:postal-code>518040</sa:postal-code>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="se0020">ShenZhen Techand Ecology and Environment CO., LTD., Shenzhen 518040, China</ce:source-text>
+               </ce:affiliation>
+               <ce:correspondence id="cr0005">
+                  <ce:label>*</ce:label>
+                  <ce:text id="tx0005">Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="15" month="3" year="2016"/>
+            <ce:date-accepted day="18" month="7" year="2016" role="suppressed"/>
+            <ce:abstract id="ab0005" xml:lang="en" view="extended" class="author"><ce:abstract-sec id="as0005" view="all">
+                  <ce:simple-para id="sp0005" view="all">In order to improve the efficiency of anaerobic sludge digestion, alkaline and high pressure homogenization (HPH) were combined to pre-treat the excess activated sludge. The effect of HPH operating parameters, including homogenization pressure and cycle number, on the performances of anaerobic sludge digestion was studied. The results demonstrated that the performances of sludge disintegration and anaerobic digestion were markedly enhanced by increasing the homogenization pressure. After pretreatment at a homogenization pressure of 60 MPa with one homogenization cycle combined with an alkaline dosage of 0.04 mol/L, the sludge TCOD, VS removal and cumulative biogas production in a mesophilic anaerobic digestion system increased by 24.68%, 18.95% and 95.81%, respectively, in comparison with that with the alkaline pretreatment alone. But the sludge disintegration and biogas production only slightly increased with the increase of homogenization cycle. Considering biogas production and energy-saving, the suitable homogenization operation was selected as homogenization pressure of 60 MPa with once cycle. Relationships between methane yield and sludge disintegration showed that the improved methane production was mainly attributed to the sludge disintegration resulted from combined sludge pretreatment.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords view="extended" id="ks0005" class="keyword">
+               <ce:section-title id="st0010">Keywords</ce:section-title>
+               <ce:keyword id="kw0005">
+                  <ce:text id="tx0010">Anaerobic digestion</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0010">
+                  <ce:text id="tx0015">High pressure homogenization</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0015">
+                  <ce:text id="tx0020">Alkaline pretreatment</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0020">
+                  <ce:text id="tx0025">Biogas production</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0025">
+                  <ce:text id="tx0030">Combined pretreatment</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </simple-head>
+         <simple-tail view="all">
+            <ce:bibliography id="bi0005" view="all">
+               <ce:section-title id="st0015">References</ce:section-title>
+               <ce:bibliography-sec id="bs0005" view="all">
+                  <ce:bib-reference id="bb0005">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="rf0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Du</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Liang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Influence of NaOH and thermal pretreatment on dewatered activated sludge solubilisation and subsequent anaerobic digestion: Focused on high-solid state</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>185</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>171</sb:first-page>
+                              <sb:last-page>177</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0025">S. Zhang, H. Guo, L. Du, J. Liang, X. Lu, N. Li, K. Zhang, Influence of NaOH and thermal pretreatment on dewatered activated sludge solubilisation and subsequent anaerobic digestion: Focused on high-solid state, Bioresour. Technol., 185 (2015) 171–177.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0010">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="rf0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.N.</ce:given-name>
+                                 <ce:surname>Aziz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.L.</ce:given-name>
+                                 <ce:surname>de los Reyes</ce:surname>
+                                 <ce:suffix>III</ce:suffix>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Determining the limits of anaerobic co-digestion of thickened waste activated sludge with grease interceptor waste</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>47</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3835</sb:first-page>
+                              <sb:last-page>3844</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0030">L. Wang, T.N. Aziz, F.L. de los Reyes III, Determining the limits of anaerobic co-digestion of thickened waste activated sludge with grease interceptor waste, Water Res., 47 (2013) 3835–3844.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0015">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="rf0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.B.</ce:given-name>
+                                 <ce:surname>Ferreira</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Hu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Spanjers</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.B.</ce:given-name>
+                                 <ce:surname>van Lier</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Improving methane production and phosphorus release in anaerobic digestion of particulate saline sludge from a brackish aquaculture recirculation system</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>162</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>384</sb:first-page>
+                              <sb:last-page>388</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0035">X. Zhang, R.B. Ferreira, J. Hu, H. Spanjers, J.B. van Lier, Improving methane production and phosphorus release in anaerobic digestion of particulate saline sludge from a brackish aquaculture recirculation system, Bioresour. Technol., 162 (2014) 384–388.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0020">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="rf0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Carrere</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Dumas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Battimelli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.J.</ce:given-name>
+                                 <ce:surname>Batstone</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Delgenes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Steyer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Ferrer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Pretreatment methods to improve sludge anaerobic degradability: a review</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Hazard. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>183</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>15</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0040">H. Carrere, C. Dumas, A. Battimelli, D.J. Batstone, J.P. Delgenes, J.P. Steyer, I. Ferrer, Pretreatment methods to improve sludge anaerobic degradability: a review, J. Hazard. Mater., 183 (2010) 1–15.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0025">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="rf0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.J.</ce:given-name>
+                                 <ce:surname>Higgins</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.T.</ce:given-name>
+                                 <ce:surname>Novak</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Characterization of exocellular protein and its role in bioflocculation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Environ. Eng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>123</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>479</sb:first-page>
+                              <sb:last-page>485</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0045">M.J. Higgins, J.T. Novak, Characterization of exocellular protein and its role in bioflocculation, J. Environ. Eng., 123 (1997) 479–485.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0030">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="rf0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Tiehm</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Nickel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Zellhorn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>Neis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ultrasonic waste activated sludge disintegration for improving anaerobic stabilization</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2003</sb:first-page>
+                              <sb:last-page>2009</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0050">A. Tiehm, K. Nickel, M. Zellhorn, U. Neis, Ultrasonic waste activated sludge disintegration for improving anaerobic stabilization, Water Res., 35 (2001) 2003–2009.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0035">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="rf0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Yuan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Lou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Zhu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Enhancement of anaerobic digestion of waste activated sludge by electrochemical pretreatment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Fuel</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>130</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>279</sb:first-page>
+                              <sb:last-page>285</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0055">B. Yu, J. Xu, H. Yuan, Z. Lou, J. Lin, N. Zhu, Enhancement of anaerobic digestion of waste activated sludge by electrochemical pretreatment, Fuel, 130 (2014) 279–285.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0040">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="rf0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Alkali pretreatment enhances biogas production in the anaerobic digestion of pulp and paper sludge</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Hazard. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>170</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>366</sb:first-page>
+                              <sb:last-page>373</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0060">Y. Lin, D. Wang, S. Wu, C. Wang, Alkali pretreatment enhances biogas production in the anaerobic digestion of pulp and paper sludge, J. Hazard. Mater., 170 (2009) 366–373.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0045">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="rf0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.V.</ce:given-name>
+                                 <ce:surname>Skiadas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.N.</ce:given-name>
+                                 <ce:surname>Gavala</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.K.</ce:given-name>
+                                 <ce:surname>Ahring</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Thermal pretreatment of primary and secondary sludge at 70 C prior to anaerobic digestion</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>52</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>161</sb:first-page>
+                              <sb:last-page>166</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0065">I.V. Skiadas, H.N. Gavala, J. Lu, B.K. Ahring, Thermal pretreatment of primary and secondary sludge at 70 C prior to anaerobic digestion, Water Sci. Technol., 52 (2005) 161–166.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0050">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="rf0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.W.</ce:given-name>
+                                 <ce:surname>Nah</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.W.</ce:given-name>
+                                 <ce:surname>Kang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.Y.</ce:given-name>
+                                 <ce:surname>Hwang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.K.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mechanical pretreatment of waste activated sludge for anaerobic digestion process</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>34</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2362</sb:first-page>
+                              <sb:last-page>2368</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0070">I.W. Nah, Y.W. Kang, K.Y. Hwang, W.K. Song, Mechanical pretreatment of waste activated sludge for anaerobic digestion process, Water Res., 34 (2000) 2362–2368.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0055">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="rf0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.Y.</ce:given-name>
+                                 <ce:surname>Zhen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.Q.</ce:given-name>
+                                 <ce:surname>Lu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.Y.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.C.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Combined electrical- alkali pretreatment to increase the anaerobic hydrolysis rate of waste activated sludge during anaerobic digestion</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>128</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>93</sb:first-page>
+                              <sb:last-page>102</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0075">G.Y. Zhen, X.Q. Lu, Y.Y. Li, Y.C. Zhao, Combined electrical- alkali pretreatment to increase the anaerobic hydrolysis rate of waste activated sludge during anaerobic digestion, Appl. Energy, 128 (2014) 93–102.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0060">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="rf0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.-H.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.-W.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effects of various pretreatments for enhanced anaerobic digestion with waste activated sludge</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Biosci. Bioeng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>95</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>271</sb:first-page>
+                              <sb:last-page>275</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0080">J. Kim, C. Park, T.-H. Kim, M. Lee, S. Kim, S.-W. Kim, J. Lee, Effects of various pretreatments for enhanced anaerobic digestion with waste activated sludge, J. Biosci. Bioeng., 95 (2003) 271–275.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0065">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="rf0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.A.</ce:given-name>
+                                 <ce:surname>Baccay</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.G.</ce:given-name>
+                                 <ce:surname>Hashimoto</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Acidogenic and methanogenic fermentation of causticized straw</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biotechnol. Bioeng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>26</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>885</sb:first-page>
+                              <sb:last-page>891</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0085">R.A. Baccay, A.G. Hashimoto, Acidogenic and methanogenic fermentation of causticized straw, Biotechnol. Bioeng., 26 (1984) 885–891.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0070">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="rf0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.T.</ce:given-name>
+                                 <ce:surname>Cassini</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.C.E.</ce:given-name>
+                                 <ce:surname>Andrade</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.A.</ce:given-name>
+                                 <ce:surname>Abreu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Keller</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.F.</ce:given-name>
+                                 <ce:surname>Goncalves</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Alkaline and acid hydrolytic processes in aerobic and anaerobic sludges: effect on total EPS and fractions</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>53</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>51</sb:first-page>
+                              <sb:last-page>58</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0090">S.T. Cassini, M.C.E. Andrade, T.A. Abreu, R. Keller, R.F. Goncalves, Alkaline and acid hydrolytic processes in aerobic and anaerobic sludges: effect on total EPS and fractions, Water Sci. Technol., 53 (2006) 51–58.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0075">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="rf0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Penaud</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Delgenes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Moletta</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Thermo-chemical pretreatment of a microbial biomass: influence of sodium hydroxide addition on solubilization and anaerobic biodegradability</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Enzyme Microb. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>258</sb:first-page>
+                              <sb:last-page>263</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0095">V. Penaud, J.P. Delgenes, R. Moletta, Thermo-chemical pretreatment of a microbial biomass: influence of sodium hydroxide addition on solubilization and anaerobic biodegradability, Enzyme Microb. Technol., 25 (1999) 258–263.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0080">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="rf0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Mouneimne</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Carrere</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Bernet</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Delgenes</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of saponification on the anaerobic digestion of solid fatty residues</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>90</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>89</sb:first-page>
+                              <sb:last-page>94</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0100">A. Mouneimne, H. Carrere, N. Bernet, J. Delgenes, Effect of saponification on the anaerobic digestion of solid fatty residues, Bioresour. Technol., 90 (2003) 89–94.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0085">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="rf0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Valo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Carrere</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Delgenes</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Thermal, chemical and thermo-chemical pre-treatment of waste activated sludge for anaerobic digestion</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Technol. Biotechnol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>79</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1197</sb:first-page>
+                              <sb:last-page>1203</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0105">A. Valo, H. Carrere, J.P. Delgenes, Thermal, chemical and thermo-chemical pre-treatment of waste activated sludge for anaerobic digestion, J. Chem. Technol. Biotechnol., 79 (2004) 1197–1203.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0090">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="rf0090">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.G.</ce:given-name>
+                                 <ce:surname>Vlyssides</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.K.</ce:given-name>
+                                 <ce:surname>Karlis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Thermal-alkaline solubilization of waste activated sludge as a pre-treatment stage for anaerobic digestion</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>91</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>201</sb:first-page>
+                              <sb:last-page>206</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0110">A.G. Vlyssides, P.K. Karlis, Thermal-alkaline solubilization of waste activated sludge as a pre-treatment stage for anaerobic digestion, Bioresour. Technol., 91 (2004) 201–206.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0095">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="rf0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Jacquel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.-W.</ce:given-name>
+                                 <ce:surname>Lo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.-H.</ce:given-name>
+                                 <ce:surname>Wei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.-S.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.S.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Isolation and purification of bacterial poly (3-hydroxyalkanoates)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biochem. Eng. J.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>15</sb:first-page>
+                              <sb:last-page>27</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0115">N. Jacquel, C.-W. Lo, Y.-H. Wei, H.-S. Wu, S.S. Wang, Isolation and purification of bacterial poly (3-hydroxyalkanoates), Biochem. Eng. J., 39 (2008) 15–27.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0100">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="rf0100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.L.</ce:given-name>
+                                 <ce:surname>Rai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.G.</ce:given-name>
+                                 <ce:surname>Rao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Influence of sludge disintegration by high pressure homogenizer on microbial growth in sewage sludge: an approach for excess sludge reduction</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Clean Technol. Environ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>437</sb:first-page>
+                              <sb:last-page>446</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0120">C.L. Rai, P.G. Rao, Influence of sludge disintegration by high pressure homogenizer on microbial growth in sewage sludge: an approach for excess sludge reduction, Clean Technol. Environ., 11 (2009) 437–446.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0105">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="rf0105">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Fan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Enhancement of anaerobic sludge digestion by high-pressure homogenization</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>118</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>496</sb:first-page>
+                              <sb:last-page>501</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0125">S. Zhang, P. Zhang, G. Zhang, J. Fan, Y. Zhang, Enhancement of anaerobic sludge digestion by high-pressure homogenization, Bioresour. Technol., 118 (2012) 496–501.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0110">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="rf0110">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Barjenbruch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Kopplow</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Enzymatic, mechanical and thermal pre-treatment of surplus sludge</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Adv. Environ. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>715</sb:first-page>
+                              <sb:last-page>720</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0130">M. Barjenbruch, O. Kopplow, Enzymatic, mechanical and thermal pre-treatment of surplus sludge, Adv. Environ. Res., 7 (2003) 715–720.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0115">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="rf0115">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Floury</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Bellettre</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Legrand</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Desrumaux</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Analysis of a new type of high pressure homogeniser. A study of the flow pattern</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Eng. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>59</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>843</sb:first-page>
+                              <sb:last-page>853</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0135">J. Floury, J. Bellettre, J. Legrand, A. Desrumaux, Analysis of a new type of high pressure homogeniser. A study of the flow pattern, Chem. Eng. Sci., 59 (2004) 843–853.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0120">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="rf0120">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.K.</ce:given-name>
+                                 <ce:surname>Wahidunnabi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Eskicioglu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>High pressure homogenization and two-phased anaerobic digestion for enhanced biogas conversion from municipal waste sludge</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>66</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>430</sb:first-page>
+                              <sb:last-page>446</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0140">A.K. Wahidunnabi, C. Eskicioglu, High pressure homogenization and two-phased anaerobic digestion for enhanced biogas conversion from municipal waste sludge, Water Res., 66 (2014) 430–446.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0125">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="rf0125">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Onyeche</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Schläfer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Sievers</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Advanced anaerobic digestion of sludge through high pressure homogenisation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Solid Waste Technol. Manage.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>29</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>56</sb:first-page>
+                              <sb:last-page>61</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0145">T. Onyeche, O. Schläfer, M. Sievers, Advanced anaerobic digestion of sludge through high pressure homogenisation, J. Solid Waste Technol. Manage., 29 (2003) 56–61.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0130">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="rf0130">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.X.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.M.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.F.</ce:given-name>
+                                 <ce:surname>Ma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.Q.</ce:given-name>
+                                 <ce:surname>Ma</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Sewage sludge disintegration by combined treatment of alkaline plus high pressure homogenization</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>123</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>514</sb:first-page>
+                              <sb:last-page>519</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0150">Y.X. Zhang, P.Y. Zhang, G.M. Zhang, W.F. Ma, H. Wu, B.Q. Ma, Sewage sludge disintegration by combined treatment of alkaline plus high pressure homogenization, Bioresour. Technol., 123 (2012) 514–519.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0135">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference id="rf0135">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.X.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.Q.</ce:given-name>
+                                 <ce:surname>Ma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Sewage sludge disintegration by high-pressure homogenization: a sludge disintegration model</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Environ. Sci. China</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>24</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>814</sb:first-page>
+                              <sb:last-page>820</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0155">Y.X. Zhang, P.Y. Zhang, B.Q. Ma, H. Wu, S. Zhang, X. Xu, Sewage sludge disintegration by high-pressure homogenization: a sludge disintegration model, J. Environ. Sci. China, 24 (2012) 814–820.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0140">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference id="rf0140">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Fang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Jin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of alkaline addition on anaerobic sludge digestion with combined pretreatment of alkaline and high pressure homogenization</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>168</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>167</sb:first-page>
+                              <sb:last-page>172</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0160">W. Fang, P. Zhang, G. Zhang, S. Jin, D. Li, M. Zhang, X. Xu, Effect of alkaline addition on anaerobic sludge digestion with combined pretreatment of alkaline and high pressure homogenization, Bioresour. Technol., 168 (2014) 167–172.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0145">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference id="rf0145">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Bougrier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Carrere</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Delgenes</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Solubilisation of waste- activated sludge by ultrasonic treatment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Eng. J.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>106</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>163</sb:first-page>
+                              <sb:last-page>169</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0165">C. Bougrier, H. Carrere, J.P. Delgenes, Solubilisation of waste- activated sludge by ultrasonic treatment, Chem. Eng. J., 106 (2005) 163–169.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0150">
+                     <ce:label>[30]</ce:label>
+                     <sb:reference id="rf0150">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.E.</ce:given-name>
+                                 <ce:surname>Greenburg</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.S.</ce:given-name>
+                                 <ce:surname>Clesceri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.D.</ce:given-name>
+                                 <ce:surname>Eaton</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Standard methods for the Examination of Water and Wastewater</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>1992</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Public Health Assoc</sb:name>
+                                 <sb:location>Washington, DC</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0170">A.E. Greenburg, L.S. Clesceri, A.D. Eaton, Standard methods for the Examination of Water and Wastewater, Public Health Assoc., Washington, DC, 1992.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0155">
+                     <ce:label>[31]</ce:label>
+                     <sb:reference id="rf0155">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Pilli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Bhunia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Yan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>LeBlanc</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.D.</ce:given-name>
+                                 <ce:surname>Tyagi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.Y.</ce:given-name>
+                                 <ce:surname>Sura-mpalli</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ultrasonic pretreatment of sludge: a review, Ultrason</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Sonochem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>18</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0175">S. Pilli, P. Bhunia, S. Yan, R.J. LeBlanc, R.D. Tyagi, R.Y. Sura- mpalli, Ultrasonic pretreatment of sludge: a review, Ultrason. Sonochem., 18 (2011) 1–18.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0160">
+                     <ce:label>[32]</ce:label>
+                     <sb:reference id="rf0160">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Donsì</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Ferrari</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Lenza</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Maresca</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Main factors regulating microbial inactivation by high-pressure homogenization: operating parameters and scale of operation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Eng. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>64</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>520</sb:first-page>
+                              <sb:last-page>532</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0180">F. Donsì, G. Ferrari, E. Lenza, P. Maresca, Main factors regulating microbial inactivation by high-pressure homogenization: operating parameters and scale of operation, Chem. Eng. Sci., 64 (2009) 520–532.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0165">
+                     <ce:label>[33]</ce:label>
+                     <sb:reference id="rf0165">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.L.</ce:given-name>
+                                 <ce:surname>Torres</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.D.E.</ce:given-name>
+                                 <ce:surname>Llorens</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of alkaline pretreatment on anaerobic digestion of solid wastes</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Waste Manage.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>28</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2229</sb:first-page>
+                              <sb:last-page>2234</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0185">M.L. Torres, M.D.E. Llorens, Effect of alkaline pretreatment on anaerobic digestion of solid wastes, Waste Manage., 28 (2008) 2229–2234.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0170">
+                     <ce:label>[34]</ce:label>
+                     <sb:reference id="rf0170">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.K.</ce:given-name>
+                                 <ce:surname>Tyagi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.L.</ce:given-name>
+                                 <ce:surname>Lo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Enhancement in mesophilic aerobic digestion of waste activated sludge by chemically assisted thermal pretreatment method</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>119</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>105</sb:first-page>
+                              <sb:last-page>113</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0190">V.K. Tyagi, S.L. Lo, Enhancement in mesophilic aerobic digestion of waste activated sludge by chemically assisted thermal pretreatment method, Bioresour. Technol., 119 (2012) 105–113.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0175">
+                     <ce:label>[35]</ce:label>
+                     <sb:reference id="rf0175">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.M.</ce:given-name>
+                                 <ce:surname>Braguglia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Gianico</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Mininni</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Comparison between ozone and ultrasound disintegration on sludge anaerobic digestion</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Environ. Manage.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>95</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>Suppl</sb:issue-nr>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>S139</sb:first-page>
+                              <sb:last-page>S143</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0195">C.M. Braguglia, A. Gianico, G. Mininni, Comparison between ozone and ultrasound disintegration on sludge anaerobic digestion, J. Environ. Manage., 95 Suppl. (2012) S139–S143.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0180">
+                     <ce:label>[36]</ce:label>
+                     <sb:reference id="rf0180">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Weemaes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Grootaerd</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Simoens</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Verstraete</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Anaerobic digestion of ozonized biosolids</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>34</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2330</sb:first-page>
+                              <sb:last-page>2336</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0200">M. Weemaes, H. Grootaerd, F. Simoens, W. Verstraete, Anaerobic digestion of ozonized biosolids, Water Res., 34 (2000) 2330–2336.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0185">
+                     <ce:label>[37]</ce:label>
+                     <sb:reference id="rf0185">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.B.</ce:given-name>
+                                 <ce:surname>Choi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.Y.</ce:given-name>
+                                 <ce:surname>Hwang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.B.</ce:given-name>
+                                 <ce:surname>Shin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effects on anaerobic digestion of sewage sludge pretreatment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>207</sb:first-page>
+                              <sb:last-page>211</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0205">H.B. Choi, K.Y. Hwang, E.B. Shin, Effects on anaerobic digestion of sewage sludge pretreatment, Water Sci. Technol., 35 (1997) 207–211.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0190">
+                     <ce:label>[38]</ce:label>
+                     <sb:reference id="rf0190">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Dogan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.D.</ce:given-name>
+                                 <ce:surname>Sanin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Alkaline solubilization and microwave irradiation as a combined sludge disintegration and minimization method</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>43</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2139</sb:first-page>
+                              <sb:last-page>2148</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0210">I. Dogan, F.D. Sanin, Alkaline solubilization and microwave irradiation as a combined sludge disintegration and minimization method, Water Res., 43 (2009) 2139–2148.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0195">
+                     <ce:label>[39]</ce:label>
+                     <sb:reference id="rf0195">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Ghose</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Singh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Mukhopadhyay</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Increased methane production in biogas</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biotechnol. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>275</sb:first-page>
+                              <sb:last-page>280</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0215">T. Ghose, A. Singh, S. Mukhopadhyay, Increased methane production in biogas, Biotechnol. Lett., 1 (1979) 275–280.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0200">
+                     <ce:label>[40]</ce:label>
+                     <sb:reference id="rf0200">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.H.</ce:given-name>
+                                 <ce:surname>Hwang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.J.</ce:given-name>
+                                 <ce:surname>Jang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Hyun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.S.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Anaerobic biohydrogen production from ethanol fermentation: the role of pH</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Biotechnol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>111</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>297</sb:first-page>
+                              <sb:last-page>309</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0220">M.H. Hwang, N.J. Jang, S.H. Hyun, I.S. Kim, Anaerobic biohydrogen production from ethanol fermentation: the role of pH, J. Biotechnol., 111 (2004) 297–309.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0205">
+                     <ce:label>[41]</ce:label>
+                     <sb:reference id="rf0205">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Bjornsson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Murto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Mattiasson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Evaluation of parameters for monitoring an anaerobic co-digestion process</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Microbiol. Biotechnol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>54</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>844</sb:first-page>
+                              <sb:last-page>849</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="se0225">L. Bjornsson, M. Murto, B. Mattiasson, Evaluation of parameters for monitoring an anaerobic co-digestion process, Appl. Microbiol. Biotechnol., 54 (2000) 844–849.</ce:source-text>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </simple-tail>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

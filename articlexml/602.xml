@@ -1,0 +1,325 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S1878029613002296</prism:url><dc:identifier>doi:10.1016/j.proenv.2013.04.097</dc:identifier><eid>1-s2.0-S1878029613002296</eid><prism:doi>10.1016/j.proenv.2013.04.097</prism:doi><pii>S1878-0296(13)00229-6</pii><dc:title>Effect of Combined Pretreatment of Waste Activated Sludge for Anaerobic Digestion Process </dc:title><prism:publicationName>Procedia Environmental Sciences</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>18780296</prism:issn><prism:volume>18</prism:volume><prism:startingPage>716</prism:startingPage><prism:endingPage>721</prism:endingPage><prism:pageRange>716-721</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2013-12-31</prism:coverDate><prism:coverDisplayDate>2013</prism:coverDisplayDate><prism:copyright>Copyright © 2013 The Authors. Published by Elsevier B.V.</prism:copyright><prism:publisher>The Authors. Published by Elsevier B.V.</prism:publisher><prism:issueName>2013 International Symposium on Environmental Science and Technology (2013 ISEST)</prism:issueName><dc:creator>Yi, Hui</dc:creator><dc:creator>Han, Yun</dc:creator><dc:creator>Zhuo, Yang</dc:creator><dc:description>
+                  Alkaline and low-temperature thermal pretreatment has been used to the subsequent anaerobic digestion of waste activated sludge (WAS) respectively. Different combinations of these two methods were investigated and biochemical methane potential (BMP) test was used to assess the anaerobic digestibility of pretreated WAS. In this study, an optimal reaction condition was obtained by combined pretreatment and BMP test. The combination was after alkalized for 24h, adding 0.05g NaOH/g TS with 9hours at 70°C. Under this condition the removal of SS was achieved 21% and soluble chemical oxygen demand (SCOD) was more than 200 times of control group. The ratio of soluble carbohydrate/total carbohydrate can reach 72.8%. For BMP test, it's nearly 6 times higher biogas production was obtained than the control and the average value of methane content of biogas production is 64%. Thus, combined (alkaline + low-temperature thermal) pretreatment was efficiency for solubilization and biogas production.
+               </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType>ElsevierWaived</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by-nc-nd/3.0/</openaccessUserLicense><dcterms:subject>Anaerobic digestion</dcterms:subject><dcterms:subject>Pretreatment</dcterms:subject><dcterms:subject>Alkaline</dcterms:subject><dcterms:subject>Low-temperature thermal pretreatment</dcterms:subject><dcterms:subject>BMP</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S1878029613002296" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S1878029613002296" rel="scidir"/></coredata><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>270397</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291714</xocs:ssid>
+         <xocs:ssid type="subj">291780</xocs:ssid>
+         <xocs:ssid type="subj">291781</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Procedia Environmental Sciences</xocs:srctitle>
+      <xocs:normalized-srctitle>PROCEDIAENVIRONMENTALSCIENCES</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20130606">2013-06-06</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20130606">2013-06-06</xocs:available-online-date>
+      <xocs:ew-transaction-id>2014-11-04T06:50:31</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S1878029613002296</xocs:eid>
+      <xocs:pii-formatted>S1878-0296(13)00229-6</xocs:pii-formatted>
+      <xocs:pii-unformatted>S1878029613002296</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.proenv.2013.04.097</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S1878029613X00039</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20211014">2021-10-14T13:46:04.620446Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20130101</xocs:date-search-begin>
+      <xocs:date-search-end>20131231</xocs:date-search-end>
+      <xocs:year-nav>2013</xocs:year-nav>
+      <xocs:indexeddate epoch="1370476800">2013-06-06T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids confeditor contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content oa subj suppl tomb vol volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authkeywords authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>1878-0296</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>18780296</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>18</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>18</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 18</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>96</xocs:sort-order>
+      <xocs:first-fp>716</xocs:first-fp>
+      <xocs:last-lp>721</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>716</xocs:first-page>
+         <xocs:last-page>721</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>2013</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>2013</xocs:cover-date-text>
+      <xocs:cover-date-start>2013-01-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2013-12-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2013</xocs:cover-date-year>
+      <xocs:title-editors-groups>
+         <xocs:title-editors-group>
+            <ce:title>2013 International Symposium on Environmental Science and Technology (2013 ISEST)</ce:title>
+            <ce:editors>
+               <ce:author-group>
+                  <ce:author>
+                     <ce:given-name>Dr Xie</ce:given-name>
+                     <ce:surname>QUAN PhD</ce:surname>
+                  </ce:author>
+                  <ce:affiliation>
+                     <ce:textfn>Key Laboratory of Industrial Ecology and Environmental Engineering (MOE), Dalian University of Technology, Dalian, 116024, China</ce:textfn>
+                  </ce:affiliation>
+               </ce:author-group>
+            </ce:editors>
+         </xocs:title-editors-group>
+      </xocs:title-editors-groups>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Waste Solid Pollution and Remediation</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2013 The Authors. Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>EFFECTCOMBINEDPRETREATMENTWASTEACTIVATEDSLUDGEFORANAEROBICDIGESTIONPROCESS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>YI</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>H</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="oref0005"/>
+         <xocs:ref-info refid="oref0010"/>
+         <xocs:ref-info refid="oref0015"/>
+         <xocs:ref-info refid="oref0020"/>
+         <xocs:ref-info refid="oref0025"/>
+         <xocs:ref-info refid="oref0030"/>
+         <xocs:ref-info refid="oref0035"/>
+         <xocs:ref-info refid="oref0040"/>
+         <xocs:ref-info refid="oref0045"/>
+         <xocs:ref-info refid="oref0050"/>
+         <xocs:ref-info refid="oref0055"/>
+         <xocs:ref-info refid="oref0060"/>
+         <xocs:ref-info refid="oref0065"/>
+         <xocs:ref-info refid="oref0070"/>
+         <xocs:ref-info refid="oref0075"/>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>YIX2013X716</xocs:refkey3>
+         <xocs:refkey4lp>YIX2013X716X721</xocs:refkey4lp>
+         <xocs:refkey4ai>YIX2013X716XH</xocs:refkey4ai>
+         <xocs:refkey5>YIX2013X716X721XH</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2013-07-16T12:29:40Z</xocs:oa-access-effective-date>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by-nc-nd/3.0/</xocs:oa-user-license>
+         <xocs:oa-access-inherited-from winid="http://vtw.elsevier.com/content/oaw/GEN_UNBOUNDED_ESWaived">OA-Window</xocs:oa-access-inherited-from>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>ElsevierWaived</xocs:oa-sponsor-type>
+         </xocs:oa-sponsor>
+      </xocs:open-access>
+      <xocs:open-research/>
+      <xocs:copyright-info>
+         <xocs:cp-license-lines>
+            <xocs:cp-license-line lang="en"/>
+         </xocs:cp-license-lines>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en"/>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S1878-0296(13)00229-6</xocs:pii-formatted>
+         <xocs:pii-unformatted>S1878029613002296</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S1878029613002296</xocs:eid>
+         <xocs:doi>10.1016/j.proenv.2013.04.097</xocs:doi>
+         <xocs:cid>270397</xocs:cid>
+         <xocs:timestamp>2014-11-04T07:33:40.322836-05:00</xocs:timestamp>
+         <xocs:cover-date-start>2013-01-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2013-12-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S1878029613002296-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1878029613002296/MAIN/application/pdf/612e9c1ef7b219893bca23301eee022b/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1878029613002296/MAIN/application/pdf/612e9c1ef7b219893bca23301eee022b/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>294713</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S1878029613002296-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1878029613002296/PREVIEW/image/png/80343b4a27a0b59457bcefe1516b9493/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1878029613002296/PREVIEW/image/png/80343b4a27a0b59457bcefe1516b9493/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>60197</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:rawtext xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd"> P r o c e d i a  E n v i r o n m e n t a l  S c i e n c e s    1 8   (  2 0 1 3  )   7 1 6  â€“  7 2 1   1878-0296  2013 The Authors. Published by Elsevier B.V. Open access under CC BY-NC-ND license. Selection and peer-review under responsibility of Beijing Institute of Technology. doi: 10.1016/j.proenv.2013.04.097  Available online at www.sciencedirect.com 2013 International Symposium on Environmental Science and Technology (2013 ISEST)  Effect of combined pretreatment of waste activated sludge for  anaerobic digestion process  Hui Yi, Yun Han*, Yang Zhuo   School of Municipal and Environmental Engineering, Xiâ€™an University of Architecture and Technology, Xiâ€™an 710055, China  Abstract   Alkaline and low-temperature thermal pretreatment has been used to the subsequent anaerobic digestion of waste  activated sludge (WAS) respectively. Different combinations of these two methods were investigated and biochemical methane potential (BMP) test was used to assess the anaerobic digestibility of pretreated WAS. In this  study, an optimal reaction condition was obtained by combined pretreatment and BMP test. The combination was  after alkalized for 24h, adding 0.05 g NaOH /g TS with 9 hours at 70Ä‡. Under this condition the removal of SS was  achieved 21% and soluble chemical oxygen demand (SCOD) was more than 200 times of control group. The ratio of  soluble carbohydrate/total carbohydrate can reach 72.8%. For BMP test, itâ€™s nearly 6 times higher biogas production  was obtained than the control and the average value of methane content of biogas production is 64 %.  Thus,  combined (alkaline + low-temperature thermal) pretreatment was efficiency for solubilization and biogas production.  Â© 2013 The Authors. Published by Elsevier B.V.   Selection and/or peer-review under responsibility of Beijing Institute of Technology.  Keywords: Anaerobic digestion; Pretreatment; Alkaline;Low-temperature thermal pretreatment; BMP  1. Introduction  The considerable increase in the amount of sewage sludge production in wastewater treatment plant  (WWTP) becomes a serious and pressing problem to the rapidly and healthy development of the city [1].  Before disposing the sewage sludge, it has to be stabilized sufficiently to reduce its organic content, odor  problem and pathogen contamination. Neyens reported on that sludge handling and disposal already  accounts for up to 50% of total treatment costs of wastewater purification in 2004[2].   Anaerobic digestion is common method for sludge stabilization to achieve sludge reduction,  harmlessness and resource reuse. Compared with other processes, its advantages are less energy required,  a better stabilized product and useable gas [3]. Anaerobic digestion has three basically steps: hydrolysis,  * Corresponding author. Tel.: 013991207226;.  E-mail address: hanyun@xauat.edu.cn   2013 The Authors. lished by Elsevier B.V. Open access under CC BY-NC-ND license. l ti   peer-revi w under r sponsibility of Beijing Institute of Technology. 717 Hui Yi et al. /  Procedia Environmental Sciences  18 ( 2013 )  716 â€“ 721  acidogenesis and methanogenesis [4]. However, it has limitation in terms of long retention times and low  overall degradation efficiency of the organic matter. All those limitations are associated with the first step:  hydrolysis. Because in the sewage sludge, most organic matters are in cells, the cell envelope of  microorganisms is a semi-rigid structure which to protect the cell from osmotic lysis.   Thus, many pretreatment methods have been suggested in literature for overcoming the limitation  enhancing the digestion rate. With a pretreatment process, not only hydrolysis is accelerated by the  increase of dissolved components but improvement of biodegradability, sludge dewatering and reduction  of pathogens and foaming can also be achieved as well[5]. Pretreatment methods have been shown to  have a positive effect on anaerobic digestion include physical (thermal, mechanical, ultrasonic,  microwave), chemical (alkaline, ozone oxidation), and biological hydrolysis (enzymatic) or combination  of any two of those methods (alkaline +thermal, alkaline + microwave, alkaline+ ultrasonic).   Alkaline pretreatment is a commonly subject of investigation; it has advantages of simple device,  convenient operation and high efficiency [6]. Sodium hydroxide at relatively low dosage level is effective  in disintegrating municipal waste activated sludge (WAS) at ambient temperature [2]. Thermal hydrolysis  includes high temperature thermal pretreatment (&gt;100Ä‡) and low temperature thermal pretreatment (Ë˜ 100Ä‡). Most papers reported on high temperature thermal pretreatment. It was shown that the higher  temperature, the more efficient the treatment is. However, when the temperatures higher than 180Ä‡, it  will lead to the production of recalcitrant soluble organics or toxic/inhibitory intermediates, hence  reducing the biodegradability [7]. It has two significant drawbacks that we can not neglect is its high  energy requirement and high quality equipments need. This largely reduces the overall profitability of the  process. Low-temperature thermal pretreatment can overcome those disadvantages, and it has been  pointed out as an effective treatment for improving biodegradability and increasing biogas production.  Some authors have concluded that the solids solubilization at temperatures around 70Ä‡ is enhanced  because of biological activity of some thermophilic bacteria populations with optimum activity  temperatures in the high values of the thermophilic range [8].  In most reports, alkaline treatment and thermal pretreatment were studied independently as  pretreatment of anaerobic digestion. Since low-temperature thermal pretreatment and alkaline treatment  are based on different mechanisms of sludge dissolution, the combination of these two methods means the  advantages of both methods can be attained and better treatment efficiency can be achieved. In this work,  the purpose is to find the more suitable combination of these two methods for increasing the WAS  anaerobic digestibility of WWTP.  2. Materials and methods  2.1. Sludge sampling and characterization  The sample waste activated sludge was obtained from the second sedimentation in the 4 th  WWTP in  Xiâ€™an, China, which is used by A 2 /O process. In order to increase the total solid of sample, the raw sludge  was treated by concentration and then stored at 4Ä‡ in the laboratory prior to the pretreatment and test.  The characteristics of raw sludge from WWTP and the concentrated substrate as control sludge used in  the experiments are shown in Table 1.   2.2 Combined alkaline + low-temperature thermal Pretreatment   Some authors have concluded that the solids solubilization at temperatures around 70Ä‡ is enhanced,  so the thermal treatment to start with 70Ä‡ at first. The first pretreatment step is alkalized in different dose  of NaOH for 24h (A24h), and then thermal treated at 70Ä‡ for 2h (A24h+T2h) and 9h (A24h+T9h). After  718   Hui Yi et al. /  Procedia Environmental Sciences  18 ( 2013 )  716 â€“ 721  the concentration, the substrate was divided into six portions, No.1 to No.6. Those six portions were  solubilized by adding sodium hydroxide (NaOH) at different dose (0, 0.05, 0.10, 0.15, 0.20, 0.25 g NaOH  /g TS), respectively, put them at ambient temperature for 24h, then put the alkalized sludge into  thermostatic water bath at 70Ä‡ for 2h  and 9h.    Table 1. Characteristics of raw and control sludge.  Parameter pH TS  SS VS VSS  COD Carbohydrate Protein  VFA  Total Soluble Total Soluble Total Soluble  Raw  6.53 20300 19750 11930 11490 18450 117 2769 54.0 5993 45.7 79.6  Control  6.9 28990 29870 18010 19910 26697 293.2 4447 113 8925 126 113.5  The unit of those parameters is mg/L except pH.  2.3 Biochemical methane potential (BMP) test  BMP test was carried out to assess the efficiency of anaerobic digestibility and to evaluate the biogas  production [9, 10].  The anaerobic degradability of the control (untreated) and alkaline + low-temperature  thermal pretreated samples were determined by shaking batch thermophilic (35 Â± 1Â°C) BMP tests in 120  mL serum bottles sealed with butyl rubber stoppers (50mL pretreated sludge+50mL inoculum), including  blanks, duplicates and controls, everyday to take down the biogas production until there has no biogas  produced. The pretreatment conditions (NaOH dose, thermal holding time) were determined on former  experiment of the combined pretreatment in this paper, the thermal temperature varied on 50, 60, 70, 80,  90Ä‡ for test the efficiency of anaerobic digestibility and find out an optimal temperature for the  combined pretreatment.  2.4 Analytical methods  The following parameters of pretreated substrate and anaerobic digestion effluent (BMP) were   analyzed: pH, TS, VS, SS, VSS, total chemical oxygen demand (TCOD), soluble chemical oxygen  demand (SCOD), volatile fatty acid (VFA), furthermore, pretreated substrate still measured total  carbohydrate, soluble carbohydrate, total protein, soluble protein,  ammonia nitrogen (NH 4 + -N). The pH,  TS, VS, SS, VSS, COD, NH 4 + -N were determined following procedures outlined in Standard Methods  [11]. Carbohydrates were measured by the Phenol-H 2 SO 4  method, and proteins were measured by the  Lowry method. Gas composition was detected by a gas chromatograph with TCD (3420A, BEIFEN Corp.  China). VFA was determined by gas chromatography with FID (3420A, BEIFEN Corp. China). Samples  used for the measurement of SCOD, soluble proteins, soluble carbohydrates, VFA, P and NH 4 + -N were  prepared by centrifugation at 10,000 r/min for 10 minutes and filtration through 0.45 Î¼m membrane filters.   3. Results and discussion  3.1. Effect of pretreatment sequence on WAS disintegration  Combined alkaline + low-temperature thermal pretreatment of sludge was performed to improve the  treatment efficiency. The pretreatment conditions were varies in different dose of NaOH and different  temperature. The expected effect of the pretreatment of sludge was an increase in soluble materials, with  interest focused on SCOD solubilization, soluble carbohydrate and protein release, VFA and biogas  719 Hui Yi et al. /  Procedia Environmental Sciences  18 ( 2013 )  716 â€“ 721  production, thus enhancing hydrolysis in order to improve the anaerobic digestibility of sludge. Table 2  shows the concentration of the components of the alkaline+70Ä‡thermal treated sludge.   Table 2.The parameters of the organic components of the alkaline+70Ä‡thermal treated sludge.   Dose  (g NaOH/g TS)  SS  (mg/L)  COD Carbohydrate Protein  SCOD  (mg/L)  SCOD/TCOD  (%)  Soluble  carbohydrate  (mg/L)  S/T  (%)  Soluble  protein  (mg/L)  S/T  (%)  Blank 30850 288.9 1.4 117.9 5.2 150.5 2.8  Alkalized  24 h  0.05 34480 574.8 2.2 184.3 3.6 234.7 2.7  0.10 34620 844.2 3.4 184.3 4.1 415.1 4.7  0.15 32220 5873 40.6 2475 41.9 8043 63.8  0.20 32060 7078 61.0 2570 47.4 8194 60.2  0.25 34880 6626 81.5 2356 47.6 8706 60.2  Alkalized  24h+thermal  treated 2h  0.05 27040 4870 20.6 593.8 10.6 1877 21.1  0.10 28900 5221 21.5 639.9 13.0 2135 22.9  0.15 32920 29053 78.1 2179 51.3 9281 61.0  0.20 32160 24321 75.0 2273 50.8 9962 62.0  0.25 33320 31934 82.9 2620 65.8 10244 64.7  Alkalized  24h+thermal  treated 9h  0.05 24260 65190 68.2 17917 72.8 3403 39.2  0.10 27840 36641 59.6 4812 63.9 3442 34.6  0.15 31640 7729 29.5 2123 58.5 10364 69.9  0.20 31720 10872 44.3 2371 59.7 11494 70.4  0.25 32640 9615 27.1 2371 58.8 10912 69.2  SS reduction is an indication of sludge stability, and it is used for assessing the effectiveness of a  process in stabilizing sludge which might be regarded as a threshold for the pre-digestion step [11]. Table  2 shows the SS reduction during pretreatments. The model of adding 0.05 g NaOH /g TS (A24h+T9h)  achieves 21% reduction of SS, it is similar to the result of R. Uma Rani (2012) [9].  SCOD calculations were considered the main parameter for evaluation of sludge particulate material,  and it enables an evaluation of the maximum level of sludge solubilization. The COD solubilization of A  and A+T pretreatment at 70Ä‡ were presented in Table 2. The SCOD of alkalized for 24h is increased  with increasing dose of NaOH, but the low dose of NaOH (0.05, 0.15 g NaOH/g TS) do not work well,  which is similar to the solubilization of carbohydrate and protein. But the SCOD tendency of A24h+T9h  is different, the SCOD value decrease as the NaOH dose exceed 0.05 g NaOH /g TS. Because increasing  the dose of NaOH and the long thermal time lead the recalcitrant soluble organics or toxic/inhibitory  intermediates produced. Increased SCOD is determined as the substance that can be readily used to  produce methane during anaerobic digestion [12].The SCOD of A24h+T9h reaches the max value 65190  mg/L at 0.05 g NaOH /g TS, it is nearly 16 times of the sludge treated A24h+T2h (4870 mg/L) and more  than 200 times of control sludge (289 mg/L).   Soluble carbohydrate and protein can also indicate the efficiency of solubilization about the  pretreatment. Compare with others, adding 0.05 g NaOH /g TS (A24h+T9h) can get the max  concentration of soluble carbohydrate (17917 mg/L) and the ratio of soluble carbohydrate/total  carbohydrate can reach 72.8%. Thus, 0.05 g NaOH /g TS (A24h+T9h) is significant benefit for  carbohydrates release. Cell lysis releases protein content into the medium is the first stage of floc  disintegration. Proteins are the principal constituents of organisms, and they contain carbon, which are a  720   Hui Yi et al. /  Procedia Environmental Sciences  18 ( 2013 )  716 â€“ 721  common organic substance as well as hydrogen, oxygen and nitrogen [13]. After the treatment, the max  value can reach 11495 mg/L, it is more than 90 times of the control sludge (125.5 mg/L). That is to say,  the NaOH dose adding is a major factor which influenced the protein release.   From all above, we know that the alkaline treatment can resale more soluble organic materials when  combined with thermal pretreatment. Furthermore, from Table 2 we found that thermal pretreatment is  more effective for low dose NaOH than high dose NaOH.  3.2. BMP test    For assessing the efficiency of A+T pretreatment anaerobic digestibility and evaluating the biogas  production, BMP test was used. The sample sludge were treated by adding 0.05 g NaOH /g TS  (A24h+T9h) at various temperature (50Ä‡, 60Ä‡, 70Ä‡, 80Ä‡, 90Ä‡), the NaOH dose and thermal  treatment holding time were obtained from the combined pretreatment (A+T) in this work. Biogas  production and the reduction of TCOD, VSS can illustrate the efficiency of anaerobic biological  degradation. SCOD, VFA, soluble carbohydrate and protein can be readily used to produce methane  during anaerobic digestion [14].  Fig.1 shows the cumulative biogas production of BMP test. The daily biogas productions increase  quickly at fist 3 days, then decrease rapidly in 4 days, after 10 days the daily biogas production tend to  flat keep in a low amount. Ray had pointed that pretreatment with sodium hydroxide increased gas  production by between 29% and 112% over the control sludge[15].The accumulated biogas production at  the end of 30 days of the digestion period is nearly 45 mL for control sample, and at 70Ä‡ (A24h+T9h) it  is around 329 mL, nearly 630% higher biogas production is obtained than the control sludgeËˆit is much  more efficiency than untreated sludge. The average value of methane content of biogas production is  64 %. Fig.2 shows the data about VSS of BMP test. VSS contents 95% organic matters in WAS. The  reduction of VSS can indicate the organic matters removal. Similarly, it gets the max value of VSS  reduction (27.1%) at 70Ä‡(A24h+T9h), this is similar to the result of Rani [9] .    0 50 100 150 200 250 300 350 1 3 5 7 9 1 131517192123252729 Time /day C u m u l a t i v e   b i o g a s   p r o d u c t i o n / m L Control 50Ä‡ 60Ä‡ 70Ä‡ 80Ä‡ 90Ä‡         0 2000 4000 6000 8000 10000 12000 14000 16000 18000 20000 &amp;RQWURO   Ä‡   Ä‡   Ä‡   Ä‡   Ä‡ Temperature/Ä‡ V S S / ( m g / L ) 0 5 10 15 20 25 30 R e d u c t i o n   o f   V S S / ( % ) %HIRUH %03 WH[W $IWHU %03 WH[W 5HGXFWLRQ   Fig. 1. Cumulative biogas production of BMP test .                          Fig. 2. VSS of BMP test.  4. Conclusions  The results of this study indicated that the alkaline + low-temperature thermal pretreatment has the  potential to damage excess sludge structure and cell membranes and to release extracellular and possibly  intracellular compounds with high solubility. It also increased the bioavailability of waste activated  721 Hui Yi et al. /  Procedia Environmental Sciences  18 ( 2013 )  716 â€“ 721  sludge components under thermophilic BMP tests. Under the conditions of 70Ä‡, adding 0.05 g NaOH /g  TS with 9 hours thermal holding time, SS reduction achieved 21%, SCOD value was nearly 16 times of  the sludge treated A24h+T2h and more than 200 times of control group. For BMP test, itâ€™s nearly 83%  higher biogas production was obtained than the raw sludge and got 27.1% VSS reduction. So the  solubilization and anaerobic digestibility for the treatment of alkaline + low-temperature is satisfactory.  Acknowledgements  This work was supported by Science and Technology Agency of Shaanxi Province, China  (2011KTZB-03-03-03), Natural Science Foundation of Shaanxi Province, China (2012JQ7021), Shaanxi  Provincial Department of Education Project, China (12JS050).  References  [1] Chi Y Z, Zhang S T, Li Y Y. Treatment and disposal of sewage sludge in China. Journal of Environmental Conservation  Engineering Sci. 2009; 38(5): 45â€“50.  [2] Neyens, E., Baeyens, J., Dewil, R., De heyder, B. Advanced suldge treament affects extracellular polymeric substance to  improve actvated suldge dewatering. J. Hazard. Mater. 2004; 106:83-92.  [3] V. Sonakya, N. Raizada,V.C. Kalia. Microbial and enzymatic improvement of anaerobic digestion of waste biomass.  Biotechnol.Lett. 2001; 23:1463â€“1466.  [4]  Metcalf, Eddy. Wastewater Engineering: Treatment and Reuse, 4th ed. New York: McGraw-Hill; 2002.  [5] MÃ¼ller, J.A.  Prospects and problems of sludge pretreatment processes. Water Sci. Technol. 2001; 44 (10):121â€“128.  [6] Cassini S T, Andrade M C E, Abreu T A, Keller R, Goncalves R F. Alkaline and acid hydrolytic processes in aerobic and  anaerobic sludges: Effect on total EPS and fractions. Water Science and Technology. 2006; 53(8): 51â€“58.  [7] Wilson, C.A., Novak, J.T.  Hydrolysis of macromolecular components of primary and secondary wastewater sludge by thermal  hydrolytic pretreatment. Water Res. 2009; 43:4489â€“4498.  [8] Lise Appels, Jan Degreve, Bar Van der Bruggen. Influencr of low temperature thermal pre-treatment on sludge solubilisation,  heavy metal release and anaerobic digestion. Bioresource Technology. 2010; 101: 5743-5748.  [9] R. Uma Rani, S. Adish Kumar, S. Kaliappan. Low temperature therm-chemical pretreatment of dairy waste activated sludge for  anaerobic digestion process. Bioresource Technology. 2012; 103: 415-424.  [10] Yongzhi Chi, Yuyou Li, Xuening Fei. Enhancement of thermophilic anaerobic digestion of thickened waste activated sludge by  combined micowave and alkaline pretreatment. Journal of Environmental Sciences. 2011; 23(8): 1257-1265.  [11] APHA, Standard Method for the Examination of Water and Wastewater, 19 th  ed., American Public Health Association,  Washington, DC, USA, 1995.   [12] Wang F, Wang Y,  Ji,M. Mechanisms and kineticmodels for ultrasonic waste activated sludge disintegration. J. Hazard. Mater.  2005;23 :145â€“150.  [13] Nah, I.W., Kang, Y.W., Hwang, K.Y., Song, W.K.. Mechanical pre-treatment of waste activated sludge for anaerobic digestion  process. Water Res. 2000; 34: 2362â€“2368.  [14] Mechichi, T., Sayadi, S. Evaluating process imbalance of anaerobic digestion of olive mill wastewaters. Process Biochem.  2005; 2: 139â€“145.  [15] Jin-Gaw Lin, Cheng-Nan Chang, Shou-Chung Chang. Enhancement of anaerobic digestion of waste activated sludge by  alkaline solubilization. Bioresource Technology. 1997; 62: 85-90.                &amp;RQWURO   Ä‡   Ä‡   Ä‡   Ä‡   Ä‡ Temperature/Ä‡ V S S / ( m g / L ) 0 5 10 15 20 25 30 R e d u c t i o n   o f   V S S / ( % ) %HIRUH %03 WH[W $IWHU %03 WH[W 5HGXFWLRQ   Fig. 1. Cumulative biogas production of BMP test .                          Fig. 2. VSS of BMP test.  4. Conclusions  The results of this study in</xocs:rawtext><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.2" xml:lang="en" docsubtype="fla">
+         <item-info>
+            <jid>PROENV</jid>
+            <aid>2071</aid>
+            <ce:pii>S1878-0296(13)00229-6</ce:pii>
+            <ce:doi>10.1016/j.proenv.2013.04.097</ce:doi>
+            <ce:copyright type="other" year="2013">The Authors</ce:copyright>
+         </item-info>
+         <head>
+            <ce:article-footnote>
+               <ce:label>☆</ce:label>
+               <ce:note-para id="npar0005" view="all">Selection and peer-review under responsibility of Beijing Institute of Technology.</ce:note-para>
+            </ce:article-footnote>
+            <ce:title id="tit0005">Effect of Combined Pretreatment of Waste Activated Sludge for Anaerobic Digestion Process</ce:title>
+            <ce:author-group id="aug0005">
+               <ce:author id="aut0005">
+                  <ce:given-name>Hui</ce:given-name>
+                  <ce:surname>Yi</ce:surname>
+               </ce:author>
+               <ce:author id="aut0010">
+                  <ce:given-name>Yun</ce:given-name>
+                  <ce:surname>Han</ce:surname>
+                  <ce:cross-ref id="crf0005" refid="cor0005">
+                     <ce:sup loc="post">*</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="aut0015">
+                  <ce:given-name>Yang</ce:given-name>
+                  <ce:surname>Zhuo</ce:surname>
+               </ce:author>
+               <ce:affiliation id="aff0005">
+                  <ce:textfn>School of Municipal and Environmental Engineering, Xi’an University of Architecture and Technology, Xi’an 710055, China</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="cor0005">
+                  <ce:label>*</ce:label>
+                  <ce:text>Corresponding author. Tel.: +013991207226.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:abstract id="abs0005" view="all" class="author"><ce:abstract-sec id="abst0005" view="all">
+                  <ce:simple-para id="spar0005" view="all">Alkaline and low-temperature thermal pretreatment has been used to the subsequent anaerobic digestion of waste activated sludge (WAS) respectively. Different combinations of these two methods were investigated and biochemical methane potential (BMP) test was used to assess the anaerobic digestibility of pretreated WAS. In this study, an optimal reaction condition was obtained by combined pretreatment and BMP test. The combination was after alkalized for 24<ce:hsp sp="0.25"/>h, adding 0.05<ce:hsp sp="0.25"/>g NaOH/g TS with 9<ce:hsp sp="0.25"/>hours at 70°C. Under this condition the removal of SS was achieved 21% and soluble chemical oxygen demand (SCOD) was more than 200 times of control group. The ratio of soluble carbohydrate/total carbohydrate can reach 72.8%. For BMP test, it's nearly 6 times higher biogas production was obtained than the control and the average value of methane content of biogas production is 64%. Thus, combined (alkaline + low-temperature thermal) pretreatment was efficiency for solubilization and biogas production.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords id="kwd0005" class="keyword" view="all">
+               <ce:section-title id="sect0010">Keywords</ce:section-title>
+               <ce:keyword id="kw0005">
+                  <ce:text>Anaerobic digestion</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0010">
+                  <ce:text>Pretreatment</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0015">
+                  <ce:text>Alkaline</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0020">
+                  <ce:text>Low-temperature thermal pretreatment</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0025">
+                  <ce:text>BMP</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <tail view="all">
+            <ce:bibliography id="bibl0005" view="all">
+               <ce:section-title id="sect0020">References</ce:section-title>
+               <ce:bibliography-sec id="bibs0005" view="all">
+                  <ce:bib-reference id="bib0005">
+                     <ce:label>[1]</ce:label>
+                     <ce:other-ref id="oref0005">
+                        <ce:textref>Chi Y Z, Zhang S T, Li Y Y. Treatment and disposal of sewage sludge in China. <ce:italic>Journal of Environmental Conservation Engineering Sci</ce:italic>. 2009; 38(5): 45-50.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0010">
+                     <ce:label>[2]</ce:label>
+                     <ce:other-ref id="oref0010">
+                        <ce:textref>Neyens, E., Baeyens, J., Dewil, R., De heyder, B. Advanced suldge treament affects extracellular polymeric substance to improve actvated suldge dewatering. <ce:italic>J. Hazard. Mater</ce:italic>. 2004; 106:83-92.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0015">
+                     <ce:label>[3]</ce:label>
+                     <ce:other-ref id="oref0015">
+                        <ce:textref>V. Sonakya, N. Raizada,V.C. Kalia. Microbial and enzymatic improvement of anaerobic digestion of waste biomass. <ce:italic>Biotechnol.Lett</ce:italic>. 2001; 23:1463-1466.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0020">
+                     <ce:label>[4]</ce:label>
+                     <ce:other-ref id="oref0020">
+                        <ce:textref>Metcalf, Eddy. <ce:italic>Wastewater Engineering: Treatment and Reuse</ce:italic>, 4th ed. New York: McGraw-Hill; 2002.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0025">
+                     <ce:label>[5]</ce:label>
+                     <ce:other-ref id="oref0025">
+                        <ce:textref>Müller, J.A. Prospects and problems of sludge pretreatment processes. <ce:italic>Water Sci. Technol</ce:italic>. 2001; 44 (10):121-128.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0030">
+                     <ce:label>[6]</ce:label>
+                     <ce:other-ref id="oref0030">
+                        <ce:textref>Cassini S T, Andrade M C E, Abreu T A, Keller R, Goncalves R F. Alkaline and acid hydrolytic processes in aerobic and anaerobic sludges: Effect on total EPS and fractions. <ce:italic>Water Science and Technology</ce:italic>. 2006; 53(8): 51-58.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0035">
+                     <ce:label>[7]</ce:label>
+                     <ce:other-ref id="oref0035">
+                        <ce:textref>Wilson, C.A., Novak, J.T. Hydrolysis of macromolecular components of primary and secondary wastewater sludge by thermal hydrolytic pretreatment. <ce:italic>Water Res</ce:italic>. 2009; 43:4489-4498.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0040">
+                     <ce:label>[8]</ce:label>
+                     <ce:other-ref id="oref0040">
+                        <ce:textref>Lise Appels, Jan Degreve, Bar Van der Bruggen. Influencr of low temperature thermal pre-treatment on sludge solubilisation, heavy metal release and anaerobic digestion. <ce:italic>Bioresource Technology</ce:italic>. 2010; 101: 5743-5748.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0045">
+                     <ce:label>[9]</ce:label>
+                     <ce:other-ref id="oref0045">
+                        <ce:textref>R. Uma Rani, S. Adish Kumar, S. Kaliappan. Low temperature therm-chemical pretreatment of dairy waste activated sludge for anaerobic digestion process. <ce:italic>Bioresource Technology.</ce:italic> 2012; 103: 415-424.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0050">
+                     <ce:label>[10]</ce:label>
+                     <ce:other-ref id="oref0050">
+                        <ce:textref>Yongzhi Chi, Yuyou Li, Xuening Fei. Enhancement of thermophilic anaerobic digestion of thickened waste activated sludge by combined micowave and alkaline pretreatment. <ce:italic>Journal of Environmental Sciences</ce:italic>. 2011; 23(8): 1257-1265.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0055">
+                     <ce:label>[11]</ce:label>
+                     <ce:other-ref id="oref0055">
+                        <ce:textref>APHA, Standard Method for the Examination of Water and Wastewater, 19th ed., American Public Health Association, Washington, DC, USA, 1995.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0060">
+                     <ce:label>[12]</ce:label>
+                     <ce:other-ref id="oref0060">
+                        <ce:textref>Wang F, Wang Y, Ji,M. Mechanisms and kineticmodels for ultrasonic waste activated sludge disintegration. <ce:italic>J. Hazard. Mater.</ce:italic> 2005;23:145-150.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0065">
+                     <ce:label>[13]</ce:label>
+                     <ce:other-ref id="oref0065">
+                        <ce:textref>Nah, I.W., Kang, Y.W., Hwang, K.Y., Song, W.K. Mechanical pre-treatment of waste activated sludge for anaerobic digestion process. <ce:italic>Water Res</ce:italic>. 2000; 34: 2362-2368.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0070">
+                     <ce:label>[14]</ce:label>
+                     <ce:other-ref id="oref0070">
+                        <ce:textref>Mechichi, T., Sayadi, S. Evaluating process imbalance of anaerobic digestion of olive mill wastewaters. <ce:italic>Process Biochem</ce:italic>. 2005; 2: 139-145.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib0075">
+                     <ce:label>[15]</ce:label>
+                     <ce:other-ref id="oref0075">
+                        <ce:textref>Jin-Gaw Lin, Cheng-Nan Chang, Shou-Chung Chang. Enhancement of anaerobic digestion of waste activated sludge by alkaline solubilization. Bioresource Technology. 1997; 62: 85-90.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

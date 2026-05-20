@@ -1,0 +1,1019 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0960852497001211</prism:url><dc:identifier>doi:10.1016/S0960-8524(97)00121-1</dc:identifier><eid>1-s2.0-S0960852497001211</eid><prism:doi>10.1016/S0960-8524(97)00121-1</prism:doi><pii>S0960-8524(97)00121-1</pii><dc:title>Enhancement of anaerobic digestion of waste activated sludge by alkaline solubilization </dc:title><prism:publicationName>Bioresource Technology</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>09608524</prism:issn><prism:volume>62</prism:volume><prism:issueIdentifier>3</prism:issueIdentifier><prism:startingPage>85</prism:startingPage><prism:endingPage>90</prism:endingPage><prism:pageRange>85-90</prism:pageRange><prism:number>3</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1997-12-31</prism:coverDate><prism:coverDisplayDate>December 1997</prism:coverDisplayDate><prism:copyright>Copyright © 1997 Published by Elsevier Ltd.</prism:copyright><prism:publisher>Published by Elsevier Ltd.</prism:publisher><dc:creator>Lin, Jih-Gaw</dc:creator><dc:creator>Chang, Cheng-Nan</dc:creator><dc:creator>Chang, Shou-Chung</dc:creator><dc:description>
+                  The performance of an anaerobic digestion fed with waste activated sludge (WAS) pretreated with NaOH was examined. The sludge was periodically collected from a municipal wastewater-treatment plant. The laboratory work was run in four 1-l semi-continuous anaerobic digestion reactors. Reactor A was fed with untreated WAS at 1% total solids (TS). The other three reactors, B, C and D, were respectively fed with WAS (1% TS) pretreated with 20 meq/l NaOH, WAS (1% TS) pretreated with 40 meq/l NaOH, and WAS (2% TS) pretreated with 20 meq/l NaOH. The reactors were operated at 35°C at four hydraulic retention times — 20, 13, 10 and 7.5 days. The performances of reactors B, C and D, in terms of chemical oxygen demand (COD), volatile solids (VS) removal, and gas production, were superior to that of reactor A. At a retention time of 10 days, the COD removals of reactors A, B, C and D were 38, 46, 51 and 52%, respectively. The gas productions of reactors B, C and D were, respectively, increased by 33, 30 and 163% over that of reactor A. The sludge dewaterability was examined by capillary suction time (CST). The dewaterability of digested sludge was improved in reactors B, C and D. Capillary suction of digested sludges gave times in the range 148–389 s, compared with 309–735 s for undigested sludges.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Waste activated sludge</dcterms:subject><dcterms:subject>anaerobic digestion</dcterms:subject><dcterms:subject>hydrolysis</dcterms:subject><dcterms:subject>chemical pretreatment</dcterms:subject><dcterms:subject>dewaterability</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0960852497001211" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0960852497001211" rel="scidir"/></coredata><scopus-id>0344074616</scopus-id><scopus-eid>2-s2.0-0344074616</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0344074616" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271433</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291731</xocs:ssid>
+         <xocs:ssid type="subj">291744</xocs:ssid>
+         <xocs:ssid type="subj">291793</xocs:ssid>
+         <xocs:ssid type="subj">291832</xocs:ssid>
+         <xocs:ssid type="subj">291838</xocs:ssid>
+         <xocs:ssid type="subj">291850</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Bioresource Technology</xocs:srctitle>
+      <xocs:normalized-srctitle>BIORESOURCETECHNOLOGY</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="19980511">1998-05-11</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="19980517">1998-05-17</xocs:available-online-date>
+      <xocs:ew-transaction-id>2010-10-06T08:58:40</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0960852497001211</xocs:eid>
+      <xocs:pii-formatted>S0960-8524(97)00121-1</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0960852497001211</xocs:pii-unformatted>
+      <xocs:doi>10.1016/S0960-8524(97)00121-1</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.1</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0960852400X00296</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150515">2015-05-15T04:00:01.429694-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19971201</xocs:date-search-begin>
+      <xocs:date-search-end>19971231</xocs:date-search-end>
+      <xocs:year-nav>1997</xocs:year-nav>
+      <xocs:indexeddate epoch="894844800">1998-05-11T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype volfirst volissue webpdf webpdfpagecount affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0960-8524</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>09608524</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:vol-first>62</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>62</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>3</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>3</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 62, Issue 3</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>3</xocs:sort-order>
+      <xocs:first-fp>85</xocs:first-fp>
+      <xocs:last-lp>90</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>85</xocs:first-page>
+         <xocs:last-page>90</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>199712</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>December 1997</xocs:cover-date-text>
+      <xocs:cover-date-start>1997-12-01</xocs:cover-date-start>
+      <xocs:cover-date-end>1997-12-31</xocs:cover-date-end>
+      <xocs:cover-date-year>1997</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1997 Published by Elsevier Ltd.</xocs:copyright-line>
+      <xocs:normalized-article-title>ENHANCEMENTANAEROBICDIGESTIONWASTEACTIVATEDSLUDGEBYALKALINESOLUBILIZATION</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>LIN</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>J</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>ALLEMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1994</xocs:ref-pub-year>
+            <xocs:ref-first-fp>63</xocs:ref-first-fp>
+            <xocs:ref-last-lp>72</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>GOSSETT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>437</xocs:ref-first-fp>
+            <xocs:ref-last-lp>454</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>JENVIRONENGDIVPROCASCE</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>HEATTREATMENTANAEROBICDIGESTIONREFUSE</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>HAUG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>23</xocs:ref-first-fp>
+            <xocs:ref-last-lp>34</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>HIRAOKA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>529</xocs:ref-first-fp>
+            <xocs:ref-last-lp>539</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>KARR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1911</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1930</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>LAWLER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1107</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1117</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1992</xocs:ref-pub-year>
+            <xocs:ref-first-fp>857</xocs:ref-first-fp>
+            <xocs:ref-last-lp>866</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>LIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-first-fp>223</xocs:ref-first-fp>
+            <xocs:ref-last-lp>232</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>CHEMISTRYFORPROTECTIONENVIRONMENT2</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>CHEMICALCONDITIONINGFORREMOVALWATERPHOSPHATEENHANCEDSLUDGE</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>METCALF</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1991</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>WASTEWATERENGINEERINGTREATMENTDISPOSALREUSE</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>PAVLOSTATHIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>345</xocs:ref-first-fp>
+            <xocs:ref-last-lp>354</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>PAVLOSTATHIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>575</xocs:ref-first-fp>
+            <xocs:ref-last-lp>592</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>RAJAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1678</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1683</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>RAY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>81</xocs:ref-first-fp>
+            <xocs:ref-last-lp>87</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>SAMSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>671</xocs:ref-first-fp>
+            <xocs:ref-last-lp>676</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB15">
+            <xocs:ref-normalized-surname>SAWAYAMA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>300</xocs:ref-first-fp>
+            <xocs:ref-last-lp>302</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB16">
+            <xocs:ref-pub-year>1992</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>STANDARDMETHODSFOREXAMINATIONWATERWASTEWATER</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB17">
+            <xocs:ref-normalized-surname>STUCKEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1978</xocs:ref-pub-year>
+            <xocs:ref-first-fp>219</xocs:ref-first-fp>
+            <xocs:ref-last-lp>233</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>BIOTECHNOLBIOENGSYMP</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>THERMOCHEMICALPRETREATMENTNITROGENOUSMATERIALSINCREASEMETHANEYIELD</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB18">
+            <xocs:ref-normalized-surname>WOODARD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1994</xocs:ref-pub-year>
+            <xocs:ref-first-fp>29</xocs:ref-first-fp>
+            <xocs:ref-last-lp>38</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>LINX1997X85</xocs:refkey3>
+         <xocs:refkey4lp>LINX1997X85X90</xocs:refkey4lp>
+         <xocs:refkey4ai>LINX1997X85XJ</xocs:refkey4ai>
+         <xocs:refkey5>LINX1997X85X90XJ</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0960-8524(97)00121-1</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0960852497001211</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0960852497001211</xocs:eid>
+         <xocs:doi>10.1016/S0960-8524(97)00121-1</xocs:doi>
+         <xocs:cid>271433</xocs:cid>
+         <xocs:timestamp>2010-11-03T03:57:03.270753-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1997-12-01</xocs:cover-date-start>
+         <xocs:cover-date-end>1997-12-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0960852497001211-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0960852497001211/MAIN/application/pdf/a6b53a19f3f9245e396f789d7591ab03/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0960852497001211/MAIN/application/pdf/a6b53a19f3f9245e396f789d7591ab03/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>580713</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0960852497001211-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0960852497001211/PREVIEW/image/png/d2a8f741f192b6932f1be2268f26394b/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0960852497001211/PREVIEW/image/png/d2a8f741f192b6932f1be2268f26394b/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>82995</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:rawtext xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">ELSEVIER    PII:S0960-8524(97)00121-1    Bioresource Technology 62 (1997) 85-90  1997 Elsevier Science Ltd. All rights reserved  Printed in Great Britain  0960-8524/97 $17.00    ENHANCEMENT OF ANAEROBIC DIGESTION OF WASTE  ACTIVATED SLUDGE BY ALKALINE SOLUBILIZATION    Jih-Gaw Lin,a* Cheng-Nan Changb &amp; Shou-Chung Changa  ~lnstitute of Environmental Engineering, Chiao Tung University, 75 Po-Ai Street, Hsinchu City, Taiwan, ROC  bGraduate Institute of Environmental Science, Tunghai University, Box 5-819, Taichung City, Taiwan, ROC  (Received 15 November 1996; revised version received 28 July 1997; accepted 8 August 1997)    Abstract  The performance of an anaerobic digestion fed with  waste activated sludge (WAS) pretreated with NaOH  was examined. The sludge was periodically collected  from a municipal wastewater-treatment plant.  The  laboratory work was run in four 1-1 semi-continuous  anaerobic digestion reactors. Reactor A was fed with  untreated WAS at 1% total solids (TS). The other  three reactors, B, C and D, were respectively fed with  WAS (1% TS) pretreated with 20meq/l NaOH, WAS  (1% TS) pretreated with 40meq/l NaOH, and WAS  (2% TS) pretreated with 20 meq/l NaOH. The reactors  were operated at 35 at four hydraulic retention times  -- 20, 13, 10 and 7.5 days. The performances of  reactors B, C and D, in terms of chemical oxygen  demand (COD), volatile solids (VS) removal, and gas  production, were superior to that of reactor A. At a  retention time of 10 days, the COD removals of  reactors A, B, C and D were 38, 46, 51 and 52%,  respectively. The gas productions of reactors B, C and  D were, respectively, increased by 33, 30 and 163%  over that of reactor A. The sludge dewaterability was  examined by capillary suction time (CST).  The  dewaterability of digested sludge was improved in  reactors B, C and D. Capillary suction of digested  sludges gave times in the range 148-389 s, compared  with 309-735 s for undigested sludges. 1997 Elsevier  Science Ltd.    Key words: Waste activated sludge, anaerobic diges-  tion, hydrolysis, chemical pretreatment, dewater-  ability.    INTRODUCTION    Anaerobic digestion is a common process for treat-  ment of sludge. Compared with other processes, its  advantages are less energy required, a better stabi-  lized product, and usable gas. However, several  limitations for anaerobic digestion include the slow  reaction, the sensitivity to shock loads and toxic    *Author to whom correspondence should be addressed.    85    materials, and its complicated operation. One factor  influencing efficiency of anaerobic digestion is access  to cell-bound organic matter. Digestion of waste  activated sludge (WAS), in which most substrate is  enclosed within cell membranes, requires release of  the cell-bound substrate before it can be utilized by  viable anaerobes. Thermal pretreatment (Haug et  al., 1983; Hiraoka et al., 1984; Pavlostathis and  Gossett, 1988; Li and Noike, 1992), thermochemical  pretreatment (Stuckey and McCarty, 1978; Gossett  et al., 1982; Samson and Leduy, 1983; Pavlostathis  and Gossett, 1985; Sawayama et al., 1995), and  alkaline solubilization (Rajan et al., 1989; Ray et al.,  1990; Alleman et al., 1994; Woodard and Wukasch,  1994) have been investigated as methods to improve  the digestibility of sludge and to increase production  of methane. While thermal or thermochemical  pretreatment of sludge results in an increase in  biodegradability, the thermal process consumes a  substantial amount of energy in addition to chemical  consumption. The chemical pretreatment is more  efficient and cost-effective when carried out at  ambient temperature.  Sodium hydroxide at relatively low dosage levels  is effective  in solubilizing municipal WAS  at  ambient temperature. Alleman et al. (1994) demon-  strated that alkaline  treatment is effective  in  solubilizing  munitions-grade  nitrocellulose  into  soluble  organic  carbon  forms.  Woodard  and  Wukasch (1994) conducted a laboratory-scale study  in the development of a hydrolysis/thickening/filtra-  tion technology to improve the efficiency of solid  digestion of WAS generated by the biological treat-  ment of a pharmaceutical wastewater. Substantial  solubilization  (50-60%)  of  activated  sludge  suspended solids was achieved at room temperature,  with a relatively short hydrolysis time. Rajan et al.  (1989) showed that low-level alkaline pretreatment  of waste activated sludge with NaOH can increase  levels of solubilization up to 46%. Furthermore, Ray  et al. (1990) examined the ability of the single-stage  high-rate anaerobic digester to stabilize the alkaline-  treated WAS with digesters operated at 35 and    86                                J.-G. Lin, C.-N. Chang, S.-C. Chang    five different hydraulic retention times, 20, 13, 10,  7.5 and 5 days. Pretreatment with sodium hydroxide  improved the volatile solid reduction by 25-35%  and increased gas production by 29-112% over the  control sludge samples undergoing no alkaline  treatment.  The overall objective of this study was to examine  the ability of the single-stage high-rate anaerobic  digester  to  stabilize  WAS  following  alkaline  chemical  pretreatment.  Organic  removal,  gas  production,  and  sludge  dewaterability  were  examined.    Table 1. Changes in organic loading rate and HRT during  the experimental period    Phase          Time  HRT~     OLRb  (weeks) (days) (mg COD/day)  I. Collecting database      17    20        595  II. Assessing HRT effects  a                     14    20        595  b                       6    13         896  c                      6    10       1248  d                      3     7.5      2403    aHRT, hydraulic retention time.  bOrganic loading rate.    METHODS    Sludge collection and preparation  The waste activated sludge (WAS) samples were  collected weekly throughout the year from the final  clarifier of the Min-Shen Sewage Plant, at which  inflows and operating parameters fluctuated. This  plant uses a conventional activated sludge process,  consisting of primary clarification, aeration, and final  clarification. The average flow is 13500 M3/day, and  the sludge retention time of the activated sludge  process is 3 days with the food to microorganisms  ratio  (F/M)  of  0.77kg  BOD/kg  MLSS/day  (BOD = biochemical      oxygen       demand;  MLSS = mixed liquid suspended solid). Collecting  samples at different times reflects the variability of  feed sludge characteristics. However, after collec-  tion, the sludge was adjusted to give a concentration  of 10000 mg/l (1%) total solids (TS) for consistent  experiment.    Sludge solubilization  After preparation, the sludge (10000 mg/l TS) was  divided into four portions. The first portion, the  control sludge, was returned to the refrigerator for  storage. The second and third portions were solubi-  lized by adding sodium hydroxide (NaOH) at 20 and  40meq/1,  respectively. The fourth portion was  adjusted to give a final sludge concentration of 2%  TS, and then solubilized by adding NaOH at  20 meq/l. The solubilizations were carried out in  1000ml batch reactors at ambient temperature  (25) under anoxic conditions for 24 h. A stirring  magnet bar was used to ensure sufficient mixing to  prevent the sludge from settling and disperse the  alkali added. After solubilization, the pretreated  sludges were returned to the refrigerator until use.    Experimental apparatus  Four  1-1  laboratory-scale  single-stage  high-rate  digesters were employed. Each reactor was a  1000ml reagent bottle. The top was efficiently  sealed air-tight by a rubber stopper. Each reactor  was mounted on a magnetic stirrer. A Teflon-coated  stirring magnet was used and the stirring speed was  maintained so that there was sufficient mixing to    keep the sludge from settling and to evenly distri-  bute the sludge fed. The reactors were maintained at  35 in an incubator. The gas produced from each  reactor was collected in a measuring tube over  saturated salt solution with 5% H2504. Sludge was  introduced into the four reactors once per day from  a glass graduated cylinder, following which the  effluent sludge was withdrawn by gravity from each  reactor.    Experimental plan  Changes in hydraulic retention time (HRT) and  corresponding organic loading rates during the  entire experimental period are shown in Table 1.  The experimental plan for the project consisted of  two phases. Phase I of the project lasted 4 months.  This phase included the development of a balanced  micro-organism population in the reactors and  establishment of a stabilized operation. The experi-  mental procedures were also refined during this  period. Initially, each reactor was filled with an  anaerobic seed sludge. All four reactors were then  fed an untreated sludge (1% TS) and operated at a  20-day HRT and 35 to allow the biological  processes to stabilize with respect to volatile solids  (VS) and chemical oxygen demand (COD) removals  and gas production rates.  Phase II of the project lasted 7 months. This  phase was designed to determine the effect of HRT  on the performance of the reactors. At the begin-  ning of this phase, reactor B received the sludge of  1% TS solubilized with NaOH at 20 meq/l, reactor C  received the sludge of 1% TS solubilized with  NaOH at 40meq/1, and reactor D received the  sludge of 2% TS solubilized with NaOH at 20 meq/l.  The feed sludge for reactor A was left unchanged as  a control. All four reactors were fed these same  sludges for the duration of the project. The charac-  teristics of the feed sludges are presented in Table 2.  The temperature was also maintained at 35 during  this phase. After the reactors had reached steady  state, i.e., their VS and COD removal rates and gas  production rates remained essentially constant with  time, data collection began. After sufficient data    Digestion of activated sludge after NaOH treatments  Table 2. Averagea characteristics of feed sludges    87    Reactor                    A                   B                    C                    D    Pretreated with NaOH            0 meq/1             20 meq/1             40 meq/l             20 meq/l  Total solids (mg/1)             10150___ 410          10 530___ 338           12 484 + 213           18 069___ 1376  Volatile solids (mg/l)            7 643 ___ 118          7 225 + 222           8 588 + 128           13 242 + 1051  Total COD (mg/l)            11905 +238         11942+ 109          12484+213          21932-1-1518  Soluble COD (mg/1)              251 + 37            2 962___ 277            4 783 + 225            3 368__+ 983  pH                        6.86 + 0.13         8.07 __+ 0.87         12.26 + 0.10          7.78 _ 0.18  Alkalinity (mg/1)               512 ___ 44          1705 _ 269          2 714 ___ 352          1883 + 193  Dewaterability, CST (s)          28.15 -I- 9.86         363.15 -I- 59.63         662.75 _ 99.73         570.40 -I- 50.76    aAverages of four analyses.    were obtained at the 20-day HRT, the loading rate  was increased to the 13-day HRT. After the organic  removal rates and gas production had stabilized,  data were again collected. This process was repeated  for the 10- and 7.5-day HRTs.    Experimental analyses  The reactor pH, temperature, and gas production  were monitored daily. The effluent total and volatile  solids (TS and VS), and total and soluble COD were  monitored at least every 2 days. Other parameters  that were monitored less frequently included organic  acids, alkalinity, and gas composition. Most experi-  mental analyses followed the procedure recom-  mended in Standard Methods (1992) (18th edition).  The sludge dewaterability was examined by capillary  suction time (CST). The instrument for this purpose  was a Capillary Suction Time Filterability Test  (Model 200, Triton Electronics Ltd, Gt. Dunmon,  Essex, UK). This device consists of a timer, a sludge  holder  (18-mm  cylinder),  and  blotter  paper  (Whatman No. 17, size 6.0 cm 9.8 cm).    RESULTS AND DISCUSSION    The major parameters measured were influent and  effluent strength, using both solids (TS and VS) and  COD as indicators, influent and effluent soluble  COD, and gas production. Results of tests of  anaerobic  digestion  of sludge  pretreated with  sodium hydroxide are summarized in Table 3, which  compares the performance of the digesters.    Sludge characteristics  As organic material in pretreated sludge was hydrol-  ysed, the soluble fraction of feed sludge was greater  in reactors B, C and D than in reactor A. The  soluble fraction (represented by soluble COD) of  feed sludge into reactor A was in the range 2-10%,  into reactor B 22-27%, into reactor C 36-40%, and  into reactor D 10-20%. As bacteria utilized the  hydrolytic products and as anaerobic digestion  proceeded in reactors B, C and D, the digested  sludges [Fig. 2(b)] contained a smaller soluble  fraction than the feed sludges [Fig. 2(a)]. The  soluble fraction of digested sludge from reactor A  was 5-8%, from reactor B 6-12%, from reactor C    Table 3. Summary of digester performances  Digesters                     A    B    C    D    A    B    C    D    A    B    C    D    A    B    C     D    HRT (days)  VS removal (%)  COD removal (%)  Gas composition  CH4 (%)  co2 (%)  Gas production  rate (l/mS/day)  CH4 production  rate (I/mS/day)  CH4 production/VS removed  (1 gas/kg VS)  cn4 production/COD removed  (1 gas/kg COD)  Total solids (mg/1)  Volatile solids (rag/l)  Total COD (mg/l)  Soluble COD (mg/l)  pH  Alkalinity (mg/l)  Dewaterability,  CST (s)    20        20        20          20        13        13        13          13        10        10        10          10       7.5       7.5         7.5         7.5  35    36    42     45    35    37    39     24    28    31    31     36    19    26     33     45  39        47        47          47        38        46        47          37        38        46        51          52        21        39          37          47  71        76        84          74        72        76        86          75        73        77        84          74        74        77          86          74  12        11          2          15        16        14          2          18        14          9          3          18        12        12            4          19  83   113   113    164   123   150   146    282   158   210   205    416   133   258    247    514  59        86        86        121        89      114      126        212      115      162      172        308        98      199        212        380  437      688      531        432      422      558      495        927      544      726      642        600      506      753        549        449  253   307   332    247   261   264   272    370   251   297   275    255   300   325    343    264  7485 7560 8555  11690 7110 7460 9005 12785 7320 7647 9965  13585 8340 8460 10000 11860  4930   4485   4945     6745   5080   4535   5221     9335   5415   4980   5850     8953   6140   5540     5880     7860  7249   6278   6510   11184   7304   6485   6649   12830   7646   6459   6128   11228   9312   7311     8012   12356  387      390      648        544      530      740   1 154      1408      422      798   1290      1249      745      788      1724     1 100  7.07     7.41     7.84       7.41     7.18     7.48     7.96       7.45     7.09     7.44     7.85       7.45     7.11     7.41       7.78       7.55  1440   2332   2976     3080   1699   2976   3870     3635    1427   3100   3848     4317   1395   2776     3683     3844    34   148   209    263    55   214   274    389    27   160   227    299    38   167    254    291    88                                    J.-G. Lin, C.-N. Chang, S.-C. Chang    10-22%, and from reactor D 5-11%. The soluble  fraction of digested sludge in reactor A was slightly  greater than that of the feed sludge, as the hydrol-  ysed products were produced slowly by enzymes;  hydrolysis is the limiting step of anaerobic digestion  of WAS, but the degradable organic material of  hydrolysed products was utilized quickly, and the  refractory  material  from  hydrolysed  products  accumulated gradually.    Organic removal  The reactors had varied rates of removal of  substrate in terms of COD and VS. The reactors fed  with pretreated sludge had substrate removed more  rapidly. As for COD removal, reactor A was in the  range 21-39%, reactor B 39-47%, reactor C  37-51% and reactor D 37-52%. Pretreatment offers  little advantage with prolonged retention if the  objective is to obtain greater volumetric removal of  organics.  However,  if  greater  stabilization  is  required, solubilization increases the removal. In  contrast, at the shorter periods of retention, solubili-  zation is required to attain a satisfactory organic  stabilization. At 7.5-day HRT, the pretreatment  resulted in at least twice the organic stabilization  measured as removal of COD.  The fractional improvement of digester perform-  ance is shown in Table 4. Improvement in VS  removal of reactor C attained 72% over reactor A at  7.5 days of retention. For the same period, COD  removal improved 76%. Comparison of reactors B,  C and D showed that organic removal increased as  the concentration of either NaOH or sludge solids  increased. The performance of reactor D was better  than that of reactor C; e.g., increasing the concen-  tration of sludge solids proved more effective for    organic removal than increasing the concentration of  NaOH.  Solubilization by thermal  pretreatment  increased COD removals by 18-22% over sludge  that lacked thermal treatment (Haug et al., 1983).  The digesters fed with autoclaved sludge showed  30-56% greater organic destruction than those fed  with  intact  activated  sludge  (Pavlostathis  and  Gossett, 1988). Pretreatment with sodium hydroxide  improved VS reduction in the range 25-35% over  no pretreatment (Ray et al., 1990). By thermochem-  ical treatment, a maximum of 85% organics was  converted to methane compared with approx. 53%  in non-treated controls (Stuckey and McCarty,  1978).    Gas production and methane yield  The average content of methane in gas was 72%,  76%, 85%, and 74% for reactors A, B, C and D,  respectively. The reactor fed with pretreated sludge  had greater methane, and methane increased as the  concentration of NaOH increased. The rate of gas  production also increased when feed sludge was  pretreated with NaOH;  the reason was that  pretreated sludge hydrolysed much organic material  into solution, and the anaerobic digestion process  used it immediately; hence reactors B and C had  greater rates of gas production than reactor A. The  influent substrate concentration of reactor D was the  greatest and caused a greater rate of gas production  than of the others. The fractional increase in gas  production of reactors B, C and D was 22-94%,  19-86%, and 106-287%, respectively. The fractional  increase of methane in reactors B, C and D was  29-102%, 42-116% and 106-287%, respectively.  Thermal pretreatment resulted in a 30% increase in  production of digestion gas (Hiraoka et al., 1984).    Table 4. Summary of improvements in digester performances  Retention       Reactor      Reactor      Percenta      Reactor       Percenta      Reactor      Percenta  time (days)         A           B         increase         C         increase         D         increase    VS removal (%)  20                            35                       36                        1                         42                       19                        45                       29  13              35           37            6            39           11            24          --  10              28           31           10            31           12            36           29  7.5            19           26           37            33           72           45           133  COD removal (%)  20              39            47           21             47            20            47            20  13             38           46           23            47           26            37          --  10              38            46           22             51            35            52            38  7.5            21            39           84             37            76            47           123  Gas production (l/m3)  20              83          113           36           113           36           164           98  13             123           150           22            146            19           282           129  10             158           210           33            205            30           416           162  7.5            133           258           94            247            86           514           286    --, Negative value.  alncrease, expressed as percentage over reactor A.    Digestion of activated sludge after NaOH treatments                              89    Pretreatment with sodium hydroxide increased gas  production by between 29 and 112% over the  control sludge (Ray et al., 1990).  Reactors B and C had greater fractional increases  of  methane  production  than  gas  production,  coinciding with the fact that reactors B and C had  greater proportions of methane in the gas (Table 3).  The fractional increase of methane and gas produc-  tion was almost the same for reactor D, which  indicated that the main gas composition did not vary  much compared with reactor A. All pretreated  sludges increased the fraction of gas and methane  production  as  HRT  decreased.  The  methane  production per gram of VS destroyed in this project  averaged 580 ml per gram of VS; methane produc-  tion per gram of COD destroyed averaged 290 ml  per gram of COD. Literature values for methane gas  production vary considerably, but representative  values are in the range 490-730 ml methane per  gram VS destroyed (Metcalf and Eddy, 1991). For  1 g of COD removed, the theoretical methane  produced would be 350 ml at standard temperature  and pressure (STP).    pH Values and alkalinity  The pH of the feed sludge varied considerably for  the four reactors, as the feed sludges of reactors B,  C and D were pretreated with NaOH (Table 2). The  pH of the digested sludge of the four reactors was  almost the same (Table 3). The pH of all four  reactors remained relatively constant for varied  HRT, although the feed sludge of reactor C had an  extreme pH. The alkalinity of the four reactors of  feed and digested sludges varied greatly, increasing  as the concentration of NaOH increased. The  alkalinities of the feed sludges are shown in Table 2,  and of digested sludges in Table 3. Compared with  the feed sludge and digested sludge of the four  reactors, the alkalinity in all increased during  anaerobic digestion.    Effects of digestion on dewaterability  The CSTs for feed sludges and digested sludges of  reactors A, B, C and D at different HRT are shown  in Table 2 and Table 3. In a previous study, Lin et  al. (1996) found that CST had a large correlation  coefficient of 0.92 with specific resistance filtration  (SRF). The correlation between CST and SRF was:  SRF (se/g) = 6.55 108 CST (s) - 1.8 109  for waste activated sludge collected from the  Min-Shen Sewage Plant. Anaerobic digestion alters  the distribution of particle size in sludges. When  digestion works well, particles of all sizes are  destroyed, but there is a preferential removal of  particles of small sizes, a consequent loss of specific  surface area, and therefore an improvement in  dewaterability (Lawler et al., 1986). The dewater-  ability of digested sludge was improved in reactors  B, C and D. The CST values of digested sludges    were in the range 148-389s, whereas undigested  sludges were 309-735 s. For reactors B, C and D,  the best dewaterability of digested sludge occurred  at 20-day HRT. The CST of digested sludge of  reactor A was in the range 27-55 s, greater than that  of feed sludge. Karr and Keinath (1978) reported  that anaerobically digested sludge was more difficult  to dewater, measured by CST and specific resist-  ance, than either primary or activated sludge.    CONCLUSION    Four reactors were employed to evaluate the ability  of a single-stage high-rate digester to treat waste  activated sludge at retention tomes of 20, 13, 10 and  7.5 days at 35. Reactor A was fed with untreated  WAS (1% TS). The other three reactors B, C and D  were respectively fed with WAS (1% TS) pretreated  with NaOH (20 meq/l), WAS (1% TS) pretreated  with  NaOH  (40meq/1),  and  WAS  (2%  TS)  pretreated with NaOH (20meq/l). The perfor-  mances of reactors B, C and D, for COD and VS  removal, and gas production were superior to that of  reactor A. The dewaterability of digested sludge was  improved in reactors B, C and D.    ACKNOWLEDGEMENTS    We thank the National Science Council, Republic of  China  for  financial  support  (Grant  NSC  83-0410-E-009-070).    REFERENCES    Alleman, J. E., Kim, B. J., Quivey, D. M. &amp; Wquihua,  L.O. (1994). Alkaline hydrolysis of munitions-grade  nitrocellulose. Wat. Sci. Tech., 30, 63-72.  Gossett, J. M., Stuckey, D. C., Owen, W. F. &amp; McCarty,  P. L. (1982). Heat treatment and anaerobic digestion of  refuse. J. Environ. Eng. Div., Proc., ASCE, 108, 437-454.  Haug, R. T., LeBrun, T. J. &amp; Tortorici, L. D. (1983).  Thermal pretreatment of sludges -- a field demonstra-  tion. J. Water Pollut. Control Fed., 55, 23-34.  Hiraoka, M., Takeda, N., Sakai, S. &amp; Yasuda, A. (1984).  Highly  efficient  anaerobic  digestion with  thermal  pretreatment Wat. Sci. Technol., 17, 529-539.  Karr, P. R. &amp; Keinath, T. M. (1978). Influence of particle  size on sludge dewaterability. J. Water Pollut. Control  Fed., 50, 1911-1930.  Lawler, D. F., Chung, Y. J., Hwang, S.-J. &amp; Hull, B. A.  (1986). Anaerobic digestion: effects on particle size and  dewaterability.  J.  Water  Pollut.  Control  Fed.,  58,  1107-1117.  Li, Y.-Y. &amp; Noike, T. (1992). Upgrading of anaerobic  digestion of waste activated sludge by thermal pretreat-  ment Wat. Sci. Technol., 26, 857-866.  Lin,  J.-G.,  Chang,  C.-N.  and Hung,  H.-C.  (1996).  Chemical conditioning for removal of water and  phosphate from enhanced sludge. In Chemistry for the  protection of the environment 2, ed. Pawlowski, L., Lacy,  W. J., Uchrin, C. G. and Dudzifiska, M. R., Plenum  Press, New York. pp. 223-232.    90                                  J.-G. Lin, C.-N. Chang, S.-C. Chang    Metcalf and Eddy, Inc. (1991). Wastewater engineering:  treatment, disposa~ reuse, 3rd edn. McGraw Hill, New  York.  Pavlostathis, S. G. &amp; Gossett, J. M. (1985). Modeling  alkali consumption and digestibility improvement from  alkaline treatment of wheat straw. Biotechnol. Bioeng,,  27, 345-354.  Pavlostathis, S. G. &amp; Gossett, J. M. (1988). Preliminary  conversion mechanisms in anaerobic digestion of  biological sludge~ J. Environ. Eng. Div., ASCE, 114,  575 -592.  Rajan, R. V., Lin, J.-G. &amp; Ray, B. T. (1989). Low-level  chemical pretreatment for enhanced sludge solubiliza-  tion. Res. J. Water Pollut. Control Fed., 61, 1678-1683.  Ray, B. T., Rajan, R. V. &amp; Lin, J.-G. (1990). Low-level  alkaline solubilization for enhanced anaerobic digestiort  Res. J. Water Pollut. Control Fed., 62, 81-87.    Samson, R. &amp; Leduy, A. (1983). Influence of mechanical  and thermochemical pretreatments on anaerobic diges-  tion of Spirulina maxima algal biomas~ Biotechnol. Len.,  5, 671-676.  Sawayama, S., Inoue, S., Yagishita, T., Ogi, T. &amp;  Yokoyama, S.-Y. (1995). Thermochemical liquidization  anaerobic treatment of dewatered sewage sludge. J.  Ferment. Bioeng., 79, 300-302.  Standard methods for the examination of water and waste-  water (1992). 18th edn. Am. Public Health Assoc.,  Washington, D.C.  Stuckey, D. C. &amp; McCarty, P. L. (1978). Thermochemical  pretreatment of nitrogenous materials to increase  methane yield. Biotechnol. Bioeng. Syrup.,, 8, 219-233.  Woodard, S. E. &amp; Wukasch, R. F. (1994). A hydrolysis/  thickening/filtration process for the treatment of waste  activated sludge. Wat. Sci. Technol., 30, 29-38.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           </xocs:rawtext><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>BITE</jid>
+            <aid>97001211</aid>
+            <ce:pii>S0960-8524(97)00121-1</ce:pii>
+            <ce:doi>10.1016/S0960-8524(97)00121-1</ce:doi>
+            <ce:copyright type="unknown" year="1997"/>
+         </item-info>
+         <head>
+            <ce:title>Enhancement of anaerobic digestion of waste activated sludge by alkaline solubilization</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Jih-Gaw</ce:given-name>
+                  <ce:surname>Lin</ce:surname>
+                  <ce:cross-ref refid="COR1">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="AFF1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Cheng-Nan</ce:given-name>
+                  <ce:surname>Chang</ce:surname>
+                  <ce:cross-ref refid="AFF2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Shou-Chung</ce:given-name>
+                  <ce:surname>Chang</ce:surname>
+                  <ce:cross-ref refid="AFF1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="AFF1">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Institute of Environmental Engineering, Chiao Tung University, 75 Po-Ai Street, Hsinchu City, Taiwan, ROC</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="AFF2">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Graduate Institute of Environmental Science, Tunghai University, Box 5-819, Taichung City, Taiwan, ROC</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="COR1">
+                  <ce:label>∗</ce:label>
+                  <ce:text>Author to whom correspondence should be addressed.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="15" month="11" year="1996"/>
+            <ce:date-revised day="28" month="7" year="1997"/>
+            <ce:date-accepted day="8" month="8" year="1997"/>
+            <ce:abstract class="author"><ce:abstract-sec>
+                  <ce:simple-para view="all">The performance of an anaerobic digestion fed with waste activated sludge (WAS) pretreated with NaOH was examined. The sludge was periodically collected from a municipal wastewater-treatment plant. The laboratory work was run in four 1-l semi-continuous anaerobic digestion reactors. Reactor A was fed with untreated WAS at 1% total solids (TS). The other three reactors, B, C and D, were respectively fed with WAS (1% TS) pretreated with 20 meq/l NaOH, WAS (1% TS) pretreated with 40 meq/l NaOH, and WAS (2% TS) pretreated with 20 meq/l NaOH. The reactors were operated at 35°C at four hydraulic retention times — 20, 13, 10 and 7.5 days. The performances of reactors B, C and D, in terms of chemical oxygen demand (COD), volatile solids (VS) removal, and gas production, were superior to that of reactor A. At a retention time of 10 days, the COD removals of reactors A, B, C and D were 38, 46, 51 and 52%, respectively. The gas productions of reactors B, C and D were, respectively, increased by 33, 30 and 163% over that of reactor A. The sludge dewaterability was examined by capillary suction time (CST). The dewaterability of digested sludge was improved in reactors B, C and D. Capillary suction of digested sludges gave times in the range 148–389 s, compared with 309–735 s for undigested sludges.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>Waste activated sludge</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>anaerobic digestion</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>hydrolysis</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>chemical pretreatment</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>dewaterability</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <tail>
+            <ce:bibliography view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec>
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>Alleman et al., 1994</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.E.</ce:given-name>
+                                 <ce:surname>Alleman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.J.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.M.</ce:given-name>
+                                 <ce:surname>Quivey</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.O.</ce:given-name>
+                                 <ce:surname>Wquihua</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Alkaline hydrolysis of munitions-grade nitrocellulose</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Wat. Sci. Tech.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>30</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1994</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>63</sb:first-page>
+                              <sb:last-page>72</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>Gossett et al., 1982</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Gossett</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.C.</ce:given-name>
+                                 <ce:surname>Stuckey</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.F.</ce:given-name>
+                                 <ce:surname>Owen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.L.</ce:given-name>
+                                 <ce:surname>McCarty</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Heat treatment and anaerobic digestion of refuse</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>J. Environ. Eng. Div., Proc., ASCE</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>108</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1982</sb:date>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>437</sb:first-page>
+                              <sb:last-page>454</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>Haug et al., 1983</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.T.</ce:given-name>
+                                 <ce:surname>Haug</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.J.</ce:given-name>
+                                 <ce:surname>LeBrun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.D.</ce:given-name>
+                                 <ce:surname>Tortorici</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Thermal pretreatment of sludges — a field demonstration</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Water Pollut. Control Fed.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>55</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>23</sb:first-page>
+                              <sb:last-page>34</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>Hiraoka et al., 1984</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Hiraoka</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Takeda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Sakai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Yasuda</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Highly efficient anaerobic digestion with thermal pretreatment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Wat. Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>17</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>529</sb:first-page>
+                              <sb:last-page>539</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>Karr and Keinath, 1978</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.R.</ce:given-name>
+                                 <ce:surname>Karr</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.M.</ce:given-name>
+                                 <ce:surname>Keinath</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Influence of particle size on sludge dewaterability</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Water Pollut. Control Fed.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>50</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1978</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1911</sb:first-page>
+                              <sb:last-page>1930</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>Lawler et al., 1986</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.F.</ce:given-name>
+                                 <ce:surname>Lawler</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.J.</ce:given-name>
+                                 <ce:surname>Chung</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.-J.</ce:given-name>
+                                 <ce:surname>Hwang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.A.</ce:given-name>
+                                 <ce:surname>Hull</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Anaerobic digestion: effects on particle size and dewaterability</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Water Pollut. Control Fed.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>58</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1107</sb:first-page>
+                              <sb:last-page>1117</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>Li and Noike, 1992</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.-Y.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Noike</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Upgrading of anaerobic digestion of waste activated sludge by thermal pretreatment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Wat. Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>26</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1992</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>857</sb:first-page>
+                              <sb:last-page>866</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>Lin et al., 1996</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.-G.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.-N.</ce:given-name>
+                                 <ce:surname>Chang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.-C.</ce:given-name>
+                                 <ce:surname>Hung</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chemical conditioning for removal of water and phosphate from enhanced sludge</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>L.</ce:given-name>
+                                    <ce:surname>Pawlowski</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>W.J.</ce:given-name>
+                                    <ce:surname>Lacy</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>C.G.</ce:given-name>
+                                    <ce:surname>Uchrin</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>M.R.</ce:given-name>
+                                    <ce:surname>Dudziñska</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>Chemistry for the protection of the environment 2</sb:maintitle>
+                              </sb:title>
+                              <sb:date>1996</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Plenum Press</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>223</sb:first-page>
+                              <sb:last-page>232</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>Metcalf and Eddy, Inc., 1991</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Metcalf</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Eddy, Inc.</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Wastewater engineering: treatment, disposal, reuse</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:edition>3rd edn</sb:edition>
+                              <sb:date>1991</sb:date>
+                              <sb:publisher>
+                                 <sb:name>McGraw Hill</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>Pavlostathis and Gossett, 1985</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.G.</ce:given-name>
+                                 <ce:surname>Pavlostathis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Gossett</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Modeling alkali consumption and digestibility improvement from alkaline treatment of wheat straw</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biotechnol. Bioeng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>27</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>345</sb:first-page>
+                              <sb:last-page>354</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>Pavlostathis and Gossett, 1988</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.G.</ce:given-name>
+                                 <ce:surname>Pavlostathis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Gossett</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Preliminary conversion mechanisms in anaerobic digestion of biological sludges</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Environ. Eng. Div., ASCE</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>114</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>575</sb:first-page>
+                              <sb:last-page>592</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>Rajan et al., 1989</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.V.</ce:given-name>
+                                 <ce:surname>Rajan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-G.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.T.</ce:given-name>
+                                 <ce:surname>Ray</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Low-level chemical pretreatment for enhanced sludge solubilization</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Res. J. Water Pollut. Control Fed.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>61</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1989</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1678</sb:first-page>
+                              <sb:last-page>1683</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>Ray et al., 1990</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.T.</ce:given-name>
+                                 <ce:surname>Ray</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.V.</ce:given-name>
+                                 <ce:surname>Rajan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-G.</ce:given-name>
+                                 <ce:surname>Lin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Low-level alkaline solubilization for enhanced anaerobic digestion</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Res. J. Water Pollut. Control Fed.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>62</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>81</sb:first-page>
+                              <sb:last-page>87</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>Samson and Leduy, 1983</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Samson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Leduy</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Influence of mechanical and thermochemical pretreatments on anaerobic digestion of <ce:italic>Spirulina maxima</ce:italic> algal biomass</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biotechnol. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>671</sb:first-page>
+                              <sb:last-page>676</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>Sawayama et al., 1995</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Sawayama</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Inoue</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Yagishita</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Ogi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.-Y.</ce:given-name>
+                                 <ce:surname>Yokoyama</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Thermochemical liquidization anaerobic treatment of dewatered sewage sludge</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Ferment. Bioeng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>79</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1995</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>300</sb:first-page>
+                              <sb:last-page>302</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB16">
+                     <ce:label>*</ce:label>
+                     <sb:reference>
+                        <sb:host>
+                           <sb:book>
+                              <sb:title>
+                                 <sb:maintitle>Standard methods for the examination of water and wastewater</sb:maintitle>
+                              </sb:title>
+                              <sb:edition>18th edn.</sb:edition>
+                              <sb:date>1992</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Am. Public Health Assoc</sb:name>
+                                 <sb:location>Washington, D.C</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB17">
+                     <ce:label>Stuckey and McCarty, 1978</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.C.</ce:given-name>
+                                 <ce:surname>Stuckey</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.L.</ce:given-name>
+                                 <ce:surname>McCarty</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Thermochemical pretreatment of nitrogenous materials to increase methane yield</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Biotechnol. Bioeng. Symp.</sb:maintitle>
+                                    </sb:title>
+                                    <sb:volume-nr>8</sb:volume-nr>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>1978</sb:date>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>219</sb:first-page>
+                              <sb:last-page>233</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB18">
+                     <ce:label>Woodard and Wukasch, 1994</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.E.</ce:given-name>
+                                 <ce:surname>Woodard</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.F.</ce:given-name>
+                                 <ce:surname>Wukasch</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A hydrolysis/thickening/filtration process for the treatment of waste activated sludge</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Wat. Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>30</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1994</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>29</sb:first-page>
+                              <sb:last-page>38</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

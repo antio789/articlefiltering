@@ -1,0 +1,2588 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0960852416314997</prism:url><dc:identifier>doi:10.1016/j.biortech.2016.10.085</dc:identifier><eid>1-s2.0-S0960852416314997</eid><prism:doi>10.1016/j.biortech.2016.10.085</prism:doi><pii>S0960-8524(16)31499-7</pii><dc:title>Effect of hydrothermal pretreatment on Miscanthus anaerobic digestion </dc:title><prism:publicationName>Bioresource Technology</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>09608524</prism:issn><prism:volume>224</prism:volume><prism:startingPage>721</prism:startingPage><prism:endingPage>726</prism:endingPage><prism:pageRange>721-726</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2017-01-31</prism:coverDate><prism:coverDisplayDate>January 2017</prism:coverDisplayDate><prism:copyright>© 2016 Published by Elsevier Ltd.</prism:copyright><prism:publisher>Published by Elsevier Ltd.</prism:publisher><dc:creator>Zhou, Xuefei</dc:creator><dc:creator>Li, Qi</dc:creator><dc:creator>Zhang, Yalei</dc:creator><dc:creator>Gu, Yu</dc:creator><dc:description>
+                  Miscanthus is a promising source of bioenergy with high lignocellulose content. This paper studied the effect of hydrothermal pretreatment on Miscanthus biogas production. Different pretreatment temperature from 125 to 200°C was tested. After pretreatment, hemicellulose was partially removed and this led to a change in cellulose accessibility. Enzymatic hydrolysis was used to examine the digestibility of different samples. There was no obvious enhancement in low temperature (125 and 150°C) conditions. According to the results, 200°C hydrothermal pretreatment was the optimal condition saving 50% on the digestion time and increasing glucose production 13.2 times compared with the raw material. Although the cellulose crystallinity increased after the pretreatment, its effect on biogas production and enzymatic hydrolysis was limited.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Miscanthus</dcterms:subject><dcterms:subject>Anaerobic digestion</dcterms:subject><dcterms:subject>Biogas</dcterms:subject><dcterms:subject>Hydrothermal pretreatment</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0960852416314997" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0960852416314997" rel="scidir"/></coredata><objects><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="382" height="273" size="33243">https://api.elsevier.com/content/object/eid/1-s2.0-S0960852416314997-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="381" height="529" size="59450">https://api.elsevier.com/content/object/eid/1-s2.0-S0960852416314997-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="381" height="296" size="21899">https://api.elsevier.com/content/object/eid/1-s2.0-S0960852416314997-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="156" size="11799">https://api.elsevier.com/content/object/eid/1-s2.0-S0960852416314997-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="118" height="164" size="8559">https://api.elsevier.com/content/object/eid/1-s2.0-S0960852416314997-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="211" height="164" size="6400">https://api.elsevier.com/content/object/eid/1-s2.0-S0960852416314997-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="866" height="618" size="145543">https://api.elsevier.com/content/object/eid/1-s2.0-S0960852416314997-gr1_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="960" height="1333" size="285501">https://api.elsevier.com/content/object/eid/1-s2.0-S0960852416314997-gr2_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="high" type="IMAGE-HIGH-RES" multimediatype="JPEG image file" mimetype="image/jpeg" width="864" height="672" size="68124">https://api.elsevier.com/content/object/eid/1-s2.0-S0960852416314997-gr3_lrg.jpg?httpAccept=%2A%2F%2A</object><object ref="mmc1" category="standard" type="APPLICATION" multimediatype="Microsoft Word file" mimetype="application/word" size="1197707">https://api.elsevier.com/content/object/eid/1-s2.0-S0960852416314997-mmc1.docx?httpAccept=%2A%2F%2A</object></objects><scopus-id>85006105995</scopus-id><scopus-eid>2-s2.0-85006105995</scopus-eid><pubmed-id>27866803</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/85006105995" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271433</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291731</xocs:ssid>
+         <xocs:ssid type="subj">291744</xocs:ssid>
+         <xocs:ssid type="subj">291793</xocs:ssid>
+         <xocs:ssid type="subj">291832</xocs:ssid>
+         <xocs:ssid type="subj">291838</xocs:ssid>
+         <xocs:ssid type="subj">291850</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Bioresource Technology</xocs:srctitle>
+      <xocs:normalized-srctitle>BIORESOURCETECHNOLOGY</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20161031">2016-10-31</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20161031">2016-10-31</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20161214">2016-12-14</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20161214">2016-12-14</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2024-10-28T19:00:38</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0960852416314997</xocs:eid>
+      <xocs:pii-formatted>S0960-8524(16)31499-7</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0960852416314997</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.biortech.2016.10.085</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.3</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0960852416X00223</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20241028">2024-10-28T19:44:25.149729Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20170101</xocs:date-search-begin>
+      <xocs:date-search-end>20170131</xocs:date-search-end>
+      <xocs:year-nav>2017</xocs:year-nav>
+      <xocs:indexeddate epoch="1477899819">2016-10-31T07:43:39.350558Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table e-component body acknowledge affil appendices articletitle auth authfirstini authfull authkeywords authlast grantnumber grantsponsor grantsponsorid highlightsabst primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0960-8524</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>09608524</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>224</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>224</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 224</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>88</xocs:sort-order>
+      <xocs:first-fp>721</xocs:first-fp>
+      <xocs:last-lp>726</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>721</xocs:first-page>
+         <xocs:last-page>726</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201701</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>January 2017</xocs:cover-date-text>
+      <xocs:cover-date-start>2017-01-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2017-01-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2017</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Full Length Articles</xocs:hub-sec-title>
+         <xocs:hub-sec>
+            <xocs:hub-sec-title>Physico-Chemical and Thermo-Chemical Processes for Biomass</xocs:hub-sec-title>
+         </xocs:hub-sec>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>© 2016 Published by Elsevier Ltd.</xocs:copyright-line>
+      <xocs:normalized-article-title>EFFECTHYDROTHERMALPRETREATMENTMISCANTHUSANAEROBICDIGESTION</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>ZHOU</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>X</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Materials and methods</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Feedstock</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Hydrothermal pretreatment</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Anaerobic digestion</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Enzymatic hydrolysis</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.5</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Analytical methods</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.6</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Statistical methods</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Compositional change after hydrothermal pretreatment</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Biogas and methane production</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Enzymatic hydrolysis</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Insight analysis of structure change</xocs:item-toc-section-title>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.4.1</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Change of chemical bonds</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.4.2</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Change of crystallinity</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.4.3</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Change of surface structure</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgement</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:appendices">
+            <xocs:item-toc-label>Appendix A</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Supplementary data</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="h0005">
+            <xocs:ref-normalized-surname>APHA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>STANDARDMETHODSFOREXAMINATIONWATERWASTEWATER</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0010">
+            <xocs:ref-normalized-surname>BROSSE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>580</xocs:ref-first-fp>
+            <xocs:ref-last-lp>598</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0015">
+            <xocs:ref-normalized-surname>CHA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>322</xocs:ref-first-fp>
+            <xocs:ref-last-lp>328</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0020">
+            <xocs:ref-normalized-surname>CHANDRA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>273</xocs:ref-first-fp>
+            <xocs:ref-last-lp>282</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0025">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>78</xocs:ref-first-fp>
+            <xocs:ref-last-lp>85</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0030">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>34</xocs:ref-first-fp>
+            <xocs:ref-last-lp>41</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0035">
+            <xocs:ref-normalized-surname>CHRISTIAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>320</xocs:ref-first-fp>
+            <xocs:ref-last-lp>327</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0040">
+            <xocs:ref-normalized-surname>CHUNG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>65</xocs:ref-first-fp>
+            <xocs:ref-last-lp>77</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0045">
+            <xocs:ref-normalized-surname>CLIFTONBROWN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>45</xocs:ref-first-fp>
+            <xocs:ref-last-lp>57</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0050">
+            <xocs:ref-normalized-surname>FAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>419</xocs:ref-first-fp>
+            <xocs:ref-last-lp>424</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0055">
+            <xocs:ref-normalized-surname>FARAGE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>720</xocs:ref-first-fp>
+            <xocs:ref-last-lp>728</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0060">
+            <xocs:ref-normalized-surname>GIUSEPPE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>152</xocs:ref-first-fp>
+            <xocs:ref-last-lp>159</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0065">
+            <xocs:ref-normalized-surname>GU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>116</xocs:ref-first-fp>
+            <xocs:ref-last-lp>122</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0070">
+            <xocs:ref-normalized-surname>HESAMI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>449</xocs:ref-first-fp>
+            <xocs:ref-last-lp>455</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0075">
+            <xocs:ref-normalized-surname>HIMKEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>117</xocs:ref-first-fp>
+            <xocs:ref-last-lp>126</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0080">
+            <xocs:ref-normalized-surname>HIMMEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>804</xocs:ref-first-fp>
+            <xocs:ref-last-lp>807</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0085">
+            <xocs:ref-normalized-surname>HSU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4907</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4913</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0090">
+            <xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>677</xocs:ref-first-fp>
+            <xocs:ref-last-lp>687</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0095">
+            <xocs:ref-normalized-surname>KRISHANIA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>359</xocs:ref-first-fp>
+            <xocs:ref-last-lp>367</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0100">
+            <xocs:ref-normalized-surname>KUMAR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>728</xocs:ref-first-fp>
+            <xocs:ref-last-lp>737</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0105">
+            <xocs:ref-normalized-surname>MENARDO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>620</xocs:ref-first-fp>
+            <xocs:ref-last-lp>630</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0110">
+            <xocs:ref-normalized-surname>NGES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>29</xocs:ref-first-fp>
+            <xocs:ref-last-lp>35</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0115">
+            <xocs:ref-normalized-surname>PRUNESCU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4235</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4250</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0120">
+            <xocs:ref-normalized-surname>SANTUCCI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1778</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1787</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0125">
+            <xocs:ref-normalized-surname>SCHROYEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>696</xocs:ref-first-fp>
+            <xocs:ref-last-lp>702</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0130">
+            <xocs:ref-normalized-surname>SEGAL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1959</xocs:ref-pub-year>
+            <xocs:ref-first-fp>786</xocs:ref-first-fp>
+            <xocs:ref-last-lp>794</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0135">
+            <xocs:ref-normalized-surname>SHI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>574</xocs:ref-first-fp>
+            <xocs:ref-last-lp>581</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0140">
+            <xocs:ref-normalized-surname>SINITSYN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1991</xocs:ref-pub-year>
+            <xocs:ref-first-fp>43</xocs:ref-first-fp>
+            <xocs:ref-last-lp>59</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0145"/>
+         <xocs:ref-info refid="h0150">
+            <xocs:ref-normalized-surname>SOUZA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4351</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4365</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0155">
+            <xocs:ref-normalized-surname>SUN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>473</xocs:ref-first-fp>
+            <xocs:ref-last-lp>479</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0160">
+            <xocs:ref-normalized-surname>SUN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>49</xocs:ref-first-fp>
+            <xocs:ref-last-lp>58</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0165">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>557</xocs:ref-first-fp>
+            <xocs:ref-last-lp>567</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h9000">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3559</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3568</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Q</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0170">
+            <xocs:ref-normalized-surname>YANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1847</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1855</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0175">
+            <xocs:ref-normalized-surname>YU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2016</xocs:ref-pub-year>
+            <xocs:ref-first-fp>265</xocs:ref-first-fp>
+            <xocs:ref-last-lp>270</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Q</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0180">
+            <xocs:ref-normalized-surname>YUAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>346</xocs:ref-first-fp>
+            <xocs:ref-last-lp>352</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0185">
+            <xocs:ref-normalized-surname>ZHAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>465</xocs:ref-first-fp>
+            <xocs:ref-last-lp>482</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>ZHOUX2017X721</xocs:refkey3>
+         <xocs:refkey4lp>ZHOUX2017X721X726</xocs:refkey4lp>
+         <xocs:refkey4ai>ZHOUX2017X721XX</xocs:refkey4ai>
+         <xocs:refkey5>ZHOUX2017X721X726XX</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:self-archiving>
+         <xocs:sa-start-date>2018-12-14T00:00:00.000Z</xocs:sa-start-date>
+         <xocs:sa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:sa-user-license>
+      </xocs:self-archiving>
+      <xocs:copyright-info>
+         <xocs:cp-notices>
+            <xocs:cp-notice lang="en">© 2016 Published by Elsevier Ltd.</xocs:cp-notice>
+         </xocs:cp-notices>
+      </xocs:copyright-info>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2021-06-04T09:53:39.629Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/aggregated-refined</xocs:funding-addon-type>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Science and Technology Commission of Shanghai Municipality</xocs:funding-agency-matched-string>
+            <xocs:funding-id>14230710800</xocs:funding-id>
+            <xocs:funding-agency-acronym>STCSM</xocs:funding-agency-acronym>
+            <xocs:funding-agency>Science and Technology Commission of Shanghai Municipality</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100003399</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1814991/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding-text>This research was financially supported by the Science and Technology Commission of Shanghai Municipality ( 14230710800 ). </xocs:funding-text>
+      </xocs:funding-list>
+      <xocs:article-sharing-framework>
+         <xocs:asf-license>https://doi.org/10.15223/policy-017</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-037</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-012</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-029</xocs:asf-license>
+         <xocs:asf-license>https://doi.org/10.15223/policy-004</xocs:asf-license>
+      </xocs:article-sharing-framework>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0960-8524(16)31499-7</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0960852416314997</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0960852416314997</xocs:eid>
+         <xocs:doi>10.1016/j.biortech.2016.10.085</xocs:doi>
+         <xocs:cid>271433</xocs:cid>
+         <xocs:timestamp>2024-10-28T19:44:25.149729Z</xocs:timestamp>
+         <xocs:cover-date-start>2017-01-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2017-01-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0960852416314997-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0960852416314997/MAIN/application/pdf/dc2001b8fa94d12e7baf26dd78a31304/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>1040823</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>6</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0960852416314997-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0960852416314997/PREVIEW/image/png/50a8d13fe80e9f3119bbaad85517ea56/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>59051</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0960852416314997-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0960852416314997/gr1/HIGHRES/image/jpeg/b39073b6b3bd2b9f84b329d5fcd8b19b/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>33243</xocs:filesize>
+               <xocs:pixel-height>273</xocs:pixel-height>
+               <xocs:pixel-width>382</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0960852416314997-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0960852416314997/gr2/DOWNSAMPLED/image/jpeg/e502f31a4581acc712c8afaa6df1f94c/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>59450</xocs:filesize>
+               <xocs:pixel-height>529</xocs:pixel-height>
+               <xocs:pixel-width>381</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0960852416314997-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0960852416314997/gr3/DOWNSAMPLED/image/jpeg/e0af25d78cc6408aeb7adf95df31330f/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>21899</xocs:filesize>
+               <xocs:pixel-height>296</xocs:pixel-height>
+               <xocs:pixel-width>381</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0960852416314997-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0960852416314997/gr1/HIGHRES/image/gif/f7d3ae2d1d92261eaa4340d780e1a6c6/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>11799</xocs:filesize>
+               <xocs:pixel-height>156</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0960852416314997-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0960852416314997/gr2/THUMBNAIL/image/gif/1040ebe5eb9d6f6aa83b92a3da69076b/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>8559</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>118</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0960852416314997-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0960852416314997/gr3/THUMBNAIL/image/gif/d892a78b4669b96ca5242e6877bfd304/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>6400</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>211</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0960852416314997-gr1_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0960852416314997/THUMBNAIL/image/jpeg/d08179da9955cf82113bec1ffc82c391/gr1_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>145543</xocs:filesize>
+               <xocs:pixel-height>618</xocs:pixel-height>
+               <xocs:pixel-width>866</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0960852416314997-gr2_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0960852416314997/DOWNSAMPLED/image/jpeg/475583b1d86c313d891ee0f55cb8aeda/gr2_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>285501</xocs:filesize>
+               <xocs:pixel-height>1333</xocs:pixel-height>
+               <xocs:pixel-width>960</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0960852416314997-gr3_lrg.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0960852416314997/HIGHRES/image/jpeg/6bacdee9c4cd4a4d7558152639df4588/gr3_lrg.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3_lrg.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>68124</xocs:filesize>
+               <xocs:pixel-height>672</xocs:pixel-height>
+               <xocs:pixel-width>864</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-HIGH-RES</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0960852416314997-mmc1.docx</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0960852416314997/mmc1/MAIN/application/vnd.openxmlformats-officedocument.wordprocessingml.document/336a16529ccf5eea330ab7cfccf6c182/mmc1.docx</xocs:ucs-locator>
+               <xocs:file-basename>mmc1</xocs:file-basename>
+               <xocs:filename>mmc1.docx</xocs:filename>
+               <xocs:extension>docx</xocs:extension>
+               <xocs:filesize>1197707</xocs:filesize>
+               <xocs:attachment-type>APPLICATION</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" xml:lang="en" version="5.4">
+         <item-info>
+            <jid>BITE</jid>
+            <aid>17240</aid>
+            <ce:pii>S0960-8524(16)31499-7</ce:pii>
+            <ce:doi>10.1016/j.biortech.2016.10.085</ce:doi>
+            <ce:copyright type="unknown" year="2016"/>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cn0005">
+                  <ce:simple-para id="sp0015" view="all">Compositional analysis of raw and pretreated Miscanthus.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0960852416314997/gr1" id="lk00005"/>
+            </ce:figure>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cn0010">
+                  <ce:simple-para id="sp0020" view="all">Biogas and methane production of raw and pretreated Miscanthus samples.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0960852416314997/gr2" id="lk00010"/>
+            </ce:figure>
+            <ce:figure id="f0015">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption id="cn0015">
+                  <ce:simple-para id="sp0025" view="all">Glucose production in different samples after 72<ce:hsp sp="0.25"/>h cellulase hydrolysis.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/23.4" xlink:href="pii:S0960852416314997/gr3" id="lk00015"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" frame="topbot" id="t0005" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cn0020">
+                  <ce:simple-para id="sp0030" view="all">Characteristics of Miscanthus and inoculum.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="4">
+                  <colspec colname="col1" align="left"/>
+                  <colspec colname="col2" align="left"/>
+                  <colspec colname="col3" align="left"/>
+                  <colspec colname="col4" align="left"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Parameter</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Inoculum</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Miscanthus</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Miscanthus (<cross-ref refid="b0105" id="c0005">Menardo et al., 2013</cross-ref>)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Total solids (%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">10.0<hsp sp="0.25"/>±<hsp sp="0.25"/>0.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">94.1<hsp sp="0.25"/>±<hsp sp="0.25"/>0.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">89.0</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Volatile solids (% TS)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">62.7<hsp sp="0.25"/>±<hsp sp="0.25"/>0.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">99.3<hsp sp="0.25"/>±<hsp sp="0.25"/>0.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">97.9</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Total carbon (% TS)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">28.1<hsp sp="0.25"/>±<hsp sp="0.25"/>0.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">49.4<hsp sp="0.25"/>±<hsp sp="0.25"/>0.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">47.4</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Total nitrogen (% TS)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2.1<hsp sp="0.25"/>±<hsp sp="0.25"/>0.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.5<hsp sp="0.25"/>±<hsp sp="0.25"/>0.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0.3</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">C/N ratio</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">13.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">98.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">158</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title id="tm005">Effect of hydrothermal pretreatment on Miscanthus anaerobic digestion</ce:title>
+            <ce:author-group id="ag005">
+               <ce:author id="au005" author-id="S0960852416314997-e0757374078f0fef7a049519afa95a5c">
+                  <ce:given-name>Xuefei</ce:given-name>
+                  <ce:surname>Zhou</ce:surname>
+                  <ce:cross-ref refid="af010" id="c0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1" id="c0015">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au010" author-id="S0960852416314997-e50392b846f7aad5c7d60f74457fb8f2">
+                  <ce:given-name>Qi</ce:given-name>
+                  <ce:surname>Li</ce:surname>
+                  <ce:cross-ref refid="af005" id="c0020">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au015" author-id="S0960852416314997-cea9fac0e5511819ff6467edaf2a5d40">
+                  <ce:given-name>Yalei</ce:given-name>
+                  <ce:surname>Zhang</ce:surname>
+                  <ce:cross-ref refid="af005" id="c0025">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au020" author-id="S0960852416314997-b945921ee67d19dbc0d0beb266b4b3a1">
+                  <ce:given-name>Yu</ce:given-name>
+                  <ce:surname>Gu</ce:surname>
+                  <ce:cross-ref refid="af005" id="c0030">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="af005">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>State Key Laboratory of Pollution Control and Resource Reuse, School of Environmental Science and Technology, Tongji University, Shanghai 200092, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>State Key Laboratory of Pollution Control and Resource Reuse</sa:organization>
+                     <sa:organization>School of Environmental Science and Technology</sa:organization>
+                     <sa:organization>Tongji University</sa:organization>
+                     <sa:city>Shanghai</sa:city>
+                     <sa:postal-code>200092</sa:postal-code>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="af010">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Key Laboratory of Yangtze River Water Environment for Ministry of Education, School of Environmental Science and Technology, Tongji University, Shanghai 200092, China</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Key Laboratory of Yangtze River Water Environment for Ministry of Education</sa:organization>
+                     <sa:organization>School of Environmental Science and Technology</sa:organization>
+                     <sa:organization>Tongji University</sa:organization>
+                     <sa:city>Shanghai</sa:city>
+                     <sa:postal-code>200092</sa:postal-code>
+                     <sa:country>China</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="20" month="8" year="2016"/>
+            <ce:date-revised day="25" month="10" year="2016"/>
+            <ce:date-accepted day="27" month="10" year="2016"/>
+            
+            <ce:abstract class="author" xml:lang="en" id="ab010" view="all"><ce:abstract-sec id="as010" view="all">
+                  <ce:simple-para id="sp0010" view="all">Miscanthus is a promising source of bioenergy with high lignocellulose content. This paper studied the effect of hydrothermal pretreatment on Miscanthus biogas production. Different pretreatment temperature from 125 to 200<ce:hsp sp="0.25"/>°C was tested. After pretreatment, hemicellulose was partially removed and this led to a change in cellulose accessibility. Enzymatic hydrolysis was used to examine the digestibility of different samples. There was no obvious enhancement in low temperature (125 and 150<ce:hsp sp="0.25"/>°C) conditions. According to the results, 200<ce:hsp sp="0.25"/>°C hydrothermal pretreatment was the optimal condition saving 50% on the digestion time and increasing glucose production 13.2 times compared with the raw material. Although the cellulose crystallinity increased after the pretreatment, its effect on biogas production and enzymatic hydrolysis was limited.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword" id="kg005" view="all">
+               <ce:section-title id="st015">Keywords</ce:section-title>
+               <ce:keyword id="k0005">
+                  <ce:text>Miscanthus</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0010">
+                  <ce:text>Anaerobic digestion</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0015">
+                  <ce:text>Biogas</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0020">
+                  <ce:text>Hydrothermal pretreatment</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="st020">Introduction</ce:section-title>
+                  <ce:para id="p0025" view="all">Fossil fuels, such as coal, oil and natural gas, have been applied as the main energy source for hundreds of years, but they have been considered as unsustainable in recent years since they are non-renewable and produces carbon dioxide. Many countries are trying to transform their energy structures from fossil fuel-based energy structures to renewable energy-based structures. In these circumstances bioenergy has attracted considerable attention.</ce:para>
+                  <ce:para id="p0030" view="all">Lignocellulosic material, mainly composed of cellulose and hemicellulose, is a promising source of energy for biofuel production since it does not release extra carbon dioxide into the atmosphere. Lignocellulosic waste (such as waste straws and garden waste) and energy crops are the two most studied substrates for bioenergy production. Compared with waste straws, energy crops have higher energy potential and heat value, which lead to a more profitable transformation process. Miscanthus, as a widely available plant in Asia, has been regarded as an ideal energy crop for several reasons: (1) it is a C<ce:inf loc="post">4</ce:inf>photosynthesis grass with high dry matter production; (2) it has low lignin and ash content which suggest a better biodegradability; (3)its low sulfur content leads to low production of SO<ce:inf loc="post">x</ce:inf>; (4) it has high heat resistance, cold resistance, drought endurance, heavy metals tolerance and capacity to grow in saline soils; (5) it is high yielding crop with very low nutrient requirements which has a low management cost. In fact, the yield of Miscanthus was much higher than other energy crops. (<ce:cross-refs refid="b0010 b0035 b0040 b0055 b0075 b0110 b0150 b0165" id="r0005">Brosse et al., 2012; Christian et al., 2008; Chung and Kim, 2012; Farage et al., 2006; Himken et al., 1997; Nges et al., 2016; Souza et al., 2015; Wang et al., 2008</ce:cross-refs>). Miscanthus has been studied as an energy crop in Europe since the 1980s and also has attracted more and more attention in East Asia (<ce:cross-ref refid="b0040" id="c0035">Chung and Kim, 2012</ce:cross-ref>).</ce:para>
+                  <ce:para id="p0035" view="all">As a kind of lignocellulosic material, the biodegradability of Miscanthus is limited by the biomass recalcitrance. Except cellulose, lignin and hemicellulose are the two main components contained in Miscanthus. However the existence of lignin and hemicellulose creates barriers to protect cellulose from being degraded by microorganisms. Lignin cannot be used during anaerobic digestion and the existence of lignin not only provides a physical barrier but also inactivate cellulase by irreversible absorption (<ce:cross-refs refid="b0090 b0180" id="r0010">Kim et al., 2015; Yuan et al., 2013</ce:cross-refs>). Unlike lignin, hemicellulose is degradable during the anaerobic digestion, but its degradability is much lower than cellulose (<ce:cross-ref refid="b0010" id="c0040">Brosse et al., 2012</ce:cross-ref>). The removal of either lignin or hemicellulose can increase the cellulose digestibility (<ce:cross-refs refid="b0065 b0085" id="r0015">Gu et al., 2015; Hsu et al., 2010</ce:cross-refs>). Therefore, suitable pretreatment is required before the anaerobic digestion to release cellulose from the protection of the lignin and hemicellulose. In previous studies, many pretreatments, such as physical, alkali, acid and fungal pretreatment, have been applied in lignocellulosic material anaerobic digestion (<ce:cross-ref refid="b0160" id="c0045">Sun et al., 2016</ce:cross-ref>). Hydrothermal pretreatment is an effective physio-chemical method for lignocellulosic material pretreatment to structurally destroy lignocellulose material. Since hemicellulose degrades more easily than cellulose under hydrothermal condition, some of the hemicellulose and lignin can be removed before the anaerobic hydrolysis step. The hydrothermal temperature is the most important factor influencing the pretreatment effect and it is always controlled under 240<ce:hsp sp="0.25"/>°C since the cellulose degrades when the temperature goes higher (<ce:cross-refs refid="b0100 b0160" id="r0020">Kumar et al., 2015; Sun et al., 2016</ce:cross-refs>).</ce:para>
+                  <ce:para id="p0040" view="all">In conclusion, Miscanthus has been regard as a potential energy grass for biogas production after pretreatment and anaerobic digestion (<ce:cross-refs refid="b0015 b0040 b0045" id="r0025">Cha et al., 2016; Chung and Kim, 2012; Clifton-Brown et al., 2015</ce:cross-refs>). In this paper, hydrothermal pretreatment has been applied to improve the biodegradability of Miscanthus. The effect of different pretreatment temperature on biogas production and enzymatic hydrolysis has been compared. Moreover, structural change has been analyzed to deep understanding the mechanisms of hydrothermal pretreatment.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="st025">Materials and methods</ce:section-title>
+                  <ce:section id="s0015" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title id="st030">Feedstock</ce:section-title>
+                     <ce:para id="p0045" view="all">Miscanthus (<ce:italic>Miscanthus sacchariflorus</ce:italic>) was harvested and packaged in Jiangsu province, China. The collected Miscanthus was air dried at room temperature and broken with a paper cutter. Then the Miscanthus was screened and particles which passed through a 20-mesh sieve and retained by a 40-mesh sieve were collected and stored in a plastic vacuum bag to prevent possible degradation.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0020" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title id="st035">Hydrothermal pretreatment</ce:section-title>
+                     <ce:para id="p0050" view="all">The hydrothermal pretreatment of Miscanthus was performed in a 100<ce:hsp sp="0.25"/>mL stainless steel reactor with an inserted Teflon vessel. In every reactor, a 2.5<ce:hsp sp="0.25"/>g sample of Miscanthus was added followed by 25<ce:hsp sp="0.25"/>mL of distilled water. The reactors were fully tightened and placed in a high temperature rotation chamber at 20<ce:hsp sp="0.25"/>rpm in order to provide continuous mixture. The pretreatment temperature was set at 125, 150, 175 and 200<ce:hsp sp="0.25"/>°C, respectively, and all reactors were cooled down to room temperature using cold water after the 30<ce:hsp sp="0.25"/>min pretreatment period. After pretreatment, the slurry was filtered for solid-liquid separation and recovered Miscanthus was washed using distilled water. Finally, the pretreated Miscanthus was dried and stored in a vacuum plastic bag for subsequent analysis.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0025" view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title id="st040">Anaerobic digestion</ce:section-title>
+                     <ce:para id="p0055" view="all">The anaerobic digestion of hydrothermal pretreated Miscanthus was performed in batch reactors with digested pig manure obtained from a livestock and poultry farm as the inoculum. The characteristics of Miscanthus and inoculum are displayed in <ce:cross-ref refid="t0005" id="c0050">Table 1</ce:cross-ref>
+                        <ce:float-anchor refid="t0005"/>. 100<ce:hsp sp="0.25"/>mL serum bottles with 40<ce:hsp sp="0.25"/>mL working volume were used in this test. 0.8<ce:hsp sp="0.25"/>g of Miscanthus (based on TS) and 40<ce:hsp sp="0.25"/>mL of pig manure was mixed and added into the serum bottle, and extra water was also added to adjust the total TS content to 5% (w/v). Then the bottles were sealed with rubber stoppers and aluminum caps to maintain anaerobic conditions. All the reactors were placed in a thermostatic chamber at 35<ce:hsp sp="0.25"/>°C for digestion. The blank group with the same amount of inoculums and working volume was also set to exclude the biogas produced by the inoculum.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0030" view="all">
+                     <ce:label>2.4</ce:label>
+                     <ce:section-title id="st045">Enzymatic hydrolysis</ce:section-title>
+                     <ce:para id="p0060" view="all">The commercial cellulase concentrated solution used in this experiment was obtained from Sigma-Aldrich. Sodium acetate buffer (50<ce:hsp sp="0.25"/>mM, pH 5.0) was used to dilute the solution. 10<ce:hsp sp="0.25"/>mL glass tubes with 8<ce:hsp sp="0.25"/>mL working volume were used as reactors for enzyme hydrolysis. When performing the hydrolysis, 80<ce:hsp sp="0.25"/>mg pretreated Miscanthus was added into the glass tube, followed with cellulase solution and sodium acetate buffer, which maintain the TS content at 1% (w/v). The mixed substrate was incubated in a 50<ce:hsp sp="0.25"/>°C incubator shaker at190<ce:hsp sp="0.25"/>rpm for 3–72<ce:hsp sp="0.25"/>h. When the hydrolysis was finished, the bottles were incubated in a water bath at 100<ce:hsp sp="0.25"/>°C for 10<ce:hsp sp="0.25"/>min to deactivate the enzyme. Then hydrolyzed samples were centrifuged at 12,000<ce:hsp sp="0.25"/>rpm for 15<ce:hsp sp="0.25"/>min for solid-liquid separation. The supernatants were collected to test the cellulose hydrolysis rate.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0035" view="all">
+                     <ce:label>2.5</ce:label>
+                     <ce:section-title id="st050">Analytical methods</ce:section-title>
+                     <ce:para id="p0065" view="all">The total solids (TS) and volatile solids (VS) content of Miscanthus and digested pig manure were tested using standard methods (<ce:cross-ref refid="b0005" id="c0055">APHA, 2012</ce:cross-ref>). The cellulase activity was analyzed using the DNS method. The cellulose, hemicellulose and lignin content in different Miscanthus samples were measured according to the NREL LAP protocol (<ce:cross-ref refid="b0145" id="c0060">Sluiter et al., 2008</ce:cross-ref>).</ce:para>
+                     <ce:para id="p0070" view="all">The cellulose hydrolysis rate during enzyme pretreatment was determined by calculating the glucose and cellobiose concentration in the hydrolysis liquid phase. The glucose and cellobiose concentration were analyzed by an Angelent 1200 high performance liquid chromatography (HPLC) system with refractive index detector and NH2P-50 4E column (Shodex). The column and detector temperature were both set to 30<ce:hsp sp="0.25"/>°C, respectively. Degassed HPLC grade water was used as the mobile phase at a flow rate of 0.8<ce:hsp sp="0.25"/>mL/min.</ce:para>
+                     <ce:para id="p0075" view="all">The change of functional groups before and after hydrothermal pretreatment was analyzed by a Fourier transform infrared spectrophotometer (Thermo Fisher Scientific, Nicolet 5700). The spectra were formed after 32 times scanning from 4000 to 400<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup> and OMNIC software was used for analysis.</ce:para>
+                     <ce:para id="p0080" view="all">An X-ray diffractometer (Bruker, D8 Advance) with Cu Kα radiation at a wavelength of 0.1542<ce:hsp sp="0.25"/>nm (50<ce:hsp sp="0.25"/>kV, 300<ce:hsp sp="0.25"/>mA) was use for the X-ray diffraction test. The Miscanthus was scanned at angles varying from 10° to 50° with an scanning speed of 2°/min, and the cellulose crystallinity was calculated (<ce:cross-ref refid="b0130" id="c0065">Segal et al., 1959</ce:cross-ref>).</ce:para>
+                     <ce:para id="p0085" view="all">The surface structure change of Miscanthus after hydrothermal pretreatment was analyzed using a scanning electron microscope (Phenom, Pro). The samples were coated with gold and then examined under 10<ce:hsp sp="0.25"/>kV accelerating voltage.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0040" view="all">
+                     <ce:label>2.6</ce:label>
+                     <ce:section-title id="st055">Statistical methods</ce:section-title>
+                     <ce:para id="p0090" view="all">Each data point was the average of three measurements and the significance test was performed with SAS 8.0.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0045" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="st060">Results and discussion</ce:section-title>
+                  <ce:section id="s0050" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title id="st065">Compositional change after hydrothermal pretreatment</ce:section-title>
+                     <ce:para id="p0095" view="all">The chemical composition of raw Miscanthus and hydrothermal pretreated Miscanthus is shown in <ce:cross-ref refid="f0005" id="c0070">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="f0005"/>. The lignocellulose content (including cellulose, hemicellulose and lignin) of Miscanthus used in this study was 89.6%, which was close to other Miscanthus species reported in previous works (<ce:cross-ref refid="b0010" id="c0075">Brosse et al., 2012</ce:cross-ref>). The cellulose and hemicellulose content of raw Miscanthus was 38.2 and 31.0% respectively. Compared with other commonly used lignocellulosic materials such as rice straw, corn stover and wheat straw (<ce:cross-refs refid="b0030 b0095 b0135" id="r0030">Chen et al., 2014b; Krishania et al., 2013; Shi et al., 2013</ce:cross-refs>), the cellulose and hemicellulose content, which represents the total fermentable sugar, was much higher in Miscanthus. After hydrothermal pretreatment, although the total amount of holocellulose (cellulose and hemicellulose) did not change a lot, the ratio of cellulose and hemicellulose was different. The increasing in cellulose content was always companied by a decrease in hemicellulose. In the 125<ce:hsp sp="0.25"/>°C and 150<ce:hsp sp="0.25"/>°C pretreated samples, the hemicellulose slightly decreased a little, as a result the cellulose increased slightly to 40.6 and 40.8%. In the 175<ce:hsp sp="0.25"/>°C and 200<ce:hsp sp="0.25"/>°C pretreated samples, the degradation of hemicellulose was much more severe. This phenomenon led to a high cellulose concentration and the cellulose content in both samples reached 49.0%. The lignin content also changed. There was no obvious different in the lignin content of the 125<ce:hsp sp="0.25"/>°C, 150<ce:hsp sp="0.25"/>°C and 175<ce:hsp sp="0.25"/>°C pretreated samples which was about 0.8% higher than the raw material, but it was much higher in the 200<ce:hsp sp="0.25"/>°C pretreated Miscanthus. The increase of lignin also contributes to the degradation of hemicellulose. The ash in Miscanthus was low, with only 3.1% in raw material and it decreased as the pretreatment temperature increased. According to the results, the hemicellulose removal depended on the hydrothermal temperature. Only when the temperature was higher than 175<ce:hsp sp="0.25"/>°C was the pretreatment efficient. Other studies also have found the same results (<ce:cross-refs refid="b0115 b0120" id="r0035">Prunescu et al., 2015; Santucci et al., 2015</ce:cross-refs>).</ce:para>
+                     <ce:para id="p0100" view="all">Although hemicellulose can also be fermented, using anaerobic microorganisms, its digestibility was lower than cellulose and needed more time for digestion. Moreover, the existence of hemicellulose will prevent cellulase from accessing cellulose (<ce:cross-ref refid="b0170" id="c0080">Yang et al., 2015</ce:cross-ref>). The degradation of hemicellulose in the 175<ce:hsp sp="0.25"/>°C and 200<ce:hsp sp="0.25"/>°C hydrothermal pretreated Miscanthus particles may lead to a higher biodegradability since the cellulose is more accessible.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0055" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title id="st070">Biogas and methane production</ce:section-title>
+                     <ce:para id="p0105" view="all">The biogas and methane production of raw and hydrothermal pretreated Miscanthus during the anaerobic digestion process is illustrated in <ce:cross-ref refid="f0010" id="c0085">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="f0010"/>(a) and (b). It can be inferred that the biogas production quantity and speed of Miscanthus was affected by the hydrothermal temperature. The ANOVA showed that the biogas and methane production was significantly influenced by hydrothermal pretreatment (p<ce:hsp sp="0.25"/>&lt;<ce:hsp sp="0.25"/>0.05). Although the biogas production increased when the hydrothermal temperature increased from 125 to 175<ce:hsp sp="0.25"/>°C, the cumulative biogas production curves between these samples were similar. When the hydrothermal temperature changed to 200<ce:hsp sp="0.25"/>°C, the biogas production trends were totally different from other samples.</ce:para>
+                     <ce:para id="p0110" view="all">The biogas production process can be roughly divided into two stages. The first stage was from the start to 35<ce:hsp sp="0.25"/>days into the process. In this stage, the cumulative biogas production in the raw material and in the 125, 150, 175<ce:hsp sp="0.25"/>°C hydrothermal pretreated materials were straight lines, which represent a steady degradation of substrate. The main difference between pretreated and raw samples was the biogas quantity, but there was no obvious difference observed between the 125, 150 and 175<ce:hsp sp="0.25"/>°C pretreated samples. The production of biogas in the 200<ce:hsp sp="0.25"/>°C pretreated Miscanthus showed much more severe changes than other samples. It achieved a very high biogas production in the first day, but decreased to a low production rate in the third day and did not recover until day 12. The 200<ce:hsp sp="0.25"/>°C sample started its second peak from about day 17 and maintained for almost 10<ce:hsp sp="0.25"/>days. Then the biogas production rate decreased to low levels again. The first stage came to the end at day 35 and the biogas productions in all reactors were almost stopped. After about 5<ce:hsp sp="0.25"/>days of adjustment, the second biogas production stage started. In this stage, although the biogas production in the raw material and the 125, 150, 175<ce:hsp sp="0.25"/>°C hydrothermal pretreated materials was slower than during the first stage, the biogas production rate was lower. The biogas production of 200<ce:hsp sp="0.25"/>°C hydrothermal pretreated Miscanthus still remained at a low level during this stage.</ce:para>
+                     <ce:para id="p0115" view="all">
+                        <ce:cross-ref refid="f0010" id="c0090">Fig. 2</ce:cross-ref>(b) shows the methane production and percentage methane production of different samples. Although methane production is decisively influenced by biogas production, the methane content also affected a lot. The percentage methane production can reflect the methane production rate. It is obvious that in the raw material and the 125, 150 and 175<ce:hsp sp="0.25"/>°C hydrothermal pretreated materials the biogas production was steady since the percentage methane production did not change significantly over time. They achieved 12.9–23.8% methane production every 10<ce:hsp sp="0.25"/>days in the first stage (from day 0 to day 40) and it decreased to less than 10% in the second stage. The fastest methane production observed in these four samples was between the 20th and 30th day. This indicated a steady but long term anaerobic digestion cycle. The percentage of methane production in the 200<ce:hsp sp="0.25"/>°C pretreated Miscanthus was totally different. More than 80% of the methane was produced in the first 30<ce:hsp sp="0.25"/>days which was 50% faster than other samples. The 200<ce:hsp sp="0.25"/>°C hydrothermal pretreated Miscanthus achieved its fastest biogas production in the period from day 20 to day 30, in which 36.6% of total methane was produced. After 30<ce:hsp sp="0.25"/>days digestion, its methane production dramatically decreased to less than 6% every 10<ce:hsp sp="0.25"/>days. In all five samples, the highest methane production was obtained in the 175<ce:hsp sp="0.25"/>°C pretreated samples. Although the biogas production in the 125, 150 and 200<ce:hsp sp="0.25"/>°C pretreated samples was higher than in the raw material, the methane production of these four samples did not show obvious differences.</ce:para>
+                     <ce:para id="p0120" view="all">Hydrothermal pretreatment is an effective pretreatment method, increasing the biogas production rate of Miscanthus by 49.7% compared with the raw material in this study. Although the total methane production in this study is not comparable to other studies (using steam explosion, fungi pretreatment and etc) since the biogas production is also affected by the digestion condition such as inoculum activity, the difference between pretreated and raw material in this study (nearly 50%) is more significant than other studies, in which the difference varied from 4% to 27% (<ce:cross-refs refid="b0020 b0060 b0125" id="r0040">Chandra et al., 2012; Giuseppe et al., 2013; Schroyen et al., 2015</ce:cross-refs>). This is due to the cellulose composition increasing by 28.2% after pretreatment. The same conclusion can also be drawn from Hesami’s study which used hydrothermal methods to treat sunflower stalks and achieved almost an increase in biogas production of 88% since the cellulose composition increased by 55% (<ce:cross-ref refid="b0070" id="c0095">Hesami et al., 2015</ce:cross-ref>). Compared with the reported biogas production and methane of waste straws, the biogas production of Miscanthus was steadier and this may contribute to its high cellulose and hemicellulose content (<ce:cross-refs refid="b0025 b0030" id="r0045">Chen et al., 2014a,b</ce:cross-refs>).</ce:para>
+                     <ce:para id="p0125" view="all">In conclusion, the biogas and methane production of different samples indicates that: (1) although the effect of temperature at 125 and 150<ce:hsp sp="0.25"/>°C was not obvious, hydrothermal pretreatment had evident effects on biogas and methane production yields and rate; (2) the biogas production was concentrated to the first 30<ce:hsp sp="0.25"/>days by 200<ce:hsp sp="0.25"/>°C hydrothermal pretreatment which means the digestion time decreased by 50%, this would be very beneficial for cost saving. (3) The increased biogas production quantity and speed in the 175 and 200<ce:hsp sp="0.25"/>°C pretreated samples contributed to the hemicellulose removal.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0060" view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title id="st075">Enzymatic hydrolysis</ce:section-title>
+                     <ce:para id="p0130" view="all">A cellulase hydrolysis test was used to compare the enzymatic digestibility of raw Miscanthus and different hydrothermal pretreated samples. <ce:cross-ref refid="f0015" id="c0100">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="f0015"/> shows the glucose production in different samples after 72<ce:hsp sp="0.25"/>h hydrolysis. The enzyme digestibility of raw material was low with 0.14<ce:hsp sp="0.25"/>mg/mL glucose concentration after 72<ce:hsp sp="0.25"/>h hydrolysis. Compared with the raw material, the hydrolysis rate in 125 and 150<ce:hsp sp="0.25"/>°C hydrothermal pretreated samples only increased 21.4% and the final glucose concentration obtained was about 0.17<ce:hsp sp="0.25"/>mg/mL. The glucose production observed in the 175 and 200<ce:hsp sp="0.25"/>°C hydrothermal pretreated samples was much higher and they achieved 0.4 and 2.0<ce:hsp sp="0.25"/>mg/mL glucose after the pretreatment. The cellulose hydrolysis rate also can be calculated according to the glucose production and it was 3.6, 4.1, 4.12, 8.1 and 36.7% in the raw material, 125<ce:hsp sp="0.25"/>°C pretreated, 150<ce:hsp sp="0.25"/>°C pretreated,175<ce:hsp sp="0.25"/>°C pretreated, 200<ce:hsp sp="0.25"/>°C pretreated Miscanthus, respectively. Compared with the hydrolysis of other materials, the Miscanthus hydrolysis was more stable. The hydrolysis speed of rice straw decreased a lot after 48<ce:hsp sp="0.25"/>h hydrolysis (<ce:cross-ref refid="b0065" id="c0105">Gu et al., 2015</ce:cross-ref>), but the 200<ce:hsp sp="0.25"/>°C pretreated Miscanthus still maintained a high hydrolysis rate after 72<ce:hsp sp="0.25"/>h hydrolysis, which suggests a further hydrolysis if the time were longer.</ce:para>
+                     <ce:para id="p0135" view="all">The cellulase hydrolysis results of different samples can explain the difference observed in biogas production. It is generally recognized that hydrolysis is the key stage in limiting the rate of lignocellulose anaerobic digestion (<ce:cross-ref refid="b0080" id="c0110">Himmel et al., 2007</ce:cross-ref>). In this experiment, the 200<ce:hsp sp="0.25"/>°C pretreated sample achieved the highest glucose concentration and cellulose hydrolysis rate, while the hydrolysis speeds of the raw material, and the 125 and 150<ce:hsp sp="0.25"/>°C samples were not significantly different. This suggests that the cellulose in the 200<ce:hsp sp="0.25"/>°C pretreated Miscanthus was more accessible than in other samples. This phenomenon can well explain why the 200<ce:hsp sp="0.25"/>°C pretreated sample achieved much higher biogas production in the first 40<ce:hsp sp="0.25"/>days. Moreover, it also can explain the similar biogas and methane production between the raw material, and the 125 and 150<ce:hsp sp="0.25"/>°C pretreated materials.</ce:para>
+                     <ce:para id="p0140" view="all">Many factors affect the hydrolysis speed, including the lignin content, hemicellulose content, particle size, and surface area. In this experiment, all the particles were the same size and their surface areas were similar. The main reason for the high cellulase efficiency observed in the 200<ce:hsp sp="0.25"/>°C pretreated Miscanthus was the removal of hemicellulose. The same results also can be observed in Sugarcane Bagasse hydrothermal pretreatment (<ce:cross-ref refid="b0120" id="c0115">Santucci et al., 2015</ce:cross-ref>).</ce:para>
+                     <ce:para id="p0145" view="all">The total biogas production is an important parameter for choosing the optimal pretreatment condition, but the hydrolysis speed also cannot be ignored. Although 175<ce:hsp sp="0.25"/>°C hydrothermal pretreatment lead to the highest biogas production in the batch test, the 200<ce:hsp sp="0.25"/>°C pretreated had much higher hydrolysis rate and biogas production speed which indicate larger potential in continuous system. In consideration of both biogas and glucose production, 200<ce:hsp sp="0.25"/>°C should be the optimal pretreatment temperature.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0065" view="all">
+                     <ce:label>3.4</ce:label>
+                     <ce:section-title id="st080">Insight analysis of structure change</ce:section-title>
+                     <ce:section id="s0070" view="all">
+                        <ce:label>3.4.1</ce:label>
+                        <ce:section-title id="st085">Change of chemical bonds</ce:section-title>
+                        <ce:para id="p0150" view="all">FTIR spectra in the region of 4000–400<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup> were used to examine the changes in lignocellulose chemical bonds. As the 175<ce:hsp sp="0.25"/>°C sample got the highest methane yield and the 200<ce:hsp sp="0.25"/>°C sample got the highest glucose production, their FTIR spectra were compared with RM in <ce:cross-ref refid="s0095" id="c0120">Fig. S1</ce:cross-ref>.</ce:para>
+                        <ce:para id="p0155" view="all">The variation was virtually displayed in the region of 1750–850<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup>. The absorption bands at 1515<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup> were attributed to aromatic C<ce:glyph name="dbnd"/>C stretching and 1373<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup> was assigned to aliphatic C–H stretching in methyl and phenol OH, while the band at 1125<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1</ce:sup> was associated with syringyl units. Those three peaks were characteristic bands of lignin (<ce:cross-ref refid="b9000" id="ce.cross-ref_f5r_tmf_yx">Wang et al., 2015</ce:cross-ref>) and did not significantly change under different hydrothermal temperatures, indicating no dramatic damage to the aromatic ring structure after the pretreatment. However, all the three bands declined in 200<ce:hsp sp="0.25"/>°C sample, suggesting that the chemical bonds of lignin was partly destroyed by 200<ce:hsp sp="0.25"/>°C hydrothermal pretreatment, albeit with increased lignin content in <ce:cross-ref refid="f0005" id="c0125">Fig. 1</ce:cross-ref>. The absorption at 1726<ce:hsp sp="0.25"/>m<ce:sup loc="post">−1</ce:sup> belonged to ester-linked acetyl, feruloyl and p-coumaroyl groups between hemicellulose and lignin (<ce:cross-ref refid="b0155" id="c0130">Sun et al., 2015</ce:cross-ref>), its relative intensity decreased after 200 hydrothermal pretreatment, indicating the fracture of hemicellulose-lignin ester-linked acetyl bonds. The peak of the C–O–C ring skeletal vibration at 1051<ce:hsp sp="0.25"/>cm<ce:sup loc="post">−1‘</ce:sup> was attributed to hemicellulose structure changes (<ce:cross-ref refid="b0085" id="c0135">Hsu et al., 2010</ce:cross-ref>) and its intensity decreased with increased temperature, which corresponded to decreased hemicellulose content presented in <ce:cross-ref refid="f0005" id="c0140">Fig. 1</ce:cross-ref>. The chemical structure of lignocellulose was partly destroyed by 200<ce:hsp sp="0.25"/>°C hydrothermal pretreatment, and the protective effect of hemicellulose and lignin on cellulose weakened, which resulted in high degradability and biogas production rate of 200<ce:hsp sp="0.25"/>°C sample.</ce:para>
+                     </ce:section>
+                     <ce:section id="s0075" view="all">
+                        <ce:label>3.4.2</ce:label>
+                        <ce:section-title id="st090">Change of crystallinity</ce:section-title>
+                        <ce:para id="p0160" view="all">In lignocellulosic materials, there are amorphous and crystalline regions of cellulose fibers. The crystalline cellulose is more recalcitrant to enzyme attack than amorphous cellulose, so the cellulose crystallinity is a parameter to analysis the cellulose digestibility. X-ray diffraction is an effective way to analyze the crystallinity of cellulose. The sharpness of peak was similar among samples (<ce:cross-ref refid="s0095" id="c0145">Fig. S2</ce:cross-ref>), but the crystallinity in pretreated samples increased obviously with temperature. The crystallinity of the raw material was 44.3%, and increased to 43.8 for 125<ce:hsp sp="0.25"/>°C sample, 47.2 for 150<ce:hsp sp="0.25"/>°C sample, 46.4 for 175<ce:hsp sp="0.25"/>°C sample and 49.7% 200<ce:hsp sp="0.25"/>°C sample. The reasons are those: (1) the removal of amorphous region cellulose since the crystalline cellulose is more resistance to chemical and biological degradation (<ce:cross-ref refid="b0185" id="c0150">Zhao et al., 2012</ce:cross-ref>); (2) the decrease of hemicellulose which is also amorphous. Although it is well known that high cellulose crystallinity increases the recalcitrance of cellulose fiber during enzyme hydrolysis (<ce:cross-refs refid="b0050 b0140" id="r0050">Fan et al., 1981; Sinitsyn et al., 1991</ce:cross-refs>), but for lignocellulose, the results of this study have found negative correlation between crystallinity and biodegradability. The enzymatic digestibility of lignocellulosic material is affected by many factors, thus the crystallinity cannot explain the results alone and it may not be the key factor in this experiment.</ce:para>
+                     </ce:section>
+                     <ce:section id="s0080" view="all">
+                        <ce:label>3.4.3</ce:label>
+                        <ce:section-title id="st095">Change of surface structure</ce:section-title>
+                        <ce:para id="p0165" view="all">During the hydrothermal pretreatment, the surface structure of Miscanthus also changed. A scanning electron microscope was used to analyze the surface structure change in different samples. The surface of raw Miscanthus is very smooth with a compact solid structure and the lignocellulose is coated by wax. This surface structure protects the cellulose from being degraded by chemicals or microorganisms and as a result the biogas production and hydrolysis rate of the raw material was very slow. The SEM clearly showed that the surface wax layer was destroyed more and more seriously with the temperature raised (<ce:cross-ref refid="s0095" id="c0155">Fig. S3</ce:cross-ref>). In the 175<ce:hsp sp="0.25"/>°C hydrothermal pretreated samples, the wax was almost removed. Furthermore, the surface structure began deconstruction and cracks were clearly observed on the surface. Compared with 125, 150 and 175<ce:hsp sp="0.25"/>°C hydrothermal pretreated sample, the 200<ce:hsp sp="0.25"/>°C pretreated Miscanthus had a much more rough surface, not only had the wax layer been completely deconstructed but also the cellulose fiber was exposed. Due to the deconstruction of Miscanthus surface, hydrothermal pretreated material had more internal surface and this can lead to an increase in biodegradability, which was observed in the biogas production and enzyme hydrolysis processes. In other studies using hydrothermal to treat lignocellulosic materials, the same phenomenon also has been observed (<ce:cross-refs refid="b0070 b0175" id="r0055">Hesami et al., 2015; Yu et al., 2016</ce:cross-refs>).</ce:para>
+                     </ce:section>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0085" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="st100">Conclusions</ce:section-title>
+                  <ce:para id="p0170" view="all">This study used hydrothermal pretreatment to enhance the biodegradability of Miscanthus. The results show that the hydrothermal effect is not obvious when the temperature is below 150<ce:hsp sp="0.25"/>°C. Although more biogas was produced under 175<ce:hsp sp="0.25"/>°C, 200<ce:hsp sp="0.25"/>°C is the optimal condition since it achieved a higher cellulose hydrolysis speed and led to quicker biogas production. Moreover, the surface structure of Miscanthus was completely changed under 200<ce:hsp sp="0.25"/>°C and this suggested a better biodegradability. Although cellulose crystallinity was increased after pretreatment, the biodegradability was not affected by this parameter.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ak005" view="all">
+               <ce:section-title id="st105">Acknowledgement</ce:section-title>
+               <ce:para id="p0175" view="all">This research was financially supported by the <ce:grant-sponsor sponsor-id="http://dx.doi.org/10.13039/501100003399" xlink:type="simple" id="gp005" xlink:role="http://www.elsevier.com/xml/linking-roles/grant-sponsor">Science and Technology Commission of Shanghai Municipality</ce:grant-sponsor> (<ce:grant-number refid="gp005">14230710800</ce:grant-number>).</ce:para>
+            </ce:acknowledgment>
+            <ce:appendices view="all">
+               <ce:section view="compact-standard" id="s0090">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="st110">Supplementary data</ce:section-title>
+                  <ce:para id="p0180" view="all">Supplementary data associated with this article can be found, in the online version, at <ce:inter-ref xlink:href="doi:10.1016/j.biortech.2016.10.085" xlink:type="simple" id="ir005">http://dx.doi.org/10.1016/j.biortech.2016.10.085</ce:inter-ref>.</ce:para>
+               </ce:section>
+               <ce:section view="extended" id="s0095">
+                  <ce:label>Appendix A</ce:label>
+                  <ce:section-title id="st115">Supplementary data</ce:section-title>
+                  <ce:para id="p0185" view="all">
+                     <ce:display>
+                        <ce:e-component id="m0005">
+                           <ce:label>Supplementary data 1</ce:label>
+                           <ce:link locator="mmc1" xlink:type="simple" xlink:role="http://data.elsevier.com/vocabulary/ElsevierContentTypes/46.1" xlink:href="pii:S0960852416314997/mmc1" id="lk00020"/>
+                        </ce:e-component>
+                     </ce:display>
+                  </ce:para>
+               </ce:section>
+            </ce:appendices>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bi005" view="all">
+               <ce:section-title id="st120">References</ce:section-title>
+               <ce:bibliography-sec id="bs005" view="all">
+                  <ce:bib-reference id="b0005">
+                     <ce:label>APHA, 2012</ce:label>
+                     <sb:reference id="h0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>APHA</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Standard Methods for the Examination of Water and Wastewater</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2012</sb:date>
+                              <sb:publisher>
+                                 <sb:name>American Public Health Association Washington</sb:name>
+                                 <sb:location>DC</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0010">
+                     <ce:label>Brosse et al., 2012</ce:label>
+                     <sb:reference id="h0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Brosse</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Dufour</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Meng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Ragauskas</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Miscanthus: a fast-growing crop for biofuels and chemicals production</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biofuels, Bioprod. Biorefin.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>580</sb:first-page>
+                              <sb:last-page>598</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0015">
+                     <ce:label>Cha et al., 2016</ce:label>
+                     <sb:reference id="h0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.-L.</ce:given-name>
+                                 <ce:surname>Cha</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.-I.</ce:given-name>
+                                 <ce:surname>Seo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.H.</ce:given-name>
+                                 <ce:surname>An</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.-H.</ce:given-name>
+                                 <ce:surname>Moon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.-D.</ce:given-name>
+                                 <ce:surname>You</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-E.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-W.</ce:given-name>
+                                 <ce:surname>Ahn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.-B.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Alkaline twin-screw extrusion pretreatment of Miscanthus with recycled black liquor at the pilot scale</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Fuel</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>164</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>322</sb:first-page>
+                              <sb:last-page>328</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0020">
+                     <ce:label>Chandra et al., 2012</ce:label>
+                     <sb:reference id="h0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Chandra</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Takeuchi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Hasegawa</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Kumar</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Improving biodegradability and biogas production of wheat straw substrates using sodium hydroxide and hydrothermal pretreatments</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>43</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>273</sb:first-page>
+                              <sb:last-page>282</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0025">
+                     <ce:label>Chen et al., 2014a</ce:label>
+                     <sb:reference id="h0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Gu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Asparagus stem as a new lignocellulosic biomass feedstock for anaerobic digestion: increasing hydrolysis rate, methane production and biodegradability by alkaline pretreatment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>164</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>78</sb:first-page>
+                              <sb:last-page>85</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0030">
+                     <ce:label>Chen et al., 2014b</ce:label>
+                     <sb:reference id="h0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.H.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.L.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Gu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.G.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Shen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.Q.</ce:given-name>
+                                 <ce:surname>Chu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.F.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Enhancing methane production from rice straw by extrusion pretreatment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>122</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>34</sb:first-page>
+                              <sb:last-page>41</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0035">
+                     <ce:label>Christian et al., 2008</ce:label>
+                     <sb:reference id="h0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.G.</ce:given-name>
+                                 <ce:surname>Christian</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.B.</ce:given-name>
+                                 <ce:surname>Riche</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.E.</ce:given-name>
+                                 <ce:surname>Yates</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Growth, yield and mineral content of Miscanthus x giganteus grown as a biofuel for 14 successive harvests</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ind. Crops Prod.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>28</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>320</sb:first-page>
+                              <sb:last-page>327</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0040">
+                     <ce:label>Chung and Kim, 2012</ce:label>
+                     <sb:reference id="h0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Chung</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.S.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Miscanthus as a potential bioenergy crop in East Asia</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Crop Sci. Biotechnol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>15</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>65</sb:first-page>
+                              <sb:last-page>77</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0045">
+                     <ce:label>Clifton-Brown et al., 2015</ce:label>
+                     <sb:reference id="h0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Clifton-Brown</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.-U.</ce:given-name>
+                                 <ce:surname>Schwarz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Hastings</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>History of the development of Miscanthus as a bioenergy crop: from small beginnings to potential realisation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biol. Environ. Proc. R. Irish Acad.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>115B</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>45</sb:first-page>
+                              <sb:last-page>57</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0050">
+                     <ce:label>Fan et al., 1981</ce:label>
+                     <sb:reference id="h0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.T.</ce:given-name>
+                                 <ce:surname>Fan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.H.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.R.</ce:given-name>
+                                 <ce:surname>Beardmore</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Influence of major structural features of cellulose on rate of enzymatic hydrolysis</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biotechnol. Bioeng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>23</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>419</sb:first-page>
+                              <sb:last-page>424</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0055">
+                     <ce:label>Farage et al., 2006</ce:label>
+                     <sb:reference id="h0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.K.</ce:given-name>
+                                 <ce:surname>Farage</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Blowers</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.P.</ce:given-name>
+                                 <ce:surname>Long</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.R.</ce:given-name>
+                                 <ce:surname>Baker</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Low growth temperatures modify the efficiency of light use by photosystem II for CO<ce:inf loc="post">2</ce:inf> assimilation in leaves of two chilling-tolerant C-4 species, Cyperus longus L. and Miscanthus x giganteus</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Plant, Cell Environ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>29</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>720</sb:first-page>
+                              <sb:last-page>728</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0060">
+                     <ce:label>Giuseppe et al., 2013</ce:label>
+                     <sb:reference id="h0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.G.</ce:given-name>
+                                 <ce:surname>Giuseppe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Marco</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Lorenzo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Irini</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effects of hydrothermal pre-treatments on Giant reed (Arundo donax) methane yield</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>147</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>152</sb:first-page>
+                              <sb:last-page>159</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0065">
+                     <ce:label>Gu et al., 2015</ce:label>
+                     <sb:reference id="h0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Gu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of Ca(OH)(2) pretreatment on extruded rice straw anaerobic digestion</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>196</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>116</sb:first-page>
+                              <sb:last-page>122</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0070">
+                     <ce:label>Hesami et al., 2015</ce:label>
+                     <sb:reference id="h0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.M.</ce:given-name>
+                                 <ce:surname>Hesami</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Zilouei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Karimi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Asadinezhad</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Enhanced biogas production from sunflower stalks using hydrothermal and organosolv pretreatment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ind. Crops Prod.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>76</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>449</sb:first-page>
+                              <sb:last-page>455</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0075">
+                     <ce:label>Himken et al., 1997</ce:label>
+                     <sb:reference id="h0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Himken</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Lammel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Neukirchen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>U.</ce:given-name>
+                                 <ce:surname>CzypionkaKrause</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.W.</ce:given-name>
+                                 <ce:surname>Olfs</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Cultivation of Miscanthus under west European conditions: seasonal changes in dry matter production, nutrient uptake and remobilization</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Plant Soil</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>189</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>117</sb:first-page>
+                              <sb:last-page>126</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0080">
+                     <ce:label>Himmel et al., 2007</ce:label>
+                     <sb:reference id="h0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.E.</ce:given-name>
+                                 <ce:surname>Himmel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.Y.</ce:given-name>
+                                 <ce:surname>Ding</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.K.</ce:given-name>
+                                 <ce:surname>Johnson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.S.</ce:given-name>
+                                 <ce:surname>Adney</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.R.</ce:given-name>
+                                 <ce:surname>Nimlos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.W.</ce:given-name>
+                                 <ce:surname>Brady</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.D.</ce:given-name>
+                                 <ce:surname>Foust</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Biomass recalcitrance: engineering plants and enzymes for biofuels production</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Science</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>315</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>804</sb:first-page>
+                              <sb:last-page>807</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0085">
+                     <ce:label>Hsu et al., 2010</ce:label>
+                     <sb:reference id="h0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.-C.</ce:given-name>
+                                 <ce:surname>Hsu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.-L.</ce:given-name>
+                                 <ce:surname>Guo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.-H.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.-S.</ce:given-name>
+                                 <ce:surname>Hwang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of dilute acid pretreatment of rice straw on structural properties and enzymatic hydrolysis</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>101</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4907</sb:first-page>
+                              <sb:last-page>4913</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0090">
+                     <ce:label>Kim et al., 2015</ce:label>
+                     <sb:reference id="h0090">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Kreke</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.K.</ce:given-name>
+                                 <ce:surname>Ko</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.R.</ce:given-name>
+                                 <ce:surname>Ladisch</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Hydrolysis-determining substrate characteristics in liquid hot water pretreated hardwood</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biotechnol. Bioeng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>112</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>677</sb:first-page>
+                              <sb:last-page>687</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0095">
+                     <ce:label>Krishania et al., 2013</ce:label>
+                     <sb:reference id="h0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Krishania</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.K.</ce:given-name>
+                                 <ce:surname>Vijay</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Chandra</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Methane fermentation and kinetics of wheat straw pretreated substrates co-digested with cattle manure in batch assay</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>57</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>359</sb:first-page>
+                              <sb:last-page>367</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0100">
+                     <ce:label>Kumar et al., 2015</ce:label>
+                     <sb:reference id="h0100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Kumar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Bakonyi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Periyasamy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Nemestóthy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Bélafi-Bakó</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Lignocellulose biohydrogen: practical challenges and recent progress</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Renewable Sustainable Energy Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>44</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>728</sb:first-page>
+                              <sb:last-page>737</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0105">
+                     <ce:label>Menardo et al., 2013</ce:label>
+                     <sb:reference id="h0105">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Menardo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Bauer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Theuretzbacher</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Piringer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Nilsen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Balsari</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Pavliska</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Amon</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Biogas production from steam-exploded miscanthus and utilization of biogas energy and CO<ce:inf loc="post">2</ce:inf> in greenhouses</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioenergy Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>620</sb:first-page>
+                              <sb:last-page>630</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0110">
+                     <ce:label>Nges et al., 2016</ce:label>
+                     <sb:reference id="h0110">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Nges</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Xiao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Yi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Physio-chemical pretreatments for improved methane potential of Miscanthus lutarioriparius</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Fuel</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>166</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>29</sb:first-page>
+                              <sb:last-page>35</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0115">
+                     <ce:label>Prunescu et al., 2015</ce:label>
+                     <sb:reference id="h0115">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.M.</ce:given-name>
+                                 <ce:surname>Prunescu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Blanke</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.G.</ce:given-name>
+                                 <ce:surname>Jakobsen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Sin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Dynamic modeling and validation of a biomass hydrothermal pretreatment process-a demonstration scale study</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>AIChE J.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>61</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4235</sb:first-page>
+                              <sb:last-page>4250</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0120">
+                     <ce:label>Santucci et al., 2015</ce:label>
+                     <sb:reference id="h0120">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.S.</ce:given-name>
+                                 <ce:surname>Santucci</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Maziero</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.C.</ce:given-name>
+                                 <ce:surname>Rabelo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.A.S.</ce:given-name>
+                                 <ce:surname>Curvelo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.T.B.</ce:given-name>
+                                 <ce:surname>Pimenta</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Autohydrolysis of hemicelluloses from sugarcane bagasse during hydrothermal pretreatment: a kinetic assessment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioenergy Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1778</sb:first-page>
+                              <sb:last-page>1787</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0125">
+                     <ce:label>Schroyen et al., 2015</ce:label>
+                     <sb:reference id="h0125">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Schroyen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Vervaeren</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Vandepitte</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.W.H.</ce:given-name>
+                                 <ce:surname>Van Hulle</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Raes</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of enzymatic pretreatment of various lignocellulosic substrates on production of phenolic compounds and biomethane potential</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>192</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>696</sb:first-page>
+                              <sb:last-page>702</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0130">
+                     <ce:label>Segal et al., 1959</ce:label>
+                     <sb:reference id="h0130">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Segal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Creely</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Martin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Conrad</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>An empirical method for estimating the degree of crystallinity of native cellulose using the X-ray diffractometer</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Text. Res. J.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>29</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1959</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>786</sb:first-page>
+                              <sb:last-page>794</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0135">
+                     <ce:label>Shi et al., 2013</ce:label>
+                     <sb:reference id="h0135">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Shi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Stiverson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Reactor performance and microbial community dynamics during solid-state anaerobic digestion of corn stover at mesophilic and thermophilic conditions</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>136</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>574</sb:first-page>
+                              <sb:last-page>581</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0140">
+                     <ce:label>Sinitsyn et al., 1991</ce:label>
+                     <sb:reference id="h0140">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.P.</ce:given-name>
+                                 <ce:surname>Sinitsyn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.V.</ce:given-name>
+                                 <ce:surname>Gusakov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.Y.</ce:given-name>
+                                 <ce:surname>Vlasenko</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of structural and physico-chemical features of cellulosic substrates on the efficiency of enzymatic hydrolysis</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Biochem. Biotechnol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>30</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1991</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>43</sb:first-page>
+                              <sb:last-page>59</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0145">
+                     <ce:label>Sluiter et al., 2008</ce:label>
+                     <ce:other-ref id="h0145">
+                        <ce:textref>Sluiter, A., Hames, B., Ruiz, R., Scarlata, C., Sluiter, J., Templeton, D., Crocker, D. 2008. Determination of structural carbohydrates and lignin in biomass. Laboratory analytical procedure.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0150">
+                     <ce:label>Souza et al., 2015</ce:label>
+                     <sb:reference id="h0150">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.P.</ce:given-name>
+                                 <ce:surname>Souza</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.L.</ce:given-name>
+                                 <ce:surname>Kamei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.F.</ce:given-name>
+                                 <ce:surname>Torres</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Pattathil</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.G.</ce:given-name>
+                                 <ce:surname>Hahn</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.M.</ce:given-name>
+                                 <ce:surname>Trindade</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.S.</ce:given-name>
+                                 <ce:surname>Buckeridge</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>How cell wall complexity influences saccharification efficiency in Miscanthus sinensis</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Exp. Bot.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>66</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4351</sb:first-page>
+                              <sb:last-page>4365</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0155">
+                     <ce:label>Sun et al., 2015</ce:label>
+                     <sb:reference id="h0155">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.-L.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.-N.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.-L.</ce:given-name>
+                                 <ce:surname>Wen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.-M.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Peng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.-C.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Assessment of integrated process based on hydrothermal and alkaline treatments for enzymatic saccharification of sweet sorghum stems</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>175</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>473</sb:first-page>
+                              <sb:last-page>479</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0160">
+                     <ce:label>Sun et al., 2016</ce:label>
+                     <sb:reference id="h0160">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Cao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The role of pretreatment in improving the enzymatic hydrolysis of lignocellulosic materials</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>199</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>49</sb:first-page>
+                              <sb:last-page>58</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0165">
+                     <ce:label>Wang et al., 2008</ce:label>
+                     <sb:reference id="h0165">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.R.</ce:given-name>
+                                 <ce:surname>Portis</ce:surname>
+                                 <ce:suffix>Jr.</ce:suffix>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.P.</ce:given-name>
+                                 <ce:surname>Moose</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.P.</ce:given-name>
+                                 <ce:surname>Long</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Cool C(4) photosynthesis: pyruvate P(i) dikinase expression and activity corresponds to the exceptional cold tolerance of carbon assimilation in Miscanthus x giganteus</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Plant Physiol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>148</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>557</sb:first-page>
+                              <sb:last-page>567</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b9000">
+                     <ce:label>Wang et al., 2015</ce:label>
+                     <sb:reference id="h9000">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Wei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Kingori</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Cell wall disruption in low temperature NaOH/urea solution and its potential application in lignocellulose pretreatment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Cellulose</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>22</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3559</sb:first-page>
+                              <sb:last-page>3568</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0170">
+                     <ce:label>Yang et al., 2015</ce:label>
+                     <sb:reference id="h0170">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.-C.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The synergic relationship between xylan removal and enhanced cellulose digestibility for bioethanol production: reactive area, crystallinity, and inhibition</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioenergy Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1847</sb:first-page>
+                              <sb:last-page>1855</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0175">
+                     <ce:label>Yu et al., 2016</ce:label>
+                     <sb:reference id="h0175">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.S.</ce:given-name>
+                                 <ce:surname>Zhuang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.H.</ce:given-name>
+                                 <ce:surname>Yuan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Qi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.S.</ce:given-name>
+                                 <ce:surname>Tan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.Y.</ce:given-name>
+                                 <ce:surname>Kong</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Liquid hot water pretreatment of energy grasses and its influence of physico-chemical changes on enzymatic digestibility</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>199</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2016</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>265</sb:first-page>
+                              <sb:last-page>270</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0180">
+                     <ce:label>Yuan et al., 2013</ce:label>
+                     <sb:reference id="h0180">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.Q.</ce:given-name>
+                                 <ce:surname>Yuan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.C.</ce:given-name>
+                                 <ce:surname>Sun</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Role of lignin in a biorefinery: separation characterization and valorization</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Technol. Biotechnol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>88</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>346</sb:first-page>
+                              <sb:last-page>352</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0185">
+                     <ce:label>Zhao et al., 2012</ce:label>
+                     <sb:reference id="h0185">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>X.B.</ce:given-name>
+                                 <ce:surname>Zhao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.H.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.H.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Biomass recalcitrance. Part I: the chemical compositions and physical structures affecting the enzymatic hydrolysis of lignocellulose</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biofuels, Bioprod. Biorefin.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>465</sb:first-page>
+                              <sb:last-page>482</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

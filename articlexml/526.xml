@@ -1,0 +1,1681 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0960852413009772</prism:url><dc:identifier>doi:10.1016/j.biortech.2013.06.058</dc:identifier><eid>1-s2.0-S0960852413009772</eid><prism:doi>10.1016/j.biortech.2013.06.058</prism:doi><pii>S0960-8524(13)00977-2</pii><dc:title>Increased solubilization of excess sludge does not always result in enhanced anaerobic digestion efficiency </dc:title><prism:publicationName>Bioresource Technology</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>sco</pubType><prism:issn>09608524</prism:issn><prism:volume>143</prism:volume><prism:startingPage>660</prism:startingPage><prism:endingPage>664</prism:endingPage><prism:pageRange>660-664</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2013-09-30</prism:coverDate><prism:coverDisplayDate>September 2013</prism:coverDisplayDate><prism:copyright>Copyright © 2013 Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd.</prism:publisher><dc:creator>Kim, Dong-Hoon</dc:creator><dc:creator>Cho, Si-Kyung</dc:creator><dc:creator>Lee, Mo-Kwon</dc:creator><dc:creator>Kim, Mi-Sun</dc:creator><dc:description>
+                  “Solubilization (SCOD/TCOD, chemical oxygen demand (COD), %)” is generally used as an indicator for the pretreatment effectiveness in anaerobic digestion (AD) of excess sludge. In the present work, ultrasonic (irradiation 5–60min) and alkaline pretreatments (pH 9–13) were applied to excess sludge individually and in combination. Biological methane potential tests were carried out using the whole part of pretreated sludge and only the soluble fraction. Although solubilization increased with pretreatment intensity increase, methane production was inconsistent with increased solubilization, due to the lower methane yield of soluble fraction. While the soluble fraction obtained under mild pretreatment condition (pH 9+ultrasonication 5min) showed 91% of methane yield, it was only 61% in case of severe pretreatment condition (pH 13+ultrasonication 60min). 25.8% of the pretreated sludge at (pH 13+ultrasonication 60min) consisted of soluble but non-biodegradable portion. These findings demonstrate that increased solubilization does not always result in enhanced AD efficiency.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Excess sludge</dcterms:subject><dcterms:subject>Anaerobic digestion</dcterms:subject><dcterms:subject>Ultrasonic pretreatment</dcterms:subject><dcterms:subject>Alkaline pretreatment</dcterms:subject><dcterms:subject>Solubilization</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0960852413009772" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0960852413009772" rel="scidir"/></coredata><objects><object ref="si4" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="331" height="15" size="1257">https://api.elsevier.com/content/object/eid/1-s2.0-S0960852413009772-si4.gif?httpAccept=%2A%2F%2A</object><object ref="si3" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="358" height="17" size="1532">https://api.elsevier.com/content/object/eid/1-s2.0-S0960852413009772-si3.gif?httpAccept=%2A%2F%2A</object><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="288" height="15" size="1183">https://api.elsevier.com/content/object/eid/1-s2.0-S0960852413009772-si2.gif?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="473" height="18" size="2032">https://api.elsevier.com/content/object/eid/1-s2.0-S0960852413009772-si1.gif?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="378" height="521" size="45937">https://api.elsevier.com/content/object/eid/1-s2.0-S0960852413009772-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="fx1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="134" height="199" size="8957">https://api.elsevier.com/content/object/eid/1-s2.0-S0960852413009772-fx1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="379" height="580" size="81393">https://api.elsevier.com/content/object/eid/1-s2.0-S0960852413009772-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="119" height="164" size="4793">https://api.elsevier.com/content/object/eid/1-s2.0-S0960852413009772-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="fx1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="110" height="164" size="4646">https://api.elsevier.com/content/object/eid/1-s2.0-S0960852413009772-fx1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="107" height="164" size="5799">https://api.elsevier.com/content/object/eid/1-s2.0-S0960852413009772-gr2.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>84880583776</scopus-id><scopus-eid>2-s2.0-84880583776</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/84880583776" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271433</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291731</xocs:ssid>
+         <xocs:ssid type="subj">291744</xocs:ssid>
+         <xocs:ssid type="subj">291793</xocs:ssid>
+         <xocs:ssid type="subj">291832</xocs:ssid>
+         <xocs:ssid type="subj">291838</xocs:ssid>
+         <xocs:ssid type="subj">291850</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Bioresource Technology</xocs:srctitle>
+      <xocs:normalized-srctitle>BIORESOURCETECHNOLOGY</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20130622">2013-06-22</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20130622">2013-06-22</xocs:available-online-date>
+      <xocs:ew-transaction-id>2013-12-19T13:06:36</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0960852413009772</xocs:eid>
+      <xocs:pii-formatted>S0960-8524(13)00977-2</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0960852413009772</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.biortech.2013.06.058</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0960852413X00148</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20220621">2022-06-21T01:47:15.133056Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20130901</xocs:date-search-begin>
+      <xocs:date-search-end>20130930</xocs:date-search-end>
+      <xocs:year-nav>2013</xocs:year-nav>
+      <xocs:indexeddate epoch="1371859200">2013-06-22T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate volumelist yearnav absattachment articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings suppl volfirst volissue webpdf webpdfpagecount figure table body mmlmath acknowledge affil articletitle auth authfirstini authfull authkeywords authlast highlightsabst primabst pubtype ref specialabst alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0960-8524</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>09608524</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="1">true</xocs:crossmark>
+      <xocs:vol-first>143</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>143</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 143</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>89</xocs:sort-order>
+      <xocs:first-fp>660</xocs:first-fp>
+      <xocs:last-lp>664</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>660</xocs:first-page>
+         <xocs:last-page>664</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201309</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>September 2013</xocs:cover-date-text>
+      <xocs:cover-date-start>2013-09-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2013-09-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2013</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Short Communications</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>sco</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2013 Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>INCREASEDSOLUBILIZATIONEXCESSSLUDGENOTALWAYSRESULTINENHANCEDANAEROBICDIGESTIONEFFICIENCY</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>KIM</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>D</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Methods</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Excess sludge and inoculum</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Disintegration methods</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>BMP test and analysis</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Ultrasonication</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Alkaline pretreatment</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Combined (alkaline<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>ultrasonic) pretreatment</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="h0080">
+            <xocs:ref-normalized-surname>APHAAWWAWEF</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>STANDARDMETHODSFOREXAMINATIONWATERWASTEWATER</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0005">
+            <xocs:ref-normalized-surname>APPELS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>755</xocs:ref-first-fp>
+            <xocs:ref-last-lp>781</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0010">
+            <xocs:ref-normalized-surname>BOUGRIER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>711</xocs:ref-first-fp>
+            <xocs:ref-last-lp>718</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0015">
+            <xocs:ref-normalized-surname>BOUGRIER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>163</xocs:ref-first-fp>
+            <xocs:ref-last-lp>169</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0020">
+            <xocs:ref-normalized-surname>BOUGRIER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>20</xocs:ref-first-fp>
+            <xocs:ref-last-lp>27</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0025">
+            <xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2158</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2169</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0030">
+            <xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3093</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3100</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0035">
+            <xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3295</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3304</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0040">
+            <xocs:ref-normalized-surname>KUGLARZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>290</xocs:ref-first-fp>
+            <xocs:ref-last-lp>297</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0045">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>8555</xocs:ref-first-fp>
+            <xocs:ref-last-lp>8557</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0050">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>189</xocs:ref-first-fp>
+            <xocs:ref-last-lp>194</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="j0010"/>
+         <xocs:ref-info refid="h0055">
+            <xocs:ref-normalized-surname>PARK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>750</xocs:ref-first-fp>
+            <xocs:ref-last-lp>756</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0060">
+            <xocs:ref-normalized-surname>PILLI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>18</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0065">
+            <xocs:ref-normalized-surname>WEEMAES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>83</xocs:ref-first-fp>
+            <xocs:ref-last-lp>92</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0070">
+            <xocs:ref-normalized-surname>WILSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4489</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4498</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="h0075">
+            <xocs:ref-normalized-surname>YAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>127</xocs:ref-first-fp>
+            <xocs:ref-last-lp>134</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>KIMX2013X660</xocs:refkey3>
+         <xocs:refkey4lp>KIMX2013X660X664</xocs:refkey4lp>
+         <xocs:refkey4ai>KIMX2013X660XD</xocs:refkey4ai>
+         <xocs:refkey5>KIMX2013X660X664XD</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:funding-list has-funding-info="1">
+         <xocs:funding-addon-generated-timestamp>2022-06-10T09:50:56.594Z</xocs:funding-addon-generated-timestamp>
+         <xocs:funding-addon-type>http://vtw.elsevier.com/data/voc/AddOnTypes/50.7/aggregated-refined</xocs:funding-addon-type>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Intelligent Synthetic Biology Center</xocs:funding-agency-matched-string>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Korea Institute of Energy Research</xocs:funding-agency-matched-string>
+            <xocs:funding-id>B3-2423</xocs:funding-id>
+            <xocs:funding-agency-acronym>KIER</xocs:funding-agency-acronym>
+            <xocs:funding-agency>Korea Institute of Energy Research</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100003702</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1835841/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding>
+            <xocs:funding-agency-matched-string>Ministry of Education, Science and Technology</xocs:funding-agency-matched-string>
+            <xocs:funding-id>2011-0031955</xocs:funding-id>
+            <xocs:funding-agency-acronym>MEST</xocs:funding-agency-acronym>
+            <xocs:funding-agency>Ministry of Education, Science and Technology</xocs:funding-agency>
+            <xocs:funding-agency-id>http://data.elsevier.com/vocabulary/SciValFunders/501100004085</xocs:funding-agency-id>
+            <xocs:funding-agency-country>http://sws.geonames.org/1835841/</xocs:funding-agency-country>
+         </xocs:funding>
+         <xocs:funding-text>This work was supported by the Intelligent Synthetic Biology Center of Global Frontier Project funded by the Ministry of Education, Science and Technology (2011-0031955) and was conducted under the framework of Research and Development Program of the Korea Institute of Energy Research (KIER) (B3-2423).</xocs:funding-text>
+      </xocs:funding-list>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0960-8524(13)00977-2</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0960852413009772</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0960852413009772</xocs:eid>
+         <xocs:doi>10.1016/j.biortech.2013.06.058</xocs:doi>
+         <xocs:cid>271433</xocs:cid>
+         <xocs:timestamp>2013-12-19T15:59:55.385402-05:00</xocs:timestamp>
+         <xocs:cover-date-start>2013-09-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2013-09-30</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0960852413009772-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0960852413009772/MAIN/application/pdf/0951fccaee3e6eefb733eca7b0e41796/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0960852413009772/MAIN/application/pdf/0951fccaee3e6eefb733eca7b0e41796/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>969071</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0960852413009772-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0960852413009772/PREVIEW/image/png/201f9f098bffaddf971fc8d58149b2c1/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0960852413009772/PREVIEW/image/png/201f9f098bffaddf971fc8d58149b2c1/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>49043</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0960852413009772-si4.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0960852413009772/STRIPIN/image/gif/4815ea9685c0af045cceab3bd37de55e/si4.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0960852413009772/STRIPIN/image/gif/4815ea9685c0af045cceab3bd37de55e/si4.gif</xocs:ucs-locator>
+               <xocs:file-basename>si4</xocs:file-basename>
+               <xocs:filename>si4.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1257</xocs:filesize>
+               <xocs:pixel-height>15</xocs:pixel-height>
+               <xocs:pixel-width>331</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0960852413009772-si3.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0960852413009772/STRIPIN/image/gif/710df0631960e1c2aedcbb07c3a452dd/si3.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0960852413009772/STRIPIN/image/gif/710df0631960e1c2aedcbb07c3a452dd/si3.gif</xocs:ucs-locator>
+               <xocs:file-basename>si3</xocs:file-basename>
+               <xocs:filename>si3.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1532</xocs:filesize>
+               <xocs:pixel-height>17</xocs:pixel-height>
+               <xocs:pixel-width>358</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0960852413009772-si2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0960852413009772/STRIPIN/image/gif/ecfc245e58d67b477a7170d4cbac373f/si2.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0960852413009772/STRIPIN/image/gif/ecfc245e58d67b477a7170d4cbac373f/si2.gif</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>1183</xocs:filesize>
+               <xocs:pixel-height>15</xocs:pixel-height>
+               <xocs:pixel-width>288</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0960852413009772-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0960852413009772/STRIPIN/image/gif/052d3f80969bdf8cbd6fab729a9c91d3/si1.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0960852413009772/STRIPIN/image/gif/052d3f80969bdf8cbd6fab729a9c91d3/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>2032</xocs:filesize>
+               <xocs:pixel-height>18</xocs:pixel-height>
+               <xocs:pixel-width>473</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0960852413009772-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0960852413009772/gr1/DOWNSAMPLED/image/jpeg/ec36fcb0f3f39f3853422fd324351e88/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0960852413009772/gr1/DOWNSAMPLED/image/jpeg/ec36fcb0f3f39f3853422fd324351e88/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>45937</xocs:filesize>
+               <xocs:pixel-height>521</xocs:pixel-height>
+               <xocs:pixel-width>378</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0960852413009772-fx1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0960852413009772/fx1/DOWNSAMPLED/image/jpeg/081f978e0481ea449c2ab08076fb1fb6/fx1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0960852413009772/fx1/DOWNSAMPLED/image/jpeg/081f978e0481ea449c2ab08076fb1fb6/fx1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>fx1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>8957</xocs:filesize>
+               <xocs:pixel-height>199</xocs:pixel-height>
+               <xocs:pixel-width>134</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0960852413009772-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0960852413009772/gr2/DOWNSAMPLED/image/jpeg/8395e3f304269344a278cdc0ab75c5ec/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0960852413009772/gr2/DOWNSAMPLED/image/jpeg/8395e3f304269344a278cdc0ab75c5ec/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>81393</xocs:filesize>
+               <xocs:pixel-height>580</xocs:pixel-height>
+               <xocs:pixel-width>379</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0960852413009772-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0960852413009772/gr1/THUMBNAIL/image/gif/8a6dae2ac673a6013f074ab4cbe02a0a/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0960852413009772/gr1/THUMBNAIL/image/gif/8a6dae2ac673a6013f074ab4cbe02a0a/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4793</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>119</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0960852413009772-fx1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0960852413009772/fx1/THUMBNAIL/image/gif/767113eef8d93d6cb0b9eb2c987bb513/fx1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0960852413009772/fx1/THUMBNAIL/image/gif/767113eef8d93d6cb0b9eb2c987bb513/fx1.sml</xocs:ucs-locator>
+               <xocs:file-basename>fx1</xocs:file-basename>
+               <xocs:abstract-attachment>true</xocs:abstract-attachment>
+               <xocs:filename>fx1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4646</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>110</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0960852413009772-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0960852413009772/gr2/THUMBNAIL/image/gif/4e9eecec6a4205b833050b31b4b3c385/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0960852413009772/gr2/THUMBNAIL/image/gif/4e9eecec6a4205b833050b31b4b3c385/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5799</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>107</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="sco" xml:lang="en" version="5.2">
+         <item-info>
+            <jid>BITE</jid>
+            <aid>11974</aid>
+            <ce:pii>S0960-8524(13)00977-2</ce:pii>
+            <ce:doi>10.1016/j.biortech.2013.06.058</ce:doi>
+            <ce:copyright type="full-transfer" year="2013">Elsevier Ltd</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0005">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption id="cn0005">
+                  <ce:simple-para id="sp0010" view="all">Division of pretreated excess sludge into four parts (Par.N–CH<ce:inf loc="post">4</ce:inf>: particle and not convertible to CH<ce:inf loc="post">4</ce:inf>, Par.CH<ce:inf loc="post">4</ce:inf>: particle but convertible to CH<ce:inf loc="post">4</ce:inf>, Sol.CH<ce:inf loc="post">4</ce:inf>: soluble and convertible to CH<ce:inf loc="post">4</ce:inf>, Sol.N–CH<ce:inf loc="post">4</ce:inf>: soluble but not convertible to CH<ce:inf loc="post">4</ce:inf>).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="f0010">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption id="cn0010">
+                  <ce:simple-para id="sp0015" view="all">Division of excess sludge in the (a) individual and (b) combined pretreatment.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" frame="topbot" id="t0005" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption id="cn0015">
+                  <ce:simple-para id="sp0020" view="all">Effect of pretreatment on the solubilization and CH<ce:inf loc="post">4</ce:inf> production from excess sludge.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="8">
+                  <colspec colname="col1" align="left"/>
+                  <colspec colname="col2" align="left"/>
+                  <colspec colname="col3" align="left"/>
+                  <colspec colname="col4" align="char" char="±"/>
+                  <colspec colname="col5" align="left"/>
+                  <colspec colname="col6" align="char" char="."/>
+                  <colspec colname="col7" align="char" char="."/>
+                  <colspec colname="col8" align="char" char="."/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col2" morerows="1">Pretreatment</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1">
+                           <cross-ref refid="tblfn1" id="c0130">
+                              <sup loc="post">a</sup>
+                           </cross-ref>Solubiliz-ation (%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col4" nameend="col5">CH<inf loc="post">4</inf> production (mL CH<inf loc="post">4</inf>/100<hsp sp="0.25"/>mL bottle)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1">
+                           <cross-ref refid="tblfn2" id="c0135">
+                              <sup loc="post">b</sup>
+                           </cross-ref>CH<inf loc="post">4</inf> yield of whole sludge (A, %)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1">
+                           <cross-ref refid="tblfn2" id="c0140">
+                              <sup loc="post">b</sup>
+                           </cross-ref>CH<inf loc="post">4</inf> yield of soluble fraction (B, %)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="1">
+                           <cross-ref refid="tblfn3" id="c0145">
+                              <sup loc="post">c</sup>
+                           </cross-ref>CH<inf loc="post">4</inf> yield of particle fraction (C, %)</entry>
+                     </row>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Whole sludge</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Soluble fraction</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col2">Control (untreated)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">53<hsp sp="0.25"/>±<hsp sp="0.25"/>2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">9<hsp sp="0.25"/>±<hsp sp="0.25"/>1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">25.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">75.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">22.5</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col8">
+                           <vsp sp="0.5"/>
+                        </entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="4">Ultrasonication duration (min)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">12</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">74<hsp sp="0.25"/>±<hsp sp="0.25"/>3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">23<hsp sp="0.25"/>±<hsp sp="0.25"/>2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">35.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">94.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">27.9</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">19</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">79<hsp sp="0.25"/>±<hsp sp="0.25"/>5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">35<hsp sp="0.25"/>±<hsp sp="0.25"/>2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">38.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">89.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">26.3</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">20</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">24</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">80<hsp sp="0.25"/>±<hsp sp="0.25"/>6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">42<hsp sp="0.25"/>±<hsp sp="0.25"/>2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">38.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">86.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">23.9</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">40</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">29</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">88<hsp sp="0.25"/>±<hsp sp="0.25"/>7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">50<hsp sp="0.25"/>±<hsp sp="0.25"/>5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">42.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">83.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">26.2</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">60</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">33</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">89<hsp sp="0.25"/>±<hsp sp="0.25"/>5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">51<hsp sp="0.25"/>±<hsp sp="0.25"/>4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">43.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">75.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">27.2</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col8">
+                           <vsp sp="0.5"/>
+                        </entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="4">Alkaline pretreatment (pH)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">11</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">75<hsp sp="0.25"/>±<hsp sp="0.25"/>2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">22<hsp sp="0.25"/>±<hsp sp="0.25"/>2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">36.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">96.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">28.9</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">15</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">78<hsp sp="0.25"/>±<hsp sp="0.25"/>3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">28<hsp sp="0.25"/>±<hsp sp="0.25"/>1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">37.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">88.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">28.9</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">11</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">20</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">74<hsp sp="0.25"/>±<hsp sp="0.25"/>2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">36<hsp sp="0.25"/>±<hsp sp="0.25"/>3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">35.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">85.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">23.4</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">12</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">26</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">71<hsp sp="0.25"/>±<hsp sp="0.25"/>4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">41<hsp sp="0.25"/>±<hsp sp="0.25"/>2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">34.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">75.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">20.0</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">13</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">28</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">65<hsp sp="0.25"/>±<hsp sp="0.25"/>3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">39<hsp sp="0.25"/>±<hsp sp="0.25"/>3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">31.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">67.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">17.8</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">9–5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">27</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">86<hsp sp="0.25"/>±<hsp sp="0.25"/>5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">51<hsp sp="0.25"/>±<hsp sp="0.25"/>3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">42.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">91.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">23.7</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col8">
+                           <vsp sp="0.5"/>
+                        </entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" morerows="7">Combined pretreatment (pH-irradiation time)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">9–20</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">39</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">87<hsp sp="0.25"/>±<hsp sp="0.25"/>4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">60<hsp sp="0.25"/>±<hsp sp="0.25"/>4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">42.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">74.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">21.4</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">9–60</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">48</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">91<hsp sp="0.25"/>±<hsp sp="0.25"/>9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">69<hsp sp="0.25"/>±<hsp sp="0.25"/>5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">44.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">70.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">20.1</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">11–5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">36</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">95<hsp sp="0.25"/>±<hsp sp="0.25"/>4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">56<hsp sp="0.25"/>±<hsp sp="0.25"/>3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">46.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">75.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">29.5</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">11–20</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">50</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">97<hsp sp="0.25"/>±<hsp sp="0.25"/>9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">69<hsp sp="0.25"/>±<hsp sp="0.25"/>6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">47.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">67.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">27.2</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">11–60</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">59</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">102<hsp sp="0.25"/>±<hsp sp="0.25"/>6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">74<hsp sp="0.25"/>±<hsp sp="0.25"/>5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">49.4</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">61.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">32.4</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">13–5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">42</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">94<hsp sp="0.25"/>±<hsp sp="0.25"/>7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">56<hsp sp="0.25"/>±<hsp sp="0.25"/>2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">45.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">65.3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">31.7</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">13–20</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">53</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">106<hsp sp="0.25"/>±<hsp sp="0.25"/>7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">70<hsp sp="0.25"/>±<hsp sp="0.25"/>3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">51.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">64.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">37.5</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">13–60</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">65</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">103<hsp sp="0.25"/>±<hsp sp="0.25"/>5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">82<hsp sp="0.25"/>±<hsp sp="0.25"/>5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">50.2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">60.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">30.9</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:table-footnote id="tblfn1">
+                  <ce:label>a</ce:label>
+                  <ce:note-para id="np005" view="all">Solubilization<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>(SCOD/TCOD)<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>100.</ce:note-para>
+               </ce:table-footnote>
+               <ce:table-footnote id="tblfn2">
+                  <ce:label>b</ce:label>
+                  <ce:note-para id="np010" view="all">A, B<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>(Actual amount of CH<ce:inf loc="post">4</ce:inf> produced/theoretical maximum amount of CH<ce:inf loc="post">4</ce:inf> produced)<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>100.</ce:note-para>
+               </ce:table-footnote>
+               <ce:table-footnote id="tblfn3">
+                  <ce:label>c</ce:label>
+                  <ce:note-para id="np015" view="all">C<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>(A – (Solubilization<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>B))/(100 – Solubilization)<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>100.</ce:note-para>
+               </ce:table-footnote>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:dochead id="dh005">
+               <ce:textfn>Short Communication</ce:textfn>
+            </ce:dochead>
+            <ce:title id="tm005">Increased solubilization of excess sludge does not always result in enhanced anaerobic digestion efficiency</ce:title>
+            <ce:author-group id="ag005">
+               <ce:author id="au005">
+                  <ce:given-name>Dong-Hoon</ce:given-name>
+                  <ce:surname>Kim</ce:surname>
+                  <ce:cross-ref refid="af005" id="c0005">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au010">
+                  <ce:given-name>Si-Kyung</ce:given-name>
+                  <ce:surname>Cho</ce:surname>
+                  <ce:cross-ref refid="af010" id="c0010">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au015">
+                  <ce:given-name>Mo-Kwon</ce:given-name>
+                  <ce:surname>Lee</ce:surname>
+                  <ce:cross-ref refid="af005" id="c0015">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author id="au020">
+                  <ce:given-name>Mi-Sun</ce:given-name>
+                  <ce:surname>Kim</ce:surname>
+                  <ce:cross-ref refid="af005" id="c0020">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="af015" id="c0025">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1" id="c0030">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="af005">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Clean Fuel Department, Korea Institute of Energy Research, 102 Gajeong-ro, Yuseong-gu, Daejeon 305-343, Republic of Korea</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Clean Fuel Department</sa:organization>
+                     <sa:organization>Korea Institute of Energy Research</sa:organization>
+                     <sa:address-line>102 Gajeong-ro</sa:address-line>
+                     <sa:address-line>Yuseong-gu</sa:address-line>
+                     <sa:city>Daejeon</sa:city>
+                     <sa:postal-code>305-343</sa:postal-code>
+                     <sa:country>Republic of Korea</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="af010">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Department of Civil and Environmental Engineering, KAIST, 373-1 Guseong-Dong, Yuseong-gu, Daejeon, Republic of Korea</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Department of Civil and Environmental Engineering</sa:organization>
+                     <sa:organization>KAIST</sa:organization>
+                     <sa:address-line>373-1 Guseong-Dong</sa:address-line>
+                     <sa:address-line>Yuseong-gu</sa:address-line>
+                     <sa:city>Daejeon</sa:city>
+                     <sa:country>Republic of Korea</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:affiliation id="af015">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>Division of Renewable Energy Engineering, University of Science and Technology, 217 Gajeong-ro, Yuseong-gu, Daejeon 305-350, Republic of Korea</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Division of Renewable Energy Engineering</sa:organization>
+                     <sa:organization>University of Science and Technology</sa:organization>
+                     <sa:address-line>217 Gajeong-ro</sa:address-line>
+                     <sa:address-line>Yuseong-gu</sa:address-line>
+                     <sa:city>Daejeon</sa:city>
+                     <sa:postal-code>305-350</sa:postal-code>
+                     <sa:country>Republic of Korea</sa:country>
+                  </sa:affiliation>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author at: Clean Fuel Department, Korea Institute of Energy Research, 102 Gajeong-ro, Yuseong-gu, Daejeon 305-343, Republic of Korea. Tel.: +82 42 860 3554; fax: +82 42 860 3739.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="15" month="4" year="2013"/>
+            <ce:date-revised day="11" month="6" year="2013"/>
+            <ce:date-accepted day="14" month="6" year="2013"/>
+            <ce:abstract class="graphical" xml:lang="en" id="ab010" view="all">
+               <ce:abstract-sec id="as010" view="all">
+                  <ce:section-title id="st075">Graphical abstract</ce:section-title>
+                  <ce:simple-para id="sp0025" view="all">
+                     <ce:display>
+                        <ce:figure id="f0015">
+                           <ce:link locator="fx1"/>
+                        </ce:figure>
+                     </ce:display>
+                  </ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            
+            <ce:abstract class="author" xml:lang="en" id="ab005" view="all"><ce:abstract-sec id="as005" view="all">
+                  <ce:simple-para id="sp0005" view="all">“Solubilization (SCOD/TCOD, chemical oxygen demand (COD), %)” is generally used as an indicator for the pretreatment effectiveness in anaerobic digestion (AD) of excess sludge. In the present work, ultrasonic (irradiation 5–60<ce:hsp sp="0.25"/>min) and alkaline pretreatments (pH 9–13) were applied to excess sludge individually and in combination. Biological methane potential tests were carried out using the whole part of pretreated sludge and only the soluble fraction. Although solubilization increased with pretreatment intensity increase, methane production was inconsistent with increased solubilization, due to the lower methane yield of soluble fraction. While the soluble fraction obtained under mild pretreatment condition (pH 9<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>ultrasonication 5<ce:hsp sp="0.25"/>min) showed 91% of methane yield, it was only 61% in case of severe pretreatment condition (pH 13<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>ultrasonication 60<ce:hsp sp="0.25"/>min). 25.8% of the pretreated sludge at (pH 13<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>ultrasonication 60<ce:hsp sp="0.25"/>min) consisted of soluble but non-biodegradable portion. These findings demonstrate that increased solubilization does not always result in enhanced AD efficiency.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword" id="kg005" view="all">
+               <ce:section-title id="st060">Keywords</ce:section-title>
+               <ce:keyword id="k0005">
+                  <ce:text>Excess sludge</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0010">
+                  <ce:text>Anaerobic digestion</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0015">
+                  <ce:text>Ultrasonic pretreatment</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0020">
+                  <ce:text>Alkaline pretreatment</ce:text>
+               </ce:keyword>
+               <ce:keyword id="k0025">
+                  <ce:text>Solubilization</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title id="st005">Introduction</ce:section-title>
+                  <ce:para id="p0005" view="all">One of the major challenges in wastewater treatment is the management of excess sludge whose treatment cost accounts for up to 60% of the total operating costs of municipal wastewater treatment plants (WWTPs) (<ce:cross-ref refid="b0085" id="c0035">Yan et al., 2013</ce:cross-ref>). The amount of sludge produced in Korea has continuously increased with the increasing number of WWTPs, recently reaching 3<ce:hsp sp="0.25"/>million tons of sludge cake per year (<ce:cross-ref refid="b0060" id="c0040">MOE, 2011</ce:cross-ref>). While the sludge is ultimately disposed by ocean dumping, incineration, or land filling, it is important to minimize its production, not only for economical operation of WWTPs but also for global environmental protection. Anaerobic digestion (AD) is the most traditional and widely used excess sludge treatment method, offering advantages of generation of energy-rich gas in the form of methane (CH<ce:inf loc="post">4</ce:inf>) along with reduction of sludge volume. However, its application is often limited by low overall degradation efficiency (20–50%), which is associated with the hydrolysis step of excess sludge (<ce:cross-ref refid="b0045" id="c0045">Kuglarz et al., 2013</ce:cross-ref>). The major organic fractions of excess sludge are microbial cells, and their cell walls contain glycan strands, which cause resistance to biodegradation. In order to improve digestion efficiency, numerous disintegration methods such as mechanical, chemical and thermal have hence been applied as pretreatment: these methods disrupt cell walls and readily available intracellular organic materials are released (<ce:cross-ref refid="b0010" id="c0050">Appels et al., 2008</ce:cross-ref>).</ce:para>
+                  <ce:para id="p0010" view="all">Ultrasonication is recognized as the most powerful method to disintegrate sludge cells. Rapid collapse and expansion of microbubbles generated by cavitation give rise to high-temperature and high-pressure gradients in the liquid phase, leading to rupture of cell walls and membranes (<ce:cross-ref refid="b0070" id="c0055">Pilli et al., 2011</ce:cross-ref>). Cell disintegration of 100% can be achieved at high power levels, but power consumption then becomes a serious economic burden (<ce:cross-ref refid="b0075" id="c0060">Weemaes and Verstraete, 1998</ce:cross-ref>). Recently, ultrasonicationhas often been combined with alkaline pretreatment (<ce:cross-refs refid="b0035 b0050" id="r0005">Kim et al., 2010; Li et al., 2010</ce:cross-refs>). When ultrasonication was applied to the alkali-pretreated sludge at pH 9–11, a high disintegration degree of sludge was obtained at a low energy level of ultrasonication and a synergistic disintegration effect was observed.</ce:para>
+                  <ce:para id="p0015" view="all">Solubilization, defined as the ratio of soluble organics (usually expressed as “chemical oxygen demand (COD)”) to total organics, is generally used as an indicator for the pretreatment effectiveness of excess sludge (<ce:cross-refs refid="b0010 b0020" id="r0010">Appels et al., 2008; Bougrier et al., 2005</ce:cross-refs>). However, according to our findings, increased solubilization does not always result in enhanced AD efficiency, particularly, when a high strength level of pretreatment is applied. <ce:cross-ref refid="b0080" id="c0065">Wilson and Novak (2009)</ce:cross-ref> reported that temperature higher than 180<ce:hsp sp="0.25"/>°C led to the production of recalcitrant soluble organics or toxic/inhibitory intermediates, thereby reducing the biodegradability of the sludge. According to <ce:cross-ref refid="b0065" id="c0070">Park et al. (2012)</ce:cross-ref>, although combined alkaline and ultrasonic pretreatment increased the initial rate of CH<ce:inf loc="post">4</ce:inf> production by increasing solubilization, it had a negligible effect on the ultimate CH<ce:inf loc="post">4</ce:inf> yield. <ce:cross-ref refid="b0015" id="c0075">Bougrier et al. (2006)</ce:cross-ref> found that, in spite of the same solubilization, sludge pretreated by ultrasonication showed higher biodegradability than those pretreated by ozonation and thermal treatment. These findings have following important implications: (1) some part of the soluble fraction generated by pretreatment is not converted to CH<ce:inf loc="post">4</ce:inf>; (2) some part of particle fraction weakened by pretreatment but not solubilized is converted to biogas; and, finally, (3) increased solubilization cannot be directly linked to improved digestion efficiency.</ce:para>
+                  <ce:para id="p0020" view="all">In the present work, we investigated the relationship between increased solubilization and AD efficiency at various pretreatment conditions. Ultrasonic and alkaline pretreatments were applied to excess sludge individually and in combination. Solubilization at various pretreatment conditions was measured, and biological methane potential (BMP) tests were carried out using not only the whole part of pretreated sludge but also the soluble fraction. The sludge was fractionated into four parts to ascertain the major constituent of total CH<ce:inf loc="post">4</ce:inf> produced and attain a deep understanding on the efficiency of pretreatment.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title id="st010">Methods</ce:section-title>
+                  <ce:section id="s0015" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title id="st015">Excess sludge and inoculum</ce:section-title>
+                     <ce:para id="p0025" view="all">The excess sludge used in this experiment was taken from the sludge thickener line of Daejeon WWTP. The total COD concentration of excess sludge was 19.6<ce:hsp sp="0.25"/>g/L while 6% of the total sludge were soluble. Total nitrogen (TN) concentration was 1.2<ce:hsp sp="0.25"/>g/L and pH was 7. From the same WWTP, the inoculum, flocculated sludge, for the BMP test was obtained from an anaerobic digester. The pH, alkalinity, and volatile suspended solids (VSS) concentration of the sludge were 7.5, 2.83<ce:hsp sp="0.25"/>g CaCO<ce:inf loc="post">3</ce:inf>/L, and 5.3<ce:hsp sp="0.25"/>g/L, respectively.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0020" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title id="st020">Disintegration methods</ce:section-title>
+                     <ce:para id="p0030" view="all">Ultrasonic treatment was performed using an ultrasonicator with a frequency of 20<ce:hsp sp="0.25"/>kHz (VCX-750, Sonics and Materials, USA). Ultrasonic treatment (750<ce:hsp sp="0.25"/>W, amplitude<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>40%) was applied to 100<ce:hsp sp="0.25"/>mL of excess sludge for 5, 10, 20, 40, and 60<ce:hsp sp="0.25"/>min. In the alkaline pretreatment, a 6<ce:hsp sp="0.25"/>mol/L KOH solution was added to 300<ce:hsp sp="0.25"/>mL of excess sludge in order to reach pH values of 9, 10, 11, 12, and 13. The samples were mixed for 1<ce:hsp sp="0.25"/>h using a magnetic stirrer at 200<ce:hsp sp="0.25"/>rpm. The expected pH levels were achieved instantaneously, but dropped slightly with time. Therefore, the injection of alkaline solution was continued throughout the hour. In the combined pretreatment, alkali-pretreated sludge at pH 9, 11, and 13 for 1<ce:hsp sp="0.25"/>h was ultrasonicated for 5, 20, and 60<ce:hsp sp="0.25"/>min, totally 9 combinations. After pretreatment, the sludge was centrifuged (10,000<ce:hsp sp="0.25"/>rpm for 20<ce:hsp sp="0.25"/>min) and filtered through a 0.45<ce:hsp sp="0.25"/>μm pore size membrane filter to obtain the soluble fraction.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0025" view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title id="st025">BMP test and analysis</ce:section-title>
+                     <ce:para id="p0035" view="all">BMP tests were carried out using a 250<ce:hsp sp="0.25"/>mL serum bottle (effective volume of 100<ce:hsp sp="0.25"/>mL). After placing 69<ce:hsp sp="0.25"/>mL of inoculum, 30<ce:hsp sp="0.25"/>mL of pretreated excess sludge (whole part or soluble part), and 1<ce:hsp sp="0.25"/>mL of concentrated trace element solution into the serum bottle, N<ce:inf loc="post">2</ce:inf> gas was purged for 5<ce:hsp sp="0.25"/>min to establish an anaerobic condition. A trace element solution was made according to <ce:cross-ref refid="b0030" id="c0080">Kim et al. (2006)</ce:cross-ref>. The initial pH was set to 7.5<ce:hsp sp="0.25"/>±<ce:hsp sp="0.25"/>0.1 using 3<ce:hsp sp="0.25"/>mol/L KOH and 3<ce:hsp sp="0.25"/>mol/L HCl. The bottles were incubated at 35<ce:hsp sp="0.25"/>°C using a water bath with agitation at 150<ce:hsp sp="0.25"/>rpm using a shaking incubator. The tests were carried out in triplicate and the results were averaged.</ce:para>
+                     <ce:para id="p0040" view="all">The volume of produced biogas was measured by the displacement of a glass syringe piston, and was converted to a value at standard temperature and pressure (STP, 0<ce:hsp sp="0.25"/>°C and 1<ce:hsp sp="0.25"/>bar) conditions. Biogas at the head space in the reactors was collected using a gas-tight micro syringe, and the biogas composition was analyzed by a gas chromatograph (Gow-Mac Series 580, USA) equipped with a thermal conductivity detector and a stainless steel column. The temperatures of the injector, column, and detector were kept at 50, 80, and 90<ce:hsp sp="0.25"/>°C, respectively. The carrier gas was N<ce:inf loc="post">2</ce:inf> and the flow rate was 30<ce:hsp sp="0.25"/>mL/min. The concentrations of COD, TN, alkalinity, and VSS were measured according to standard methods in Part 5220, Part 4500, Part 2320, and Part 2540, respectively (<ce:cross-ref refid="b0005" id="c0085">APHA, 2005</ce:cross-ref>).</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section role="discussion" id="s0030" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title id="st030">Results and discussion</ce:section-title>
+                  <ce:section id="s0035" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title id="st035">Ultrasonication</ce:section-title>
+                     <ce:para id="p0045" view="all">As listed in <ce:cross-ref refid="t0005" id="c0090">Table 1</ce:cross-ref>
+                        <ce:float-anchor refid="t0005"/>, the increase of ultrasonication strength resulted in the increase of both solubilization and CH<ce:inf loc="post">4</ce:inf> yield of excess sludge, indicating that the ultrasonication applied in this experimental range was effective for enhancing AD efficiency. As irradiation time increased to 60<ce:hsp sp="0.25"/>min, solubilization and CH<ce:inf loc="post">4</ce:inf> yield continuously increased from 6% to 33% and 25.7% to 43.2%, respectively. CH<ce:inf loc="post">4</ce:inf> yield was obtained by comparing the actual amount of CH<ce:inf loc="post">4</ce:inf> produced to the theoretical maximum (1<ce:hsp sp="0.25"/>g COD<ce:hsp sp="0.25"/>=<ce:hsp sp="0.25"/>350<ce:hsp sp="0.25"/>mL CH<ce:inf loc="post">4</ce:inf>) (<ce:cross-ref refid="b0035" id="c0095">Kim et al., 2010</ce:cross-ref>).</ce:para>
+                     <ce:para id="p0050" view="all">Solubilization of raw (untreated) sludge was 6% and 75.4% of the soluble fraction was converted to CH<ce:inf loc="post">4</ce:inf>, which contradicts the general understanding that most of the soluble fraction can be converted to CH<ce:inf loc="post">4</ce:inf> by AD. With 5<ce:hsp sp="0.25"/>min of ultrasonication, the CH<ce:inf loc="post">4</ce:inf> yield of the soluble fraction increased to 94%, but it gradually decreased with irradiation time increase. This is clear evidence that some soluble matter that is not convertible to CH<ce:inf loc="post">4</ce:inf>could be generated by pretreatment.</ce:para>
+                     <ce:para id="p0055" view="all">To know the major constituent of total CH<ce:inf loc="post">4</ce:inf> produced, the pretreated sludge was fractionated into four parts on COD basis: soluble and convertible to CH<ce:inf loc="post">4</ce:inf> (Sol.CH<ce:inf loc="post">4</ce:inf>), soluble but not convertible to CH<ce:inf loc="post">4</ce:inf> (Sol.N–CH<ce:inf loc="post">4</ce:inf>), particle but convertible to CH<ce:inf loc="post">4</ce:inf> (Par.CH<ce:inf loc="post">4</ce:inf>), and particle and not convertible to CH<ce:inf loc="post">4</ce:inf> (Par.N–CH<ce:inf loc="post">4</ce:inf>) (<ce:cross-ref refid="f0005" id="c0100">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="f0005"/>), which were calculated according to Eqs. <ce:cross-refs refid="e0005 e0010 e0015 e0020" id="r0020">(1)–(4)</ce:cross-refs>.<ce:display>
+                           <ce:formula id="e0005">
+                              <ce:label>(1)</ce:label>
+                              <mml:math altimg="si1.gif" overflow="scroll">
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mtext>Sol.CH</mml:mtext>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mn>4</mml:mn>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:mo stretchy="false">(</mml:mo>
+                                 <mml:mtext>Solubilization</mml:mtext>
+                                 <mml:mo>×</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mtext>CH</mml:mtext>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mn>4</mml:mn>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mspace width="0.25em"/>
+                                 <mml:mtext>yield of soluble fraction</mml:mtext>
+                                 <mml:mo stretchy="false">)</mml:mo>
+                                 <mml:mo>×</mml:mo>
+                                 <mml:mn>100</mml:mn>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>
+                        <ce:display>
+                           <ce:formula id="e0010">
+                              <ce:label>(2)</ce:label>
+                              <mml:math altimg="si2.gif" overflow="scroll">
+                                 <mml:mtext>Sol.N</mml:mtext>
+                                 <mml:mo>-</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mtext>CH</mml:mtext>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mn>4</mml:mn>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:mtext>Solubization</mml:mtext>
+                                 <mml:mo>-</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mtext>Sol.CH</mml:mtext>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mn>4</mml:mn>
+                                    </mml:mrow>
+                                 </mml:msub>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>
+                        <ce:display>
+                           <ce:formula id="e0015">
+                              <ce:label>(3)</ce:label>
+                              <mml:math altimg="si3.gif" overflow="scroll">
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mtext>Par.CH</mml:mtext>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mn>4</mml:mn>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mtext>CH</mml:mtext>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mn>4</mml:mn>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mspace width="0.25em"/>
+                                 <mml:mtext>yield of whole sludge</mml:mtext>
+                                 <mml:mo>-</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mtext>Sol.CH</mml:mtext>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mn>4</mml:mn>
+                                    </mml:mrow>
+                                 </mml:msub>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>
+                        <ce:display>
+                           <ce:formula id="e0020">
+                              <ce:label>(4)</ce:label>
+                              <mml:math altimg="si4.gif" overflow="scroll">
+                                 <mml:mtext>Par.N</mml:mtext>
+                                 <mml:mo>-</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mtext>CH</mml:mtext>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mn>4</mml:mn>
+                                    </mml:mrow>
+                                 </mml:msub>
+                                 <mml:mo>=</mml:mo>
+                                 <mml:mn>1</mml:mn>
+                                 <mml:mo>-</mml:mo>
+                                 <mml:mtext>Solubilization</mml:mtext>
+                                 <mml:mo>-</mml:mo>
+                                 <mml:msub>
+                                    <mml:mrow>
+                                       <mml:mtext>Par.CH</mml:mtext>
+                                    </mml:mrow>
+                                    <mml:mrow>
+                                       <mml:mn>4</mml:mn>
+                                    </mml:mrow>
+                                 </mml:msub>
+                              </mml:math>
+                           </ce:formula>
+                        </ce:display>
+                     </ce:para>
+                     <ce:para id="p0060" view="all">It was found that the raw sludge consisted of 4.5% Sol.CH<ce:inf loc="post">4</ce:inf>, 1.5% Sol.N–CH<ce:inf loc="post">4</ce:inf>, 21.2% Par.CH<ce:inf loc="post">4</ce:inf>, and 72.8% Par.N–CH<ce:inf loc="post">4</ce:inf>, indicating that most of the produced CH<ce:inf loc="post">4</ce:inf> originated from the particle fraction (<ce:cross-ref refid="f0010" id="c0105">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="f0010"/>). As the ultrasonication strength increased, the portion of Sol.CH<ce:inf loc="post">4</ce:inf> increased, which resulted in an increased total CH<ce:inf loc="post">4</ce:inf> yield. However, the enhanced AD efficiency cannot be entirely ascribed to the increased solubilization, since the Sol.N–CH<ce:inf loc="post">4</ce:inf> portion also increased with irradiation time increase and more than 40% of the total CH<ce:inf loc="post">4</ce:inf> produced still originated from the particle fraction even at 60<ce:hsp sp="0.25"/>min irradiation. It was interesting to see that the CH<ce:inf loc="post">4</ce:inf> yield of particle fraction (<ce:cross-ref refid="t0005" id="c0110">Table 1</ce:cross-ref>) was slightly increased by ultrasonication. This is clear evidence that some parts of the particle fraction weakened by pretreatment but not solubilized were converted to CH<ce:inf loc="post">4</ce:inf>.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0040" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title id="st040">Alkaline pretreatment</ce:section-title>
+                     <ce:para id="p0065" view="all">Unlike in ultrasonication, although solubilization increased with alkaline pH increase (pH 9–13), the CH<ce:inf loc="post">4</ce:inf> yield was maximized at pH 10. This clearly indicates that conversion of excess sludge to soluble matter by pretreatment is not always beneficial for AD. Consistent with our study, <ce:cross-ref refid="b0055" id="c0115">Li et al. (2012)</ce:cross-ref> observed a discrepancy between the solubilization increase and biogas production increase, and attributed this to the increase of initial pH increase and salinity by NaOH addition. However, in our study, alkali-treated sludge was neutralized after 1<ce:hsp sp="0.25"/>h of alkaline pretreatment, and KOH was used as an alkaline solution. Compared to sodium, potassium has anegligible effect on AD (<ce:cross-ref refid="b0040" id="c0120">Kim et al., 2009</ce:cross-ref>).</ce:para>
+                     <ce:para id="p0070" view="all">At the same solubilization degree, lower CH<ce:inf loc="post">4</ce:inf>yields were obtained with alkaline pretreatment than with ultrasonication, which could be attributed to the low CH<ce:inf loc="post">4</ce:inf> yield of both the soluble and particle fractions. At similar solubilization degree (29% at ultrasonication for 40<ce:hsp sp="0.25"/>min and 28% at pH 13), 19% and 35% lower CH<ce:inf loc="post">4</ce:inf> yields of soluble fraction and particle fraction, respectively, were achieved with alkaline pretreatment. The low CH<ce:inf loc="post">4</ce:inf> yield of soluble fraction indicates the production of refractory soluble organics by pretreatment. Unlike in ultrasonication, the CH<ce:inf loc="post">4</ce:inf> yield of the particle fraction decreased with alkali pH increase, resulting in a slight variation of Par.N–CH<ce:inf loc="post">4</ce:inf> (<ce:cross-ref refid="f0005" id="c0125">Fig. 1</ce:cross-ref>). This indicated that the remaining particle fraction obtained after ultrasonication was more biodegradable than that obtained with alkaline pretreatment. Structural analysis on the particle fraction using a scanning electron microscope (SEM) and transmission electron microscope (TEM) is required to support this conclusion.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0045" view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title id="st045">Combined (alkaline<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>ultrasonic) pretreatment</ce:section-title>
+                     <ce:para id="p0075" view="all">In the combined pretreatment, when ultrasonication was irradiated for 60<ce:hsp sp="0.25"/>min to the alkali-pretreated sludge at pH 13 (pH 13-Ul 60<ce:hsp sp="0.25"/>min), solubilization increased to 65%. However, only 61% of the soluble fraction was converted to CH<ce:inf loc="post">4</ce:inf>; this may be due to the production of refractory soluble organics under the severe pretreatment condition. Meanwhile, 91% of the soluble fraction was converted to CH<ce:inf loc="post">4</ce:inf>in the mild pretreatment condition of (pH 9-Ul 5<ce:hsp sp="0.25"/>min). Because of this big difference in the CH<ce:inf loc="post">4</ce:inf> yield of the soluble fraction between the two cases, there was only a 20% increase in AD efficiency (CH<ce:inf loc="post">4</ce:inf> yield of whole sludge) in spite of 2.4<ce:hsp sp="0.25"/>times higher solubilization being achieved with (pH 13-Ul 60<ce:hsp sp="0.25"/>min). It was also notable that, compared to individual pretreatment, a much larger portion of excess sludge was converted to Sol.N–CH<ce:inf loc="post">4</ce:inf>, especially under severe pretreatment conditions. The Sol.N–CH<ce:inf loc="post">4</ce:inf> portion in (pH 13-Ul 60<ce:hsp sp="0.25"/>min) and (pH 9-Ul 5<ce:hsp sp="0.25"/>min) were 25.8% and 2.4%, respectively.</ce:para>
+                     <ce:para id="p0080" view="all">This study has significant meaning in that it reports first results on how much of the soluble fraction in pretreated excess sludge is converted to CH<ce:inf loc="post">4</ce:inf> and clearly demonstrates that increased solubilization does not always result in enhanced AD efficiency. Although, there have been some studies to date on the compounds comprising Sol.N–CH<ce:inf loc="post">4</ce:inf>in thermal pretreatment, little effort has been made when other disintegration methods were applied (<ce:cross-refs refid="b0025 b0080" id="r0015">Bougrier et al., 2007; Wilson and Novak, 2009</ce:cross-refs>). At high temperature, low molecular weight intermediates, such as carbohydrates and amino compounds, are polymerized with the formation of compounds with a molecular weight of 50–70<ce:hsp sp="0.25"/>kDa, presenting low biodegradability. Future work would focus on analyzing not only the particle fraction before and after AD such as proteins, polysaccharides, lipids, but also the soluble fraction in terms of molecular weight and excitation–emission matrix.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0050" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title id="st050">Conclusion</ce:section-title>
+                  <ce:para id="p0085" view="all">From the BMP tests using the whole pretreated sludge and only the soluble fraction, the sludge was fractionated into four parts: Sol.CH<ce:inf loc="post">4</ce:inf>, Sol.N–CH<ce:inf loc="post">4</ce:inf>, Par.CH<ce:inf loc="post">4</ce:inf>, and Par.N–CH<ce:inf loc="post">4</ce:inf>. As the pretreatment intensity increased, the CH<ce:inf loc="post">4</ce:inf> yield of the soluble fraction decreased, resulting in an increase of Sol.N–CH<ce:inf loc="post">4</ce:inf> portion.Sol.N–CH<ce:inf loc="post">4</ce:inf> portion in (pH 13-Ul 60<ce:hsp sp="0.25"/>min) and (pH 9-Ul 5<ce:hsp sp="0.25"/>min) were 25.8% and 2.4%, respectively, resulting in a little difference in AD efficiency. Even at severe pretreatment conditions, a considerable amount of CH<ce:inf loc="post">4</ce:inf>originated from the particle fraction. These findings demonstrate that increased solubilization does not always result in enhanced AD efficiency.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment id="ak005" view="all">
+               <ce:section-title id="st065">Acknowledgements</ce:section-title>
+               <ce:para id="p0090" view="all">This work was supported by the Intelligent Synthetic Biology Center of Global Frontier Project funded by the Ministry of Education, Science and Technology (2011-0031955) and was conducted under the framework of Research and Development Program of the Korea Institute of Energy Research (KIER) (B3-2423).</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bi0005" view="all">
+               <ce:section-title id="st070">References</ce:section-title>
+               <ce:bibliography-sec id="bs0005" view="all">
+                  <ce:bib-reference id="b0005">
+                     <ce:label>APHA AWWA WEF, 2005</ce:label>
+                     <sb:reference id="h0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>APHA AWWA WEF</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Standard methods for the examination of Water and Wastewater</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:edition>21st ed.</sb:edition>
+                              <sb:date>2005</sb:date>
+                              <sb:publisher>
+                                 <sb:name>APHA</sb:name>
+                                 <sb:location>Washington, D.C., USA</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0010">
+                     <ce:label>Appels et al., 2008</ce:label>
+                     <sb:reference id="h0005">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Appels</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Baeyens</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Degreve</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Dewil</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Principles and potential of the anaerobic digestion of waste-activated sludge</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Prog. Energy Combust.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>34</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>755</sb:first-page>
+                              <sb:last-page>781</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0015">
+                     <ce:label>Bougrier et al., 2006</ce:label>
+                     <sb:reference id="h0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Bougrier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Albasi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Delgenes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Carrere</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of ultrasonic, thermal and ozone pre-treatments on waste activated sludge solubilization and anaerobic biodegradability</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Eng. Process.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>45</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>711</sb:first-page>
+                              <sb:last-page>718</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0020">
+                     <ce:label>Bougrier et al., 2005</ce:label>
+                     <sb:reference id="h0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Bougrier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Carrere</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Delgenes</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Solubilization of waste-activated sludge by ultrasonic treatment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Eng. J.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>106</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>163</sb:first-page>
+                              <sb:last-page>169</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0025">
+                     <ce:label>Bougrier et al., 2007</ce:label>
+                     <sb:reference id="h0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Bougrier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Delgenes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Carrere</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Impacts of thermal pretreatments on the semi-continuous anaerobic digestion of waste activated sludge</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biochem. Eng. J.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>34</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>20</sb:first-page>
+                              <sb:last-page>27</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0030">
+                     <ce:label>Kim et al., 2006</ce:label>
+                     <sb:reference id="h0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.H.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Han</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.S.</ce:given-name>
+                                 <ce:surname>Shin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of gas sparging on continuous fermentative hydrogen production</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Hydrogen Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>31</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2158</sb:first-page>
+                              <sb:last-page>2169</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0035">
+                     <ce:label>Kim et al., 2010</ce:label>
+                     <sb:reference id="h0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.H.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Jeong</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.E.</ce:given-name>
+                                 <ce:surname>Oh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.S.</ce:given-name>
+                                 <ce:surname>Shin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Combined (alkaline<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>ultrasonic) pretreatment effect on sewage sludge disintegration</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Wat. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>44</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3093</sb:first-page>
+                              <sb:last-page>3100</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0040">
+                     <ce:label>Kim et al., 2009</ce:label>
+                     <sb:reference id="h0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.H.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.H.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.S.</ce:given-name>
+                                 <ce:surname>Shin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Sodium inhibition of fermentative hydrogen production</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Hydrogen Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>34</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3295</sb:first-page>
+                              <sb:last-page>3304</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0045">
+                     <ce:label>Kuglarz et al., 2013</ce:label>
+                     <sb:reference id="h0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Kuglarz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Karakashev</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Angelidaki</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Microwave and thermal pretreatment as methods for increasing the biogas potential of secondary sludge from municipal wastewater treatment plants</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>134</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>290</sb:first-page>
+                              <sb:last-page>297</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0050">
+                     <ce:label>Li et al., 2010</ce:label>
+                     <sb:reference id="h0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Kinetic models for combined (alkaline<ce:hsp sp="0.25"/>+<ce:hsp sp="0.25"/>ultrasonic) sludge disintegration</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>101</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>8555</sb:first-page>
+                              <sb:last-page>8557</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0055">
+                     <ce:label>Li et al., 2012</ce:label>
+                     <sb:reference id="h0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Zou</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Optimized alkaline pretreatment of sludge before anaerobic digestion</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Tehcnol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>123</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>189</sb:first-page>
+                              <sb:last-page>194</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0060">
+                     <ce:label>Ministry of Environment, 2011</ce:label>
+                     <ce:other-ref id="j0010">
+                        <ce:textref>Ministry of Environment, 2011. The state of waste generation and treatment in 2011. Seoul, Korea.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0065">
+                     <ce:label>Park et al., 2012</ce:label>
+                     <sb:reference id="h0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.D.</ce:given-name>
+                                 <ce:surname>Park</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.S.</ce:given-name>
+                                 <ce:surname>Helle</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.W.</ce:given-name>
+                                 <ce:surname>Thring</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Combined alkaline and ultrasound pretreatment of thickened pulp mill waste activated sludge for improved anaerobic digestion</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biomass Bioenergy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>46</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>750</sb:first-page>
+                              <sb:last-page>756</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0070">
+                     <ce:label>Pilli et al., 2011</ce:label>
+                     <sb:reference id="h0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Pilli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Bhunia</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Yan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>LeBlanc</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.D.</ce:given-name>
+                                 <ce:surname>Tyagi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.Y.</ce:given-name>
+                                 <ce:surname>Surampalli</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ultrasonic pretreatment of sludge: a review</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ultrason. Sonochem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>18</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0075">
+                     <ce:label>Weemaes and Verstraete, 1998</ce:label>
+                     <sb:reference id="h0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.P.J.</ce:given-name>
+                                 <ce:surname>Weemaes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.H.</ce:given-name>
+                                 <ce:surname>Verstraete</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Evaluation of current wet sludge disintegration techniques</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Technol. Biot.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>73</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>83</sb:first-page>
+                              <sb:last-page>92</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0080">
+                     <ce:label>Wilson and Novak, 2009</ce:label>
+                     <sb:reference id="h0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.A.</ce:given-name>
+                                 <ce:surname>Wilson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.T.</ce:given-name>
+                                 <ce:surname>Novak</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Hydrolysis of macromolecular components of primary and secondary wastewater sludge by thermal hydrolytic pretreatment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Wat. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>43</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4489</sb:first-page>
+                              <sb:last-page>4498</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0085">
+                     <ce:label>Yan et al., 2013</ce:label>
+                     <sb:reference id="h0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Yan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Xu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>He</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Zhou</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Enhancement of biochemical methane potential from excess sludge with low organic content by mild thermal pretreatment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biochem. Eng. J.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>70</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>127</sb:first-page>
+                              <sb:last-page>134</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

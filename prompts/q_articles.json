@@ -18,19 +18,19 @@
         },
         {
           "qid": 4,
-          "question": "Does it explicitly describe the use of pressure-based pretreatment on a substrate (e.g., high-pressure homogenisation, pressure shock treatment, hydrodynamic cavitation, mechanical jet), (Methods where pressure is only indirectly applied due to enclosed heating (e.g., autoclave) must be excluded.)"
+          "question": "Does it explicitly describe the use of pressure-based pretreatment on a substrate (e.g., high-pressure homogenisation, pressure shock treatment, hydrodynamic cavitation, mechanical jet), and not pressure generated incidentally by heating in closed systems such as hydrothermal methods (e.g., autoclave,subcritical water, LHW,...)"
         },
         {
           "qid": 5,
-          "question": "Does it explicitly describe the use of pulsed electric field or other electrical pretreatment techniques applied to a substrate to disrupt material and increase availability"
+          "question": "Does it explicitly describe the use of pulsed electric field or similar direct electrical application on the substrate for pretreatment to disrupt material and increase availability. This exclude all equipment that uses electricity such as ultrasounds and microwave"
         },
         {
           "qid": 6,
-          "question": "Does it explicitly describe the use of alkaline pretreatment on a substrate"
+          "question": "Does it explicitly describe the use of alkaline pretreatment on a substrate, by the addition of a alkaline agent such as (e.g., NaOH, KOH,...)"
         },
         {
           "qid": 7,
-          "question": "Does it explicitly describe the use of acidic pretreatment on a substrate"
+          "question": "Does it explicitly describe the use of acidic pretreatment on a substrate, by the addition of a alkaline agent such as (e.g., Formic acid,H2SO4,...)"
         },
         {
           "qid": 8,
@@ -38,11 +38,11 @@
         },
         {
           "qid": 9,
-          "question": "Does it explicitly describe the use of solvent-based pretreatment on a substrate"
+          "question": "Does the methodology explicitly describe the use of solvent for pretreatment on a substrate (e.g., organosolv, ioniq liquid,...), and mentions it as a solvent. Ignore implicit cases such as the use of water in a process. Only answer true when the methodology clearly identifies a solvent system as an intentional pretreatment medium rather than merely using chemicals dissolved in water."
         },
         {
           "qid": 10,
-          "question": "Does it explicitly describe the use of chemical pretreatment on a substrate, where chemical pretreatment signifies the degradation of complex material to improve bioavailability using some chemical compound that is different from the more prevalent techniques (alkaline, acidic, oxidation and solvent)? Examples of those techniques can be (surfactant, solubilizer, salts,...)"
+          "question": "Does it explicitly describe the use of a chemical pretreatment different from the more prevalent techniques (alkaline, acidic, oxidation and solvent)? Examples of those techniques can be (surfactant, solubilizer, salts,...) on a substrate, where chemical pretreatment signifies the degradation of complex material to improve bioavailability using some chemical compound"
         },
         {
           "qid": 11,
@@ -54,11 +54,11 @@
         },
         {
           "qid": 13,
-          "question": "Does it explicitly describe the use of microbial-based pretreatment on a substrate (this can be a bacterial treatment but also microbial consortium) (note: enzymes extracted from a microorganism as well as the use of substrate rich in microorganisms should be excluded)"
+          "question": "Does it explicitly describe the use of microbial-based pretreatment on a substrate such as isolate bacterial cultures or specialised microbila consortia. You must exclude mediums rich in microorganisms(digestate, sludge,...) as well as extracted enzymes, as these are invalid. "
         },
         {
           "qid": 14,
-          "question": "Does it explicitly describe the use of biologically active substrate on a substrate for pretreatment, (this can be through the reuse of digestate, adding compost, rumen, or activated sludge,...)"
+          "question": "Does it explicitly describe the use of biologically active substrate on a substrate for pretreatment: this can be through the reuse of digestate, adding compost, rumen, or activated sludge,...). The inoculum is not a pretreatment and should be ignored, the substrate must be clearly mentioned as for pretreatment purposes"
         }
       ]
     },
@@ -72,15 +72,15 @@
         },
         {
           "qid": 16,
-          "question": "Does the article describe the use of disinhibiting treatments (e.g., coagulants, biochar, ammonia stripping) applied to the substrate or reactor before or during digestion to improve microbial activity or methane production"
+          "question": "Does the article explicitly describe the use of disinhibiting treatments (e.g., coagulants, biochar, ammonia stripping) applied to the substrate or reactor before or during digestion to improve microbial activity or methane production. Exclude laboratory control methods  during digestion such as artificial pH stabilisation"
         },
         {
           "qid": 17,
-          "question": "Does the article describe the use of chelating agents added to the substrate or reactor before or during digestion to enhance microbial activity or substrate degradation"
+          "question": "Does the article explicitly describe the use of chelating agents added to the substrate or reactor before or during digestion to enhance microbial activity or substrate degradation"
         },
         {
           "qid": 18,
-          "question": "Does the article describe the addition of nutrients (e.g., nitrogen, phosphorus, micronutrients) to the substrate or reactor before or during digestion to improve microbial activity or methane production during the digestion process"
+          "question": "Does the article explicitly describe the addition of nutrients as an additive (e.g., nitrogen, phosphorus, micronutrients) to the substrate or reactor before or during digestion to improve microbial activity or methane production during the digestion process. This exclude any substrate rich in nutrient or infered reasoning from the presence of nutrient in the substrate or inoculum."
         }
       ]
     },

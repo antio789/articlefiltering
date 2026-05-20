@@ -1,7 +1,6 @@
 import glob
 import json
 import logging
-import os
 
 from ollama import generate
 from pypdf import PdfReader
@@ -10,7 +9,6 @@ from datetime import datetime
 logger = logging.getLogger(__name__)
 
 '''READ CONTENT DEFINITIONS'''
-
 
 def read_json(path):
     with open(path, 'r') as file:
@@ -22,12 +20,6 @@ def read_file(path):
     with open(path, 'r') as file:
         output = file.read()
     return output
-
-
-def read_pdf(path):
-    reader = PdfReader(path)
-    return "\n".join(p.extract_text() for p in reader.pages)
-
 
 # models tested mistral, ministral, mistrallite, nemotron, qwen, gemma3n:e2b.
 # ministral-3:8b: too large, 4k context maximum for 8gb vram
@@ -42,18 +34,11 @@ def llm_prompt(string):
 
 
 '''INITIALIZING CONTENT'''
-general_prompt = read_file("prompts/general_prompt")
 article_prompt = read_file("prompts/article_prompt")
-review_prompt = read_file("prompts/review_prompt")
-
-general_questions = read_json('prompts/q_general.json')
-review_questions = read_json('prompts/q_reviews.json')
 article_questions = read_json('prompts/q_articles.json')
 
 articles_list = glob.glob("articletxt/*.txt")
 
-test = os.environ.get('elsevierapi', '5432')
-os.environ['test'] = 'development'
 'LLM FILTERING'
 
 

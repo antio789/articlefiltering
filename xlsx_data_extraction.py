@@ -6,55 +6,38 @@ import json
 def extract_dois(csv_file):
     DOI = []
     with open(csv_file, 'r', encoding='utf-8') as f:
-        reader = csv.reader(f)
+        reader = csv.reader(f,delimiter=";")
         for row in reader:
-            param = row[0].split(";")
-            doi = param[2]
-            id = param[1]
+            doi = row[2]
+            id = row[1]
             DOI.append([id,doi])
     return DOI
 
 
-def compare_doi(doi):
+def get_article_id(doi):
     links = extract_dois("data/articlelist.csv")
     for i in range(1,len(links)):
         if str(doi) in str(links[i][1]):
             return links[i][0]
     return 0
 
-def get_manual_list(csv_file):
-    results = []
-    with open(csv_file, 'r', encoding='utf-8') as f:
-        reader = csv.reader(f,delimiter=";")
-        for row in reader:
-            doi = str(row[5])
-            id = compare_doi(doi)
-            if id != 0:
-                datapoint = [id,row[7]]
-                if datapoint not in results:
-                    results.append(datapoint)
-    return results
-
 def get_manual_review(csv_file, article_id):
     results = []
     with open(csv_file, 'r', encoding='utf-8') as f:
-        reader = csv.reader(f, delimiter=";")
+        reader = csv.reader(f, delimiter=",")
+
         for row in reader:
             doi = str(row[5])
-            id = compare_doi(doi)
+            id = get_article_id(doi)
             if id != 0 and str(id) == str(article_id):
                 datapoint = [id, row[7]]
                 if datapoint not in results:
                     results.append(datapoint)
+    #print(results)
     return results
 
-filters = get_manual_list("data/pretreatment_data.csv")
 ### Gather results from the LLM filtering on the article list
 
-def read_json(path):
-    with open(path, 'r') as file:
-        data = json.load(file)
-    return data.get("filters")
 
 pretreatment_map = {
     1: "mechanical desintegration",
@@ -74,7 +57,8 @@ pretreatment_map = {
     15: "nanoparticles",
     16: "disinhibition",
     17: "chelating",
-    18: "nutrient"
+    18: "nutrient",
+    58: "microaerobic"
 }
 
 
@@ -155,16 +139,16 @@ def save_report(output_file, report):
     with open(output_file, "w", encoding="utf-8") as file:
         json.dump(report, file, indent=2)
 
-json_file = "ptoutput/189.json"
+
+json_file = "ptoutput/1117.json"
 article_id = json_file.replace(".json", "").replace("ptoutput/", "")
-
-
 
 manual_review = get_manual_review( "data/pretreatment_data.csv", article_id )
 llm_review = get_llm_review(json_file)
 
 report = compare(manual_review,llm_review)
 save_report("testfile",report)
+
 
 
 
@@ -177,8 +161,20 @@ def list_filters():
         for row in reader:
             filter = row[7]
             if filter not in pretreatment_filters:
-                filters.append(filter)
+                pretreatment_filters.append(filter)
         pretreatment_filters.pop(0)
         return pretreatment_filters
 
 
+def get_manual_list(csv_file):
+    results = []
+    with open(csv_file, 'r', encoding='utf-8') as f:
+        reader = csv.reader(f,delimiter=";")
+        for row in reader:
+            doi = str(row[5])
+            id = get_article_id(doi)
+            if id != 0:
+                datapoint = [id,row[7]]
+                if datapoint not in results:
+                    results.append(datapoint)
+    return results

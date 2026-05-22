@@ -1,0 +1,65 @@
+{
+  "manual_review": [
+    [
+      "930",
+      "alkaline"
+    ],
+    [
+      "930",
+      "ultrasonic"
+    ]
+  ],
+  "llm_review": [
+    [
+      "930",
+      "thermal"
+    ],
+    [
+      "930",
+      "ultrasonic"
+    ],
+    [
+      "930",
+      "alkaline"
+    ],
+    [
+      "930",
+      "acidic"
+    ],
+    [
+      "930",
+      "oxidizer"
+    ]
+  ],
+  "correct_predictions": 2,
+  "false_predictions": 3,
+  "missed_predictions": 0,
+  "precision": 0.4,
+  "recall": 1.0,
+  "f1_score": 0.5714,
+  "correct_items": [
+    [
+      "930",
+      "ultrasonic"
+    ],
+    [
+      "930",
+      "alkaline"
+    ]
+  ],
+  "false_items": [
+    [
+      "930",
+      "thermal"
+    ],
+    [
+      "930",
+      "acidic"
+    ],
+    [
+      "930",
+      "oxidizer"
+    ]
+  ],
+  "missed_items": []
+}

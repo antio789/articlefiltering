@@ -1,0 +1,64 @@
+{
+  "manual_review": [
+    [
+      "1515",
+      "mechanical disintegration"
+    ],
+    [
+      "1515",
+      "thermal"
+    ],
+    [
+      "1515",
+      "acidic"
+    ],
+    [
+      "1515",
+      "alkaline"
+    ]
+  ],
+  "llm_review": [
+    [
+      "1515",
+      "mechanical disintegration"
+    ],
+    [
+      "1515",
+      "thermal"
+    ],
+    [
+      "1515",
+      "alkaline"
+    ],
+    [
+      "1515",
+      "acidic"
+    ]
+  ],
+  "correct_predictions": 4,
+  "false_predictions": 0,
+  "missed_predictions": 0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1_score": 1.0,
+  "correct_items": [
+    [
+      "1515",
+      "mechanical disintegration"
+    ],
+    [
+      "1515",
+      "thermal"
+    ],
+    [
+      "1515",
+      "alkaline"
+    ],
+    [
+      "1515",
+      "acidic"
+    ]
+  ],
+  "false_items": [],
+  "missed_items": []
+}

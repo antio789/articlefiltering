@@ -97,5 +97,5 @@ def run_pretreatment():
     logger.info('end')
 
 logging.basicConfig(format='%(asctime)s %(message)s',level=logging.INFO, handlers=[logging.FileHandler(f"logs{datetime.now().strftime('%d_%H-%M')}.log"), logging.StreamHandler()])
-#run_pretreatment()
-print(run_pretreatmentarticle('articletxt/1832.txt'))
+run_pretreatment()
+#print(run_pretreatmentarticle('articletxt/1832.txt'))

@@ -1,0 +1,46 @@
+{
+  "manual_review": [
+    [
+      "1117",
+      "alkaline"
+    ],
+    [
+      "1117",
+      "oxidizer"
+    ]
+  ],
+  "llm_review": [
+    [
+      "1117",
+      "alkaline"
+    ],
+    [
+      "1117",
+      "nanoparticles"
+    ]
+  ],
+  "correct_predictions": 1,
+  "false_predictions": 1,
+  "missed_predictions": 1,
+  "precision": 0.5,
+  "recall": 0.5,
+  "f1_score": 0.5,
+  "correct_items": [
+    [
+      "1117",
+      "alkaline"
+    ]
+  ],
+  "false_items": [
+    [
+      "1117",
+      "nanoparticles"
+    ]
+  ],
+  "missed_items": [
+    [
+      "1117",
+      "oxidizer"
+    ]
+  ]
+}

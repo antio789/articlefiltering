@@ -1,0 +1,45 @@
+{
+  "manual_review": [
+    [
+      "105",
+      "thermal"
+    ]
+  ],
+  "llm_review": [
+    [
+      "105",
+      "mechanical disintegration"
+    ],
+    [
+      "105",
+      "thermal"
+    ],
+    [
+      "105",
+      "nutrient"
+    ]
+  ],
+  "correct_predictions": 1,
+  "false_predictions": 2,
+  "missed_predictions": 0,
+  "precision": 0.3333,
+  "recall": 1.0,
+  "f1_score": 0.5,
+  "correct_items": [
+    [
+      "105",
+      "thermal"
+    ]
+  ],
+  "false_items": [
+    [
+      "105",
+      "mechanical disintegration"
+    ],
+    [
+      "105",
+      "nutrient"
+    ]
+  ],
+  "missed_items": []
+}

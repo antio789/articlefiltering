@@ -10,7 +10,7 @@
         },
         {
           "qid": 2,
-          "question": "Does the methodology explicitly describe the use of thermal pretreatment on a substrate"
+          "question": "Does the methodology explicitly describe the use of thermal pretreatment on a substrate, this must exclude drying."
         },
         {
           "qid": 3,
@@ -22,7 +22,7 @@
         },
         {
           "qid": 5,
-          "question": "Does the methodology explicitly describe the use of pulsed electric field or similar direct electrical application on the substrate for pretreatment to disrupt material and increase availability. This exclude all equipment that uses electricity such as ultrasounds and microwave"
+          "question": "Does the methodology explicitly describe the use of pulsed electric field or similar direct electrical application on the substrate for pretreatment to disrupt material and increase availability. This exclude all equipment that uses electricity such as but not only ultrasounds and microwave"
         },
         {
           "qid": 6,
@@ -46,7 +46,7 @@
         },
         {
           "qid": 11,
-          "question": "Does the methodology explicitly describe the use of an enzyme for pretreatment on a substrate (this also includes crude enzyme treatments), This exclude any bacteria, fungi, or other secreting enzyme organism, it refers to the direct use of enzymes. Before answering: 1. Identify enzyme used in the methodology 2.ensure it is pure or extracted crude enzyme 3.ensure that those enzymes are used directly and not indirectly from the inclusion of bacteria, fungi, or other enzyme secreting organism in the pretreatment 4. answer false if any requirement are not satisfied"
+          "question": "Does the methodology explicitly describe the use of an enzyme for pretreatment on a substrate (this also includes crude enzyme treatments), This exclude any bacteria, fungi, or other secreting enzyme organism, it refers to the direct use of enzymes. Before answering: 1. Identify enzyme used in the methodology 2.ensure it is an enzyme preparation or extracted crude enzyme 3.ensure that the enzymes are used directly and not produced in situ by bacteria, fungi, or other enzyme-secreting organisms 4. answer false if any requirement are not satisfied"
         },
         {
           "qid": 12,

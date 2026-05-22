@@ -1,0 +1,77 @@
+{
+  "manual_review": [
+    [
+      "1624",
+      "pressure"
+    ],
+    [
+      "1624",
+      "thermal"
+    ],
+    [
+      "1624",
+      "enzyme"
+    ]
+  ],
+  "llm_review": [
+    [
+      "1624",
+      "thermal"
+    ],
+    [
+      "1624",
+      "pressure"
+    ],
+    [
+      "1624",
+      "alkaline"
+    ],
+    [
+      "1624",
+      "acidic"
+    ],
+    [
+      "1624",
+      "enzyme"
+    ],
+    [
+      "1624",
+      "nutrient"
+    ]
+  ],
+  "correct_predictions": 3,
+  "false_predictions": 3,
+  "missed_predictions": 0,
+  "precision": 0.5,
+  "recall": 1.0,
+  "f1_score": 0.6667,
+  "correct_items": [
+    [
+      "1624",
+      "thermal"
+    ],
+    [
+      "1624",
+      "pressure"
+    ],
+    [
+      "1624",
+      "enzyme"
+    ]
+  ],
+  "false_items": [
+    [
+      "1624",
+      "alkaline"
+    ],
+    [
+      "1624",
+      "acidic"
+    ],
+    [
+      "1624",
+      "nutrient"
+    ]
+  ],
+  "missed_items": []
+}

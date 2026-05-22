@@ -1,0 +1,74 @@
+{
+  "manual_review": [
+    [
+      "1028",
+      "mechanical disintegration"
+    ],
+    [
+      "1028",
+      "alkaline"
+    ],
+    [
+      "1028",
+      "microbial consortium"
+    ],
+    [
+      "1028",
+      "nutrient"
+    ]
+  ],
+  "llm_review": [
+    [
+      "1028",
+      "mechanical disintegration"
+    ],
+    [
+      "1028",
+      "thermal"
+    ],
+    [
+      "1028",
+      "alkaline"
+    ],
+    [
+      "1028",
+      "solvent"
+    ]
+  ],
+  "correct_predictions": 2,
+  "false_predictions": 2,
+  "missed_predictions": 2,
+  "precision": 0.5,
+  "recall": 0.5,
+  "f1_score": 0.5,
+  "correct_items": [
+    [
+      "1028",
+      "mechanical disintegration"
+    ],
+    [
+      "1028",
+      "alkaline"
+    ]
+  ],
+  "false_items": [
+    [
+      "1028",
+      "thermal"
+    ],
+    [
+      "1028",
+      "solvent"
+    ]
+  ],
+  "missed_items": [
+    [
+      "1028",
+      "microbial consortium"
+    ],
+    [
+      "1028",
+      "nutrient"
+    ]
+  ]
+}

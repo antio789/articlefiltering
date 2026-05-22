@@ -179,7 +179,7 @@ def compare_question(question_name, all_manual, all_llm):
         if item[1] == question_name
     ]
 
-    return compare(
+    return compare_summary(
         manual_filtered,
         llm_filtered,
         include_other=True

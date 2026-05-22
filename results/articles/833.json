@@ -1,0 +1,45 @@
+{
+  "manual_review": [
+    [
+      "833",
+      "thermal"
+    ]
+  ],
+  "llm_review": [
+    [
+      "833",
+      "mechanical disintegration"
+    ],
+    [
+      "833",
+      "thermal"
+    ],
+    [
+      "833",
+      "biological active substrate"
+    ]
+  ],
+  "correct_predictions": 1,
+  "false_predictions": 2,
+  "missed_predictions": 0,
+  "precision": 0.3333,
+  "recall": 1.0,
+  "f1_score": 0.5,
+  "correct_items": [
+    [
+      "833",
+      "thermal"
+    ]
+  ],
+  "false_items": [
+    [
+      "833",
+      "mechanical disintegration"
+    ],
+    [
+      "833",
+      "biological active substrate"
+    ]
+  ],
+  "missed_items": []
+}

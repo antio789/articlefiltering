@@ -1,0 +1,49 @@
+{
+  "manual_review": [
+    [
+      "1463",
+      "alkaline"
+    ],
+    [
+      "1463",
+      "mechanical disintegration"
+    ]
+  ],
+  "llm_review": [
+    [
+      "1463",
+      "mechanical disintegration"
+    ],
+    [
+      "1463",
+      "pressure"
+    ],
+    [
+      "1463",
+      "alkaline"
+    ]
+  ],
+  "correct_predictions": 2,
+  "false_predictions": 1,
+  "missed_predictions": 0,
+  "precision": 0.6667,
+  "recall": 1.0,
+  "f1_score": 0.8,
+  "correct_items": [
+    [
+      "1463",
+      "mechanical disintegration"
+    ],
+    [
+      "1463",
+      "alkaline"
+    ]
+  ],
+  "false_items": [
+    [
+      "1463",
+      "pressure"
+    ]
+  ],
+  "missed_items": []
+}

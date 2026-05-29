@@ -1,0 +1,37 @@
+{
+  "manual_review": [
+    [
+      "328",
+      "electric"
+    ]
+  ],
+  "llm_review": [
+    [
+      "328",
+      "electric"
+    ],
+    [
+      "328",
+      "nutrient"
+    ]
+  ],
+  "correct_predictions": 1,
+  "false_predictions": 1,
+  "missed_predictions": 0,
+  "precision": 0.5,
+  "recall": 1.0,
+  "f1_score": 0.6667,
+  "correct_items": [
+    [
+      "328",
+      "electric"
+    ]
+  ],
+  "false_items": [
+    [
+      "328",
+      "nutrient"
+    ]
+  ],
+  "missed_items": []
+}

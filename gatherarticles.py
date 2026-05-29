@@ -2,6 +2,8 @@
 
 
 import logging
+import random
+
 import httpx
 import time
 from lxml import etree
@@ -42,8 +44,8 @@ def request(url,id):
         request(url)
 
 
-def scopus_paper_get(paper_doi,id):
-    url=str(f"https://api.elsevier.com/content/article/doi/{paper_doi}?APIKey=5e6651f887493707ac5b67174ae5b51a&view=FULL")
+def scopus_paper_get(paper_doi,id=0):
+    url=str(f"https://api.elsevier.com/content/article/doi/{paper_doi}?APIKey=ffa04d6dba0cd7d9cdf52c01ac352383&view=FULL")
     url = url.replace('"',"")
     print(url)
     response = request(url,id)
@@ -168,7 +170,7 @@ def node_to_text(node):
 def xml_conversion(id):
 
 
-    xml_file = "articlexml/"+id+".xml"
+    xml_file = "reactorxml/"+id+".xml"
 
     tree = etree.parse(xml_file)
     if len(tree.xpath("//*[local-name()='body']"))<1:
@@ -219,7 +221,7 @@ def xml_conversion(id):
             if cells:
                 out.append(" | ".join(c.strip() for c in cells))
 
-    with open("articletxt/"+id+".txt", "w", encoding="utf-8") as f:
+    with open("reactortxt/"+id+".txt", "w", encoding="utf-8") as f:
         f.write("\n\n".join(out))
 
 
@@ -241,9 +243,38 @@ def requestarticles():
             print("empty article at: "+link)
         time.sleep(3)
 
+def requestreactors():
+    with open("data/reactors.csv", newline="", encoding="utf-8") as f:
+        reader = list(csv.reader(f,delimiter=";"))
+
+    # Separate header and data
+    header = reader[0]
+    rows = reader[1:]
+
+    # Pick 10 random rows
+    random_rows = random.sample(rows, 100)
+
+    # Print them
+    print(header)
+    count = 0
+    for row in random_rows:
+        doi = row[3].replace("http://dx.doi.org/","")
+        text = scopus_paper_get(doi)
+        if text != "":
+            id = doi.replace("/",'_')
+            with open("reactorxml/"+id+".xml", 'w') as f:
+                f.write(text)
+            xml_conversion(id)
+            count+=1
+            if count >=50: return
+            print(count)
+        else:
+            print("empty article at: "+doi)
+        time.sleep(3)
+
 logging.basicConfig(format='%(asctime)s %(message)s',level=logging.INFO, handlers=[logging.FileHandler(f"logs/logs{datetime.now().strftime('%d_%H-%M')}.log"), logging.StreamHandler()])
 
-requestarticles()
+requestreactors()
 
 
 

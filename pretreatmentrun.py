@@ -26,11 +26,11 @@ def read_file(path):
 # gemma 3, fastest can go up to 128k, 86k to leave space to increase output size  - gemmatest86k
 # qwen3.5, reasoning model, but at a slower speed and smaller context, requires analysis with larger vram and faster GPU
 def llm_prompt(string):
-    response = generate(model='gemmatest86k', prompt=string,
-                        options={'temperature': 0.1, 'num_predict': 12000, 'seed': 15})
+    response = generate(model='qwen40x2k', prompt=string,
+                        options={ 'num_predict': 10000, 'seed': 15,"think": True})
     time = int(int(response['total_duration']) / 1000000000)
     logger.info(f'{time} seconds of runtime')
-    return response['response']
+    return [response['response'],response['thinking']]
 
 
 '''INITIALIZING CONTENT'''
@@ -42,9 +42,9 @@ articles_list = glob.glob("articletxt/*.txt")
 'LLM FILTERING'
 
 
-def classify_article(text):
+def classify_article(text_to_classify):
     filter_list = []
-    filter_list = filter_list + process_questions(article_questions, text, article_prompt)
+    filter_list = filter_list + process_questions(article_questions, text_to_classify, article_prompt)
     return filter_list
 
 
@@ -58,30 +58,33 @@ def process_questions(questionnaire, text, prompt):
                     "Additional_info") + "\n" + q.get("question") + ' \n' + prompt
                 output = llm_prompt(prompt_question)
                 logger.info(output)
+                """
                 try:
                     reasoning, answer = output.split("###")
                 except ValueError as e:
                     logger.warning(f'failed at splitting: f{e}, moving to next question')
                     reasoning = output
                     answer = "error"
-
+                """
                 results.append({
                     "qid": q.get("qid"),
                     "question": q.get("question"),
-                    "reasoning": reasoning.strip(),
-                    "answer": answer.strip()
+                    "reasoning": output[1].strip(),
+                    "answer": output[0].strip()
                 })
     return results
 
 def run_pretreatmentarticle(path):
     logger.info(path)
     article_text = read_file(path)
+    article_title = article_text.splitlines()[0]
+    logger.info(article_title)
     filtered = classify_article(article_text)
     tempname = str(path).replace(".txt", "").replace("articletxt/", "")
 
     name = 'ptoutput/' + tempname + '.json'
     filtered.append({
-        "article_path": path
+        "article_title": article_title
     })
     jsonfile = {
         "filters": filtered,
@@ -96,6 +99,6 @@ def run_pretreatment():
         run_pretreatmentarticle(path)
     logger.info('end')
 
-logging.basicConfig(format='%(asctime)s %(message)s',level=logging.INFO, handlers=[logging.FileHandler(f"logs{datetime.now().strftime('%d_%H-%M')}.log"), logging.StreamHandler()])
+logging.basicConfig(format='%(asctime)s %(message)s',level=logging.INFO, handlers=[logging.FileHandler(f"logs/{datetime.now().strftime('%d_%H-%M')}.log"), logging.StreamHandler()])
 run_pretreatment()
 #print(run_pretreatmentarticle('articletxt/1832.txt'))

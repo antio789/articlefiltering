@@ -6,11 +6,11 @@
       "questions": [
         {
           "qid": 1,
-          "question": "Does the methodology explicitly describe the use of mechanical pretreatment on a substrate"
+          "question": "Does the methodology explicitly describe any physical process that mechanically alters the substrate (e.g., size reduction, structural disruption or similar)? Instructions for reasoning: 1.Identify any mechanical treatment (e.g., grinding, milling, shredding, mixing, physical disruption, or similar) applied to the substrate. 2. Confirm that the mechanical treatment is applied to the substrate and not to the inoculum or for analytical characterization. 3.confirm it is a direct mechanical desintegration effect and not an indirect effect from other procedure such as ultrasounds, pressure or similar 4. exclude freezing, or pressure to separate phases if that is the identified method 5.Answer 'true' if conditions are met, otherwise 'false' "
         },
         {
           "qid": 2,
-          "question": "Does the methodology explicitly describe the use of thermal pretreatment on a substrate, this must exclude drying."
+          "question": "Does the methodology explicitly describe the use of thermal pretreatment on a substrate, thermal pretreatment consider high temperatures to disrupt the substrate, include high temperatures part of another treatment (such as but not only chemical treatment at high temperature). Do not consider drying as a valid pretreatment"
         },
         {
           "qid": 3,
@@ -22,7 +22,7 @@
         },
         {
           "qid": 5,
-          "question": "Does the methodology explicitly describe the use of pulsed electric field or similar direct electrical application on the substrate for pretreatment to disrupt material and increase availability. This exclude all equipment that uses electricity such as but not only ultrasounds and microwave"
+          "question": "Does the methodology explicitly describe the use of a direct electrical application on the substrate for pretreatment to disrupt material and increase availability. This exclude all equipment that uses electricity such as but not only ultrasounds and microwave"
         },
         {
           "qid": 6,
@@ -30,11 +30,11 @@
         },
         {
           "qid": 7,
-          "question": "Does the methodology explicitly describe the use of acidic pretreatment on a substrate, by the addition of a acidic agent. This exclude pH adjustment for the digestion or other reaction, it must be for pretreatment purposes"
+          "question": "Does the methodology explicitly describe the use of acidic pretreatment on a substrate, by the addition of a acidic agent. This exclude pH adjustment for the digestion or other reaction, it must be for pretreatment purposes. procedure to verify before answering: 1. Identify acidic agent 2.ensure it is an acid 3. ensure it is used in a pretreatment of the substrate"
         },
         {
           "qid": 8,
-          "question": "Does the methodology explicitly describe the use of oxidative pretreatment on a substrate with the use of for example: traditional oxidizers such as H₂O₂, or advanced oxidation processes such as oxidizers combined with UV, Fenton reactions, or or photocatalysis with TiO2 or similar)"
+          "question": "Does the methodology explicitly describe the use of oxidative pretreatment by the use of an oxidizer agent? 1. Identify the agent 2.ensure it is an oxidizer 3. ensure it is used on the substrate as a pretreatment. Consider photocatalysis with TiO2 as an oxidizer"
         },
         {
           "qid": 9,
@@ -54,7 +54,7 @@
         },
         {
           "qid": 13,
-          "question": "Does the methodology explicitly describe the use of a microbial pretreatment on a substrate such as isolate bacterial cultures or specialised microbila consortia. You must exclude mediums rich in microorganisms(digestate, sludge,...) as well as extracted enzymes, as these are invalid. "
+          "question": "Does the methodology explicitly describe the use of a microbial pretreatment on a substrate such as isolate bacterial cultures or specialised microbila consortia. You must exclude mediums rich in microorganisms(digestate, sludge,...) as well as fungi, extracted enzymes, as these are invalid. "
         },
         {
           "qid": 14,
@@ -94,75 +94,75 @@
       "questions": [
         {
           "qid": 20,
-          "question": "Does it, in that context, explicitly describe the use of a batch reactor as an anaerobic digester"
+          "question": "Does it, in that context, explicitly describe the use of a batch reactor as an anaerobic digester? \n"
         },
         {
           "qid": 21,
-          "question": "Does it, in that context, explicitly describe the use of a SBR (sequencing batch reactor) reactor as an anaerobic digester. with definition: a batch reactoroperating in cycles. Typically: filling, reaction, settling and withdrawal with an optional resting period. where a part of the sludge is then reused for inoculation of the next sequence. The concept of continuous operational cycling is important. Only answer true if it is explicitly and clearly differentiated from a normal batch operation"
+          "question": "Does it, in that context, explicitly describe the use of a SBR (sequencing batch reactor) reactor as an anaerobic digester. with definition: a batch reactoroperating in cycles. Typically: filling, reaction, settling and withdrawal with an optional resting period. where a part of the sludge is then reused for inoculation of the next sequence. The concept of continuous operational cycling is important. Only answer true if it is explicitly and clearly differentiated from a normal batch operation? \n"
         },
         {
           "qid": 22,
-          "question": "Does it, in that context, explicitly describe the use of a CSTR reactor as an anaerobic digester, where the key part of the definition is the continuous process of feeding and digestate evacuation, due to real world operation the process might not be perfectly continuous but intermittent or semi-continuous. mentions of mixing are not enough"
+          "question": "Does it, in that context, explicitly describe the use of a CSTR reactor as an anaerobic digester, where the key part of the definition is the continuous process of feeding and digestate evacuation, due to real world operation the process might not be perfectly continuous but intermittent or semi-continuous. mentions of mixing are not enough? \n"
         },
         {
           "qid": 23,
-          "question": "Does it, in that context, explicitly describe the use of a Leach Bed reactor as an anaerobic digester"
+          "question": "Does it, in that context, explicitly describe the use of a Leach Bed reactor as an anaerobic digester? \n"
         },
         {
           "qid": 24,
-          "question": "Does it, in that context, explicitly describe the use of a plug flow reactor as an anaerobic digester, the attention to the definition that characterises this reactor is important with radial mixing but not axial front or back. mention of the name synonym or the specific process is necessary, having a inlet and outlet is not a sufficient criteria"
+          "question": "Does it, in that context, explicitly describe the use of a plug flow reactor as an anaerobic digester, the attention to the definition that characterises this reactor is important with radial mixing but not axial front or back. mention of the name synonym or the specific process is necessary, having a inlet and outlet is not a sufficient criteria? \n"
         },
         {
           "qid": 25,
-          "question": "Does it, in that context, explicitly describe the use of an Anaerobic Contact reactor as an anaerobic digester, with as definition: high rate reactor separating solids from hydraulic retention in wastewaters it is a combination of a CSTR with a sedimentation tank. The settled sludge is recirculated back while the liquid effluent is removed, mention of the reactor and some description of the process are necessary"
+          "question": "Does it, in that context, explicitly describe the use of an Anaerobic Contact reactor as an anaerobic digester, with as definition: high rate reactor separating solids from hydraulic retention in wastewaters it is a combination of a CSTR with a sedimentation tank. The settled sludge is recirculated back while the liquid effluent is removed, mention of the reactor and some description of the process are necessary? \n"
         },
         {
           "qid": 26,
-          "question": "Does it, in that context, explicitly describe the use of a UASB reactor as an anaerobic digester"
+          "question": "Does it, in that context, explicitly describe the use of a UASB reactor as an anaerobic digester? \n"
         },
         {
           "qid": 27,
-          "question": "Does it, in that context, explicitly describe the use of an EGSB reactor as an anaerobic digester"
+          "question": "Does it, in that context, explicitly describe the use of an EGSB reactor as an anaerobic digester? \n"
         },
         {
           "qid": 28,
-          "question": "Does it, in that context, explicitly describe the use of a UASB derivate reactor (excluding EGSB) as an anaerobic digester, this infers a sludge blanket reactor such as IC reactor (internal circulation), induced bed, upflow solid reactor,..."
+          "question": "Does it, in that context, explicitly describe the use of a UASB derivate reactor (excluding EGSB) as an anaerobic digester, this infers a sludge blanket reactor such as IC reactor (internal circulation), induced bed, upflow solid reactor,...? \n"
         },
         {
           "qid": 29,
-          "question": "Does it, in that context, explicitly describe the use of a baffled reactor as an anaerobic digester"
+          "question": "Does it, in that context, explicitly describe the use of a baffled reactor as an anaerobic digester? \n"
         },
         {
           "qid": 30,
-          "question": "Does it, in that context, explicitly describe the use of a filter/fixed bed reactor (a reactor with a settled biofilm) as an anaerobic digester"
+          "question": "Does it, in that context, explicitly describe the use of a filter/fixed bed reactor (a reactor with a settled biofilm) as an anaerobic digester? \n"
         },
         {
           "qid": 31,
-          "question": "Does it, in that context, explicitly describe the use of a fluidized bed reactor (similar to filter/fixed bed with biofilm except that the support media is in suspension) as an anaerobic digester"
+          "question": "Does it, in that context, explicitly describe the use of a fluidized bed reactor (similar to filter/fixed bed with biofilm except that the support media is in suspension) as an anaerobic digester? \n"
         },
         {
           "qid": 32,
-          "question": "Does it, in that context, explicitly describe the use of a derivative of biofilm reactors (such as filter/fixed bed or fluidized bed but excluding these ones specifically) as an anaerobic digester"
+          "question": "Does it, in that context, explicitly describe the use of a derivative of biofilm reactors (such as filter/fixed bed or fluidized bed but excluding these ones specifically) as an anaerobic digester? \n"
         },
         {
           "qid": 33,
-          "question": "Does it, in that context, explicitly describe the use of a membrane reactor as an anaerobic digester"
+          "question": "Does it, in that context, explicitly describe the use of a membrane reactor as an anaerobic digester? \n"
         },
         {
           "qid": 34,
-          "question": "Does it, in that context, explicitly describe the use of a hybrid reactor as an anaerobic digester, where here hybrid reactor is considered as a mix of two reactor designs (example UASB with fixed bed inside), this category should exclude reactors called hybrid but that are two or more reactors put into series (example fixed bed stage + fluidized bed stage)"
+          "question": "Does it, in that context, explicitly describe the use of a hybrid reactor as an anaerobic digester, where here hybrid reactor is considered as a mix of two reactor designs (example UASB with fixed bed inside), this category should exclude reactors called hybrid but that are two or more reactors put into series (example fixed bed stage + fluidized bed stage)? \n"
         },
         {
           "qid": 35,
-          "question": "Does it, in that context, explicitly describe the use of a multistage reactor as an anaerobic digester, where here multistage is defined as two or more reactors in series for the process of anaerobic digestion (for example leach bed reactor in combination with high rate reactor such as UASB, or multiple CSTR in series), care needs to be put into consideration in reading the text appropriately for this question, as certain researcher might call their reactor hybrid even though it is only reactors put into series."
+          "question": "Does it, in that context, explicitly describe the use of a multistage reactor as an anaerobic digester, where here multistage is defined as two or more reactors in series for the process of anaerobic digestion (for example leach bed reactor in combination with high rate reactor such as UASB, or multiple CSTR in series), care needs to be put into consideration in reading the text appropriately for this question, as certain researcher might call their reactor hybrid even though it is only reactors put into series.? \n"
         },
         {
           "qid": 36,
-          "question": "Does it, in that context, explicitly describe the use of a small scale reactor as an anaerobic digester, here defined as low tech reactors with no heating or mixing, such as fixed dome, floating drum or tubular reactors (usually made out of plastic, the text needs to make it clear that it is such a low tech reactor)"
+          "question": "Does it, in that context, explicitly describe the use of a small scale reactor as an anaerobic digester, here defined as low tech reactors with no heating or mixing, such as fixed dome, floating drum or tubular reactors (usually made out of plastic, the text needs to make it clear that it is such a low tech reactor)? \n"
         },
         {
           "qid": 37,
-          "question": "Does it, in that context, explicitly describe the use of a lagoon reactor as an anaerobic digester, defined as a large covered reactor with no mixing and often no heating"
+          "question": "Does it, in that context, explicitly describe the use of a lagoon reactor as an anaerobic digester, defined as a large covered reactor with no mixing and often no heating? \n"
         },
         {
           "qid": 38,
@@ -170,35 +170,35 @@
         },
         {
           "qid": 39,
-          "question": "Does it, in that context, explicitly describe the use of a rotating disk or rotating contactor reactor as an anaerobic digester, defined as a reactor in which one or more disks rotate within the reactor volume to promote attached and suspended biomass growth through periodic contact with the substrate"
+          "question": "Does it, in that context, explicitly describe the use of a rotating disk or rotating contactor reactor as an anaerobic digester, defined as a reactor in which one or more disks rotate within the reactor volume to promote attached and suspended biomass growth through periodic contact with the substrate? \n"
         },
         {
           "qid": 40,
-          "question": "Does it, in that context, explicitly describe the use of a gradual concentric chambers reactor as an anaerobic digester, defined as a reactor composed of concentric zones or chambers enabling sequential anaerobic (and potentially aerobic) treatment within a single structure"
+          "question": "Does it, in that context, explicitly describe the use of a gradual concentric chambers reactor as an anaerobic digester, defined as a reactor composed of concentric zones or chambers enabling sequential anaerobic (and potentially aerobic) treatment within a single structure? \n"
         },
         {
           "qid": 41,
-          "question": "Does it, in that context, explicitly describe the use of a tower reactor as an anaerobic digester, defined as a vertical, modular reactor in which biogas-induced circulation or gas-lift effects promote mixing and biomass suspension, including tower or multiplate configurations"
+          "question": "Does it, in that context, explicitly describe the use of a tower reactor as an anaerobic digester, defined as a vertical, modular reactor in which biogas-induced circulation or gas-lift effects promote mixing and biomass suspension, including tower or multiplate configurations? \n"
         },
         {
           "qid": 42,
-          "question": "Does it, in that context, explicitly describe the use of a loop reactor as an anaerobic digester, defined as a reactor incorporating a physical loop that recirculates the substrate through the system, typically driven by biogas lift or mechanical means to enhance mixing and mass transfer"
+          "question": "Does it, in that context, explicitly describe the use of a loop reactor as an anaerobic digester, defined as a reactor incorporating a physical loop that recirculates the substrate through the system, typically driven by biogas lift or mechanical means to enhance mixing and mass transfer? \n"
         },
         {
           "qid": 44,
-          "question": "Does it, in that context, explicitly describe the use of a hydraulic flush reactor as an anaerobic digester, defined as a semi-continuous mixed reactor in which a portion of the digestate is periodically removed, phase-separated, and partially returned to the reactor to reduce inhibition effects and control process conditions"
+          "question": "Does it, in that context, explicitly describe the use of a hydraulic flush reactor as an anaerobic digester, defined as a semi-continuous mixed reactor in which a portion of the digestate is periodically removed, phase-separated, and partially returned to the reactor to reduce inhibition effects and control process conditions? \n"
         },
         {
           "qid": 45,
-          "question": "Does it, in that context, explicitly describe the use of a bionic reactor as an anaerobic digester, defined as a reactor or process design inspired by biological digestion systems, such as animal gastrointestinal tracts, potentially involving multi-stage configurations or bioaugmentation strategies"
+          "question": "Does it, in that context, explicitly describe the use of a bionic reactor as an anaerobic digester, defined as a reactor or process design inspired by biological digestion systems, such as animal gastrointestinal tracts, potentially involving multi-stage configurations or bioaugmentation strategies? \n"
         },
         {
           "qid": 46,
-          "question": "Does it, in that context, explicitly describe the use of a labyrinth flow reactor as an anaerobic digester, defined as a compartmentalized reactor with a complex up- and down-flow path designed to separate or control acidogenic and methanogenic phases, similar in operation to a baffled reactor"
+          "question": "Does it, in that context, explicitly describe the use of a labyrinth flow reactor as an anaerobic digester, defined as a compartmentalized reactor with a complex up- and down-flow path designed to separate or control acidogenic and methanogenic phases, similar in operation to a baffled reactor? \n"
         },
         {
           "qid": 47,
-          "question": "Does it, in that context, explicitly describe the use of a self-flotation reactor as an anaerobic digester, defined as an upflow reactor in which biogas bubbles are intentionally used to attach to and float suspended solids for separation or retention within the system"
+          "question": "Does it, in that context, explicitly describe the use of a self-flotation reactor as an anaerobic digester, defined as an upflow reactor in which biogas bubbles are intentionally used to attach to and float suspended solids for separation or retention within the system? \n"
         }
       ]
     },
@@ -208,35 +208,35 @@
       "questions": [
         {
           "qid": 19,
-          "question": "Does the article describe additional treatments applied to the substrate or reactor before or during digestion to optimize the digestion process, (considering treatments that do not have as goal the improvement of bioavailability of material like you would have with physical, chemical, or biological treatment), treatments such as nutrient addition, disinhibition with: coagulants, biochar, ammonia stripping,..., chelating agent or the use of nanoparticles but excluding these ones other similar treatments, it can be simple things such as washing in algae to remove salt for example"
+          "question": "Does the article describe additional treatments applied to the substrate or reactor before or during digestion to optimize the digestion process, (considering treatments that do not have as goal the improvement of bioavailability of material like you would have with physical, chemical, or biological treatment), treatments such as nutrient addition, disinhibition with: coagulants, biochar, ammonia stripping,..., chelating agent or the use of nanoparticles but excluding these ones other similar treatments, it can be simple things such as washing in algae to remove salt for example? \n"
         },
         {
           "qid": 48,
-          "question": "Does it, in that context, explicitly describe the use of the digestate as a fertilizer"
+          "question": "Does it, in that context, explicitly describe the use of the digestate as a fertilizer? \n"
         },
         {
           "qid": 49,
-          "question": "Does it, in that context, explicitly describe the use of the biogas directly as an energy source, this means research around biogas performance/advantages/disadvantages for electricity, cooking,..."
+          "question": "Does it, in that context, explicitly describe the use of the biogas directly as an energy source, this means research around biogas performance/advantages/disadvantages for electricity, cooking,...? \n"
         },
         {
           "qid": 50,
-          "question": "Does it, in that context, explicitly discuss the biogas adoption subject around social issues"
+          "question": "Does it, in that context, explicitly discuss the biogas adoption subject around social issues? \n"
         },
         {
           "qid": 51,
-          "question": "Does it, in that context, explicitly discuss the biogas adoption subject around economical issues"
+          "question": "Does it, in that context, explicitly discuss the biogas adoption subject around economical issues? \n"
         },
         {
           "qid": 52,
-          "question": "Does it, in that context, explicitly discuss the biomass potential of a substrate or a geographic area"
+          "question": "Does it, in that context, explicitly discuss the biomass potential of a substrate or a geographic area? \n"
         },
         {
           "qid": 53,
-          "question": "Does it, in that context, explicitly describe the enhancement of digestate as a fertilizer through nutrient addition"
+          "question": "Does it, in that context, explicitly describe the enhancement of digestate as a fertilizer through nutrient addition? \n"
         },
         {
           "qid": 54,
-          "question": "Does it, in that context, explicitly describe the enhancement of digestate as a fertilizer through drying"
+          "question": "Does it, in that context, explicitly describe the enhancement of digestate as a fertilizer through drying? \n"
         },
         {
           "qid": 55,

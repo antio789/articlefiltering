@@ -1,0 +1,28 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Shredding operation (I-PT) - Low speed knife mill with water/TS ratio 10:1, reduces particle size"
+    },
+    {
+      "id": 1,
+      "description": "Shredding and Mixing operation (II-PT) - Combines shredding with water addition (10:1), favors organic compound extraction, pulping operation"
+    },
+    {
+      "id": 2,
+      "description": "Shredding, Mixing and Blending operation (III-PT) - Combines shredding, mixing and fine blending (like wet grinders), alters lignocellulosic structure, creates homogeneous liquid slurry"
+    },
+    {
+      "id": 3,
+      "description": "Hammer Mill - Mobile hammer mill (Noremat Valormax BA915D) at full-scale site La Bouzule"
+    },
+    {
+      "id": 4,
+      "description": "Hammer Mill - Fixed hammer mill (unknown device, on-line) at full-scale site"
+    },
+    {
+      "id": 5,
+      "description": "Chain mill (X-Chopper) at full-scale site METHELEC - Xergi brand, 10:1 water/TS ratio"
+    }
+  ]
+}

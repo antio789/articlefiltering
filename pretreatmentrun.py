@@ -34,6 +34,7 @@ def llm_prompt(string):
 
 
 '''INITIALIZING CONTENT'''
+pretreatment_identification_prompt = read_file("prompts/pretreatment_prefilter")
 article_prompt = read_file("prompts/article_prompt")
 article_questions = read_json('prompts/q_articles.json')
 

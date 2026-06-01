@@ -1,0 +1,69 @@
+{
+  "manual_review": [
+    [
+      "553",
+      "mechanical disintegration"
+    ],
+    [
+      "553",
+      "enzyme"
+    ],
+    [
+      "553",
+      "fungi"
+    ]
+  ],
+  "llm_review": [
+    [
+      "553",
+      "mechanical disintegration"
+    ],
+    [
+      "553",
+      "thermal"
+    ],
+    [
+      "553",
+      "pressure"
+    ],
+    [
+      "553",
+      "enzyme"
+    ],
+    [
+      "553",
+      "fungi"
+    ]
+  ],
+  "correct_predictions": 3,
+  "false_predictions": 2,
+  "missed_predictions": 0,
+  "precision": 0.6,
+  "recall": 1.0,
+  "f1_score": 0.75,
+  "correct_items": [
+    [
+      "553",
+      "mechanical disintegration"
+    ],
+    [
+      "553",
+      "enzyme"
+    ],
+    [
+      "553",
+      "fungi"
+    ]
+  ],
+  "false_items": [
+    [
+      "553",
+      "thermal"
+    ],
+    [
+      "553",
+      "pressure"
+    ]
+  ],
+  "missed_items": []
+}

@@ -1,0 +1,28 @@
+{
+  "manual_review": [
+    [
+      "1832",
+      "acidic"
+    ]
+  ],
+  "llm_review": [
+    [
+      "1832",
+      "acidic"
+    ]
+  ],
+  "correct_predictions": 1,
+  "false_predictions": 0,
+  "missed_predictions": 0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1_score": 1.0,
+  "correct_items": [
+    [
+      "1832",
+      "acidic"
+    ]
+  ],
+  "false_items": [],
+  "missed_items": []
+}

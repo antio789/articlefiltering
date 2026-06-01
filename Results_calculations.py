@@ -2,7 +2,7 @@ import csv
 import glob
 import json
 import os
-
+import re
 
 ### Gathering the filters obtained from the manual filtering for the article list
 
@@ -95,7 +95,7 @@ def get_manual_review_article(artid): #Make sure there are no duplicates in the 
         if doi == "":
             raise Exception(f"Error article not found for id: {artid}")
     results = []
-    with open('data/pretreatment_complete_list.csv',encoding='utf-8') as f:
+    with open('data/pretreatment0106.csv',encoding='utf-8') as f:
         reader = csv.reader(f, delimiter=";")
         for row in reader:
             if doi == row[5]:
@@ -116,7 +116,7 @@ def get_llm_review(jfile,art_id):
         filters = data.get("filters")
         for item in filters:
             answer = str(item.get("answer")).lower()
-            if "true" in answer:
+            if re.search(r'\btrue\b', answer):
                 qid = item.get("qid")
                 pretreatment = pretreatment_map[qid]
                 datapoint = [art_id, pretreatment]
@@ -354,8 +354,9 @@ def calculate_reactor(runname):
 
 ### Run
 print("start comparison calculation")
-calculate_pretreatment('qwen80k2505')
-#87 should be checked as missing some pretreatments
+calculate_pretreatment('qwen80k0106')
+
+
 
 
 ### Helper functions not in use

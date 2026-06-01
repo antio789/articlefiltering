@@ -1,0 +1,57 @@
+{
+  "manual_review": [
+    [
+      "752",
+      "mechanical disintegration"
+    ],
+    [
+      "752",
+      "enzyme"
+    ]
+  ],
+  "llm_review": [
+    [
+      "752",
+      "mechanical disintegration"
+    ],
+    [
+      "752",
+      "enzyme"
+    ],
+    [
+      "752",
+      "biological active substrate"
+    ],
+    [
+      "752",
+      "disinhibition"
+    ]
+  ],
+  "correct_predictions": 2,
+  "false_predictions": 2,
+  "missed_predictions": 0,
+  "precision": 0.5,
+  "recall": 1.0,
+  "f1_score": 0.6667,
+  "correct_items": [
+    [
+      "752",
+      "mechanical disintegration"
+    ],
+    [
+      "752",
+      "enzyme"
+    ]
+  ],
+  "false_items": [
+    [
+      "752",
+      "biological active substrate"
+    ],
+    [
+      "752",
+      "disinhibition"
+    ]
+  ],
+  "missed_items": []
+}

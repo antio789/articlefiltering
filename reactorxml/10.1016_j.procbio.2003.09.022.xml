@@ -1,0 +1,1859 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0032959203003704</prism:url><dc:identifier>doi:10.1016/j.procbio.2003.09.022</dc:identifier><eid>1-s2.0-S0032959203003704</eid><prism:doi>10.1016/j.procbio.2003.09.022</prism:doi><pii>S0032-9592(03)00370-4</pii><dc:title>Mesophilic anaerobic digestion in a fluidised-bed reactor of wastewater from the production of protein isolates from chickpea flour </dc:title><prism:publicationName>Process Biochemistry</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>13595113</prism:issn><prism:volume>39</prism:volume><prism:issueIdentifier>12</prism:issueIdentifier><prism:startingPage>1913</prism:startingPage><prism:endingPage>1921</prism:endingPage><prism:pageRange>1913-1921</prism:pageRange><prism:number>12</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2004-10-29</prism:coverDate><prism:coverDisplayDate>29 October 2004</prism:coverDisplayDate><prism:copyright>Copyright © 2003 Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd.</prism:publisher><dc:creator>Borja, R.</dc:creator><dc:creator>Rincón, B.</dc:creator><dc:creator>Raposo, F.</dc:creator><dc:creator>Domı́nguez, J.R.</dc:creator><dc:creator>Millán, F.</dc:creator><dc:creator>Martı́n, A.</dc:creator><dc:description>
+                  A study of the anaerobic digestion of wastewater derived from the production of protein isolates from chickpea flour was carried out in a laboratory-scale, mesophilic (35°C) fluidised-bed reactor with saponite as bacterial support. Soluble chemical oxygen demand (SCOD) removal efficiencies in the range of 96.8–85.2% were achieved in the reactor at organic loading rates (OLR) of between 0.58 and 2.10g chemical oxygen demand (COD)/l per day, hydraulic retention times (HRT) of between 14.9 and 4.5 days and average feed COD concentration of 9.1g/l. Eighty-five percent of feed COD could be removed up to OLR of 2.1gCOD/l per day. The yield coefficient of methane production was 0.34l of methane (at STP) per gram COD removed and was virtually independent of the OLR applied. Because the buffering capacity of the experimental system was maintained at favourable levels with excess total alkalinity present at all loadings, the rate of methanogenesis was not affected by loading. Experimental data indicated that a total alkalinity in the range of 1090–2130mg/l as CaCO3 was sufficient to prevent the pH from decreasing to below 7.2 for OLR of up to 2.7g COD/l per day. The volatile fatty acid (VFA) levels and the VFA/alkalinity ratio were lower than the suggested limits for digester failure (0.3–0.4) for OLR and HRT up to 2.7g COD/l per day and 3.5 days, respectively. For a HRT of 2.8 days (OLR of 3.00g COD/l per day) the start of acidification was observed in the reactor.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Mesophilic anaerobic digestion</dcterms:subject><dcterms:subject>Fluidised-bed reactor</dcterms:subject><dcterms:subject>Wastewater</dcterms:subject><dcterms:subject>Protein isolates</dcterms:subject><dcterms:subject>Chickpea flour</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0032959203003704" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0032959203003704" rel="scidir"/></coredata><objects><object ref="si2" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="160" height="18" size="694">https://api.elsevier.com/content/object/eid/1-s2.0-S0032959203003704-si2.gif?httpAccept=%2A%2F%2A</object><object ref="si1" category="thumbnail" type="ALTIMG" multimediatype="GIF image file" mimetype="image/gif" width="102" height="18" size="481">https://api.elsevier.com/content/object/eid/1-s2.0-S0032959203003704-si1.gif?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="120" height="93" size="989">https://api.elsevier.com/content/object/eid/1-s2.0-S0032959203003704-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="485" height="376" size="6133">https://api.elsevier.com/content/object/eid/1-s2.0-S0032959203003704-gr1.gif?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="117" height="93" size="758">https://api.elsevier.com/content/object/eid/1-s2.0-S0032959203003704-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="505" height="402" size="4896">https://api.elsevier.com/content/object/eid/1-s2.0-S0032959203003704-gr2.gif?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="112" height="94" size="989">https://api.elsevier.com/content/object/eid/1-s2.0-S0032959203003704-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="461" height="385" size="6102">https://api.elsevier.com/content/object/eid/1-s2.0-S0032959203003704-gr3.gif?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="120" height="94" size="927">https://api.elsevier.com/content/object/eid/1-s2.0-S0032959203003704-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="463" height="361" size="5229">https://api.elsevier.com/content/object/eid/1-s2.0-S0032959203003704-gr4.gif?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="122" height="93" size="836">https://api.elsevier.com/content/object/eid/1-s2.0-S0032959203003704-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="470" height="360" size="4704">https://api.elsevier.com/content/object/eid/1-s2.0-S0032959203003704-gr5.gif?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="123" height="93" size="1023">https://api.elsevier.com/content/object/eid/1-s2.0-S0032959203003704-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="487" height="369" size="6151">https://api.elsevier.com/content/object/eid/1-s2.0-S0032959203003704-gr6.gif?httpAccept=%2A%2F%2A</object><object ref="gr7" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="112" height="93" size="847">https://api.elsevier.com/content/object/eid/1-s2.0-S0032959203003704-gr7.sml?httpAccept=%2A%2F%2A</object><object ref="gr7" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="482" height="401" size="5354">https://api.elsevier.com/content/object/eid/1-s2.0-S0032959203003704-gr7.gif?httpAccept=%2A%2F%2A</object></objects><scopus-id>4344564704</scopus-id><scopus-eid>2-s2.0-4344564704</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/4344564704" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271450</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291808</xocs:ssid>
+         <xocs:ssid type="subj">291832</xocs:ssid>
+         <xocs:ssid type="subj">291847</xocs:ssid>
+         <xocs:ssid type="subj">291850</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Process Biochemistry</xocs:srctitle>
+      <xocs:normalized-srctitle>PROCESSBIOCHEMISTRY</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20031204">2003-12-04</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20031204">2003-12-04</xocs:available-online-date>
+      <xocs:ew-transaction-id>2010-04-18T12:05:35</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0032959203003704</xocs:eid>
+      <xocs:pii-formatted>S0032-9592(03)00370-4</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0032959203003704</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.procbio.2003.09.022</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0032959200X01227</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150514">2015-05-14T02:22:05.738447-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20041029</xocs:date-search-begin>
+      <xocs:year-nav>2004</xocs:year-nav>
+      <xocs:indexeddate epoch="1070496000">2003-12-04T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>1359-5113</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>13595113</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:vol-first>39</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>39</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>12</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>12</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 39, Issue 12</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>13</xocs:sort-order>
+      <xocs:first-fp>1913</xocs:first-fp>
+      <xocs:last-lp>1921</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>1913</xocs:first-page>
+         <xocs:last-page>1921</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20041029</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>29 October 2004</xocs:cover-date-text>
+      <xocs:cover-date-start>2004-10-29</xocs:cover-date-start>
+      <xocs:cover-date-year>2004</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2003 Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>MESOPHILICANAEROBICDIGESTIONINAFLUIDISEDBEDREACTORWASTEWATERPRODUCTIONPROTEINISOLATESCHICKPEAFLOUR</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>BORJA</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>R</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Materials and methods</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Equipment</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Support</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Wastewater</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Inoculum</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.5</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Experimental procedure</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.6</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Chemical analyses</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Influence of organic loading rate on the COD removal efficiency in the reactor</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Operational parameters</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Methane yield coefficient</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>OLTHOF</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1321</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1326</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>GUJER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>123</xocs:ref-first-fp>
+            <xocs:ref-last-lp>167</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>SPEECE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>416</xocs:ref-first-fp>
+            <xocs:ref-last-lp>427</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4"/>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>KIDA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>354</xocs:ref-first-fp>
+            <xocs:ref-last-lp>359</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6"/>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>ELLWOOD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>517</xocs:ref-first-fp>
+            <xocs:ref-last-lp>532</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>JERIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>169</xocs:ref-first-fp>
+            <xocs:ref-last-lp>176</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>IZA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1991</xocs:ref-pub-year>
+            <xocs:ref-first-fp>109</xocs:ref-first-fp>
+            <xocs:ref-last-lp>132</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>MURRAY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1981</xocs:ref-pub-year>
+            <xocs:ref-first-fp>257</xocs:ref-first-fp>
+            <xocs:ref-last-lp>265</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>HUYSMAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>643</xocs:ref-first-fp>
+            <xocs:ref-last-lp>648</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12"/>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>PEREZRODRIGUEZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>69</xocs:ref-first-fp>
+            <xocs:ref-last-lp>82</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>FIESTAS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>131</xocs:ref-first-fp>
+            <xocs:ref-last-lp>142</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB15">
+            <xocs:ref-normalized-surname>BORJA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1994</xocs:ref-pub-year>
+            <xocs:ref-first-fp>859</xocs:ref-first-fp>
+            <xocs:ref-last-lp>864</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB16">
+            <xocs:ref-normalized-surname>FIESTAS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-first-fp>145</xocs:ref-first-fp>
+            <xocs:ref-last-lp>153</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB17">
+            <xocs:ref-normalized-surname>MAQUEDA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>811</xocs:ref-first-fp>
+            <xocs:ref-last-lp>819</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB18">
+            <xocs:ref-normalized-surname>BORJA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>45</xocs:ref-first-fp>
+            <xocs:ref-last-lp>52</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB19">
+            <xocs:ref-normalized-surname>BORJA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1994</xocs:ref-pub-year>
+            <xocs:ref-first-fp>645</xocs:ref-first-fp>
+            <xocs:ref-last-lp>650</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB20">
+            <xocs:ref-normalized-surname>BORJA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>251</xocs:ref-first-fp>
+            <xocs:ref-last-lp>259</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB21">
+            <xocs:ref-normalized-surname>CHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>183</xocs:ref-first-fp>
+            <xocs:ref-last-lp>190</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB22"/>
+         <xocs:ref-info refid="BIB23"/>
+         <xocs:ref-info refid="BIB24">
+            <xocs:ref-normalized-surname>LAWRENCE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1969</xocs:ref-pub-year>
+            <xocs:ref-first-fp>R1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>R16</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>BORJAX2004X1913</xocs:refkey3>
+         <xocs:refkey4lp>BORJAX2004X1913X1921</xocs:refkey4lp>
+         <xocs:refkey4ai>BORJAX2004X1913XR</xocs:refkey4ai>
+         <xocs:refkey5>BORJAX2004X1913X1921XR</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0032-9592(03)00370-4</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0032959203003704</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0032959203003704</xocs:eid>
+         <xocs:doi>10.1016/j.procbio.2003.09.022</xocs:doi>
+         <xocs:cid>271450</xocs:cid>
+         <xocs:timestamp>2010-10-08T09:16:51.102256-04:00</xocs:timestamp>
+         <xocs:cover-date-start>2004-10-29</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0032959203003704-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0032959203003704/MAIN/application/pdf/91b52716d78ff9f8a8b44e4818863f6a/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032959203003704/MAIN/application/pdf/91b52716d78ff9f8a8b44e4818863f6a/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>115035</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>9</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0032959203003704-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0032959203003704/PREVIEW/image/png/5afbfae2625a8d5a0c024fadacd625a2/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032959203003704/PREVIEW/image/png/5afbfae2625a8d5a0c024fadacd625a2/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>68103</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0032959203003704-si2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0032959203003704/STRIPIN/image/gif/6c15529a8fb6184acf2a5a398b7a4d19/si2.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032959203003704/STRIPIN/image/gif/6c15529a8fb6184acf2a5a398b7a4d19/si2.gif</xocs:ucs-locator>
+               <xocs:file-basename>si2</xocs:file-basename>
+               <xocs:filename>si2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>694</xocs:filesize>
+               <xocs:pixel-height>18</xocs:pixel-height>
+               <xocs:pixel-width>160</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0032959203003704-si1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0032959203003704/STRIPIN/image/gif/a5caf484c89194a1601a43165ee12275/si1.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032959203003704/STRIPIN/image/gif/a5caf484c89194a1601a43165ee12275/si1.gif</xocs:ucs-locator>
+               <xocs:file-basename>si1</xocs:file-basename>
+               <xocs:filename>si1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>481</xocs:filesize>
+               <xocs:pixel-height>18</xocs:pixel-height>
+               <xocs:pixel-width>102</xocs:pixel-width>
+               <xocs:attachment-type>ALTIMG</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0032959203003704-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0032959203003704/gr1/THUMBNAIL/image/gif/0dd11d7a0ec39797b5c4650f7c2b455f/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032959203003704/gr1/THUMBNAIL/image/gif/0dd11d7a0ec39797b5c4650f7c2b455f/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>989</xocs:filesize>
+               <xocs:pixel-height>93</xocs:pixel-height>
+               <xocs:pixel-width>120</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0032959203003704-gr1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0032959203003704/gr1/DOWNSAMPLED/image/gif/c94842ca322e39d83df4246eb2aace11/gr1.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032959203003704/gr1/DOWNSAMPLED/image/gif/c94842ca322e39d83df4246eb2aace11/gr1.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>6133</xocs:filesize>
+               <xocs:pixel-height>376</xocs:pixel-height>
+               <xocs:pixel-width>485</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0032959203003704-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0032959203003704/gr2/THUMBNAIL/image/gif/36a846cf813ddcfb9513d3cc00ffbf70/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032959203003704/gr2/THUMBNAIL/image/gif/36a846cf813ddcfb9513d3cc00ffbf70/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>758</xocs:filesize>
+               <xocs:pixel-height>93</xocs:pixel-height>
+               <xocs:pixel-width>117</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0032959203003704-gr2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0032959203003704/gr2/DOWNSAMPLED/image/gif/e41829d6d963d13442130b170764e15d/gr2.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032959203003704/gr2/DOWNSAMPLED/image/gif/e41829d6d963d13442130b170764e15d/gr2.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>4896</xocs:filesize>
+               <xocs:pixel-height>402</xocs:pixel-height>
+               <xocs:pixel-width>505</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0032959203003704-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0032959203003704/gr3/THUMBNAIL/image/gif/165ba998f57708946721b4cb4382ff9c/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032959203003704/gr3/THUMBNAIL/image/gif/165ba998f57708946721b4cb4382ff9c/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>989</xocs:filesize>
+               <xocs:pixel-height>94</xocs:pixel-height>
+               <xocs:pixel-width>112</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0032959203003704-gr3.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0032959203003704/gr3/DOWNSAMPLED/image/gif/2a728d4dfd345fbc987882f7bbd9d386/gr3.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032959203003704/gr3/DOWNSAMPLED/image/gif/2a728d4dfd345fbc987882f7bbd9d386/gr3.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>6102</xocs:filesize>
+               <xocs:pixel-height>385</xocs:pixel-height>
+               <xocs:pixel-width>461</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0032959203003704-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0032959203003704/gr4/THUMBNAIL/image/gif/37e8cff5b66bc3654191b86dba7814f7/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032959203003704/gr4/THUMBNAIL/image/gif/37e8cff5b66bc3654191b86dba7814f7/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>927</xocs:filesize>
+               <xocs:pixel-height>94</xocs:pixel-height>
+               <xocs:pixel-width>120</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0032959203003704-gr4.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0032959203003704/gr4/DOWNSAMPLED/image/gif/1eee5e8094a99b10f63b068f69d05b2c/gr4.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032959203003704/gr4/DOWNSAMPLED/image/gif/1eee5e8094a99b10f63b068f69d05b2c/gr4.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>5229</xocs:filesize>
+               <xocs:pixel-height>361</xocs:pixel-height>
+               <xocs:pixel-width>463</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0032959203003704-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0032959203003704/gr5/THUMBNAIL/image/gif/a3be187e9a4f7dd01fb64e1ac9bd65ec/gr5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032959203003704/gr5/THUMBNAIL/image/gif/a3be187e9a4f7dd01fb64e1ac9bd65ec/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>836</xocs:filesize>
+               <xocs:pixel-height>93</xocs:pixel-height>
+               <xocs:pixel-width>122</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0032959203003704-gr5.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0032959203003704/gr5/DOWNSAMPLED/image/gif/900602e171e9ca28b905b74e4eb93916/gr5.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032959203003704/gr5/DOWNSAMPLED/image/gif/900602e171e9ca28b905b74e4eb93916/gr5.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>4704</xocs:filesize>
+               <xocs:pixel-height>360</xocs:pixel-height>
+               <xocs:pixel-width>470</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0032959203003704-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0032959203003704/gr6/THUMBNAIL/image/gif/70f8d2f82d9a31440314705fd3bc2eb9/gr6.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032959203003704/gr6/THUMBNAIL/image/gif/70f8d2f82d9a31440314705fd3bc2eb9/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1023</xocs:filesize>
+               <xocs:pixel-height>93</xocs:pixel-height>
+               <xocs:pixel-width>123</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0032959203003704-gr6.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0032959203003704/gr6/DOWNSAMPLED/image/gif/9733943fe6cb423d7e749b805653dfbb/gr6.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032959203003704/gr6/DOWNSAMPLED/image/gif/9733943fe6cb423d7e749b805653dfbb/gr6.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>6151</xocs:filesize>
+               <xocs:pixel-height>369</xocs:pixel-height>
+               <xocs:pixel-width>487</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0032959203003704-gr7.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0032959203003704/gr7/THUMBNAIL/image/gif/6483f2f02073e98c9aee2c412a4c72e4/gr7.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032959203003704/gr7/THUMBNAIL/image/gif/6483f2f02073e98c9aee2c412a4c72e4/gr7.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>847</xocs:filesize>
+               <xocs:pixel-height>93</xocs:pixel-height>
+               <xocs:pixel-width>112</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0032959203003704-gr7.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0032959203003704/gr7/DOWNSAMPLED/image/gif/77bd748a1eb49a55d4b20f8df41dd650/gr7.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0032959203003704/gr7/DOWNSAMPLED/image/gif/77bd748a1eb49a55d4b20f8df41dd650/gr7.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>5354</xocs:filesize>
+               <xocs:pixel-height>401</xocs:pixel-height>
+               <xocs:pixel-width>482</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>PRBI</jid>
+            <aid>7084</aid>
+            <ce:pii>S0032-9592(03)00370-4</ce:pii>
+            <ce:doi>10.1016/j.procbio.2003.09.022</ce:doi>
+            <ce:copyright type="full-transfer" year="2003">Elsevier Ltd</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="FIG1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Variation in the percentage of COD removal with organic loading rate (g COD/l per day) of the reactor. The values of HRT corresponding to the OLR values plotted were: 14.9, 13.0, 11.1, 9.5, 6.7, 6.0, 5.5, 5.0, 4.5, 4.1, 3.8, 3.5 and 2.8 days. The values plotted are the averages of six determinations taken over 6 days after the steady-state conditions had been reached. The differences between the observed values were less than 3% in all cases.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="FIG2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Variation of the COD removal rate (g COD/l per day) with organic loading rate (g COD/l per day) of the reactor. The values of HRT corresponding to the OLR values plotted were: 14.9, 13.0, 11.1, 9.5, 6.7, 6.0, 5.5, 5.0, 4.5, 4.1, 3.8, 3.5 and 2.8 days. The values plotted are the averages of six determinations taken over 6 days after the steady-state conditions had been reached. The differences between the observed values were less than 3% in all cases.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="FIG3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Variation of the total and soluble effluent COD (g/l) with organic loading rate (g COD/l per day) of the reactor. The values of HRT corresponding to the OLR values plotted were: 14.9, 13.0, 11.1, 9.5, 6.7, 6.0, 5.5, 5.0, 4.5, 4.1, 3.8, 3.5 and 2.8 days. The values plotted are the averages of six determinations taken over 6 days after the steady-state conditions had been reached. The differences between the observed values were less than 3% in all cases.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:figure id="FIG4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Variation of the volatile fatty acid (mg acetic acid/l) with organic loading rate (g COD/l per day) of the reactor. The values of HRT corresponding to the OLR values plotted were: 14.9, 13.0, 11.1, 9.5, 6.7, 6.0, 5.5, 5.0, 4.5, 4.1, 3.8, 3.5 and 2.8 days. The values plotted are the averages of six determinations taken over 6 days after the steady-state conditions had been reached. The differences between the observed values were less than 3% in all cases.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4"/>
+            </ce:figure>
+            <ce:figure id="FIG5">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Effect of HRT (days) on the percentages of soluble COD removal. The values plotted are the averages of six determinations taken over 6 days after the steady-state conditions had been reached. The differences between the observed values were less than 3% in all cases.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5"/>
+            </ce:figure>
+            <ce:figure id="FIG6">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Variation of the methane production rate (l<ce:hsp sp="0.25"/>CH<ce:inf loc="post">4</ce:inf>/l per day) with the organic loading rate (g<ce:hsp sp="0.25"/>COD/l per day) of the reactor. The values plotted are the averages of six determinations taken over 6 days after the steady-state conditions had been reached. The differences between the observed values were less than 3% in all cases.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr6"/>
+            </ce:figure>
+            <ce:figure id="FIG7">
+               <ce:label>Fig. 7</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Variation of the volume of gas produced per day, <ce:italic>V</ce:italic>
+                     <ce:inf loc="post">methane</ce:inf>, as a function of the product of the differences of substrate concentrations at the reactor inlet (<ce:italic>S</ce:italic>
+                     <ce:inf loc="post">0</ce:inf>) and outlet (<ce:italic>S</ce:italic>) and the feed flow-rate (<ce:italic>q</ce:italic>). The values plotted are the averages of six determinations taken over 6 days after the steady-state conditions had been reached. The differences between the observed values were less than 3% in all cases.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr7"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="TBL1" colsep="0" rowsep="0" frame="topbot">
+               <ce:label>Table 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Composition of the waste water<ce:cross-ref refid="TBLFN1">
+                        <ce:sup loc="post">a</ce:sup>
+                     </ce:cross-ref>
+                  </ce:simple-para>
+               </ce:caption>
+               <tgroup cols="2">
+                  <colspec colname="col1" colsep="0"/>
+                  <colspec colname="col2" colsep="0"/>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">pH</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">4.14</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Total chemical oxygen demand (g/l)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">9.10</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Soluble chemical oxygen demand (g/l)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">7.25</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Total suspended solids (g/l)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">10.8</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Mineral suspended solids (g/l)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3.0</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Volatile suspended solids (g/l)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">7.8</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Total solids (g/l)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.9</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Mineral solids (g/l)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">–</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Volatile solids (g/l)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.9</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Volatile acidity (as acetic acid) (g/l)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.37</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:table-footnote id="TBLFN1">
+                  <ce:label>a</ce:label>
+                  <ce:note-para>Values are averages of seven determinations; there was virtually no variation (less than 5%) between analyses.</ce:note-para>
+               </ce:table-footnote>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="TBL2" colsep="0" rowsep="0" frame="topbot">
+               <ce:label>Table 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Composition of the nutrient and trace-element solutions</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="2">
+                  <colspec colname="col1" colsep="0"/>
+                  <colspec colname="col2" colsep="0"/>
+                  <thead>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col2">Nutrient solution</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">NH<inf loc="post">4</inf>Cl (g/l)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.4</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">KH<inf loc="post">2</inf>PO<inf loc="post">4</inf> (g/l)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.25</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">MgSO<inf loc="post">4</inf>·7H<inf loc="post">2</inf>O (g/l)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.5</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">CaCl<inf loc="post">2</inf> (g/l)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.04</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">NaNO<inf loc="post">3</inf> (g/l)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.0</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Yeast extract (g/l)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.5</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col2">
+                           <vsp sp="0.5"/>Trace element solution (total concentration in the nutrient solution: 5<hsp sp="0.25"/>ml/l)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <vsp sp="0.5"/>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">FeCl<inf loc="post">2</inf> 4H<inf loc="post">2</inf>O (mg/l)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2000</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">CoCl<inf loc="post">2</inf> 6H<inf loc="post">2</inf>O (mg/l)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2000</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">MnCl<inf loc="post">2</inf> (mg/l)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">318</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">CuCl<inf loc="post">2</inf> (mg/l)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">24</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">ZnCl<inf loc="post">2</inf> (mg/l)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">50</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">H<inf loc="post">3</inf>BO<inf loc="post">3</inf> (mg/l)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">50</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">(NH<inf loc="post">4</inf>)<inf loc="post">6</inf>Mo<inf loc="post">7</inf>O<inf loc="post">24</inf>·4H<inf loc="post">2</inf>O (mg/l)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">90</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Na<inf loc="post">2</inf>SeO<inf loc="post">3</inf> (mg/l)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">68</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">NiCl<inf loc="post">2</inf>·6H<inf loc="post">2</inf>O (mg/l)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">50</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">EDTA (mg/l)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1000</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">HCl 36% (ml/l)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Resarzurine (mg/l)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">500</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="TBL3" colsep="0" rowsep="0" frame="topbot">
+               <ce:label>Table 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Anaerobic digestion under different experimental conditions<ce:cross-ref refid="TBLFN2">
+                        <ce:sup loc="post">a</ce:sup>
+                     </ce:cross-ref>
+                  </ce:simple-para>
+               </ce:caption>
+               <tgroup cols="6">
+                  <colspec colname="col1" colsep="0"/>
+                  <colspec colname="col2" colsep="0"/>
+                  <colspec colname="col3" colsep="0"/>
+                  <colspec colname="col4" colsep="0"/>
+                  <colspec colname="col5" colsep="0"/>
+                  <colspec colname="col6" colsep="0"/>
+                  <thead>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">HRT (day)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">OLR (g COD/l per day)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">COD (mg/l)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">SCOD (mg/l)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">VFA/Alkalinity</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">
+                           <italic>V</italic>
+                           <inf loc="post">methane</inf>
+                           <cross-ref refid="TBLFN3">
+                              <sup loc="post">b</sup>
+                           </cross-ref> (l STP/l per day)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">14.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.58</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1880</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">230</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.035</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.167</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">13.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.66</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2110</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">250</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.045</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.188</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">11.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.81</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2250</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">290</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.034</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.226</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">9.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.90</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2480</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">300</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.041</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.280</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">6.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.30</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2340</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">350</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.085</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.377</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">6.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.50</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2400</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">530</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.256</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.382</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">5.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.70</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2650</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">730</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.323</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.391</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">5.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.90</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2690</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">870</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.323</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.438</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">4.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2900</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1070</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.257</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.495</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">4.1</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.30</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3800</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2300</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.292</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.585</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.50</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">4150</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2590</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.248</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.588</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.70</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">4300</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3030</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.366</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.608</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">2.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3.00</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">4440</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3160</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">1.879</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.202</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:table-footnote id="TBLFN2">
+                  <ce:label>a</ce:label>
+                  <ce:note-para>Values are averages of six determinations taken over 6 days after the steady-state conditions had been reached. The differences between the observed values were less than 3% in all cases.</ce:note-para>
+               </ce:table-footnote>
+               <ce:table-footnote id="TBLFN3">
+                  <ce:label>b</ce:label>
+                  <ce:note-para>Volumetric methane production rate (<math xmlns="http://www.elsevier.com/xml/ja/dtd" altimg="si1.gif">
+                        <rm>l</rm>
+                        <inf loc="post">
+                           <rm>CH</rm>
+                           <inf loc="post">4</inf>
+                        </inf>/<rm>lperday</rm>
+                     </math>).</ce:note-para>
+               </ce:table-footnote>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title>Mesophilic anaerobic digestion in a fluidised-bed reactor of wastewater from the production of protein isolates from chickpea flour</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>R.</ce:given-name>
+                  <ce:surname>Borja</ce:surname>
+                  <ce:cross-ref refid="AFF1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="COR1">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>B.</ce:given-name>
+                  <ce:surname>Rincón</ce:surname>
+                  <ce:cross-ref refid="AFF1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>F.</ce:given-name>
+                  <ce:surname>Raposo</ce:surname>
+                  <ce:cross-ref refid="AFF1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>J.R.</ce:given-name>
+                  <ce:surname>Domı́nguez</ce:surname>
+                  <ce:cross-ref refid="AFF1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>F.</ce:given-name>
+                  <ce:surname>Millán</ce:surname>
+                  <ce:cross-ref refid="AFF1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>A.</ce:given-name>
+                  <ce:surname>Martı́n</ce:surname>
+                  <ce:cross-ref refid="AFF2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="AFF1">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Instituto de la Grasa (CSIC), Avda. Padre Garcı́a Tejero No. 4, E-41012 Sevilla, Spain</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="AFF2">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Departamento de Ingenierı́a Quı́mica, Facultad de Ciencias, Campus Universitario de Rabanales, Edificio C-3, Ctra. Madrid-Cádiz, Km 396, 14071 Córdoba, Spain</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="COR1">
+                  <ce:label>*</ce:label>
+                  <ce:text>Corresponding author. Tel.: +34-95-468-9654; fax: +34-95-469-1262.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="11" month="8" year="2003"/>
+            <ce:date-accepted day="19" month="9" year="2003"/>
+            <ce:abstract class="author"><ce:abstract-sec>
+                  <ce:simple-para view="all">A study of the anaerobic digestion of wastewater derived from the production of protein isolates from chickpea flour was carried out in a laboratory-scale, mesophilic (35<ce:hsp sp="0.25"/>°C) fluidised-bed reactor with saponite as bacterial support. Soluble chemical oxygen demand (SCOD) removal efficiencies in the range of 96.8–85.2% were achieved in the reactor at organic loading rates (OLR) of between 0.58 and 2.10<ce:hsp sp="0.25"/>g chemical oxygen demand (COD)/l per day, hydraulic retention times (HRT) of between 14.9 and 4.5 days and average feed COD concentration of 9.1<ce:hsp sp="0.25"/>g/l. Eighty-five percent of feed COD could be removed up to OLR of 2.1<ce:hsp sp="0.25"/>g<ce:hsp sp="0.25"/>COD/l per day. The yield coefficient of methane production was 0.34<ce:hsp sp="0.25"/>l of methane (at STP) per gram COD removed and was virtually independent of the OLR applied. Because the buffering capacity of the experimental system was maintained at favourable levels with excess total alkalinity present at all loadings, the rate of methanogenesis was not affected by loading. Experimental data indicated that a total alkalinity in the range of 1090–2130<ce:hsp sp="0.25"/>mg/l as CaCO<ce:inf loc="post">3</ce:inf> was sufficient to prevent the pH from decreasing to below 7.2 for OLR of up to 2.7<ce:hsp sp="0.25"/>g COD/l per day. The volatile fatty acid (VFA) levels and the VFA/alkalinity ratio were lower than the suggested limits for digester failure (0.3–0.4) for OLR and HRT up to 2.7<ce:hsp sp="0.25"/>g COD/l per day and 3.5 days, respectively. For a HRT of 2.8 days (OLR of 3.00<ce:hsp sp="0.25"/>g COD/l per day) the start of acidification was observed in the reactor.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword" xml:lang="en">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>Mesophilic anaerobic digestion</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Fluidised-bed reactor</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Wastewater</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Protein isolates</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Chickpea flour</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body>
+            <ce:sections>
+               <ce:section view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title>Introduction</ce:section-title>
+                  <ce:para view="all">Wastewater derived from the production of protein isolates from chickpea flour comprises mainly of wash waters from various operations including the following steps.<ce:list>
+                        <ce:list-item>
+                           <ce:label>1.</ce:label>
+                           <ce:para view="all">Mixing of the raw chickpea flour with water, sulphite (0.25%, w/v) and a NaOH solution (6.25<ce:hsp sp="0.25"/>N) preceding a centrifugation process for separation of solid and liquid fractions.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item>
+                           <ce:label>2.</ce:label>
+                           <ce:para view="all">Second centrifugation of the liquid phase for separation of the small solids and liquid fraction.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item>
+                           <ce:label>3.</ce:label>
+                           <ce:para view="all">Treatment of the liquid fraction with a HCl solution (6<ce:hsp sp="0.25"/>N) to precipitate the protein isolate.</ce:para>
+                        </ce:list-item>
+                        <ce:list-item>
+                           <ce:label>4.</ce:label>
+                           <ce:para view="all">Washing of the protein concentrate resulting from the above-mentioned process to eliminate the residual HCl.</ce:para>
+                        </ce:list-item>
+                     </ce:list>
+                  </ce:para>
+                  <ce:para view="all">The effluents from the third and fourth steps have an organic matter concentration of between 7.4 and 9.3<ce:hsp sp="0.25"/>g chemical oxygen demand (COD)/l, ranging the polluting load of the final wastewater of the whole process between 8.6 and 9.4<ce:hsp sp="0.25"/>g COD/l.</ce:para>
+                  <ce:para view="all">These two wastewater streams, amounting to about 23<ce:hsp sp="0.25"/>l/kg of processed chickpea flour, are combined together resulting in a viscous yellow liquid. The mixed final effluent is highly polluting and is characterised by a low pH and high chemical and biological oxygen demands and total solid (TS) contents. The high polluting power and large volumes of wastewaters generated can pose large-scale environmental problems.</ce:para>
+                  <ce:para view="all">Anaerobic treatment of moderate and high strength wastewaters with high biodegradable content presents a number of advantages <ce:cross-refs refid="BIB1 BIB2 BIB3 BIB4">[1–4]</ce:cross-refs>; for example, a quite high degree of purification with high-organic load feeds can be achieved, low nutrient requirements are necessary, small quantities of excess sludge are usually produced and finally, a combustible biogas is generated. The production of biogas enables the process to generate or recover energy instead of just-energy saving; this can reduce operational costs by a large margin compared with the high energy consuming aerobic process.</ce:para>
+                  <ce:para view="all">However, one of the most important problems in anaerobic processing of liquid wastes is the loss of biomass in systems with a high hydraulic loading rate. In order to solve this problem, reactors have been designed containing supports, which fix the biomass and result in high loading densities and small hydraulic retention times (HRT) <ce:cross-refs refid="BIB5 BIB6">[5,6]</ce:cross-refs>. With the increase of population density on the given support, there is an enhanced opportunity for cross-feeding, co-metabolism, and interspecies hydrogen and proton transfer, which may further stimulate the growth of microcolonies <ce:cross-ref refid="BIB7">[7]</ce:cross-ref>. Among the bioreactors more commonly used for this purpose are fluidised-bed reactors, where bacteria colonise particles of a support medium, thereby increasing the surface available for bacterial growth <ce:cross-ref refid="BIB8">[8]</ce:cross-ref>.</ce:para>
+                  <ce:para view="all">The fluidised bed reactor is a biological process which has been demonstrated in various studies to be feasible for the treatment of both municipal and industrial wastewaters <ce:cross-ref refid="BIB9">[9]</ce:cross-ref>. The use of small, porous, fluidised media enables the reactor to retain high biomass concentrations and thereby to operate at significantly reduced hydraulic retention times. Fluidisation also overcomes operating problems such as bed clogging and high pressure drop which would be encountered if such high surface area media were used in a packed bed reactor. A further advantage of using media to retain the biomass within the reactor is the possible elimination of the secondary clarifier. On the other hand, the significance of the nature of the support material to be colonised by the bacteria has been emphasised by several authors, since it influences the proportions in which the different types of microorganisms develop in the overall anaerobic biomass, the production and composition of biogas and the volatile fatty acid (VFA) degradation rates <ce:cross-refs refid="BIB5 BIB10 BIB11 BIB12 BIB13 BIB14 BIB15 BIB16 BIB17">[5,10–17]</ce:cross-refs>.</ce:para>
+                  <ce:para view="all">The aim of this work was to carry out an evaluation of the performance of anaerobic digestion process of wastewater derived from the production of protein isolates from chickpea flour using a fluidised-bed reactor containing microorganisms immobilised on saponite (magnesium silicate). This report discusses a laboratory-scale investigation with emphasis placed on the evaluation of substrate utilisation and gas production rates under different operating conditions at mesophilic temperature. On the other hand, purifying procedures involving fluidised beds require sturdy supports of low apparent density in order to reduce power consumption, which is the case with the medium assayed here.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title>Materials and methods</ce:section-title>
+                  <ce:section view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title>Equipment</ce:section-title>
+                     <ce:para view="all">A laboratory-scale fluidised-bed reactor with total and working volumes of 1.5 and 1.0<ce:hsp sp="0.25"/>l, respectively, was used in the experiments. The reactor had a settling mechanism intended to avoid loss of the solids acting as supports for the microorganisms. The reactor has been described in greater detail elsewhere <ce:cross-ref refid="BIB18">[18]</ce:cross-ref>. The biogas was evacuated in a continuous fashion; the volume of methane produced being measured after removing CO<ce:inf loc="post">2</ce:inf> by adsorption into NaOH. The operating temperature of the reactor (35<ce:hsp sp="0.25"/>°C) was maintained constant by means of an external jacket through which water from a thermostatic bath circulated.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title>Support</ce:section-title>
+                     <ce:para view="all">The support used to immobilise the bacterial biomass was a clay, saponite, selected on account of favourable kinetic behaviour in previous experiments with other types of food industry wastewaters <ce:cross-refs refid="BIB15 BIB19 BIB20">[15,19,20]</ce:cross-refs>. Their features are described in detail elsewhere <ce:cross-ref refid="BIB14">[14]</ce:cross-ref>.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title>Wastewater</ce:section-title>
+                     <ce:para view="all">The composition and features of the wastewater derived from the production of protein isolates from chickpea flour are summarised in <ce:cross-ref refid="TBL1">Table 1</ce:cross-ref>
+                        <ce:float-anchor refid="TBL1"/>, which lists the average values of seven separate analyses; there was virtually no variation (less than 5%) between analyses.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>2.4</ce:label>
+                     <ce:section-title>Inoculum</ce:section-title>
+                     <ce:para view="all">The reactor was inoculated with biomass from an industrial anaerobic reactor processing brewery wastewater. It was methanogenically active (pH 7.8) and its composition was: total suspended solids (TSS), 27.2<ce:hsp sp="0.25"/>g/l; volatile suspended solids (VSS), 15.0<ce:hsp sp="0.25"/>g/l; mineral suspended solids (MSS), 12.2<ce:hsp sp="0.25"/>g/l.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>2.5</ce:label>
+                     <ce:section-title>Experimental procedure</ce:section-title>
+                     <ce:para view="all">The anaerobic reactor was initially charged with 300<ce:hsp sp="0.25"/>ml of distilled water, 1000<ce:hsp sp="0.25"/>ml of the inoculum, 200<ce:hsp sp="0.25"/>ml of a nutrient-trace element solution and 15<ce:hsp sp="0.25"/>g of the support. While larger amounts of support provided attachment sites for increased amounts of biomass, they also increased the apparent viscosity of the medium and hence hindered mass transfer and slowed down biodegradation. The composition of the nutrient-trace element solution used at the start-up of the reactor is given in <ce:cross-ref refid="TBL2">Table 2</ce:cross-ref>
+                        <ce:float-anchor refid="TBL2"/>.</ce:para>
+                     <ce:para view="all">The start-up of the reactor involved stepped increases in COD loading and substrate concentration. During this period the organic loading rate (OLR) was gradually increased from 0.4 to 1.9<ce:hsp sp="0.25"/>g<ce:hsp sp="0.25"/>COD/l per day over an 1-month period. During this acclimatisation step, the influent COD concentration was increased from 4.35 to 9.1<ce:hsp sp="0.25"/>g/l.</ce:para>
+                     <ce:para view="all">This preliminary step was followed by a series of continuous experiments using feed flow-rates of 67, 77, 90, 105, 150, 166, 182, 202, 224, 245, 266, 288 and 357<ce:hsp sp="0.25"/>ml per day of the wastewater described in <ce:cross-ref refid="TBL1">Table 1</ce:cross-ref>, which correspond to hydraulic retention times of 14.9, 13.0, 11.1, 9.5, 6.7, 6.0, 5.5, 5.0, 4.5, 4.1, 3.8, 3.5 and 2.8 days, respectively. The bacterial biomass concentration remained virtually constant at 15<ce:hsp sp="0.25"/>g VSS/l throughout the experiments. The biomass concentration (g VSS/l) was estimated according to the recommendation of Chen et al. <ce:cross-ref refid="BIB21">[21]</ce:cross-ref>.</ce:para>
+                     <ce:para view="all">Once steady-state conditions were achieved at each feeding flow-rate, the daily volume of methane produced and COD, pH, volatile acidity and alkalinity of the different effluents obtained were determined. Samples were collected and analysed for at least six consecutive days. The steady-state value of a given parameter was taken as the average of these consecutive measurements for that parameter when the deviations between the observed values were less than 3% in all cases. Each experiment had a duration of two to three times the corresponding HRT.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>2.6</ce:label>
+                     <ce:section-title>Chemical analyses</ce:section-title>
+                     <ce:para view="all">The following parameters were determined: total and soluble COD, pH, total solids, mineral solids (MS), volatile solids (VS), total suspended solids, mineral suspended solids, volatile suspended solids, volatile acidity, and alkalinity. All analyses were carried out according to the recommendations of the Standard Methods for the Examination of Water and Wastewater <ce:cross-ref refid="BIB22">[22]</ce:cross-ref>.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title>Results and discussion</ce:section-title>
+                  <ce:section view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title>Influence of organic loading rate on the COD removal efficiency in the reactor</ce:section-title>
+                     <ce:para view="all">
+                        <ce:cross-ref refid="TBL3">Table 3</ce:cross-ref>
+                        <ce:float-anchor refid="TBL3"/> summarises the steady-state operating results including HRT, organic loading rates, total and soluble CODs, volatile acidity/alkalinity ratio and methane flow-rates. The total and soluble COD removal efficiencies observed at different OLRs are illustrated in <ce:cross-ref refid="FIG1">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="FIG1"/>. In general, the percentage of COD removed decreased with increased OLR up to OLR values of 2.3<ce:hsp sp="0.25"/>g COD/l per day, maintaining COD removal percentages of around 68% for these OLR values. For OLRs higher than this value a slight decrease in efficiency was observed. More than 68% of feed COD could be removed up to OLRs of 2.3<ce:hsp sp="0.25"/>g COD/l per day, which indicates that the anaerobic fluidised-bed system is very effective.</ce:para>
+                     <ce:para view="all">The organic removal rates observed at different OLRs are illustrated in <ce:cross-ref refid="FIG2">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="FIG2"/>. As can be seen, the rate of COD removal increased linearly with OLR up to OLR values of 2.1<ce:hsp sp="0.25"/>g COD/l per day, the slope of the fitted line being 0.70, with a regression coefficient of 0.99. A decrease in the sequence was observed for OLRs higher than 2.1<ce:hsp sp="0.25"/>g COD/l per day when the lowest HRTs (3.8, 3.5 and 2.8 days) were used. The attainment of high reactor biomass hold-up in the anaerobic fluidised-bed system, via the immobilisation of the microorganisms on the small, fluidised particles, contributed to such a good system-efficiency. In addition, the production and subsequent release of methane from the biofilms could have had a profound effect on the equilibrium biofilm thickness (and, therefore, equilibrium biomass hold-up) in the reactor, because the resulting effervescence might have sloughed the biofilms off the clay particles.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title>Operational parameters</ce:section-title>
+                     <ce:para view="all">The total and soluble effluent CODs of the anaerobic fluidised-bed reactor increased with OLR, as illustrated in <ce:cross-ref refid="FIG3">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="FIG3"/>. Such an increase in the effluent COD was paralleled by a similar increase in the effluent volatile fatty acids, as can be seen in <ce:cross-ref refid="FIG4">Fig. 4</ce:cross-ref>
+                        <ce:float-anchor refid="FIG4"/>. This seems to indicate that, at higher OLR, the effluent soluble chemical oxygen demand (SCOD) is largely composed of the unused volatile acids produced in the reactor.</ce:para>
+                     <ce:para view="all">Because the buffering capacity of the experimental system was maintained at favourable levels with excessive total alkalinity present at all loadings, the rate of methanogenesis was not affected. The experimental data obtained in this investigation indicate that a total alkalinity in the range of 1090–2130<ce:hsp sp="0.25"/>mg/l as CaCO<ce:inf loc="post">3</ce:inf> was sufficient to prevent the pH from dropping to below 6.9 at OLRs of up to 2.7<ce:hsp sp="0.25"/>g COD/l per day. The pH in the reactor remained approximately constant at HRTs higher or equal to 3.5 days, with 7.7 and 6.9 as extreme values. This stability can be attributed to carbonate/bicarbonate buffering. This is produced by the generation of CO<ce:inf loc="post">2</ce:inf> in the digestion process which is not completely removed from the reactor as gas. Buffering in anaerobic digestion is normally due to bicarbonate as carbonate is, generally, negligible if compared to the bicarbonate (carbonate/bicarbonate ratio is equal to 0.01 for pH 8.2). The buffering guards against possible acidification of the reactor giving a pH of the same order as the optimal for methanogenic bacteria <ce:cross-ref refid="BIB23">[23]</ce:cross-ref>.</ce:para>
+                     <ce:para view="all">The VFA/alkalinity ratio can be used as a measure of process stability <ce:cross-ref refid="BIB23">[23]</ce:cross-ref>: when this ratio is less than 0.3–0.4 the process is considered to be operating favourably without acidification risk. As was observed (<ce:cross-ref refid="TBL3">Table 3</ce:cross-ref>), the ratio values were lower than the suggested limit value in all cases except in the experiments corresponding to the lowest HRTs studied. Between HRTs of 14.9 and 3.5 days the VFA/alkalinity ratio was always lower than the above-mentioned failure limit value, and the VFA values were always lower than 500<ce:hsp sp="0.25"/>mg/l (as acetic acid). However, at a HRT of 2.8 days, a considerable increase of the VFA/alkalinity ratio was observed in the reactor (1.88), which was due to a considerable increase in the VFA concentration (1630<ce:hsp sp="0.25"/>mg/l, as acetic acid) with a simultaneous decrease in alkalinity (720<ce:hsp sp="0.25"/>mg/l as CaCO<ce:inf loc="post">3</ce:inf>).</ce:para>
+                     <ce:para view="all">The SCOD removal efficiencies observed at different HRTs are plotted in <ce:cross-ref refid="FIG5">Fig. 5</ce:cross-ref>
+                        <ce:float-anchor refid="FIG5"/>. Between 14.9 and 4.5 days, COD removal decreased slightly from 96.8 to 85.2%. At an HRT of 4.1 days a marked decrease in efficiency was observed (68.3%). In consequence, it appears that the performance of the anaerobic fluidised-bed system becomes independent of HRT, provided that the HRT of the reactor is maintained above 4.5 days. Below that the performance of the reactor deteriorates sharply.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title>Methane yield coefficient</ce:section-title>
+                     <ce:para view="all">The volumetric methane production rate as a function of OLR is illustrated in <ce:cross-ref refid="FIG6">Fig. 6</ce:cross-ref>
+                        <ce:float-anchor refid="FIG6"/>. The volume of the methane produced per day increased linearly with increased OLR up to OLR values of 2.7<ce:hsp sp="0.25"/>g COD/l per day, after which a marked decrease was observed over the range tested. Apparently the activity of methanogenic bacteria was not impaired up to OLR values of 2.7<ce:hsp sp="0.25"/>g COD/l per day because of the adequate buffering capacities provided in the experimental system. Higher biomass hold-ups in the reactor would also promote such high activities of methanogenesis. Nevertheless, the methane production rate decreased from 0.608 to 0.202<ce:hsp sp="0.25"/>l per day when the OLR was increased from 2.7 to 3.0<ce:hsp sp="0.25"/>g COD/l per day. This decrease in the methane production at the highest OLR values might be attributed to an inhibition of the methanogenic bacteria at high OLR values, which caused an increase in effluent VFA contents and VFA/alkalinity ratios, as can be seen in <ce:cross-ref refid="TBL3">Table 3</ce:cross-ref>. Specifically, VFA content increased from 480 to 1630<ce:hsp sp="0.25"/>mg/l (as acetic acid) when the OLR was increased from 2.7 to 3.0<ce:hsp sp="0.25"/>g<ce:hsp sp="0.25"/>COD/l per day.</ce:para>
+                     <ce:para view="all">The experimental data listed in <ce:cross-refs refid="TBL1 TBL3">Tables 1 and 3</ce:cross-refs> were used to determine the methane yield coefficient, <ce:italic>Y</ce:italic>
+                        <ce:inf loc="post">p</ce:inf>. As the volume of gas produced per day, <ce:italic>V</ce:italic>
+                        <ce:inf loc="post">methane</ce:inf> (litres CH<ce:inf loc="post">4</ce:inf> per day), is assumed to be proportional to the amount of substrate consumed, then<display>
+                           <formula id="FD1">
+                              <ce:label>(1)</ce:label>
+                              <math altimg="si2.gif">V<inf loc="post">
+                                    <rm>methane</rm>
+                                 </inf>=Y<inf loc="post">
+                                    <rm>p</rm>
+                                 </inf>q(S<inf loc="post">0</inf>−S)</math>
+                           </formula>
+                        </display>where <ce:italic>S</ce:italic>
+                        <ce:inf loc="post">0</ce:inf> and <ce:italic>S</ce:italic> are the substrate concentration (g<ce:hsp sp="0.25"/>COD/l) at the digester inlet and effluent, respectively, and <ce:italic>q</ce:italic> is the feed flow-rate. By plotting <ce:cross-ref refid="FD1">Eq. (1)</ce:cross-ref> in the form <ce:italic>V</ce:italic>
+                        <ce:inf loc="post">methane</ce:inf> against <ce:italic>q</ce:italic>(<ce:italic>S</ce:italic>
+                        <ce:inf loc="post">0</ce:inf>−<ce:italic>S</ce:italic>) (<ce:cross-ref refid="FIG7">Fig. 7</ce:cross-ref>
+                        <ce:float-anchor refid="FIG7"/>), a virtually constant value of 0.34±0.03<ce:hsp sp="0.25"/>l CH<ce:inf loc="post">4</ce:inf> STP/g COD consumed (95% confidence limits) was obtained over the substrate concentration range used; this agrees with the data reported in the literature <ce:cross-ref refid="BIB6">[6]</ce:cross-ref>. Taking into account that, theoretically, 0.35<ce:hsp sp="0.25"/>l of methane is produced per gram of COD removed, when assuming that all of the incoming COD is transformed into methane and considering null the biomass growth and cell maintenance <ce:cross-ref refid="BIB24">[24]</ce:cross-ref>, the effectiveness of the anaerobic reactor in converting wastewater derived from the production of protein isolates from chickpea flour into methane at mesophilic temperature is clearly demonstrated.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title>Conclusions</ce:section-title>
+                  <ce:para view="all">The results of this study demonstrate that a mesophilic anaerobic treatment using a fluidised-bed reactor, with saponite (magnesium silicate) as support material, is highly effective for the purification of wastewater derived from the production of protein isolates from chickpea flour. Such a system can be used successfully as an alternative for treatment of this wastewater. COD removal efficiencies in the range of 96.8–85.2% can be achieved by the reactor when operated at OLRs of between 0.58 and 2.10<ce:hsp sp="0.25"/>g COD/l per day, HRTs of between 17.9 and 4.5 days and average feed COD concentrations of 9.1<ce:hsp sp="0.25"/>g/l. Under the operating conditions evaluated in this investigation a HRT equal or higher than 4.5 days is recommended in order to ensure a good system-efficiency. The high performance may be attributable to the appropriate carrier material and the adequate acclimatisation of the biomass and start-up of the reactor performed to minimise the undesirable wash-out of slow-growing methanogenic bacteria.</ce:para>
+                  <ce:para view="all">Because the effluent COD in the anaerobic reactor at higher OLR is largely produced by the unused volatile acids produced in the reactor, it is essential that the buffering capacity of the system should be maintained with the presence of an adequate amount of alkalinity. The experimental data obtained in this study indicate that a total alkalinity in the range of 1090–2130<ce:hsp sp="0.25"/>mg/l as CaCO<ce:inf loc="post">3</ce:inf> was sufficient to prevent the pH from dropping to below 6.9 for OLRs of up to 2.7<ce:hsp sp="0.25"/>g COD/l per day.</ce:para>
+                  <ce:para view="all">The methane yield coefficient, <ce:italic>Y</ce:italic>
+                     <ce:inf loc="post">p</ce:inf>, was 0.34<ce:hsp sp="0.25"/>l CH<ce:inf loc="post">4</ce:inf> STP/g COD consumed.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment>
+               <ce:section-title>Acknowledgements</ce:section-title>
+               <ce:para view="all">The authors wish to express their gratitude to Miss Carmen Sánchez and Mr. Alvaro Villanueva for their kind helps with the experimental work.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail>
+            <ce:bibliography view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec>
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Olthof</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Oleszkiewick</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Anaerobic treatment of industrial wastewater</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Eng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>15</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1321</sb:first-page>
+                              <sb:last-page>1326</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Gujer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.J.</ce:given-name>
+                                 <ce:surname>Zehnder</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Conversion process in anaerobic digestion</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>15</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>123</sb:first-page>
+                              <sb:last-page>167</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.E.</ce:given-name>
+                                 <ce:surname>Speece</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Anaerobic biotechnology for industrial wastewater treatment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Environ. Sci. Tecnol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>17</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>416</sb:first-page>
+                              <sb:last-page>427</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>Rozzi A. Estado del arte sobre la digestión anaerobia. In: Proceedings of III Seminario de Depuración Anaerobia de Aguas Residuales, Universidad de Valladolid, Valladolid, Spain; 1988. p. 11–20.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Kida</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Morimura</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Sonoda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Obe</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Kondo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Support media for microbial adhesion in an anaerobic fluidised bed reactor</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Ferm. Bioeng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>69</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>354</sb:first-page>
+                              <sb:last-page>359</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>Wheatley A. Anaerobic digestion: a waste treatment technology. London: Elsevier; 1990.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.C.</ce:given-name>
+                                 <ce:surname>Ellwood</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Keevilc</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.D.</ce:given-name>
+                                 <ce:surname>Marsh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.M.</ce:given-name>
+                                 <ce:surname>Brown</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.N.</ce:given-name>
+                                 <ce:surname>Wardell</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Surface-associated growth</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Philos. Trans. R. Soc. London Ser. B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>297</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>517</sb:first-page>
+                              <sb:last-page>532</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Jeris</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Industrial wastewater treatment using anaerobic fluidised bed reactors</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>15</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>169</sb:first-page>
+                              <sb:last-page>176</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Iza</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Fluidised bed reactors for wastewater treatment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>24</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1991</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>109</sb:first-page>
+                              <sb:last-page>132</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.D.</ce:given-name>
+                                 <ce:surname>Murray</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Van den Berg</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of support material on the development of microbial fixed films converting acetic acid to methane</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Appl. Bacteriol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>51</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1981</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>257</sb:first-page>
+                              <sb:last-page>265</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Huysman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Van Meenen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Verstraete</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Factors affecting the colonisation of non-porous and porous packing materials in model up-flow methane reactors</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biotechnol. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>643</sb:first-page>
+                              <sb:last-page>648</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>[12]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>Maestrojuán GM, Fiestas JA. A study of the behaviour of anaerobic bacteria in the presence of diverse materials usable as support. In: Tilche A, Rozzi A, editors. Proceedings of the Vth International Symposium on Anaerobic Digestion. Bologna, Italy: Monduzzi Editore, S.p.A.; 1988. p. 129–32.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Pérez-Rodriguez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.I.</ce:given-name>
+                                 <ce:surname>Carretero</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Maqueda</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Behaviour of sepiolite, vermiculite and montmorillonite as supports in anaerobic digesters</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Clay Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1989</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>69</sb:first-page>
+                              <sb:last-page>82</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Fiestas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Martı́n</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Borja</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Influence of immobilisation supports on the kinetic constants of anaerobic purification of olive mill wastewater</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biol. Wastes</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>33</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>131</sb:first-page>
+                              <sb:last-page>142</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Borja</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.J.</ce:given-name>
+                                 <ce:surname>Banks</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.M.</ce:given-name>
+                                 <ce:surname>Maestrojuán</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Antagonistic and synergistic effects of two mineral support particles on the hydrolysis and methanation of waste water in immobilised cell anaerobic digesters</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biotechnol. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>16</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1994</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>859</sb:first-page>
+                              <sb:last-page>864</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.A.</ce:given-name>
+                                 <ce:surname>Fiestas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Borja</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Biomethanization</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. Biodeterioration Biodegradation</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>38</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1996</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>145</sb:first-page>
+                              <sb:last-page>153</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Maqueda</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Pérez-Rodriguez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Lebrato</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>An evaluation of clay minerals as support materials in anaerobic digesters</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Environ. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>811</sb:first-page>
+                              <sb:last-page>819</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Borja</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>González</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Raposo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Millán</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Martı́n</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Performance evaluation of an anaerobic fluidised bed reactor treating wastewater derived from the production of protein isolates from extracted sunflower flour at mesophilic temperature</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>76</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>45</sb:first-page>
+                              <sb:last-page>52</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Borja</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Martı́n</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.M.</ce:given-name>
+                                 <ce:surname>Durán</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Luque</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Alonso</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Kinetic study of anaerobic digestion of brewery wastewater</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Process Biochem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>29</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1994</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>645</sb:first-page>
+                              <sb:last-page>650</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Borja</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.J.</ce:given-name>
+                                 <ce:surname>Banks</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Response of an anaerobic fluidised bed reactor treating ice-cream wastewater to organic, hydraulic, temperature and pH shocks</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Biotechnol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1995</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>251</sb:first-page>
+                              <sb:last-page>259</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB21">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.J.</ce:given-name>
+                                 <ce:surname>Chen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.T.</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.K.</ce:given-name>
+                                 <ce:surname>Shieh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Evaluation of the anaerobic fluidised bed system. III. Biomass hold-up and characteristics</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Tech. Biotechnol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35B</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>183</sb:first-page>
+                              <sb:last-page>190</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB22">
+                     <ce:label>[22]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>American Public Health Association (APHA). Standard methods for the examination of water and wastewater. 17th ed. Washington, DC: APHA; 1989.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB23">
+                     <ce:label>[23]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>Fannin KF. Start-up, operation, stability and control. In: Chynoweth DP Isaacson R, editors. Anaerobic digestion of biomass. London: Elsevier; 1987. p. 171–96.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB24">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.W.</ce:given-name>
+                                 <ce:surname>Lawrence</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.L.</ce:given-name>
+                                 <ce:surname>McCarty</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Kinetics of methane fermentation in anaerobic treatment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Water Pollut. Contr. Fed.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>41</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1969</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>R1</sb:first-page>
+                              <sb:last-page>R16</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

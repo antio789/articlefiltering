@@ -34,11 +34,11 @@
         },
         {
           "qid": 8,
-          "question": "Does the methodology explicitly describe the use of oxidative pretreatment by the use of an oxidizer agent? 1. Identify the agent 2.ensure it is an oxidizer 3. ensure it is used on the substrate as a pretreatment. Consider photocatalysis with TiO2 as an oxidizer"
+          "question": "Does the methodology explicitly describe the use of an oxidizer agent? 1. Identify the agent 2.ensure it is an oxidizer 3. ensure it is used on the substrate as a pretreatment. Consider photocatalysis with TiO2 as an oxidizer"
         },
         {
           "qid": 9,
-          "question": "Does the methodology explicitly describe the use of solvent for pretreatment on a substrate (e.g., organosolv, ioniq liquid,...), and mentions it as a solvent. Ignore implicit cases such as the use of water in a process. Only answer true when the methodology clearly identifies a solvent system as an intentional pretreatment medium rather than merely using chemicals dissolved in water. An aqueous chemical solution is NOT a solvent pretreatment unless the paper explicitly frames it as a solvent system. Before answering: 1.Identify the pretreatment medium 2.Determine whether it is explicitly a named solvent system 3.If not explicit, answer FALSE"
+          "question": "Does the methodology explicitly describe the use of solvent for pretreatment on a substrate (e.g., organosolv, ioniq liquid,...), and mentions it as a solvent somewhere in the text (does not have to be in the methodology). Ignore implicit cases such as the use of water in a process. Only answer true when the methodology clearly identifies a solvent system as an intentional pretreatment medium rather than merely using chemicals dissolved in water. An aqueous chemical solution is NOT a solvent pretreatment unless the paper explicitly frames it as a solvent system. Before answering: 1.Identify the pretreatment medium in the methodology 2.Determine whether it is explicitly a named solvent system in the text 3.If not explicit, answer FALSE"
         },
         {
           "qid": 10,
@@ -54,15 +54,15 @@
         },
         {
           "qid": 13,
-          "question": "Does the methodology explicitly describe the use of a microbial pretreatment on a substrate such as isolate bacterial cultures or specialised microbila consortia. You must exclude mediums rich in microorganisms(digestate, sludge,...) as well as fungi, extracted enzymes, as these are invalid. "
+          "question": "Does the methodology explicitly describe the use of a microbial, such as isolate bacterial cultures or specialised microbila consortia, pretreatment on a substrate . You must exclude mediums rich in microorganisms(digestate, sludge,...) as well as fungi, and extracted enzymes. "
         },
         {
           "qid": 14,
-          "question": "Excluding inoculum and other sludge necessary for starting the biological activity in the digester, does the methodology explicitly describe the use of a external active organic material, such as but not only: rumen, compost, digestate or similar, as a pretreatment step; specifically to degrade or modify the substrate before anaerobic digestion, with the explicit purpose of increasing its bioavailability? This does not include any isolated or specialised microbial consortia"
+          "question": "Excluding inoculum or other sludge necessary for starting the anaerobical biological activity in the digester, does the methodology explicitly describe the use of a external active organic material, such as but not only: rumen, compost, digestate, aerobic sludge or similar, as a pretreatment step; specifically to degrade or modify the substrate before anaerobic digestion, with the explicit purpose of increasing its bioavailability? This does not include any isolated or specialised microbial consortia. For clarity: a sludge or digestate are mainly composed of micro-organism but have large diversity and unknown species, while an isolated consortia of a more controlled species, such as bacteria isolated from fermenting straw and reporduced in a lab would be excluded from this definition."
         },
         {
           "qid": 58,
-          "question": "Does the methodology explicitly references a microaerobic pretreatment by direct injection of limited air quantity in the anaerobic digester, or in the substrate, without the inclusion of an additional bacterial consortium or organic material that degrate the substrate under low oxygen conditions ?"
+          "question": "Does the methodology explicitly references a microaerobic pretreatment by direct injection of limited air quantity in the anaerobic digester or in the substrate. Specifically, without the inclusion of an additional bacterial consortium or organic material that degrate the substrate under low oxygen conditions ?"
         }
       ]
     },
@@ -72,8 +72,7 @@
       "questions": [
         {
           "qid": 15,
-          "question": "Does it explicitly describe the direct use of nanoparticles to improve the digestion process, this can be for nutrient, electron transfer or similar process enhancing reason. This exclude all pretreatment such as photocatalysis or similar that employ a nanomaterial in their process"
-        },
+          "question": "Does it explicitly describe the direct use of nanoparticles to improve the digestion process? This exclude all pretreatment such as photocatalysis or similar that employ a nanomaterial in their process."        },
         {
           "qid": 16,
           "question": "Does the article explicitly describe the use of disinhibiting treatments (for example but not only: coagulants, biochar, ammonia stripping) applied to the substrate or reactor before or during digestion to improve microbial activity or methane production. Exclude laboratory control methods  during digestion such as artificial pH stabilisation"
@@ -84,7 +83,7 @@
         },
         {
           "qid": 18,
-          "question": "Does the article explicitly describe the addition of nutrients as an additive (for example but not only: nitrogen, phosphorus, micronutrients,...) to the substrate or reactor before or during digestion to improve microbial activity or methane production during the digestion process. This exclude any substrate rich in nutrient or infered reasoning from the presence of nutrient in the substrate or inoculum, as well as nanoparticles. Before Answering: 1. Identify the source of nutrient 2.it is explicitly mentioned as nutrient supplement 3.It is NOT the substrate or the inocolum or some nanoparticle 4.answer false unless all steps are satisfied"
+          "question": "Does the article explicitly describe the addition of nutrients as an additive (for example but not only: nitrogen, phosphorus, micronutrients,...) to the substrate or reactor before or during digestion to improve microbial activity or methane production during the digestion process. This exclude any substrate rich in nutrient or infered reasoning from the presence of nutrient in the substrate or inoculum, as well as nanoparticles. Before Answering: 1. Identify the source of nutrient 2.it is explicitly mentioned as nutrient supplement 3.It is NOT the substrate or the inoculum or some nanoparticle 4.the answer should be false unless all steps are satisfied"
         }
       ]
     },

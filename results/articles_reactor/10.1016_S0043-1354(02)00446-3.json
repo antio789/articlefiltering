@@ -1,0 +1,73 @@
+{
+  "manual_review": [
+    [
+      "10.1016_S0043-1354(02)00446-3",
+      "two stage"
+    ]
+  ],
+  "llm_review": [
+    [
+      "10.1016_S0043-1354(02)00446-3",
+      "cstr"
+    ],
+    [
+      "10.1016_S0043-1354(02)00446-3",
+      "leach bed"
+    ],
+    [
+      "10.1016_S0043-1354(02)00446-3",
+      "anaerobic contact reactor"
+    ],
+    [
+      "10.1016_S0043-1354(02)00446-3",
+      "uasb derivative"
+    ],
+    [
+      "10.1016_S0043-1354(02)00446-3",
+      "fluidized bed"
+    ],
+    [
+      "10.1016_S0043-1354(02)00446-3",
+      "biofilm derivative"
+    ]
+  ],
+  "correct_predictions": 0,
+  "false_predictions": 6,
+  "missed_predictions": 1,
+  "precision": 0.0,
+  "recall": 0.0,
+  "f1_score": 0,
+  "correct_items": [],
+  "false_items": [
+    [
+      "10.1016_S0043-1354(02)00446-3",
+      "cstr"
+    ],
+    [
+      "10.1016_S0043-1354(02)00446-3",
+      "leach bed"
+    ],
+    [
+      "10.1016_S0043-1354(02)00446-3",
+      "anaerobic contact reactor"
+    ],
+    [
+      "10.1016_S0043-1354(02)00446-3",
+      "uasb derivative"
+    ],
+    [
+      "10.1016_S0043-1354(02)00446-3",
+      "fluidized bed"
+    ],
+    [
+      "10.1016_S0043-1354(02)00446-3",
+      "biofilm derivative"
+    ]
+  ],
+  "missed_items": [
+    [
+      "10.1016_S0043-1354(02)00446-3",
+      "two stage"
+    ]
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Granular sludge was boiled at 90 \u00b0C for 30 min."
+    },
+    {
+      "id": 1,
+      "description": "The granular sludge was aerated for 24 h using an aquarium pump with an air flow rate of 3 L/min."
+    },
+    {
+      "id": 2,
+      "description": "The pH of the granular sludge was adjusted to 12.0 \u00b1 0.1 with 3 N NaOH and maintained for 24 h."
+    },
+    {
+      "id": 3,
+      "description": "Fifteen g/L of WFO was added to the granular sludge cultures (33 gVS sludge/L saponified WFO solution) and maintained for 24 h. After the treatment, the pretreated cultures were washed three times with tap water."
+    }
+  ]
+}

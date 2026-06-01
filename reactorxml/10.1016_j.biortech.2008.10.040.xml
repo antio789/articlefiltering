@@ -1,0 +1,1324 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0960852408008869</prism:url><dc:identifier>doi:10.1016/j.biortech.2008.10.040</dc:identifier><eid>1-s2.0-S0960852408008869</eid><prism:doi>10.1016/j.biortech.2008.10.040</prism:doi><pii>S0960-8524(08)00886-9</pii><dc:title>Impact of crop species on bacterial community structure during anaerobic co-digestion of crops and cow manure </dc:title><prism:publicationName>Bioresource Technology</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>sco</pubType><prism:issn>09608524</prism:issn><prism:volume>100</prism:volume><prism:issueIdentifier>7</prism:issueIdentifier><prism:startingPage>2311</prism:startingPage><prism:endingPage>2315</prism:endingPage><prism:pageRange>2311-2315</prism:pageRange><prism:number>7</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2009-04-30</prism:coverDate><prism:coverDisplayDate>April 2009</prism:coverDisplayDate><prism:copyright>Copyright © 2008 Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd.</prism:publisher><dc:creator>Wang, Hong</dc:creator><dc:creator>Lehtomäki, Annimari</dc:creator><dc:creator>Tolvanen, Katariina</dc:creator><dc:creator>Puhakka, Jaakko</dc:creator><dc:creator>Rintala, Jukka</dc:creator><dc:description>
+                  The bacterial communities in three continuously stirred tank reactors co-digesting cow manure with grass silage, oat straw, and sugar beet tops, respectively, were investigated by 16S rRNA gene-based fingerprints and clone libraries. The analyses revealed both clearly distinct and similar phylotypes in the bacterial communities between the reactors. The major groups represented in the three reactors were Clostridia, unclassified Bacteria, and Bacteroidetes. Phylotypes affiliated with Bacilli or Deltaproteobacteria were unique to the sugar beet and straw reactor, respectively. Unclassified Bacteria dominated in sugar beet reactor while in the straw and grass reactor Clostridia was the dominant group. An increase in organic loading rate from 2 to 3kg volatile solids m−3 d−1 resulted in larger changes in the bacterial community in the straw compared to grass reactor. The study shed more light on the evolution of bacterial community during anaerobic co-digestion of different crops and manure to methane.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Anaerobic digestion</dcterms:subject><dcterms:subject>Continuously stirred tank reactor</dcterms:subject><dcterms:subject>Bacterial community structure</dcterms:subject><dcterms:subject>Terminal restriction fragment length polymorphism</dcterms:subject><dcterms:subject>Denature gradient gel electrophoresis</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0960852408008869" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0960852408008869" rel="scidir"/></coredata><objects><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="533" height="362" size="71105">https://api.elsevier.com/content/object/eid/1-s2.0-S0960852408008869-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="149" size="12375">https://api.elsevier.com/content/object/eid/1-s2.0-S0960852408008869-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="800" height="581" size="103009">https://api.elsevier.com/content/object/eid/1-s2.0-S0960852408008869-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="159" size="5325">https://api.elsevier.com/content/object/eid/1-s2.0-S0960852408008869-gr2.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>58149189873</scopus-id><scopus-eid>2-s2.0-58149189873</scopus-eid><pubmed-id>19062272</pubmed-id><link href="https://api.elsevier.com/content/abstract/scopus_id/58149189873" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271433</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291731</xocs:ssid>
+         <xocs:ssid type="subj">291744</xocs:ssid>
+         <xocs:ssid type="subj">291793</xocs:ssid>
+         <xocs:ssid type="subj">291832</xocs:ssid>
+         <xocs:ssid type="subj">291838</xocs:ssid>
+         <xocs:ssid type="subj">291850</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Bioresource Technology</xocs:srctitle>
+      <xocs:normalized-srctitle>BIORESOURCETECHNOLOGY</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20081204">2008-12-04</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20081204">2008-12-04</xocs:available-online-date>
+      <xocs:ew-transaction-id>2010-10-08T09:08:27</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0960852408008869</xocs:eid>
+      <xocs:pii-formatted>S0960-8524(08)00886-9</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0960852408008869</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.biortech.2008.10.040</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0960852408X00203</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150515">2015-05-15T03:58:50.232971-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20090401</xocs:date-search-begin>
+      <xocs:date-search-end>20090430</xocs:date-search-end>
+      <xocs:year-nav>2009</xocs:year-nav>
+      <xocs:indexeddate epoch="1228348800">2008-12-04T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst pubtype ref alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0960-8524</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>09608524</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:vol-first>100</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>100</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>7</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>7</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 100, Issue 7</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>37</xocs:sort-order>
+      <xocs:first-fp>2311</xocs:first-fp>
+      <xocs:last-lp>2315</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>2311</xocs:first-page>
+         <xocs:last-page>2315</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>200904</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>April 2009</xocs:cover-date-text>
+      <xocs:cover-date-start>2009-04-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2009-04-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2009</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Short Communications</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>sco</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2008 Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>IMPACTCROPSPECIESBACTERIALCOMMUNITYSTRUCTUREDURINGANAEROBICCODIGESTIONCROPSCOWMANURE</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>WANG</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>H</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Methods</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Biomass source</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Reactor operation</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>T-RFLP analysis</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>DGGE analysis</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.5</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Cloning, sequencing and phylogenetic analysis</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.6</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Nucleotide sequence accession number</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>The bacterial community structures on the basis of their T-RFLP profiles and DGGE band patterns</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Bacterial clone libraries</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="bib1">
+            <xocs:ref-normalized-surname>ALATRISTEMONDRAGON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>607</xocs:ref-first-fp>
+            <xocs:ref-last-lp>636</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib2">
+            <xocs:ref-normalized-surname>AMON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3204</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3212</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3">
+            <xocs:ref-normalized-surname>BODELIER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>163</xocs:ref-first-fp>
+            <xocs:ref-last-lp>174</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib4">
+            <xocs:ref-normalized-surname>CHYNOWETH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-first-fp>71</xocs:ref-first-fp>
+            <xocs:ref-last-lp>113</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>MICROBIOLOGYSOLIDWASTE</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>ANAEROBICDIGESTIONMUNICIPALSOLIDWASTES</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib5">
+            <xocs:ref-normalized-surname>CIRNE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>516</xocs:ref-first-fp>
+            <xocs:ref-last-lp>527</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib6">
+            <xocs:ref-normalized-surname>COLE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>169</xocs:ref-first-fp>
+            <xocs:ref-last-lp>172</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib7">
+            <xocs:ref-normalized-surname>DUNBAR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>190</xocs:ref-first-fp>
+            <xocs:ref-last-lp>197</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib9">
+            <xocs:ref-normalized-surname>LEHTOMAKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>209</xocs:ref-first-fp>
+            <xocs:ref-last-lp>218</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib10">
+            <xocs:ref-normalized-surname>LEHTOMAKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>591</xocs:ref-first-fp>
+            <xocs:ref-last-lp>609</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib11">
+            <xocs:ref-normalized-surname>LYND</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>506</xocs:ref-first-fp>
+            <xocs:ref-last-lp>577</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib12">
+            <xocs:ref-normalized-surname>MAIDAK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>109</xocs:ref-first-fp>
+            <xocs:ref-last-lp>111</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib13">
+            <xocs:ref-normalized-surname>SAIT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2100</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2109</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib14">
+            <xocs:ref-normalized-surname>SOMAYAJI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1994</xocs:ref-pub-year>
+            <xocs:ref-first-fp>521</xocs:ref-first-fp>
+            <xocs:ref-last-lp>523</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib15">
+            <xocs:ref-normalized-surname>VEEKEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>249</xocs:ref-first-fp>
+            <xocs:ref-last-lp>254</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib16">
+            <xocs:ref-normalized-surname>WEILAND</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>263</xocs:ref-first-fp>
+            <xocs:ref-last-lp>274</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib17">
+            <xocs:ref-normalized-surname>WILSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>251</xocs:ref-first-fp>
+            <xocs:ref-last-lp>259</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>WANGX2009X2311</xocs:refkey3>
+         <xocs:refkey4lp>WANGX2009X2311X2315</xocs:refkey4lp>
+         <xocs:refkey4ai>WANGX2009X2311XH</xocs:refkey4ai>
+         <xocs:refkey5>WANGX2009X2311X2315XH</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0960-8524(08)00886-9</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0960852408008869</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0960852408008869</xocs:eid>
+         <xocs:doi>10.1016/j.biortech.2008.10.040</xocs:doi>
+         <xocs:cid>271433</xocs:cid>
+         <xocs:timestamp>2010-11-01T11:08:32.935457-04:00</xocs:timestamp>
+         <xocs:cover-date-start>2009-04-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2009-04-30</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0960852408008869-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0960852408008869/MAIN/application/pdf/83d3af92c101b9bc6c5aab364dc3cf59/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0960852408008869/MAIN/application/pdf/83d3af92c101b9bc6c5aab364dc3cf59/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>416978</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0960852408008869-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0960852408008869/PREVIEW/image/png/843beaea70bf9c097b408ef6c3348efe/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0960852408008869/PREVIEW/image/png/843beaea70bf9c097b408ef6c3348efe/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>59929</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0960852408008869-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0960852408008869/gr1/DOWNSAMPLED/image/jpeg/a3c4c2c7b052282dc60de3ccec38a688/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0960852408008869/gr1/DOWNSAMPLED/image/jpeg/a3c4c2c7b052282dc60de3ccec38a688/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>71105</xocs:filesize>
+               <xocs:pixel-height>362</xocs:pixel-height>
+               <xocs:pixel-width>533</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0960852408008869-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0960852408008869/gr1/THUMBNAIL/image/gif/0726482ee2c9285887bfdeb71248b990/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0960852408008869/gr1/THUMBNAIL/image/gif/0726482ee2c9285887bfdeb71248b990/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>12375</xocs:filesize>
+               <xocs:pixel-height>149</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0960852408008869-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0960852408008869/gr2/DOWNSAMPLED/image/jpeg/ad0ba403489c847fe8d930158e7bc9e2/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0960852408008869/gr2/DOWNSAMPLED/image/jpeg/ad0ba403489c847fe8d930158e7bc9e2/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>103009</xocs:filesize>
+               <xocs:pixel-height>581</xocs:pixel-height>
+               <xocs:pixel-width>800</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0960852408008869-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0960852408008869/gr2/THUMBNAIL/image/gif/23affc52aee317c2e5422aead4ffaa06/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0960852408008869/gr2/THUMBNAIL/image/gif/23affc52aee317c2e5422aead4ffaa06/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>5325</xocs:filesize>
+               <xocs:pixel-height>159</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="sco" xml:lang="en" version="5.0">
+         <item-info>
+            <jid>BITE</jid>
+            <aid>5148</aid>
+            <ce:pii>S0960-8524(08)00886-9</ce:pii>
+            <ce:doi>10.1016/j.biortech.2008.10.040</ce:doi>
+            <ce:copyright type="full-transfer" year="2008">Elsevier Ltd</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Relative abundance of 16S rRNA gene fragments retrieved from the samples of different reactors. E, refer to the early operational period soon after the feeding or OLR change (day 9–15); M, refer to the middle operational period after ca 1.5 HRT operation (day 22–29) in each change; L, refer to the late operational period after ca 2.5 HRTs operation (day 49–50) in each change.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Phylogenetic affiliation of 16S rRNA gene sequences. Bootstrap values from 100 replicates are shown for each node. The scale bar represents a 10% estimated difference in nucleotide sequence. Clones were designed B (sugar beet reactor), S (straw reactor), and G (grass reactor). Numbers in parentheses represent the expected T-RF lengths of the dominant clones. The tree is rooted using <ce:italic>Escherichia coli</ce:italic> as outgroup.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" frame="topbot" id="tbl1" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Operational conditions of the reactors.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="8">
+                  <colspec colname="col1" align="left"/>
+                  <colspec colname="col2" align="left"/>
+                  <colspec colname="col3" align="left"/>
+                  <colspec colname="col4" align="left"/>
+                  <colspec colname="col5" align="left"/>
+                  <colspec colname="col6" align="left"/>
+                  <colspec colname="col7" align="left"/>
+                  <colspec colname="col8" align="left"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Duration (day)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0–27</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">28–55</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">56–84</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">85–141</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">142–203</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">204–266</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">267–318</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Grass reactor</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Cow manure</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Grass</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Grass</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Grass</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Grass</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Grass</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Grass</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Straw reactor</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Cow manure</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Straw</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Straw</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Straw</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Straw</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Straw</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Straw</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Sugar beet reactor</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Cow manure</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Sugar beet</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Sugar beet</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Sugar beet</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Sugar beet</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Load ratio<cross-ref refid="tblfn1">
+                              <sup loc="post">a</sup>
+                           </cross-ref> (% VS)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">10</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">20</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">30</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">40</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">40</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">40</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">OLR<cross-ref refid="tblfn2">
+                              <sup loc="post">b</sup>
+                           </cross-ref> (kg VS m<sup loc="post">−3</sup> d<sup loc="post">−1</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">2</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">3</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">4</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">HRT<cross-ref refid="tblfn3">
+                              <sup loc="post">c</sup>
+                           </cross-ref> (day)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">20</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">20</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">20</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">20</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">20</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">18</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">16</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:table-footnote id="tblfn1">
+                  <ce:label>a</ce:label>
+                  <ce:note-para>Proportion of crops in the feedstock.</ce:note-para>
+               </ce:table-footnote>
+               <ce:table-footnote id="tblfn2">
+                  <ce:label>b</ce:label>
+                  <ce:note-para>Organic loading rate.</ce:note-para>
+               </ce:table-footnote>
+               <ce:table-footnote id="tblfn3">
+                  <ce:label>c</ce:label>
+                  <ce:note-para>Hydraulic retention time.</ce:note-para>
+               </ce:table-footnote>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:dochead>
+               <ce:textfn>Short Communication</ce:textfn>
+            </ce:dochead>
+            <ce:title>Impact of crop species on bacterial community structure during anaerobic co-digestion of crops and cow manure</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Hong</ce:given-name>
+                  <ce:surname>Wang</ce:surname>
+                  <ce:cross-ref refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Annimari</ce:given-name>
+                  <ce:surname>Lehtomäki</ce:surname>
+                  <ce:cross-ref refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Katariina</ce:given-name>
+                  <ce:surname>Tolvanen</ce:surname>
+                  <ce:cross-ref refid="aff3">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Jaakko</ce:given-name>
+                  <ce:surname>Puhakka</ce:surname>
+                  <ce:cross-ref refid="aff3">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Jukka</ce:given-name>
+                  <ce:surname>Rintala</ce:surname>
+                  <ce:cross-ref refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="aff1">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Department of Biological and Environmental Science, University of Jyväskylä, P.O. Box 35, FI-40014 Jyväskylä, Finland</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="aff2">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Jyväskylä Innovation Ltd., P.O. Box 27, FI-40203 Jyväskylä, Finland</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="aff3">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>Institute of Environmental Engineering and Biotechnology, Tampere University of Technology, P.O. Box 541, FI-33101 Tampere, Finland</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author. Tel.: +358 14 2604248; fax: +358 14 2602321.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="28" month="3" year="2008"/>
+            <ce:date-revised day="13" month="10" year="2008"/>
+            <ce:date-accepted day="16" month="10" year="2008"/>
+            <ce:abstract class="author" xml:lang="en"><ce:abstract-sec>
+                  <ce:simple-para view="all">The bacterial communities in three continuously stirred tank reactors co-digesting cow manure with grass silage, oat straw, and sugar beet tops, respectively, were investigated by 16S rRNA gene-based fingerprints and clone libraries. The analyses revealed both clearly distinct and similar phylotypes in the bacterial communities between the reactors. The major groups represented in the three reactors were <ce:italic>Clostridia,</ce:italic> unclassified <ce:italic>Bacteria</ce:italic>, and <ce:italic>Bacteroidetes</ce:italic>. Phylotypes affiliated with <ce:italic>Bacilli</ce:italic> or <ce:italic>Deltaproteobacteria</ce:italic> were unique to the sugar beet and straw reactor, respectively. Unclassified <ce:italic>Bacteria</ce:italic> dominated in sugar beet reactor while in the straw and grass reactor <ce:italic>Clostridia</ce:italic> was the dominant group. An increase in organic loading rate from 2 to 3<ce:hsp sp="0.25"/>kg volatile solids m<ce:sup loc="post">−3</ce:sup> d<ce:sup loc="post">−1</ce:sup> resulted in larger changes in the bacterial community in the straw compared to grass reactor. The study shed more light on the evolution of bacterial community during anaerobic co-digestion of different crops and manure to methane.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>Anaerobic digestion</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Continuously stirred tank reactor</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Bacterial community structure</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Terminal restriction fragment length polymorphism</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Denature gradient gel electrophoresis</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title>Introduction</ce:section-title>
+                  <ce:para view="all">Crops and crop residues represent a large unexploited potential for methane production. The methane yield mainly depends on the organic content of crops degradable in anaerobic digestion (<ce:cross-ref refid="bib2">Amon et al., 2007</ce:cross-ref>). Cellulose together with hemicelluloses and lignin, the most abundant component of crop biomass, are found in the cell wall. Cell walls across crop taxa differ importantly in composition and the anatomical structure. Crops with poorly lignified cell walls are easily degraded, whereas crops with highly lignified walls may constrain degradation (<ce:cross-ref refid="bib17">Wilson and Mertens, 1995</ce:cross-ref>).</ce:para>
+                  <ce:para view="all">Anaerobic digestion of cellulosic material to methane is a multi-step process mediated by <ce:italic>Bacteria</ce:italic> and methanogenic <ce:italic>Archaea</ce:italic> (<ce:cross-ref refid="bib4">Chynoweth and Pullammanappallil, 1996</ce:cross-ref>). The polymers are hydrolyzed into soluble compounds under fermentative condition. Acidogens and acetogenic bacteria convert these intermediates into acetate and one-carbon compounds which can be converted directly by methanogenic <ce:italic>Archaea</ce:italic> into methane and carbon dioxide. Generally, hydrolysis is considered to be the rate-limiting step in the anaerobic digestion of cellulosic material (<ce:cross-ref refid="bib15">Veeken and Hamelers, 1999</ce:cross-ref>). Studies on the anaerobic digestion of cellulosic material have concluded that considerable concentration of cellulolytic capabilities exists among the order <ce:italic>Clostridiales</ce:italic> (<ce:cross-ref refid="bib11">Lynd et al., 2002</ce:cross-ref>).</ce:para>
+                  <ce:para view="all">Co-digestion of crops and cow manure for methane production is an option that has several benefits. The main advantages are improvement of methane yield, reduction of the emissions of greenhouse gas, methane and nitrous oxide, from waste management, and savings in energy costs (<ce:cross-ref refid="bib1">Alatriste-Mondragon et al., 2006</ce:cross-ref>). Technical performance during co-digestion of cow manure and wheat straw (<ce:cross-ref refid="bib14">Somayaji and Khanna, 1994</ce:cross-ref>), and forage beet silage (<ce:cross-ref refid="bib16">Weiland, 2003</ce:cross-ref>) has been investigated in the laboratory, but the microbial population responsible for the anaerobic digestion of crops and wastes has not been linked to substrate characteristics or digestion performance.</ce:para>
+                  <ce:para view="all">Here, the bacterial community structures involved in the co-digestion of sugar beet tops, grass silage, and oat straw along with cow manure were investigated by 16S rRNA gene-based terminal restriction fragment length polymorphism (T-RFLP), denaturing gradient gel electrophoresis (DGGE), and clone library analyses.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title>Methods</ce:section-title>
+                  <ce:section view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title>Biomass source</ce:section-title>
+                     <ce:para view="all">Grass silage (75% timothy <ce:italic>Phleum</ce:italic> 
+                        <ce:italic>pretense</ce:italic>, 25% meadow fescue <ce:italic>Festuca</ce:italic> 
+                        <ce:italic>pratensis</ce:italic>) and straw of oat <ce:italic>Avena</ce:italic> 
+                        <ce:italic>sativa</ce:italic> were from central Finland, whereas tops of sugar beet <ce:italic>Beta</ce:italic> 
+                        <ce:italic>vulgaris</ce:italic> were from southern Finland (<ce:cross-ref refid="bib10">Lehtomäki et al., 2007</ce:cross-ref>). All three plant materials were chopped to a particle size of approximately 3<ce:hsp sp="0.25"/>cm and immediately stored at −20<ce:hsp sp="0.25"/>°C. Cow manure was obtained from central Finland and stored at 4<ce:hsp sp="0.25"/>°C.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title>Reactor operation</ce:section-title>
+                     <ce:para view="all">Four parallel CSTRs were inoculated with digestate from a mesophilic digester in Laukaa, Finland (<ce:cross-ref refid="bib10">Lehtomäki et al., 2007</ce:cross-ref>). The reactors were semi-continuously fed with cow manure at an organic loading rate (OLR) of 2<ce:hsp sp="0.25"/>kg VS m<ce:sup loc="post">−3</ce:sup> d<ce:sup loc="post">−1</ce:sup> and hydraulic retention time (HRT) of 20 days for 27 days and operated at 35<ce:hsp sp="0.25"/>±<ce:hsp sp="0.25"/>1<ce:hsp sp="0.25"/>°C with a continuous stir of 300<ce:hsp sp="0.25"/>rpm. One reactor was then run for additional 28 days with manure alone, whereas sugar beet tops, grass silage, and oat straw henceforth were fed each along with manure in the other three reactors (sugar beet, grass, and straw reactor) by replacing 10% of the feedstock VS with crop while maintaining constant OLR and HRT. The ratio of crop in the feedstock was then gradually increased up to 40%. Finally, the OLRs of the grass and straw reactors were increased first to 3 and then 4<ce:hsp sp="0.25"/>kg VS m<ce:sup loc="post">−3</ce:sup> d<ce:sup loc="post">−1</ce:sup>, respectively (<ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>
+                        <ce:float-anchor refid="tbl1"/>). The samples for investigating the microbial communities were taken during the period when reactors were fed with 40% crop at OLR 2 and 3<ce:hsp sp="0.25"/>kg VS m<ce:sup loc="post">−3</ce:sup> d<ce:sup loc="post">−1</ce:sup>. They were taken soon after the feeding or OLR change (early E, day 9–15), after ca 1.5 HRTs operation (middle M, day 22–29) and after ca 2.5 HRTs operation (late L, day 49–50) and stored immediately at −80<ce:hsp sp="0.25"/>°C.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title>T-RFLP analysis</ce:section-title>
+                     <ce:para view="all">Genomic DNA was extracted by using a FastPrep<ce:sup loc="post">®</ce:sup> Instrument and a Fast DNA<ce:sup loc="post">®</ce:sup> SPIN Kit for Soil (Qbiogene, Inc.) according to the manufacturer’s instructions. Bacterial 16S rRNA genes were amplified using the primer set 27f-6-carboxyfluorescein (FAM)/1492r (<ce:cross-ref refid="bib13">Sait et al., 2003</ce:cross-ref>). PCR was performed in a reaction mixture containing 100<ce:hsp sp="0.25"/>ng of DNA, 1<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>PCR buffer, 200<ce:hsp sp="0.25"/>μM dNTP, 2<ce:hsp sp="0.25"/>U of DyNAzyme™ II DNA polymerase (Finnzymes), and 0.5<ce:hsp sp="0.25"/>μM of each primer and followed the PCR conditions specified by <ce:cross-ref refid="bib13">Sait et al. (2003)</ce:cross-ref> in MBS PCR system (Thermo Fisher Scientific). The PCR products were purified by a GenElute™ PCR clean-up kit (Sigma) and were quantified by a NanoDrop<ce:sup loc="post">®</ce:sup> ND-1000 spectrophotometer (NanoDrop Technologies, Inc., USA).</ce:para>
+                     <ce:para view="all">Approximate 100<ce:hsp sp="0.25"/>ng DNA was digested with 10<ce:hsp sp="0.25"/>U of <ce:italic>MspI</ce:italic> for 3<ce:hsp sp="0.25"/>h at 37<ce:hsp sp="0.25"/>°C. Fluorescently labeled terminal restriction fragments (T-RFs) were separated on an ABI Prism<ce:sup loc="post">®</ce:sup> 3100 automated sequencer (Applied Biosystems) using an internal size standard (GeneScan™ 1200 LIZ<ce:sup loc="post">®</ce:sup>, Applied Biosystems). T-RFLP electropherograms were analyzed with GeneMapper<ce:sup loc="post">®</ce:sup> software version 3.1 (Applied Biosystems). The analysis was performed for each DNA extraction in triplicate. Profiles from different samples were standardized to the profile with the smallest total fluorescent peak area intensity and then a 2% of percentage threshold was applied (<ce:cross-ref refid="bib7">Dunbar et al., 2001</ce:cross-ref>). The relative abundance of T-RF within a profile was calculated on the basis of the standardized peak area.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>2.4</ce:label>
+                     <ce:section-title>DGGE analysis</ce:section-title>
+                     <ce:para view="all">Bacterial 16S rRNA genes were amplified by nested PCRs, using the primer set 27f-1492r for the first PCR and 533f-907r<ce:sup loc="post">GC</ce:sup> for the second one (<ce:cross-ref refid="bib3">Bodelier et al., 2005</ce:cross-ref>). The second PCR was performed using a touchdown program specified by <ce:cross-ref refid="bib3">Bodelier et al. (2005)</ce:cross-ref>.</ce:para>
+                     <ce:para view="all">DGGE was performed using the INGENYphorU-2<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>2 system (Ingeny, The Netherlands) with a denaturing gradient ranging from 30% to 60% where 100% denaturant contained 7<ce:hsp sp="0.25"/>M urea and 40% formamide. The gels were run at 100<ce:hsp sp="0.25"/>V and 60<ce:hsp sp="0.25"/>°C for 20<ce:hsp sp="0.25"/>h and then stained for half an hour in Sybr-Gold<ce:sup loc="post">™</ce:sup> (Invitrogen, USA) (1:10000 dilution in TAE buffer) and photographed (Kodak 1D v.3.5.4 system).</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>2.5</ce:label>
+                     <ce:section-title>Cloning, sequencing and phylogenetic analysis</ce:section-title>
+                     <ce:para view="all">The gene fragments amplified by the primer set 27f-1492r were subcloned into the vector pGEM-T Easy according to the manufacturer’s instructions (Promega). The plasmid was transformed into <ce:italic>Escherichia coli</ce:italic> JM109 competent cells (Promega). The cloned fragments were amplified from randomly selected clones by primer set T7-SP6 and purified for sequencing with Econuclease I-SAP enzyme (Fermentas) according to the manufacturer’s instructions. Sequencing was performed with the 27f primer on an ABI Prism<ce:sup loc="post">®</ce:sup> 3100 sequencer (Applied Biosystems) using an ABI BigDye<ce:sup loc="post">®</ce:sup> terminator v3.1 cycle sequence kit (Applied Biosystems).</ce:para>
+                     <ce:para view="all">The obtained sequences with a range of 800–900 bases were checked for chimerical artifacts by the CHECK-CHIMERA program and uploaded to the <ce:italic>MyRDP</ce:italic> space in the Ribosomal Databases Project II (RDP-II) (<ce:cross-refs refid="bib12 bib6">Maidak et al., 1997; Cole et al., 2007</ce:cross-refs>). Homology search of the sequences against the sequences available in RDP II (release 9.58 February 2008) were performed with the SeqMatch program in RDP II. Finally, a phylogenetic tree was constructed by the neighbor-joining method and the Jukes-Cantor distance model with a PHYLIP 3.65 software package. Bootstrap resampling analysis for 100 replicates was performed. Operational Taxonomic Units (OTUs) were defined for sequences that shared greater than 99% similar.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>2.6</ce:label>
+                     <ce:section-title>Nucleotide sequence accession number</ce:section-title>
+                     <ce:para view="all">The nucleotide sequence reported in this paper was deposited in the NCBI nucleotide sequence databases under Accession Numbers <ce:inter-ref xlink:href="genbank:EU551086" xlink:type="simple">EU551086</ce:inter-ref> through <ce:inter-ref xlink:href="genbank:EU551123" xlink:type="simple">EU551123</ce:inter-ref>.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title>Results and discussion</ce:section-title>
+                  <ce:section view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title>The bacterial community structures on the basis of their T-RFLP profiles and DGGE band patterns</ce:section-title>
+                     <ce:para view="all">The T-RFLP profiles revealed that there were both clearly distinct and also similar T-RFs in their respective bacterial communities in the different reactors (<ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>
+                        <ce:float-anchor refid="fig1"/>). A total of 31 T-RFs were identified in the three reactors. Among them, T-RFs of 157 and 540<ce:hsp sp="0.25"/>bp, which together accounted for 15–31% of the profiles, occurred in all the analyzed samples. In contrast, a T-RF of 90<ce:hsp sp="0.25"/>bp was only found in the sugar beet reactor. T-RFs of 89, 98, 180, and 422<ce:hsp sp="0.25"/>bp were undetected in this reactor while they were often detected in the other reactors. The relatively abundant T-RF of 66<ce:hsp sp="0.25"/>bp was observed throughout in the straw reactor whereas it was detected in the sugar beet and grass reactors only after the later operational period at OLR 2<ce:hsp sp="0.25"/>kg VS m<ce:sup loc="post">−3</ce:sup> d<ce:sup loc="post">−1</ce:sup>.</ce:para>
+                     <ce:para view="all">In addition, the abundance of T-RFs was observed to be related to the OLR. The abundance of T-RF 98<ce:hsp sp="0.25"/>bp decreased in grass and straw reactors while the relative abundance of the T-RFs of 89, 180, and 422<ce:hsp sp="0.25"/>bp increased with increasing OLR. However, larger changes in the abundance of these latter T-RFs were found in the straw reactor than in the grass reactor. Some T-RFs of 85, 134, 162, 176, 186, and 537<ce:hsp sp="0.25"/>bp with a relative abundance of up to 10% of the total profile were present in the reactors only at OLR 2<ce:hsp sp="0.25"/>kg VS m<ce:sup loc="post">−3</ce:sup> d<ce:sup loc="post">−1</ce:sup>, indicating they were minor groups. Overall, the most diverse community was detected during the middle operational phase of the straw reactor at OLR 2<ce:hsp sp="0.25"/>kg VS m<ce:sup loc="post">−3</ce:sup> d<ce:sup loc="post">−1</ce:sup>. The reduction in HRT may have resulted in enrichment of the microbial species outcompeting for the essential resources in the reactor, whereas species with a less competitive advantage were removed from the reactor because of washout.</ce:para>
+                     <ce:para view="all">The DGGE analysis also displayed clearly dissimilar band patterns between the reactors and during the change of OLR. Most bands were recorded in the straw reactor. The DGGE band patterns also revealed clear changes along with the operation of the grass and straw reactors. The band patterns derived from the grass and straw reactors after the late operational period at OLR 2<ce:hsp sp="0.25"/>kg VS m<ce:sup loc="post">−3</ce:sup> d<ce:sup loc="post">−1</ce:sup> showed great dissimilarity with those from the earlier periods. In addition, the band patterns between the grass and straw reactor showed larger difference at OLR 3<ce:hsp sp="0.25"/>kg VS m<ce:sup loc="post">−3</ce:sup> d<ce:sup loc="post">−1</ce:sup> than 2<ce:hsp sp="0.25"/>kg VS m<ce:sup loc="post">−3</ce:sup> d<ce:sup loc="post">−1</ce:sup>.</ce:para>
+                     <ce:para view="all">The development of the bacterial community in the reactors obviously depends on the composition of the feedstock, and on the process conditions, such as OLR, HRT, temperature, and pH. When the present reactors were all fed with cow manure their methane yields and VS removals were very similar (<ce:cross-ref refid="bib10">Lehtomäki et al., 2007</ce:cross-ref>), which suggests good reproducibility of the parallel reactors with identical feedstock and process parameters. In the reactors the similarity was favored by the presence of manure (60% of feed VS) in all three reactor feedstock used as co-substrates. However, differences in population were obviously promoted by differences in the composition of these three crops. High lignin content was found in grass and straw (19 and 21% of TS, respectively), whereas in sugar beet tops lignin content was lower (10% of TS) (<ce:cross-ref refid="bib9">Lehtomaki and Björnsson, 2006</ce:cross-ref>).</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title>Bacterial clone libraries</ce:section-title>
+                     <ce:para view="all">Three clone libraries were constructed from each reactor sample: (i) B and (ii) S library represented the sugar beet reactor and straw reactor at M with the OLR of 2<ce:hsp sp="0.25"/>kg VS m<ce:sup loc="post">−3</ce:sup> d<ce:sup loc="post">−1</ce:sup>, respectively, and (iii) G library represented grass reactor at M with the OLR of 3<ce:hsp sp="0.25"/>kg VS m<ce:sup loc="post">−3</ce:sup> d<ce:sup loc="post">−1</ce:sup>. In total, 11 OTUs were identified for B library (B1–B11), 19 for G library (G1–G19), and 12 for S library (S1–S12). In the G library, the most of OTUs were found to be closely related to species within class <ce:italic>Clostridia</ce:italic> and <ce:italic>Bacteroidetes,</ce:italic> whereas 3 OTUs were not affiliated with a specific phylogenetic group and assigned to unclassified <ce:italic>Bacteria</ce:italic>. The OTUs in B library affiliated to the class <ce:italic>Clostridia, Bacteroidetes</ce:italic>, <ce:italic>Bacilli</ce:italic>, and unclassified <ce:italic>Bacteria</ce:italic>. For S library, the OTUs related to the class <ce:italic>Clostridia, Bacteroidetes</ce:italic>, <ce:italic>Acidobacteria</ce:italic>, <ce:italic>Deltaproteobacteria</ce:italic>, and unclassified <ce:italic>Bacteria</ce:italic>. Apparently, the S library exhibited most phylogenetic diversity at class level, which is in good agreement with the observation derived from T-RFLP and DGGE data. The dominant component in B library was unclassified <ce:italic>Bacteria</ce:italic>, accounting for 47.4% of the total, whereas OTUs affiliated with the class <ce:italic>Clostridia</ce:italic> dominated in both G (50% of the clones) and S (53.3% of the clones) library. The unclassified <ce:italic>Bacteria</ce:italic> were found to be prevalent<ce:italic>,</ce:italic> accounting for 20% of clones, in both S and G library. In addition, OUTs closely related to class <ce:italic>Bacteroidetes</ce:italic> were much more in G library than in other libraries. A recent study (<ce:cross-ref refid="bib5">Cirne et al., 2007</ce:cross-ref>) also showed very few similarities between the microbial populations anaerobic digestion of sugar beets and grass, and the different dominant bacterial group in the two communities.</ce:para>
+                     <ce:para view="all">Sequence analyses showed similar phylotypes in the bacterial communities between the three reactors as shown in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="fig2"/>. G1 (S1, B1) was commonly present in the three library, which was the dominant clone in the B library representing 42% of the clones. The OTU S3 (B3) and S2 (B2) were found in both S and B library. In contrast, distinct phylotypes in the bacterial communities between the three reactors were also observed. An OTU, S11, affiliated with class <ce:italic>Deltaproteobacteria</ce:italic> was detected only in the S library. In addition, a sequence related to class <ce:italic>Acidobacteria</ce:italic> was also only identified in S library. A sequence B11 clustered into class <ce:italic>Bacilli</ce:italic> was only found in the B library. Moreover, there were differences in specific methane yields and VS removals among the reactors. The highest specific methane yields and VS removals were obtained in the grass reactor, while the lowest value was found in the straw reactor (<ce:cross-ref refid="bib10">Lehtomäki et al., 2007</ce:cross-ref>).</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title>Conclusion</ce:section-title>
+                  <ce:para view="all">The study showed that both similar phylotypes and distinct ones in the bacterial communities between the three reactors co-digestion of different crops along with cow manure. The results suggested that the development of bacterial community in these reactors was different.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment>
+               <ce:section-title>Acknowledgements</ce:section-title>
+               <ce:para view="all">We thank Dr. Anna Kaksonen for kindly arranging the DGGE experiments. We also thank Leena Siitonen, Eila Korhonen and Elina Virtanen for their dedicated technical assistance. This work was supported by Finnish Maj and Tor Nessling Foundation and EU 6th Framework Programme (Project SES6-CT-2004-502824).</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec>
+                  <ce:bib-reference id="bib1">
+                     <ce:label>Alatriste-Mondragon et al., 2006</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Alatriste-Mondragon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Samar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.H.</ce:given-name>
+                                 <ce:surname>Cox</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.K.</ce:given-name>
+                                 <ce:surname>Ahring</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Iranpour</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Anaerobic codigestion of municipal, farm, and industrial organic wastes: a survey of recent literature</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Environ. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>78</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>607</sb:first-page>
+                              <sb:last-page>636</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>Amon et al., 2007</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Amon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Amon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Kryvoruchko</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Methane production through anaerobic digestion of various energy crops grown in sustainable crop rotations</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>98</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3204</sb:first-page>
+                              <sb:last-page>3212</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>Bodelier et al., 2005</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.L.</ce:given-name>
+                                 <ce:surname>Bodelier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Meima-Franke</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Zwart</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.J.</ce:given-name>
+                                 <ce:surname>Laanbroek</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>New DGGE strategies for the analyses of methanotrophic microbial communities using different combinations of existing 16S rRNA-based primers</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>FEMS Microbiol. Ecol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>52</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>163</sb:first-page>
+                              <sb:last-page>174</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>Chynoweth and Pullammanappallil, 1996</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.P.</ce:given-name>
+                                 <ce:surname>Chynoweth</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Pullammanappallil</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Anaerobic digestion of municipal solid wastes</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>A.C.</ce:given-name>
+                                    <ce:surname>Palmisano</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>M.A.</ce:given-name>
+                                    <ce:surname>Barlaz</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>Microbiology of Solid Waste</sb:maintitle>
+                              </sb:title>
+                              <sb:date>1996</sb:date>
+                              <sb:publisher>
+                                 <sb:name>CRC Press</sb:name>
+                                 <sb:location>Boca Raton, Florida</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>71</sb:first-page>
+                              <sb:last-page>113</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>Cirne et al., 2007</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.G.</ce:given-name>
+                                 <ce:surname>Cirne</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Lehtomaki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Bjornsson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.L.</ce:given-name>
+                                 <ce:surname>Blackall</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Hydrolysis and microbial community analyses in two-stage anaerobic digestion of energy crops</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Appl. Microbiol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>103</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>516</sb:first-page>
+                              <sb:last-page>527</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>Cole et al., 2007</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Cole</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Chai</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Farris</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Q.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.S.</ce:given-name>
+                                 <ce:surname>Kulam-Syed-Mohideen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.M.</ce:given-name>
+                                 <ce:surname>McGarrell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.M.</ce:given-name>
+                                 <ce:surname>Bandela</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Cardenas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.M.</ce:given-name>
+                                 <ce:surname>Garrity</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Tiedje</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The ribosomal database project (RDP-II): introducing MyRDP space and quality controlled public data</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nucleic Acids Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>169</sb:first-page>
+                              <sb:last-page>172</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>Dunbar et al., 2001</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Dunbar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.O.</ce:given-name>
+                                 <ce:surname>Ticknor</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.R.</ce:given-name>
+                                 <ce:surname>Kuske</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Phylogenetic specificity and reproducibility and new method for analysis of terminal restriction fragment profiles of 16S rRNA genes from bacterial communities</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Environ. Microbiol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>67</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>190</sb:first-page>
+                              <sb:last-page>197</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>Lehtomaki and Björnsson, 2006</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Lehtomaki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Björnsson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Two-stage anaerobic digestion of energy crops: methane production, nitrogen mineralisation and heavy metal mobilisation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Environ. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>27</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>209</sb:first-page>
+                              <sb:last-page>218</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>Lehtomäki et al., 2007</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Lehtomäki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Huttunen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Rintala</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Laboratory investigations on co-digestion of energy crops, crop residues and cow manure: effect of crop to manure ratio</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Resour. Conserv. Recycl.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>51</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>591</sb:first-page>
+                              <sb:last-page>609</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>Lynd et al., 2002</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.R.</ce:given-name>
+                                 <ce:surname>Lynd</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.J.</ce:given-name>
+                                 <ce:surname>Weimer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.H.</ce:given-name>
+                                 <ce:surname>van Zyl</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.S.</ce:given-name>
+                                 <ce:surname>Pretorius</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Microbial cellulose utilization: fundamentals and biotechnology</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Microbiol. Mol. Biol. Rev.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>66</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>506</sb:first-page>
+                              <sb:last-page>577</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>Maidak et al., 1997</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>B.L.</ce:given-name>
+                                 <ce:surname>Maidak</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.J.</ce:given-name>
+                                 <ce:surname>Olsen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Larsen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Overbeek</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.J.</ce:given-name>
+                                 <ce:surname>McCaughey</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.R.</ce:given-name>
+                                 <ce:surname>Woese</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The RDP (Ribosomal Database Project)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Nucleic Acids Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>109</sb:first-page>
+                              <sb:last-page>111</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>Sait et al., 2003</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Sait</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Galic</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.A.</ce:given-name>
+                                 <ce:surname>Strugnell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.H.</ce:given-name>
+                                 <ce:surname>Janssen</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Secretory antibodies do not affect the composition of the bacterial microbiota in the terminal ileum of 10-week-old mice</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Environ. Microbiol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>69</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2100</sb:first-page>
+                              <sb:last-page>2109</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>Somayaji and Khanna, 1994</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Somayaji</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Khanna</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Biomethanation of rice and wheat straw</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>W. J. Microbiol. Biotechnol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1994</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>521</sb:first-page>
+                              <sb:last-page>523</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>Veeken and Hamelers, 1999</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Veeken</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Hamelers</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of temperature on hydrolysis rates of selected biowaste components</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>69</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>249</sb:first-page>
+                              <sb:last-page>254</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>Weiland, 2003</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Weiland</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Production and energetic use of biogas from energy crops and wastes in Germany</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Biochem. Biotechnol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>109</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>263</sb:first-page>
+                              <sb:last-page>274</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>Wilson and Mertens, 1995</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.R.</ce:given-name>
+                                 <ce:surname>Wilson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.R.</ce:given-name>
+                                 <ce:surname>Mertens</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Cell wall accessibility and cell structure limitations to microbial digestion of forage</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Crop Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1995</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>251</sb:first-page>
+                              <sb:last-page>259</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

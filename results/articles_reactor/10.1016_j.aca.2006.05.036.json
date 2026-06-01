@@ -1,0 +1,23 @@
+{
+  "manual_review": [],
+  "llm_review": [
+    [
+      "10.1016_j.aca.2006.05.036",
+      "biofilm derivative"
+    ]
+  ],
+  "correct_predictions": 0,
+  "false_predictions": 1,
+  "missed_predictions": 0,
+  "precision": 0.0,
+  "recall": 0,
+  "f1_score": 0,
+  "correct_items": [],
+  "false_items": [
+    [
+      "10.1016_j.aca.2006.05.036",
+      "biofilm derivative"
+    ]
+  ],
+  "missed_items": []
+}

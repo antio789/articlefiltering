@@ -1,0 +1,951 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0306261999000847</prism:url><dc:identifier>doi:10.1016/S0306-2619(99)00084-7</dc:identifier><eid>1-s2.0-S0306261999000847</eid><prism:doi>10.1016/S0306-2619(99)00084-7</prism:doi><pii>S0306-2619(99)00084-7</pii><dc:title>Inclined-plug-flow type reactor for anaerobic digestion of semi-solid waste </dc:title><prism:publicationName>Applied Energy</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>03062619</prism:issn><prism:volume>65</prism:volume><prism:issueIdentifier>1-4</prism:issueIdentifier><prism:startingPage>173</prism:startingPage><prism:endingPage>185</prism:endingPage><prism:pageRange>173-185</prism:pageRange><prism:number>1-4</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2000-04-30</prism:coverDate><prism:coverDisplayDate>April 2000</prism:coverDisplayDate><prism:copyright>Copyright © 1999 Elsevier Science Ltd. All rights reserved.</prism:copyright><prism:publisher>Elsevier Science Ltd.</prism:publisher><dc:creator>Sharma, V.K</dc:creator><dc:creator>Testa, C</dc:creator><dc:creator>Lastella, G</dc:creator><dc:creator>Cornacchia, G</dc:creator><dc:creator>Comparato, M.P</dc:creator><dc:description>
+                  Preliminary experimental results obtained from the treatment of semi-solid wastes generated from wholesale fruit and vegetable markets, supermarkets, etc. mixed together with sewage sludge, are reported.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Anaerobic digestion</dcterms:subject><dcterms:subject>Plug-flow type reactor</dcterms:subject><dcterms:subject>Semi-solid organic waste</dcterms:subject><dcterms:subject>Biogas</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0306261999000847" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0306261999000847" rel="scidir"/></coredata><objects><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="112" height="93" size="2004">https://api.elsevier.com/content/object/eid/1-s2.0-S0306261999000847-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="448" height="373" size="16517">https://api.elsevier.com/content/object/eid/1-s2.0-S0306261999000847-gr1.gif?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="53" size="999">https://api.elsevier.com/content/object/eid/1-s2.0-S0306261999000847-gr2.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="376" height="160" size="3949">https://api.elsevier.com/content/object/eid/1-s2.0-S0306261999000847-gr2.gif?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="60" size="1073">https://api.elsevier.com/content/object/eid/1-s2.0-S0306261999000847-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="384" height="184" size="3994">https://api.elsevier.com/content/object/eid/1-s2.0-S0306261999000847-gr3.gif?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="62" size="1091">https://api.elsevier.com/content/object/eid/1-s2.0-S0306261999000847-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="380" height="187" size="3716">https://api.elsevier.com/content/object/eid/1-s2.0-S0306261999000847-gr4.gif?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="61" size="1147">https://api.elsevier.com/content/object/eid/1-s2.0-S0306261999000847-gr5.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="363" height="176" size="4434">https://api.elsevier.com/content/object/eid/1-s2.0-S0306261999000847-gr5.gif?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="67" size="1022">https://api.elsevier.com/content/object/eid/1-s2.0-S0306261999000847-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="375" height="202" size="4250">https://api.elsevier.com/content/object/eid/1-s2.0-S0306261999000847-gr6.gif?httpAccept=%2A%2F%2A</object><object ref="gr7" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="64" size="1762">https://api.elsevier.com/content/object/eid/1-s2.0-S0306261999000847-gr7.sml?httpAccept=%2A%2F%2A</object><object ref="gr7" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="384" height="198" size="22085">https://api.elsevier.com/content/object/eid/1-s2.0-S0306261999000847-gr7.jpg?httpAccept=%2A%2F%2A</object><object ref="gr8" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="51" size="1213">https://api.elsevier.com/content/object/eid/1-s2.0-S0306261999000847-gr8.sml?httpAccept=%2A%2F%2A</object><object ref="gr8" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="488" height="198" size="22124">https://api.elsevier.com/content/object/eid/1-s2.0-S0306261999000847-gr8.jpg?httpAccept=%2A%2F%2A</object><object ref="gr9" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="56" size="1209">https://api.elsevier.com/content/object/eid/1-s2.0-S0306261999000847-gr9.sml?httpAccept=%2A%2F%2A</object><object ref="gr9" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="485" height="217" size="16993">https://api.elsevier.com/content/object/eid/1-s2.0-S0306261999000847-gr9.jpg?httpAccept=%2A%2F%2A</object><object ref="gr10" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="56" size="1169">https://api.elsevier.com/content/object/eid/1-s2.0-S0306261999000847-gr10.sml?httpAccept=%2A%2F%2A</object><object ref="gr10" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="GIF image file" mimetype="image/gif" width="456" height="206" size="6487">https://api.elsevier.com/content/object/eid/1-s2.0-S0306261999000847-gr10.gif?httpAccept=%2A%2F%2A</object><object ref="gr11" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="57" size="1195">https://api.elsevier.com/content/object/eid/1-s2.0-S0306261999000847-gr11.sml?httpAccept=%2A%2F%2A</object><object ref="gr11" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="481" height="220" size="16010">https://api.elsevier.com/content/object/eid/1-s2.0-S0306261999000847-gr11.jpg?httpAccept=%2A%2F%2A</object></objects><scopus-id>0034078785</scopus-id><scopus-eid>2-s2.0-0034078785</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0034078785" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271429</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291702</xocs:ssid>
+         <xocs:ssid type="subj">291731</xocs:ssid>
+         <xocs:ssid type="subj">291787</xocs:ssid>
+         <xocs:ssid type="subj">291877</xocs:ssid>
+         <xocs:ssid type="subj">291878</xocs:ssid>
+         <xocs:ssid type="subj">291881</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Applied Energy</xocs:srctitle>
+      <xocs:normalized-srctitle>APPLIEDENERGY</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20000124">2000-01-24</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20000124">2000-01-24</xocs:available-online-date>
+      <xocs:ew-transaction-id>2010-03-24T23:54:25</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0306261999000847</xocs:eid>
+      <xocs:pii-formatted>S0306-2619(99)00084-7</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0306261999000847</xocs:pii-unformatted>
+      <xocs:doi>10.1016/S0306-2619(99)00084-7</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0306261900X00517</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20240101">2024-01-01T12:59:28.705439Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20000401</xocs:date-search-begin>
+      <xocs:date-search-end>20000430</xocs:date-search-end>
+      <xocs:year-nav>2000</xocs:year-nav>
+      <xocs:indexeddate epoch="948672000">2000-01-24T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0306-2619</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>03062619</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:vol-first>65</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>65</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>1</xocs:iss-first>
+      <xocs:iss-last>4</xocs:iss-last>
+      <xocs:issue-list>
+         <xocs:issue>1</xocs:issue>
+         <xocs:issue>2</xocs:issue>
+         <xocs:issue>3</xocs:issue>
+         <xocs:issue>4</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 65, Issues 1–4</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>18</xocs:sort-order>
+      <xocs:first-fp>173</xocs:first-fp>
+      <xocs:last-lp>185</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>173</xocs:first-page>
+         <xocs:last-page>185</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>200004</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>April 2000</xocs:cover-date-text>
+      <xocs:cover-date-start>2000-04-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2000-04-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2000</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1999 Elsevier Science Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>INCLINEDPLUGFLOWTYPEREACTORFORANAEROBICDIGESTIONSEMISOLIDWASTE</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>SHARMA</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>V</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Anaerobic digestion process</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Hydrolysis</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Acetic acid formation</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Production of methane</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Description of anaerobic plug-flow type digester</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Grinding system</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Mixing unit</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Material input to the reactor</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Anaerobic reactor</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.5</xocs:item-toc-label>
+               <xocs:item-toc-section-title>System of discharge of biogas</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.6</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Biogas quantity and quality</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.7</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Data-acquisition system</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Experimental</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>4.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Insemination phase</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>4.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Start-up with orthofruit wastes</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>4.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Steady-state observations</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>5</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Methods for substrate analysis</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>5.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Total solids (TS) and total volatile solids (VS)</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>5.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Chemical oxygen demand (COD)</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>5.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Volatile fatty-acids (VFA)</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>5.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>pH</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>5.5</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Total alkalinity (TA)</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>5.6</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Quantity of biogas</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>5.7</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Quality of biogas</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>6</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>6.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Substrate</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>6.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Conditions inside the digester</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>6.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>COD and volatile solids removal</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>6.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Biogas and methane production</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgements</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1"/>
+         <xocs:ref-info refid="BIB2"/>
+         <xocs:ref-info refid="BIB3"/>
+         <xocs:ref-info refid="BIB4"/>
+         <xocs:ref-info refid="BIB5"/>
+         <xocs:ref-info refid="BIB6"/>
+         <xocs:ref-info refid="BIB7"/>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>SHARMAX2000X173</xocs:refkey3>
+         <xocs:refkey4lp>SHARMAX2000X173X185</xocs:refkey4lp>
+         <xocs:refkey4ai>SHARMAX2000X173XV</xocs:refkey4ai>
+         <xocs:refkey5>SHARMAX2000X173X185XV</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0306-2619(99)00084-7</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0306261999000847</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0306261999000847</xocs:eid>
+         <xocs:doi>10.1016/S0306-2619(99)00084-7</xocs:doi>
+         <xocs:cid>271429</xocs:cid>
+         <xocs:timestamp>2024-01-01T12:59:28.705439Z</xocs:timestamp>
+         <xocs:cover-date-start>2000-04-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2000-04-30</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0306261999000847-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0306261999000847/MAIN/application/pdf/7ce62da76bb9b906eda6d7ece48a6d00/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0306261999000847/MAIN/application/pdf/7ce62da76bb9b906eda6d7ece48a6d00/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>183608</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>13</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0306261999000847-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0306261999000847/PREVIEW/image/png/a28ff5a9c99377eefa0459812b478ec2/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0306261999000847/PREVIEW/image/png/a28ff5a9c99377eefa0459812b478ec2/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>41568</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0306261999000847-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0306261999000847/gr1/THUMBNAIL/image/gif/a503bb5d52fb5c50427c85a9d0d67768/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0306261999000847/gr1/THUMBNAIL/image/gif/a503bb5d52fb5c50427c85a9d0d67768/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2004</xocs:filesize>
+               <xocs:pixel-height>93</xocs:pixel-height>
+               <xocs:pixel-width>112</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0306261999000847-gr1.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0306261999000847/gr1/DOWNSAMPLED/image/gif/181fb69192535568b17a1eb278d3daa1/gr1.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0306261999000847/gr1/DOWNSAMPLED/image/gif/181fb69192535568b17a1eb278d3daa1/gr1.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>16517</xocs:filesize>
+               <xocs:pixel-height>373</xocs:pixel-height>
+               <xocs:pixel-width>448</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0306261999000847-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0306261999000847/gr2/THUMBNAIL/image/gif/2b7ed5a408d321ce330218fca38b93aa/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0306261999000847/gr2/THUMBNAIL/image/gif/2b7ed5a408d321ce330218fca38b93aa/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>999</xocs:filesize>
+               <xocs:pixel-height>53</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0306261999000847-gr2.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0306261999000847/gr2/DOWNSAMPLED/image/gif/0c11812fb9e58c9ffef8c7ec72c3044a/gr2.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0306261999000847/gr2/DOWNSAMPLED/image/gif/0c11812fb9e58c9ffef8c7ec72c3044a/gr2.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>3949</xocs:filesize>
+               <xocs:pixel-height>160</xocs:pixel-height>
+               <xocs:pixel-width>376</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0306261999000847-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0306261999000847/gr3/THUMBNAIL/image/gif/efc35c544a0b82ef138527e1360cf7d3/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0306261999000847/gr3/THUMBNAIL/image/gif/efc35c544a0b82ef138527e1360cf7d3/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1073</xocs:filesize>
+               <xocs:pixel-height>60</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0306261999000847-gr3.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0306261999000847/gr3/DOWNSAMPLED/image/gif/aca5de72ac97d70f9e5b9f2357f8f851/gr3.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0306261999000847/gr3/DOWNSAMPLED/image/gif/aca5de72ac97d70f9e5b9f2357f8f851/gr3.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>3994</xocs:filesize>
+               <xocs:pixel-height>184</xocs:pixel-height>
+               <xocs:pixel-width>384</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0306261999000847-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0306261999000847/gr4/THUMBNAIL/image/gif/351eceebd87c377e485d8f1c51d56fcb/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0306261999000847/gr4/THUMBNAIL/image/gif/351eceebd87c377e485d8f1c51d56fcb/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1091</xocs:filesize>
+               <xocs:pixel-height>62</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0306261999000847-gr4.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0306261999000847/gr4/DOWNSAMPLED/image/gif/1a0804abe7a772d7804331fe39468f82/gr4.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0306261999000847/gr4/DOWNSAMPLED/image/gif/1a0804abe7a772d7804331fe39468f82/gr4.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>3716</xocs:filesize>
+               <xocs:pixel-height>187</xocs:pixel-height>
+               <xocs:pixel-width>380</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0306261999000847-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0306261999000847/gr5/THUMBNAIL/image/gif/9efc3a201d3ace35c3bd02bb0680fff4/gr5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0306261999000847/gr5/THUMBNAIL/image/gif/9efc3a201d3ace35c3bd02bb0680fff4/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1147</xocs:filesize>
+               <xocs:pixel-height>61</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0306261999000847-gr5.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0306261999000847/gr5/DOWNSAMPLED/image/gif/ab28795e77bd2bc07b4dbb18e3162320/gr5.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0306261999000847/gr5/DOWNSAMPLED/image/gif/ab28795e77bd2bc07b4dbb18e3162320/gr5.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>4434</xocs:filesize>
+               <xocs:pixel-height>176</xocs:pixel-height>
+               <xocs:pixel-width>363</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0306261999000847-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0306261999000847/gr6/THUMBNAIL/image/gif/4c01d2517b1b022567ae48d7c5e105b5/gr6.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0306261999000847/gr6/THUMBNAIL/image/gif/4c01d2517b1b022567ae48d7c5e105b5/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1022</xocs:filesize>
+               <xocs:pixel-height>67</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0306261999000847-gr6.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0306261999000847/gr6/DOWNSAMPLED/image/gif/345801c0842281bd87935577acc9730e/gr6.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0306261999000847/gr6/DOWNSAMPLED/image/gif/345801c0842281bd87935577acc9730e/gr6.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>4250</xocs:filesize>
+               <xocs:pixel-height>202</xocs:pixel-height>
+               <xocs:pixel-width>375</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0306261999000847-gr7.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0306261999000847/gr7/THUMBNAIL/image/gif/c53585b076494c94a8ea81670d42970d/gr7.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0306261999000847/gr7/THUMBNAIL/image/gif/c53585b076494c94a8ea81670d42970d/gr7.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1762</xocs:filesize>
+               <xocs:pixel-height>64</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0306261999000847-gr7.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0306261999000847/gr7/DOWNSAMPLED/image/jpeg/b97a3103c4504442c0bee365dc9e5f29/gr7.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0306261999000847/gr7/DOWNSAMPLED/image/jpeg/b97a3103c4504442c0bee365dc9e5f29/gr7.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>22085</xocs:filesize>
+               <xocs:pixel-height>198</xocs:pixel-height>
+               <xocs:pixel-width>384</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0306261999000847-gr8.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0306261999000847/gr8/THUMBNAIL/image/gif/f4ae6cf3ff08e703dfee55c041c161c2/gr8.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0306261999000847/gr8/THUMBNAIL/image/gif/f4ae6cf3ff08e703dfee55c041c161c2/gr8.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1213</xocs:filesize>
+               <xocs:pixel-height>51</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0306261999000847-gr8.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0306261999000847/gr8/DOWNSAMPLED/image/jpeg/8bc60effb916aabcb8e220fa8a0678f9/gr8.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0306261999000847/gr8/DOWNSAMPLED/image/jpeg/8bc60effb916aabcb8e220fa8a0678f9/gr8.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr8</xocs:file-basename>
+               <xocs:filename>gr8.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>22124</xocs:filesize>
+               <xocs:pixel-height>198</xocs:pixel-height>
+               <xocs:pixel-width>488</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0306261999000847-gr9.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0306261999000847/gr9/THUMBNAIL/image/gif/0b1c437ff98425bbf947d830b0ed0907/gr9.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0306261999000847/gr9/THUMBNAIL/image/gif/0b1c437ff98425bbf947d830b0ed0907/gr9.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr9</xocs:file-basename>
+               <xocs:filename>gr9.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1209</xocs:filesize>
+               <xocs:pixel-height>56</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0306261999000847-gr9.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0306261999000847/gr9/DOWNSAMPLED/image/jpeg/6c86f7b08e993958e4b4ececa94424ef/gr9.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0306261999000847/gr9/DOWNSAMPLED/image/jpeg/6c86f7b08e993958e4b4ececa94424ef/gr9.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr9</xocs:file-basename>
+               <xocs:filename>gr9.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>16993</xocs:filesize>
+               <xocs:pixel-height>217</xocs:pixel-height>
+               <xocs:pixel-width>485</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0306261999000847-gr10.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0306261999000847/gr10/THUMBNAIL/image/gif/3272aa0abc74ad5b311502089033fb16/gr10.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0306261999000847/gr10/THUMBNAIL/image/gif/3272aa0abc74ad5b311502089033fb16/gr10.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr10</xocs:file-basename>
+               <xocs:filename>gr10.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1169</xocs:filesize>
+               <xocs:pixel-height>56</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0306261999000847-gr10.gif</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0306261999000847/gr10/DOWNSAMPLED/image/gif/522a3ad2a5ef485912a68d2b32e4ffcb/gr10.gif</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0306261999000847/gr10/DOWNSAMPLED/image/gif/522a3ad2a5ef485912a68d2b32e4ffcb/gr10.gif</xocs:ucs-locator>
+               <xocs:file-basename>gr10</xocs:file-basename>
+               <xocs:filename>gr10.gif</xocs:filename>
+               <xocs:extension>gif</xocs:extension>
+               <xocs:filesize>6487</xocs:filesize>
+               <xocs:pixel-height>206</xocs:pixel-height>
+               <xocs:pixel-width>456</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0306261999000847-gr11.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0306261999000847/gr11/THUMBNAIL/image/gif/9c71eca1787efc123b82ddfc41bece82/gr11.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0306261999000847/gr11/THUMBNAIL/image/gif/9c71eca1787efc123b82ddfc41bece82/gr11.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr11</xocs:file-basename>
+               <xocs:filename>gr11.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1195</xocs:filesize>
+               <xocs:pixel-height>57</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0306261999000847-gr11.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0306261999000847/gr11/DOWNSAMPLED/image/jpeg/f8e03159082971150ed6801de314783f/gr11.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0306261999000847/gr11/DOWNSAMPLED/image/jpeg/f8e03159082971150ed6801de314783f/gr11.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr11</xocs:file-basename>
+               <xocs:filename>gr11.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>16010</xocs:filesize>
+               <xocs:pixel-height>220</xocs:pixel-height>
+               <xocs:pixel-width>481</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>APEN</jid>
+            <aid>523</aid>
+            <ce:pii>S0306-2619(99)00084-7</ce:pii>
+            <ce:doi>10.1016/S0306-2619(99)00084-7</ce:doi>
+            <ce:copyright type="full-transfer" year="1999">Elsevier Science Ltd</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="FIGGR1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Pilot-scale experimental inclined plug-flow type anaerobic reactor.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="FIGGR2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Mean values for total and volatile solids for the components of the mixing feedstock during start-up (HRT 33.7 days).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:figure id="FIGGR3">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Mean values for volatile fatty acids during start-up (HRT 33.7 days).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:figure id="FIGGR4">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Mean pH values inside the digester during start-up (HRT 33.7 days).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4"/>
+            </ce:figure>
+            <ce:figure id="FIGGR5">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Mean values for total alkalinity in the digester during start-up (HRT 33.7 days).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5"/>
+            </ce:figure>
+            <ce:figure id="FIGGR6">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Mean values for total and volatile solids inside the digester during start-up (HRT 33.7 days).</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr6"/>
+            </ce:figure>
+            <ce:figure id="FIGGR7">
+               <ce:label>Fig. 7</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Mean values for total and volatile solids in the input feedstock and in the effluent sludge during different experimental conditions.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr7"/>
+            </ce:figure>
+            <ce:figure id="FIGGR8">
+               <ce:label>Fig. 8</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Mean COD values in the input feedstock and in the effluent sludge during different experimental conditions.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr8"/>
+            </ce:figure>
+            <ce:figure id="FIGGR9">
+               <ce:label>Fig. 9</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Mean values for daily biogas production (methane and carbon dioxide) during different experimental conditions.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr9"/>
+            </ce:figure>
+            <ce:figure id="FIGGR10">
+               <ce:label>Fig. 10</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Mean values for specific methane and biogas production during different experimental conditions.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr10"/>
+            </ce:figure>
+            <ce:figure id="FIGGR11">
+               <ce:label>Fig. 11</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Mean values of methane and gas production per kg of VS added during different experimental conditions.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr11"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="TBL1" colsep="0" rowsep="0" frame="topbot">
+               <ce:label>Table 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">VS and COD percentage removals during different experimental conditions</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="4">
+                  <colspec colname="col1" colsep="0"/>
+                  <colspec colname="col2" colsep="0"/>
+                  <colspec colname="col3" colsep="0"/>
+                  <colspec colname="col4" colsep="0"/>
+                  <thead>
+                     <row rowsep="1">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd"/>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">VS removal<cross-ref refid="TBLFN1A">
+                              <sup loc="post">a</sup>
+                           </cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">COD (total) removal<cross-ref refid="TBLFN1A">
+                              <sup loc="post">a</sup>
+                           </cross-ref>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">COD (dissolved) removal<cross-ref refid="TBLFN1A">
+                              <sup loc="post">a</sup>
+                           </cross-ref>
+                        </entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Start-up (HRT 33.7 d)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">55</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">71</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">93</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Steady-state (HRT 33.7 d)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">71</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">78</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">93</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Steady-state (HRT 22.5 d)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">66</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">71</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">95</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+               <ce:table-footnote id="TBLFN1A">
+                  <ce:label>a</ce:label>
+                  <ce:note-para>Percentage of the input feedstock concentrations.</ce:note-para>
+               </ce:table-footnote>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title>Inclined-plug-flow type reactor for anaerobic digestion of semi-solid waste</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>V.K</ce:given-name>
+                  <ce:surname>Sharma</ce:surname>
+                  <ce:cross-ref refid="CORR1">*</ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>C</ce:given-name>
+                  <ce:surname>Testa</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>G</ce:given-name>
+                  <ce:surname>Lastella</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>G</ce:given-name>
+                  <ce:surname>Cornacchia</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>M.P</ce:given-name>
+                  <ce:surname>Comparato</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>ENEA Research Center Trisaia, AMB-TEIN-RIF, 75025 Policoro (MT), Italy</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="CORR1">
+                  <ce:label>*</ce:label>
+                  <ce:text>Corresponding author</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:abstract class="author"><ce:abstract-sec>
+                  <ce:simple-para view="all">Preliminary experimental results obtained from the treatment of semi-solid wastes generated from wholesale fruit and vegetable markets, supermarkets, etc. mixed together with sewage sludge, are reported.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>Anaerobic digestion</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Plug-flow type reactor</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Semi-solid organic waste</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Biogas</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body>
+            <ce:sections>
+               <ce:section view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title>Introduction</ce:section-title>
+                  <ce:para view="all">Large quantities of semi-solid wastes are generated from wholesale fruit and vegetable markets, supermarkets, etc. From the chemical point of view, such wastes present very high C/N ratios and are characterized by high water contents (&gt;80%). Such residues after dewatering could be composted aerobically, but anaerobic digestion without any pre-treatment, with energy recovery, seems to be a more attractive method for the treatment of above mentioned semi-solid wastes.</ce:para>
+                  <ce:para view="all">During the last two decades, considerable progress has been made in the understanding of the anaerobic process. Several researchers <ce:cross-refs refid="BIB1 BIB2 BIB3 BIB4 BIB5">[1–5]</ce:cross-refs> have already described a number of designs and their performances. However, the standardization of procedures for waste characterization, expansion of anaerobic digestion technology to a wider range of wastes, improvement in reactor design, understanding of a consensus on the utility of monitoring data in delineating operational control, etc., are the principal problems yet to be solved. Designs such as batch and plug-flow types, having significant potentials to produce biogas with lower capital investment and higher efficiency levels, no doubt, exist in both industrialized and developing countries, but, in general, such plants have been tested experimentally using only substrates such as pig manure, distillery wastewater, cattle residues, organic fraction of garbage and municipal sewage sludge, etc. Very little work on the treatment of semi-solid waste mentioned above has been reported. Thus an attempt has been made to develop an efficient and reliable anaerobic treatment process. To achieve the objective, a plug-flow type reactor based upon the principle of anaerobic digestion has been installed at the ENEA Research Center Trisaia, in Italy. A set of experiments using semi-solid wastes available from wholesale fruit and vegetable markets mixed together with sewage sludge (in different proportions) have been conducted. The data obtained have been analyzed and the preliminary results obtained in terms of the quantity and quality of biogas produced.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title>Anaerobic digestion process</ce:section-title>
+                  <ce:para view="all">By this process, almost any organic waste can be biologically converted in the absence of oxygen. This process requires specific environmental conditions and different bacterial populations. Mixed bacterial populations degrade organic compounds, thus producing as the end-product, a valuable high-energy mixture of gases (mainly CH<ce:inf loc="post">4</ce:inf> and CO<ce:inf loc="post">2</ce:inf>) termed biogas. By means of enzymes produced by different kinds of bacteria, the organic wastes undergo three main reactions, namely hydrolysis, acetogenesis and methanogenesis.</ce:para>
+                  <ce:section view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title>Hydrolysis</ce:section-title>
+                     <ce:para view="all">Organic macromolecules, i.e. carbohydrates, proteins and fats are de-polymerized by extra-cellular enzymes. Thus produced monomers undergo degrading reactions, which produce acetic acid, long-chain fatty acids and CO<ce:inf loc="post">2</ce:inf>.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title>Acetic acid formation</ce:section-title>
+                     <ce:para view="all">Different bacteria degrading long-chain fatty acids later produce acetic acid, molecular hydrogen and CO<ce:inf loc="post">2</ce:inf>. Acetic acid can even be produced from CO<ce:inf loc="post">2</ce:inf> and H<ce:inf loc="post">2</ce:inf>, and from fatty acids, alcohols and carbohydrates. Bacteria that produce enzymes for such reactions are generically called “Acetogens”.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title>Production of methane</ce:section-title>
+                     <ce:para view="all">Acetic acid is finally degraded with methane production by so-called methanogenic bacteria or “Methanogens”. These bacteria are highly sensitive to the O<ce:inf loc="post">2</ce:inf> concentration in the system. Their inactivity holds to an uprising fatty and acetic acids concentration within the environment, consequently lowering the pH, whose measure, in a well-balanced system, has a range between 7 and 8.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title>Description of anaerobic plug-flow type digester</ce:section-title>
+                  <ce:para view="all">The principal objective of developing such a design was to achieve a low initial investment, high efficiency and relatively simple operational and maintenance operations. The main components of the system under investigation (<ce:cross-ref refid="FIGGR1">Fig. 1</ce:cross-ref>
+                     <ce:float-anchor refid="FIGGR1"/>) are: an anaerobic inclined reactor, grinding system, mixer, loading unit, biogas discharging system, gas analyzer and a data-acquisition device.</ce:para>
+                  <ce:section view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title>Grinding system</ce:section-title>
+                     <ce:para view="all">The pilot-scale experimental plant comprises of two trituration systems, i.e. a screw mincer and homogenizer grinder. Though capable of treating fruits with consistent kernel, the screw mincer is very slow. The homogenizer grinder, having a volume of 25 l is faster, but it cannot break the hard fruit kernel. To speed up the grinding of the substrate, a proper system (i.e. grid) for fruit-kernel removal was provided on the way to the feeding hopper.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title>Mixing unit</ce:section-title>
+                     <ce:para view="all">A trapezoidal-shaped hopper (volume of nearly 500 l) is provided with a 50-cm long blade stirrer at the top. Due to the specific characteristics of the hopper, vertical stratification and local mixing of the input waste was observed. Down stream from the loading pump, the material was recycled back to the hopper, thus obtaining excellent mixing. The pump is provided with two valves. To have a sample of the input feedstock, a suitable socket has been provided on the line.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title>Material input to the reactor</ce:section-title>
+                     <ce:para view="all">Considering the high pumping power and loading rate of nearly 40 kg/day, initially it was intended to feed the reactor continuously by adjusting the opening of the valve, while operating in the re-circulating mode. However, due to technical problems associated with the pump, feeding the reactor continuously was not possible. Hence the reactor was loaded once a day. The loading system consists of a hopper having dimension 0.8×2×1 m<ce:sup loc="post">3</ce:sup>. The maximum loading volume is about 0.5 m<ce:sup loc="post">3</ce:sup>. The average daily loading rate is around 40 dm<ce:sup loc="post">3</ce:sup>/day.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>3.4</ce:label>
+                     <ce:section-title>Anaerobic reactor</ce:section-title>
+                     <ce:para view="all">The cylindrical-shaped anaerobic reactor is 350 cm long, 70 cm in diameter and has an internal volume of nearly 1.35 m<ce:sup loc="post">3</ce:sup>. Contrary to conventional practices, the reactor has been installed at 20° with respect to the horizontal. To achieve homogeneous mixing, it is furnished with a suitable mixer. The plastic pipes meant for material supplies are connected to the reactor via the bottom, whereas an arrangement has been made for collecting the outgoing material from the reactor (after treatment) at the upper end. In addition, a 40-dm<ce:sup loc="post">3</ce:sup>-volume gasholder (tank) has been provided at the upper end portion of the reactor. To obtain samples of the digesting material inside the reactor, three sampling valves have been provided at different positions along its length. Auto-controlled electrical resistance heating of the body of the reactor ensues. In order to reduce thermal losses, the reactor is well insulated by wool, which is sandwiched between galvanized steel sheets.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>3.5</ce:label>
+                     <ce:section-title>System of discharge of biogas</ce:section-title>
+                     <ce:para view="all">Biogas produced from the reaction taking place in the reactor is collected at the upper end. It is further conveyed to a pre-set hydraulic check (head of 1–2 cm). The water head in the hydraulic check is kept constant by a floating system.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>3.6</ce:label>
+                     <ce:section-title>Biogas quantity and quality</ce:section-title>
+                     <ce:para view="all">Two gas meters (commercial ELKRO mod. BKP and delicate ELSTER) measure the quantities of biogas produced: they were fitted on the pipeline and meant for recording minimum flow rates of 40 l/h and 0.2 l/h respectively. Both CO<ce:inf loc="post">2</ce:inf> and CH<ce:inf loc="post">4</ce:inf> percentages in the biogas and any O<ce:inf loc="post">2</ce:inf> content were monitored by a gas-analyzer (ADC mod. LFG-20).</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>3.7</ce:label>
+                     <ce:section-title>Data-acquisition system</ce:section-title>
+                     <ce:para view="all">For temperature monitoring inside the reactor, three sensors were fitted along its length at different locations, i.e. bottom, middle and top. Also, sensors were placed outside for monitoring ambient temperature and humidity. The amount of water vapour in the biogas was recorded using a sensor fitted on the gas line. A data logger, mod. 605 from DATATAKER, regularly recorded the values of these parameters.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title>Experimental</ce:section-title>
+                  <ce:para view="all">Anaerobic digestion was tested for a period of six months, i.e. from July 1996 to January 1997. The first few days, i.e. 40–45 days, of the operation were devoted to the insemination phase as well as to solving technical problems encountered during this period. The rest of the period was devoted to the investigation of the process performance, based on different loading rates and hydraulic retention times. A series of experiments was conducted using semi-solid organic waste available from the wholesale fruit and vegetable market. In order to obtain a higher total solid content than that in the raw refuse as well as to provide the organic compounds in the waste with a microbial population able to metabolize them more effectively, the waste was mixed with civil sludge. A brief procedural description for experimental testing of the digester under investigation is discussed below.</ce:para>
+                  <ce:para view="all">Three principal phases constituted the whole experimental period: insemination of the digester, start-up of the process with orthofruit wastes and steady-state observations.</ce:para>
+                  <ce:para view="all">It has to be noted that some technical problems, aroused mostly during insemination and start-up, were detected and solved by suitable on-plant modifications (mostly by adding some manual valves on the reactor feed pipe and by setting the water-level control in the hydraulic check).</ce:para>
+                  <ce:section view="all">
+                     <ce:label>4.1</ce:label>
+                     <ce:section-title>Insemination phase</ce:section-title>
+                     <ce:para view="all">The major problem of the anaerobic treatment process is that a considerably long start-up period is required for establishing a balanced microbial population. In order to shorten the start-up phase, the reactor was inseminated, as suggested by Vallini et al. <ce:cross-ref refid="BIB6">[6]</ce:cross-ref>, using pig excrement. Pig excrement appears to be very effective in providing a heavy inoculum of well-balanced methanogenic bacteria for the start-up. The insemination phase started in July 1996 and lasted about one month.</ce:para>
+                  </ce:section>
+                  <ce:section id="SEC4.2" view="all">
+                     <ce:label>4.2</ce:label>
+                     <ce:section-title>Start-up with orthofruit wastes</ce:section-title>
+                     <ce:para view="all">In the beginning, about 20 kg of input material (90% wet weight of homogenized orthofruit waste mix together with 10% wet weight of sewage sludge), was fed to the reactor. For the purpose of this investigation, different parameters such as total solids (TS), total volatile solids (VS) and total chemical oxygen demand (COD<ce:inf loc="post">tot</ce:inf>), were measured both for wastes, sewage sludge, mixed input material and effluent sludge. Total alkalinity (TA), total volatile fatty acids (VFA) and pH values were monitored on digesting the substrate inside the reactor (bottom, middle and top). The data on quantity and quality of biogas produced were also recorded.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>4.3</ce:label>
+                     <ce:section-title>Steady-state observations</ce:section-title>
+                     <ce:para view="all">Once balanced conditions were established inside the reactor at the low loading rate (20 kg/day), as shown by increased gas production and steady conditions inside the reactor, the loading rate was increased step-wise to reach higher levels. In the present study, the loading reached nearly 40 kg/day. Under improved conditions, higher loading rates of approximately 100 kg/day can also be achieved. The observations on the parameters measured and monitored during the start-up phase, were repeated (see <ce:cross-ref refid="SEC4.2">Section 4.2</ce:cross-ref>).</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>5</ce:label>
+                  <ce:section-title>Methods for substrate analysis</ce:section-title>
+                  <ce:para view="all">The successful operation of waste treatment depends upon (1) the composition of the substrate and (2) the developed population of anaerobic microbial organisms. Whether a waste is suitable for anaerobic treatment or not can be judged by its organic strength, biodegradability and composition, as expressed in the values of BOD, COD, TOC and VS. In the present study, just two of these (i.e. COD and VS) were monitored. Conditions inside the reactor, as expressed by the pH, VFA and total alkalinity values, are useful tools for process control. Total solids are relevant both for inlet mix and effluent sludge, as they define the sludge handling (i.e. for pumping, homogenizing, mixing, transport and disposal).</ce:para>
+                  <ce:para view="all">The analysis of the aforementioned parameters following the standard methods reported in <ce:cross-ref refid="BIB7">[7]</ce:cross-ref>, along with main interferences and pre-treatments of samples are discussed below.</ce:para>
+                  <ce:section view="all">
+                     <ce:label>5.1</ce:label>
+                     <ce:section-title>Total solids (TS) and total volatile solids (VS)</ce:section-title>
+                     <ce:para view="all">Total solids measure is the fraction of the total wet weight of a sample from which the water has been evaporated in an oven at 105°C until a constant weight is achieved. Total volatile solids measure (i.e. the organic matter content) is the difference between total solids and the weight of the ashes from a sample kept in the oven at 550°C until a constant weight ensues.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>5.2</ce:label>
+                     <ce:section-title>Chemical oxygen demand (COD)</ce:section-title>
+                     <ce:para view="all">COD is a measure of the oxygen required to oxidize the compounds chemically and is determined with a chemical oxidation in an acid environment using potassium dichromate.</ce:para>
+                     <ce:para view="all">The sample (after dilution, if necessary) is added to sulfuric acid and excess potassium dichromate, with subsequent heating to 150°C in an oven for 2 h. The quantity of potassium dichromate not reduced during the sample oxidation is titrated by iron-ammonium sulfate using ferroin as the indicator.</ce:para>
+                     <ce:para view="all">Stocking of the samples for 24 h in glass bottles at 4°C requires the addition of sulfuric acid to achieve a pH of 1.2.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>5.3</ce:label>
+                     <ce:section-title>Volatile fatty-acids (VFA)</ce:section-title>
+                     <ce:para view="all">VFA is a measure of the total volatile fatty-acids in the sample, expressed as the equivalent acetic acid concentration. Steam bubbling through the sample, carries low temperature boiling organic acids. Cooled gases are collected in their liquid phase and titrated by sodium hydroxide using phenolphthalein.</ce:para>
+                     <ce:para view="all">The sample is stored at 4°C for 24 h in enclosed polyethylene, or in the case of acid samples, glass bottles to prevent evaporation of volatile fatty acids.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>5.4</ce:label>
+                     <ce:section-title>pH</ce:section-title>
+                     <ce:para view="all">A pH-meter, equipped with a hydrogen-ion sensitive electrode, directly measures the pH value. Calibration of the instrument requires buffer solutions at pH 4 and 9: pH measures have to be done as soon as possible, as losses of volatile acids or red-ox reactions could take place within the sample. Occasionally, samples can be stored at 4°C for 24 h in enclosed polyethylene or glass bottles.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>5.5</ce:label>
+                     <ce:section-title>Total alkalinity (TA)</ce:section-title>
+                     <ce:para view="all">Any compound held in an aqueous solution and can be titrated, is responsible for the total alkalinity in the sample. The sample is further diluted, if necessary. Sulfuric acid is added to the sample in order to raise the pH value up to 3.8. The quantity of acid used, being neutralized by the bases in the sample, is a measure of its total alkalinity.</ce:para>
+                     <ce:para view="all">Measures have to be done as soon as possible. Occasionally, samples can be stored at 4°C for 24 h in enclosed polyethylene (in the case of strongly alkaline samples) or glass bottles.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>5.6</ce:label>
+                     <ce:section-title>Quantity of biogas</ce:section-title>
+                     <ce:para view="all">Volumes of the produced biogas were measured by two flow-meters (i.e. commercial meters with a minimum flow rate of 40 l/h and sensitive to a minimum flow rate of 0.2 l/h).</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>5.7</ce:label>
+                     <ce:section-title>Quality of biogas</ce:section-title>
+                     <ce:para view="all">The carbon–dioxide concentration was measured by an infra-red detector: catalytic determination is used for the methane.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>6</ce:label>
+                  <ce:section-title>Results and discussion</ce:section-title>
+                  <ce:section view="all">
+                     <ce:label>6.1</ce:label>
+                     <ce:section-title>Substrate</ce:section-title>
+                     <ce:para view="all">The components of the mix fed to the digester were analyzed to determine whether sewage sludge or orthofruit waste was to be digested. Sewage sludge was added to the mix at 10% wet weight; in addition its volatile solids content, i.e. of organic matter, was much less than that of the orthofruit wastes (<ce:cross-ref refid="FIGGR2">Fig. 2</ce:cross-ref>
+                        <ce:float-anchor refid="FIGGR2"/>). This leads to the conclusion that waste from the vegetable and fruit market has to be degraded and sewage sludge was just a bacterial inoculum.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>6.2</ce:label>
+                     <ce:section-title>Conditions inside the digester</ce:section-title>
+                     <ce:para view="all">Most data regarding the chemical as well as physical conditions inside the digester were collected during the start-up.</ce:para>
+                     <ce:para view="all">Heterogeneous values along the digester for total volatile fatty acids have been recorded (<ce:cross-ref refid="FIGGR3">Fig. 3</ce:cross-ref>
+                        <ce:float-anchor refid="FIGGR3"/>). The pH along the digester was homogeneous (<ce:cross-ref refid="FIGGR4">Fig. 4</ce:cross-ref>
+                        <ce:float-anchor refid="FIGGR4"/>). This may be due to the fact that sewage sludge from the wastewater treatment plant provided enough alkalinity (<ce:cross-ref refid="FIGGR5">Fig. 5</ce:cross-ref>
+                        <ce:float-anchor refid="FIGGR5"/>) for buffering organic acids produced during the process.</ce:para>
+                     <ce:para view="all">The temperature during the experiments was 37±4°C. During the start-up, the total solids inside the reactor did not show any heterogeneous distribution (<ce:cross-ref refid="FIGGR6">Fig. 6</ce:cross-ref>
+                        <ce:float-anchor refid="FIGGR6"/>). This may be attributed to the fact that some short-circuit or internal re-circulation occurred inside the 20°-inclined cylinder by means of gravity, thus allowing some axial mixing.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>6.3</ce:label>
+                     <ce:section-title>COD and volatile solids removal</ce:section-title>
+                     <ce:para view="all">During start-up, the hydraulic retention time (HRT), i.e. mean permanence-time of substrate in the reactor, was 33.7 days. When the reactor reached steady-state conditions (i.e. when biogas composition and daily production were almost constant), two runs were performed at 33.7 and 22.5 days HRT, respectively. A decrease in TS concentration was recorded, both for the input feedstock mix and the effluent sludge (<ce:cross-ref refid="FIGGR7">Fig. 7</ce:cross-ref>
+                        <ce:float-anchor refid="FIGGR7"/>). Characteristics of wastes collected from orthofruit markets are seasonally dependent, thus influencing input feedstock properties. As a matter of fact, the tendency towards higher moisture-content is more marked for the effluent sludge than for the input feedstock (<ce:cross-ref refid="FIGGR7">Fig. 7</ce:cross-ref>). The TS reduction during the process is mainly due to VS bio-degradation. Anyway, a possible TS retention inside the digester, due to sedimentation of particles at the bottom of the inclined reactor, may occur. If such is the case, from a hydrodynamic point of view, steady-state conditions had not been reached.</ce:para>
+                     <ce:para view="all">Mean COD concentrations, both in the input feedstock and in the effluent sludge, have been different during the performed runs, reflecting the variability of the substrate collected and processed (<ce:cross-ref refid="FIGGR8">Fig. 8</ce:cross-ref>
+                        <ce:float-anchor refid="FIGGR8"/>).</ce:para>
+                     <ce:para view="all">The amount of volatile solids, which is a measure of the organic matter present, and the COD (total and dissolved) percentage removals referred to the input concentration are presented in <ce:cross-ref refid="TBL1">Table 1</ce:cross-ref>
+                        <ce:float-anchor refid="TBL1"/>. The same retention time (33.7 days) was applied both during start up and steady-state runs. Due to the increased performance of the bacterial populations in metabolizing the actual substrate, considerably higher VS and total COD removals were recorded during the steady-state.</ce:para>
+                     <ce:para view="all">Different removals recorded for the two runs under steady-state conditions agree with the theory: higher retention times allow much more complete degradations of the substrate.</ce:para>
+                     <ce:para view="all">Though the process effectiveness was high, the effluent sludge's polluting potential, expressed by the volatile solids and COD concentrations (<ce:cross-ref refid="FIGGR8">Fig. 8</ce:cross-ref>), was still relevant, stressing the need for further treatment.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>6.4</ce:label>
+                     <ce:section-title>Biogas and methane production</ce:section-title>
+                     <ce:para view="all">Comparing both the daily and the specific (referred to volume of the reactor) gas-productions during different experimental periods but using the same HRT (<ce:cross-refs refid="FIGGR9 FIGGR10">Fig. 9 and Fig. 10</ce:cross-refs>
+                        <ce:float-anchor refid="FIGGR9"/>
+                        <ce:float-anchor refid="FIGGR10"/>), the enhanced performance of the bacterial populations inside the reactor while in the steady-state has been observed. Less rise (related to start-up at the same HRT) for CO<ce:inf loc="post">2</ce:inf> daily production was observed compared with that for CH<ce:inf loc="post">4</ce:inf>'s probably enlightening that enhanced performance was mostly accounted for by the methanogenic bacteria.</ce:para>
+                     <ce:para view="all">By shortening the HRT, both daily as well as specific methane and biogas productions increased (<ce:cross-refs refid="FIGGR9 FIGGR10">Figs. 9 and 10</ce:cross-refs>). This was probably the reason that these parameters were limited by the quantity of substrate fed daily to the reactor. In order to determine the value of HRT at which the reactor processing such a substrate reaches maximum gas production, further investigations are still needed. Shorter HRTs than that, would result in lowered gas production, as the process becomes time-limited.</ce:para>
+                     <ce:para view="all">At the longer retention time (33.7 days), biogas production per unit mass of volatile solids fed to the reactor was higher (<ce:cross-ref refid="FIGGR11">Fig. 11</ce:cross-ref>
+                        <ce:float-anchor refid="FIGGR11"/>) than that for the shorter HRT (22.5 days). However the mean methane yield did not show a decrease. If such preliminary results are confirmed by further experimentation, it can be concluded that, for the purpose of energy recovery (i.e. methane production), the reactor can be operated with shorter retention times, thus reducing its overall dimensions and subsequently the overall cost, significantly.</ce:para>
+                  </ce:section>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment>
+               <ce:section-title>Acknowledgements</ce:section-title>
+               <ce:para view="all">One of the authors (VKS) would like to express his thanks to Prof. G. Furlan, Head of Training and Research in Italian Laboratories Programme of ICTP, Trieste (Italy) for his encouragement and financial assistance to conduct the above research.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail>
+            <ce:bibliography view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec>
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>[1]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>Weiland P. One and two-step anaerobic digestion of solid agro-industrial residues. In: Pohland FG, editor. Proc Int Symposium on Anaerobic Digestion of Solid Waste, Venice, Italy, April 1992. p. 193.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>[2]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>Cozzolino C, Bassetti A, Rondelli P. Industrial application of semi-dry anaerobic digestion process of organic solid waste. In: Pohland FG, editor. Proc Int Symposium on Anaerobic Digestion of Solid Waste, Venice, Italy, April 1992. p. 551.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>[3]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>Premier GC, Dinsdale R, Hawkes DL, Hawkes FR. The embodiment design of a digester for the treatment of waste sludge and vegetable matter at small Mediterranean tourist resorts. Paper presented at the 8th Int Conf on Anaerobic Digestion, Sendai, Japan, 25–29 May 1997.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>[4]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>Sharma VK, et al. Anaerobic biotechnology for treatment of semi-solid organic waste. Energy Convers &amp; Mgmt, 1990;40:369–384.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>[5]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>Sharma VK, et al. Anaerobic digesters for treatment of organic waste. Technical Report, ENEA, AMB/TEIN/RIF, October 1997.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>[6]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>Vallini GK, et al. Recovery and disposal of the organic fraction of MSW by means of combined anaerobic and aerobic bio-treatments. In: Pohland FG, editor. Proc Int Symposium on Anaerobic Digestion of Solid Waste, Venice, Italy, 1992. p. 159.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>[7]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>Greenberg AE, Clesceri LS, Eaton AD. Standard methods for the examination of water and wastewater. 18th ed. Washington (DC): American Public Health Association, 20005, 1992.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

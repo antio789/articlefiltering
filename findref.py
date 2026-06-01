@@ -72,7 +72,7 @@ def find_false_containing_string( search_string):
     return matching_files
 
 
-filter = 'pressure'
+filter = 'nutrient'
 matching_files = find_files_containing_string(filter)
 print(matching_files)
 print(f"{find_missed_containing_string( filter)} missing")

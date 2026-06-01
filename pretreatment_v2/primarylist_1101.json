@@ -1,0 +1,20 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Thermal pretreatment was carried out where sludge samples (50 ml) were heated in reactors at temperatures ranging from 110 to 150 \u00b0C for 20 min in an oil bath (Daihan Science, Korea). The reactors were laminated with Teflon to prevent internal corrosion."
+    },
+    {
+      "id": 1,
+      "description": "Alkaline pretreatment was performed using 5 N of Ca(OH)_2, KOH, and NaOH solution added to 50 ml of WAS to attain a final pH ranging from 8 to 13. Samples were continuously mixed for 1 h for individual pretreatment and 20 min for combined pretreatment."
+    },
+    {
+      "id": 2,
+      "description": "Ultrasonication was performed using 50 ml of WAS with 20 kHz frequency (VCX-750, S&M, USA) and the applied amplitude (Max.750 W) was 20%. Reaction times of both ultrasonic and HC pretreatment were set to 1, 5, 10, 15, and 20 min."
+    },
+    {
+      "id": 3,
+      "description": "Hydrodynamic cavitation (HC) was conducted using a reactor made of stainless steel connected to a water pump (TPH2T6KS; Walrus Pump (Taiwan) Ltd.). A radial form of orifice plate had 27 holes of 1 mm diameter as shown in Fig. 1. The inner diameter of pipe line was all 20 mm. The pressures of upstream and downstream were kept at around 0.7 and 0.07 MPa. Cavitation number estimated to be 2.79."
+    }
+  ]
+}

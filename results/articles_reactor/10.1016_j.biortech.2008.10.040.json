@@ -1,0 +1,28 @@
+{
+  "manual_review": [
+    [
+      "10.1016_j.biortech.2008.10.040",
+      "cstr"
+    ]
+  ],
+  "llm_review": [
+    [
+      "10.1016_j.biortech.2008.10.040",
+      "cstr"
+    ]
+  ],
+  "correct_predictions": 1,
+  "false_predictions": 0,
+  "missed_predictions": 0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1_score": 1.0,
+  "correct_items": [
+    [
+      "10.1016_j.biortech.2008.10.040",
+      "cstr"
+    ]
+  ],
+  "false_items": [],
+  "missed_items": []
+}

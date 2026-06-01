@@ -1,0 +1,1257 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S1004954108600531</prism:url><dc:identifier>doi:10.1016/S1004-9541(08)60053-1</dc:identifier><eid>1-s2.0-S1004954108600531</eid><prism:doi>10.1016/S1004-9541(08)60053-1</prism:doi><pii>S1004-9541(08)60053-1</pii><dc:title>Start-up and Performance of a Novel Reactor—Jet Biogas Inter-loop Anaerobic Fluidized Bed
+                  *
+               
+		             
+                  *
+                  Supported by the National Natural Science Foundation of China (No.50278036), the Natural Science Foundation of Guangdong Province (No.04105951) and the National High Technology Research and Development Program of China (No.2006AA06Z378).
+               
+             </dc:title><prism:publicationName>Chinese Journal of Chemical Engineering</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>10049541</prism:issn><prism:volume>16</prism:volume><prism:issueIdentifier>1</prism:issueIdentifier><prism:startingPage>143</prism:startingPage><prism:endingPage>150</prism:endingPage><prism:pageRange>143-150</prism:pageRange><prism:number>1</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2008-02-29</prism:coverDate><prism:coverDisplayDate>February 2008</prism:coverDisplayDate><prism:copyright>Copyright © 2008 Chemical Industry and Engineering Society of China (CIESC) and Chemical Industry Press (CIP). Published by Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Chemical Industry and Engineering Society of China (CIESC) and Chemical Industry Press (CIP). Published by Elsevier B.V.</prism:publisher><dc:creator>DENG, Zhiyi</dc:creator><dc:creator>WEI, Chaohai</dc:creator><dc:creator>ZHOU, Xiufeng</dc:creator><dc:description>
+                  A novel anaerobic reactor, jet biogas inter-loop anaerobic fluidized bed (JBILAFB), was designed and constructed. The start-up and performance of the reactor was investigated in the process of artificial glucose wastewater treatment. With the wastewater recycle ratio of 2.5 : 1, the recycled wastewater with biogas could mix sludge and wastewater in the JBILAFB reactor completely. The start-up of the JBILAFB reactor could be completed in less than 70 d through maintenance of hydraulic retention time (HRT) and stepwise increase of feed total organic carbon (TOC) concentration. After the start-up, with the volumetric TOC loadings of 14.3 kg·m−3·d−1, the TOC removal ratio, the effluent pH, and the volatile fatty acids (VFA)/alkalinity of the JBILAFB reactor were more than 80%, close to 7.0 and less than 0.4, respectively. Moreover, CH4 was produced at more than 70% of the theoretical value. The reactor exhibited high stability under the condition of high volumetric TOC loading. Sludge granules in the JBILAFB reactor were developed during the start-up and their sizes were enlarged with the stepwise increase of volumetric TOC loadings from 0.8 kg·m−3·d−1 to 14.3 kg·m−3·d−1. Granules, an offwhite color and a similar spherical shape, were mainly comprised of global-like bacteria. These had good methanogenic activity and settleability, which were formed probably through adhesion of the bacteria. Some inorganic metal compounds such as Fe, Ca, Mg, Al, etc. were advantageous to the formation of the granules.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>anaerobic reactor</dcterms:subject><dcterms:subject>jet biogas inter-loop anaerobic fluidized bed</dcterms:subject><dcterms:subject>wastewater treatment</dcterms:subject><dcterms:subject>start-up</dcterms:subject><dcterms:subject>granule sludge</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S1004954108600531" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S1004954108600531" rel="scidir"/></coredata><scopus-id>40249107501</scopus-id><scopus-eid>2-s2.0-40249107501</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/40249107501" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>273518</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291786</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Chinese Journal of Chemical Engineering</xocs:srctitle>
+      <xocs:normalized-srctitle>CHINESEJOURNALCHEMICALENGINEERING</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20080308">2008-03-08</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20080308">2008-03-08</xocs:available-online-date>
+      <xocs:ew-transaction-id>2010-03-29T03:01:10</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S1004954108600531</xocs:eid>
+      <xocs:pii-formatted>S1004-9541(08)60053-1</xocs:pii-formatted>
+      <xocs:pii-unformatted>S1004954108600531</xocs:pii-unformatted>
+      <xocs:doi>10.1016/S1004-9541(08)60053-1</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.1</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S1004954108X60021</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150515">2015-05-15T04:25:39.645032-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20080201</xocs:date-search-begin>
+      <xocs:date-search-end>20080229</xocs:date-search-end>
+      <xocs:year-nav>2008</xocs:year-nav>
+      <xocs:indexeddate epoch="1204934400">2008-03-08T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype volfirst volissue webpdf webpdfpagecount affil articletitle auth authfirstini authfull authkeywords authlast doctopic footnotes primabst ref alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>1004-9541</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>10049541</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:vol-first>16</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>16</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>1</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>1</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 16, Issue 1</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>28</xocs:sort-order>
+      <xocs:first-fp>143</xocs:first-fp>
+      <xocs:last-lp>150</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>143</xocs:first-page>
+         <xocs:last-page>150</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>200802</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>February 2008</xocs:cover-date-text>
+      <xocs:cover-date-start>2008-02-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2008-02-29</xocs:cover-date-end>
+      <xocs:cover-date-year>2008</xocs:cover-date-year>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2008 Chemical Industry and Engineering Society of China (CIESC) and Chemical Industry Press (CIP). Published by Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>STARTUPPERFORMANCEANOVELREACTORJETBIOGASINTERLOOPANAEROBICFLUIDIZEDBED</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>DENG</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>Z</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="bib1">
+            <xocs:ref-normalized-surname>PEREZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>25</xocs:ref-first-fp>
+            <xocs:ref-last-lp>35</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib2">
+            <xocs:ref-normalized-surname>HEIJNEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>37</xocs:ref-first-fp>
+            <xocs:ref-last-lp>52</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3">
+            <xocs:ref-normalized-surname>MARIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>63</xocs:ref-first-fp>
+            <xocs:ref-last-lp>70</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib4">
+            <xocs:ref-normalized-surname>GARCIACALDERON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>136</xocs:ref-first-fp>
+            <xocs:ref-last-lp>143</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib5">
+            <xocs:ref-normalized-surname>MENDONCA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>319</xocs:ref-first-fp>
+            <xocs:ref-last-lp>325</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib6">
+            <xocs:ref-normalized-surname>GARCIACALDERON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3593</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3600</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib7">
+            <xocs:ref-normalized-surname>MOTELEB</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3775</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3785</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib8">
+            <xocs:ref-normalized-surname>SUIDAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-first-fp>160</xocs:ref-first-fp>
+            <xocs:ref-last-lp>170</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib9">
+            <xocs:ref-normalized-surname>SARAVANANE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>279</xocs:ref-first-fp>
+            <xocs:ref-last-lp>281</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib10">
+            <xocs:ref-normalized-surname>DIEZBANDCO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1649</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1654</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib11">
+            <xocs:ref-normalized-surname>HIDALGO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3083</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3091</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib12">
+            <xocs:ref-normalized-surname>SHIEH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1253</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1257</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib13">
+            <xocs:ref-normalized-surname>SUVAJITTANONT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>157</xocs:ref-first-fp>
+            <xocs:ref-last-lp>162</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib14">
+            <xocs:ref-normalized-surname>WEI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>264</xocs:ref-first-fp>
+            <xocs:ref-last-lp>270</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib15">
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>STATEENVIRONMENTALPROTECTIONADMINISTRATIONCHINAMONITORINGANALYSISMETHODSWATERWASTEWATER</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib16">
+            <xocs:ref-normalized-surname>FANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>75</xocs:ref-first-fp>
+            <xocs:ref-last-lp>81</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib17">
+            <xocs:ref-normalized-surname>BERRUETA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-first-fp>302</xocs:ref-first-fp>
+            <xocs:ref-last-lp>314</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib18">
+            <xocs:ref-normalized-surname>VOSSOUGHI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>811</xocs:ref-first-fp>
+            <xocs:ref-last-lp>816</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib19">
+            <xocs:ref-normalized-surname>TANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>543</xocs:ref-first-fp>
+            <xocs:ref-last-lp>551</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib20">
+            <xocs:ref-normalized-surname>BORJA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>251</xocs:ref-first-fp>
+            <xocs:ref-last-lp>259</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib21">
+            <xocs:ref-normalized-surname>RAMAKRISHNAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1488</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1495</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib22">
+            <xocs:ref-normalized-surname>YU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>31</xocs:ref-first-fp>
+            <xocs:ref-last-lp>36</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib23">
+            <xocs:ref-normalized-surname>SETIADI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>181</xocs:ref-first-fp>
+            <xocs:ref-last-lp>191</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>DENGX2008X143</xocs:refkey3>
+         <xocs:refkey4lp>DENGX2008X143X150</xocs:refkey4lp>
+         <xocs:refkey4ai>DENGX2008X143XZ</xocs:refkey4ai>
+         <xocs:refkey5>DENGX2008X143X150XZ</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S1004-9541(08)60053-1</xocs:pii-formatted>
+         <xocs:pii-unformatted>S1004954108600531</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S1004954108600531</xocs:eid>
+         <xocs:doi>10.1016/S1004-9541(08)60053-1</xocs:doi>
+         <xocs:cid>273518</xocs:cid>
+         <xocs:timestamp>2010-09-17T19:26:15.083228-04:00</xocs:timestamp>
+         <xocs:cover-date-start>2008-02-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2008-02-29</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S1004954108600531-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1004954108600531/MAIN/application/pdf/eec3569d4f66d265d01453e2b455beb6/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1004954108600531/MAIN/application/pdf/eec3569d4f66d265d01453e2b455beb6/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>1470564</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>8</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S1004954108600531-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1004954108600531/PREVIEW/image/png/e28c5f920bf4ee22b90a1412a2d61384/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1004954108600531/PREVIEW/image/png/e28c5f920bf4ee22b90a1412a2d61384/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>94672</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:rawtext xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">Chinese Journal of Chemical Engineering, 16(1) 14350(2008)  Start-up and Performance of a Novel Reactor -- Jet Biogas Inter-loop Anaerobic Fluidized Bed*  DENG Zhiyi (% &amp;&amp;), WEI Chaohai (^ $)** and ZHOU Xiufeng (R %*%)  School of Environment Science and Engineering, South China University of Technology, Guangzhou 510640, China  Abstract A novel anaerobic reactor, jet biogas inter-loop anaerobic fluidized bed (JBILAFB), was designed and constructed. The  start-up and performance of the reactor was investigated in the process of artificial glucose waste-water treatment. With the  wastewater recycle ratio of 2.5 : 1, the recycled wastewater with biogas could mix sludge and wastewater in the JBILAFB  reactor completely. The start-up of the JBILAFB reactor could be completed in less than 70 d through maintenance of hydraulic  retention time (HRT) and stepwise increase of feed total organic carbon (TOC) concentration. After the start-up, with the  volumetric TOC loadings of 14.3 kg-m 3-d ', the TOC removal ratio, the effluent pH, and the volatile fatty acids  (VFA)/alkalinity of the JBILAFB reactor were more than 80%, close to 7.0 and less than 0.4, respectively. Moreover, CH4 was  produced at more than 70% of the theoretical value. The reactor exhibited high stability under the condition of high  volumetric TOC loading. Sludge granules in the JBILAFB reactor were developed during the start-up and their sizes were  enlarged with the stepwise increase of volumetric TOC loadings from 0.8 kg-m -d~' to 14.3 kg-m 3-d '. Granules, an offwhite  color and a similar spherical shape, were mainly comprised of global-like bacteria. These had good methanogenic activity and  settleability, which were formed probably through adhesion of the bacteria. Some inorganic metal compounds such as Fe, Ca, Mg,  Al, etc. were advantageous to the formation of the granules. Keywords anaerobic reactor, jet biogas inter-loop anaerobic  fluidized bed, wastewater treatment, start-up, granule sludge  1 INTRODUCTION  Anaerobic technology is one of most suitable methods for wastewater treatment, especially effluents containing high  concentrations of organic carbon. The successful application of this technology to the treatment of industrial wastewater is  critically dependent on the development of high rate anaerobic bioreactors. Over the last two decades, a number of high-rate  anaerobic reactor systems have been developed, e.g.: anaerobic filter (AF), up-flow anaerobic sludge bed (UASB), internal  circulation (1C) reactor, expanded granular sludge bed (EGSB), and anaerobic fluidized-bed (AFB). Among these anaerobic  digestion processes, the fluidized-bed reactor is considered as a continuous-flow, completely-mixed homogeneous micro-bial  system [1] and its configuration has several advantages over other anaerobic reactors, e.g.: high concentrations of biomass  (close to 40 kg-m"3), large areas of mass transfer, high velocities of fluid flow (10-30 m-rT1), no clogging in the reactor,  and small volume and land area requirements [2, 3]. Owing to these advantages, it is possible to work at the condition of high  organic loading rates and short hydraulic retention time (HRT) [4]. Therefore, this reactor is wildly applied to the  biological treatment of municipal and industrial wastewater [5, 6]. Potential AFB reactor applications for the treatment of  hazardous waste with inhibitory/recalcitrant compositions have also been reported [7-9]. However the carrier and sludge in a  traditional AFB reactor retain a suspending status only by drag forces of upflow wastewater [1], and the effect of biogas is  often ignored [10]. Since the densities of the usual carriers such as active carbon and sand are higher than water, the  carriers not colonized are more  difficult to fluidize when the input flow rate is low. Therefore, a high recycle ratio, QJQ (where, Qr is the recycle rate,  L-d '; and Q is the feed rate, L-d '), is necessary. Its value is about 10-50 [11] or even higher than 50 [12]. The higher  liquid recycle ratio indicates stronger shearing forces. As anaerobic bacteria are slow growing microorganisms, a long  start-up period is required and is a serious obstacle for their wide installation in the anaerobic treatment of industrial  wastewater. This is attributed to the relatively strong hydrodynamic conditions in the reactor, which interfere with biomass  adhesion during the start-up period. Reactor start-up is often considered to be the most unstable and difficult phase in  anaerobic digestion. Its main task is to develop a highly active settleable sludge as quickly as possible. Thus the reduction  of start-up time is one of the key parameters to increase the competitiveness of high-rate anaerobic reactors.  The gas can relatively expand the sludge bed better along the height of the reactor, even with low upflow velocity [13]. This  concept will be worth trying to use biogas as one of the drag forces. A gas injection is simpler than a liquid recycling and  low energy is required, because of low fluidization velocities. Moreover, several beneficial features can generally be offered  by gas-lift systems. For instance, there may be a more efficient liquid mixing without the extreme shearing forces. Excessive  attrition of aggregates by these forces is thus avoided, as aggregates may be dispersed randomly through the reactor.  To remedy the drawback of long start-up period and extend the application of AFB reactors, a novel anaerobic reactor-jet  biogas inter-loop anaerobic fluidized bed (JBILAFB) was designed and constructed. Both biogas and upflow wastewater in the  reactor  Received 2007-07-10, accepted 2007-09-19.  * Supported by the National Natural Science Foundation of China (No.50278036), the Natural Science Foundation of Guangdong  Province (No.04105951) and the National High Technology Research and Development Program of China (No.2006AA06Z378). ** To  whom correspondence should be addressed. E-mail: cechwei@scut.edu.cn  144  Chin. J. Chem. Eng., Vol. 16, No. 1, February 2008  were used as drag forces to keep the anaerobic sludge in suspension. This report describes the start-up and operation  performance of the pilot-scale JBILAFB reactor, specifically the operation parameters, the loading capacity, and the specific  sludge granules.  2 MATERIALS AND METHODS 2.1 Experimental system  The flow scheme of the laboratory-scale JBILAFB reactor is illustrated in Fig. 1. The design principle of this reactor is  similar to that of the jet aerobic reactor. The difference is the biogas injected into the JBILAFB with the recycled  wastewater. Since the biogas is recycled from the top to the bottom of the reactor, the drag forces of the carrier and sludge  change from only upflow wastewater to both biogas and upflow wastewater, which can mix sludge and wastewater adequately in the  reactor with low upflow velocity. Furthermore, poisonous gas such as H2S produced during the anaerobic digestion can be  eliminated immediately [14]. Also, the fluidization effect and mass transfer between the wastewater and the anaerobic sludge  in the reactor improve at the low liquid recycle ratio.  Figure 1 Schematic diagram of laboratory-scale JBILAFB reactor  1eeding tank; 2nfluent pump; 3BILAFB reactor; 4setter part; 5ater airproof bottle; 6as stockpile bottle; 7et gas  meter; 8as cycle pump; 9ater cycle pump; 10as-water separator; 11icro-jet; 12ater bath with a temperature  controller; 13xhaust port; 14ample point; 15ot water cycle pump; 16ffluent tank -water flow; ^ biogas flow;  bioparticle  A transparent Plexiglas column with conical bottoms was used as the reactor. The main components of the JBILAFB reactor  included a reaction and a settler part, a biogas recycle pump, a micro-jet, a feed pump, a wastewater recycle pump, a water  batch with a temperature controller, and feed and effluent tanks. The volume of the reaction part was about 9.0 L, 800 mm in  height and 120mm in internal diameter. An enlarged section of 370 mm height and 200 mm internal diameter was fitted at the top  of the reaction part and used as the settler part, which consisted of a cover for accumulating biogas, a three-phase separator  for  biogas/wastewater/sludge and a trough for collecting the effluent. Biogas was collected using gas stockpile bottle after  passing through a water lock bottle filled with saturated salt solution. The biogas production was measured with a wet gas  meter. The recycled wastewater through an airproof gas-water separator and the biogas were continuously injected into the  JBILAFB reactor by a water cycle pump and a gas cycle pump, respectively. The biogas and the recycled wastewater were mixed  fully in a micro-jet. The recycled wastewater comes from the top of the reaction part to carry out internal loop, which can  decrease the volume of the settler part and be advantageous to the separation of the water/sludge. Moreover, the influent was  diluted and short circuit in the reactor was avoided by the recycled wastewater flow. Hot water maintained at (35) was  pumped from a recircu-lation water bath through the constant temperature jacket surrounding the reactor. Prior to the  beginning of this experiment, the residual air in the closed JBILAFB reactor system was replaced by N2 and the system was  maintained at complete anaerobic environment.  2.2 Synthetic wastewater composition  The reactor was fed with synthetic wastewater with glucose as the sole carbon and energy source. The carbamide and KH2PO4 were  the sole nitrogen and phosphor sources, respectively. The amount of carbamide and KHaPCXi in the synthetic wastewater was  confirmed according to the COD/N/P ratio of 200 :5 :1. The influent further contained yeast leaching ointment and  micronutrients. The nutrient composition of the solution was prepared according to Table 1. The Na-HCO3 was used to adjust the  pH of the influent. The influent pH was kept at 7.0 + 0.3. The synthetic wastewater was prepared daily and maintained at 4.  Table 1 Nutrient composition of solution  .-, ...  .  Concentration _ .  Concentration Constituent .  . -, Constituent .  , -i /mg-L /mg-L   MgCl2-6H2O 125 KI 2.5  FeS04-7H20 25 Na2MoO4.2H2O 0.5  FeCl24H2O 180 ZnCl2 0.5  CoCl2-6H2O 2.5 H3BO4 0.5  MnCl24H20 2.5 NiCl2.6H20 0.5  2.3 Analytical methods  The analytical work performed is shown in Table 2. Conventional analysis items including pH, suspended solids (SS), and  volatile suspended solids (VSS) were carried out according to the standard methods issued by the China National Environmental  Protection Agency [15]. The liquid mixing time was measured using an electrical conductivity method and saturated potassium  chloride solution was used as the tracer. The concentration of tracer was detected by a conductivity probe connected to a  conductometer (model DBS-11 A, Leici Instrument Plant of Shanghai,  Chin. J. Chem. Eng., Vol. 16, No. 1, February 2008  145  Table 2 Analytical work performed  Parameter Sampling location Frequency  filtered TOC feed and effluent 1 time per three days except 1 time at each VL changed  biogas production wet gas meter daily  biogas composition gas stockpile bottle 1 time per three days  VFA, alkalinity effluent 1 time per three days  SS.VSS effluent 1 time per three days  sludge granules size bottom of the reactor several times with volumetric loadings changed  PH feed and effluent daily  sludge bed height reactor daily  ss,vss sludge granules several times with volumetric loadings changed  China) and a portable recorder was used to record the change of the tracer concentration automatically. Total organic carbon  (TOC) was analyzed using the TOC analysis apparatus (TOC-2010A, USA). Volatile fatty acids (VFA) and the alkalinity were  measured using a gas chromatograph and the Bromcresol Green-methyl red indicator standard acid-alkali titration method  respectively [14].  A Philips scanning electron microscope model XL-30 was used for scanning electron microscopic (SEM) observation. The sample  preparation procedures have been reported previously [14].  For estimating the size distribution, the sludge samples taken from the bottom sampling points were classified into seven  fractions using laboratory sieves with progressively larger openings (0.2, 0.5, 1.0, 2.0, 3.0, 4.0 mm). The sludge particles  were first placed in the sieve with the larger opening (4.0 mm). The sieves with particles were gently submerged in water and  shaken to allow the smaller particles to pass through. The procedures were repeated until all six sieves had been used. The  granules on each sieve and the remainder under the minimum opening were collected and their VSS mass were expressed as W\, W2,  W3, W4, W5, W6 and W-j. Thus, the proportion of each different size particle in total particles could be calculated by the  following formula: TJ= wyZW, (i= 1-7). The specific methanogenic activity (SMA) of sludge granule samples taken from the  bottom sampling points was measured using the method reported previously [16].  2.4 Inoculum  The reactor was inoculated with anaerobic digested sludge obtained from the food processing wastewater treatment plant in  Guangzhou city. The SS and VSS concentrations of the sludge were 41.5 g-L^1 and 17.8g-L~', respectively. The value of VSS/SS  was about 0.43. The amount of inoculated sludge was approximately 40% volume of the reaction part. No support material was  used.  2.5 Experimental procedure  The start-up is a very important step for the operation process of an anaerobic reactor. The purpose of the start-up of  high-rate anaerobic reactors is to  grow, build up, and retain a sufficiently high concentration of active and well balanced biomass [17, 18]. Moreover, a good  anaerobic sludge, which exists in granular or biofilm form, has good settleability and high methanogenic activity, and it  should be cultivated successfully after the start-up. Thus, a suitable strategy is important for the anaerobic reactor  start-up. In this study, the start-up of the reactor was operated according to the following strategy: HRT was maintained at  15.2 h and the volumetric TOC loading rate was increased stepwise with the increase of the influent substrate concentration.  When the TOC removal ratio and the biogas production were relatively consistent within 5% for three consecutive days, the  volumetric loading rate was increased to the next higher value. After the start-up, the experiment of reactor loading capacity  was examined and divided into two stages: I and II. This experiment was performed by varying the HRT and the feed TOC  concentration, respectively. In stage I, the influent TOC concentration was maintained at 1356.2 mg-L1 and the HRT was varied  from 15.2 h to 4.8 h. According to stage I experimental design, the volumetric TOC loadings wjll vary in the range of 2.96  kg-irf 3-d~' to 9.43kg-irf 3-d~'. At a given feed TOC concentration, the reactor operated at a predetermined feed rate to  attain the required HRT and volumetric TOC loading. In phase II, the HRT was maintained at 4.8 h and four feed TOC  concentrations ranging from 1356.2 mg-L to 3346.8 mg-L"1 were chosen. According to stage II experimental design, the  volumetric TOC loadings _will vary in the range of 9.43 kg-nf 3-d~' to 23.3 kg-m~3-d~'. In each experimental run during phase  I and II, the reactor was continuously operated under the prescribed conditions until steady-state conditions were obtained,  i.e., the TOC removal ratio and the biogas production remained relatively stable. Volumetric TOC loadings applied in this  investigation were increased gradually to minimize the transient impact on the reactor that may be induced by a sudden  increase in loadings.  3 RESULTS AND DISCUSSION  3.1 The amount of recycled biogas and wastewater  Information on axial liquid mixing of the three-phase AFB reactor is crucial to the reactor design  146  Chin. J. Chem. Eng., Vol. 16, No. 1, February 2008  and the process optimization, because it affects the interphase mass transfer, and the reactant concentration distribution,  and ultimately, the reactant conversions [19]. To attain the suitable amount of recycled biogas and wastewater, liquid mixing  time experiments with and without recycled biogas were examined. The feed flux was maintained at about 1 L-h ' and the amount  of recycled wastewater was changed during these experiments. Two flow _yelocities of recycled biogas, about 0.02-0.04 L-mhT1  and 0.06-0.08 L-min ', were selected. The relation of the liquid mixing time and the wastewater recycle ratio with and without  biogas is shown in Fig. 2.  o 5 10 is 20  wastewater recycle ratio with biogas  i_______i_______i_______i_______i  20 15 10 5 0  wastewater recycle ratio without biogas  Liquid mixing time at different wastewater recy-  Figure 2 cle ratio  A with 0.02-0.04 L-min'1 biogas; without biogas  biogas; o with 0.06-0.08 L-min*  The liquid mixing time was decreased with the increase of the wastewater recycle ratio and the recycled wastewater with biogas  could shorten the liquid mixing time at the same recycle ratio obviously. The wastewater recycle ratio of 3.5 with 0.02-0.04  L-min"1 recycled biogas had the same liquid mixing time as the ratio of 16.5 without recycled biogas. Although the shorter  liquid mixing time could further improve the contact of wastewater and sludge, it decreased the detachment effect of  wastewater and sludge, leading to the loss of a part of sludge. Moreover, most biore-actors employ low liquid and gas flow  rates to match the slow biological reaction rates as well as to prevent excessive sloughing of biofilms or particle-particle  attrition [19]. Thus, in this study, the recycle ratio of wastewater and the recycle velocity of biogas flow were controlled  at 2.5 and 0.02-0.04 L-min"1 respectively, during the start-up phase. During the reactor loading capacity experiments, owing  to the biogas production per day increasing largely, the recycle velocity of the biogas was adjusted at 0.01-0.02 L-min"1 with  the purpose of avoiding the loss of the sludge. Under these conditions, the wastewater and sludge could be mixed completely.  3.2 Start-up  Figure 3 shows the process performance of the JBILAFB reactor during the start-up phase. Although the initial influent  substrate concentration and the volumetric TOC loading rate were about 359.3 mg-L"1 (chemical oxygen demand (COD) value about  1000  t~  0 10 20 30 40 50 60 70 time/d (a) -influent; D effluent; A TOC removal ratio  5.0 4.5 4.0 3.5 3.0 2.5 i 2.0 1.5 1.0 0.5  16 r  0 10 20 30 40 50 60 70 time/d (b) -volumetric TOC loading; A biogas production  -j 100 S 80  I  40 20  0 10 20 30 40 50 60 70 time/d  (c) A effluent SS; DeffluentpH  6 X  5   4 P  2 IS 1 0  -1.0  10 20 30 40 50 60 70 time/d  (d) D effluent VFA; A effluent alkalinity; o VFA/alkalinity  Figure 3 Operation result of the JBILAFB reactor during the start-up period  mg-L ') and 0.8 kg-m 3-d ' respectively, the TOC removal ratio and the biogas production per day of the reactor were only  48.9% and 1.5 L-d"1. After 19 days' culture, the TOC removal ratio, the biogas production and the VFA/alkalinity of the  reactor could be up to more than 85%, 2.7L-d~' and 0.3 respectively. On day 20, the influent TOC concentration was increased  to 530.8 mg-L"1 (COD about 1500 mg-L"1). The TOC removal ratio was affected by the augment of the influent organic  concentration and its value decreased from about 85.1% to 72.9%, while the effluent VFA and VFA/alkalinity increased slightly.  However, owing to the growth of organic compound removed in the  Chin. J. Chem. Eng., Vol. 16, No. 1, February 2008  147  wastewater, the biogas production per day will rise gradually. Within 15 days, the TOC removal ratio and biogas production  will amount to 90% or more and 3.8L-d~' respectively. The VFA/alkalinity was less than 0.3. The influent TOC concentration  _was then increased from 530.8 mg-L ' to 708.4 mg-L~', 1015.5 mg-L ', and 1356-2 mg-L ' gradually. For each increase in the  influent TOC concentration, the system only spent a short time in adjusting to the new conditions. After about 70 days of  operation in this manner, when the influent TOC concentration and volumetric TOC loading rate were 1356.2 mg-L ' (COD about  4000 mg-L~') and about 3.0kg-m 3-d ' respectively, the TOC removal ratio and the VFA/alkalinity reached 93.2% and about 0.25.  The VFA/alkalinity can be used as a process efficiency measure: when this value is less than 0.3-0.4 the process is considered  to operate favorably [20]. Moreover, granules in the reactor were formed and had good settleability at the end of the start-up  phase. These results indicated that the recycle of biogas could strengthen the mass transfer of anaerobic sludge and  wastewater in the reactor and improve the stability of the treatment system with low upflow velocity. At the condition of the  HRT of 15.2 h, low strength (TOC = 349.5 mg-L"1) as well as high strength (TOC= 1356.2 mg-L ') soluble wastes could be  successfully treated with a high removal efficiency in the JBILAFB reactor.  3.3 Reactor loading capacity  Figure 4 illustrates the TOC removal ratio and the biogas production per day observed at different volumetric TOC loadings.  Generally, the TOC removal ratio decreased linearly with the increase of volumetric TOC loadings over the range applied in  this investigation. When the volumetric TOC loading was less than 14.3 kg-m 3-d ', more than 80% of feed  0 5 10 15 20 25 volumetric TOC loadings/kg-m '-d'1  (a)  1  0 5 10 15 20 25 volumetric TOC loadings/kg-rrT'-d'1  (b)  Figure 4 TOC removal ratio(a) and biogas production per day(b) versus volumetric TOC loadings in the JBILAFB reactor  TOC could be removed. However, the biogas production per day versus volumetric TOC loadings had a different variation  trendline. It could rapidly increase when the feed volumetric TOC loading was less than 14.3 kg-m~3-d ' and decrease when the  feed TOC concentration and the volumetric TOC loading were 3346.8 mg-L"1 (COD about 10000 mglT1) and 23.3 kg-m~3-d~'  respectively.  Figures 5 and 6 show the changed relation of the effluent SS concentration, pH, VFA concentration, and VFA/alkalinity versus  the volumetric TOC loadings, respectively. Such a change in the effluent SS concentration was similar to the VFA and  VFA/alkalinity versus the volumetric TOC loadings. However, the effluent pH showed a converse change. When the feed volumetric  TOC loading was 14.3 kg-m"3^"1, the effluent pH, the SS concentration, and the VFA/alkalinity were close to 7.0, less than 85  mg-L"1, and 0.4, respectively. Moreover, 74.9 L-d ' of the biogas production was obtained including 77.4% of CH4 (no mention  in the figure). About 250 L of CH4 was produced per kg COD removed. Theoretically, 350 L of CH4 is produced per kg COD removed  when the starting compound is glucose. Therefore, the CH4 production rate of the JBILAFB reactor could be attained to be more  than 70% of the theoretical production rate. The high biogas production can reflect a high amount of methanogenic biomass in  the JBILAFB reactor. The high performance may be attributable to the substrate, the granules and the design of the bed.  However, when the feed volumetric TOC loading amounted to 23.3 kg-m~3-d"', the effluent pH, the SS concentration and the  VFA/alkalinity were less than 6.0, more than 170 mg-L"1, and 2.0, respectively. The biogas production dropped along with the  percent CH4 of the biogas decreasing from 71.2% to 44.5% (not mentioned in the figures). These results indicted that  _J  00  wu 350 &lt;*0 0 0 $  300   250   200 ..  150 H_  100 50 : JOD a H B :  0 5 10 15 20 25 volumetric TOC loadings/kg-m '-d'1  Figure 5 Effluent SS concentration and pH versus volumetric TOC loadings in the JBILAFB reactor  n effluent SS; o effluent pH  jv;u 450 &amp;- J.U 2.5  - 400 -J 350 2.0 .|  | 300 - 1.5 ^  &gt; 250 A 1.0 ^  200 &gt; 150 100 - ^AA A A A g - a Q B ; 0.5 ^ 0 ^  50 -0.5   i i i i -1.0  0 5 10 15 20 volumetric TOC loadings/kg m  25  Figure 6 The VFA concentration and VFA/alkalinity versus volumetric TOC loadings in the JBILAFB reactor  nVAF; A VAF/alkalinity  148  Chin. J. Chem. Eng., Vol. 16, No. 1, February 2008  the accumulation of acids as intermediate products caused a pH decrease and further inhibited biogas production. Excess  volatile fatty acid (VFA) concentrations in the effluent were mainly attributed to improper balance between acidogenesis and  methano-genesis owing to the dominance of the acidogenic process and suppression of methanogenic activity. Since the effluent  TOC in the JBILAFB reactor at higher volumetric TOC loadings was largely exerted by the unused volatile acids produced in the  reactor, it was essential that the buffering capacity of the system should be maintained with the presence of an adequate  amount of alkalinity. Furthermore, most of the sludge granules in the JBILAFB reactor were dissolved, which made the effluent  SS concentration rise rapidly. Also, the performance of the system deteriorated. Thus, it is obvious that the performance of  the JBILAFB reactor system was greatly affected by the higher feed TOC concentration at short HRT.  3.4 Characteristics of granules  3.4.1 Formation of granules  Figure 7 shows the sizes of sludge granules at the different volumetric TOC loadings of the JBILAFB reactor during operation  time. The diameters of granules in the reactor increased steeply and reached their peak diameters and subsequently declined  beyond the peak volumetric TOC loadings. Granules with mean 0.65 mm diameter were formed at the end of the start-up phase.  Aggregation of granules in the sludge bed resulted in the pelletization of smaller granules into a larger size. After the  start-up, the mean size of granules was increased from 0.65 to 1.55 mm with the increase  of volumetric TOC loadings from 2.96 kg-m 3-d ' to 14.3 kg-m 3-d '. However, when the feed volumetric TOC loading amounted to  23.3 kg-irf 3-dH, the acidity of the reactor system largely increased and the performance of the system deteriorated, which  led to the fragmentation of most of the sludge granules. The mean size of the granules rapidly decreased.  0 25 50 75 100 125 150  time/d  Figure 7 The change of sludge granules' sizes during operation time  volumetric TOC loadings; Dgranules diameter  3.4.2 Configuration of granules  Figure 8(a) illustrates the picture of typical sludge granules obtained from the bottom of the JBILAFB reactor. Visual  examination of granular bio-mass showed an offwhite color with a similar spherical shape. At the end of the experimental phase  I the granular sludge was withdrawn from the reactor for the observation of its morphological characterization and  configuration. The SEM photographs of the granule are illustrated in Fig. 8 (b)f). The observation [Figs. 8 (c), (d)] of the  granule revealed that its surface was scraggly and had several micro-holes. These holes  Figure 8 Photographs of granular sludge  Chin. J. Chem. Eng., Vol. 16, No. 1, February 2008  149  Table 3 Mineral contents of granules (%)  Sample  Fe  Ca  Mg  Zn  Ni  Cu  Mn  Al  Co  sludge granules 1.45-1.95 0.36-0.72 0.27-0.45 0.19-0.43 0.009-0.025 0.073-0.096 0.010-0.029 0.39-0.55 0.005-0.051  were regarded as the channels for the microorganism acquiring nourishment from outside and removing excretion from inside and  which may have facilitated optimal contact between the microorganisms and the substrate. The global-like bacteria were  predominant in the granule. The SEM photographs of Figs. 8 (e), (f) were taken from the center part of the granule. These  pictures were similar to Figs. 8 (c), (d). The centers of the granules were also mainly composed of global-like and a few  bacilli-like bacteria. The results showed that when glucose was used as the sole carbon and energy source, the global-like  bacteria had better hydraulic condition and higher methanogenesis activity under the suitable feed TOC concentration and HRT  condition. The initial development of a granule could be probably interpreted as transport of the bacteria to the surface of  other bacteria, adhesion of the bacteria by physicochemical forces, and multiplication of the bacteria and development of the  granules. In the JBI-LAFB reactor, the bacteria could be transported to the surface of other bacteria by convective transport  of wastewater and biogas flow, which will benefit the contact and collision of these bacteria and the granulation of anaerobic  sludge. Furthermore, granules could also be formed probably through the bridging effect of inorganic elements, as the study  reported previously [21 j. Table 3 shows that there are some inorganic metal compounds such as Fe, Ca and Mg et al. in  granules (dry sludge). The mineral content of granular sludge revealed that a relatively higher percentage of Fe, Ca, Zn, Al  and Mg and a lower percentage of other inorganic components including Co, Cu, Mn, and Ni in the granules in this study.  Inorganic precipitates of calcium and iron played an important role as support materials essential for sludge granulation. The  compounds used as kernel were advantageous to the promotion of granule formation and the achievement of a larger size |22],  which resulted in a faster granulation process.  3.4.3 Characteristics of granules  When the volumetric TOC loading of the reactor was 14.3 kg-m 3'd ', the size distributions of sludge granules were measured.  The result of the measurement is shown in Fig. 9. Different sized granules co-existed in the JBILAFB reactor. About 55% of the  total granules were aggregates with diameters 1.0-3.Omm. Owing to the shear force of recycled biogas and wastewater in the  JBILAFB reactor, small size granules inclined to form relative large size to avoid sludge loss. By measurement of the settling  velocity, the settleability of granules with diameters above 0.5 mm could be examined. Their settling velocities varied from  21.5 nvh"1 to 45.2 m-rT1. Owing to a satisfactorily settling fraction with settling velocities up to 20nrh~' [231, majority of  granules in the reactor exhibited satisfactory settleability.  The specific methanogenic activity (SMA) of  35  ,30 | 25 "d 20 g. 15  3 10  5 0  b c d e f g sludge granule size/mm  Figure 9 Size distributions (by mass) of granules taken from the bottom sampling points of the reactor  sludge granule size, mm: a 0.2; b.2 0.5; c.5-1.0; d.0-2.0; e~2.0-3.0; f.0-4.0; gbove 4.0  granular sludge was also tested, which was about 1.52 g CH4-COD-(g VSSr'-d'1 with VSS/SS of 70.5%. As a result, the granular  sludge was highly active.  4 CONCLUSIONS  Based on the results of this pilot study, the following conclusions can be drawn.  (1) By recycling the wastewater with biogas produced in the reactor, the mixing time of sludge and wastewater was shortened  with a low liquid recycle ratio, which was less than 1/5 of that without biogas.  (2) The successful start-up operation of the JBILAFB reactor was accomplished in a period of less than 70 d through the  maintenance of hydraulic retention time (HRT) and the stepwise increase of feed total organic carbon (TOC) concentration.  Sludge granules in the JBILAFB reactor were developed after the start-up.  (3) With the feed volumetric TOC loading of 14.3 kg-m~3-d~', the biogas production of the JBILAFB reactor reached 74.9 L-d~'  with 77.4% being CH4. The CH4 production rate could be attained to be more than 70% of the theoretical value. The effluent pH  and the volatile fatty acids (VFA)/alkalinity were close to 7.0 and less than 0.4 respectively. The JBILAFB reactor exhibited  high stability under the condition of high volumetric TOC loading.  (4) The sizes of sludge granules in the JBILAFB reactor increased with the stepwise increase of volumetric TOC loadings from  0.8kg-m~3-d ' to 14.3 kg-m 3-d '.  Granules, which mainly consisted of global-like bacteria, had an offwhite color and a  similar spherical shape. At the feed volumetric TOC load-  ing rate of 14.3 g-m~3-d~', these granules had a mean diameter of 1.55 mm and had good methanogenic activity and  settleability. Moreover, there was a significant presence of inorganic metallic elements such as Fe, Ca, Mg, and Al etc. in  the granules. It was speculated that these inorganic elements were advantageous to the formation of granules in the anaerobic  sludge of the JBILAFB reactor.  ISO  Chin. J. Chem. Eng., Vol. 16, No. 1, February 2008  REFERENCES  1 Perez, M., Romero, L.I., Sales, D., "Organic matter degradation kinetics in an anaerobic thermophilic fluidised bed  bioreactor", An-aerobe, 7,25-35(2001).  2 Heijnen, J.J., Mulder, A., Enger, W., Hoeks, F., "Reviews on the application of anaerobic fluidized bed reactors in  waste-water treatment", Chem. Eng. J., 41, 37-52 (1989).  3 Marin, P., Alkalay, D., Guerrero, L., Chamy, R., Schiappacasse, M.C., "Design and startup of an anaerobic fluidized bed  reactor", Water Sci. Technol, 40 (8), 63-70 (1999).  4 Garc:'a-Calder6n, D., Buffiere, P., Moletta, R., Elmaleh, S., "Influence of biomass accumulation on bed expansion  characteristics of a down-flow anaerobic fluidized-bed reactor", Biotechnol. Bioeng., 57 (2), 136-143 (1998).  5 Mendonca, K.M., Niciura, C.L., Gianotti, E.P., Campos, J.R., "Full scale fluidized bed anaerobic reactor for domestic  wastewater treatment', performance, sludge production and biofilm", Water Sci. Technol., 49 (11/12), 319-325 (2004).  6 Garcia-Calderon, D., Buffiere, P., Moletta, R., Elmaleh, S., "Anaerobic digestion of wine distillery wastewater in down-flow  fluidized bed", Water Research, 32 (12), 3593-3600 (1998).  7 Moteleb, M.A., Suidana, M.T., Kim, J., Maloney, S.W., "Pertubated loading of a formaldehyde waste in an anaerobic granular  activated carbon fluidized bed reactor", Water Research, 36, 3775-3785 (2002).  8 Suidan, M.T., Flora, J.R.V., Boyer, T.K., Wuellner, A.M., Narayanan, B., "Anaerobic dechlorination using a fluidized-bed GAC  reactor", Water Research, 30 (1), 160-170 (1996).  9 Saravanane, R., Mutiny, D.V.S., Krishnaiah, K., "Bioaugmentation and treatment of cephalexin drug-based pharmaceutical  effluent in an upflow anaerobic fluidized bed system", Bioresource Technology, 76,279-281 (2001).  10 Diez Bandco, V., Garcfa Encina, P.A., Fdz-Polanco, F., "Effects of biofilm growth, gas and liquid velocities on the  expansion of an anaerobic fluidized bed reactor (AFBR)", Water Research, 29 (7), 1649-1654(1995).  11 Hidalgo, M.D., Garci'a-Encina, PA., "Biofilm development and bed  segregation in a methanogenic fluidized bed reactor", Water Research, 36, 3083-3091 (2002).  12 Shieh, W.K., Hsu, Y, "Biomass loss from an anaerobic fluidized bed reactor", Water Research, 30 (5), 1253-1257 (1996).  13 Suvajittanont, W., Chaiprasert, P., "Potential of biogas recirculation to enhance biomass accumulation on supporting  media", Bioresource Technology, 88, 157-162 (2003).  14 Wei, C.H., Wang, W.X., Deng, Z.Y., Wu, C.F., 'Treatment characteristics of high-sulfate wastewater by two-phase anaerobic  digestion process with JLAFB reactor as sulfate-reducing phase", J. Environ. Sci., 19, 264-270 (2007).  15 State Environmental Protection Administration of China, Monitoring and Analysis Methods of Water and Wastewater, 4th ed.,  China Environmental Science Press, Beijing (2002). (in Chinese)  16 Fang, H.H.P., Chui, H.K.., Li, Y.Y., "Anaerobic degradation of bu-tyrate in a UASB reactor", Bioresource Technology, SI  (1), 75-81 (1995).  17 Berrueta, J., Gutiknez, A., Fueyo, G, "Anaerobic treatment of leachates in a pilot-scale UASB: Strategy of start-up", J.  Chem. Technol. Biotechnol., 67, 302-314 (1996).  18 Vossoughi, M., Shaken, M., Alemzadeh, I., "Performance of anaerobic baffled reactor treating synthetic wastewater  influenced by decreasing COD/SO4 ratios", Chem.  Eng.  Process., 42, 811-816 (2003).  19 Tang, W.T., Fan, L.S., "Axial liquid mixing in liquid-solid and gas-liquid-solid fluidized beds containing low density  particles", Chem. Eng. Sci., 45 (2), 543-551 (1990).  20 Borja, R., Banks, C.J., "Response of an anaerobic fluidized bed reactor treating ice-cream wastewater to organic,  hydraulic, temperature and pH shocks", J. biotechnol., 39, 251-259 (1995).  21 Ramakrishnan, A., Gupta, S.K., "Anaerobic biogranulation in a hybrid reactor treating phenolic waste", J. Hazard. Mater.,  137 (3), 1488-1495 (2006).  22 Yu, H.Q., Fang, H.H.P., Tay, J.H., "Enhanced sludge granulation in upflow anaerobic sludge blanket (UASB) reactors by  aluminum chloride", Chemosphere, 44, 31-36 (2001).  23 Setiadi, T, "Predicting the bed expansion of an anaerobic fluidized-bed bioreactor", Water Science and Technology, 31 (9),  181-191 (1995).                                             </xocs:rawtext><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" version="5.0" xml:lang="en">
+         <item-info>
+            <jid>CJCHE</jid>
+            <aid>60053</aid>
+            <ce:pii>S1004-9541(08)60053-1</ce:pii>
+            <ce:doi>10.1016/S1004-9541(08)60053-1</ce:doi>
+            <ce:copyright type="society" year="2008">Chemical Industry and Engineering Society of China (CIESC) and Chemical Industry Press (CIP)</ce:copyright>
+            <ce:doctopics>
+               <ce:doctopic>
+                  <ce:text>PROCESS AND PRODUCT TECHNOLOGY</ce:text>
+               </ce:doctopic>
+            </ce:doctopics>
+         </item-info>
+         <head>
+            <ce:title>Start-up and Performance of a Novel Reactor—Jet Biogas Inter-loop Anaerobic Fluidized Bed<ce:cross-ref refid="fn1">
+                  <ce:sup loc="post">*</ce:sup>
+               </ce:cross-ref>
+		             <ce:footnote id="fn1">
+                  <ce:label>*</ce:label>
+                  <ce:note-para>Supported by the National Natural Science Foundation of China (No.50278036), the Natural Science Foundation of Guangdong Province (No.04105951) and the National High Technology Research and Development Program of China (No.2006AA06Z378).</ce:note-para>
+               </ce:footnote>
+            </ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Zhiyi</ce:given-name>
+                  <ce:surname>DENG</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Chaohai</ce:given-name>
+                  <ce:surname>WEI</ce:surname>
+                  <ce:cross-ref refid="cor1">
+                     <ce:sup loc="post">**</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Xiufeng</ce:given-name>
+                  <ce:surname>ZHOU</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>School of Environment Science and Engineering, South China University of Technology, Guangzhou 510640, China</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>**</ce:label>
+                  <ce:text>To whom correspondence should be addressed</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="10" month="7" year="2007"/>
+            <ce:date-accepted day="19" month="9" year="2007"/>
+            <ce:abstract class="author"><ce:abstract-sec>
+                  <ce:simple-para view="all">A novel anaerobic reactor, jet biogas inter-loop anaerobic fluidized bed (JBILAFB), was designed and constructed. The start-up and performance of the reactor was investigated in the process of artificial glucose wastewater treatment. With the wastewater recycle ratio of 2.5 : 1, the recycled wastewater with biogas could mix sludge and wastewater in the JBILAFB reactor completely. The start-up of the JBILAFB reactor could be completed in less than 70 d through maintenance of hydraulic retention time (HRT) and stepwise increase of feed total organic carbon (TOC) concentration. After the start-up, with the volumetric TOC loadings of 14.3 kg·m<ce:sup loc="post">−3</ce:sup>·d<ce:sup loc="post">−1</ce:sup>, the TOC removal ratio, the effluent pH, and the volatile fatty acids (VFA)/alkalinity of the JBILAFB reactor were more than 80%, close to 7.0 and less than 0.4, respectively. Moreover, CH<ce:inf loc="post">4</ce:inf> was produced at more than 70% of the theoretical value. The reactor exhibited high stability under the condition of high volumetric TOC loading. Sludge granules in the JBILAFB reactor were developed during the start-up and their sizes were enlarged with the stepwise increase of volumetric TOC loadings from 0.8 kg·m<ce:sup loc="post">−3</ce:sup>·d<ce:sup loc="post">−1</ce:sup> to 14.3 kg·m<ce:sup loc="post">−3</ce:sup>·d<ce:sup loc="post">−1</ce:sup>. Granules, an offwhite color and a similar spherical shape, were mainly comprised of global-like bacteria. These had good methanogenic activity and settleability, which were formed probably through adhesion of the bacteria. Some inorganic metal compounds such as Fe, Ca, Mg, Al, <ce:italic>etc.</ce:italic> were advantageous to the formation of the granules.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>anaerobic reactor</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>jet biogas inter-loop anaerobic fluidized bed</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>wastewater treatment</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>start-up</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>granule sludge</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <tail view="all">
+            <ce:bibliography view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec>
+                  <ce:bib-reference id="bib1">
+                     <ce:label>1</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Pérez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.I.</ce:given-name>
+                                 <ce:surname>Romero</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Sales</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>“Organic matter degradation kinetics in an anaerobic thermophilic fluidised bed bioreactor”</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Anaerobe</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>25</sb:first-page>
+                              <sb:last-page>35</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>2</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Heijnen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Mulder</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Enger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Hoeks</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>“Reviews on the application of anaerobic fluidized bed reactors in waste-water treatment”</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Eng. J.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>41</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1989</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>37</sb:first-page>
+                              <sb:last-page>52</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>3</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Marín</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Alkalay</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Guerrero</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Chamy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.C</ce:given-name>
+                                 <ce:surname>Schiappacasse</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>“Design and startup of an anaerobic fluidized bed reactor”</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>40</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>8</sb:issue-nr>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>63</sb:first-page>
+                              <sb:last-page>70</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>4</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>García-Calderón</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Buffière</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Moletta</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Elmaleh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>“Influence of biomass accumulation on bed expansion characteristics of a down-flow anaerobic fluidized-bed reactor”</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biotechnol. Bioeng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>57</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>136</sb:first-page>
+                              <sb:last-page>143</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>5</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.M.</ce:given-name>
+                                 <ce:surname>Mendonca</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.L.</ce:given-name>
+                                 <ce:surname>Niciura</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.P.</ce:given-name>
+                                 <ce:surname>Gianotti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.R</ce:given-name>
+                                 <ce:surname>Campos</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>“Full scale fluidized bed anaerobic reactor for domestic wastewater treatment: performance, sludge production and biofilm”</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>49</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>11/12</sb:issue-nr>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>319</sb:first-page>
+                              <sb:last-page>325</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>6</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Garcia-Calderon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Buffiere</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Moletta</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Elmaleh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>“Anaerobic digestion of wine distillery wastewater in down-flow fluidized bed”</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Research</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>32</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>12</sb:issue-nr>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3593</sb:first-page>
+                              <sb:last-page>3600</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>7</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Moteleb</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.T.</ce:given-name>
+                                 <ce:surname>Suidana</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.W</ce:given-name>
+                                 <ce:surname>Maloney</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>“Pertubated loading of a formaldehyde waste in an anaerobic granular activated carbon fluidized bed reactor”</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Research</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>36</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3775</sb:first-page>
+                              <sb:last-page>3785</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>8</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.T.</ce:given-name>
+                                 <ce:surname>Suidan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.R.V.</ce:given-name>
+                                 <ce:surname>Flora</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.K.</ce:given-name>
+                                 <ce:surname>Boyer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.M.</ce:given-name>
+                                 <ce:surname>Wuellner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Narayanan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>“Anaerobic dechlorination using a fluidized-bed GAC reactor”</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Research</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>30</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>1996</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>160</sb:first-page>
+                              <sb:last-page>170</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>9</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Saravanane</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.V.S.</ce:given-name>
+                                 <ce:surname>Murthy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Krishnaiah</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>“Bioaugmentation and treatment of cephalexin drug-based pharmaceutical effluent in an upflow anaerobic fluidized bed system”</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresource Technology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>76</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>279</sb:first-page>
+                              <sb:last-page>281</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>10</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Diez Bandco</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Garcfa Encina</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Fdz-Polanco</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>“Effects of biofilm growth, gas and liquid velocities on the expansion of an anaerobic fluidized bed reactor (AFBR)”</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Research</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>29</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>7</sb:issue-nr>
+                              <sb:date>1995</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1649</sb:first-page>
+                              <sb:last-page>1654</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>11</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.D.</ce:given-name>
+                                 <ce:surname>Hidalgo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.A</ce:given-name>
+                                 <ce:surname>García-Encina</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>“Biofilm development and bed segregation in a methanogenic fluidized bed reactor”</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Research</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>36</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3083</sb:first-page>
+                              <sb:last-page>3091</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>12</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.K.</ce:given-name>
+                                 <ce:surname>Shieh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Hsu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>“Biomass loss from an anaerobic fluidized bed reactor”</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Research</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>30</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>5</sb:issue-nr>
+                              <sb:date>1996</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1253</sb:first-page>
+                              <sb:last-page>1257</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>13</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Suvajittanont</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Chaiprasert</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>“Potential of biogas recirculation to enhance biomass accumulation on supporting media”</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresource Technology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>88</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>157</sb:first-page>
+                              <sb:last-page>162</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>14</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.H.</ce:given-name>
+                                 <ce:surname>Wei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.X.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.Y.</ce:given-name>
+                                 <ce:surname>Deng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.F</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>“Treatment characteristics of high-sulfate wastewater by two-phase anaerobic digestic process with JLAFB reactor as sulfate-reducing phase”</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Environ. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>19</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>264</sb:first-page>
+                              <sb:last-page>270</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>15</ce:label>
+                     <sb:reference>
+                        <sb:host>
+                           <sb:book>
+                              <sb:title>
+                                 <sb:maintitle>State Environmental Protection Administration of China, Monitoring and Analysis Methods of Water and Wastewater</sb:maintitle>
+                              </sb:title>
+                              <sb:edition>4th ed.</sb:edition>
+                              <sb:date>2002</sb:date>
+                              <sb:publisher>
+                                 <sb:name>China Environmental Science Press</sb:name>
+                                 <sb:location>Beijing</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                        <sb:comment>(in Chinese)</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>16</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.H.P.</ce:given-name>
+                                 <ce:surname>Fang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.K.</ce:given-name>
+                                 <ce:surname>Chui</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.Y</ce:given-name>
+                                 <ce:surname>Li</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>“Anaerobic degradation of butyrate tyrate in a UASB reactor”</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresource Technology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>51</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>1</sb:issue-nr>
+                              <sb:date>1995</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>75</sb:first-page>
+                              <sb:last-page>81</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>17</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Berrueta</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Gutikrrez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Fueyo</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>“Anaerobic treatment of leachates in a pilot-scale UASB: Strategy of start-up”</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Technol. Biotechnol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>67</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1996</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>302</sb:first-page>
+                              <sb:last-page>314</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>18</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Vossoughi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Shakeri</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Alemzadeh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>“Performance of anaerobic baffled reactor treating synthetic wastewater influenced by decreasing COD/SO<ce:inf loc="post">4</ce:inf> ratios”</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Eng. Process.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>42</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>811</sb:first-page>
+                              <sb:last-page>816</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>19</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.T.</ce:given-name>
+                                 <ce:surname>Tang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.S</ce:given-name>
+                                 <ce:surname>Fan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>“Axial liquid mixing in liquid-solid and gas-liquid-solid fluidized beds containing low density particles”</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Eng. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>45</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>2</sb:issue-nr>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>543</sb:first-page>
+                              <sb:last-page>551</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>20</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Borja</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.J</ce:given-name>
+                                 <ce:surname>Banks</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>“Response of an anaerobic fluidized bed reactor treating ice-cream wastewater to organic, hydraulic, temperature and pH shocks”</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. biotechnol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1995</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>251</sb:first-page>
+                              <sb:last-page>259</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib21">
+                     <ce:label>21</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Ramakrishnan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.K</ce:given-name>
+                                 <ce:surname>Gupta</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>“Anaerobic biogranulation in a hybrid reactor treating phenolic waste”</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Hazard. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>137</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1488</sb:first-page>
+                              <sb:last-page>1495</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib22">
+                     <ce:label>22</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.Q.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.H.P.</ce:given-name>
+                                 <ce:surname>Fang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.H</ce:given-name>
+                                 <ce:surname>Tay</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>“Enhanced sludge granulation upflow anaerobic sludge blanket (UASB) reactors by aluminum chloride”</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chemosphere</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>44</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>31</sb:first-page>
+                              <sb:last-page>36</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib23">
+                     <ce:label>23</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Setiadi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>“Predicting the bed expansion of an anaerobic fluidized bed bioreactor”</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Science and Technology</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>31</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>9</sb:issue-nr>
+                              <sb:date>1995</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>181</sb:first-page>
+                              <sb:last-page>191</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

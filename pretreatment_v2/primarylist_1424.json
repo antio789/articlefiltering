@@ -1,0 +1,16 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Hydrothermal pretreatment (HP) of sugarcane bagasse (SB) using autohydrolysis, performed at 183 \u00b0C, 41 minutes, and a liquid-to-solid ratio (LSR) of 3.94 mL g^\u22121, generating a liquor rich in C5 sugars and xylooligomers. Subsequently, low molar mass lignin fragments were partially removed by alkaline extraction (AE). Acid-catalyzed or organosolv methods were not used for delignification; the residual lignin remained chemically modified. The pretreated solid was further subjected to advanced oxidative pretreatment (AOP) to achieve high cellulose preservation and enzymatic conversion."
+    },
+    {
+      "id": 1,
+      "description": "Alkaline extraction (AE) performed on HP-treated SB to remove low molar mass lignin fragments, consisting of an aqueous 0.2 mol L^\u22121 NaOH solution at a liquid-to-solid ratio (LSR) of 10 mL g^\u22121, speed of 2,800 rpm for 30 seconds. Aqueous washing with tap water was used to reach neutral pH before storage."
+    },
+    {
+      "id": 2,
+      "description": "Advanced oxidative pretreatment (AOP) applied to alkaline-extracted pretreated SB using a 2 L white acrylic cylindrical reactor, involving an aqueous H_2O_2 solution at defined LSR and pH adjusted to 11.6, stirred at 150 rpm and 25 \u00b0C. Reaction time varied from 1 to 8 h based on experimental design, optimizing the application of H_2O_2 load (0.3-3.0 g_H2O2 g_SB^\u22121), LSR (5-25 mL g^\u22121), and reaction time. The process aimed to maximize degree of delignification (DE) and enzymatic conversion (EC) while minimizing yield loss (Y) and weight loss."
+    }
+  ]
+}

@@ -1,0 +1,2289 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0016236112000853</prism:url><dc:identifier>doi:10.1016/j.fuel.2012.01.046</dc:identifier><eid>1-s2.0-S0016236112000853</eid><prism:doi>10.1016/j.fuel.2012.01.046</prism:doi><pii>S0016-2361(12)00085-3</pii><dc:title>Anaerobic treatment of spoiled milk from milk processing industry for energy recovery – A laboratory to pilot scale study </dc:title><prism:publicationName>Fuel</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>00162361</prism:issn><prism:volume>96</prism:volume><prism:startingPage>482</prism:startingPage><prism:endingPage>486</prism:endingPage><prism:pageRange>482-486</prism:pageRange><dc:format>text/xml</dc:format><prism:coverDate>2012-06-30</prism:coverDate><prism:coverDisplayDate>June 2012</prism:coverDisplayDate><prism:copyright>Copyright © 2012 Elsevier Ltd. All rights reserved.</prism:copyright><prism:publisher>Elsevier Ltd.</prism:publisher><dc:creator>Sivakumar, Pandian</dc:creator><dc:creator>Bhagiyalakshmi, Margandan</dc:creator><dc:creator>Anbarasu, Kamalakannan</dc:creator><dc:description>
+                  An anaerobic process for the treatment of spoiled milk from the milk processing industry was investigated. It was carried out in a laboratory scale batch reactor and using the obtained data, it was scaled up to a pilot Anaerobic Sequential Batch Reactor (ASBR). The processes include acclimatization of seed consortia and start up of the reactor under room condition. The batch reactor was studied at different pH, inoculum dosage, and Chemical Oxygen Demand (COD) loading. The scaled up pilot plant is of 100L capacity and it was observed continuously for 30days. At steady state, the efficiency of the pilot plant in removing COD was found to be 92.80%, and it was able to produce biogas volume of 0.311m3 for 1kg COD degradation. The results obtained showed that biogas contained a maximum of 69.18% of methane.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Spoiled milk</dcterms:subject><dcterms:subject>Biogas</dcterms:subject><dcterms:subject>COD</dcterms:subject><dcterms:subject>Batch reactor</dcterms:subject><dcterms:subject>Anaerobic sequential batch reactor</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0016236112000853" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0016236112000853" rel="scidir"/></coredata><objects><object ref="gr4" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="318" height="180" size="7260">https://api.elsevier.com/content/object/eid/1-s2.0-S0016236112000853-gr4.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2a" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="356" height="285" size="15866">https://api.elsevier.com/content/object/eid/1-s2.0-S0016236112000853-gr2a.jpg?httpAccept=%2A%2F%2A</object><object ref="gr3" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="320" height="220" size="8177">https://api.elsevier.com/content/object/eid/1-s2.0-S0016236112000853-gr3.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2b" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="289" height="414" size="45030">https://api.elsevier.com/content/object/eid/1-s2.0-S0016236112000853-gr2b.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1b" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="289" height="514" size="49419">https://api.elsevier.com/content/object/eid/1-s2.0-S0016236112000853-gr1b.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1a" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="289" height="412" size="19294">https://api.elsevier.com/content/object/eid/1-s2.0-S0016236112000853-gr1a.jpg?httpAccept=%2A%2F%2A</object><object ref="gr7" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="313" height="179" size="16263">https://api.elsevier.com/content/object/eid/1-s2.0-S0016236112000853-gr7.jpg?httpAccept=%2A%2F%2A</object><object ref="gr6" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="319" height="192" size="16231">https://api.elsevier.com/content/object/eid/1-s2.0-S0016236112000853-gr6.jpg?httpAccept=%2A%2F%2A</object><object ref="gr5" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="315" height="182" size="15168">https://api.elsevier.com/content/object/eid/1-s2.0-S0016236112000853-gr5.jpg?httpAccept=%2A%2F%2A</object><object ref="gr4" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="124" size="2775">https://api.elsevier.com/content/object/eid/1-s2.0-S0016236112000853-gr4.sml?httpAccept=%2A%2F%2A</object><object ref="gr2a" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="205" height="164" size="2845">https://api.elsevier.com/content/object/eid/1-s2.0-S0016236112000853-gr2a.sml?httpAccept=%2A%2F%2A</object><object ref="gr3" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="151" size="3021">https://api.elsevier.com/content/object/eid/1-s2.0-S0016236112000853-gr3.sml?httpAccept=%2A%2F%2A</object><object ref="gr2b" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="114" height="163" size="10561">https://api.elsevier.com/content/object/eid/1-s2.0-S0016236112000853-gr2b.sml?httpAccept=%2A%2F%2A</object><object ref="gr1b" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="92" height="164" size="8018">https://api.elsevier.com/content/object/eid/1-s2.0-S0016236112000853-gr1b.sml?httpAccept=%2A%2F%2A</object><object ref="gr1a" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="115" height="164" size="2003">https://api.elsevier.com/content/object/eid/1-s2.0-S0016236112000853-gr1a.sml?httpAccept=%2A%2F%2A</object><object ref="gr7" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="125" size="4578">https://api.elsevier.com/content/object/eid/1-s2.0-S0016236112000853-gr7.sml?httpAccept=%2A%2F%2A</object><object ref="gr6" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="131" size="4621">https://api.elsevier.com/content/object/eid/1-s2.0-S0016236112000853-gr6.sml?httpAccept=%2A%2F%2A</object><object ref="gr5" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="219" height="127" size="4748">https://api.elsevier.com/content/object/eid/1-s2.0-S0016236112000853-gr5.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>84858296349</scopus-id><scopus-eid>2-s2.0-84858296349</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/84858296349" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271496</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291732</xocs:ssid>
+         <xocs:ssid type="subj">291767</xocs:ssid>
+         <xocs:ssid type="subj">291786</xocs:ssid>
+         <xocs:ssid type="subj">291877</xocs:ssid>
+         <xocs:ssid type="subj">291878</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Fuel</xocs:srctitle>
+      <xocs:normalized-srctitle>FUEL</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20120204">2012-02-04</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20120204">2012-02-04</xocs:available-online-date>
+      <xocs:ew-transaction-id>2014-10-11T00:09:06</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0016236112000853</xocs:eid>
+      <xocs:pii-formatted>S0016-2361(12)00085-3</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0016236112000853</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.fuel.2012.01.046</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0016236112X00048</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150514">2015-05-14T00:29:19.397019-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20120601</xocs:date-search-begin>
+      <xocs:date-search-end>20120630</xocs:date-search-end>
+      <xocs:year-nav>2012</xocs:year-nav>
+      <xocs:indexeddate epoch="1328313600">2012-02-04T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype ssids alllist content subj subheadings suppl tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav figure table body affil articletitle auth authfirstini authfull authkeywords authlast primabst ref specialabst</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0016-2361</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00162361</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>96</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>96</xocs:volume>
+      </xocs:volume-list>
+      <xocs:suppl>C</xocs:suppl>
+      <xocs:vol-iss-suppl-text>Volume 96</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>56</xocs:sort-order>
+      <xocs:first-fp>482</xocs:first-fp>
+      <xocs:last-lp>486</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>482</xocs:first-page>
+         <xocs:last-page>486</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201206</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>June 2012</xocs:cover-date-text>
+      <xocs:cover-date-start>2012-06-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2012-06-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2012</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Full Papers</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2012 Elsevier Ltd. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>ANAEROBICTREATMENTSPOILEDMILKMILKPROCESSINGINDUSTRYFORENERGYRECOVERYALABORATORYPILOTSCALESTUDY</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>SIVAKUMAR</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>P</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Materials and methods</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Materials</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Characteristics of the spoiled milk</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Inoculum</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.4</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Batch reactor</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.5</xocs:item-toc-label>
+               <xocs:item-toc-section-title>The pilot plant</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Characteristics of the spoiled milk</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Batch test</xocs:item-toc-section-title>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.2.1</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Effect of pH on cumulative biogas production</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.2.2</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Effect of inoculum potential on cumulative biogas production</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+               <xocs:item-toc-entry ref-elem="ce:sections">
+                  <xocs:item-toc-label>3.2.3</xocs:item-toc-label>
+                  <xocs:item-toc-section-title>Effect of COD loading on cumulative biogas production</xocs:item-toc-section-title>
+               </xocs:item-toc-entry>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>3.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Pilot plant studies</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="b0005"/>
+         <xocs:ref-info refid="b0010">
+            <xocs:ref-normalized-surname>ORHON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1993</xocs:ref-pub-year>
+            <xocs:ref-first-fp>625</xocs:ref-first-fp>
+            <xocs:ref-last-lp>633</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0015">
+            <xocs:ref-normalized-surname>PERLE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1549</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1554</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0020">
+            <xocs:ref-normalized-surname>KEVIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1992</xocs:ref-pub-year>
+            <xocs:ref-first-fp>104</xocs:ref-first-fp>
+            <xocs:ref-last-lp>112</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0025">
+            <xocs:ref-normalized-surname>BULL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>221</xocs:ref-first-fp>
+            <xocs:ref-last-lp>230</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0030">
+            <xocs:ref-normalized-surname>JONES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1974</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>POLLUTIONCONTROLINMEATPOULTRYSEAFOODPROCESSING</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0035">
+            <xocs:ref-normalized-surname>TIMMERANS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1993</xocs:ref-pub-year>
+            <xocs:ref-first-fp>36</xocs:ref-first-fp>
+            <xocs:ref-last-lp>43</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0040">
+            <xocs:ref-normalized-surname>GHALY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1991</xocs:ref-pub-year>
+            <xocs:ref-first-fp>217</xocs:ref-first-fp>
+            <xocs:ref-last-lp>237</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0045">
+            <xocs:ref-normalized-surname>VERSTRAETE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-first-fp>221</xocs:ref-first-fp>
+            <xocs:ref-last-lp>238</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0050">
+            <xocs:ref-normalized-surname>ODEGAARD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>295</xocs:ref-first-fp>
+            <xocs:ref-last-lp>303</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0055">
+            <xocs:ref-normalized-surname>FRANCESE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>147</xocs:ref-first-fp>
+            <xocs:ref-last-lp>150</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0060">
+            <xocs:ref-normalized-surname>SILVA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>927</xocs:ref-first-fp>
+            <xocs:ref-last-lp>935</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0065">
+            <xocs:ref-normalized-surname>VENKATAMOHAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>93</xocs:ref-first-fp>
+            <xocs:ref-last-lp>100</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0070">
+            <xocs:ref-normalized-surname>PFEFFER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>ANAEROBICDIGESTION</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>ANAEROBICDIGESTIONPROCESSES</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0075">
+            <xocs:ref-normalized-surname>REBAC</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>135</xocs:ref-first-fp>
+            <xocs:ref-last-lp>146</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0080">
+            <xocs:ref-normalized-surname>YU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-first-fp>219</xocs:ref-first-fp>
+            <xocs:ref-last-lp>224</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0085">
+            <xocs:ref-normalized-surname>MUKTIDEB</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1993</xocs:ref-pub-year>
+            <xocs:ref-first-fp>41</xocs:ref-first-fp>
+            <xocs:ref-last-lp>46</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0090">
+            <xocs:ref-normalized-surname>BERRUETA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1992</xocs:ref-pub-year>
+            <xocs:ref-first-fp>33</xocs:ref-first-fp>
+            <xocs:ref-last-lp>37</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0095">
+            <xocs:ref-normalized-surname>LETTINGA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>253</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0100">
+            <xocs:ref-normalized-surname>MARK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1993</xocs:ref-pub-year>
+            <xocs:ref-first-fp>117</xocs:ref-first-fp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0105">
+            <xocs:ref-normalized-surname>HENZE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>101</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0110"/>
+         <xocs:ref-info refid="b0115"/>
+         <xocs:ref-info refid="b0120">
+            <xocs:ref-normalized-surname>GRIFFIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>342</xocs:ref-first-fp>
+            <xocs:ref-last-lp>355</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0125">
+            <xocs:ref-normalized-surname>BJORNSSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2833</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2840</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0130">
+            <xocs:ref-normalized-surname>JENKINS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1991</xocs:ref-pub-year>
+            <xocs:ref-first-fp>28</xocs:ref-first-fp>
+            <xocs:ref-last-lp>34</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0135">
+            <xocs:ref-normalized-surname>BJORNSSON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>640</xocs:ref-first-fp>
+            <xocs:ref-last-lp>644</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0140">
+            <xocs:ref-normalized-surname>LYBERATOS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>63</xocs:ref-first-fp>
+            <xocs:ref-last-lp>76</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0145">
+            <xocs:ref-normalized-surname>POWELL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>570</xocs:ref-first-fp>
+            <xocs:ref-last-lp>577</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0150">
+            <xocs:ref-normalized-surname>RAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>75</xocs:ref-first-fp>
+            <xocs:ref-last-lp>87</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0155"/>
+         <xocs:ref-info refid="b0160">
+            <xocs:ref-normalized-surname>GELEGENIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>646</xocs:ref-first-fp>
+            <xocs:ref-last-lp>663</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0165">
+            <xocs:ref-normalized-surname>KOJI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>44</xocs:ref-first-fp>
+            <xocs:ref-last-lp>50</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0170">
+            <xocs:ref-normalized-surname>NOYKOVA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>89</xocs:ref-first-fp>
+            <xocs:ref-last-lp>103</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="b0175">
+            <xocs:ref-normalized-surname>GUJER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>127</xocs:ref-first-fp>
+            <xocs:ref-last-lp>167</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>SIVAKUMARX2012X482</xocs:refkey3>
+         <xocs:refkey4lp>SIVAKUMARX2012X482X486</xocs:refkey4lp>
+         <xocs:refkey4ai>SIVAKUMARX2012X482XP</xocs:refkey4ai>
+         <xocs:refkey5>SIVAKUMARX2012X482X486XP</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0016-2361(12)00085-3</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0016236112000853</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0016236112000853</xocs:eid>
+         <xocs:doi>10.1016/j.fuel.2012.01.046</xocs:doi>
+         <xocs:cid>271496</xocs:cid>
+         <xocs:timestamp>2014-10-11T04:30:28.990017-04:00</xocs:timestamp>
+         <xocs:cover-date-start>2012-06-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2012-06-30</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0016236112000853-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0016236112000853/MAIN/application/pdf/8e175474df67ffeb463112701c996edf/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0016236112000853/MAIN/application/pdf/8e175474df67ffeb463112701c996edf/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>672404</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0016236112000853-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0016236112000853/PREVIEW/image/png/d5fbc17cd07f9b55aa63cc9006edf67a/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0016236112000853/PREVIEW/image/png/d5fbc17cd07f9b55aa63cc9006edf67a/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>55319</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0016236112000853-gr4.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0016236112000853/gr4/DOWNSAMPLED/image/jpeg/f43a1659492582c93db777e2005eca03/gr4.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0016236112000853/gr4/DOWNSAMPLED/image/jpeg/f43a1659492582c93db777e2005eca03/gr4.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>7260</xocs:filesize>
+               <xocs:pixel-height>180</xocs:pixel-height>
+               <xocs:pixel-width>318</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0016236112000853-gr2a.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0016236112000853/gr2a/DOWNSAMPLED/image/jpeg/eaa11a36119b1bdd4e60357c522c141a/gr2a.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0016236112000853/gr2a/DOWNSAMPLED/image/jpeg/eaa11a36119b1bdd4e60357c522c141a/gr2a.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2a</xocs:file-basename>
+               <xocs:filename>gr2a.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>15866</xocs:filesize>
+               <xocs:pixel-height>285</xocs:pixel-height>
+               <xocs:pixel-width>356</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0016236112000853-gr3.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0016236112000853/gr3/DOWNSAMPLED/image/jpeg/1be48d6335cbea5987f065e289db9087/gr3.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0016236112000853/gr3/DOWNSAMPLED/image/jpeg/1be48d6335cbea5987f065e289db9087/gr3.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>8177</xocs:filesize>
+               <xocs:pixel-height>220</xocs:pixel-height>
+               <xocs:pixel-width>320</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0016236112000853-gr2b.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0016236112000853/gr2b/DOWNSAMPLED/image/jpeg/354408b11ddbdfdf7f83331f1f8b2ad0/gr2b.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0016236112000853/gr2b/DOWNSAMPLED/image/jpeg/354408b11ddbdfdf7f83331f1f8b2ad0/gr2b.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2b</xocs:file-basename>
+               <xocs:filename>gr2b.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>45030</xocs:filesize>
+               <xocs:pixel-height>414</xocs:pixel-height>
+               <xocs:pixel-width>289</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0016236112000853-gr1b.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0016236112000853/gr1b/DOWNSAMPLED/image/jpeg/48886be818463a76a1eb7ddb5cb842d4/gr1b.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0016236112000853/gr1b/DOWNSAMPLED/image/jpeg/48886be818463a76a1eb7ddb5cb842d4/gr1b.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1b</xocs:file-basename>
+               <xocs:filename>gr1b.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>49419</xocs:filesize>
+               <xocs:pixel-height>514</xocs:pixel-height>
+               <xocs:pixel-width>289</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0016236112000853-gr1a.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0016236112000853/gr1a/DOWNSAMPLED/image/jpeg/97dfcd047d01dbaf36b1cbdecf8f6a27/gr1a.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0016236112000853/gr1a/DOWNSAMPLED/image/jpeg/97dfcd047d01dbaf36b1cbdecf8f6a27/gr1a.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1a</xocs:file-basename>
+               <xocs:filename>gr1a.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>19294</xocs:filesize>
+               <xocs:pixel-height>412</xocs:pixel-height>
+               <xocs:pixel-width>289</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0016236112000853-gr7.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0016236112000853/gr7/DOWNSAMPLED/image/jpeg/70d2ca8282a55dbb1412b9a3306d9e0d/gr7.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0016236112000853/gr7/DOWNSAMPLED/image/jpeg/70d2ca8282a55dbb1412b9a3306d9e0d/gr7.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>16263</xocs:filesize>
+               <xocs:pixel-height>179</xocs:pixel-height>
+               <xocs:pixel-width>313</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0016236112000853-gr6.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0016236112000853/gr6/DOWNSAMPLED/image/jpeg/97689ed157e15aea71bf5dd1443719b7/gr6.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0016236112000853/gr6/DOWNSAMPLED/image/jpeg/97689ed157e15aea71bf5dd1443719b7/gr6.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>16231</xocs:filesize>
+               <xocs:pixel-height>192</xocs:pixel-height>
+               <xocs:pixel-width>319</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0016236112000853-gr5.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0016236112000853/gr5/DOWNSAMPLED/image/jpeg/332d1ab4f76af27051a6d13abf586222/gr5.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0016236112000853/gr5/DOWNSAMPLED/image/jpeg/332d1ab4f76af27051a6d13abf586222/gr5.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>15168</xocs:filesize>
+               <xocs:pixel-height>182</xocs:pixel-height>
+               <xocs:pixel-width>315</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0016236112000853-gr4.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0016236112000853/gr4/THUMBNAIL/image/gif/691621f1c9d86aadbc8ff1ced07d28a8/gr4.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0016236112000853/gr4/THUMBNAIL/image/gif/691621f1c9d86aadbc8ff1ced07d28a8/gr4.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr4</xocs:file-basename>
+               <xocs:filename>gr4.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2775</xocs:filesize>
+               <xocs:pixel-height>124</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0016236112000853-gr2a.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0016236112000853/gr2a/THUMBNAIL/image/gif/6b5ea23b0721d49aea9b655f1f7a64fe/gr2a.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0016236112000853/gr2a/THUMBNAIL/image/gif/6b5ea23b0721d49aea9b655f1f7a64fe/gr2a.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2a</xocs:file-basename>
+               <xocs:filename>gr2a.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2845</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>205</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0016236112000853-gr3.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0016236112000853/gr3/THUMBNAIL/image/gif/337e50fef3a25685812775fe16180e56/gr3.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0016236112000853/gr3/THUMBNAIL/image/gif/337e50fef3a25685812775fe16180e56/gr3.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr3</xocs:file-basename>
+               <xocs:filename>gr3.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>3021</xocs:filesize>
+               <xocs:pixel-height>151</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0016236112000853-gr2b.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0016236112000853/gr2b/THUMBNAIL/image/gif/028d46b075d092fd8e45ca8895ee3217/gr2b.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0016236112000853/gr2b/THUMBNAIL/image/gif/028d46b075d092fd8e45ca8895ee3217/gr2b.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2b</xocs:file-basename>
+               <xocs:filename>gr2b.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>10561</xocs:filesize>
+               <xocs:pixel-height>163</xocs:pixel-height>
+               <xocs:pixel-width>114</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0016236112000853-gr1b.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0016236112000853/gr1b/THUMBNAIL/image/gif/92fa8afe017a3498449c75f945cef0ea/gr1b.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0016236112000853/gr1b/THUMBNAIL/image/gif/92fa8afe017a3498449c75f945cef0ea/gr1b.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1b</xocs:file-basename>
+               <xocs:filename>gr1b.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>8018</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>92</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0016236112000853-gr1a.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0016236112000853/gr1a/THUMBNAIL/image/gif/b9856d5efc42d188ac6b3056f734d471/gr1a.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0016236112000853/gr1a/THUMBNAIL/image/gif/b9856d5efc42d188ac6b3056f734d471/gr1a.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1a</xocs:file-basename>
+               <xocs:filename>gr1a.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>2003</xocs:filesize>
+               <xocs:pixel-height>164</xocs:pixel-height>
+               <xocs:pixel-width>115</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0016236112000853-gr7.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0016236112000853/gr7/THUMBNAIL/image/gif/8a0235dc55dbbee51ee468d662cd38bd/gr7.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0016236112000853/gr7/THUMBNAIL/image/gif/8a0235dc55dbbee51ee468d662cd38bd/gr7.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr7</xocs:file-basename>
+               <xocs:filename>gr7.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4578</xocs:filesize>
+               <xocs:pixel-height>125</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0016236112000853-gr6.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0016236112000853/gr6/THUMBNAIL/image/gif/9ba910e67ecc2930a893344e83564f8c/gr6.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0016236112000853/gr6/THUMBNAIL/image/gif/9ba910e67ecc2930a893344e83564f8c/gr6.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr6</xocs:file-basename>
+               <xocs:filename>gr6.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4621</xocs:filesize>
+               <xocs:pixel-height>131</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S0016236112000853-gr5.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0016236112000853/gr5/THUMBNAIL/image/gif/2787facbce44810e3739d31e565a50d9/gr5.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0016236112000853/gr5/THUMBNAIL/image/gif/2787facbce44810e3739d31e565a50d9/gr5.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr5</xocs:file-basename>
+               <xocs:filename>gr5.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>4748</xocs:filesize>
+               <xocs:pixel-height>127</xocs:pixel-height>
+               <xocs:pixel-width>219</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" docsubtype="fla" xml:lang="en" version="5.1">
+         <item-info>
+            <jid>JFUE</jid>
+            <aid>5868</aid>
+            <ce:pii>S0016-2361(12)00085-3</ce:pii>
+            <ce:doi>10.1016/j.fuel.2012.01.046</ce:doi>
+            <ce:copyright type="full-transfer" year="2012">Elsevier Ltd</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="f0040">
+               <ce:label>Fig. 1a</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp060" view="all">The schematic representation of experimental laboratory scale biogas plant showing (A) batch reactor; (B) effluent outlet; (C) feeding neck; (D) CO<ce:inf loc="post">2</ce:inf> scrubber (optional); (E) scaled wet gas meters; (F) gas sampling port; (G) displaced water.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1b"/>
+            </ce:figure>
+            <ce:figure id="f0045">
+               <ce:label>Fig. 1b</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp065" view="all">Pictorial view of experimental laboratory batch biogas plant.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1a"/>
+            </ce:figure>
+            <ce:figure id="f0050">
+               <ce:label>Fig. 2a</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp070" view="all">The schematic representation of experimental ASBR biogas pilot plant showing (A) feed inlet; (B) effluent outlet; (C) gas outlet; (D) floating drum; (E) cleaning eye.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2a"/>
+            </ce:figure>
+            <ce:figure id="f0055">
+               <ce:label>Fig. 2b</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp075" view="all">Pictorial view of experimental ASBR biogas pilot plant.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2b"/>
+            </ce:figure>
+            <ce:figure id="f0060">
+               <ce:label>Fig. 3</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp080" view="all">Effect of pH on cumulative biogas production for 48<ce:hsp sp="0.25"/>h HRT, COD 150,000<ce:hsp sp="0.25"/>±<ce:hsp sp="0.25"/>100<ce:hsp sp="0.25"/>mg<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup>, and 10% of inoculum concentration.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr3"/>
+            </ce:figure>
+            <ce:figure id="f0065">
+               <ce:label>Fig. 4</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp085" view="all">Effect of inoculum concentration on cumulative biogas production for 150,000<ce:hsp sp="0.25"/>±<ce:hsp sp="0.25"/>100<ce:hsp sp="0.25"/>mg<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup> COD at 7<ce:hsp sp="0.25"/>pH in 48<ce:hsp sp="0.25"/>h HRT.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr4"/>
+            </ce:figure>
+            <ce:figure id="f0070">
+               <ce:label>Fig. 5</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp090" view="all">Effect of COD loading on cumulative biogas production at 7<ce:hsp sp="0.25"/>pH in 10% inoculum concentration.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr5"/>
+            </ce:figure>
+            <ce:figure id="f0075">
+               <ce:label>Fig. 6</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp095" view="all">Variations of instantaneous reaction rates with different COD concentrations.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr6"/>
+            </ce:figure>
+            <ce:figure id="f0080">
+               <ce:label>Fig. 7</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp100" view="all">Variation of methane and carbon dioxide content in produced biogas from spoiled milk substrate at 7<ce:hsp sp="0.25"/>pH for 200,000<ce:hsp sp="0.25"/>±<ce:hsp sp="0.25"/>100<ce:hsp sp="0.25"/>mg<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup> COD.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr7"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" frame="topbot" id="t0005" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp050" view="all">Characteristics of spoiled milk.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="3">
+                  <colspec colname="col1" align="left"/>
+                  <colspec colname="col2" align="left"/>
+                  <colspec colname="col3" align="char" char="±"/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Parameter</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Unit</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Concentration</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">pH</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">–</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">6.6<hsp sp="0.25"/>±<hsp sp="0.25"/>0.5</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Total solids</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">mg<hsp sp="0.25"/>L<sup loc="post">−1</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">150,715<hsp sp="0.25"/>±<hsp sp="0.25"/>1705</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Total volatile solids</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">mg<hsp sp="0.25"/>L<sup loc="post">−1</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">101,960<hsp sp="0.25"/>±<hsp sp="0.25"/>1804</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Suspended solids</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">mg<hsp sp="0.25"/>L<sup loc="post">−1</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">1730<hsp sp="0.25"/>±<hsp sp="0.25"/>340</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Volatile suspended solids</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">mg<hsp sp="0.25"/>L<sup loc="post">−1</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">1830<hsp sp="0.25"/>±<hsp sp="0.25"/>255</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Total COD</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">mg<hsp sp="0.25"/>L<sup loc="post">−1</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">203,020<hsp sp="0.25"/>±<hsp sp="0.25"/>60,250</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">TKN</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">mg<hsp sp="0.25"/>L<sup loc="post">−1</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">12,072<hsp sp="0.25"/>±<hsp sp="0.25"/>1011</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Total phosphorus</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">mg<hsp sp="0.25"/>L<sup loc="post">−1</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">158<hsp sp="0.25"/>±<hsp sp="0.25"/>18</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Lipid</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">mg<hsp sp="0.25"/>L<sup loc="post">−1</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">30,662<hsp sp="0.25"/>±<hsp sp="0.25"/>415</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Chloride</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">mg<hsp sp="0.25"/>L<sup loc="post">−1</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">633<hsp sp="0.25"/>±<hsp sp="0.25"/>93</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Calcium</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">mg<hsp sp="0.25"/>L<sup loc="post">−1</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">1200<hsp sp="0.25"/>±<hsp sp="0.25"/>120</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Magnesium</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">mg<hsp sp="0.25"/>L<sup loc="post">−1</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">97<hsp sp="0.25"/>±<hsp sp="0.25"/>12</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Sodium</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">mg<hsp sp="0.25"/>L<sup loc="post">−1</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">1003<hsp sp="0.25"/>±<hsp sp="0.25"/>200</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Potassium</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">mg<hsp sp="0.25"/>L<sup loc="post">−1</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">1523<hsp sp="0.25"/>±<hsp sp="0.25"/>160</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Copper</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">mg<hsp sp="0.25"/>L<sup loc="post">−1</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">5<hsp sp="0.25"/>±<hsp sp="0.25"/>1</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Manganese</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">mg<hsp sp="0.25"/>L<sup loc="post">−1</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">7<hsp sp="0.25"/>±<hsp sp="0.25"/>2</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Nickel</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">mg<hsp sp="0.25"/>L<sup loc="post">−1</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">4<hsp sp="0.25"/>±<hsp sp="0.25"/>1</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Iron</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">mg<hsp sp="0.25"/>L<sup loc="post">−1</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">17<hsp sp="0.25"/>±<hsp sp="0.25"/>3</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Zinc</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">mg<hsp sp="0.25"/>L<sup loc="post">−1</sup>
+                        </entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">6<hsp sp="0.25"/>±<hsp sp="0.25"/>1</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" frame="topbot" id="t0010" rowsep="0" colsep="0">
+               <ce:label>Table 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para id="sp055" view="all">Volume of gas produced per gram of COD destruction at various initial COD concentration.</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="2">
+                  <colspec colname="col1" align="char" char="±"/>
+                  <colspec colname="col2" align="char" char="."/>
+                  <thead>
+                     <row rowsep="1" valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Initial COD concentration (mg<hsp sp="0.25"/>L<sup loc="post">−1</sup>)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd">Volume of gas produced per gram of COD destruction (L<hsp sp="0.25"/>g<sup loc="post">−1</sup>)</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">50,000<hsp sp="0.25"/>±<hsp sp="0.25"/>100</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.344</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">100,000<hsp sp="0.25"/>±<hsp sp="0.25"/>100</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.341</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">150,000<hsp sp="0.25"/>±<hsp sp="0.25"/>100</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.335</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">200,000<hsp sp="0.25"/>±<hsp sp="0.25"/>100</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.332</entry>
+                     </row>
+                     <row valign="top">
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char="±">250,000<hsp sp="0.25"/>±<hsp sp="0.25"/>100</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">0.315</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:title>Anaerobic treatment of spoiled milk from milk processing industry for energy recovery – A laboratory to pilot scale study</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Pandian</ce:given-name>
+                  <ce:surname>Sivakumar</ce:surname>
+                  <ce:cross-ref refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Margandan</ce:given-name>
+                  <ce:surname>Bhagiyalakshmi</ce:surname>
+                  <ce:cross-ref refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Kamalakannan</ce:given-name>
+                  <ce:surname>Anbarasu</ce:surname>
+                  <ce:cross-ref refid="aff3">
+                     <ce:sup loc="post">c</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="aff1">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Department of Chemical Engineering, Anna University, Chennai 600 025, Tamilnadu, India</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="aff2">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Department of Chemistry, University College of Engineering Arni, Anna University, Chennai 600 025, Tamilnadu, India</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="aff3">
+                  <ce:label>c</ce:label>
+                  <ce:textfn>Quality Control Department, Tamilnadu Co-operative Milk Producers Federation Limited, Aavin, Sholinganallur, Chennai 600 119, Tamilnadu, India</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author. Tel.: +91 9840574323.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="28" month="9" year="2011"/>
+            <ce:date-revised day="19" month="1" year="2012"/>
+            <ce:date-accepted day="20" month="1" year="2012"/>
+            <ce:abstract class="graphical" xml:lang="en">
+               <ce:abstract-sec>
+                  <ce:section-title>Highlights</ce:section-title>
+                  <ce:simple-para id="sp005" view="all">► Anaerobic digestion of spoiled milk. ► Lab scale to pilot scale studies. ► Treatment and disposal within a positive energy recovery.</ce:simple-para>
+               </ce:abstract-sec>
+            </ce:abstract>
+            <ce:abstract class="author" xml:lang="en"><ce:abstract-sec>
+                  <ce:simple-para id="sp010" view="all">An anaerobic process for the treatment of spoiled milk from the milk processing industry was investigated. It was carried out in a laboratory scale batch reactor and using the obtained data, it was scaled up to a pilot Anaerobic Sequential Batch Reactor (ASBR). The processes include acclimatization of seed consortia and start up of the reactor under room condition. The batch reactor was studied at different pH, inoculum dosage, and Chemical Oxygen Demand (COD) loading. The scaled up pilot plant is of 100<ce:hsp sp="0.25"/>L capacity and it was observed continuously for 30<ce:hsp sp="0.25"/>days. At steady state, the efficiency of the pilot plant in removing COD was found to be 92.80%, and it was able to produce biogas volume of 0.311<ce:hsp sp="0.25"/>m<ce:sup loc="post">3</ce:sup> for 1<ce:hsp sp="0.25"/>kg COD degradation. The results obtained showed that biogas contained a maximum of 69.18% of methane.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>Spoiled milk</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Biogas</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>COD</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Batch reactor</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Anaerobic sequential batch reactor</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section id="s0005" view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title>Introduction</ce:section-title>
+                  <ce:para id="p0005" view="all">Dairy industries release large quantities of wastewater, often in the order of thousands of cubic meters per day <ce:cross-ref refid="b0005">[1]</ce:cross-ref>. The dairy wastewater is similar to most other agro-industries wastewater characterized by higher biological oxygen demand and COD <ce:cross-ref refid="b0010">[2]</ce:cross-ref>. High concentrations of organic matter in dairy wastewater cause pollution problems to the surroundings <ce:cross-ref refid="b0015">[3]</ce:cross-ref>. Aerobic treatment (activated sludge process) is traditionally used for treatment of wastewater <ce:cross-ref refid="b0020">[4]</ce:cross-ref>. Aerobic methods for treatment and disposal of dairy wastewater <ce:cross-refs refid="b0025 b0030">[5,6]</ce:cross-refs> have been less efficient, mainly due to bulking and excessive growth of biomass <ce:cross-ref refid="b0035">[7]</ce:cross-ref>. Anaerobic methods for the treatment of dairy wastewater are attracting the attention of researchers because of the presence of high organic content in the waste, low energy requirement of the process, lesser sludge production, and generation of fuel in the form of methane <ce:cross-ref refid="b0040">[8]</ce:cross-ref>.</ce:para>
+                  <ce:para id="p0010" view="all">In India, milk is collected in villages through a first-tier collection system called society. From the society, milk is transferred to nearby chilling centers for the immediate chilling to prevent microbial activity. From the chilling centers this milk is transported to the processing dairies in metro cities through insulated road vehicles. In the processing dairies, this milk is subjected to pasteurization. In metro dairies, milk waste water is treated normally by the aerobic method, which is a cost-intensified process.</ce:para>
+                  <ce:para id="p0015" view="all">In developed countries, there has been an increased interest in the development of technologies for harnessing renewable energy sources such as biomass either directly or through conversion routes. The anaerobic digestion process has been applied for the treatment of wastes and bio solids for decades <ce:cross-ref refid="b0045">[9]</ce:cross-ref>. Recently, anaerobic digestion has received added attention since it produces biogas and releases nutrients that can be recycled to be used in agriculture as bio fertilizer <ce:cross-refs refid="b0050 b0055">[10,11]</ce:cross-refs>. The nutrients in the raw material remain in the mineralized digested sludge as accessible compounds. Various reactor configurations like anaerobic contact reactor <ce:cross-refs refid="b0060 b0065 b0070">[12–14]</ce:cross-refs>, upflow anaerobic sludge blanket reactor <ce:cross-refs refid="b0075 b0080 b0085 b0090 b0095">[15–19]</ce:cross-refs>, fluidized bed reactor, and anaerobic fixed film reactor <ce:cross-refs refid="b0100 b0105">[20,21]</ce:cross-refs> have been developed to treat wastewaters from different industries.</ce:para>
+                  <ce:para id="p0020" view="all">The main objectives of the study are to segregate spoiled milk at source and prevent them from mixing up with the effluent, generate energy, produce clean effluent for recycle and irrigation, reduce the odors associated with the waste products, concentrate the nutrients in a solid sludge as biofertilizer, and reduce pathogens associated with the waste. Keeping the above mentioned points, the treatment of spoiled milk using a lab scale batch reactor followed by a pilot plant ASBR were investigated. The results obtained are presented and discussed.</ce:para>
+               </ce:section>
+               <ce:section id="s0010" view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title>Materials and methods</ce:section-title>
+                  <ce:section id="s0015" view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title>Materials</ce:section-title>
+                     <ce:para id="p0025" view="all">The spoiled waste milk for the present investigation was collected from the milk processing industry near Chennai, India. All the chemicals used during the experiments were of analytical grade purchased from Merk (Mumbai, India). Double distilled water from an all-glass apparatus was used whenever necessary.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0020" view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title>Characteristics of the spoiled milk</ce:section-title>
+                     <ce:para id="p0030" view="all">The characteristics of the spoiled milk were determined as per APHA standard methods <ce:cross-ref refid="b0110">[22]</ce:cross-ref>. The inlet and outlet COD were determined by ISO 6060 method <ce:cross-ref refid="b0115">[23]</ce:cross-ref>. The biogas collected was measured volumetrically in a scaled wet gas meter and its composition was analyzed using a Varian Analytical Instruments CP-3800 series gas chromatograph. The types of detectors employed were the flame ionization detector and thermal conductivity detector. Calcium, magnesium, sodium, copper, manganese, nickel, and iron contents were analyzed by using inductively coupled plasma–optical emission spectroscopy (PerkinElmer Optima 7000 DV, USA).</ce:para>
+                  </ce:section>
+                  <ce:section id="s0025" view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title>Inoculum</ce:section-title>
+                     <ce:para id="p0035" view="all">The inoculum consists of an undefined mixed culture from an equivalent system that is actively digesting a similar feedstock <ce:cross-ref refid="b0120">[24]</ce:cross-ref>. Digested cow dung was used as an inoculum for seeding the reactor. The cow dung was diluted with water (1:10) and filtered through a 40 mesh screen to remove larger particles. The filtered sludge was used as a seed culture for preparing inoculum for the studies. The sludge was acclimatized with the spoiled milk for 3<ce:hsp sp="0.25"/>months under anaerobic condition to make sure that there is no undigested matter present in the digester. This acclimatized inoculum will help in the quick start up of the biogas digester.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0030" view="all">
+                     <ce:label>2.4</ce:label>
+                     <ce:section-title>Batch reactor</ce:section-title>
+                     <ce:para id="p0040" view="all">The anaerobic digestion of spoiled milk was performed in a laboratory scale batch (<ce:cross-refs refid="f0040 f0045">Figs. 1a and 1b</ce:cross-refs>
+                        <ce:float-anchor refid="f0040"/>
+                        <ce:float-anchor refid="f0045"/>). The total designed volume of the reactor was 1.75<ce:hsp sp="0.25"/>L with a working volume of 1.25<ce:hsp sp="0.25"/>L. The reactor was made of glass having a provision for inlet and outlet. The reactor was kept at room temperature at 32<ce:hsp sp="0.25"/>±<ce:hsp sp="0.25"/>3<ce:hsp sp="0.25"/>°C. The spoiled milk (if it is in curdling form) is completely homogenized using a blender before it is fed into the reactor so that there are no settleable solids during the feeding. The feed was introduced into the reactor via an inlet feeding port and the same quantity of outlet was collected from the bottom of the reactor by means of gravity. In order to resuspend the sediments and avoid scum layers, the reactor was shaken once a day. The biogas produced was collected in a scaled wet gas meter at room temperature. In addition, biogas production by the inoculum without the feed was also recorded as control. The pH was adjusted to the required level using 5% aqueous lactic acid and sodium bicarbonate solutions.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0035" view="all">
+                     <ce:label>2.5</ce:label>
+                     <ce:section-title>The pilot plant</ce:section-title>
+                     <ce:para id="p0045" view="all">The pilot plant facility (<ce:cross-refs refid="f0050 f0055">Figs. 2a and 2b</ce:cross-refs>
+                        <ce:float-anchor refid="f0050"/>
+                        <ce:float-anchor refid="f0055"/>) comprised of a floating drum ASBR having an operational volume equal to 100<ce:hsp sp="0.25"/>L. The material used for construction was fiber glass reinforced plastic. The influent with a required pH was introduced continuously into the reactor. The influent pH was regulated by aqueous solutions of sodium bicarbonate, which were dosed through a 5<ce:hsp sp="0.25"/>L conditioning tank. The study was conducted at room temperature at 32<ce:hsp sp="0.25"/>±<ce:hsp sp="0.25"/>3<ce:hsp sp="0.25"/>°C. The daily biogas production was measured. Excess effluent was removed regularly to maintain a constant reactor volume. The biogas was vented out after sampling and measuring the volume at room temperature whenever required.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0040" view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title>Results and discussion</ce:section-title>
+                  <ce:section id="s0045" view="all">
+                     <ce:label>3.1</ce:label>
+                     <ce:section-title>Characteristics of the spoiled milk</ce:section-title>
+                     <ce:para id="p0050" view="all">The physicochemical characteristics of the spoiled milk were given in <ce:cross-ref refid="t0005">Table 1</ce:cross-ref>
+                        <ce:float-anchor refid="t0005"/>. A random analysis of the sample was done for a period of 3<ce:hsp sp="0.25"/>months with a regular interval. The values were documented to evaluate standard deviation. It was observed that COD and the nutrient level of the spoiled milk were very high, indicating the complexity in treating the milk waste.</ce:para>
+                  </ce:section>
+                  <ce:section id="s0050" view="all">
+                     <ce:label>3.2</ce:label>
+                     <ce:section-title>Batch test</ce:section-title>
+                     <ce:section id="s0055" view="all">
+                        <ce:label>3.2.1</ce:label>
+                        <ce:section-title>Effect of pH on cumulative biogas production</ce:section-title>
+                        <ce:para id="p0055" view="all">The effect of pH was monitored to obtain maximum biogas production in a batch reactor. The initial COD loading was 150,000<ce:hsp sp="0.25"/>±<ce:hsp sp="0.25"/>100<ce:hsp sp="0.25"/>mg<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup> with 10% inoculums, and a Hydraulic Retention Time (HRT) of 48<ce:hsp sp="0.25"/>h was maintained for all pH studies. The pH was varied from 5 to 8. Lactic acid and sodium bicarbonate solutions were used to adjust the pH to a required level. As shown in <ce:cross-ref refid="f0060">Fig. 3</ce:cross-ref>
+                           <ce:float-anchor refid="f0060"/>, a lower volume of biogas production was observed at lower pH. It is expected that the drop in pH inhibits the growth of hydrogen-utilizing methanogenic bacteria, causing a rise in the hydrogen partial pressure, which causes further accumulation of volatile fatty acids. Therefore, methane generation is reduced considerably when pH drops <ce:cross-refs refid="b0125 b0130">[25,26]</ce:cross-refs>. Maximum bio gas production was recorded when the pH ranged between 6.5 and 7.5, with an optimum at 7<ce:hsp sp="0.25"/>pH. It was also observed that there was a decrease in biogas volume with increase in pH after 7.5<ce:hsp sp="0.25"/>pH. This can be attributed to the sensitivity of methanogens to high pH <ce:cross-ref refid="b0130">[26]</ce:cross-ref>.</ce:para>
+                     </ce:section>
+                     <ce:section id="s0060" view="all">
+                        <ce:label>3.2.2</ce:label>
+                        <ce:section-title>Effect of inoculum potential on cumulative biogas production</ce:section-title>
+                        <ce:para id="p0060" view="all">Instability during both the start up and operation of the anaerobic degradation process can be problematic due to the low specific growth rate of the methanogenic microorganism involved. <ce:cross-ref refid="b0135">[27]</ce:cross-ref>. Anaerobic microorganisms acclimatized to spoiled milk can be good inoculum for a fast start up of the operation of the reactor. The inoculum dosage was varied from 5% to 25% in volume, as shown in <ce:cross-ref refid="f0065">Fig. 4</ce:cross-ref>
+                           <ce:float-anchor refid="f0065"/>. A little difference in the optimum inoculum percentage was observed for cumulative biogas production. A 10% concentration of inoculum was relatively more efficient at a given concentration treatment, yielding a larger volume of biogas, than that of a 5% concentration. There was relatively no change in biogas volume noticed at other higher inoculum concentrations of 15% and 20%, but a higher rate of biogas production was observed. Therefore, 10% of inoculum concentration was taken as optimum value for corresponding experiments.</ce:para>
+                     </ce:section>
+                     <ce:section id="s0065" view="all">
+                        <ce:label>3.2.3</ce:label>
+                        <ce:section-title>Effect of COD loading on cumulative biogas production</ce:section-title>
+                        <ce:para id="p0065" view="all">The effects of initial COD concentration and digestion time on cumulative biogas production are shown in <ce:cross-ref refid="f0070">Fig. 5</ce:cross-ref>
+                           <ce:float-anchor refid="f0070"/>. It was observed that the volume of biogas produced was found to increase linearly in the beginning, then nonlinearly at a slower rate, and finally attained saturation, called complete digestion. The digestion time was influenced remarkably by the variation in the initial COD concentration. This is because of the food to microorganism ratio. The initial microorganism population can only consume a certain amount of food in the form of COD. Therefore, the more the COD, the longer it takes to enhance the food to microorganism ratio. It was observed that the biogas produced per gram of COD destruction varied with varying the COD concentration and it decreased with an increase in COD concentration mass. The amount of biogas produced decreases from 0.344 to 0.315<ce:hsp sp="0.25"/>L of biogas per gram of COD destruction for an increase in COD from 50,000 to 250,000<ce:hsp sp="0.25"/>mg<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup> as shown in <ce:cross-ref refid="t0010">Table 2</ce:cross-ref>
+                           <ce:float-anchor refid="t0010"/>. This instability is usually witnessed by feed overload <ce:cross-refs refid="b0140 b0145">[28,29]</ce:cross-refs>. Whereas the cumulative biogas volume increases from 17.2 to 78.75<ce:hsp sp="0.25"/>L with an increase in initial COD.</ce:para>
+                        <ce:para id="p0070" view="all">Biogas production rates are given in <ce:cross-ref refid="f0075">Fig. 6</ce:cross-ref>
+                           <ce:float-anchor refid="f0075"/>. The maximum rates occurred at different reaction times that ranged from 18 to 24<ce:hsp sp="0.25"/>h for 50,000–250,000<ce:hsp sp="0.25"/>±<ce:hsp sp="0.25"/>100<ce:hsp sp="0.25"/>mg<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup> COD, respectively. It was observed that lower COD concentrations exhibit maximum biogas production rates at less time than higher concentrations. But a higher COD concentration resulted in a higher peak rate.</ce:para>
+                     </ce:section>
+                  </ce:section>
+                  <ce:section id="s0070" view="all">
+                     <ce:label>3.3</ce:label>
+                     <ce:section-title>Pilot plant studies</ce:section-title>
+                     <ce:para id="p0075" view="all">In pilot scale, anaerobic digestion of spoiled milk substrate was carried out in an ASBR reactor. After determining the kinetic parameters, using experimental data at different optimized operational conditions in batch system (e.g., inoculum concentration, influent pH, HRT), the reactor was fed according to the optimum results. But a COD of 200,000<ce:hsp sp="0.25"/>±<ce:hsp sp="0.25"/>100<ce:hsp sp="0.25"/>mg<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup> was selected based on the real time average COD of spoiled milk. A constant volumetric loading of 5<ce:hsp sp="0.25"/>L<ce:hsp sp="0.25"/>day<ce:sup loc="post">−1</ce:sup> spoiled milk was maintained. The reactor was fed daily for 30<ce:hsp sp="0.25"/>days.</ce:para>
+                     <ce:para id="p0080" view="all">
+                        <ce:cross-ref refid="f0080">Fig. 7</ce:cross-ref>
+                        <ce:float-anchor refid="f0080"/> shows the relationship between the daily biogas production and the retention time, at a feeding rate of 1<ce:hsp sp="0.25"/>kg COD day<ce:sup loc="post">−1</ce:sup>. The average daily biogas production during 30<ce:hsp sp="0.25"/>days of retention time period was observed to be 0.3117<ce:hsp sp="0.25"/>m<ce:sup loc="post">3</ce:sup> of biogas per day. It was observed that biogas production rate became stable immediately after the second day of the digestion process. This period is very short because milk is easily biodegradable when compared to other substrates like municipal garbage <ce:cross-ref refid="b0150">[30]</ce:cross-ref>, oil seed cake <ce:cross-ref refid="b0155">[31]</ce:cross-ref>, poultry manure <ce:cross-ref refid="b0160">[32]</ce:cross-ref>, kitchen waste, and night soil <ce:cross-ref refid="b0165">[33]</ce:cross-ref>.</ce:para>
+                     <ce:para id="p0085" view="all">Anaerobic digestion is a complex process of degrading organic compounds through a variety of intermediates into methane and carbon dioxide by the action of a consortium of microorganisms <ce:cross-refs refid="b0170 b0175">[34,35]</ce:cross-refs>. The maximum and minimum values of methane and carbon dioxide were found to vary from 69.18% to 60.61% and 27.18% to 26.0%, respectively, starting from first day to 30th day of retention time. The average methane and carbon dioxide content over 30<ce:hsp sp="0.25"/>days were found as 64.88% and 26.01%, respectively.</ce:para>
+                     <ce:para id="p0090" view="all">Cumulative biogas, methane, and carbon dioxide production over a 30-day retention period were 9.664, 6.27, and 2.514<ce:hsp sp="0.25"/>m<ce:sup loc="post">3</ce:sup> respectively, from a total of 150<ce:hsp sp="0.25"/>L of spoiled milk, therefore 1<ce:hsp sp="0.25"/>L milk can produce an average of 64.42<ce:hsp sp="0.25"/>L biogas. The average outlet COD of the stabilized plant was found to be 14,390<ce:hsp sp="0.25"/>±<ce:hsp sp="0.25"/>60<ce:hsp sp="0.25"/>mg<ce:hsp sp="0.25"/>L<ce:sup loc="post">−1</ce:sup>. The COD removal efficiency of the pilot plant was 92.80%.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section id="s0075" view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title>Conclusion</ce:section-title>
+                  <ce:para id="p0095" view="all">Spoiled milk was treated under anaerobic condition. Accordingly, an investigation was made on a laboratory scale to assess the feasibility and was then scaled up to a pilot plant. The batch study suggested an optimum 7<ce:hsp sp="0.25"/>pH with low COD concentration and 10% inoculum. The rate of production of biogas was high during 18–24<ce:hsp sp="0.25"/>h. Results showed that spoiled milk was easily degradable in comparison to that of other agro-based raw materials. The scaled-up pilot plant shows an average COD removal efficiency of 92.8% with 0.3117<ce:hsp sp="0.25"/>m<ce:sup loc="post">3</ce:sup> of biogas per kg of COD destruction. It was found that treatment of spoiled milk by ASBR was a most cost-effective approach with profitable biogas recovery.</ce:para>
+               </ce:section>
+            </ce:sections>
+         </body>
+         <tail view="all">
+            <ce:bibliography id="bi0005" view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec id="bs0005">
+                  <ce:bib-reference id="b0005">
+                     <ce:label>[1]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>Wheatley AD, Johnson KA, Winstanley CI. The reliability of anaerobic digestion for the treatment of food processing effluent. In: Proceedings of 5th symposium on anaerobic digestion, Bolonga; 1991. p. 135-46.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0010">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Orhon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Gorgon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Grimly</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Rattan</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Biological treatability of dairy waste waters</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Res</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>27</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1993</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>625</sb:first-page>
+                              <sb:last-page>633</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0015">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Perle</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Kimchie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Shelef</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Some biochemical aspects of anaerobic degradation of dairy waste water</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Res</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>29</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1995</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1549</sb:first-page>
+                              <sb:last-page>1554</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0020">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.T.</ce:given-name>
+                                 <ce:surname>Kevin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.M.</ce:given-name>
+                                 <ce:surname>Jack</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Pharmaceutical waste water treatment comparisons of process scale-up from bench to full-scale a case study</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Environ Progress</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1992</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>104</sb:first-page>
+                              <sb:last-page>112</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0025">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Bull</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.M.</ce:given-name>
+                                 <ce:surname>Sterritt</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.N.</ce:given-name>
+                                 <ce:surname>Lester</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The influence of COD hydraulic, temperature, and pH shocks in stability of an unheated fluidized bed reactor</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Chem Technol Biotechnol</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>33</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>221</sb:first-page>
+                              <sb:last-page>230</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0030">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.R.</ce:given-name>
+                                 <ce:surname>Jones</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Pollution control in meat, poultry and sea food processing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>1974</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Noyes Data Corporation</sb:name>
+                                 <sb:location>New Jersey</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0035">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Timmerans</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Haute</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.L.</ce:given-name>
+                                 <ce:surname>Van</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Influence of the type of organism on the biomass hold up in the fluidized bed reactor</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl Microbiol Biotechnol</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>19</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1993</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>36</sb:first-page>
+                              <sb:last-page>43</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0040">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.E.</ce:given-name>
+                                 <ce:surname>Ghaly</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.B.</ce:given-name>
+                                 <ce:surname>Pyke</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Amelioration of methane yield in cheese whey fermentation by controlling pH of the methanogenic stage</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl Chem Biotechnol</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>27</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1991</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>217</sb:first-page>
+                              <sb:last-page>237</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0045">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Verstraete</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Beer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Pena</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Lettinga</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Lens</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Anaerobic bio processing of organic wastes</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>World J Microbiol Biotechnol</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1996</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>221</sb:first-page>
+                              <sb:last-page>238</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0050">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Odegaard</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Paulsrud</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Karlsson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Waste water sludge as a resource, sludge disposal strategies and corresponding treatment technologies aimed at sustainable handling of waste water sludge</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Sci Technol</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>46</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>295</sb:first-page>
+                              <sb:last-page>303</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0055">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.P.</ce:given-name>
+                                 <ce:surname>Francese</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Aboagye-Mathiesen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Olesen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.R.</ce:given-name>
+                                 <ce:surname>Cordoba</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Sineriz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Feeding approaches for bio gas production from animal wastes and industrial effluents</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>World J Biotechnol</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>16</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>147</sb:first-page>
+                              <sb:last-page>150</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0060">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.J.</ce:given-name>
+                                 <ce:surname>Silva</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.B.</ce:given-name>
+                                 <ce:surname>Varesche</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Foresti</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Zaiat</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Sulphate removed from industrial waste water using a packed bed anaerobic reactor</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Process Biochem</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>927</sb:first-page>
+                              <sb:last-page>935</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0065">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Venkata Mohan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.N.</ce:given-name>
+                                 <ce:surname>Sarma</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Pharmaceutical waste water and treatment technologies</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Pharma Bioworld</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>93</sb:first-page>
+                              <sb:last-page>100</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0070">
+                     <ce:label>14</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.T.</ce:given-name>
+                                 <ce:surname>Pfeffer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Anaerobic digestion processes</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:surname>Stafford</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:surname>Wheatley</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:surname>Huges</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>Anaerobic digestion</sb:maintitle>
+                              </sb:title>
+                              <sb:date>1979</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Applied Science Publishers</sb:name>
+                                 <sb:location>London</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0075">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Rebac</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.B.</ce:given-name>
+                                 <ce:surname>Lier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.G.T.</ce:given-name>
+                                 <ce:surname>Janssen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Dekker</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.M.</ce:given-name>
+                                 <ce:surname>Swinkers</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Lettinga</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>High-rate anaerobic treatment of malting wastewater in a plant scale EGSB system under Psychorophilic conditions</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Chem Tech Biotechnol</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>68</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>135</sb:first-page>
+                              <sb:last-page>146</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0080">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Yu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Gu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Biomethanation from brewery waste water using an anaerobic upflow blanket filter</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Cleaner Prod</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1996</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>219</sb:first-page>
+                              <sb:last-page>224</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0085">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Mukti Deb</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Nandy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.N.</ce:given-name>
+                                 <ce:surname>Kaul</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Anaerobic upflow bioreactor for pharmaceutical waste treatment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Indian J Environ Prot</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>13</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1993</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>41</sb:first-page>
+                              <sb:last-page>46</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0090">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Berrueta</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Lastrillon</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Anaerobic treatment of leachates in UASB reactors</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J Chem Tech Biotechnol</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>54</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1992</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>33</sb:first-page>
+                              <sb:last-page>37</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0095">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Lettinga</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.C.</ce:given-name>
+                                 <ce:surname>Grin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.E.</ce:given-name>
+                                 <ce:surname>Roersma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.W.</ce:given-name>
+                                 <ce:surname>Hobma</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>High rate anaerobic waste water treatment using the UASB reactor under a wide range of temperature conditions</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biotechnol Genetic Eng Rev</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>253</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0100">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.M.</ce:given-name>
+                                 <ce:surname>Mark</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Vanioosdrecht Sef</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Biofilm bioreactor for waste water treatment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Trends Biotechnol</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>1993</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>117</sb:first-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0105">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Henze</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Herremoes</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Anaerobic treatment of waste water in fixed film reactors- a literature review</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Sci Technol</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>15</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>101</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0110">
+                     <ce:label>[22]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>APHA. Standard methods for examination of water and wastewater. 19th ed. Washington (DC, USA): American Public Health Association Inc.; 1995.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0115">
+                     <ce:label>[23]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>ISO 6060:1989 method, water quality – determination of the chemical oxygen demand.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0120">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.E.</ce:given-name>
+                                 <ce:surname>Griffin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.D.</ce:given-name>
+                                 <ce:surname>McMahon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.I.</ce:given-name>
+                                 <ce:surname>Mackie</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>Raskin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Methanogenic population dynamics during start-up of anaerobic digesters treating municipal solid waste and biosolids</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biotechnol Bioeng</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>57</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>342</sb:first-page>
+                              <sb:last-page>355</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0125">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Bjornsson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Murto</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.C.</ce:given-name>
+                                 <ce:surname>Jantsch</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Mattiasson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Evaluation of new methods for the monitoring of alkalinity, dissolved hydrogen and the microbial community in anaerobic digestion</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Res</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2833</sb:first-page>
+                              <sb:last-page>2840</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0130">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.R.</ce:given-name>
+                                 <ce:surname>Jenkins</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.M.</ce:given-name>
+                                 <ce:surname>Morgan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Measuring the usable carbonate alkalinity of operating anaerobic digesters</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Res J Water Pollut Control Fed</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>63</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1991</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>28</sb:first-page>
+                              <sb:last-page>34</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0135">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Bjornsson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Mattiasson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Henrysson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effects of support material on the pattern of volatile fatty acid accumulation at overload in anaerobic digestion of semi-solid water</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl Microbiol Biotechnol</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>47</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>640</sb:first-page>
+                              <sb:last-page>644</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0140">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Lyberatos</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.V.</ce:given-name>
+                                 <ce:surname>Skiadas</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Modeling of anaerobic digestion – a review</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Global Nest Int J</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>63</sb:first-page>
+                              <sb:last-page>76</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0145">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.E.</ce:given-name>
+                                 <ce:surname>Powell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.B.</ce:given-name>
+                                 <ce:surname>Archer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>On line titration method for monitoring buffer capacity and total volatile fatty acid levels in anaerobic digesters</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biotechnol Bio Eng</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>33</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1989</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>570</sb:first-page>
+                              <sb:last-page>577</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0150">
+                     <ce:label>[30]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.S.</ce:given-name>
+                                 <ce:surname>Rao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.P.</ce:given-name>
+                                 <ce:surname>Singh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.K.</ce:given-name>
+                                 <ce:surname>Singh</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.S.</ce:given-name>
+                                 <ce:surname>Sodha</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Bioenergy conversion studies of the organic fraction of MSW: assessment of ultimate bioenergy production potential of municipal garbage</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>66</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>75</sb:first-page>
+                              <sb:last-page>87</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0155">
+                     <ce:label>[31]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>Chandra R, Vijay VK, Subbarao PMV, Khura TK. Production of methane from anaerobic digestion of jatropha and pongamia oil cakes; 2011. <ce:underline>doi:10.1016/j.apenergy.2010.10.049</ce:underline>.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0160">
+                     <ce:label>[32]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Gelegenis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Georgakakis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Angelidaki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Christopoulou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Goumenaki</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Optimization of biogas production from olive-oil mill wastewater by codigesting with diluted poultry-manure</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>84</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>646</sb:first-page>
+                              <sb:last-page>663</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0165">
+                     <ce:label>[33]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Fuchigami</ce:given-name>
+                                 <ce:surname>Koji</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Mizuno</ce:given-name>
+                                 <ce:surname>Ken-ichiro</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Minegishi</ce:given-name>
+                                 <ce:surname>Torataro</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Atsuura</ce:given-name>
+                                 <ce:surname>Hiroshi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Ishimoto</ce:given-name>
+                                 <ce:surname>Satoru</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Methane fermentation of night soil sludge and kitchen waste mixture NKK tech rev</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>85</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>44</sb:first-page>
+                              <sb:last-page>50</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0170">
+                     <ce:label>[34]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Noykova</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.G.</ce:given-name>
+                                 <ce:surname>Muller</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Gyllenberg</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Timmer</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Quantitative analysis of anaerobic waste water treatment process, identifiability and parameter estimation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biotechnol Bio Eng</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>78</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>89</sb:first-page>
+                              <sb:last-page>103</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="b0175">
+                     <ce:label>[35]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Gujer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.J.B.</ce:given-name>
+                                 <ce:surname>Zehnder</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Conversion processes in anaerobic digestion</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Sci Technol</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>15</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>127</sb:first-page>
+                              <sb:last-page>167</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

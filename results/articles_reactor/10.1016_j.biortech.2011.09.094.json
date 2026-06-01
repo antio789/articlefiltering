@@ -1,0 +1,45 @@
+{
+  "manual_review": [
+    [
+      "10.1016_j.biortech.2011.09.094",
+      "two stage"
+    ]
+  ],
+  "llm_review": [
+    [
+      "10.1016_j.biortech.2011.09.094",
+      "uasb derivative"
+    ],
+    [
+      "10.1016_j.biortech.2011.09.094",
+      "fixed bed"
+    ],
+    [
+      "10.1016_j.biortech.2011.09.094",
+      "two stage"
+    ]
+  ],
+  "correct_predictions": 1,
+  "false_predictions": 2,
+  "missed_predictions": 0,
+  "precision": 0.3333,
+  "recall": 1.0,
+  "f1_score": 0.5,
+  "correct_items": [
+    [
+      "10.1016_j.biortech.2011.09.094",
+      "two stage"
+    ]
+  ],
+  "false_items": [
+    [
+      "10.1016_j.biortech.2011.09.094",
+      "uasb derivative"
+    ],
+    [
+      "10.1016_j.biortech.2011.09.094",
+      "fixed bed"
+    ]
+  ],
+  "missed_items": []
+}

@@ -1,0 +1,1263 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0043135497001334</prism:url><dc:identifier>doi:10.1016/S0043-1354(97)00133-4</dc:identifier><eid>1-s2.0-S0043135497001334</eid><prism:doi>10.1016/S0043-1354(97)00133-4</prism:doi><pii>S0043-1354(97)00133-4</pii><dc:title>The effect of shock loads on the performance of an anaerobic baffled reactor (ABR). 1. Step changes in feed concentration at constant retention time </dc:title><prism:publicationName>Water Research</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>00431354</prism:issn><prism:volume>31</prism:volume><prism:issueIdentifier>11</prism:issueIdentifier><prism:startingPage>2737</prism:startingPage><prism:endingPage>2746</prism:endingPage><prism:pageRange>2737-2746</prism:pageRange><prism:number>11</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1997-11-30</prism:coverDate><prism:coverDisplayDate>November 1997</prism:coverDisplayDate><prism:copyright>Copyright © 1997 Published by Elsevier Ltd.</prism:copyright><prism:publisher>Published by Elsevier Ltd.</prism:publisher><dc:creator>Nachaiyasit, Suyanee</dc:creator><dc:creator>Stuckey, David C.</dc:creator><dc:description>
+                  A 10-litre anaerobic baffled reactor (ABR), with eight compartments, was used to examine the effect of organic shock loads, in the form of a step change in the feed chemical oxygen demand (COD) at constant hydraulic retention time (HRT), on reactor performance in terms of COD removal, and to obtain a greater insight into microbial responses and interactions during these shocks. In order to minimise feed variations, and have a totally biodegradable substrate, a synthetic carbohydrate (sucrose)-protein (meat extract) substrate was used. The reactor was operated at 20-h HRT, 4 g/litre COD (4.8 kg-COD/m3 d), and 35°C for 1 month as a base-line condition, and this resulted in 98% COD removal. It was found that a step change in the feed to 8 g/litre COD (9.6 kg-COD/m3 d) at 20-h HRT for 20 days did not affect the substrate removal efficiency at all; however, when the concentration was increased to 15 g/litre COD (18 kg-COD/m3 d) from 4 g/litre for 20 days, the removal efficiency decreased to 90%. It was found that the compartmentalised ABR consisted of three general zones (acidification, methanation, and a buffer zone where little acidification and methanogenesis occurs), and the function of high solids concentrations in the reactor was to enhance stability rather than improve COD removal. Hence, the structure of the ABR prevents most of the biomass being exposed to low pHs during shock loads, and enhances reactor stability. In addition, due to low pHs and high substrate concentrations in the first compartment, a microbial population seems to be selected which produces primarily acetate and butyrate rather than formate and propionate, and this also enhances the stability of the reactor during shock loads. In contrast to past results, formate did not seem to be an important interspecies electron carrier except under high mixing conditions and shock loads, and this was postulated to be due to differences in the structure of the microbial flocs. Based on these observations, the ABR holds some promise as a reactor design for anaerobic industrial wastewater treatment.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>anaerobic baffled reactor</dcterms:subject><dcterms:subject>anaerobic digestion</dcterms:subject><dcterms:subject>organic shock loads</dcterms:subject><dcterms:subject>interspecies electron transfer</dcterms:subject><dcterms:subject>volatile acids ratio</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0043135497001334" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0043135497001334" rel="scidir"/></coredata><scopus-id>0031281468</scopus-id><scopus-eid>2-s2.0-0031281468</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0031281468" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271768</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291798</xocs:ssid>
+         <xocs:ssid type="subj">291830</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Water Research</xocs:srctitle>
+      <xocs:normalized-srctitle>WATERRESEARCH</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="19980608">1998-06-08</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="19980615">1998-06-15</xocs:available-online-date>
+      <xocs:ew-transaction-id>2010-11-13T02:39:40</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0043135497001334</xocs:eid>
+      <xocs:pii-formatted>S0043-1354(97)00133-4</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0043135497001334</xocs:pii-unformatted>
+      <xocs:doi>10.1016/S0043-1354(97)00133-4</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.1</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0043135400X00322</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150514">2015-05-14T03:01:08.841216-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19971101</xocs:date-search-begin>
+      <xocs:date-search-end>19971130</xocs:date-search-end>
+      <xocs:year-nav>1997</xocs:year-nav>
+      <xocs:indexeddate epoch="897264000">1998-06-08T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype volfirst volissue webpdf webpdfpagecount affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0043-1354</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00431354</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:vol-first>31</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>31</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>11</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>11</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 31, Issue 11</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>9</xocs:sort-order>
+      <xocs:first-fp>2737</xocs:first-fp>
+      <xocs:last-lp>2746</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>2737</xocs:first-page>
+         <xocs:last-page>2746</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>199711</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>November 1997</xocs:cover-date-text>
+      <xocs:cover-date-start>1997-11-01</xocs:cover-date-start>
+      <xocs:cover-date-end>1997-11-30</xocs:cover-date-end>
+      <xocs:cover-date-year>1997</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1997 Published by Elsevier Ltd.</xocs:copyright-line>
+      <xocs:normalized-article-title>EFFECTSHOCKLOADSPERFORMANCEANAEROBICBAFFLEDREACTORABR1STEPCHANGESINFEEDCONCENTRATIONCONSTANTRETENTIONTIME</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>NACHAIYASIT</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>S</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>ALPHENAAR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1993</xocs:ref-pub-year>
+            <xocs:ref-first-fp>276</xocs:ref-first-fp>
+            <xocs:ref-last-lp>280</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>APHA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>STANDARDMETHODSFOREXAMINATIONWATERWASTEWATER</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>ARCAND</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1994</xocs:ref-pub-year>
+            <xocs:ref-first-fp>B23</xocs:ref-first-fp>
+            <xocs:ref-last-lp>B35</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>BACHMANN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>99</xocs:ref-first-fp>
+            <xocs:ref-last-lp>106</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>BARNES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>715</xocs:ref-first-fp>
+            <xocs:ref-last-lp>723</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>38THPURDUEINDUSTRIALWASTECONFERENCEPROCEEDINGS</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>INFLUENCEORGANICSHOCKLOADSPERFORMANCEANAEROBICFLUIDIZEDBEDSYSTEM</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>BLEICHER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1994</xocs:ref-pub-year>
+            <xocs:ref-first-fp>910</xocs:ref-first-fp>
+            <xocs:ref-last-lp>915</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>BOONE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2546</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2551</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>BORJA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1994</xocs:ref-pub-year>
+            <xocs:ref-first-fp>371</xocs:ref-first-fp>
+            <xocs:ref-last-lp>383</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>CARR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>727</xocs:ref-first-fp>
+            <xocs:ref-last-lp>738</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>DOLFING</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1992</xocs:ref-pub-year>
+            <xocs:ref-first-fp>183</xocs:ref-first-fp>
+            <xocs:ref-last-lp>187</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>DORNSEIFFER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>219</xocs:ref-first-fp>
+            <xocs:ref-last-lp>228</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>FLORA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>43</xocs:ref-first-fp>
+            <xocs:ref-last-lp>53</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>GROBICKI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1991</xocs:ref-pub-year>
+            <xocs:ref-first-fp>344</xocs:ref-first-fp>
+            <xocs:ref-last-lp>355</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>GROTENHUIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1991</xocs:ref-pub-year>
+            <xocs:ref-first-fp>21</xocs:ref-first-fp>
+            <xocs:ref-last-lp>27</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB15">
+            <xocs:ref-normalized-surname>GUIOT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>173</xocs:ref-first-fp>
+            <xocs:ref-last-lp>183</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>MICROBIOLOGYBIOCHEMISTRYSTRICTANAEROBESINVOLVEDININTERSPECIESHYDROGENTRANSFER</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>THERMODYNAMICALMICROBIOLOGICALEVIDENCETROPHICMICRONICHESFORPROPIONATEDEGRADATIONINAMETHANOGENICSLUDGEBEDREACTOR</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB16">
+            <xocs:ref-normalized-surname>HOUWEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>281</xocs:ref-first-fp>
+            <xocs:ref-last-lp>289</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>MICROBIOLOGYBIOCHEMISTRYSTRICTANAEROBESINVOLVEDININTERSPECIESHYDROGENTRANSFER</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>SYNTROPHICPROPIONATEOXIDATION</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB17">
+            <xocs:ref-normalized-surname>MATHIOT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1992</xocs:ref-pub-year>
+            <xocs:ref-first-fp>93</xocs:ref-first-fp>
+            <xocs:ref-last-lp>101</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB18">
+            <xocs:ref-normalized-surname>MCCARTY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1991</xocs:ref-pub-year>
+            <xocs:ref-first-fp>17</xocs:ref-first-fp>
+            <xocs:ref-last-lp>33</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB19">
+            <xocs:ref-normalized-surname>NACHAIYASIT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PHDTHESIS</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>EFFECTPROCESSPARAMETERSREACTORPERFORMANCEINANAEROBICBAFFLEDREACTOR</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB20">
+            <xocs:ref-normalized-surname>NACHAIYASIT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>111</xocs:ref-first-fp>
+            <xocs:ref-last-lp>123</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB21">
+            <xocs:ref-normalized-surname>NOGUERA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1994</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1040</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1047</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB22">
+            <xocs:ref-normalized-surname>STAMS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1994</xocs:ref-pub-year>
+            <xocs:ref-first-fp>271</xocs:ref-first-fp>
+            <xocs:ref-last-lp>294</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB23">
+            <xocs:ref-normalized-surname>THIELE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>10</xocs:ref-first-fp>
+            <xocs:ref-last-lp>19</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>NACHAIYASITX1997X2737</xocs:refkey3>
+         <xocs:refkey4lp>NACHAIYASITX1997X2737X2746</xocs:refkey4lp>
+         <xocs:refkey4ai>NACHAIYASITX1997X2737XS</xocs:refkey4ai>
+         <xocs:refkey5>NACHAIYASITX1997X2737X2746XS</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0043-1354(97)00133-4</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0043135497001334</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0043135497001334</xocs:eid>
+         <xocs:doi>10.1016/S0043-1354(97)00133-4</xocs:doi>
+         <xocs:cid>271768</xocs:cid>
+         <xocs:timestamp>2010-12-04T16:31:18.253673-05:00</xocs:timestamp>
+         <xocs:cover-date-start>1997-11-01</xocs:cover-date-start>
+         <xocs:cover-date-end>1997-11-30</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0043135497001334-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043135497001334/MAIN/application/pdf/d8d6ba8313e039b093e77245ed05fd7f/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043135497001334/MAIN/application/pdf/d8d6ba8313e039b093e77245ed05fd7f/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>909145</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>10</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0043135497001334-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0043135497001334/PREVIEW/image/png/b6c8cb425b7d1074518f64b43b9a8791/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0043135497001334/PREVIEW/image/png/b6c8cb425b7d1074518f64b43b9a8791/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>78166</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:rawtext xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">~ Pergamon    PII: S0043-1354(97)00133-4    War. Res. Vol. 31, No. 11, pp. 2737-2746, 1997  1997 Elsevier Science Ltd. All rights reserved  Printed in Great Britain  0043-1354/97 $17.00 + 0.00    THE EFFECT OF SHOCK LOADS ON THE PERFORMANCE  OF AN ANAEROBIC BAFFLED  REACTOR (ABR).  1.  STEP  CHANGES IN FEED CONCENTRATION AT CONSTANT  RETENTION TIME    SUYANEE NACHAIYASIT and DAVID C. STUCKEY@*  Department of Chemical Engineering and Chemical Technology, Imperial College of Science, Technology  and Medicine, Prince Consort Road, London, SW7 2BY, U.K.    (Received June 1996, accepted in revised form April 1997)    Abstract--A 10-1itre anaerobic baffled reactor (ABR), with eight compartments, was used to examine the  effect of organic shock loads, in the form of a step change in the feed chemical oxygen demand (COD)  at constant hydraulic retention time (HRT), on reactor performance in terms of COD removal, and to  obtain a greater insight into microbial responses and interactions during these shocks. In order to minimise  feed variations, and have a totally biodegradable substrate, a synthetic carbohydrate (sucrose)-protein  (meat extract) substrate was used. The reactor was operated at 20-h HRT, 4g/litre COD  (4.8 kg-COD/m3 d), and 35 for 1 month as a base-line condition, and this resulted in 98% COD  removal. It was found that a step change in the feed to 8 g/litre COD (9.6 kg-COD/m3 d) at 20-h HRT  for 20 days did not affect the substrate removal efficiency at all; however, when the concentration was  increased to 15 g/litre COD (18 kg-COD/m3 d) from 4 g/litre for 20 days, the removal efficiency decreased  to 90%. It was found that the compartmentalised ABR consisted of three general zones (acidification,  methanation, and a buffer zone where little acidification and methanogenesis occurs), and the function  of high solids concentrations in the reactor was to enhance stability rather than improve COD removal.  Hence, the structure of the ABR prevents most of the biomass being exposed to low pHs during shock  loads, and enhances reactor stability. In addition, due to low pHs and high substrate concentrations in  the first compartment, a microbial population seems to be selected which produces primarily acetate and  butyrate rather than formate and propionate, and this also enhances the stability of the reactor during  shock loads. In contrast to past results, formate did not seem to be an important interspecies electron  carrier except under high mixing conditions and shock loads, and this was postulated to be due to  differences in the structure of the microbial flocs. Based on these observations, the ABR holds some  promise as a reactor design for anaerobic industrial wastewater treatment. 1997 Elsevier Science Ltd    Key words--anaerobic baffled reactor, anaerobic digestion, organic shock loads, interspecies electron  transfer, volatile acids ratio    INTRODUCTION    The anaerobic baffled reactor (ABR) has been  described as a series of UASBs which does not  require granulation for its operation (Bachmann  et al., 1985). This design consists of a series of vertical  baffles which force the wastewater to flow under and  over them as it passes from the inlet to the outlet  (Fig. 1). The bacteria tend to rise and settle with gas  production in each compartment, but they move  horizontally down the reactor at a relatively slow rate  giving rise to cell retention times (CRT) of 100 days  at 20-h hydraulic retention time (HRT) (Grobicki  and Stuckey, 1991). The wastewater can, therefore,  come into intimate contact with a large amount of    *Author to whom all correspondence should be addressed  [Tel: +0171-594 5591, Fax: +0171-594 5604, E-mail:  d.stuckey@ic.ac.uk].    active biomass as it passes through the ABR with  short HRTs (6-20h), while the effluent remains  relatively free of biological solids. This configuration  has been shown to result in a high degree of chemical  oxygen demand (COD) removal (Grobicki and  Stuckey, 1991).  Because of the variable nature of industrial wastes,  reactor stability to organic shock loads is one of the  most important aspects of reactor design. These  shock loads can manifest themselves in two ways:  either as a short-term transient which only lasts a few  hours, or as a longer-term step change of days to  weeks before reversion back to the original operating  conditions. In the first few hours to days, the  microbial response to both these shock loads are  identical; however, the longer-term shock leads to a  new "steady state" which may or may not be identical  to the original operating conditions in terms of COD  removal and other parameters. In high CRT reactors  such as the ABR, in contrast to completely stirred    2737    2738                                   S. Nachaiyasit and D. C. Stuckey    tank reactors (CSTRs), the time required to establish  a new steady state after a step change is considerably  longer than the accepted norm of three HRTs, and  little is known about the dynamic changes the  microbial populations undergo in the transition from  one steady state to another.  Over the years a number of workers have looked  at the effect of organic shock loads on anaerobic  reactors; some of these have been brief transients,  while others were longer term shocks. Barnes et al.  (1983) examined the response of an anaerobic  fluidised bed to shock loads of a high biological  oxygen demand (BOD) synthetic feed (keeping HRT  constant) imposed over a period of 1 hour. Borja  et al. (1994) subjected an anaerobic downflow filter  at 35 treating slaughterhouse wastewater with a  feed concentration of 5050 mg-COD/litre to a 100  and 150% increase in influent COD for 5-h and 10-h  periods by adding a blood solution. A feed containing  acetic acid plus nutrients at 35 was used to study  the response of a reactor to continuous operation  with step changes in feed concentration which varied  from 50 to 200% of the steady-state feed level of  12,000 mg/litre (Carr and O'Donnell, 1977). Arcand  et al. (1994) found that increasing specific loading  rates from low to high significantly increased the  proportion of postacidogenic bacteria (a generic  term to denote all bacteria involved in butyrate,  propionate, acetate, and hydrogen catabolism, i.e.  non-acidogenic bacteria) at the expense of acidogens  in an upflow anaerobic sludge bed and filter system  reactor treating a synthetic sugar wastewater at  35.  In summary, the general response of anaerobic  processes to an organic shock can be characterised by  the following: an increase in volatile fatty acids  (VFAs); a decrease in removal efficiency; a decrease  in methane content, but an increase in methane  production; higher effluent suspended solids (SS); an  increase in the sludge volume index; an increase in  the proportion of postacidogenic bacteria; and an    increased or decreased pH depending on the buffer  capacity of the influent and the system (Mathiot  et al., 1992; Borja et al., 1994). Consequently, the  highest concentration shock load causes the lengthi-  est deterioration of effluent quality in terms of  peak soluble COD (BOD) and VFA concentrations  (Barnes et al., 1983). This increase in soluble COD  in the effluent will consist of both unmetabolised  VFAs  and  soluble  microbial products  (SMPs)  (Noguera et al., 1994). The degree of deterioration in  performance depends on the duration and magnitude  of the shock and the rate of adaptability of the  microbes; hence, the function of higher biomass  concentrations in anaerobic reactors is usually to  enhance their stability rather than improve COD  removal.  In terms of understanding the effect of shock loads  on key intermediates in the ABR, the concept of  interspecies electron transport, with the concomitant  close physical association of electron producing  and electron consuming bacteria (Guiot et al., 1990),  is  important.  The  discovery  that  syntrophic  methanogenic  reactions  were  compartmentalised  within the flocs by species juxtapositioning was a key  finding and has been noted in the ABR (Grobicki  and Stuckey, 1991), and demonstrated by electron  microscope analysis of various granules (Alphenaar  et al., 1993). However, in some cases, mass transfer  may become a problem due to the small concen-  tration gradients. Dolfing (1992) estimated that a  20% decrease in the hydrogen concentration in the  range of 10-100nM would result in a 25-31%  decrease in the energy flux through methanogens in  the typical conditions encountered in methanogenic  aggregates.  One mechanism of interspecies electron transfer  which may overcome these mass-transfer problems is  via formate, although this subject is still controversial  (Thiele et al., 1988). Boone et al. (1989) calculated the  potential moles of hydrogen and formate diffusing in  a dispersed cell butyrate-degrading co-culture and    Biogas    Influent    Liquid  supernat~  Sludge bed    flluent    50   Fig. 1. Schematic of an anaerobic baffled reactor.    ABR shock loads: organic    2739    found that hydrogen could not diffuse rapidly enough  to account for the rate of methane synthesis, but that  formate could. Thus, interspecies formate transfer  was considered to be the predominant mechanism in  the syntrophic association. However, Bieicher and  Winter (1994) urged that the concept of interspecies  formate transfer be reconsidered, since, in pure  cultures of methanogens or complex ecosystems with  excess hydrogen, formate formation seemed to serve  more as a means of disposal of surplus reducing  power. Nevertheless, an early study on the ABR  (Grobicki and Stuckey, 1991) found that, in reactors  containing 6-11 g-VSS/litre of biomass present in the  form of granules, even at steady state with a 4 g/litre  feed and an HRT of 20 h, formate levels as high as  4200mg/litre were measured in compartment 1.  However, this reduced to 800 mg/litre in compart-  ment 2, and, as the HRT decreased to 5 h, the  concentration in compartment 1 decreased substan-  tially.  In contrast, others have suggested that formate  transfer is not necessary in anaerobic digestion  (Dornseiffer et al.,  1995).  Despite the above  contradictions, a comment on the relative importance  of hydrogen and formate by Stams (1994) may  summarise the current situation best: "In syntrophic  cultures both the hydrogen and formate concen-  trations are extremely low, and it is difficult to deduce  which of the two is most important. However, in  methanogenic granular sludge, interspecies hydrogen  transfer might be most important  ....  while there is  evidence to support the fact that formate might be  more important than hydrogen transfer in suspended  culture".  Due to the partial separation of trophic groups in  the ABR, shock loads may also provide insights into  microbial responses and interactions under a variety  of environmental conditions. McCarty and Mosey  (1991) suggested that the relative ratios of reduced  end-products produced by the catabolism of carbo-  hydrates  were controlled  more  by  population  dynamics as a result of competition between bacteria  producing propionic and butyric acid under varying  substrate concentrations and pH, rather than through  the concentration  of hydrogen in the system  controlling the kinetics and thermodynamics of  catabolism. This hypothesis is extremely relevant to  the ABR, since the ratio of VFAs produced in the  first compartment is controlled by feed COD and  HRT (via pH and substrate concentration), and  hence this compartment determines the feed compo-  sition to the rest of the reactor, and possibly its  response to shock loads. Hence, the objective of this  work was to investigate the stability of the ABR to  step changes in organic feed concentrations (COD) at  constant HRT over a period of time until the reactor  had reached steady state, and to monitor key  intermediates in order to obtain a greater insight into  microbial responses and interactions during these  shocks.    MATERIALS AND METHODS    Two reactors were set up, each with a working volume of  l0 litres and consisting of eight separate compartments of  equal volume; details of the reactors can be found in  Grobicki and Stuckey (199 l). The reactors were maintained  at a constant temperature of 35 +_ 0.5 in a water-bath.  The effluent line contained a glass U-tube for level control  and to trap biomass before running to an effluent reservoir.  There was one feed stream to each reactor, pumped by a  variable-speed peristaltic pump. In order to avoid problems  with varying composition and degradability of the feed, a  buffered synthetic carbohydrate-protein substrate was used  supplemented with nutrients and trace metals (Nachaiyasit  and Stuckey, 1995).  CH4 and CO_, were monitored by GC-TCD (coefficient of  variation, CV = %), while H2 concentrations were  measured by a GMI meter (CV = + 1%). The total gas  production was monitored using gas-water displacement  over an acidified salt solution to prevent CO_, absorption.  The concentration of volatile acids (formate, acetate,  propionate and butyrate) and glucose in each compartment  was quantified by HPLC (CV--1%), and separation  was achieved after centrifugation for 15 min at 9000 rpm,  with an ion-exchange resin column (ION-300 series,  300 x 7.8 mm, Alltech) using l0 mM H2SO4 at 0.5 ml/min,  and the concentrations were measured at 215 nm. Glucose  concentrations were monitored with an RI detector, and  since the feed sucrose was hydrolysed to equimolar amounts  of both glucose and fructose which were eluted at similar  times, and degraded at similar rates, only glucose was  reported in the data presented. Conventional parameters  such as pH, COD, alkalinity and solids concentrations (total  and volatile) were monitored as required by standard  methods (APHA, 1989).  The reactors were initially started with an inoculum of 10  litres of screened digested sludge (total solids 30 g/litre,  volatile solids 18 g/litre), and then operated for 2 years to  assess the effect of effluent recycle and low temperatures on  reactor performance. The reactors were then operated for I  month with a feed COD of 4 g/litre and HRT of 20 h at  35 to provide a steady baseline for this study. Reactor II  was then selected and the feed concentration changed to  8 g/litre for 20 days at an HRT of 20 h while various  parameters were monitored and steady state reached  (defined by constant COD values in the effluent for 4 days).  The feed was then changed back to 4 g/litre for 30 days to  allow the reactor to reach its baseline performance again.  Finally, the feed strength was increased in error to 13 g/litre  for l15h before being increased to 15g/litres, and the  reactor was monitored to steady state.    RESULTS AND DISCUSSION  Data at an HRT of 20 h on the variations of COD,  hydrogen, pH, and VFA/glucose levels over 202 h  after a feed concentration step change from 4 to  8 g-COD/litre, and over 312 h after a change from 4  to 15g-COD/litre are shown below. Finally, a  summary of reactor performance at steady state after  each change is presented.  Step organic shock with 8g/litre substrate COD.for 20  days  During the course of the 8 g/litre organic shock  study, the system was found to adapt itself to the new  higher feed concentration within the first 2 days, with  only minor variations from time zero, except in the  first two compartments, which stabilised at higher  levels of VFAs and considerably lower pHs. The data    2740    7O00    i  5000  4000.    +1 --~-2-~-3--o-4--~-5-o-6--n-7-o--8    ~2000   1000  0  .....  ,  ..............  ,  .  0            50           100          150          200  ar=~tlm)  Fig. 2. COD profiles in each compartment over time during  the step shock from 4 to 8 g/litre COD in the feed at an HRT  of 20 h. The legend at the top denotes the compartment  number.    S. Nachaiyasit and D. C. Stuckey  400   -,,.   '501/   \  "- 0~e"  ~-   .,~--......~ -    ~.  0        50       100       150       200  a~mCm)  Fig. 3. H2 profiles in each compartment over time during  the step shock from 4 to 8 g/litre COD in the feed at an HRT  of 20 h. The legend at the top denotes the compartment  number.    obtained are presented in Figs 2, 3 and 4 and show  the parameter profiles during the organic shock,  while Figs 5 and 6 depict the levels of VFAs and  glucose in the first and second compartments during  the shock. The behaviour of the parameters was as  follows.  COD. From Figure 2, it can be seen that, as the  shock wave moved down the reactor, the size of the  COD peaks decreased; however, 2 days after the  shock the peaks had flattened out at higher levels  from time zero in compartments 1 and 2, and slightly  greater levels in compartments 3 and 4. This was  probably the net result of increased substrate  concentrations which increased the substrate flux into  the bioaggregates, thereby increasing the growth rate  of the internal microbes (mostly acetogens and  methanogens). This led to an enhanced removal rate  of intermediates to methane, the production of more  gas, enhanced mixing (more even distribution of the  substrate amongst the microbes) and, consequently,  after 2 days, lower levels of COD. It may be  concluded from this data that, even with a doubling  of the load, the reactor was stable and responded  rapidly to the shock. It was interesting to note that  in this case the ABR reached a new steady state quite  rapidly, and the time required was equivalent to a  CSTR, i.e. approximately three HRTs (~60 h).  Hydrogen. From Fig. 3, it can be seen that there  was hardly any change in the hydrogen levels of  compartments 4 to 8, while the activity of hydrogen  metabolism (production and utilisation) was high in  the first two compartments and, to a lesser extent,  in compartment 3. This is evidence of an active  acidification zone in the first few compartments of the  reactor and a rapid turnover of hydrogen.  pH. From Fig. 4, it is apparent that the pH levels  initially  rose  and  then  dropped  rapidly  and  dramatically in compartments 1  and 2, stayed  relatively constant in compartment 3 and increased  in compartments 4 to 8. The decrease in pH in  compartments 1 and 2 was the result of VFAs  building up, while the increases in compartments 4 to    8 were due to the increased buffering capacity with  increased feed concentration, and the efficient  conversion of intermediates to methane at high loads  in the middle zone of the reactor.  VFAs. One mole of sucrose in the feed is  hydrolysed into one mole of glucose and one mole of  fructose; however, since both behave similarly in the  reactor, only the glucose data is presented, and this  represents the unconsumed feed in the bulk liquid.  The initial glucose concentration in the feed (after  hydrolysis) would be around 2800 mg/litre at 8 g/litre  COD, and Fig. 5 shows the VFA and glucose profiles  in compartment 1. Even when the feed concentration  doubled, the glucose level in compartment 1 only  reached 300 mg/litre after 75 h and decreased to less  than 100 mg/litre at hour 202, demonstrating the high  turnover rate of the acidogens. Nevertheless, Arcand  et al. (1994) found that, at high loading rates, the  proportion of postacidogenic increased at the expense  of acidogens. In addition, Grotenhuis et al. (1991)  found that the fraction of viable organisms also  increased at high loading rates. Hence, it can be seen  that the acidogens needed some time to recover from  being washed out (by higher mixing from gas    7.8    7.6  7.4  721  ii'    6.2  6    --~-1 --a-2--,t-3-~-4-n~5--ta--6--n-7--o--8    50           100           150           200  ~(~)    Fig. 4. pH profiles in each compartment over time during  the step shock from 4 to 8 g/litre COD in the feed at an HRT  of 20 h. The legend at the top denotes the compartment  number.    ABR shock loads: organic    2741     i  20001       n ~ U "~te D 1~'~ U ~ II GIm~  0  0        4       13      27      51       75      100     126     154     178    2112  Fig. 5. VFA profiles in compartment 1 over time during the  step shock from 4 to 8 g/litre COD in the feed at an HRT  of 20 h. The legend at the top denotes the VFA or glucose.    production) and, consequently, the increase and then  decrease of glucose levels is observed. In contrast to  the ABR, Carr and O'Donnell (1977) showed that in  a CSTR a step change of 100% in the feed was on  the borderline between recovery and failure, and the  result depended on the initial solids levels in the  digester.  Formate was only present at low concentrations in  the first 13 h and only showed a slight increase  thereafter, but it never climbed beyond 200 mg/litre.  This increase in formate could be due to either of the  following: an increase in formate production; an  elevated degree of mixing leading to a release of some  of the formate from the flocs; a decrease in formate  utilisation; or a combination of all three. However,  this observation is in direct contrast to some of the  authors' earlier work (Grobicki and Stuckey, 1991),  where with essentially the same feed (except that the  alkalinity was 30% higher in this study and trace  metals were added), even under steady-state con-  ditions, formate levels as high as 4200 mg/litre were  measured in the first compartment. At this point it is  difficult to explain this observation, but since .the  biomass concentrations in the earlier work were 3-4  times lower and granules were present, it appears that  this difference was probably due to the different  structure of the bioaggregates and lower pHs in the  first  two  compartments,  and  this  observation  highlights the importance of the physical nature of  the association of the biomass.  The ratio of acetate/butyrate after the feed change  varied from 2.2 to 2.8, compared to a ratio of 3.2 at  time zero. This observation appears to confirm  McCarty and Mosey's (1991) hypothesis that at lower  pHs butyrate production, in contrast to formate,  acetate or propionate, is favoured, and an increased  production of butyrate instead of acetate might be  one way that microbial consortia combat high  acidity. After 2 clays the levels of acetate and butyrate  decreased, while propionate always stayed below  300 mg/litre (a small increase from time zero) and did  not exceed the butyrate level.  When  considering  the  profile  of VFAs  in  compartment 2 (Fig. 6), it can be seen that no glucose    was  detected  (all  consumed),  and  there  was  considerably higher levels of acetate and lower levels  of butyrate in this compartment compared to  compartment 1. This could have been the result of  lower levels of hydrogen in compartment 2, which  would allow the conversion of butyrate into acetate.  In addition, the bulk pH values in compartment 2  were slightly higher than in compartment 1, leading  to lower butyrate production. The average values of  propionate in this compartment were higher than that  of compartment 1; however, they never exceeded  400 mg/litre. Despite being below 400 mg/litre, the  level of propionate in compartment 3 was greater  than the butyrate level, and this persisted with  declining concentrations until compartment 6 (results  not shown). The persistence of propionate may be  attributable to the small number of propionate  utilisers (only two species of syntrophs are known to  degrade propionate, and they have the slowest  growth rates of the acid utilising group--Houwen  et al., 1990). VFA levels decreased in successive  compartments,  especially  from  compartment  4  onwards, and this explains the increase in pH in these  compartments together with the increasing alkalinity.  Finally, there were very low levels of acetate and  propionate detected in compartment 6, and none was  found in compartments 7 and 8. However, the COD  level never quite decreased to zero (80 mg/litre--  Fig.  2), due to SMPs being released during  catabolism and cell lysis.    Step organic shock with 15g/litre substrate COD.for  20 days  In the study on a 15 g/litre organic shock (from a  4 g/litre base), the reactor showed distinct signs of  overload, and there was a significant amount of  unconsumed VFAs (600 mg/litre acetate, 300 mg/litre  propionate) present in the effluent even 312 h after  the shock. However, the COD removal efficiency was  still relatively high at steady state (90% in Table 1).    ~2000t        |Farm~ll'se~w~rTPmfimmell~     1    =0  i' ta 10O0  0    0    4    13   27   51    75   100   126   154   178  202  ITm~ 0is)  Fig. 6. VFA profiles in compartment 2 over time during the  step shock from 4 to 8 g/litre COD in the feed at an HRT  of 20 h. The legend at the top denotes the VFA, while no  glucose was detected in this or further compartments.    2742    S. Nachaiyasit and D. C. Stuckey  Table I. Reactor performance at 35 and 20-h HRT at steady state after the step organic shocks    Feed strength  Time of operation      OLR             SLR        CH~ content        CH4 yield       Soluble COD removal  (g/litreCOD)       (days)      (kg-COD/m3 d) (kg-COD/kg-VS d)     (%)     (m3/kg-CODdestroyed)         (%)  4                    30              4.8             0.267            70              0.382                  97  8                    20              9.6             0.533            75              0.408                  98  4                    30              4.8             0.267            74              0.394                  98  15                    20             18.0              1.00             78              0.434                  90    Figures 7-9 document the variation of COD,  hydrogen and pH in the reactor during the organic  shock, while Figs 10 and 11 display the change in  VFA and glucose levels in the first two compart-  ments; the other compartments behaved similarly  and, hence, these data were excluded due to space  considerations. Every compartment stabilised after  some time at higher levels of COD, hydrogen, VFAs  and pH. After day 4 (hour 96) the feed concentration  was stepped up from 13 to 15 g-COD/litre, and this  resulted in higher bulk CODs and hydrogen levels but  hardly any change in the pH trend. The behaviour of  the system parameters was as follows.  COD. Figure 7 shows the rapid change in COD  that occurred within a day after the change in feed  strength, and these values remained high even after 13  days. However, when the COD levels in all the  compartments are considered, the increase was  greatest in the first compartment and was dampened  down along the reactor. The increase in COD was the  result of a rapid rate of VFA production and a slower  rate of utilisation by the methanogens. Despite this  increase, it can be seen that the COD removal in the  first compartment still amounted to around 3000 mg/  litre, presumably due to the rapid conversion of  hydrogen to methane. In contrast to the 8 g/litre  shock, the ABR was still undergoing changes even  after 13 days (15 HRTs) and had not come to steady  state, demonstrating the effect of the slow growth rate  of methanogens.  Hydrogen. Compared with the level of hydrogen  during the 8 g/litre shock, it can be seen that, during  the 15 g/litre shock, the hydrogen produced was    considerably higher in compartments 1 and 2 and  greatly exceeded the maximum level of the hydrogen  sensor (2000 ppm) (Fig. 8). By extrapolating these  profiles it appears that the hydrogen levels could have  exceeded 10,000ppm. However, even these levels  decreased after 8-10 days, and this was undoubtedly  due to the rapid growth of hydrogen utilisers. It is  interesting to note that, even under such large organic  shocks, hydrogen production and utilisation still only  occurs primarily in the first two compartments of the  ABR. The spike in compartment 3 (and 4/5) at 115 h  was due to the feed concentration being increased  from 13 to 15 g/litre.  pH. The pH increased rapidly after time zero in  every compartment in spite of the higher levels of  COD (VFA accumulation), and this was probably  due to the effect of the high buffering capacity of the  feed. In this study the alkalinity of the influent and  the effluent were 6500 and 6750 mg/litre, respectively,  at steady state with 15 g/litre, compared to 3600 and  4500 mg/litre at steady state with 8 g/litre and 1800  and 2200 mg/litre under normal operating conditions  with a 4 g/litre feed concentration (Fig. 9). A slow but  small decrease in effluent pH was noted by Borja  et al. (1994) during shocks of 100 and 150% increase  in influent COD concentration for 5-h and 10-h  periods in an anaerobic downflow filter treating  slaughterhouse wastewater, despite the fact that the  VFA concentration rose rapidly. However, this  increase in pH might not result in beneficial effects to  the system, since maximum acetate removal efflcien-  cies occur when the bulk pH is in the range of 6.8-7.0  (Flora et al., 1995).    14OOO  0      50      100     150     200     250     300  Fig. 7. COD profiles in each compartment over time during  the step shock from 4 to 15 g/litre COD in the feed at an  HRT of 20h. The number on the line denotes the  compartment number.    +1+2~3+4~5~6~7~8    e  8 1000  t  ~0    0~  0       50      100      150      2100      250      300  ~)  Fig. 8. H2 profiles in each compartment over time during  the step shock from 4 to 15 g/litre COD in the feed at an  HRT of 20h. The legend at the top denotes the  compartment number.    ABR shock loads: organic                                      2743    8.3    --*-1 ---=- 2 --it- 3 -~- 4 --*-- 5 --tr- 6 --~- 7 --e-- 8    81  79  7.5  ~7.3  7.1  69  67  65  (t~  ....  ,  ....  ,  ....  ,  ....  i  ....  ,  ....  , ,  50       I00      150      2[]0      250      300  Fig. 9. pH profiles in each compartment over time during  the step shock from 4 to 15 g/litre COD in the feed at an  HRT of 20h. The legend at the top denotes the  compartment number.    VFAs.  In  compartment  I  (Fig.  10)  glucose  increased rapidly to a concentration of around 40%  of the feed concentration (5265 mg/litre) after only  24 h. This clearly demonstrates that the acidogens  were considerably overloaded at this feed concen-  tration. Formate increased after the shock but did not  reach very high levels (less than 700 mg/litre), and this  could have been the result of increased mixing at  higher gas productions, releasing more formate from  the biofloc, or serving as a means of disposal of  surplus reducing power. The levels of acetate in this  compartment were not high compared to those in  compartment 2, and this was probably due to the  incomplete conversion of the feed. However, com-  pared to the 8 g/litre shock, greater amounts of  glucose (2800-200 = 2600 mg/litre in 8 g/litre, com-    pared to 5265-2200 = 3025mg/litre in 15 g/litre)  were consumed in the first compartment in the  15 g/litre shock, and this was probably due to an  increased fraction of the biomass being catabolically  active due to higher bulk substrate concentrations  enhancing mass transfer (Nachaiyasit, 1995). Inter-  estingly, propionate always remained at concen-  trations of less than 250 mg/litre, as with the 8 g/litre  shock, and only increased slightly in compartment 2  (Fig. 11). Again, under shock loads the acetate/bu-  tyrate ratios decreased to as low as 1.3 at hour 98.  In compartment 2, all the glucose was consumed  and the formate levels decreased to below 250 rag/  litre. High levels of acetate and butyrate were  detected, and these could be the result of reduced  levels of hydrogen which enhanced the conversion of  short-chain fatty acid intermediates to acetate, but  some of this acetate may have been converted to  butyrate to keep acidity down since the ratio of  acetate to butyrate was very low. In compartment 3  (data not shown) the acetate peak was around the  same level as compartment 2 but appeared later.  Butyrate in this compartment decreased from the  levels in compartment 2, while propionate increased  marginally, and hardly any formate was observed.  Propionate persisted until the last compartment, with  a slight decrease in each succeeding compartment,  while acetate and butyrate decreased at a relatively  higher rate, until only acetate was present in the last  few compartments (Nachaiyasit, 1995).  In conclusion, with a step increase in loading rate,  the VFA "wave" moved down the reactor over time  resulting in the "breakthrough" of VFAs in the  diluent, and a decrease in COD removal. After 20  days this removal had dropped from 97 to 90%.    4000     3500  = 3000  0   2500   2000  O   1500  DI0  "~ 1000  .&lt;    500    []Formate mAcetate I"lPropionate IIButyrate []Glucose    0  0    2   24   48   74   98  118  144  168  193  214 238 266 291  312  Time (hrs)  Fig. 10. VFA and glucose levels in compartment 1 over time during the step shock from 4 to 15 g/litre  COD in the feed at an HRT of 20 h. The legend at the top denotes the VFA or glucose.    2744                                 S. Nachaiyasit and D. C. Stuckey    4000  3500  ~ 2500  2000  ~  1500  500  0    0   2   24  48  74  98  118 144 168 193 214 238 266 291 312  Time (hrs)  Fig. 11. VFA and glucose levels in compartment 2 over time during the step shock from 4 to 15 g/litre  COD in the feed at an HRT of 20 h. The legend at the top denotes the VFA, while no glucose was detected  in this or further compartments.    Reactor performance at steady state after the organic  shocks  A summary of reactor performance at steady state  20 days after the two organic shocks is shown in  Table 1. The efficiency of COD removal was fairly  constant at 98% when the feed concentration was  doubled to 8 g/litre, but it showed a decrease to 90%  when the feed concentration was increased to  15 g/litre due to the presence of VFAs which  accounted for 1075 mg/litre COD of the 1530 mg/litre  in the effluent. The methane yield (m3/kg-COD-de-  stroyed) at 35 and 1 bar was 5-13% higher than  the theoretical figure of 0.362 at both 4 and 8 g/litre,  and this was probably due to errors in measuring the  gas production rate over only 6 of the 24 h. However,  at 15g/litre this figure was 20% higher than the  theoretical, which, despite the stable COD results,  may reveal that this reactor was not truly at steady  state and that its long-term COD removal could  increase to over 98%.  Concluding discussion  From the above data it can be seen that there are  three general zones in the ABR: primarily acidifica-  tion, active methanation and a buffer zone. As the  loading rate increased, the buffer zone was used to  absorb the overload and maintain the performance of  the reactor until the loading rate was so high that it  overloaded the system (the second shock load in this  study), and VFAs consequently escaped into the  effluent. In theory, given enough adaptation time, the  slower growing methanogens could increase in  number so that the performance of the ABR at high  loads approached that of the baseline, and the  methane yield data shows that the 15 g/litre reactor  may not have been at steady state. It is noteworthy  that formate did not seem to play an important role    in these organic shocks. Grobicki and Stuckey (1991)  found up to 2500 mg/litre of formate during a  volumetric shock (hydraulic shock) load of 1-h HRT  for 3 h. However, it appears that the results obtained  in the present work tend to support the comment of  Stams (1994) on the importance of hydrogen and  formate as interspecies electron carriers that "formate  might be more important than hydrogen transfer in  suspended culture", since every time the results  showed high levels of formate it was always  coincident with high mixing conditions.  These results show that the ABR is extremely  stable to step organic shock loads and maintains the  same removal efficiencies when the load is doubled  instantaneously. When the feed strength is increased  by a factor of 3.75 removal efficiency decreases  slightly (98 to 90%), but the reactor coped with the  shock well. The primary constituent of the COD in  the effluent is unmetabolised VFAs which can be  easily removed aerobically, and a small organic  fraction which is SMPs. In contrast to earlier work  with lower solids concentrations, the high solids used  in this reactor resulted in enhanced stability to shock  loads. It is apparent from the data that the unique  compartmentalised structure of the ABR prevents  most of the biomass being exposed to the low pHs  encountered in the first few compartments during  shock loads and, hence, enhances the stability of the  reactor.  The data obtained on the role of hydrogen and  formate in interspecies electron transfer was some-  what equivocal. Unlike earlier work, very little  formate was detected in the reactor during shock  loads, and this was contrary to what was expected,  since no granules were observed in the reactor and,  hence, the biomass was expected to be present as  flocs. However, evidence from the use of recycle    ABR shock loads: organic    2745    (Nachaiyasit and Stuckey, 1995) in this reactor has  shown that, as the recycle ratio increases, with the  concomitant increase in hydrodynamic mixing, there  is an increase in formate production. Hence, it  appears that bacterial associations in the biomass  granules do partly determine the form in which the  electrons  are  transferred  between  donors  and  acceptors. This effect may also have been due to the  higher pHs in this work due to the higher alkalinity  in the feed. The data also showed that hydrogen was  a key intermediate and that hydrogen utilisers are  present in the first compartment, where they produce  considerable quantities of methane resulting in  substantial COD reductions in the first compartment.  McCarty and Mosey's (1991) hypothesis, formu-  lated to predict VFA ratios under certain fermenta-  tion conditions, suggests that, due to the low pHs and  high substrate concentrations in the first compart-  ment of the ABR during shock loads, the dominant  group of bacteria would be the butyrate-forming  bacteria which are obligate hydrogen producers (e.g.  Clostridia). Some of these "butyric bacteria" have  lost the ability to produce butyric acid and have  become acetogens, producing only acetic acid, carbon  dioxide and hydrogen; this maximises their energy  yield, permitting faster growth. Others are acid-toler-  ant bacteria that have retained the ability to produce  butyric acid as a response to low pHs. These are in  competition with the Propionibacteria, which can  grow fast at high substrate concentrations and  produce propionate/acetate/formate in fixed ratios  but have a limited tolerance to low pHs and are poor  scavengers (high substrate affinity coefficient). Low  pH also inhibits the activity of the hydrogen  scavenging methanogens and leads to the accumu-  lation of hydrogen in the gas phase.  Hence, this hypothesis appears to be able to  explain the VFA ratios produced in the first  compartment of the ABR under shock loads, which  tend to consist of primarily acetic acid with increasing  amounts of butyric acid over time, and a very low  level of propionic acid, which is usually the most  difficult VFA to remove after shock loads due to the  low concentration of syntrophs and their very slow  growth. This low rate of production of propionic acid  in the ABR is one of the reasons that this reactor  design is very stable to shock loads, and it is due  primarily to its compartmentalised construction.    CONCLUSIONS    1. The ABR is extremely stable at constant HRTs  to step changes in feed COD, and it maintains high  degrees of removal (&gt;90%) weeks after a large  shock. Hence, it would appear that the ABR would  be appropriate for use in industry.  2. The compartmentalised structure of the ABR  prevents much of the biomass being exposed to low  pHs during step shock organic roads, and it maintains  the biomass in the reactor for long CRTs.    3. Rapid fermentation of organic shock loads in  the first compartment of the ABR lowers the pH and  appears to result in the selection of a microbial  population that produces primarily acetate and  butyrate rather than propionate and formate. This  results in a more stable response to shock loads, since  both these acids are degraded relatively quickly in  contrast to propionate.  4. Formate does not appear to be important as an  electron acceptor during shock loads, in contrast to  earlier findings, and this may be the result of different  types of microbial flocs forming.    REFERENCES  Alphenaar P. A., Perez M. C. and Lettinga G. (1993) The  influence of substrate transport limitation on porosity and  methanogenic activity of anaerobic sludge granules. Appl.  Microbiol. Biotechnol. 39, 276-280.  APHA (1989) Standard Methods for the Examination of  Water and Wastewater. American Public Health Associ-  ation, Washington, DC.  Arcand Y., Guiot S. R., Desrochers M. and Chavarie C.  (1994) Impact of the reactor hydrodynamics and organic  loading on the size and activity of anaerobic granules.  Chem. Engng J. 56, B23-B35.  Bachmann A., Beard V. L. and McCarty P. L. (1985)  Perlbrmance characteristics of the anaerobic baffled  reactor. Wat. Res. 19, 99-106.  Barnes D., Bliss P. J., Grauer B., Kuo E. M., Robins K. and  Maclean G. (1983) Influence of organic shock loads on  the performance of an anaerobic fluidized bed system. In  38th Purdue Industrial Waste Conference Proceedings,  pp. 715-723. (Edited by J. M. Bell). Butterworth, London.  Bleicher K. and Winter J. (1994) Formate production and  utilization by methanogens and by sewage sludge  consortia-interference with the concept of interspecies  formate  transfer.  Appl.  Microbiol.  Biotechnol.  40,  910-915.  Boone D. R., Johnson R. L. and Liu Y. (1989) Diffusion of  the interspecies electron carriers H2 and formate in  methanogenic ecosystems and its implications in the  measurement of Km for H2 or formate uptake. Appl.  Environ. Microbiol. 59, 2546-2551.  Borja R., Banks C. J. and Wang Z. (1994) Stability and  performance of an anaerobic downflow filter treating  slaughterhouse wastewater under transient changes in  process parameters. Biotechnol.  Appl.  Biochem. 20,  371-383.  Carr A. D. and O'Donnell R. C. (1977) The dynamic  behavior of an anaerobic digester. Prog. Wat. Tech. 9,  727-738.  Dolfing J. (1992) The energetic consequence of hydrogen  gradients in methanogenic ecosystems. FEMS Microb.  Ecol. 101, 183-187.  Dornseiffer P., Meyer B. and Heinzle E. (1995) Modeling of  anaerobic formate kinetics in mixed biofilm culture using  dynamic membrane mass spectrometric measurement.  Biotechnol. Bioengng 45, 219-228.  Flora J. R. V., Suidan M. T., Biswas P. and Sayles G. D.  (1995) A modeling study of anaerobic biofilm systems. I.  Detailed biofilm modeling. Biotechnol. Bioengng 46,  43-53.  Grobicki A. and Stuckey D. C. (1991) Performance of  the anaerobic baffled reactor under steady-state and  shock loading conditions.  Biotechnol.  Bioengng 37,  344-355.  Grotenhuis J. T. C., Kissel J. C., Plugge C. M., Stams  A. J. M. and Zehnder A. J. B. (1991) Role of substrate  concentration   in   particle   size   distribution   of    2746    S. Nachaiyasit and D. C. Stuckey    methanogenic granular sludge in UASB reactors. Wat.  Res. 25, 21-27.  Guiot S. R., MacLeod F. A. and Pauss A. (1990)  Thermodynamical  and  microbiological  evidence  of  trophic microniches for propionate degradation in a  methanogenic sludge-bed reactor. In Microbiology and  Biochemistry of Strict Anaerobes Involved in Interspecies  Hydrogen Transfer, (Edited by Belaich J.-P., Bruschi  M. and Garcia J.-L.), pp. 173-183. Plenum Press, New  York.  Houwen F. P., Plokker J,, Dijkema C. and Stams A. J. M.  (1990) Syntrophic propionate oxidation. In Microbiology  and Biochemistry  of Strict  Anaerobes  Involved  in  lnterspecies Hydrogen Tramfer, (Edited by Belaich J.-P.,  Bruschi M. and Garcia J.-L.), pp. 281-289. Plenum Press,  New York.  Mathiot S., Escoffier Y., Ehlinger F., Couderc J. P., Leyris  J. P. and Moletta R. (1992) Control parameter variations  in an anaerobic fluidised bed reactor subjected to organic  shock loads. Wat. ScL Technol. 25, 93-101.    McCarty P. L. and Mosey F. E. (1991) Modelling of  anaerobic digestion processes (a discussion of concepts).  Wat. Sci. Technol. 24, 17-33.  Nachaiyasit S. (1995) The effect of process parameters on  reactor performance in an anaerobic baffled reactor. PhD  thesis, Chemical Engineering Dept, Imperial College,  London.  Nachaiyasit S. and Stuckey D. C. (1995) Microbial response  to environmental changes in an Anaerobic Baffled  Reactor (ABR). Antonie van Leeuwenhoek 67, ! 11-123.  Noguera D. R., Araki N. and Rittmann B. E. (1994) Soluble  microbial products (SMP) in anaerobic chemostats.  Biotechnol. Bioengng 44, 1040--1047.  Stams A. J. M. (1994) Metabolic interactions between  anaerobic bacteria in methanogenic environments. An-  tonie van Leeuwenhoek 66, 271-294.  Thiele J. H., Chartrain M. and Zeikus J. G. (1988) Control  of interspecies electron flow during anaerobic digestion:  role of floc formation in syntrophic methanogenesis.  Appl. Environ. Microbiol. 54, 10-19.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  </xocs:rawtext><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>WR</jid>
+            <aid>97001334</aid>
+            <ce:pii>S0043-1354(97)00133-4</ce:pii>
+            <ce:doi>10.1016/S0043-1354(97)00133-4</ce:doi>
+            <ce:copyright type="unknown" year="1997"/>
+         </item-info>
+         <head>
+            <ce:title>The effect of shock loads on the performance of an anaerobic baffled reactor (ABR). 1. Step changes in feed concentration at constant retention time</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Suyanee</ce:given-name>
+                  <ce:surname>Nachaiyasit</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>David C.</ce:given-name>
+                  <ce:surname>Stuckey</ce:surname>
+                  <ce:ranking>
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:ranking>
+                  <ce:cross-ref refid="COR1">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Department of Chemical Engineering and Chemical Technology, Imperial College of Science, Technology and Medicine, Prince Consort Road, London, SW7 2BY, U.K.</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="COR1">
+                  <ce:label>∗</ce:label>
+                  <ce:text>Author to whom all correspondence should be addressed Tel: +0171-594 5591, Fax: +0171-594 5604</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:abstract class="author"><ce:abstract-sec>
+                  <ce:simple-para view="all">A 10-litre anaerobic baffled reactor (ABR), with eight compartments, was used to examine the effect of organic shock loads, in the form of a step change in the feed chemical oxygen demand (COD) at constant hydraulic retention time (HRT), on reactor performance in terms of COD removal, and to obtain a greater insight into microbial responses and interactions during these shocks. In order to minimise feed variations, and have a totally biodegradable substrate, a synthetic carbohydrate (sucrose)-protein (meat extract) substrate was used. The reactor was operated at 20-h HRT, 4 g/litre COD (4.8 kg-COD/m<ce:sup loc="post">3</ce:sup> d), and 35°C for 1 month as a base-line condition, and this resulted in 98% COD removal. It was found that a step change in the feed to 8 g/litre COD (9.6 kg-COD/m<ce:sup loc="post">3</ce:sup> d) at 20-h HRT for 20 days did not affect the substrate removal efficiency at all; however, when the concentration was increased to 15 g/litre COD (18 kg-COD/m<ce:sup loc="post">3</ce:sup> d) from 4 g/litre for 20 days, the removal efficiency decreased to 90%. It was found that the compartmentalised ABR consisted of three general zones (acidification, methanation, and a buffer zone where little acidification and methanogenesis occurs), and the function of high solids concentrations in the reactor was to enhance stability rather than improve COD removal. Hence, the structure of the ABR prevents most of the biomass being exposed to low pHs during shock loads, and enhances reactor stability. In addition, due to low pHs and high substrate concentrations in the first compartment, a microbial population seems to be selected which produces primarily acetate and butyrate rather than formate and propionate, and this also enhances the stability of the reactor during shock loads. In contrast to past results, formate did not seem to be an important interspecies electron carrier except under high mixing conditions and shock loads, and this was postulated to be due to differences in the structure of the microbial flocs. Based on these observations, the ABR holds some promise as a reactor design for anaerobic industrial wastewater treatment.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>anaerobic baffled reactor</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>anaerobic digestion</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>organic shock loads</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>interspecies electron transfer</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>volatile acids ratio</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <tail>
+            <ce:bibliography view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec>
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>Alphenaar et al., 1993</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.A.</ce:given-name>
+                                 <ce:surname>Alphenaar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.C.</ce:given-name>
+                                 <ce:surname>Perez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Lettinga</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The influence of substrate transport limitation on porosity and methanogenic activity of anaerobic sludge granules</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Microbiol. Biotechnol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1993</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>276</sb:first-page>
+                              <sb:last-page>280</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>APHA, 1989</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>APHA</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Standard Methods for the Examination of Water and Wastewater</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>1989</sb:date>
+                              <sb:publisher>
+                                 <sb:name>American Public Health Association</sb:name>
+                                 <sb:location>Washington, DC</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>Arcand et al., 1994</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Arcand</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.R.</ce:given-name>
+                                 <ce:surname>Guiot</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Desrochers</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Chavarie</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Impact of the reactor hydrodynamics and organic loading on the size and activity of anaerobic granules</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chem. Engng J.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>56</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1994</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>B23</sb:first-page>
+                              <sb:last-page>B35</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>Bachmann et al., 1985</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Bachmann</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.L.</ce:given-name>
+                                 <ce:surname>Beard</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.L.</ce:given-name>
+                                 <ce:surname>McCarty</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Performance characteristics of the anaerobic baffled reactor</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Wat. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>19</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>99</sb:first-page>
+                              <sb:last-page>106</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>Barnes et al., 1983</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Barnes</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.J.</ce:given-name>
+                                 <ce:surname>Bliss</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Grauer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.M.</ce:given-name>
+                                 <ce:surname>Kuo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Robins</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Maclean</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Influence of organic shock loads on the performance of an anaerobic fluidized bed system</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>J.M.</ce:given-name>
+                                    <ce:surname>Bell</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>38th Purdue Industrial Waste Conference Proceedings</sb:maintitle>
+                              </sb:title>
+                              <sb:date>1983</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Butterworth</sb:name>
+                                 <sb:location>London</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>715</sb:first-page>
+                              <sb:last-page>723</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>Bleicher and Winter, 1994</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Bleicher</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Winter</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Formate production and utilization by methanogens and by sewage sludge consortia-interference with the concept of interspecies formate transfer</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Microbiol. Biotechnol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>40</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1994</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>910</sb:first-page>
+                              <sb:last-page>915</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>Boone et al., 1989</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.R.</ce:given-name>
+                                 <ce:surname>Boone</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.L.</ce:given-name>
+                                 <ce:surname>Johnson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Diffusion of the interspecies electron carriers H<ce:inf loc="post">2</ce:inf> and formate in methanogenic ecosystems and its implications in the measurement of K<ce:inf loc="post">m</ce:inf> for H<ce:inf loc="post">2</ce:inf> or formate uptake</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Environ. Microbiol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>59</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1989</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2546</sb:first-page>
+                              <sb:last-page>2551</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>Borja et al., 1994</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Borja</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.J.</ce:given-name>
+                                 <ce:surname>Banks</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Stability and performance of an anaerobic downflow filter treating slaughterhouse wastewater under transient changes in process parameters</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biotechnol. Appl. Biochem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>20</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1994</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>371</sb:first-page>
+                              <sb:last-page>383</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>Carr and O'Donnell, 1977</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.D.</ce:given-name>
+                                 <ce:surname>Carr</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.C.</ce:given-name>
+                                 <ce:surname>O'Donnell</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The dynamic behavior of an anaerobic digester</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Prog. Wat. Tech.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>9</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>727</sb:first-page>
+                              <sb:last-page>738</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>Dolfing, 1992</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Dolfing</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The energetic consequence of hydrogen gradients in methanogenic ecosystems</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>FEMS Microb. Ecol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>101</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1992</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>183</sb:first-page>
+                              <sb:last-page>187</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>Dornseiffer et al., 1995</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Dornseiffer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Meyer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Heinzle</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Modeling of anaerobic formate kinetics in mixed biofilm culture using dynamic membrane mass spectrometric measurement</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biotechnol. Bioengng</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>45</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1995</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>219</sb:first-page>
+                              <sb:last-page>228</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>Flora et al., 1995</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.R.V.</ce:given-name>
+                                 <ce:surname>Flora</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.T.</ce:given-name>
+                                 <ce:surname>Suidan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Biswas</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.D.</ce:given-name>
+                                 <ce:surname>Sayles</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A modeling study of anaerobic biofilm systems. I. Detailed biofilm modeling</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biotechnol. Bioengng</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>46</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1995</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>43</sb:first-page>
+                              <sb:last-page>53</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>Grobicki and Stuckey, 1991</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Grobicki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.C.</ce:given-name>
+                                 <ce:surname>Stuckey</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Performance of the anaerobic baffled reactor under steady-state and shock loading conditions</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biotechnol. Bioengng</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1991</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>344</sb:first-page>
+                              <sb:last-page>355</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>Grotenhuis et al., 1991</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.T.C.</ce:given-name>
+                                 <ce:surname>Grotenhuis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Kissel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.M.</ce:given-name>
+                                 <ce:surname>Plugge</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.J.M.</ce:given-name>
+                                 <ce:surname>Stams</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.J.B.</ce:given-name>
+                                 <ce:surname>Zehnder</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Role of substrate concentration in particle size distribution of methanogenic granular sludge in UASB reactors</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Wat. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1991</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>21</sb:first-page>
+                              <sb:last-page>27</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>Guiot et al., 1990</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.R.</ce:given-name>
+                                 <ce:surname>Guiot</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.A.</ce:given-name>
+                                 <ce:surname>MacLeod</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Pauss</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Thermodynamical and microbiological evidence of trophic microniches for propionate degradation in a methanogenic sludge-bed reactor</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>J.-P.</ce:given-name>
+                                    <ce:surname>Belaich</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>M.</ce:given-name>
+                                    <ce:surname>Bruschi</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>J.-L.</ce:given-name>
+                                    <ce:surname>Garcia</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>Microbiology and Biochemistry of Strict Anaerobes Involved in Interspecies Hydrogen Transfer</sb:maintitle>
+                              </sb:title>
+                              <sb:date>1990</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Plenum Press</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>173</sb:first-page>
+                              <sb:last-page>183</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB16">
+                     <ce:label>Houwen et al., 1990</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.P.</ce:given-name>
+                                 <ce:surname>Houwen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Plokker</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.</ce:given-name>
+                                 <ce:surname>Dijkema</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.J.M.</ce:given-name>
+                                 <ce:surname>Stams</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Syntrophic propionate oxidation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>J.-P.</ce:given-name>
+                                    <ce:surname>Belaich</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>M.</ce:given-name>
+                                    <ce:surname>Bruschi</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>J.-L.</ce:given-name>
+                                    <ce:surname>Garcia</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>Microbiology and Biochemistry of Strict Anaerobes Involved in Interspecies Hydrogen Transfer</sb:maintitle>
+                              </sb:title>
+                              <sb:date>1990</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Plenum Press</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>281</sb:first-page>
+                              <sb:last-page>289</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB17">
+                     <ce:label>Mathiot et al., 1992</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Mathiot</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Escoffier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Ehlinger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Couderc</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Leyris</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Moletta</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Control parameter variations in an anaerobic fluidised bed reactor subjected to organic shock loads</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Wat. Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1992</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>93</sb:first-page>
+                              <sb:last-page>101</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB18">
+                     <ce:label>McCarty and Mosey, 1991</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.L.</ce:given-name>
+                                 <ce:surname>McCarty</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.E.</ce:given-name>
+                                 <ce:surname>Mosey</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Modelling of anaerobic digestion processes (a discussion of concepts)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Wat. Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>24</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1991</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>17</sb:first-page>
+                              <sb:last-page>33</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB19">
+                     <ce:label>Nachaiyasit, 1995</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Nachaiyasit</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The effect of process parameters on reactor performance in an anaerobic baffled reactor</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:title>
+                                 <sb:maintitle>PhD thesis</sb:maintitle>
+                              </sb:title>
+                              <sb:date>1995</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Chemical Engineering Dept, Imperial College</sb:name>
+                                 <sb:location>London</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB20">
+                     <ce:label>Nachaiyasit and Stuckey, 1995</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Nachaiyasit</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.C.</ce:given-name>
+                                 <ce:surname>Stuckey</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Microbial response to environmental changes in an Anaerobic Baffled Reactor (ABR)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Antonie van Leeuwenhoek</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>67</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1995</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>111</sb:first-page>
+                              <sb:last-page>123</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB21">
+                     <ce:label>Noguera et al., 1994</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.R.</ce:given-name>
+                                 <ce:surname>Noguera</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Araki</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.E.</ce:given-name>
+                                 <ce:surname>Rittmann</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Soluble microbial products (SMP) in anaerobic chemostats</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biotechnol. Bioengng</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>44</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1994</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1040</sb:first-page>
+                              <sb:last-page>1047</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB22">
+                     <ce:label>Stams, 1994</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.J.M.</ce:given-name>
+                                 <ce:surname>Stams</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Metabolic interactions between anaerobic bacteria in methanogenic environments</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Antonie van Leeuwenhoek</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>66</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1994</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>271</sb:first-page>
+                              <sb:last-page>294</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB23">
+                     <ce:label>Thiele et al., 1988</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Thiele</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Chartrain</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.G.</ce:given-name>
+                                 <ce:surname>Zeikus</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Control of interspecies electron flow during anaerobic digestion: role of floc formation in syntrophic methanogenesis</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Environ. Microbiol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>54</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>10</sb:first-page>
+                              <sb:last-page>19</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

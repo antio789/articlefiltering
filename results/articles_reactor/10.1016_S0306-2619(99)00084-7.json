@@ -1,0 +1,53 @@
+{
+  "manual_review": [
+    [
+      "10.1016_S0306-2619(99)00084-7",
+      "plug flow"
+    ]
+  ],
+  "llm_review": [
+    [
+      "10.1016_S0306-2619(99)00084-7",
+      "plug flow"
+    ],
+    [
+      "10.1016_S0306-2619(99)00084-7",
+      "anaerobic contact reactor"
+    ],
+    [
+      "10.1016_S0306-2619(99)00084-7",
+      "baffled reactor"
+    ],
+    [
+      "10.1016_S0306-2619(99)00084-7",
+      "other"
+    ]
+  ],
+  "correct_predictions": 1,
+  "false_predictions": 3,
+  "missed_predictions": 0,
+  "precision": 0.25,
+  "recall": 1.0,
+  "f1_score": 0.4,
+  "correct_items": [
+    [
+      "10.1016_S0306-2619(99)00084-7",
+      "plug flow"
+    ]
+  ],
+  "false_items": [
+    [
+      "10.1016_S0306-2619(99)00084-7",
+      "anaerobic contact reactor"
+    ],
+    [
+      "10.1016_S0306-2619(99)00084-7",
+      "baffled reactor"
+    ],
+    [
+      "10.1016_S0306-2619(99)00084-7",
+      "other"
+    ]
+  ],
+  "missed_items": []
+}

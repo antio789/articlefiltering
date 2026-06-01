@@ -1,0 +1,2542 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S1944398624030996</prism:url><dc:identifier>doi:10.1080/19443994.2015.1084483</dc:identifier><eid>1-s2.0-S1944398624030996</eid><prism:doi>10.1080/19443994.2015.1084483</prism:doi><pii>S1944-3986(24)03099-6</pii><dc:title>Influence of aeration rate on shortcut nitrification in an SBR treating anaerobic-digested piggery wastewater </dc:title><prism:publicationName>Desalination and Water Treatment</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>19443986</prism:issn><prism:volume>57</prism:volume><prism:issueIdentifier>37</prism:issueIdentifier><prism:startingPage>17255</prism:startingPage><prism:endingPage>17261</prism:endingPage><prism:pageRange>17255-17261</prism:pageRange><prism:number>37</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2016-08-31</prism:coverDate><prism:coverDisplayDate>August 2016</prism:coverDisplayDate><prism:copyright>Copyright © 2015 Elsevier Inc.</prism:copyright><prism:publisher>Elsevier Inc.</prism:publisher><dc:creator>Meng, Jia</dc:creator><dc:creator>Li, Jianzheng</dc:creator><dc:creator>Zhao, Bowei</dc:creator><dc:creator>Deng, Kaiwen</dc:creator><dc:description>
+                  The aeration rate as an intrinsic factor influencing shortcut nitrification process while treating ammonium-rich anaerobic-digested piggery wastewater (ADPW) in a sequencing batch reactor (SBR) was investigated. Diluted ADPW with nitrogen loading rate (NLR) of 0.56 ± 0.12 kg/(m3 d) was fed to start up the SBR at 0.1 L/min aeration rate. After 24 d of operation, the shortcut nitrification process was established, 71.1% ammonium was removed and a nitrite accumulation rate (NAR) of 96.8% was obtained. Ammonium removal decreased remarkably to 48.6% as raw undiluted ADPW with an NLR of 2.55 kg/(m3 d) was fed to the system. Intriguingly, aeration rate was raised to 0.4 L/min in the latter feed and an enhanced ammonium removal of 68.9% was observed while NAR decreased to 94.4%.
+               </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType>Author</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by-nc-nd/4.0/</openaccessUserLicense><dcterms:subject>Piggery wastewater</dcterms:subject><dcterms:subject>Anaerobic digestion liquor</dcterms:subject><dcterms:subject>Sequencing batch reactor (SBR)</dcterms:subject><dcterms:subject>Shortcut nitrification</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S1944398624030996" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S1944398624030996" rel="scidir"/></coredata><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>785634</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291810</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Desalination and Water Treatment</xocs:srctitle>
+      <xocs:normalized-srctitle>DESALINATIONWATERTREATMENT</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20241009">2024-10-09</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20241009">2024-10-09</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20241009">2024-10-09</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20241009">2024-10-09</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2024-10-09T07:32:43</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S1944398624030996</xocs:eid>
+      <xocs:pii-formatted>S1944-3986(24)03099-6</xocs:pii-formatted>
+      <xocs:pii-unformatted>S1944398624030996</xocs:pii-unformatted>
+      <xocs:doi>10.1080/19443994.2015.1084483</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.1</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S1944398615X57377</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20241009">2024-10-09T07:07:43.228973Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20160801</xocs:date-search-begin>
+      <xocs:date-search-end>20160831</xocs:date-search-end>
+      <xocs:year-nav>2016</xocs:year-nav>
+      <xocs:indexeddate epoch="1728461263">2024-10-09T08:07:43.228973Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content oa subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authkeywords authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>1944-3986</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>19443986</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>57</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>57</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>37</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>37</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 57, Issue 37</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>10</xocs:sort-order>
+      <xocs:first-fp>17255</xocs:first-fp>
+      <xocs:last-lp>17261</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>17255</xocs:first-page>
+         <xocs:last-page>17261</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201608</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>August 2016</xocs:cover-date-text>
+      <xocs:cover-date-start>2016-08-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2016-08-31</xocs:cover-date-end>
+      <xocs:cover-date-year>2016</xocs:cover-date-year>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2015 Elsevier Inc.</xocs:copyright-line>
+      <xocs:normalized-article-title>INFLUENCEAERATIONRATESHORTCUTNITRIFICATIONINSBRTREATINGANAEROBICDIGESTEDPIGGERYWASTEWATER</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>MENG</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>J</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="rf0010">
+            <xocs:ref-normalized-surname>TONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1090</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1097</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="or0010"/>
+         <xocs:ref-info refid="rf0015">
+            <xocs:ref-normalized-surname>YAMAMOTO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>6419</xocs:ref-first-fp>
+            <xocs:ref-last-lp>6425</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0020">
+            <xocs:ref-normalized-surname>YANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>245</xocs:ref-first-fp>
+            <xocs:ref-last-lp>252</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0025">
+            <xocs:ref-normalized-surname>HAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>361</xocs:ref-first-fp>
+            <xocs:ref-last-lp>370</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0030">
+            <xocs:ref-normalized-surname>MEPPRCMINISTRYENVIRONMENTALPROTECTIONOFPEOPLESOFCHINA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>DISCHARGESTANDARDPOLLUTANTSFORLIVESTOCKPOULTRYBREEDING</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0035">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>8</xocs:ref-first-fp>
+            <xocs:ref-last-lp>10</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0040">
+            <xocs:ref-normalized-surname>POACH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>844</xocs:ref-first-fp>
+            <xocs:ref-last-lp>851</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0045">
+            <xocs:ref-normalized-surname>CHENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>705</xocs:ref-first-fp>
+            <xocs:ref-last-lp>711</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0050">
+            <xocs:ref-normalized-surname>CHENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>379</xocs:ref-first-fp>
+            <xocs:ref-last-lp>398</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0055">
+            <xocs:ref-normalized-surname>ZHAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>384</xocs:ref-first-fp>
+            <xocs:ref-last-lp>391</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0060">
+            <xocs:ref-normalized-surname>CAKIR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>4197</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4203</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0065">
+            <xocs:ref-normalized-surname>LETTINGA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1995</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3</xocs:ref-first-fp>
+            <xocs:ref-last-lp>28</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0070">
+            <xocs:ref-normalized-surname>OBAJA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7</xocs:ref-first-fp>
+            <xocs:ref-last-lp>14</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0075">
+            <xocs:ref-normalized-surname>OBAJA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>103</xocs:ref-first-fp>
+            <xocs:ref-last-lp>111</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0080">
+            <xocs:ref-normalized-surname>URBINATI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>124</xocs:ref-first-fp>
+            <xocs:ref-last-lp>142</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0085">
+            <xocs:ref-normalized-surname>PRAKASAM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1972</xocs:ref-pub-year>
+            <xocs:ref-first-fp>859</xocs:ref-first-fp>
+            <xocs:ref-last-lp>869</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0090">
+            <xocs:ref-normalized-surname>GAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5015</xocs:ref-first-fp>
+            <xocs:ref-last-lp>5021</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0095">
+            <xocs:ref-normalized-surname>PENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>15</xocs:ref-first-fp>
+            <xocs:ref-last-lp>26</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0100">
+            <xocs:ref-normalized-surname>CHUNG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>320</xocs:ref-first-fp>
+            <xocs:ref-last-lp>328</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0105">
+            <xocs:ref-normalized-surname>GAO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2933</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2942</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0110">
+            <xocs:ref-normalized-surname>POLLICE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2541</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2546</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0115">
+            <xocs:ref-normalized-surname>GUO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>471</xocs:ref-first-fp>
+            <xocs:ref-last-lp>479</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0120">
+            <xocs:ref-normalized-surname>FUX</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>295</xocs:ref-first-fp>
+            <xocs:ref-last-lp>306</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0125">
+            <xocs:ref-normalized-surname>KIM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>154</xocs:ref-first-fp>
+            <xocs:ref-last-lp>160</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0130">
+            <xocs:ref-normalized-surname>VILLAVERDE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1180</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1186</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0135">
+            <xocs:ref-normalized-surname>CHUNG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>275</xocs:ref-first-fp>
+            <xocs:ref-last-lp>282</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0140">
+            <xocs:ref-normalized-surname>WU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>512</xocs:ref-first-fp>
+            <xocs:ref-last-lp>517</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0145">
+            <xocs:ref-normalized-surname>GUO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>527</xocs:ref-first-fp>
+            <xocs:ref-last-lp>534</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0150">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>148</xocs:ref-first-fp>
+            <xocs:ref-last-lp>154</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Q</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0155">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>682</xocs:ref-first-fp>
+            <xocs:ref-last-lp>688</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0160">
+            <xocs:ref-normalized-surname>WU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>5</xocs:ref-first-fp>
+            <xocs:ref-last-lp>9</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0165">
+            <xocs:ref-normalized-surname>FU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>19</xocs:ref-first-fp>
+            <xocs:ref-last-lp>22</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0170">
+            <xocs:ref-normalized-surname>APHAAMERICANPUBLICHEALTHASSOCIATION</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>STANDARDMETHODSFOREXAMINATIONWATERWASTEWATER</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0175">
+            <xocs:ref-normalized-surname>GUO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2796</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2802</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0180">
+            <xocs:ref-normalized-surname>VILLAVERDE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1180</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1186</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0185">
+            <xocs:ref-normalized-surname>YOOA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>145</xocs:ref-first-fp>
+            <xocs:ref-last-lp>154</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0190">
+            <xocs:ref-normalized-surname>CIUDADA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1715</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1719</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0195">
+            <xocs:ref-normalized-surname>KARGI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>89</xocs:ref-first-fp>
+            <xocs:ref-last-lp>93</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0200">
+            <xocs:ref-normalized-surname>LEE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7788</xocs:ref-first-fp>
+            <xocs:ref-last-lp>7796</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0205">
+            <xocs:ref-normalized-surname>RUIZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1371</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1377</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0210">
+            <xocs:ref-normalized-surname>KHIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>519</xocs:ref-first-fp>
+            <xocs:ref-last-lp>532</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0215">
+            <xocs:ref-normalized-surname>ABELIOVICH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1992</xocs:ref-pub-year>
+            <xocs:ref-first-fp>267</xocs:ref-first-fp>
+            <xocs:ref-last-lp>270</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0220">
+            <xocs:ref-normalized-surname>FRISON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>15423</xocs:ref-first-fp>
+            <xocs:ref-last-lp>15430</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>N</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>MENGX2016X17255</xocs:refkey3>
+         <xocs:refkey4lp>MENGX2016X17255X17261</xocs:refkey4lp>
+         <xocs:refkey4ai>MENGX2016X17255XJ</xocs:refkey4ai>
+         <xocs:refkey5>MENGX2016X17255X17261XJ</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2024-07-30T10:55:01Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>Author</xocs:oa-sponsor-type>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:oa-user-license>
+         <xocs:oa-access-inherited-from winid="http://vtw.elsevier.com/content/oaw/1944-3986_UNBOUNDED_Author">OA-Window</xocs:oa-access-inherited-from>
+      </xocs:open-access>
+      <xocs:article-sharing-framework/>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S1944-3986(24)03099-6</xocs:pii-formatted>
+         <xocs:pii-unformatted>S1944398624030996</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S1944398624030996</xocs:eid>
+         <xocs:doi>10.1080/19443994.2015.1084483</xocs:doi>
+         <xocs:cid>785634</xocs:cid>
+         <xocs:timestamp>2024-10-09T07:07:43.228973Z</xocs:timestamp>
+         <xocs:cover-date-start>2016-08-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2016-08-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S1944398624030996-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1944398624030996/MAIN/application/pdf/985bd5c614f5a78b38e6bf7af1f3bcd1/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>266332</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S1944398624030996-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1944398624030996/PREVIEW/image/png/062f080c81dc620d4a8e0a2645786f7f/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>62449</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:rawtext xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">Influence of aeration rate on shortcut nitrification in an SBR treating anaerobic-digested piggery wastewater Jia Meng, a mengjia2726688@126.com Jianzheng Li, a ljz6677@163.com Bowei Zhao, a hitzhaobowei@163.com Kaiwen Deng, a dengkw_hit@126.com a State Key Laboratory of Urban Water Resource and Environment, School of Municipal and Environmental Engineering, Harbin Institute of Technology, 73 Huanghe Road, Harbin, 150090, P.R. China, Tel. +86 451 86283761, Tel./Fax: +86 451 86283761, Tel. +86 451 86283761 State Key Laboratory of Urban Water Resource and Environment, School of Municipal and Environmental Engineering, Harbin Institute of Technology 73 Huanghe Road Harbin 150090 P.R. China State Key Laboratory of Urban Water Resource and Environment, School of Municipal and Environmental Engineering, Harbin Institute of Technology, 73 Huanghe Road, Harbin, 150090, P.R. China, Tel. +86 451 86283761, Tel./Fax: +86 451 86283761, Tel. +86 451 86283761   Abstract   The aeration rate as an intrinsic factor influencing shortcut nitrification process while treating ammonium-rich anaerobic-digested piggery wastewater (ADPW) in a sequencing batch reactor (SBR) was investigated. Diluted ADPW with nitrogen loading rate (NLR) of 0.56 Â± 0.12 kg/(m3   Â d) was fed to start up the SBR at 0.1Â L/min aeration rate. After 24Â d of operation, the shortcut nitrification process was established, 71.1% ammonium was removed and a nitrite accumulation rate (NAR) of 96.8% was obtained. Ammonium removal decreased remarkably to 48.6% as raw undiluted ADPW with an NLR of 2.55Â kg/(m  Â d) was fed to start up the SBR at 0.1Â L/min aeration rate. After 24Â d of operation, the shortcut nitrification process was established, 71.1% ammonium was removed and a nitrite accumulation rate (NAR) of 96.8% was obtained. Ammonium removal decreased remarkably to 48.6% as raw undiluted ADPW with an NLR of 2.55Â kg/(m3   Â d) was fed to the system. Intriguingly, aeration rate was raised to 0.4Â L/min in the latter feed and an enhanced ammonium removal of 68.9% was observed while NAR decreased to 94.4%.Keywords Piggery wastewater Anaerobic digestion liquor Sequencing batch reactor (SBR) Shortcut nitrification   References  [1] Tong, L. Li, P. Wang, Y.X. Zhu, K.Z. Analysis of veterinary antibiotic residues in swine wastewater and environmental water samples using optimized SPE-LC/MS/MS Chemosphere 74: (2009) 1090-1097 10.1016/j.chemosphere.2008.10.051 L. Tong, P.Li, Y.X.Wang, K.Z.Zhu, Analysis of veterinary antibiotic residues in swine wastewater and environmental water samples using optimized SPE-LC/MS/MS, Chemosphere74 (2009) 1090â€“1097.10.1016/j.chemosphere.2008.10.051   [2] National Bureau of Statistics of the Peopleâ€™s Republic of China , StatisticalÂ BulletinÂ forÂ NationalÂ EconomicÂ andÂ SocialÂ Development in 2014 , Beijing, CNH26 February 2015.   [3] Yamamoto, T. Takaki, K. Koyama, T. Furukawa, K. Long-term stability of partial nitritation of swine wastewater digester liquor and its subsequent treatment by Anammox Bioresour. Technol. 99: (2008) 6419-6425 10.1016/j.biortech.2007.11.052 T. Yamamoto, K.Takaki, T.Koyama, K.Furukawa, Long-term stability of partial nitritation of swine wastewater digester liquor and its subsequent treatment by Anammox, Bioresour. Technol.99 (2008) 6419â€“6425.10.1016/j.biortech.2007.11.052   [4] Yang, P.Y. Chen, H.J. Kim, S.J. Integrating entrapped mixed microbial cell (EMMC) process for biological removal of carbon and nitrogen from dilute swine wastewater Bioresour. Technol. 86: (2003) 245-252 10.1016/S0960-8524(02)00171-2 P.Y. Yang, H.J.Chen, S.J.Kim, Integrating entrapped mixed microbial cell (EMMC) process for biological removal of carbon and nitrogen from dilute swine wastewater, Bioresour. Technol.86 (2003) 245â€“252.10.1016/S0960-8524(02)00171-2   [5] Han, Z.Y. Wu, W.X. Chen, Y.X. Zhu, J. Characteristics of a twice-fed sequencing batch reactor treating swine wastewater under control of aeration intensity J. Environ. Sci. Health., Part A 42: (2007) 361-370 10.1080/10934520601144667 Z.Y. Han, W.X.Wu, Y.X.Chen, J.Zhu, Characteristics of a twice-fed sequencing batch reactor treating swine wastewater under control of aeration intensity, J. Environ. Sci. Health., Part A42 (2007) 361â€“370.10.1080/10934520601144667   [6] Beijing, CHN MEPPRC (Ministry Environmental Protection of Peopleâ€™s of China), Discharge Standard of Pollutants for Livestock and Poultry Breeding (2001) MEPPRC (Ministry Environmental Protection of Peopleâ€™s of China), Discharge Standard of Pollutants for Livestock and Poultry Breeding, Beijing, CHN, 2001.   [7] Wang, L. Guo, Z.Y. The biological fermentation bed raises pigs technical the application present situation Livestock Poult. Ind. 03: (2009) 8-10 L. Wang, Z.Y.Guo, The biological fermentation bed raises pigs technical the application present situation, Livestock Poult. Ind.03 (2009) 8â€“10.   [8] Poach, M.E. Hunt, P.G. Reddy, G.B. Stone, K.C. Matheny, T.A. Johnson, M.H. Sadler, E.J. Ammonia volatilization from marshâ€“pondâ€“marsh constructed wetlands treating swine wastewater J. Environ. Qual. 33: (2004) 844-851 10.2134/jeq2004.0844 M.E. Poach, P.G.Hunt, G.B.Reddy, K.C.Stone, T.A.Matheny, M.H.Johnson, E.J.Sadler, Ammonia volatilization from marshâ€“pondâ€“marsh constructed wetlands treating swine wastewater, J. Environ. Qual.33 (2004) 844â€“851.10.2134/jeq2004.0844   [9] Cheng, J.Y. Liu, B. Nitrification/denitrification in intermittent aeration process for swine wastewater treatment J. Environ. Eng. 127: (2001) 705-711 10.1061/(ASCE)0733-9372(2001)127:8(705) J.Y. Cheng, B.Liu, Nitrification/denitrification in intermittent aeration process for swine wastewater treatment, J. Environ. Eng.127 (2001) 705â€“711.10.1061/(ASCE)0733-9372(2001)127:8(705)   [10] Cheng, N. Lo, K.V. Yip, K.H. Swine wastewater treatment in a two stage sequencing batch reactor using real-time control J. Environ. Sci. Health., Part B 35: (2000) 379-398 10.1080/03601230009373277 N. Cheng, K.V.Lo, K.H.Yip, Swine wastewater treatment in a two stage sequencing batch reactor using real-time control, J. Environ. Sci. Health., Part B35 (2000) 379â€“398.10.1080/03601230009373277   [11] Zhao, B.W. Li, J.Z. Leu, S.Y. An innovative wood-chip-framework soil infiltrator for treating anaerobic digested swine wastewater and analysis of the microbial community Bioresour. Technol. 173: (2014) 384-391 10.1016/j.biortech.2014.09.135 B.W. Zhao, J.Z.Li, S.Y.Leu, An innovative wood-chip-framework soil infiltrator for treating anaerobic digested swine wastewater and analysis of the microbial community, Bioresour. Technol.173 (2014) 384â€“391.10.1016/j.biortech.2014.09.135   [12] Cakir, F.Y. Stenstrom, M.K. Greenhouse gas production: A comparison between aerobic and anaerobic wastewater treatment technology Water Res. 39: (2005) 4197-4203 10.1016/j.watres.2005.07.042 F.Y. Cakir, M.K.Stenstrom, Greenhouse gas production: A comparison between aerobic and anaerobic wastewater treatment technology, Water Res.39 (2005) 4197â€“4203.10.1016/j.watres.2005.07.042   [13] Lettinga, G. Anaerobic digestion and wastewater treatment systems Antonie van Leeuwenhoek 67: (1995) 3-28 10.1007/BF00872193 G. Lettinga, Anaerobic digestion and wastewater treatment systems, Antonie van Leeuwenhoek67 (1995) 3â€“28.10.1007/BF00872193   [14] Obaja, D. MacÃ©, S. Mata-Alvarez, J. Biological nutrient removal by a sequencing batch reactor (SBR) using an internal organic carbon source in digested piggery wastewater Bioresour. Technol. 96: (2005) 7-14 10.1016/j.biortech.2004.03.002 D. Obaja, S.MacÃ©, J.Mata-Alvarez, Biological nutrient removal by a sequencing batch reactor (SBR) using an internal organic carbon source in digested piggery wastewater, Bioresour. Technol.96 (2005) 7â€“14.10.1016/j.biortech.2004.03.002   [15] Obaja, D. MacÃ©, S. Costa, J. Sans, C. Mata-Alvarez, J. Nitrification, denitrification and biological phosphorus removal in piggery wastewater using a sequencing batch reactor Bioresour. Technol. 87: (2003) 103-111 10.1016/S0960-8524(02)00229-8 D. Obaja, S.MacÃ©, J.Costa, C.Sans, J.Mata-Alvarez, Nitrification, denitrification and biological phosphorus removal in piggery wastewater using a sequencing batch reactor, Bioresour. Technol.87 (2003) 103â€“111.10.1016/S0960-8524(02)00229-8   [16] Urbinati, E. Oliveira, R.A.D. Anaerobic-aerobic treatment of swine wastewater in uasb and batch reactors in series Engenharia AgrÃ­cola 34: (2014) 124-142 10.1590/S0100-69162014000100014 E. Urbinati, R.A.D.Oliveira, Anaerobic-aerobic treatment of swine wastewater in uasb and batch reactors in series, Engenharia AgrÃ­cola34 (2014) 124â€“142.10.1590/S0100-69162014000100014   [17] Prakasam, T.B.S. Loehr, R.C. Microbial nitrification and denitrification in concentrated wastes Water Res. 6: (1972) 859-869 10.1016/0043-1354(72)90038-3 T.B.S. Prakasam, R.C.Loehr, Microbial nitrification and denitrification in concentrated wastes, Water Res.6 (1972) 859â€“869.10.1016/0043-1354(72)90038-3   [18] Gao, D.W. Peng, Y.Z. Wu, W.M. Kinetic model for biological nitrogen removal using shortcut nitrification-denitrification process in sequencing batch reactor Environ. Sci. Technol. 44: (2010) 5015-5021 10.1021/es100514x D.W. Gao, Y.Z.Peng, W.M.Wu, Kinetic model for biological nitrogen removal using shortcut nitrification-denitrification process in sequencing batch reactor, Environ. Sci. Technol.44 (2010) 5015â€“5021.10.1021/es100514x   [19] Peng, Y.Z. Zhu, G.B. Biological nitrogen removal with nitrification and denitrification via nitrite pathway Appl. Microbiol. Biotechnol. 73: (2006) 15-26 10.1007/s00253-006-0534-z Y.Z. Peng, G.B.Zhu, Biological nitrogen removal with nitrification and denitrification via nitrite pathway, Appl. Microbiol. Biotechnol.73 (2006) 15â€“26.10.1007/s00253-006-0534-z   [20] Chung, J. Bae, W. Lee, Y.W. Rittmann, B.E. Shortcut biological nitrogen removal in hybrid biofilm/suspended growth reactors Process Biochem. 42: (2007) 320-328 10.1016/j.procbio.2006.09.002 J. Chung, W.Bae, Y.W.Lee, B.E.Rittmann, Shortcut biological nitrogen removal in hybrid biofilm/suspended growth reactors, Process Biochem.42 (2007) 320â€“328.10.1016/j.procbio.2006.09.002   [21] Gao, D.W. Peng, Y.Z. Liang, H. Wang, P. Using oxidationâ€“reduction potential (ORP) and pH value for process control of shortcut nitrificationâ€“denitrification J. Environ. Sci. Health., Part A 38: (2003) 2933-2942 10.1081/ESE-120025842 D.W. Gao, Y.Z.Peng, H.Liang, P.Wang, Using oxidationâ€“reduction potential (ORP) and pH value for process control of shortcut nitrificationâ€“denitrification, J. Environ. Sci. Health., Part A38 (2003) 2933â€“2942.10.1081/ESE-120025842   [22] Pollice, A. Tandoi, V. Lestingi, C. Influence of aeration and sludge retention time on ammonium oxidation to nitrite and nitrate Water Res. 36: (2002) 2541-2546 10.1016/S0043-1354(01)00468-7 A. Pollice, V.Tandoi, C.Lestingi, Influence of aeration and sludge retention time on ammonium oxidation to nitrite and nitrate, Water Res.36 (2002) 2541â€“2546.10.1016/S0043-1354(01)00468-7   [23] Guo, J.H. Peng, Y.Z. Huang, H.J. Wang, S.Y. Ge, S.J. Zhang, J.R. Wang, Z.W. Short-and long-term effects of temperature on partial nitrification in a sequencing batch reactor treating domestic wastewater J. Hazard. Mater. 179: (2010) 471-479 10.1016/j.jhazmat.2010.03.027 J.H. Guo, Y.Z.Peng, H.J.Huang, S.Y.Wang, S.J.Ge, J.R.Zhang, Z.W.Wang, Short-and long-term effects of temperature on partial nitrification in a sequencing batch reactor treating domestic wastewater, J. Hazard. Mater.179 (2010) 471â€“479.10.1016/j.jhazmat.2010.03.027   [24] Fux, C. Boehler, M. Huber, P. Brunner, I. Siegrist, H. Biological treatment of ammonium-rich wastewater by partial nitritation and subsequent anaerobic ammonium oxidation (anammox) in a pilot plant J. Biotechnol. 99: (2002) 295-306 10.1016/S0168-1656(02)00220-1 C. Fux, M.Boehler, P.Huber, I.Brunner, H.Siegrist, Biological treatment of ammonium-rich wastewater by partial nitritation and subsequent anaerobic ammonium oxidation (anammox) in a pilot plant, J. Biotechnol.99 (2002) 295â€“306.10.1016/S0168-1656(02)00220-1   [25] Kim, J.H. Guo, X. Park, H.S. Comparison study of the effects of temperature and free ammonia concentration on nitrification and nitrite accumulation Process Biochem. 43: (2008) 154-160 10.1016/j.procbio.2007.11.005 J.H. Kim, X.Guo, H.S.Park, Comparison study of the effects of temperature and free ammonia concentration on nitrification and nitrite accumulation, Process Biochem.43 (2008) 154â€“160.10.1016/j.procbio.2007.11.005   [26] Villaverde, S. GarcÃ­a-Encina, P.A. Fdz-Polanco, F. Influence of pH over nitrifying biofilm activity in submerged biofilters Water Res. 31: (1997) 1180-1186 10.1016/S0043-1354(96)00376-4 S. Villaverde, P.A.GarcÃ­a-Encina, F.Fdz-Polanco, Influence of pH over nitrifying biofilm activity in submerged biofilters, Water Res.31 (1997) 1180â€“1186.10.1016/S0043-1354(96)00376-4   [27] Chung, J. Shim, H. Park, S.J. Kim, S.J. Bae, W. Optimization of free ammonia concentration for nitrite accumulation in shortcut biological nitrogen removal process Bioprocess. Biosyst. Eng. 28: (2006) 275-282 10.1007/s00449-005-0035-y J. Chung, H.Shim, S.J.Park, S.J.Kim, W.Bae, Optimization of free ammonia concentration for nitrite accumulation in shortcut biological nitrogen removal process, Bioprocess. Biosyst. Eng.28 (2006) 275â€“282.10.1007/s00449-005-0035-y   [28] Wu, C.Y. Peng, Y.Z. Wang, S.Y. Li, X.L. Wang, R.D. Effect of sludge retention time on nitrite accumulation in real-time control biological nitrogen removal sequencing batch reactor Chin. J. Chem. Eng. 19: (2011) 512-517 10.1016/S1004-9541(11)60014-1 C.Y. Wu, Y.Z.Peng, S.Y.Wang, X.L.Li, R.D.Wang, Effect of sludge retention time on nitrite accumulation in real-time control biological nitrogen removal sequencing batch reactor, Chin. J. Chem. Eng.19 (2011) 512â€“517.10.1016/S1004-9541(11)60014-1   [29] Guo, X. Kim, J.H. Behera, S.K. Park, H.S. Influence of dissolved oxygen concentration and aeration time on nitrite accumulation in partial nitrification process Int. J. Environ. Sci. Technol. 5: (2008) 527-534 10.1007/BF03326050 X. Guo, J.H.Kim, S.K.Behera, H.S.Park, Influence of dissolved oxygen concentration and aeration time on nitrite accumulation in partial nitrification process, Int. J. Environ. Sci. Technol.5 (2008) 527â€“534.10.1007/BF03326050   [30] Li, Q. Sun, S.F. Guo, T.F. Yang, C. Song, C.J. Geng, W.T. Zhang, W. Feng, J. Wang, S.F. Short-cut nitrification in biological aerated filters with modified zeolite and nitrifying sludge Bioresour. Technol. 136: (2013) 148-154 10.1016/j.biortech.2013.02.081 Q. Li, S.F.Sun, T.F.Guo, C.Yang, C.J.Song, W.T.Geng, W.Zhang, J.Feng, S.F.Wang, Short-cut nitrification in biological aerated filters with modified zeolite and nitrifying sludge, Bioresour. Technol.136 (2013) 148â€“154.10.1016/j.biortech.2013.02.081   [31] Li, J.Z. Meng, J. Zhao, B.W. Ai, B.L. Main influence factors for shortcut nitrification in a SBR treating anaerobic digested piggery wastewater J. Harbin Inst. Technol. 46: (2014) 682-688 J.Z. Li, J.Meng, B.W.Zhao, B.L.Ai, Main influence factors for shortcut nitrification in a SBR treating anaerobic digested piggery wastewater, J. Harbin Inst. Technol.46 (2014) 682â€“688.   [32] Wu, X. Zhao, X. Liu, Y.W. Bao, Z.Y. Kang, H. Niu, M.F. The effects of environmental factors on high strength ammonia wastewater treatment by shortcut nitrification processing Environ. Sci. Technol. 36: (2013) 5-9 X. Wu, X.Zhao, Y.W.Liu, Z.Y.Bao, H.Kang, M.F.Niu, The effects of environmental factors on high strength ammonia wastewater treatment by shortcut nitrification processing, Environ. Sci. Technol.36 (2013) 5â€“9.   [33] Fu, J.X. Han, J.Y. Qi, J.H. Song, Y.Y. Liu, Y. Bai, X. Study on the shortcut nitrification process under low DO and high pH condition in normal temperature, technology of water treatment Technol. Water Treat. 34: (2008) 19-22 J.X. Fu, J.Y.Han, J.H.Qi, Y.Y.Song, Y.Liu, X.Bai, Study on the shortcut nitrification process under low DO and high pH condition in normal temperature, technology of water treatment, Technol. Water Treat.34 (2008) 19â€“22.   [34] Washington DC, USA APHA (American Public Health Association), nineteenth ed. Standard Methods for the Examination of Water and Wastewater (2002) APHA (American Public Health Association), Standard Methods for the Examination of Water and Wastewater, (nineteenth ed.), Washington DC, USA, 2002.   [35] Guo, J.H. Peng, Y.Z. Wang, S.Y. Zheng, Y.N. Huang, H.J. Wang, Z.W. Long-term effect of dissolved oxygen on partial nitrification performance and microbial community structure Bioresour. Technol. 100: (2009) 2796-2802 10.1016/j.biortech.2008.12.036 J.H. Guo, Y.Z.Peng, S.Y.Wang, Y.N.Zheng, H.J.Huang, Z.W.Wang, Long-term effect of dissolved oxygen on partial nitrification performance and microbial community structure, Bioresour. Technol.100 (2009) 2796â€“2802.10.1016/j.biortech.2008.12.036   [36] Villaverde, S. GarcÃ­a-Encina, P.A. Fdz-Polanco, F. Influence of pH over nitrifying biofilm activity in submerged biofilters Water Res. 31: (1997) 1180-1186 10.1016/S0043-1354(96)00376-4 S. Villaverde, P.A.GarcÃ­a-Encina, F.Fdz-Polanco, Influence of pH over nitrifying biofilm activity in submerged biofilters, Water Res.31 (1997) 1180â€“1186.10.1016/S0043-1354(96)00376-4   [37] Yooa, H. Ahna, K.H. Leea, H.J. Leeb, K.H. Kwakb, Y.J. Song, K.G. Nitrogen removal from synthetic wastewater by simultaneous nitrification and denitrification (SND) via nitrite in an intermittently-aerated reactor Water Res. 33: (1999) 145-154 10.1016/S0043-1354(98)00159-6 H. Yooa, K.H.Ahna, H.J.Leea, K.H.Leeb, Y.J.Kwakb, K.G.Song, Nitrogen removal from synthetic wastewater by simultaneous nitrification and denitrification (SND) via nitrite in an intermittently-aerated reactor, Water Res.33 (1999) 145â€“154.10.1016/S0043-1354(98)00159-6   [38] Ciudada, G. Rubilara, O. MuÃ±oza, P. Ruizb, G. Chamyb, R. Vergaraa, C. Jeison, D. Partial nitrification of high ammonia concentration wastewater as a part of a shortcut biological nitrogen removal process Process Biochem. 40: (2005) 1715-1719 10.1016/j.procbio.2004.06.058 G. Ciudada, O.Rubilara, P.MuÃ±oza, G.Ruizb, R.Chamyb, C.Vergaraa, D.Jeison, Partial nitrification of high ammonia concentration wastewater as a part of a shortcut biological nitrogen removal process, Process Biochem.40 (2005) 1715â€“1719.10.1016/j.procbio.2004.06.058   [39] Kargi, F. Uygur, A. Effect of carbon source on biological nutrient removal in a sequencing batch reactor Bioresour. Technol. 89: (2003) 89-93 10.1016/S0960-8524(03)00031-2 F. Kargi, A.Uygur, Effect of carbon source on biological nutrient removal in a sequencing batch reactor, Bioresour. Technol.89 (2003) 89â€“93.10.1016/S0960-8524(03)00031-2   [40] Lee, J.K. Choi, C.K. Lee, K.H. Yim, S.B. Mass balance of nitrogen, and estimates of COD, nitrogen and phosphorus used in microbial synthesis as a function of sludge retention time in a sequencing batch reactor system Bioresour. Technol. 99: (2008) 7788-7796 10.1016/j.biortech.2008.01.057 J.K. Lee, C.K.Choi, K.H.Lee, S.B.Yim, Mass balance of nitrogen, and estimates of COD, nitrogen and phosphorus used in microbial synthesis as a function of sludge retention time in a sequencing batch reactor system, Bioresour. Technol.99 (2008) 7788â€“7796.10.1016/j.biortech.2008.01.057   [41] Ruiz, G. Jeison, D. Chamy, R. Nitrification with high nitrite accumulation for the treatment of wastewater with high ammonia concentration Water Res. 37: (2003) 1371-1377 10.1016/S0043-1354(02)00475-X G. Ruiz, D.Jeison, R.Chamy, Nitrification with high nitrite accumulation for the treatment of wastewater with high ammonia concentration, Water Res.37 (2003) 1371â€“1377.10.1016/S0043-1354(02)00475-X   [42] Khin, T. Annachhatre, A.P. Novel microbial nitrogen removal processes Biotechnol. Adv. 22: (2004) 519-532 10.1016/j.biotechadv.2004.04.003 T. Khin, A.P.Annachhatre, Novel microbial nitrogen removal processes, Biotechnol. Adv.22 (2004) 519â€“532.10.1016/j.biotechadv.2004.04.003   [43] Abeliovich, A. Vonshak, A.   Anaerobic metabolism of Nitrosomonas europaea Arch. Microbiol. 158: (1992) 267-270 10.1007/BF00245243 A. Abeliovich, A.Vonshak, Anaerobic metabolism of Nitrosomonas europaea, Arch. Microbiol.158 (1992) 267â€“270.10.1007/BF00245243   [44] Frison, N. Lampis, S. Bolzonella, D. Pavan, P. Fatone, F. Two-stage start-up to achieve the stable via-nitrite pathway in a demonstration sbr for anaerobic codigestate treatment Ind. Eng. Chem. Res. 51: (2012) 15423-15430 10.1021/ie3009742 N. Frison, S.Lampis, D.Bolzonella, P.Pavan, F.Fatone, Two-stage start-up to achieve the stable via-nitrite pathway in a demonstration sbr for anaerobic codigestate treatment, Ind. Eng. Chem. Res.51 (2012) 15423â€“15430.10.1021/ie3009742     o, Y.Z.Peng, S.Y.Wang, Y.N.Zheng, H.J.Huang, Z.W.Wang, Long-term effect of dissolved oxygen on partial nitrification performance and microbial community structure, Bioresour. Technol.100 (2009) 2796â€“2802.10.1016/j.biortech.2008.12.036   [36] Villaverde, S. GarcÃ­a-Encina, P.A. Fdz-Polanco, F. Influence of pH over nitrifying biofilm activity in submerged biofilters Water Res. 31: (1997) 1180-1186 10.1016/S0043-1354(96)00376-4 S. Villaverde, P.A.GarcÃ­a-Encina, F.Fdz-Polanco, Influence of pH over nitrifying biofilm activity in submerged biofilters, Water Res.31 (1997) 1180â€“1186.10.1016/S0043-1354(96)00376-4   [37] Yooa, H. Ahna, K.H. Leea, H.J. Leeb, K.H. Kwakb, Y.J. Song, K.G. Nitrogen removal from synthetic wastewater by simultaneous nitrification and denitrification (SND) via nitrite in an intermittently-aerated reactor Water Res. 33: (1999) 145-154 10.1016/S0043-1354(98)00159-6 H. Yooa, K.H.Ahna, H.J.Leea, K.H.Leeb, Y.J.Kwakb, K.G.Song, Nitrogen removal from synthetic wastewater by simultaneous nitrification and denitrification (SND) via nitrite in an intermittently-aerated reactor, Water Res.33 (1999) 145â€“154.10.1016/S0043-1354(98)00159-6   [38] Ciudada, G. Rubilara, O. MuÃ±oza, P. Ruizb, G. Chamyb, R. Vergaraa, C. Jeison, D. Partial nitrification of high ammonia concentration wastewater as a part of a shortcut biological nitrogen removal process Process Biochem. 40: (2005) 1715-1719 10.1016/j.procbio.2004.06.058 G. Ciudada, O.Rubilara, P.MuÃ±oza, G.Ruizb, R.Chamyb, C.Vergaraa, D.Jeison, Partial nitrification of high ammonia concentration wastewater as a part of a shortcut biological nitrogen removal process, Process Biochem.40 (2005) 1715â€“1719.10.1016/j.procbio.2004.06.058   [39] Kargi, F. Uygur, A. Effect of carbon source on biological nutrient removal in a sequencing batch reactor Bioresour. Technol. 89: (2003) 89-93 10.1016/S0960-8524(03)00031-2 F. Kargi, A.Uygur, Effect of carbon source on biological nutrient removal in a sequencing batch reactor, Bioresour. Technol.89 (2003) 89â€“93.10.1016/S0960-8524(03)00031-2   [40] Lee, J.K. Choi, C.K. Lee, K.H. Yim, S.B. Mass balance of nitrogen, and estimates of COD, nitrogen and phosphorus used in microbial synthesis as a function of sludge retention time in a sequencing batch reactor system Bioresour. Technol. 99: (2008) 7788-7796 10.1016/j.biortech.2008.01.057 J.K. Lee, C.K.Choi, K.H.Lee, S.B.Yim, Mass balance of nitrogen, and estimates of COD, nitrogen and phosphorus used in microbial synthesis as a function of sludge retention time in a sequencing batch reactor system, Bioresour. Technol.99 (2008) 7788â€“7796.10.1016/j.biortech.2008.01.057   [41] Ruiz, G. Jeison, D. Chamy, R. Nitrification with high nitrite accumulation for the treatment of wastewater with high ammonia concentration Water Res. 37: (2003) 1371-1377 10.1016/S0043-1354(02)00475-X G. Ruiz, D.Jeison, R.Chamy, Nitrification with high nitrite accumulation for the treatment of wastewater with high ammonia concentration, Water Res.37 (2003) 1371â€“1377.10.1016/S0043-1354(02)00475-X   [42] Khin, T. Annachhatre, A.P. Novel microbial nitrogen removal processes Biotechnol. Adv. 22: (2004) 519-532 10.1016/j.biotechadv.2004.04.003 T. Khin, A.P.Annachhatre, Novel microbial nitrogen removal processes, Biotechnol. Adv.22 (2004) 519â€“532.10.1016/j.biotechadv.2004.04.003   [43] Abeliovich, A. Vonshak, A.   Anaerobic metabolism of Nitrosomonas europaea Arch. Microbiol. 158: (1992) 267-270 10.1007/BF00245243 A. Abeliovich, A.Vonshak, Anaerobic metabolism of Nitrosomonas europaea, Arch. Microbiol.158 (1992) 267â€“270.10.1007/BF00245243   [44] Frison, N. Lampis, S. Bolzonella, D. Pavan, P. Fatone, F. Two-stage start-up to achieve the stable via-nitrite pathway in a demonstration sbr fo</xocs:rawtext><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.6" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>DWT</jid>
+            <aid>57370327</aid>
+            <ce:pii>S1944-3986(24)03099-6</ce:pii>
+            <ce:doi>10.1080/19443994.2015.1084483</ce:doi>
+            <ce:copyright type="full-transfer" year="2015">Elsevier Inc.</ce:copyright>
+            <ce:copyright-line>© 2015 Elsevier Inc.</ce:copyright-line>
+         </item-info>
+         <simple-head>
+            <ce:title id="ti0010">Influence of aeration rate on shortcut nitrification in an SBR treating anaerobic-digested piggery wastewater</ce:title>
+            <ce:author-group id="ag0010">
+               <ce:author id="au0010" author-id="S1944398624030996-44465aec887a66002c362ec194abb447">
+                  <ce:given-name>Jia</ce:given-name>
+                  <ce:surname>Meng</ce:surname>
+                  <ce:cross-ref refid="af0010" id="cf0050">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au0015" author-id="S1944398624030996-b288b792a739a0a661d1ff479391f803">
+                  <ce:given-name>Jianzheng</ce:given-name>
+                  <ce:surname>Li</ce:surname>
+                  <ce:cross-ref refid="af0010" id="cf0055">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au0020" author-id="S1944398624030996-2c89d657da908f5eeb8fa56f7c0ccc6f">
+                  <ce:given-name>Bowei</ce:given-name>
+                  <ce:surname>Zhao</ce:surname>
+                  <ce:cross-ref refid="af0010" id="cf0060">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au0025" author-id="S1944398624030996-88fb84f497d289879bc5773c4208d51e">
+                  <ce:given-name>Kaiwen</ce:given-name>
+                  <ce:surname>Deng</ce:surname>
+                  <ce:cross-ref refid="af0010" id="cf0065">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="af0010" affiliation-id="S1944398624030996-706affaa7f70df223935b8410d3e0f8d">
+                  <ce:label>a</ce:label>
+                  <ce:textfn id="tn0010">State Key Laboratory of Urban Water Resource and Environment, School of Municipal and Environmental Engineering, Harbin Institute of Technology, 73 Huanghe Road, Harbin, 150090, P.R. China, Tel. +86 451 86283761, Tel./Fax: +86 451 86283761, Tel. +86 451 86283761</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>State Key Laboratory of Urban Water Resource and Environment, School of Municipal and Environmental Engineering, Harbin Institute of Technology</sa:organization>
+                     <sa:address-line>73 Huanghe Road</sa:address-line>
+                     <sa:city>Harbin</sa:city>
+                     <sa:postal-code>150090</sa:postal-code>
+                     <sa:country>P.R. China</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="sot0010">State Key Laboratory of Urban Water Resource and Environment, School of Municipal and Environmental Engineering, Harbin Institute of Technology, 73 Huanghe Road, Harbin, 150090, P.R. China, Tel. +86 451 86283761, Tel./Fax: +86 451 86283761, Tel. +86 451 86283761</ce:source-text>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="2" month="12" year="2014"/>
+            <ce:date-accepted day="13" month="8" year="2015" role="suppressed"/>
+            <ce:abstract xml:lang="en" id="ab0010" view="all" class="author"><ce:abstract-sec id="as0010" view="all">
+                  <ce:simple-para id="sp0035" view="all">The aeration rate as an intrinsic factor influencing shortcut nitrification process while treating ammonium-rich anaerobic-digested piggery wastewater (ADPW) in a sequencing batch reactor (SBR) was investigated. Diluted ADPW with nitrogen loading rate (NLR) of 0.56 ± 0.12 kg/(m<ce:sup loc="post">3</ce:sup> d) was fed to start up the SBR at 0.1 L/min aeration rate. After 24 d of operation, the shortcut nitrification process was established, 71.1% ammonium was removed and a nitrite accumulation rate (NAR) of 96.8% was obtained. Ammonium removal decreased remarkably to 48.6% as raw undiluted ADPW with an NLR of 2.55 kg/(m<ce:sup loc="post">3</ce:sup> d) was fed to the system. Intriguingly, aeration rate was raised to 0.4 L/min in the latter feed and an enhanced ammonium removal of 68.9% was observed while NAR decreased to 94.4%.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords id="ks0010" view="all" class="keyword">
+               <ce:section-title id="st0015">Keywords</ce:section-title>
+               <ce:keyword id="kw0010">
+                  <ce:text id="tx0010">Piggery wastewater</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0015">
+                  <ce:text id="tx0015">Anaerobic digestion liquor</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0020">
+                  <ce:text id="tx0020">Sequencing batch reactor (SBR)</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0025">
+                  <ce:text id="tx0025">Shortcut nitrification</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </simple-head>
+         <simple-tail view="all">
+            <ce:further-reading id="fr0010" view="all">
+               <ce:section-title id="st0075">References</ce:section-title>
+               <ce:further-reading-sec id="fs0010" view="all">
+                  <ce:bib-reference id="bb0010">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="rf0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Tong</ce:surname>
+                                 <ce:given-name>L.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Li</ce:surname>
+                                 <ce:given-name>P.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Wang</ce:surname>
+                                 <ce:given-name>Y.X.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Zhu</ce:surname>
+                                 <ce:given-name>K.Z.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Analysis of veterinary antibiotic residues in swine wastewater and environmental water samples using optimized SPE-LC/MS/MS</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chemosphere</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>74</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1090</sb:first-page>
+                              <sb:last-page>1097</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1016/j.chemosphere.2008.10.051" id="ir0010" xlink:type="simple">10.1016/j.chemosphere.2008.10.051</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0015">L. Tong, P.Li, Y.X.Wang, K.Z.Zhu, Analysis of veterinary antibiotic residues in swine wastewater and environmental water samples using optimized SPE-LC/MS/MS, Chemosphere74 (2009) 1090–1097.10.1016/j.chemosphere.2008.10.051</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0015">
+                     <ce:label>[2]</ce:label>
+                     <ce:other-ref id="or0010">
+                        <ce:textref id="tr0010">National Bureau of Statistics of the People’s Republic of China , Statistical Bulletin for National Economic and Social Development in 2014 , Beijing, CNH26 February 2015.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0020">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="rf0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Yamamoto</ce:surname>
+                                 <ce:given-name>T.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Takaki</ce:surname>
+                                 <ce:given-name>K.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Koyama</ce:surname>
+                                 <ce:given-name>T.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Furukawa</ce:surname>
+                                 <ce:given-name>K.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Long-term stability of partial nitritation of swine wastewater digester liquor and its subsequent treatment by Anammox</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>99</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>6419</sb:first-page>
+                              <sb:last-page>6425</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1016/j.biortech.2007.11.052" id="ir0015" xlink:type="simple">10.1016/j.biortech.2007.11.052</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0020">T. Yamamoto, K.Takaki, T.Koyama, K.Furukawa, Long-term stability of partial nitritation of swine wastewater digester liquor and its subsequent treatment by Anammox, Bioresour. Technol.99 (2008) 6419–6425.10.1016/j.biortech.2007.11.052</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0025">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="rf0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Yang</ce:surname>
+                                 <ce:given-name>P.Y.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Chen</ce:surname>
+                                 <ce:given-name>H.J.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Kim</ce:surname>
+                                 <ce:given-name>S.J.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Integrating entrapped mixed microbial cell (EMMC) process for biological removal of carbon and nitrogen from dilute swine wastewater</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>86</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>245</sb:first-page>
+                              <sb:last-page>252</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1016/S0960-8524(02)00171-2" id="ir0020" xlink:type="simple">10.1016/S0960-8524(02)00171-2</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0025">P.Y. Yang, H.J.Chen, S.J.Kim, Integrating entrapped mixed microbial cell (EMMC) process for biological removal of carbon and nitrogen from dilute swine wastewater, Bioresour. Technol.86 (2003) 245–252.10.1016/S0960-8524(02)00171-2</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0030">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="rf0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Han</ce:surname>
+                                 <ce:given-name>Z.Y.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Wu</ce:surname>
+                                 <ce:given-name>W.X.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Chen</ce:surname>
+                                 <ce:given-name>Y.X.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Zhu</ce:surname>
+                                 <ce:given-name>J.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Characteristics of a twice-fed sequencing batch reactor treating swine wastewater under control of aeration intensity</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Environ. Sci. Health., Part A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>42</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>361</sb:first-page>
+                              <sb:last-page>370</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1080/10934520601144667" id="ir0025" xlink:type="simple">10.1080/10934520601144667</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0030">Z.Y. Han, W.X.Wu, Y.X.Chen, J.Zhu, Characteristics of a twice-fed sequencing batch reactor treating swine wastewater under control of aeration intensity, J. Environ. Sci. Health., Part A42 (2007) 361–370.10.1080/10934520601144667</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0035">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="rf0030">
+                        <sb:comment>Beijing, CHN</sb:comment>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>MEPPRC (Ministry Environmental Protection of People’s of China)</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Discharge Standard of Pollutants for Livestock and Poultry Breeding</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>2001</sb:date>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0035">MEPPRC (Ministry Environmental Protection of People’s of China), Discharge Standard of Pollutants for Livestock and Poultry Breeding, Beijing, CHN, 2001.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0040">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="rf0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Wang</ce:surname>
+                                 <ce:given-name>L.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Guo</ce:surname>
+                                 <ce:given-name>Z.Y.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The biological fermentation bed raises pigs technical the application present situation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Livestock Poult. Ind.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>03</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>8</sb:first-page>
+                              <sb:last-page>10</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0040">L. Wang, Z.Y.Guo, The biological fermentation bed raises pigs technical the application present situation, Livestock Poult. Ind.03 (2009) 8–10.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0045">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="rf0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Poach</ce:surname>
+                                 <ce:given-name>M.E.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Hunt</ce:surname>
+                                 <ce:given-name>P.G.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Reddy</ce:surname>
+                                 <ce:given-name>G.B.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Stone</ce:surname>
+                                 <ce:given-name>K.C.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Matheny</ce:surname>
+                                 <ce:given-name>T.A.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Johnson</ce:surname>
+                                 <ce:given-name>M.H.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Sadler</ce:surname>
+                                 <ce:given-name>E.J.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Ammonia volatilization from marsh–pond–marsh constructed wetlands treating swine wastewater</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Environ. Qual.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>33</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>844</sb:first-page>
+                              <sb:last-page>851</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.2134/jeq2004.0844" id="ir0030" xlink:type="simple">10.2134/jeq2004.0844</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0045">M.E. Poach, P.G.Hunt, G.B.Reddy, K.C.Stone, T.A.Matheny, M.H.Johnson, E.J.Sadler, Ammonia volatilization from marsh–pond–marsh constructed wetlands treating swine wastewater, J. Environ. Qual.33 (2004) 844–851.10.2134/jeq2004.0844</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0050">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="rf0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Cheng</ce:surname>
+                                 <ce:given-name>J.Y.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Liu</ce:surname>
+                                 <ce:given-name>B.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nitrification/denitrification in intermittent aeration process for swine wastewater treatment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Environ. Eng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>127</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>705</sb:first-page>
+                              <sb:last-page>711</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1061/(ASCE)0733-9372(2001)127:8(705)" id="ir0035" xlink:type="simple">10.1061/(ASCE)0733-9372(2001)127:8(705)</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0050">J.Y. Cheng, B.Liu, Nitrification/denitrification in intermittent aeration process for swine wastewater treatment, J. Environ. Eng.127 (2001) 705–711.10.1061/(ASCE)0733-9372(2001)127:8(705)</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0055">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="rf0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Cheng</ce:surname>
+                                 <ce:given-name>N.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Lo</ce:surname>
+                                 <ce:given-name>K.V.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Yip</ce:surname>
+                                 <ce:given-name>K.H.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Swine wastewater treatment in a two stage sequencing batch reactor using real-time control</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Environ. Sci. Health., Part B</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>379</sb:first-page>
+                              <sb:last-page>398</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1080/03601230009373277" id="ir0040" xlink:type="simple">10.1080/03601230009373277</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0055">N. Cheng, K.V.Lo, K.H.Yip, Swine wastewater treatment in a two stage sequencing batch reactor using real-time control, J. Environ. Sci. Health., Part B35 (2000) 379–398.10.1080/03601230009373277</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0060">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="rf0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Zhao</ce:surname>
+                                 <ce:given-name>B.W.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Li</ce:surname>
+                                 <ce:given-name>J.Z.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Leu</ce:surname>
+                                 <ce:given-name>S.Y.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>An innovative wood-chip-framework soil infiltrator for treating anaerobic digested swine wastewater and analysis of the microbial community</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>173</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>384</sb:first-page>
+                              <sb:last-page>391</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1016/j.biortech.2014.09.135" id="ir0045" xlink:type="simple">10.1016/j.biortech.2014.09.135</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0060">B.W. Zhao, J.Z.Li, S.Y.Leu, An innovative wood-chip-framework soil infiltrator for treating anaerobic digested swine wastewater and analysis of the microbial community, Bioresour. Technol.173 (2014) 384–391.10.1016/j.biortech.2014.09.135</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0065">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="rf0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Cakir</ce:surname>
+                                 <ce:given-name>F.Y.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Stenstrom</ce:surname>
+                                 <ce:given-name>M.K.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Greenhouse gas production: A comparison between aerobic and anaerobic wastewater treatment technology</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>4197</sb:first-page>
+                              <sb:last-page>4203</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1016/j.watres.2005.07.042" id="ir0050" xlink:type="simple">10.1016/j.watres.2005.07.042</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0065">F.Y. Cakir, M.K.Stenstrom, Greenhouse gas production: A comparison between aerobic and anaerobic wastewater treatment technology, Water Res.39 (2005) 4197–4203.10.1016/j.watres.2005.07.042</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0070">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="rf0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Lettinga</ce:surname>
+                                 <ce:given-name>G.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Anaerobic digestion and wastewater treatment systems</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Antonie van Leeuwenhoek</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>67</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1995</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3</sb:first-page>
+                              <sb:last-page>28</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1007/BF00872193" id="ir0055" xlink:type="simple">10.1007/BF00872193</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0070">G. Lettinga, Anaerobic digestion and wastewater treatment systems, Antonie van Leeuwenhoek67 (1995) 3–28.10.1007/BF00872193</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0075">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="rf0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Obaja</ce:surname>
+                                 <ce:given-name>D.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Macé</ce:surname>
+                                 <ce:given-name>S.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Mata-Alvarez</ce:surname>
+                                 <ce:given-name>J.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Biological nutrient removal by a sequencing batch reactor (SBR) using an internal organic carbon source in digested piggery wastewater</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>96</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7</sb:first-page>
+                              <sb:last-page>14</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1016/j.biortech.2004.03.002" id="ir0060" xlink:type="simple">10.1016/j.biortech.2004.03.002</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0075">D. Obaja, S.Macé, J.Mata-Alvarez, Biological nutrient removal by a sequencing batch reactor (SBR) using an internal organic carbon source in digested piggery wastewater, Bioresour. Technol.96 (2005) 7–14.10.1016/j.biortech.2004.03.002</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0080">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="rf0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Obaja</ce:surname>
+                                 <ce:given-name>D.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Macé</ce:surname>
+                                 <ce:given-name>S.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Costa</ce:surname>
+                                 <ce:given-name>J.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Sans</ce:surname>
+                                 <ce:given-name>C.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Mata-Alvarez</ce:surname>
+                                 <ce:given-name>J.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nitrification, denitrification and biological phosphorus removal in piggery wastewater using a sequencing batch reactor</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>87</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>103</sb:first-page>
+                              <sb:last-page>111</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1016/S0960-8524(02)00229-8" id="ir0065" xlink:type="simple">10.1016/S0960-8524(02)00229-8</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0080">D. Obaja, S.Macé, J.Costa, C.Sans, J.Mata-Alvarez, Nitrification, denitrification and biological phosphorus removal in piggery wastewater using a sequencing batch reactor, Bioresour. Technol.87 (2003) 103–111.10.1016/S0960-8524(02)00229-8</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0085">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="rf0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Urbinati</ce:surname>
+                                 <ce:given-name>E.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Oliveira</ce:surname>
+                                 <ce:given-name>R.A.D.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Anaerobic-aerobic treatment of swine wastewater in uasb and batch reactors in series</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Engenharia Agrícola</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>34</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>124</sb:first-page>
+                              <sb:last-page>142</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1590/S0100-69162014000100014" id="ir0070" xlink:type="simple">10.1590/S0100-69162014000100014</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0085">E. Urbinati, R.A.D.Oliveira, Anaerobic-aerobic treatment of swine wastewater in uasb and batch reactors in series, Engenharia Agrícola34 (2014) 124–142.10.1590/S0100-69162014000100014</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0090">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="rf0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Prakasam</ce:surname>
+                                 <ce:given-name>T.B.S.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Loehr</ce:surname>
+                                 <ce:given-name>R.C.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Microbial nitrification and denitrification in concentrated wastes</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1972</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>859</sb:first-page>
+                              <sb:last-page>869</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1016/0043-1354(72)90038-3" id="ir0075" xlink:type="simple">10.1016/0043-1354(72)90038-3</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0090">T.B.S. Prakasam, R.C.Loehr, Microbial nitrification and denitrification in concentrated wastes, Water Res.6 (1972) 859–869.10.1016/0043-1354(72)90038-3</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0095">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="rf0090">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Gao</ce:surname>
+                                 <ce:given-name>D.W.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Peng</ce:surname>
+                                 <ce:given-name>Y.Z.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Wu</ce:surname>
+                                 <ce:given-name>W.M.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Kinetic model for biological nitrogen removal using shortcut nitrification-denitrification process in sequencing batch reactor</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Environ. Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>44</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5015</sb:first-page>
+                              <sb:last-page>5021</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1021/es100514x" id="ir0080" xlink:type="simple">10.1021/es100514x</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0095">D.W. Gao, Y.Z.Peng, W.M.Wu, Kinetic model for biological nitrogen removal using shortcut nitrification-denitrification process in sequencing batch reactor, Environ. Sci. Technol.44 (2010) 5015–5021.10.1021/es100514x</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0100">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="rf0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Peng</ce:surname>
+                                 <ce:given-name>Y.Z.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Zhu</ce:surname>
+                                 <ce:given-name>G.B.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Biological nitrogen removal with nitrification and denitrification via nitrite pathway</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. Microbiol. Biotechnol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>73</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>15</sb:first-page>
+                              <sb:last-page>26</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1007/s00253-006-0534-z" id="ir0085" xlink:type="simple">10.1007/s00253-006-0534-z</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0100">Y.Z. Peng, G.B.Zhu, Biological nitrogen removal with nitrification and denitrification via nitrite pathway, Appl. Microbiol. Biotechnol.73 (2006) 15–26.10.1007/s00253-006-0534-z</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0105">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="rf0100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Chung</ce:surname>
+                                 <ce:given-name>J.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Bae</ce:surname>
+                                 <ce:given-name>W.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Lee</ce:surname>
+                                 <ce:given-name>Y.W.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Rittmann</ce:surname>
+                                 <ce:given-name>B.E.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Shortcut biological nitrogen removal in hybrid biofilm/suspended growth reactors</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Process Biochem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>42</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>320</sb:first-page>
+                              <sb:last-page>328</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1016/j.procbio.2006.09.002" id="ir0090" xlink:type="simple">10.1016/j.procbio.2006.09.002</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0105">J. Chung, W.Bae, Y.W.Lee, B.E.Rittmann, Shortcut biological nitrogen removal in hybrid biofilm/suspended growth reactors, Process Biochem.42 (2007) 320–328.10.1016/j.procbio.2006.09.002</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0110">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="rf0105">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Gao</ce:surname>
+                                 <ce:given-name>D.W.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Peng</ce:surname>
+                                 <ce:given-name>Y.Z.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Liang</ce:surname>
+                                 <ce:given-name>H.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Wang</ce:surname>
+                                 <ce:given-name>P.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Using oxidation–reduction potential (ORP) and pH value for process control of shortcut nitrification–denitrification</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Environ. Sci. Health., Part A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>38</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2933</sb:first-page>
+                              <sb:last-page>2942</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1081/ESE-120025842" id="ir0095" xlink:type="simple">10.1081/ESE-120025842</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0110">D.W. Gao, Y.Z.Peng, H.Liang, P.Wang, Using oxidation–reduction potential (ORP) and pH value for process control of shortcut nitrification–denitrification, J. Environ. Sci. Health., Part A38 (2003) 2933–2942.10.1081/ESE-120025842</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0115">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="rf0110">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Pollice</ce:surname>
+                                 <ce:given-name>A.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Tandoi</ce:surname>
+                                 <ce:given-name>V.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Lestingi</ce:surname>
+                                 <ce:given-name>C.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Influence of aeration and sludge retention time on ammonium oxidation to nitrite and nitrate</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>36</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2541</sb:first-page>
+                              <sb:last-page>2546</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1016/S0043-1354(01)00468-7" id="ir0100" xlink:type="simple">10.1016/S0043-1354(01)00468-7</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0115">A. Pollice, V.Tandoi, C.Lestingi, Influence of aeration and sludge retention time on ammonium oxidation to nitrite and nitrate, Water Res.36 (2002) 2541–2546.10.1016/S0043-1354(01)00468-7</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0120">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="rf0115">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Guo</ce:surname>
+                                 <ce:given-name>J.H.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Peng</ce:surname>
+                                 <ce:given-name>Y.Z.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Huang</ce:surname>
+                                 <ce:given-name>H.J.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Wang</ce:surname>
+                                 <ce:given-name>S.Y.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Ge</ce:surname>
+                                 <ce:given-name>S.J.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Zhang</ce:surname>
+                                 <ce:given-name>J.R.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Wang</ce:surname>
+                                 <ce:given-name>Z.W.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Short-and long-term effects of temperature on partial nitrification in a sequencing batch reactor treating domestic wastewater</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Hazard. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>179</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>471</sb:first-page>
+                              <sb:last-page>479</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1016/j.jhazmat.2010.03.027" id="ir0105" xlink:type="simple">10.1016/j.jhazmat.2010.03.027</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0120">J.H. Guo, Y.Z.Peng, H.J.Huang, S.Y.Wang, S.J.Ge, J.R.Zhang, Z.W.Wang, Short-and long-term effects of temperature on partial nitrification in a sequencing batch reactor treating domestic wastewater, J. Hazard. Mater.179 (2010) 471–479.10.1016/j.jhazmat.2010.03.027</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0125">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="rf0120">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Fux</ce:surname>
+                                 <ce:given-name>C.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Boehler</ce:surname>
+                                 <ce:given-name>M.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Huber</ce:surname>
+                                 <ce:given-name>P.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Brunner</ce:surname>
+                                 <ce:given-name>I.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Siegrist</ce:surname>
+                                 <ce:given-name>H.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Biological treatment of ammonium-rich wastewater by partial nitritation and subsequent anaerobic ammonium oxidation (anammox) in a pilot plant</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Biotechnol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>99</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>295</sb:first-page>
+                              <sb:last-page>306</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1016/S0168-1656(02)00220-1" id="ir0110" xlink:type="simple">10.1016/S0168-1656(02)00220-1</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0125">C. Fux, M.Boehler, P.Huber, I.Brunner, H.Siegrist, Biological treatment of ammonium-rich wastewater by partial nitritation and subsequent anaerobic ammonium oxidation (anammox) in a pilot plant, J. Biotechnol.99 (2002) 295–306.10.1016/S0168-1656(02)00220-1</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0130">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="rf0125">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Kim</ce:surname>
+                                 <ce:given-name>J.H.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Guo</ce:surname>
+                                 <ce:given-name>X.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Park</ce:surname>
+                                 <ce:given-name>H.S.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Comparison study of the effects of temperature and free ammonia concentration on nitrification and nitrite accumulation</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Process Biochem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>43</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>154</sb:first-page>
+                              <sb:last-page>160</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1016/j.procbio.2007.11.005" id="ir0115" xlink:type="simple">10.1016/j.procbio.2007.11.005</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0130">J.H. Kim, X.Guo, H.S.Park, Comparison study of the effects of temperature and free ammonia concentration on nitrification and nitrite accumulation, Process Biochem.43 (2008) 154–160.10.1016/j.procbio.2007.11.005</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0135">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="rf0130">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Villaverde</ce:surname>
+                                 <ce:given-name>S.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>García-Encina</ce:surname>
+                                 <ce:given-name>P.A.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Fdz-Polanco</ce:surname>
+                                 <ce:given-name>F.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Influence of pH over nitrifying biofilm activity in submerged biofilters</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>31</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1180</sb:first-page>
+                              <sb:last-page>1186</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1016/S0043-1354(96)00376-4" id="ir0120" xlink:type="simple">10.1016/S0043-1354(96)00376-4</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0135">S. Villaverde, P.A.García-Encina, F.Fdz-Polanco, Influence of pH over nitrifying biofilm activity in submerged biofilters, Water Res.31 (1997) 1180–1186.10.1016/S0043-1354(96)00376-4</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0140">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference id="rf0135">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Chung</ce:surname>
+                                 <ce:given-name>J.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Shim</ce:surname>
+                                 <ce:given-name>H.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Park</ce:surname>
+                                 <ce:given-name>S.J.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Kim</ce:surname>
+                                 <ce:given-name>S.J.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Bae</ce:surname>
+                                 <ce:given-name>W.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Optimization of free ammonia concentration for nitrite accumulation in shortcut biological nitrogen removal process</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioprocess. Biosyst. Eng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>28</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>275</sb:first-page>
+                              <sb:last-page>282</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1007/s00449-005-0035-y" id="ir0125" xlink:type="simple">10.1007/s00449-005-0035-y</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0140">J. Chung, H.Shim, S.J.Park, S.J.Kim, W.Bae, Optimization of free ammonia concentration for nitrite accumulation in shortcut biological nitrogen removal process, Bioprocess. Biosyst. Eng.28 (2006) 275–282.10.1007/s00449-005-0035-y</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0145">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference id="rf0140">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Wu</ce:surname>
+                                 <ce:given-name>C.Y.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Peng</ce:surname>
+                                 <ce:given-name>Y.Z.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Wang</ce:surname>
+                                 <ce:given-name>S.Y.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Li</ce:surname>
+                                 <ce:given-name>X.L.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Wang</ce:surname>
+                                 <ce:given-name>R.D.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of sludge retention time on nitrite accumulation in real-time control biological nitrogen removal sequencing batch reactor</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Chin. J. Chem. Eng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>19</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>512</sb:first-page>
+                              <sb:last-page>517</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1016/S1004-9541(11)60014-1" id="ir0130" xlink:type="simple">10.1016/S1004-9541(11)60014-1</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0145">C.Y. Wu, Y.Z.Peng, S.Y.Wang, X.L.Li, R.D.Wang, Effect of sludge retention time on nitrite accumulation in real-time control biological nitrogen removal sequencing batch reactor, Chin. J. Chem. Eng.19 (2011) 512–517.10.1016/S1004-9541(11)60014-1</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0150">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference id="rf0145">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Guo</ce:surname>
+                                 <ce:given-name>X.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Kim</ce:surname>
+                                 <ce:given-name>J.H.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Behera</ce:surname>
+                                 <ce:given-name>S.K.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Park</ce:surname>
+                                 <ce:given-name>H.S.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Influence of dissolved oxygen concentration and aeration time on nitrite accumulation in partial nitrification process</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Environ. Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>527</sb:first-page>
+                              <sb:last-page>534</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1007/BF03326050" id="ir0135" xlink:type="simple">10.1007/BF03326050</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0150">X. Guo, J.H.Kim, S.K.Behera, H.S.Park, Influence of dissolved oxygen concentration and aeration time on nitrite accumulation in partial nitrification process, Int. J. Environ. Sci. Technol.5 (2008) 527–534.10.1007/BF03326050</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0155">
+                     <ce:label>[30]</ce:label>
+                     <sb:reference id="rf0150">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Li</ce:surname>
+                                 <ce:given-name>Q.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Sun</ce:surname>
+                                 <ce:given-name>S.F.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Guo</ce:surname>
+                                 <ce:given-name>T.F.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Yang</ce:surname>
+                                 <ce:given-name>C.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Song</ce:surname>
+                                 <ce:given-name>C.J.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Geng</ce:surname>
+                                 <ce:given-name>W.T.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Zhang</ce:surname>
+                                 <ce:given-name>W.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Feng</ce:surname>
+                                 <ce:given-name>J.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Wang</ce:surname>
+                                 <ce:given-name>S.F.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Short-cut nitrification in biological aerated filters with modified zeolite and nitrifying sludge</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>136</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>148</sb:first-page>
+                              <sb:last-page>154</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1016/j.biortech.2013.02.081" id="ir0140" xlink:type="simple">10.1016/j.biortech.2013.02.081</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0155">Q. Li, S.F.Sun, T.F.Guo, C.Yang, C.J.Song, W.T.Geng, W.Zhang, J.Feng, S.F.Wang, Short-cut nitrification in biological aerated filters with modified zeolite and nitrifying sludge, Bioresour. Technol.136 (2013) 148–154.10.1016/j.biortech.2013.02.081</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0160">
+                     <ce:label>[31]</ce:label>
+                     <sb:reference id="rf0155">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Li</ce:surname>
+                                 <ce:given-name>J.Z.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Meng</ce:surname>
+                                 <ce:given-name>J.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Zhao</ce:surname>
+                                 <ce:given-name>B.W.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Ai</ce:surname>
+                                 <ce:given-name>B.L.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Main influence factors for shortcut nitrification in a SBR treating anaerobic digested piggery wastewater</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Harbin Inst. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>46</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>682</sb:first-page>
+                              <sb:last-page>688</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0160">J.Z. Li, J.Meng, B.W.Zhao, B.L.Ai, Main influence factors for shortcut nitrification in a SBR treating anaerobic digested piggery wastewater, J. Harbin Inst. Technol.46 (2014) 682–688.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0165">
+                     <ce:label>[32]</ce:label>
+                     <sb:reference id="rf0160">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Wu</ce:surname>
+                                 <ce:given-name>X.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Zhao</ce:surname>
+                                 <ce:given-name>X.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Liu</ce:surname>
+                                 <ce:given-name>Y.W.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Bao</ce:surname>
+                                 <ce:given-name>Z.Y.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Kang</ce:surname>
+                                 <ce:given-name>H.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Niu</ce:surname>
+                                 <ce:given-name>M.F.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The effects of environmental factors on high strength ammonia wastewater treatment by shortcut nitrification processing</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Environ. Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>36</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>5</sb:first-page>
+                              <sb:last-page>9</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0165">X. Wu, X.Zhao, Y.W.Liu, Z.Y.Bao, H.Kang, M.F.Niu, The effects of environmental factors on high strength ammonia wastewater treatment by shortcut nitrification processing, Environ. Sci. Technol.36 (2013) 5–9.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0170">
+                     <ce:label>[33]</ce:label>
+                     <sb:reference id="rf0165">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Fu</ce:surname>
+                                 <ce:given-name>J.X.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Han</ce:surname>
+                                 <ce:given-name>J.Y.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Qi</ce:surname>
+                                 <ce:given-name>J.H.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Song</ce:surname>
+                                 <ce:given-name>Y.Y.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Liu</ce:surname>
+                                 <ce:given-name>Y.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Bai</ce:surname>
+                                 <ce:given-name>X.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Study on the shortcut nitrification process under low DO and high pH condition in normal temperature, technology of water treatment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Technol. Water Treat.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>34</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>19</sb:first-page>
+                              <sb:last-page>22</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0170">J.X. Fu, J.Y.Han, J.H.Qi, Y.Y.Song, Y.Liu, X.Bai, Study on the shortcut nitrification process under low DO and high pH condition in normal temperature, technology of water treatment, Technol. Water Treat.34 (2008) 19–22.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0175">
+                     <ce:label>[34]</ce:label>
+                     <sb:reference id="rf0170">
+                        <sb:comment>Washington DC, USA</sb:comment>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>APHA (American Public Health Association)</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:edition>nineteenth ed.</sb:edition>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Standard Methods for the Examination of Water and Wastewater</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>2002</sb:date>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0175">APHA (American Public Health Association), Standard Methods for the Examination of Water and Wastewater, (nineteenth ed.), Washington DC, USA, 2002.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0180">
+                     <ce:label>[35]</ce:label>
+                     <sb:reference id="rf0175">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Guo</ce:surname>
+                                 <ce:given-name>J.H.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Peng</ce:surname>
+                                 <ce:given-name>Y.Z.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Wang</ce:surname>
+                                 <ce:given-name>S.Y.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Zheng</ce:surname>
+                                 <ce:given-name>Y.N.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Huang</ce:surname>
+                                 <ce:given-name>H.J.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Wang</ce:surname>
+                                 <ce:given-name>Z.W.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Long-term effect of dissolved oxygen on partial nitrification performance and microbial community structure</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>100</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2796</sb:first-page>
+                              <sb:last-page>2802</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1016/j.biortech.2008.12.036" id="ir0145" xlink:type="simple">10.1016/j.biortech.2008.12.036</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0180">J.H. Guo, Y.Z.Peng, S.Y.Wang, Y.N.Zheng, H.J.Huang, Z.W.Wang, Long-term effect of dissolved oxygen on partial nitrification performance and microbial community structure, Bioresour. Technol.100 (2009) 2796–2802.10.1016/j.biortech.2008.12.036</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0185">
+                     <ce:label>[36]</ce:label>
+                     <sb:reference id="rf0180">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Villaverde</ce:surname>
+                                 <ce:given-name>S.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>García-Encina</ce:surname>
+                                 <ce:given-name>P.A.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Fdz-Polanco</ce:surname>
+                                 <ce:given-name>F.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Influence of pH over nitrifying biofilm activity in submerged biofilters</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>31</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1180</sb:first-page>
+                              <sb:last-page>1186</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1016/S0043-1354(96)00376-4" id="ir0150" xlink:type="simple">10.1016/S0043-1354(96)00376-4</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0185">S. Villaverde, P.A.García-Encina, F.Fdz-Polanco, Influence of pH over nitrifying biofilm activity in submerged biofilters, Water Res.31 (1997) 1180–1186.10.1016/S0043-1354(96)00376-4</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0190">
+                     <ce:label>[37]</ce:label>
+                     <sb:reference id="rf0185">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Yooa</ce:surname>
+                                 <ce:given-name>H.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Ahna</ce:surname>
+                                 <ce:given-name>K.H.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Leea</ce:surname>
+                                 <ce:given-name>H.J.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Leeb</ce:surname>
+                                 <ce:given-name>K.H.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Kwakb</ce:surname>
+                                 <ce:given-name>Y.J.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Song</ce:surname>
+                                 <ce:given-name>K.G.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nitrogen removal from synthetic wastewater by simultaneous nitrification and denitrification (SND) via nitrite in an intermittently-aerated reactor</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>33</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>145</sb:first-page>
+                              <sb:last-page>154</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1016/S0043-1354(98)00159-6" id="ir0155" xlink:type="simple">10.1016/S0043-1354(98)00159-6</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0190">H. Yooa, K.H.Ahna, H.J.Leea, K.H.Leeb, Y.J.Kwakb, K.G.Song, Nitrogen removal from synthetic wastewater by simultaneous nitrification and denitrification (SND) via nitrite in an intermittently-aerated reactor, Water Res.33 (1999) 145–154.10.1016/S0043-1354(98)00159-6</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0195">
+                     <ce:label>[38]</ce:label>
+                     <sb:reference id="rf0190">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Ciudada</ce:surname>
+                                 <ce:given-name>G.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Rubilara</ce:surname>
+                                 <ce:given-name>O.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Muñoza</ce:surname>
+                                 <ce:given-name>P.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Ruizb</ce:surname>
+                                 <ce:given-name>G.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Chamyb</ce:surname>
+                                 <ce:given-name>R.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Vergaraa</ce:surname>
+                                 <ce:given-name>C.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Jeison</ce:surname>
+                                 <ce:given-name>D.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Partial nitrification of high ammonia concentration wastewater as a part of a shortcut biological nitrogen removal process</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Process Biochem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>40</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1715</sb:first-page>
+                              <sb:last-page>1719</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1016/j.procbio.2004.06.058" id="ir0160" xlink:type="simple">10.1016/j.procbio.2004.06.058</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0195">G. Ciudada, O.Rubilara, P.Muñoza, G.Ruizb, R.Chamyb, C.Vergaraa, D.Jeison, Partial nitrification of high ammonia concentration wastewater as a part of a shortcut biological nitrogen removal process, Process Biochem.40 (2005) 1715–1719.10.1016/j.procbio.2004.06.058</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0200">
+                     <ce:label>[39]</ce:label>
+                     <sb:reference id="rf0195">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Kargi</ce:surname>
+                                 <ce:given-name>F.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Uygur</ce:surname>
+                                 <ce:given-name>A.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of carbon source on biological nutrient removal in a sequencing batch reactor</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>89</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>89</sb:first-page>
+                              <sb:last-page>93</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1016/S0960-8524(03)00031-2" id="ir0165" xlink:type="simple">10.1016/S0960-8524(03)00031-2</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0200">F. Kargi, A.Uygur, Effect of carbon source on biological nutrient removal in a sequencing batch reactor, Bioresour. Technol.89 (2003) 89–93.10.1016/S0960-8524(03)00031-2</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0205">
+                     <ce:label>[40]</ce:label>
+                     <sb:reference id="rf0200">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Lee</ce:surname>
+                                 <ce:given-name>J.K.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Choi</ce:surname>
+                                 <ce:given-name>C.K.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Lee</ce:surname>
+                                 <ce:given-name>K.H.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Yim</ce:surname>
+                                 <ce:given-name>S.B.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Mass balance of nitrogen, and estimates of COD, nitrogen and phosphorus used in microbial synthesis as a function of sludge retention time in a sequencing batch reactor system</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>99</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7788</sb:first-page>
+                              <sb:last-page>7796</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1016/j.biortech.2008.01.057" id="ir0170" xlink:type="simple">10.1016/j.biortech.2008.01.057</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0205">J.K. Lee, C.K.Choi, K.H.Lee, S.B.Yim, Mass balance of nitrogen, and estimates of COD, nitrogen and phosphorus used in microbial synthesis as a function of sludge retention time in a sequencing batch reactor system, Bioresour. Technol.99 (2008) 7788–7796.10.1016/j.biortech.2008.01.057</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0210">
+                     <ce:label>[41]</ce:label>
+                     <sb:reference id="rf0205">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Ruiz</ce:surname>
+                                 <ce:given-name>G.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Jeison</ce:surname>
+                                 <ce:given-name>D.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Chamy</ce:surname>
+                                 <ce:given-name>R.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Nitrification with high nitrite accumulation for the treatment of wastewater with high ammonia concentration</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1371</sb:first-page>
+                              <sb:last-page>1377</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1016/S0043-1354(02)00475-X" id="ir0175" xlink:type="simple">10.1016/S0043-1354(02)00475-X</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0210">G. Ruiz, D.Jeison, R.Chamy, Nitrification with high nitrite accumulation for the treatment of wastewater with high ammonia concentration, Water Res.37 (2003) 1371–1377.10.1016/S0043-1354(02)00475-X</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0215">
+                     <ce:label>[42]</ce:label>
+                     <sb:reference id="rf0210">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Khin</ce:surname>
+                                 <ce:given-name>T.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Annachhatre</ce:surname>
+                                 <ce:given-name>A.P.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Novel microbial nitrogen removal processes</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biotechnol. Adv.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>22</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>519</sb:first-page>
+                              <sb:last-page>532</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1016/j.biotechadv.2004.04.003" id="ir0180" xlink:type="simple">10.1016/j.biotechadv.2004.04.003</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0215">T. Khin, A.P.Annachhatre, Novel microbial nitrogen removal processes, Biotechnol. Adv.22 (2004) 519–532.10.1016/j.biotechadv.2004.04.003</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0220">
+                     <ce:label>[43]</ce:label>
+                     <sb:reference id="rf0215">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Abeliovich</ce:surname>
+                                 <ce:given-name>A.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Vonshak</ce:surname>
+                                 <ce:given-name>A.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Anaerobic metabolism of <ce:italic>Nitrosomonas europaea</ce:italic>
+                              </sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Arch. Microbiol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>158</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1992</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>267</sb:first-page>
+                              <sb:last-page>270</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1007/BF00245243" id="ir0185" xlink:type="simple">10.1007/BF00245243</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0220">A. Abeliovich, A.Vonshak, Anaerobic metabolism of Nitrosomonas europaea, Arch. Microbiol.158 (1992) 267–270.10.1007/BF00245243</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0225">
+                     <ce:label>[44]</ce:label>
+                     <sb:reference id="rf0220">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Frison</ce:surname>
+                                 <ce:given-name>N.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Lampis</ce:surname>
+                                 <ce:given-name>S.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Bolzonella</ce:surname>
+                                 <ce:given-name>D.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Pavan</ce:surname>
+                                 <ce:given-name>P.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Fatone</ce:surname>
+                                 <ce:given-name>F.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Two-stage start-up to achieve the stable via-nitrite pathway in a demonstration sbr for anaerobic codigestate treatment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Ind. Eng. Chem. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>51</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>15423</sb:first-page>
+                              <sb:last-page>15430</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1021/ie3009742" id="ir0190" xlink:type="simple">10.1021/ie3009742</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0225">N. Frison, S.Lampis, D.Bolzonella, P.Pavan, F.Fatone, Two-stage start-up to achieve the stable via-nitrite pathway in a demonstration sbr for anaerobic codigestate treatment, Ind. Eng. Chem. Res.51 (2012) 15423–15430.10.1021/ie3009742</ce:source-text>
+                  </ce:bib-reference>
+               </ce:further-reading-sec>
+            </ce:further-reading>
+         </simple-tail>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

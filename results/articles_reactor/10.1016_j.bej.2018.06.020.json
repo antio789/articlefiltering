@@ -1,0 +1,45 @@
+{
+  "manual_review": [
+    [
+      "10.1016_j.bej.2018.06.020",
+      "two stage"
+    ]
+  ],
+  "llm_review": [
+    [
+      "10.1016_j.bej.2018.06.020",
+      "fixed bed"
+    ],
+    [
+      "10.1016_j.bej.2018.06.020",
+      "biofilm derivative"
+    ],
+    [
+      "10.1016_j.bej.2018.06.020",
+      "two stage"
+    ]
+  ],
+  "correct_predictions": 1,
+  "false_predictions": 2,
+  "missed_predictions": 0,
+  "precision": 0.3333,
+  "recall": 1.0,
+  "f1_score": 0.5,
+  "correct_items": [
+    [
+      "10.1016_j.bej.2018.06.020",
+      "two stage"
+    ]
+  ],
+  "false_items": [
+    [
+      "10.1016_j.bej.2018.06.020",
+      "fixed bed"
+    ],
+    [
+      "10.1016_j.bej.2018.06.020",
+      "biofilm derivative"
+    ]
+  ],
+  "missed_items": []
+}

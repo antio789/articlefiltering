@@ -1,0 +1,784 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S0011916409006924</prism:url><dc:identifier>doi:10.1016/j.desal.2009.01.009</dc:identifier><eid>1-s2.0-S0011916409006924</eid><prism:doi>10.1016/j.desal.2009.01.009</prism:doi><pii>S0011-9164(09)00692-4</pii><dc:title>Anaerobic treatment of domestic wastewater using an anaerobic fixed-bed loop reactor </dc:title><prism:publicationName>Desalination</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>00119164</prism:issn><prism:volume>248</prism:volume><prism:issueIdentifier>1-3</prism:issueIdentifier><prism:startingPage>716</prism:startingPage><prism:endingPage>722</prism:endingPage><prism:pageRange>716-722</prism:pageRange><prism:number>1-3</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2009-11-15</prism:coverDate><prism:coverDisplayDate>15 November 2009</prism:coverDisplayDate><prism:copyright>Copyright © 2009 Published by Elsevier B.V.</prism:copyright><prism:publisher>Published by Elsevier B.V.</prism:publisher><dc:creator>Melidis, Paraschos</dc:creator><dc:creator>Vaiopoulou, Eleni</dc:creator><dc:creator>Athanasoulia, Evagelia</dc:creator><dc:creator>Aivasidis, Alexander</dc:creator><dc:description>
+                  Incorporation of anaerobic processes into wastewater treatment trains minimizes amount and enhances stability of excess sludge, but lowers energy consumption. Objectives of this study were to develop a pilot-scale anaerobic fixed-bed loop (AFBL) reactor, to select critical parameters and to investigate feasibility and performance when treating municipal wastewater under real field conditions. Hydraulic residence times (HRTs) of 0.23, 0.28 and 0.36 days were implemented at temperatures of 25°C, 30°C and 35°C, respectively. The AFBL reactor was fed with raw wastewater and operated for 165 days. Results clearly show that the proposed pilot-scale AFBL reactor removes particulate COD (CODp), soluble COD (CODs), total suspended solids (TSS), volatile suspended solids (VSS) and total Kjedahl nitrogen (TKN), and produces biogas under real field conditions, which means that its application is feasible. Average COD and TSS removal was about 52% and 57%, respectively, whereas biogas production increased with temperature increase and HRT decrease. The higher biogas production was recorded at HRT of 0.23 days and temperature of 358°C. Application of the AFBL reactor is suggested as a pre-treatment step to the conventional municipal wastewater treatment, especially in decentralized areas experiencing population fluctuations, such as Greek islands during the warm, high tourist season. At this time, heating would not be necessary and more energy would be saved.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Anaerobic</dcterms:subject><dcterms:subject>Fixed-bed loop reactor</dcterms:subject><dcterms:subject>Domestic</dcterms:subject><dcterms:subject>Pre-treatment</dcterms:subject><dcterms:subject>Biogas</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S0011916409006924" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S0011916409006924" rel="scidir"/></coredata><scopus-id>70349614661</scopus-id><scopus-eid>2-s2.0-70349614661</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/70349614661" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271370</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291810</xocs:ssid>
+         <xocs:ssid type="subj">291830</xocs:ssid>
+         <xocs:ssid type="subj">291884</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Desalination</xocs:srctitle>
+      <xocs:normalized-srctitle>DESALINATION</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20091002">2009-10-02</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20091002">2009-10-02</xocs:available-online-date>
+      <xocs:ew-transaction-id>2010-03-28T18:19:43</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S0011916409006924</xocs:eid>
+      <xocs:pii-formatted>S0011-9164(09)00692-4</xocs:pii-formatted>
+      <xocs:pii-unformatted>S0011916409006924</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.desal.2009.01.009</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0011916409X00123</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150514">2015-05-14T00:10:19.655897-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20091115</xocs:date-search-begin>
+      <xocs:year-nav>2009</xocs:year-nav>
+      <xocs:indexeddate epoch="1254441600">2009-10-02T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype volfirst volissue webpdf webpdfpagecount affil articletitle auth authfirstini authfull authkeywords authlast presentedby primabst ref alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0011-9164</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00119164</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:vol-first>248</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>248</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>1</xocs:iss-first>
+      <xocs:iss-last>3</xocs:iss-last>
+      <xocs:issue-list>
+         <xocs:issue>1</xocs:issue>
+         <xocs:issue>2</xocs:issue>
+         <xocs:issue>3</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 248, Issues 1–3</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>99</xocs:sort-order>
+      <xocs:first-fp>716</xocs:first-fp>
+      <xocs:last-lp>722</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>716</xocs:first-page>
+         <xocs:last-page>722</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20091115</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>15 November 2009</xocs:cover-date-text>
+      <xocs:cover-date-start>2009-11-15</xocs:cover-date-start>
+      <xocs:cover-date-year>2009</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Issue 2: Selected papers presented at the Conference on Protection and Restoration of the Environment IX, Kefalonia, Greece, June 30-July 3, 2008</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2009 Published by Elsevier B.V.</xocs:copyright-line>
+      <xocs:normalized-article-title>ANAEROBICTREATMENTDOMESTICWASTEWATERUSINGANAEROBICFIXEDBEDLOOPREACTOR</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>MELIDIS</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>P</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="bib1">
+            <xocs:ref-normalized-surname>AIYUK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2225</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2241</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib2">
+            <xocs:ref-normalized-surname>BODIK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1084</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1088</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3">
+            <xocs:ref-normalized-surname>MANARIOTIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3579</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3589</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib4">
+            <xocs:ref-normalized-surname>DIAMANTIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>73</xocs:ref-first-fp>
+            <xocs:ref-last-lp>97</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>UTILIZATIONBYPRODUCTSTREATMENTWASTEINFOODINDUSTRY</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib5">
+            <xocs:ref-normalized-surname>MANARIOTIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>233</xocs:ref-first-fp>
+            <xocs:ref-last-lp>242</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>I</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib6">
+            <xocs:ref-normalized-surname>GENUNG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1979</xocs:ref-pub-year>
+            <xocs:ref-first-fp>329</xocs:ref-first-fp>
+            <xocs:ref-last-lp>344</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib7">
+            <xocs:ref-normalized-surname>INAMORI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>209</xocs:ref-first-fp>
+            <xocs:ref-last-lp>216</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Y</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib8">
+            <xocs:ref-normalized-surname>CHERNICHARO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>325</xocs:ref-first-fp>
+            <xocs:ref-last-lp>332</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib9">
+            <xocs:ref-normalized-surname>ELMITWALLI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>233</xocs:ref-first-fp>
+            <xocs:ref-last-lp>239</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib10">
+            <xocs:ref-normalized-surname>SADDOUD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>205</xocs:ref-first-fp>
+            <xocs:ref-last-lp>215</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib11">
+            <xocs:ref-normalized-surname>BODKHE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>222</xocs:ref-first-fp>
+            <xocs:ref-last-lp>226</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib12">
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>APHAAWWAWEFSTANDARDMETHODSFOREXAMINATIONWATERWASTEWATER</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib13">
+            <xocs:ref-normalized-surname>ELMITWALLI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1311</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1317</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib14"/>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>MELIDISX2009X716</xocs:refkey3>
+         <xocs:refkey4lp>MELIDISX2009X716X722</xocs:refkey4lp>
+         <xocs:refkey4ai>MELIDISX2009X716XP</xocs:refkey4ai>
+         <xocs:refkey5>MELIDISX2009X716X722XP</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S0011-9164(09)00692-4</xocs:pii-formatted>
+         <xocs:pii-unformatted>S0011916409006924</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S0011916409006924</xocs:eid>
+         <xocs:doi>10.1016/j.desal.2009.01.009</xocs:doi>
+         <xocs:cid>271370</xocs:cid>
+         <xocs:timestamp>2010-09-22T21:00:52.371339-04:00</xocs:timestamp>
+         <xocs:cover-date-start>2009-11-15</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S0011916409006924-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0011916409006924/MAIN/application/pdf/8fa513ac3425c10196ecf2bf08792ebd/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0011916409006924/MAIN/application/pdf/8fa513ac3425c10196ecf2bf08792ebd/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>966537</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S0011916409006924-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S0011916409006924/PREVIEW/image/png/9c1083760d3da822399a714af8c140be/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S0011916409006924/PREVIEW/image/png/9c1083760d3da822399a714af8c140be/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>55926</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.0" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>DES</jid>
+            <aid>9178</aid>
+            <ce:pii>S0011-9164(09)00692-4</ce:pii>
+            <ce:doi>10.1016/j.desal.2009.01.009</ce:doi>
+            <ce:copyright type="unknown" year="2009"/>
+         </item-info>
+         <head>
+            <ce:title>Anaerobic treatment of domestic wastewater using an anaerobic fixed-bed loop reactor</ce:title>
+            <ce:presented>Presented at the Conference on Protection and Restoration of the Environment IX, Kefalonia Greece, June 30–July 3, 2008</ce:presented>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Paraschos</ce:given-name>
+                  <ce:surname>Melidis</ce:surname>
+                  <ce:cross-ref refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+                  <ce:cross-ref refid="cor1">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Eleni</ce:given-name>
+                  <ce:surname>Vaiopoulou</ce:surname>
+                  <ce:cross-ref refid="aff2">
+                     <ce:sup loc="post">b</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Evagelia</ce:given-name>
+                  <ce:surname>Athanasoulia</ce:surname>
+                  <ce:cross-ref refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Alexander</ce:given-name>
+                  <ce:surname>Aivasidis</ce:surname>
+                  <ce:cross-ref refid="aff1">
+                     <ce:sup loc="post">a</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="aff1">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>Department of Environmental Engineering, Democritus University of Thrace, Vas. Sofias 12, 67100 Xanthi, Greece</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="aff2">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Environmental Department, Prefecture of Rethymno, Dimitrakaki 17, 74100 Rethymno, Greece</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="29" month="10" year="2008"/>
+            <ce:date-accepted day="15" month="1" year="2009"/>
+            <ce:abstract class="author"><ce:abstract-sec>
+                  <ce:simple-para view="all">Incorporation of anaerobic processes into wastewater treatment trains minimizes amount and enhances stability of excess sludge, but lowers energy consumption. Objectives of this study were to develop a pilot-scale anaerobic fixed-bed loop (AFBL) reactor, to select critical parameters and to investigate feasibility and performance when treating municipal wastewater under real field conditions. Hydraulic residence times (HRTs) of 0.23, 0.28 and 0.36 days were implemented at temperatures of 25°C, 30°C and 35°C, respectively. The AFBL reactor was fed with raw wastewater and operated for 165 days. Results clearly show that the proposed pilot-scale AFBL reactor removes particulate COD (COD<ce:inf loc="post">p</ce:inf>), soluble COD (COD<ce:inf loc="post">s</ce:inf>), total suspended solids (TSS), volatile suspended solids (VSS) and total Kjedahl nitrogen (TKN), and produces biogas under real field conditions, which means that its application is feasible. Average COD and TSS removal was about 52% and 57%, respectively, whereas biogas production increased with temperature increase and HRT decrease. The higher biogas production was recorded at HRT of 0.23 days and temperature of 358°C. Application of the AFBL reactor is suggested as a pre-treatment step to the conventional municipal wastewater treatment, especially in decentralized areas experiencing population fluctuations, such as Greek islands during the warm, high tourist season. At this time, heating would not be necessary and more energy would be saved.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>Anaerobic</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Fixed-bed loop reactor</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Domestic</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Pre-treatment</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Biogas</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <tail view="all">
+            <ce:bibliography view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec>
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Aiyuk</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Forrez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.K.</ce:given-name>
+                                 <ce:surname>Lieven</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>van Haandel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Verstraete</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresource Technol</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>97</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2225</sb:first-page>
+                              <sb:last-page>2241</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.</ce:given-name>
+                                 <ce:surname>Bodik</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Herdová</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Drtil</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Res</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>36</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1084</sb:first-page>
+                              <sb:last-page>1088</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.D.</ce:given-name>
+                                 <ce:surname>Manariotis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.G.</ce:given-name>
+                                 <ce:surname>Grigoropoulos</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresource Technol</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>99</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>9</sb:issue-nr>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3579</sb:first-page>
+                              <sb:last-page>3589</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Diamantis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Vaiopoulou</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Aivasidis</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:given-name>V.</ce:given-name>
+                                    <ce:surname>Oreopoulou</ce:surname>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:given-name>W.</ce:given-name>
+                                    <ce:surname>Russ</ce:surname>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:title>
+                                 <sb:maintitle>Utilization of By-Products and Treatment of Waste in the Food Industry</sb:maintitle>
+                              </sb:title>
+                              <sb:date>2007</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Springer Science+Business Media, Inc.</sb:name>
+                                 <sb:location>U.S.A.</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>73</sb:first-page>
+                              <sb:last-page>97</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>I.D.</ce:given-name>
+                                 <ce:surname>Manariotis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.G.</ce:given-name>
+                                 <ce:surname>Grigoropoulos</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Environ Res</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>78</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>3</sb:issue-nr>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>233</sb:first-page>
+                              <sb:last-page>242</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.K.</ce:given-name>
+                                 <ce:surname>Genung</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.L.</ce:given-name>
+                                 <ce:surname>Million</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.W.</ce:given-name>
+                                 <ce:surname>Hancher</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.W.</ce:given-name>
+                                 <ce:surname>Pitt</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biotechnol Bioeng Symposium</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1979</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>329</sb:first-page>
+                              <sb:last-page>344</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Y.</ce:given-name>
+                                 <ce:surname>Inamori</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Sudo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Gota</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Sci Technol</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>209</sb:first-page>
+                              <sb:last-page>216</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>C.A.L.</ce:given-name>
+                                 <ce:surname>Chernicharo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.M.G.</ce:given-name>
+                                 <ce:surname>Machado</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Sci Technol</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>38</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>8–9</sb:issue-nr>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>325</sb:first-page>
+                              <sb:last-page>332</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.A.</ce:given-name>
+                                 <ce:surname>Elmitwalli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Sklyar</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Zeeman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Lettinga</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresource Technol</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>82</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>233</sb:first-page>
+                              <sb:last-page>239</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Saddoud</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Ellouze</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Dhouid</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Sayadi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Desalination</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>207</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>205</sb:first-page>
+                              <sb:last-page>215</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Bodkhe</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresource Technol</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>99</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>222</sb:first-page>
+                              <sb:last-page>226</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:title>
+                                 <sb:maintitle>APHA, AWWA, WEF Standard methods for the examination of water and wastewater</sb:maintitle>
+                              </sb:title>
+                              <sb:edition>20th ed.</sb:edition>
+                              <sb:date>1998</sb:date>
+                              <sb:publisher>
+                                 <sb:name>American Public Health Association</sb:name>
+                                 <sb:location>Washington, DC, USA</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>T.A.</ce:given-name>
+                                 <ce:surname>Elmitwalli</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Soellner</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.D.</ce:given-name>
+                                 <ce:surname>Keizer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Bruning</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Zeeman</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Lettinga</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Res</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>33</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>5</sb:issue-nr>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1311</sb:first-page>
+                              <sb:last-page>1317</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>[14]</ce:label>
+                     <ce:other-ref>
+                        <ce:textref>CEC (Commission of the European Communities) Council directive 91/271/EEC of 21 May 1992 concerning urban waste water treatment, European Community Legislation, Luxembourg, 1992, pp. 192–211.</ce:textref>
+                     </ce:other-ref>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

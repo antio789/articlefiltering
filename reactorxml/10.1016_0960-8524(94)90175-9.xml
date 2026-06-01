@@ -1,0 +1,884 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/0960852494901759</prism:url><dc:identifier>doi:10.1016/0960-8524(94)90175-9</dc:identifier><eid>1-s2.0-0960852494901759</eid><prism:doi>10.1016/0960-8524(94)90175-9</prism:doi><pii>0960-8524(94)90175-9</pii><dc:title>Anaerobic digestion of malt whisky distillery pot ale using upflow anaerobic sludge blanket reactors </dc:title><prism:publicationName>Bioresource Technology</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>09608524</prism:issn><prism:volume>49</prism:volume><prism:issueIdentifier>1</prism:issueIdentifier><prism:startingPage>75</prism:startingPage><prism:endingPage>81</prism:endingPage><prism:pageRange>75-81</prism:pageRange><prism:number>1</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1994-12-31</prism:coverDate><prism:coverDisplayDate>1994</prism:coverDisplayDate><prism:copyright>Copyright © 1994 Published by Elsevier Ltd.</prism:copyright><prism:publisher>Published by Elsevier Ltd.</prism:publisher><dc:creator>Goodwin, J.A.S.</dc:creator><dc:creator>Stuart, J.B.</dc:creator><dc:description>
+                  The anaerobic treatment of pot ale, a liquid waste-product from the malt whisky industry, was investigated at laboratory scale using UASB (upflow anaerobic sludge blanket) reactors. Chemical oxygen demand reductions of around 90% were achieved after dilution, pH adjustment and settlement of the pot ale. Large amounts of ammonia were produced during treatment and the pH of the waste rose significantly. The maximum space loading rate consistent with stable operation was around 15 kg COD/m3 per day at a retention time of 2·1 days; higher loading rates produced process instability and failure. Extensive sludge granulation was observed during periods of stable operation.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Anaerobic digestion</dcterms:subject><dcterms:subject>UASB reactors</dcterms:subject><dcterms:subject>malt whisky</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/0960852494901759" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/0960852494901759" rel="scidir"/></coredata><scopus-id>0028168953</scopus-id><scopus-eid>2-s2.0-0028168953</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0028168953" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271433</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291731</xocs:ssid>
+         <xocs:ssid type="subj">291744</xocs:ssid>
+         <xocs:ssid type="subj">291793</xocs:ssid>
+         <xocs:ssid type="subj">291832</xocs:ssid>
+         <xocs:ssid type="subj">291838</xocs:ssid>
+         <xocs:ssid type="subj">291850</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Bioresource Technology</xocs:srctitle>
+      <xocs:normalized-srctitle>BIORESOURCETECHNOLOGY</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20030702">2003-07-02</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20030702">2003-07-02</xocs:available-online-date>
+      <xocs:ew-transaction-id>2010-10-02T12:59:42</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-0960852494901759</xocs:eid>
+      <xocs:pii-formatted>0960-8524(94)90175-9</xocs:pii-formatted>
+      <xocs:pii-unformatted>0960852494901759</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0960-8524(94)90175-9</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0960852400X01514</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150513">2015-05-13T22:56:25.499384-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19940101</xocs:date-search-begin>
+      <xocs:date-search-end>19941231</xocs:date-search-end>
+      <xocs:year-nav>1994</xocs:year-nav>
+      <xocs:indexeddate epoch="1057104000">2003-07-02T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype volfirst volissue webpdf webpdfpagecount affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0960-8524</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>09608524</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:vol-first>49</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>49</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>1</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>1</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 49, Issue 1</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>12</xocs:sort-order>
+      <xocs:first-fp>75</xocs:first-fp>
+      <xocs:last-lp>81</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>75</xocs:first-page>
+         <xocs:last-page>81</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>1994</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>1994</xocs:cover-date-text>
+      <xocs:cover-date-start>1994-01-01</xocs:cover-date-start>
+      <xocs:cover-date-end>1994-12-31</xocs:cover-date-end>
+      <xocs:cover-date-year>1994</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1994 Published by Elsevier Ltd.</xocs:copyright-line>
+      <xocs:normalized-article-title>ANAEROBICDIGESTIONMALTWHISKYDISTILLERYPOTALEUSINGUPFLOWANAEROBICSLUDGEBLANKETREACTORS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>GOODWIN</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>J</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>BOOPATHY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>133</xocs:ref-first-fp>
+            <xocs:ref-last-lp>143</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>CHENG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>167</xocs:ref-first-fp>
+            <xocs:ref-last-lp>174</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>DEBAERE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1984</xocs:ref-pub-year>
+            <xocs:ref-first-fp>543</xocs:ref-first-fp>
+            <xocs:ref-last-lp>548</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>DEZEEUW</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>110</xocs:ref-first-fp>
+            <xocs:ref-last-lp>112</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>GOODWIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>125</xocs:ref-first-fp>
+            <xocs:ref-last-lp>144</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>GOODWIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>877</xocs:ref-first-fp>
+            <xocs:ref-last-lp>884</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>HACH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>C</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>DR2000SPECTROPHOTOMETERINSTRUMENTMANUAL</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>HMSO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>CHEMICALOXYGENDEMANDDICHROMATEVALUEPOLLUTEDWASTEWATERS1986</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>HULSHOFFPOL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>41</xocs:ref-first-fp>
+            <xocs:ref-last-lp>53</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>HULSHOFFPOL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>291</xocs:ref-first-fp>
+            <xocs:ref-last-lp>304</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>LETTINGA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>699</xocs:ref-first-fp>
+            <xocs:ref-last-lp>734</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB12">
+            <xocs:ref-normalized-surname>MCCARTY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1964</xocs:ref-pub-year>
+            <xocs:ref-first-fp>91</xocs:ref-first-fp>
+            <xocs:ref-last-lp>94</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB13">
+            <xocs:ref-normalized-surname>PANLIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>279</xocs:ref-first-fp>
+            <xocs:ref-last-lp>288</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB14">
+            <xocs:ref-normalized-surname>RUSSO</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>121</xocs:ref-first-fp>
+            <xocs:ref-last-lp>132</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB15">
+            <xocs:ref-normalized-surname>SAMSOON</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1991</xocs:ref-pub-year>
+            <xocs:ref-first-fp>37</xocs:ref-first-fp>
+            <xocs:ref-last-lp>46</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>P</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB16">
+            <xocs:ref-normalized-surname>YAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1990</xocs:ref-pub-year>
+            <xocs:ref-first-fp>257</xocs:ref-first-fp>
+            <xocs:ref-last-lp>271</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>GOODWINX1994X75</xocs:refkey3>
+         <xocs:refkey4lp>GOODWINX1994X75X81</xocs:refkey4lp>
+         <xocs:refkey4ai>GOODWINX1994X75XJ</xocs:refkey4ai>
+         <xocs:refkey5>GOODWINX1994X75X81XJ</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0960-8524(94)90175-9</xocs:pii-formatted>
+         <xocs:pii-unformatted>0960852494901759</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-0960852494901759</xocs:eid>
+         <xocs:doi>10.1016/0960-8524(94)90175-9</xocs:doi>
+         <xocs:cid>271433</xocs:cid>
+         <xocs:timestamp>2010-10-28T07:33:51.281117-04:00</xocs:timestamp>
+         <xocs:cover-date-start>1994-01-01</xocs:cover-date-start>
+         <xocs:cover-date-end>1994-12-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-0960852494901759-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0960852494901759/MAIN/application/pdf/7ba23c34de84fa98c91553d30ec34bc5/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0960852494901759/MAIN/application/pdf/7ba23c34de84fa98c91553d30ec34bc5/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>734045</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>7</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-0960852494901759-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:0960852494901759/PREVIEW/image/png/538839dc2df086d69402ed498c875758/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:0960852494901759/PREVIEW/image/png/538839dc2df086d69402ed498c875758/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>79663</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:rawtext xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">ELSEVIER    Bioresource Technology 49 (1994) 75 -81  O 1994 Elsevier Science Limited  Printed in Great Britain. All fights reserved  0960-8524194]$7.00    ANAEROBIC DIGESTION OF MALT WHISKY DISTILLERY POT  ALE USING UPFLOW ANAEROBIC SLUDGE BLANKET  REACTORS    J. A. S. Goodwin &amp; J. B. Stuart  Department of Chemical and Process Engineering, Heriot-Watt University, Riccarton, Edinburgh, UK, E H14 4AS  (Received 22 August 1993; accepted 11 March 1994)    Abstract  The anaerobic treatment of pot ale, a liquid waste-  product from the malt whisky industry, was investigated  at laboratory scale using UASB (upflow anaerobic  sludge blankeO reactors. Chemical oxygen demand  reductions of around 90% were achieved after dilution,  pH adjustment and settlement of the pot ale. Large  amounts of ammonia were produced during treatment  and the pH of the waste rose significantly. The maximum  space loading rate consistent with stable operation was  around 15 kg COD/m3 per day at a retention time of 2.1  days; higher loading rates produced process instability  and failure. Extensive sludge granulation was observed  during periods of stable operation.    Key words: Anaerobic digestion, UASB reactors, malt  whisky.    INTRODUCTION    The upflow anaerobic sludge blanket (UASB) process  was first developed in The Netherlands in the 1970s  (Lettinga et al., 1980), and has been described in detail  in many previous publications. It has been used suc-  cessfully for the treatment of a wide variety of aqueous  effluents, including wastes produced by breweries and  alcohol distilleries (Hulshoff Pol &amp; Lettinga, 1986;  Panlin, 1989; Cheng et al., 1990). However, it has not  generally been adopted for the treatment of malt distil-  lery wastewaters, because although these have a high  chemical oxygen demand (COD) and are readily bio-  degradable, making them suitable for anaerobic diges-  tion, the relatively small size of traditional distilleries  has to date made alternative disposal routes such as  cattle-feed production more economically attractive.  Little previous research on the anaerobic treatment of  malt whisky distillery effluent has been performed,  although some work has been published (Boopathy et  aL, 1988).  Malt whisky manufacture in a traditional distillery  starts with the enzymatic extraction of sugars from    75    malted barley in water to yield a solution known as  wort. This is fermented to produce wash, in essence an  unhopped beer, which is passed to the wash still where  the first of two batch distillations takes place. The  distillate from the wash still, known as low wines, is  transferred to the spirit still, where the second distilla-  tion is performed. The middle fraction of the distillate  from the spirit still, new spirit, is matured in wooden  barrels, typically for 10-25 years, to produce the final  product, malt whisky. The liquid residues remaining in  the wash and spirit stills after distillation are known as  pot ale and spent lees, respectively. Pot ale has a bio-  logical  oxygen  demand  (BOD)  in  the  range  15 000-45 000 mg/litre, and contains yeast, inorganic  salts and a wide variety of organic compounds includ-  ing unfermented sugars; spent lees has a BOD of  1500-2000 mg/litre and contains a number of volatile  organics.  Pot ale was used in the study described here because  it is responsible for most of the COD of distillery  wastewaters and has been shown to be the fraction  most resistant to degradation. There is evidence for the  presence of inhibitory material which reduces the  digestion rate when pot ale is treated undiluted (United  Distillers, pers. comm.); successful adaptation of diges-  ter biomass to undiluted pot ale would, therefore,  suggest that any combination of liquid distillery waste  products could be treated by anaerobic digestion.    METHODS    Seed sludge  Sludge used to start up the reactors was obtained from  the solids digester at the Whitburn sewage treatment  works operated by Lothian Regional Council. Large  solids were removed from the sludge prior to use by  passing it through a plastic sieve of hole size 1 mm.    Pot ale  Pot ale was obtained from the Glenkinchie malt whisky  distillery situated near Pencaitland (East Lothian, Scot-  land, UK).    76                              J. A. S. Goodwin, J. B. Stuart    Apparatus  The experimental apparatus is illustrated in Fig. 1 and  was similar to that described previously (Goodwin et  al., 1990a). There were two identical reactors, each  with a working volume of 1"05 litres, which were oper-  ated in parallel as duplicates. The wastewater feeds to  these reactors were pumped through separate channels  of a single Watson-Marlow 501M multi-channel peri-  staltic pump head fitted to a 503S drive unit. The  reactors were constructed from transparent perspex  tubes and had internal diameters of 62 mm. Reactor  temperatures were maintained at 35 using a Grant  FH 15A flow heater and water-jacket system.    Biogas  Biogas production rates were measured by displace-  ment of 0.05 u aqueous sulphuric acid solution within  individual calibrated gas collection vessels. The design  of the apparatus allowed measured gas volumes to be  standardised to conditions of standard temperature  and pressure (0, 1 atm).    Ltd, Queensferry, Clwyd, UK). The chromatograph  was operated in isothermal mode with a constant oven  temperature of 140, while the carrier gas was oxy-  gen-free nitrogen (BOC) flowing at 20 ml/min. Com-  pounds leaving the column were detected by a flame  ionisation unit and the signal produced was analysed  by the chromatograph's integration software, which  had been pre-calibrated with VFA standards of known  concentration.  Effluent samples were prepared for analysis by  filtering them through Whatman cellulose nitrate  membranes of pore size 0.45/zm then acidifying the fil-  trates with formic acid ( 1 part acid to 10 parts filtrate);  1 /zl of each acidified filtrate was injected into the  chromatograph. The formic acid used was a BDH pro-  duct described as 'low in acetic acid'.    pH  Sample pH values were determined using a portable  WPA CD60 pH meter and probe (Waldon Precision  Apparatus, Saffron Waldon, Essex, UK).    COD  Effluent COD was determined by the small-scale  closed tube method described by HMSO (1986).  Samples were mixed with an acidic dichromate solu-  tion and heated at 150 for 2 h using a Hach 16500-  10 dry-block heater, after which residual dichromate  was determined by titration with ferrous ammonium  sulphate.    Volatile fatty acids  Effluent volatile fatty acid (VFA) concentrations were  determined by gas chromatography, using a Perkin-  Elmer 8500 gas chromatograph fitted with a stainless-  steel column of length 2 m and internal diameter 2 mm  packed with 12% free-fatty-acid-phase (FFAP) on  80-100 mesh Chromosorb W-HP (Phase Separations    GAS    TO    COLLECTOR  EFFLUENT           I_~  OUTLET              . :.~_.:_:_  ::L-.:- ::--.::  l::':-::::L:  EFFLUENT                 ~m~m~  ~  L 0 0 P              l~x~  W A T E R       i ~  ~.~'  JACKET ~  ~&lt;'/'~    BUBBLE  TRAP    WATER  JACKET  OUTLET    SLUDGE  BLANKET    Fig. 1.    FEED  INLET    Diagram of apparatus.    Ammonia and phosphate  Effluent ammonia and phosphate concentrations were  determined using a Hach DR/2000 spectrophotometer  system (Hach Company, Loveland, CO, USA) pre-  programmed with the calibration data needed to per-  form a range of assays using Hach reagents. Hach  method 385, based on reaction of ammonia with sali-  cylate, was used to determine ammoniacal nitrogen  in the range 0-0.5 mg/litre, while Hach method 490  was used to determine phosphate in the range 0-2.5  mg/litre (Hach Company, 1988).    Suspended solids  Reactor granular sludge solids concentrations were  determined by vacuum filtration of mixed liquor  samples through pre-weighed Whatman GF/C filter  papers followed by gravimetric determination of solids;  all samples were dried at 105 for at least 1 h prior to  weighing. Sludge volatile solids contents were deter-  mined by placing washed, dried, pre-weighed sludge  samples in a furnace at 550 for 2 h, after which the  weight of residual ash was determined.    Experimental  Each of the two duplicate reactors was inoculated with  750 ml sieved anaerobic sludge at the start of the study.  Sludge blankets formed by gravity settlement within a  few hours. The feed pump was started at a rate of 500  ml/reactor/day, giving a hydraulic retention time of  2.1 days. Both reactors received wastewater from a  common feed vessel; the initial feed composition is  given in Table 1. Phosphate was not added to the feed  because the undiluted pot ale was found to contain  more than 1000 mg/litre phosphate when assayed,  much more than the minimum required, while nitrogen  sources were not added because it seemed probable  that sufficient available nitrogen would also be present.  The validity of this assumption was confirmed later in    Anaerobic digestion of malt whisky distillery pot ale                        77    Table 1. Initial feed composition  Constituent                       Amount    Table 2. Summary of organic loading rates    Pot ale                             100 ml/litre  NaHCO3                            2 g/litre  MgSO4. 7H20                         102.5 mg/litre  CaC12" 2H20                         36"75 mg/litre  FeSO4                                10 mg/litre  Trace elements  NiSO4.6H20                       500/~g/litre  MnCi2"4H20                       500/zg/litre  ZnSO4. 7H20                       100/zg/litre  H3BO3                           100 g/litre  CoC12' 6H20                        50/zg/litre  H3PO4" 12MoO3" 24H20             40/zg/litre    the study when high levels of free ammonia were  recorded in the reactor effluents. Organic loading rate  was varied during the study by altering retention time  and the proportion of pot ale in the feed, the two reac-  tors receiving identical organic loads; these changes are  summarised in Table 2. Much of the variation in  organic loading rate was due to differences in the COD  of pot ale samples obtained at different times.  The undiluted pot ale was a light brown, turbid  liquid with a pH below 4, and diluted samples were  also acidic. As methanogenic bacteria are inhibited at  pH values below 6.6, feed pH was increased by the  addition of sodium hydrogen carbonate in solution  during the first few weeks of the study. This appeared  to cause a light brown particulate material, apparently  consisting largely of yeast, to settle to the bottom of the  feed vessel, forming a compact layer around 5 mm  thick within a few hours. This settled layer was below  the liquid take-off point and was, therefore, not  pumped to the reactors. Since the effluent from each  reactor generally had a pH significantly higher than 7  in the period following start-up (Fig. 2), the quantity of  sodium hydrogen carbonate added was gradually  reduced during the first 3months of operation with  the intention of allowing a greater proportion of the  brown material to enter the reactors. On day 99,  sodium hydrogen carbonate was omitted from the  feed, which was allowed to enter the reactors without  any pH adjustment; this produced no immediate ill-  effects, although feed turbidity and COD increased  significantly (Table 2), and satisfactory performances  were recorded for the next 2 weeks. However, both  digesters failed around day 113 with sudden drops in  pH and biogas production, and the organic loading rate  was reduced and slowly increased again to allow  recovery. Following this, sodium hydrogen carbonate,  pre-dissolved in water, was included in all feeds at 2-5  g/litre for the remainder of the study. This raised feed  pH, although not to neutrality, and the brown material  settled to leave a clear reddish-brown supernatant.  Reactor A performed well thereafter, although Reactor  B suffered a partial failure starting around day 238 and  was eventually restarted by reducing organic load,    Day  number    % Pot  Feed COD  Organic loading Retention  ale   (mg/litre)       rate        time  (kg COD/m3    (days)  /day)    1      10     3 526         1"679        2'1  13            10            3818                   1"818                 2"1  21      20     4672         2"225        2"1  40     60     9 506         2-263        4'2  57      30     4753         2"263        2"1  62            40          10312                  4"910                 2"1  72     40    16777         7"989        2.1  75     50    19508         9"290        2"1  99            60          19508                   9"290                 2"1  104      60     32773        15"606        2.1  111            70          38235                 18"207                 2.1  121      30    11835         5"636        2'1  125      10      3945         1"879        2.1  133            20          11341                   5"400                 2'1  141            30          17012                   8"101                  2"1  152     40    25937        12"351        2"1  159      40     12327         5'870        2"1  163     50    21696        10"331        2'1  174            60          27613                 13"149                 2.1  188      70     32051        15-262        2'1  196     70    30572        14"558        2"1  208            80          33531                 15"967                  2"1  223     90    47929       22"823        2"1  224            90          47929                  9'129                 5-25  232      90     47929        13"694        3"5  238     90    47929       22-823        2'1  239            90          37 106                 17"670                 2"1  251            80          32983                 15'706                 2"1  265            80          40111                 19'100                 2"1  271      80    38961        18"553        2-1  277      60     30612        14"577        2.1  296      60     26248        12"499        2"1  299            80          36044                12"873                 2"8  306    100    52 126        14"893        3'5  312      60     19778         9"418        2.1  320    100    42883        12"252        3'5  327          100          42883                15"315                  2"8    ,r  Q.    Fig. 2.    9  et    '''''I'''''   '  ''I'''1'I'''''I'~   'I'''''  50    100    150   200   150   300   350  Day  Feed and effluent pH values.        Reactor A,  (  ....  ) Reactor B, (--.   ) feed.    78                               J. A. S. Goodwin, J. B. Stuart    adding sodium hydrogen carbonate directly to the  digester liquor and transferring active sludge from  Reactor A (100 ml wet sludge transferred on days 251,  267 and 281; 200 ml transferred on day 292).  The reactor feeds were supplemented with trace  elements (Table 1) from the start of the study up to day  174 to guard against possible deficiency during start-  up. Trace element addition was then discontinued until  day 272 to determine whether the pot ale could be  treated without adding additional nutrients. From day  272 to day 306, trace elements were included in the  feeds once again in an attempt to accelerate the  recovery of Reactor B; they were then omitted until  day 315, then included once more from day 315 to the  end of the study.    RESULTS  Performance data  pH data, biogas production rates and COD removal  efficiencies are presented in Figs 2, 3 and 4, respect-  ively; effluent acetate and propionate concentrations  are presented in Figs 5 and 6. Effluent ammonia con-  centrations recorded between day 197 and day 3 24 are  presented in Table 3.  Both reactors adapted rapidly to the pot ale feed at  the start of the study. During the first 100 days of  operation,  COD  removal  efficiencies  gradually  increased to around 90%, while biogas production  rates increased in line with increases in organic load.  Effluent propionate concentrations rose to over 1000  mg/litre during the first few days but then fell rapidly to  below 200 mg/litre, while acetate concentrations  showed a small rise in Reactor A but then fell to below  300 mg/litre in both reactors. Levels of longer-chain  fatty acids remained negligible throughout this period.  The failure of both digesters around day 113 was  followed by substantial increases in effluent VFA    O0  O0  7O  5O   4o  3O  2O    10                ', +'  +'    t,  i'I  ?  '''''1  .....  I'''''1'  ....  I  .....  I'''''I''   '  50    100    150    200   250    300   350  Day  Fig. 4.  COD removal. (      ) Reactor A, (  ....  ) Reactor  B.    2500  ~  2000  ~ 1050  E 550  W  0    0     50    100    150   200   250   300   350  Day  Fig. 5.  Reactor A volatile fatty acids. (      ) Acetic acid,  (  ....  ) propionic acid.    0  12.0 t   10.0 -  6.0  6.0  4.0                         '      '  2.0  0.0    Fig. 3.    'l ,  ,,+  '  t,,    I       I       I       I~'    I'''''l'''''l'''  'I  0     50    100    160   300   360   300   360  Day  Biogas production. (      ) Reactor A, (  ....  )  Reactor B.    7000  6000   4OOO  &lt;3ooo  LU 1000    ,+,                  ,           ,         '. ,,  0    ''''+/  .....  I  ....  I  ....  ~'1" ' I" ' I  ....  I  .....  0   6O  100  150  20O  25O  moo  35o  Day  Fig. 6.  Reactor B volatile fatty acids. (       Acetic acid,  (  ....  ) propionic acid.    Table 3. Feed    Anaerobic digestion of malt  and  effluent  ammonia  concentrations  (expressed as mg/litre NH3)    Day          Feed        Reactor        Reactor  number                         A              B    197        91       ND~        529  211            171            793             557  238           ND~            567             472  275                       169                         921                         1214  282           541            794           1039  303           253           1001            1077  309           132           1152            888  324           361           1000            963    aND, not determined.    concentrations. The levels of acetate and propionate  exceeded 1000 mg/litre and 2000 mg/litre, respect-  ively, with even higher concentrations measured for  longer-chain VFA such as valeric and butyric acids.  Biogas production rates fell to less than 20% of their  previous values as effluent pH values dropped to 6.3. A  significant washout of sludge solids occurred, so that  effluent COD exceeded feed COD for both reactors on  day 127. However, reduction in organic load and  increase in feed pH allowed recovery of both reactors;  by day 156, VFA levels had fallen significantly, effluent  pH values had increased to around 7.5, biogas produc-  tion rates had risen and COD removal efficiencies had  returned to around 90%.  After recovering from failure between days 113 and  156, Reactor A performed well for the rest of the  study, with COD removal efficiencies generally higher  than 86% and effluent pH values in excess of 7.5 most  of the time. Effluent acetate concentration was around  700 mg/litre at the higher organic loadings applied in  the latter half of the study, while effluent propionate  concentration was variable. Levels of longer-chain  VFA were low during this period.  The performance of Reactor B from day 156 to day  238 was similar to that of Reactor A. However, diges-  ter failure occurred in the period immediately follow-  ing day 238, with very high VFA levels recorded  between days 238 and 296, along with significant  reductions in biogas production rate and COD rem-  oval efficiency. Effluent pH fell to a minimum of 5.2 on  day 292, but was generally above 5.8. By day 306 per-  formance had been restored to previous levels follow-  ing the transfer of active sludge from Reactor A to  Reactor B.  Samples of digester liquor were taken from Reactor  A on day 335 for estimation of total reactor biomass.  Dry suspended solids concentrations at the top and  bottom of the sludge bed were 44"07 and 62.89 g/litre,  respectively. The total sludge bed volume was around  800 ml and a mixed-sludge sample was found to have  an ash content of 49-6% by mass on a dry basis. From  these data, total sludge bed volatile suspended solids  were estimated to be 21.56 g. Thus, the daily organic  load applied to Reactor A near the end of the study    whisky distillery pot ale    79    was approximately 0.46-0.75 kg COD per kg volatile  solids.    Sludge granulation  The physical appearances of the sludges were moni-  tored throughout the study by visual examination  through the transparent perspex reactor walls.  The seed sludge used to inoculate the reactors was  totally non-granular. Sludge particle formation was  evident after a few weeks, and by day 68 extensive  granulation was observed in both reactors.  On day 93, the sludges were highly pelletised, with  many particles 2 mm or more in diameter. Changes in  the appearance of the sludges became apparent after  the omission of sodium hydrogen carbonate from the  reactor feeds on day 99; material at the bottom of the  reactors, close to the feed inlet, had become white and  fibrous in appearance by day 100, and although rela-  tively large particles were present in both reactors for  some time after this, there was a gradual disintegration  of granules as the reactors failed, with significant solids  losses around day 127. Re-pelletisation commenced  soon after recovery, with increases in the volumes of  both reactor sludge blankets observed between days  140 and 152. The sludges were highly flocculent by  day 163, and had achieved full granulation by day 168.  The sludge in Reactor A remained almost completely  granulated from this time onwards, with particle  diameters in the range 1-5 mm, and during the last few  months of the study it was necessary to waste sludge as  around 90% of the reactor volume was full of granular  sludge solids. The sludge in Reactor B was granular but  paler and more gelatinous in appearance between days  215 and 238, and significant breakup of granules  occurred during the failure period from day 238 to day  296. Some degree of granulation, albeit less complete  than that in Reactor A, was observed in Reactor B  from day 301 onwards, although this may have been  the result of reseeding with Reactor A sludge.    DISCUSSION  The reactors showed gradual improvements in per-  formance and ability to accept increased organic loads  during the start-up period before day 100. Propionate  degradation in particular seems to have improved  during the first few weeks. This is consistent with data  published previously by De Zeeuw and Lettinga  (1980), who used digested sewage sludge, similar to  that used in the present study, to inoculate a labora-  tory-scale UASB digester treating a synthetic waste  based on acetate and propionate. They found that the  sewage sludge had a low initial activity, particularly  with respect to propionate utilisation, but had deve-  loped a substantially increased rate of VFA degrada-  tion after 2 weeks.  The failure of both digesters around day 113 pre-  sumably resulted from the removal of sodium hydro-  gen carbonate from the reactor feed on day 99, the  immediate consequences of which were an increase in    80                               J. A. S. Goodwin, J. B. Smart    organic loading rate (a significant COD was associated  with the pot ale solids, which did not enter the digesters  until this time) with a probable reduction in feed pH.  However, failure did not occur until 2 weeks after this,  although there were changes in the physical appear-  ance of the sludges as described earlier; indeed, gas  productions and COD removal efficiencies actually  increased between day 99 and day 113. The most  likely cause of failure is severe inhibition of methano-  genic activity by reduced digester pH, although it is  also possible that the particulate material which settled  out on the addition of sodium hydrogen carbonate con-  tained inhibitory material which first entered the  reactors in significant amounts after day 99. The time  delay between the change in feed composition and  eventual reactor failure may be explained if it is postu-  lated that little mixing took place at the bottom of each  sludge bed, so conditions close to plug flow pre-  vailed. Under these conditions, vertical pH, VFA and  COD profiles would be established across each bed,  with high VFA concentrations and lowered pH near  the bottom as described by previous investigators  (Russo &amp; Dold, 1989; Sam-Soon et al., 1991 ). The pH  would rise with bed height because of VFA degrada-  tion and the general pH increase, discussed later,  observed on anaerobic digestion of pot ale in this and  in previous work (Boopathy et al., 1988). Thus, it is  possible that, shortly after day 99, conditions at the  bottom of each bed were sufficiently acidic to inhibit or  render non-viable the methanogenic population, while  higher pH values farther up permitted satisfactory  activity, giving acceptable VFA degradation and COD  removal overall. This loss of methanogenic activity  could lead to the zone of low pH spreading slowly  upwards over a period of several days until complete  failure occurred. A similar mechanism for digester  failure was proposed by Yan et al. (1990) to explain the  results of a laboratory study in which a UASB reactor  was used to treat cheese whey; the acidogenic zone of  low pH observed at the base of their digester spread  upwards through the sludge bed when an excessive  organic load was applied, and it was postulated that  this would eventually lead to process failure.  The failure of Reactor B around day 238 was also  associated with a fall in digester pH. This seems to have  been caused by organic overload coupled with low  influent pH, as the organic loading rate was increased  significantly just before failure occurred. However,  Reactor A tolerated this loading increase with no  apparent ill-effects. It may be that Reactor A had deve-  loped a higher methanogenic activity than Reactor B,  preventing catastrophic VFA accumulation; it is also  possible that Reactor A was mixed to a greater extent,  so that localised formation of low pH zones was less  significant.  All of the digester failures were accompanied by  large increases in effluent VFA concentrations, longer-  chain VFA being particularly prevalent. Analysis of  data from the present study indicated that most of the  effluent COD was present as VFA during failure condi-    tions, showing that overall treatment efficiency was  limited primarily by the rate of VFA degradation.  During the stable period between day 156 and day  238, COD removal efficiencies of around 90% were  achieved at space loading rates ranging from 10 to 15  kg COD/m3 per day, although higher loading rates pro-  duced instability and failure. This is consistent with  results obtained in other studies of the anaerobic treat-  ment of distillery wastes using UASB digesters. Panlin  (1989) reported satisfactory treatment of rice wine and  spirits wastewater at loading rates in excess of 7 kg  COD/m3 per day, while Boopathy et al. (1988), using  an anaerobic baffled reactor to treat whisky distillery  effluent, achieved over 90% removal of COD at the  comparatively low loading rate of 3.5 kg COD/m3 per  day. The estimated sludge loading rate applied towards  the end of the study described here, 0"46-0.75 kg  COD/kg MLVSS (mixed liquor volatile suspended  solids) per day, is similar to that reported to produce  granulation in previous studies. For example, Hulshoff  Pol et al. (1983) found that granulation occurred only  at loading rates above 0"6 kg COD/kg MLVSS per day,  with rapid granulation observed at 0"9 kg COD/kg  MLVSS per day and poor granulation observed at 0.3  kg COD/kg MLVSS per day.  Pot ale typically contains high levels of protein and  lactic acid (United Distillers, pers. comm.), so the  increases in ammonia concentration observed during  the digestion process (Table 3) were probably due to  protein degradation. Although ammonia is used as a  nitrogen source by the organisms involved in anaer-  obic digestion, it can cause serious inhibition at high  concentrations, NH3 being significantly more toxic  than NH4. Total ammonia concentrations in the range  900-1200 mg/litre were recorded between day 275  and day 324, these being below the inhibition thresh-  old of 1500 mg/litre ammonia proposed by McCarty  (1964) for digesters operating at pH values above 7"4,  but close to the figure of 1000 mg/litre ammoniacal  nitrogen reported to inhibit propionate degradation by  Hulshoff Pol et al. (1983). Calculation of free (NH3)  ammonia concentrations using the Henderson-Hassel-  balch equation gives values in the range 40-70 mg/  hire, below the inhibition threshold of 80 mg/litre sug-  gested by De Baere et al. (1984). Thus, it seems  probable that ammonia toxicity was not a factor which  limited digester performance. The release of ammonia  by protein degradation, in conjunction with the remo-  val of organic acids, is a plausible explanation for the  fact that effluent pH values were always higher than the  feed pH during periods of stable operation (Fig. 2).  Identification of specific trace element deficiencies  in the pot ale was not one of the objectives of this study,  but the fact that the reactors performed well between  days 174 and 272 with no added trace elements  suggests that adequate quantities of these micro-  nutrients were present. Trace element limitation in  UASB reactors has been shown to result in VFA accu-  mulation, implying inhibition of methanogenic activity  (Goodwin et al., 1990b), but significant increases in    Anaerobic digestion of malt whisky distillery pot ale                        81    VFA concentrations were not observed following the  omission of trace elements from the feeds from day  174 onwards. More recent work has shown that diluted  pot ale can be treated successfully by UASB reactors  with no trace element supplementation whatsoever  (Goodwin, Haddow &amp; Low, unpubl, data).  The performance data indicate that diluted pot ale is  readily biodegradable using UASB, while a reasonably  high COD removal rate can be attained with undiluted  pot ale. However, the total liquid effluent from a malt  whisky distillery contains not only pot ale from the first  distillation stage, but also spent lees from the second,  the latter having a BOD of around 2000 mg/litre. The  two waste streams are produced in a volumetric ratio  of around 72 parts pot ale to 28 parts spent lees  (United Distillers, pers. comm.), so a mixed effluent  feed to a practical digestion system would have a COD  of around 35 000 mg/litre, comparable with some of  the feeds used in the latter half of the present study.  Hence, it is feasible that UASB reactors operated with  retention times of 2-3 days could be used to treat malt  distillery effluent at industrial scale, although in view of  the process instability observed at higher loadings,  longer retention times or higher levels of alkalinity  supplementation would be advisable in practice. The  degradation of the yeast fraction was not investigated  and it is likely that longer retention times would be  required for satisfactory digestion of this material.    ACKNOWLEDGEMENTS    The assistance of United Distillers staff at Glenkinchie  Distillery and Glenochil Research Station is greatly  appreciated. Thanks are also due to Eileen McEvoy  for her help with analytical work.    REFERENCES    Boopathy, R., Larsen, V. F. &amp; Senior, E. (1988). Performance  of anaerobic baffled reactor (ABR) in treating distillery  waste water from a scotch whisky factory. Biomass, 16,  133-43.    Cheng, S. S., Lay, J. J., Wei, Y. T., Wu, M. H., Roam, G. D. &amp;  Chang, T. C. (1990). A modified UASB process treating  winery wastewater. Water Sci. Technol., 22, 167-74.  De Baere, L. A., Devocht, M., Van Assche, P. &amp; Verstraete,  W. (1984). Influence of high NaCI and NH4CI salt levels  on methanogenic associations. Water Res., 18, 543-8.  De Zeeuw, W. J. &amp; Lettinga, G. (1980). Use of anaerobic  digestion for wastewater treatment. Antonie van Leeuwen-  hoek, 46, 110-12.  Goodwin, J. A. S., Wase, D. A. J. &amp; Forster, C. F. (1990a).  Anaerobic digestion of ice-cream wastewaters using the  UASB process. Biol. Wastes, 32, 125-44.  Goodwin, J. A. S., Wase, D. A. J. &amp; Forster, C. E (1990b).  Effects of nutrient limitation on the anaerobic upflow  sludge blanket reactor. Enzyme Microbial Technol., 12,  877-84.  Hach Co. (1988). DR~2000 Spectrophotometer Instrument  Manual. Hach Company, Loveland, CO, USA.  HMSO (1986). Chemical Oxygen Demand (Dichromate  Value) of Polluted and Waste Waters 1986 (2nd edn).  HMSO, London, UK.  Hulshoff Pol, L. W. &amp; Lettinga, G. (1986). New technologies  for anaerobic wastewater treatment. Water Sci. Technol.,  18,41-53.  Hulshoff Pol, L. W., De Zeeuw, W. J., Velzeboer, C. T. M. &amp;  Lettinga, G. (1983). Granulation in UASB-reactors. Water  Sci. Technol., 15, 291-304.  Lettinga, G., Van Velsen, A. F. M., Hobma, S. W., De Zeeuw,  W. &amp; Klapwijk, A. (1980). Use of the upflow sludge  blanket (USB) reactor concept for biological wastewater  treatment, especially for anaerobic treatment. Biotechnol.  Bioengng, 22,699-734.  McCarty, P. L. (1964). Anaerobic waste treatment funda-  mentals. Part Three. Toxic materials and their control.  Public Works, 95, 91-4.  Panlin, Z. (1989). Anaerobic treatment of high strength  brewery wastewater by UASB process. Water Treatment,  4, 279-88.  Russo, S. L. &amp; Dold, P. L. (1989). Sludge character and role  of sulphate in a UASB system treating a paper plant efflu-  ent. WaterSci. Technol., 21, 121-32.  Sam-Soon, P. A. L. N. S., Loewenthal, R. E., Wentzel, M. C.,  Moosbrugger, R. E. &amp; Marais, G. V. R. (1991). Effects of a  recycle in upflow anaerobic sludge bed (UASB) systems.  Water SA, 17, 37-46.  Yan, J. Q., Lo, K. V. &amp; Liao, P. H. (1990). Anaerobic diges-  tion of cheese whey using an upflow anaerobic sludge  blanket reactor: III. Sludge and substrate profiles. Bid-  mass, 21,257-71.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               </xocs:rawtext><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>BITE</jid>
+            <aid>94901759</aid>
+            <ce:pii>0960-8524(94)90175-9</ce:pii>
+            <ce:doi>10.1016/0960-8524(94)90175-9</ce:doi>
+            <ce:copyright type="unknown" year="1994"/>
+         </item-info>
+         <head>
+            <ce:title>Anaerobic digestion of malt whisky distillery pot ale using upflow anaerobic sludge blanket reactors</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>J.A.S.</ce:given-name>
+                  <ce:surname>Goodwin</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>J.B.</ce:given-name>
+                  <ce:surname>Stuart</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>Department of Chemical and Process Engineering, Heriot-Watt University, Riccarton, Edinburgh, UK, EH14 4AS</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="22" month="8" year="1993"/>
+            <ce:date-accepted day="11" month="3" year="1994"/>
+            <ce:abstract class="author"><ce:abstract-sec>
+                  <ce:simple-para view="all">The anaerobic treatment of pot ale, a liquid waste-product from the malt whisky industry, was investigated at laboratory scale using UASB (upflow anaerobic sludge blanket) reactors. Chemical oxygen demand reductions of around 90% were achieved after dilution, pH adjustment and settlement of the pot ale. Large amounts of ammonia were produced during treatment and the pH of the waste rose significantly. The maximum space loading rate consistent with stable operation was around 15 kg COD/m<ce:sup loc="post">3</ce:sup> per day at a retention time of 2·1 days; higher loading rates produced process instability and failure. Extensive sludge granulation was observed during periods of stable operation.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>Anaerobic digestion</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>UASB reactors</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>malt whisky</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <tail>
+            <ce:bibliography view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec>
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>Boopathy et al., 1988</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Boopathy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.F.</ce:given-name>
+                                 <ce:surname>Larsen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Senior</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Performance of anaerobic baffled reactor (ABR) in treating distillery waste water from a scotch whisky factory</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biomass</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>16</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>133</sb:first-page>
+                              <sb:last-page>143</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>Cheng et al., 1990</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.S.</ce:given-name>
+                                 <ce:surname>Cheng</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.J.</ce:given-name>
+                                 <ce:surname>Lay</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.T.</ce:given-name>
+                                 <ce:surname>Wei</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.H.</ce:given-name>
+                                 <ce:surname>Wu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.D.</ce:given-name>
+                                 <ce:surname>Roam</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.C.</ce:given-name>
+                                 <ce:surname>Chang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A modified UASB process treating winery wastewater</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>22</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>167</sb:first-page>
+                              <sb:last-page>174</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>De Baere et al., 1984</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.A.</ce:given-name>
+                                 <ce:surname>De Baere</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Devocht</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Van Assche</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Verstraete</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Influence of high NaCl and NH<ce:inf loc="post">4</ce:inf>Cl salt levels on methanogenic associations</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1984</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>543</sb:first-page>
+                              <sb:last-page>548</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>De Zeeuw and Lettinga, 1980</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.J.</ce:given-name>
+                                 <ce:surname>De Zeeuw</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Lettinga</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Use of anaerobic digestion for wastewater treatment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Antonie van Leeuwenhoek</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>46</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>110</sb:first-page>
+                              <sb:last-page>112</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>Goodwin et al., 1990a</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.A.S.</ce:given-name>
+                                 <ce:surname>Goodwin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.A.J.</ce:given-name>
+                                 <ce:surname>Wase</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.F.</ce:given-name>
+                                 <ce:surname>Forster</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Anaerobic digestion of ice-cream wastewaters using the UASB process</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biol. Wastes</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>32</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>125</sb:first-page>
+                              <sb:last-page>144</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>Goodwin et al., 1990b</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.A.S.</ce:given-name>
+                                 <ce:surname>Goodwin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.A.J.</ce:given-name>
+                                 <ce:surname>Wase</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.F.</ce:given-name>
+                                 <ce:surname>Forster</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effects of nutrient limitation on the anaerobic upflow sludge blanket reactor</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Enzyme Microbial Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>877</sb:first-page>
+                              <sb:last-page>884</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>Hach, 1988</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Co.</ce:given-name>
+                                 <ce:surname>Hach</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>DR/2000 Spectrophotometer Instrument Manual</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>1988</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Hach Company</sb:name>
+                                 <sb:location>Loveland, CO, USA</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>HMSO, 1986</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>HMSO</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Chemical Oxygen Demand (Dichromate Value) of Polluted and Waste Waters 1986</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:edition>2nd edn.</sb:edition>
+                              <sb:date>1986</sb:date>
+                              <sb:publisher>
+                                 <sb:name>HMSO</sb:name>
+                                 <sb:location>London, UK</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>Hulshoff Pol and Lettinga, 1986</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.W.</ce:given-name>
+                                 <ce:surname>Hulshoff Pol</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Lettinga</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>New technologies for anaerobic wastewater treatment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>18</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>41</sb:first-page>
+                              <sb:last-page>53</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>Hulshoff Pol et al., 1983</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.W.</ce:given-name>
+                                 <ce:surname>Hulshoff Pol</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.J.</ce:given-name>
+                                 <ce:surname>De Zeeuw</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.T.M.</ce:given-name>
+                                 <ce:surname>Velzeboer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Lettinga</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Granulation in UASB-reactors</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>15</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>291</sb:first-page>
+                              <sb:last-page>304</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>Lettinga et al., 1980</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Lettinga</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.F.M.</ce:given-name>
+                                 <ce:surname>Van Velsen</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.W.</ce:given-name>
+                                 <ce:surname>Hobma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>De Zeeuw</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Klapwijk</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Use of the upflow sludge blanket (USB) reactor concept for biological wastewater treatment, especially for anaerobic treatment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biotechnol. Bioengng</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>22</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1980</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>699</sb:first-page>
+                              <sb:last-page>734</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB12">
+                     <ce:label>McCarty, 1964</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.L.</ce:given-name>
+                                 <ce:surname>McCarty</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Anaerobic waste treatment fundamentals. Part Three. Toxic materials and their control</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Public Works</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>95</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1964</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>91</sb:first-page>
+                              <sb:last-page>94</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB13">
+                     <ce:label>Panlin, 1989</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>Z.</ce:given-name>
+                                 <ce:surname>Panlin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Anaerobic treatment of high strength brewery wastewater by UASB process</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Treatment</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1989</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>279</sb:first-page>
+                              <sb:last-page>288</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB14">
+                     <ce:label>Russo and Dold, 1989</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.L.</ce:given-name>
+                                 <ce:surname>Russo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.L.</ce:given-name>
+                                 <ce:surname>Dold</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Sludge character and role of sulphate in a UASB system treating a paper plant effluent</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>21</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1989</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>121</sb:first-page>
+                              <sb:last-page>132</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB15">
+                     <ce:label>Sam-Soon et al., 1991</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>P.A.L.N.S.</ce:given-name>
+                                 <ce:surname>Sam-Soon</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.E.</ce:given-name>
+                                 <ce:surname>Loewenthal</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.C.</ce:given-name>
+                                 <ce:surname>Wentzel</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.E.</ce:given-name>
+                                 <ce:surname>Moosbrugger</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.V.R.</ce:given-name>
+                                 <ce:surname>Marais</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effects of a recycle in upflow anaerobic sludge bed (UASB) systems</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water SA</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>17</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1991</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>37</sb:first-page>
+                              <sb:last-page>46</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB16">
+                     <ce:label>Yan et al., 1990</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.Q.</ce:given-name>
+                                 <ce:surname>Yan</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.V.</ce:given-name>
+                                 <ce:surname>Lo</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.H.</ce:given-name>
+                                 <ce:surname>Liao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Anaerobic digestion of cheese whey using an upflow anaerobic sludge blanket reactor: III. Sludge and substrate profiles</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biomass</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>21</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1990</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>257</sb:first-page>
+                              <sb:last-page>271</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

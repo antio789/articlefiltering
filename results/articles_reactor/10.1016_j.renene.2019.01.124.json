@@ -1,0 +1,39 @@
+{
+  "manual_review": [
+    [
+      "10.1016_j.renene.2019.01.124",
+      "batch"
+    ],
+    [
+      "10.1016_j.renene.2019.01.124",
+      "hybrid"
+    ],
+    [
+      "10.1016_j.renene.2019.01.124",
+      "uasb derivative"
+    ]
+  ],
+  "llm_review": [],
+  "correct_predictions": 0,
+  "false_predictions": 0,
+  "missed_predictions": 3,
+  "precision": 0,
+  "recall": 0.0,
+  "f1_score": 0,
+  "correct_items": [],
+  "false_items": [],
+  "missed_items": [
+    [
+      "10.1016_j.renene.2019.01.124",
+      "batch"
+    ],
+    [
+      "10.1016_j.renene.2019.01.124",
+      "hybrid"
+    ],
+    [
+      "10.1016_j.renene.2019.01.124",
+      "uasb derivative"
+    ]
+  ]
+}

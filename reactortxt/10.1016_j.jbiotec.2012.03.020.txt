@@ -1,0 +1,161 @@
+TITLE: Modeling of simultaneous denitrification – Anaerobic digestion – Organic matter aerobic oxidation and nitrification in an anoxic–anaerobic–aerobic compact filter reactor
+
+
+1 Introduction
+
+Salmon and fishing industry effluents produce a strong environmental impact. After recycling and primary treatment to remove fats and proteins, the effluent contains 4–6 kg Chemical Oxygen Demand (COD) m^−3 (1.5–2.2 g of Total Organic Carbon (TOC) L^−1) (Aspé et al., 1997). Its abatement is achieved with an adequate combination of anaerobic, anoxic and aerobic processes. Conventional treatment to remove carbon and nitrogen compounds consists of three reactors performing separate processes (Aspé et al., 1997). Nevertheless, most recent experiments (Chui et al., 2001; Del Pozo and Diez, 2005; Ros and Vrtovsek, 1998) with different industry effluents have successfully combined these steps in a single unit, without physical separations, for the simultaneous carbon and nitrogen removal in an anaerobic/anoxic/aerobic compact filter reactor (FR).
+
+Compared with these previous works, this research proposes a sequential anoxic/anaerobic/aerobic FR. This configuration enhances the process efficiency because: (a) it uses the inlet organic matter as electron donor in the reduction of the nitrogen oxides (NO _x) without need of additional organic carbon supply; (b) it allows partial nitrification rather than total nitrification. The latter offers some process advantages such as: 25% less O _2 requirements for the nitrification, 40% less organic carbon consumption and low sludge production (Bernet et al., 2005).
+
+When performing these anoxic–anaerobic and aerobic steps in a compact unit, some problems arise which have to be analyzed using a model. These limitations are: (1) inhibition of nitrate (NO _3 ^−) reduction and methanogenesis by nitrite (NO _2 ^−), (2) inhibition of denitrification and methanogenesis by dissolved oxygen (DO), and (3) competition for DO by heterotrophic and autotrophic nitrifying bacteria in the aerobic zone. The methanogenesis inhibition by NO _x in biofilm reactors was included in this work according to Huiliñir et al. (2009). Limitations 2 and 3 are related to the aerobic step because if the oxygen injection in the aerobic step is too high, there is a risk that the recycle flow contains a high DO concentration which in turn inhibits at the inlet reactor section the denitrification process (Del Pozo and Diez, 2005; Plósz et al., 2003; Ramos et al., 2007) and the methanogenesis step (An et al., 2008; Celis-García et al., 2004; Estrada-Vázquez et al., 2001; Lyew and Guiot, 2003). On the other hand, if the oxygen injection is too low, DO can drop to less than 3 mg DO L^−1, which lowers drastically the nitrification in the presence of organic matter because in this concentration range heterotrophic biomass outcompetes autotrophic nitrifier bacteria (Akunna et al., 1994; Del Pozo and Diez, 2005; Ling and Chen, 2005). Thus, the oxygen effect on the anoxic–anaerobic–aerobic efficiency process of a compact FR should be analyzed in a model.
+
+Several models for biological processes have been reported in the literature, such as Activated Sludge Model (ASM) Series (Gujer et al., 1995, 1999; Henze et al., 1987), Anaerobic Digestion Model No. 1, ADM1 (Batstone et al., 2002), Anaerobic Digestion Model of Angelidaki et al. (1999), and Biological Nutrient Removal Model No. 1 (BNRM1) (Seco et al., 2004). Some of these models have been modified. Particularly the COD-based ADM1 model was extended by incorporating the NO _3 ^− reduction (Tugtas et al., 2006, 2010). For batch, semi-continuous, and continuous flow systems with suspended biomass, the pH calculation has been modified due to the presence of the nitrate reduction (Rousseau et al., 2008). The Angelidaki's Anaerobic Digestion model was modified by Huiliñir et al. (2011a) to include denitrification, pH as state variable, and the effect of the protein hydrolysis in a filter reactor in order to treat salmon fishery wastewater as a substrate. Finally, the BNRM1 model has been used as a base case by Huiliñir et al. (2011b) to develop a simpler model in order to study the overall performance of an anoxic–anaerobic–aerobic filter reactor. Unlike the latter work, the present study seeks to incorporate pH and inorganic carbon concentration as state variables and study the axial profiles as well as along the biofilm depth. Then, a more complex model was developed, using as a base case the model published by Huiliñir et al. (2011a) who worked with the same substrate.
+
+The objectives of this study are:(1) To calibrate and validate a dynamic model in steady-state of the anoxic–anaerobic–aerobic process for a compact filter reactor that treats fishery wastewater. (2) To study the DO concentration effect on the organic matter and nitrogen removal efficiencies and on the pH and to determine the DO concentration in the fluid bulk (c _DO,bulk) that favors the nitrogen removal. (3) To analyze the aerobic step by studying the competition between heterotrophic bacteria and autotrophic nitrifying bacteria.
+
+
+2 Methodology
+
+
+2.1 Experiments
+
+Three anoxic–anaerobic–aerobic filter reactors with recirculation (total volume, V = 6.33 L; total height of the reactor, H = 168 cm; internal diameter = 7.1 cm) filled with rough PVC (support surface area: volume ratio of 438 m^2m^−3) randomly distributed throughout the bioreactors were used. Reactor porosity (ɛ_L) was 0.78 without biomass. The liquid volume in the reactors was 4.56 L, while the support volume was 1.33 L without biomass and the reactor headspace was 0.44 L. The reactor was divided in an anoxic–anaerobic zone and an aerobic zone. In this last zone, the air was injected with a diffuser installed in the bulk liquid at approximately half the reactor's height. The anaerobic/aerobic volume was 1:1. The filters were operated under three conditions as shown in Table 1 (Unpublished data). The recycle ratio was defined as the recycled volumetric flow divided by the outlet flow. As a substrate, salmon fishery wastewater (Huiliñir et al., 2011a) was diluted with tap water to reach the composition shown in Table 1; NaCl was added if necessary to have a constant inlet salt concentration.
+
+
+2.2 Analytical methods
+
+Nitrate, nitrite and total ammonia nitrogen (TAN) were spectrophotometrically measured according to Sánchez et al. (2005a). TOC was calculated as the difference between total carbon (TC) and inorganic carbon (IC) according to Aspé et al. (2001). pH was measured by Standard Methods (APHA et al., 1992). Analyses were performed in triplicate. It was experimentally observed that the air injection in the aerobic zone of the tubular reactor diluted the amount of biogas produced in the anoxic–anaerobic zone. Gas analysis in the effluent showed mainly O_2 and N_2 and very small amounts of CH_4 as a result of the dilution produced by the air injection for aeration. Since the biogas measurements at the exit of the tubular reactor were below the equipment's threshold detection limit. These measurements are not shown.
+
+
+2.3 Theory
+
+
+2.3.1 Conceptual model
+
+The flow, biofilm and physical-chemical processes model was based on the previous work of Huiliñir et al. (2009), who studied a tubular reactor with a pseudo two-dimensional model using continuously stirred tank reactors (CSTR). In our work, as shown in Fig. 1 , six CSTR were used according to previous Residence Time Distribution (RTD) tests (unpublished data), which refer to the hydrodynamic behavior in both the anoxic–anaerobic and aerobic zones. Since the volume ratio between both zones is 1:1, three CSTR were considered for each zone. The balance equations of particulate (biomass) and dissolved substances in the biofilm depth and in the fluid and gas bulk are expressed as elsewhere (Huiliñir et al., 2009).
+
+
+2.3.2 Stoichiometry and process kinetics
+
+First, for the denitrification and anaerobic digestion reaction, stoichiometries and kinetics of fish effluents biological treatment reported by Huiliñir et al. (2011a) were used. Parameters for denitrification inhibition by DO from the Activated Sludge Model (ASM) (Henze et al., 2000) and inhibition terms from the Biological Nutrient Removal Model No. 1 (BNRM1) (Seco et al., 2004) were also used.
+
+Secondly, for the nitrification, stoichiometry and kinetics, the data published by Wiesmann (1994) were used although fishery wastewater substrates were considered; thus, NaCl inhibitory effects on the maximum specific rate (Sánchez et al., 2004) and also non-competitive inhibition by VFA (Delgado et al., 2004) were added.
+
+Thirdly, for the aerobic oxidation experimental values of the protein, fishery wastewater substrate were used (unpublished data); these data were compared with other data published by Béline et al. (2007), who used piggery wastewater as a substrate (see Table 2 ). This table shows that data for both authors are within the same range, and model results did not show any significant differences between their use (unpublished data). Phosphorus (P) removal was not included in the model because the salmon effluent contains about 8 mg P L^−1 (Aspé et al., 2001) smaller to be considered an environmental problem if compared to nitrogen dumping.
+
+Table 3 shows the mass based stoichiometric coefficients for dissolved and particulate compounds. Table 4 shows the reaction rates of the different processes involved. Table 5 presents the physical model's parameters and Table 6 the process parameters of denitrification–anaerobic digestion–organic matter aerobic oxidation–nitrification process parameters.
+
+
+2.3.3 Physicochemical processes
+
+To predict pH, a charge balance in the medium was performed (Campos and Flotats, 2003) using the algorithm presented by Huiliñir et al. (2011a). Dissociation fractions of H _2 CO _3/HCO _3 ^−/CO _3 ^−2, NH _4 ^+/NH _3 and HNO _2/NO _2 ^− were calculated following Angelidaki's procedure (Angelidaki et al., 1999). For the DO partial pressure determination, the reactor was assumed to operate at atmospheric pressure and that the DO pressure is proportional to the DO fraction in the gas flow.
+
+
+2.3.4 Relationship of  k 
+                            
+                               L 
+                            
+                            a  and DO
+
+Bello et al. (1985) and Jurascik et al. (2006) have shown an expression for k _L a where k _L a is inversely proportional to the bubble diameter (d _B) and proportional to the Grashof number (Gr) and gas hold up (ɛ) as shown in Eq. (1): FORMULA: k L a = k 1 ⋅ G r 1 / 3 d B ε 1.2
+
+The gas hold up is determined from ε = v g / ( v g + v L ) where ν_g and ν_L are the ascending velocity of the gas and the liquid, respectively. The ascending velocity in a column is shown in Eq. (2): FORMULA: v L = k 2 ⋅ ε 0.5
+
+Replacing Eq. (1) in (2), the relationship between v _L and k _L a is obtained as expressed in Eq. (3): FORMULA: k L a = k 3 ⋅ v L 2.4 where k _1, k _2 and k _3 are proportionality constants.
+
+Then, the influence of v _L and k _L a is incorporated into the equation presented by Sánchez et al. (2005b) and Eq. (4) is obtained: FORMULA: k L a O 2 = γ ⋅ G r 1 / 3 v L 2.4 G r ′ 1 / 3 v ′ L 2.4 ⋅ v g 1.52 where G r ′ and v ′ L are the Grashof number and the liquid velocity respectively, for recycle ratio (R) = 2; and Gr and v _L correspond to other flows and recycle ratios in the reactor. The adjustment is done with the incorporation of a factor “γ” into this equation. This factor is based on the expression used by Bello et al. (1985).
+
+
+2.4 Model resolution.
+
+The FR model was solved using six equal CSTR, which were in turn solved sequentially, where each reactor's outlet was the inlet conditions for the next reactor (Huiliñir et al., 2009). Each CSTR was solved by discretizing the biofilm in 30 nodes as shown elsewhere by Huiliñir et al. (2009), obtaining 671 ordinary differential equations (ODE). These are stiff equations; therefore they were solved using Numerical Differentiation Formulas in the MATLAB 6.5 software (Shampine and Reichelt, 1997). The balance is dynamically determined but the results analysis is done at steady state; therefore all ODE equations were integrated in a total FR operation period of 300 d. This limit value was obtained from the FR behavior until steady state was obtained (Unpublished data).
+
+The recycle to the reactor was simulated with the Wegstein method, which accelerates the convergence of the proposed problem (Wegstein, 1958). The model convergence criteria was set when the relative error of NO _3 ^−, NO _2 ^−, TAN, TOC, IC and pH reactor outlet parameters were less than 1% for larger concentrations than 1 mg L^−1; whereas the used criteria for concentrations below 1 mg L^−1 was an absolute error less than 0.1 mg L^−1 for the aforementioned parameters.
+
+From Table 5, P _T,gas was assumed; from the reactors design conditions V and ɛ_L were experimentally determined. L _w and ρ _b were obtained from literature. D _i and He _i were calculated from literature data at 30 °C. H e i for O _2 and for CO _2 were corrected due to the presence of salts following Gros et al. procedure (1999). Finally, the adjustment for k L a O 2 was performed.
+
+
+2.5 Calibration and validation of the model
+
+Experimental data from R3 was used for the calibration, and experimental data from R2 and R1 were used for validation (Table 1). For the model calibration k L a O 2 was changed and default values for the remaining model parameters were assigned.
+
+To determine validity, the Theil's inequality coefficient (TIC) (Hvala et al., 2005) was calculated as shown in Eq. (5): FORMULA: T I C = ∑ i ( y i − y m , i ) 2 ∑ i y i 2 + ∑ i y m , i 2 where y is the analyzed parameter, y _i is the experimental value and y _m,i is the model predicted value.
+
+The model adequately predicts the experimental data when the TIC value is smaller than 0.3 (Hvala et al., 2005).
+
+
+2.6 Parametric sensitivity analysis
+
+Parametric sensitivity analysis was performed as presented by Huiliñir et al. (2009) as shown in Eq. (6): FORMULA: Δ M M j = M − M j M j ⋅ 100 % where M is the predicted parameter and M _j is the reference value.
+
+
+3 Results and discussion
+
+
+3.1 Parametric sensitivity analysis of the model
+
+Fig. 2 shows the parametric sensitivity analysis (Eq. (6)) of the model in the aerobic zone. The following physical chemical and biochemical parameters had the largest impact on the aerobic step: k L a O 2, μ max , X A O , 22, μ max , X N O , 23, K S , D O , 22, K S , D O , 23 and K I , H N O 2 , 23. The parameters from the aerobic oxidation of organic matter did not show a significant influence on the results. This figure shows that the parameters with the greatest impact on the process are μ max , X N O , 23, K I , H N O 2 , 23, and k L a O 2. These results are coincident with those of Huiliñir et al. (2010) who modeled a Rotating Disk Biofilm Reactor (RDBR) using a synthetic substrate only with inorganic carbon and observed that the parameters that most affected nitrification were μ max , X A O , 22 and k _L; in contrast, variations in the affinity constants K S , D O , 22 and K S , D O , 23 did not produce effects on the process. The effect of autotrophic bacteria over organic matter draws attention because although autotrophic biomass does not consume TOC it does consume alkalinity (potentially bicarbonate) and generates NO _2 ^− and NO _3 ^− which are then recycled to the entrance of the reactor and are related to the TOC consumption in the denitrification.
+
+
+3.2 Model calibration.
+
+The model was adjusted only with k L a O 2, as did Huiliñir et al. (2011b), because the parametric sensitivity analysis demonstrated that k_La is the parameter that mainly affects the results. The other two parameters affecting the model are: μ _max for nitratation, μ max , X N O , 23 and the inhibition constant, K I , H N O 2 , 23. However, both have a small range of variation, and thus their effect on the results is smaller than k _L a. The k L a O 2 value was adjusted modifying γ from Eq. (4) and comparing it with the experimental data of NO _3 ^−, NO _2 ^−, TAN, TOC, IC and pH parameters for the reactor R3 until obtaining a satisfactory approximation with a value of γ of 0.98, and k L a O 2 = 128 d − 1 for R = 2 and Q _air,0 = 640 L d^−1.
+
+
+3.3 Model validation
+
+The model was validated with the experimental data from reactors R2 (Fig. 3 ) and R1 (data not shown). Furthermore, the aerobic step was validated comparing simulating data with the published data of Akunna et al. (1994) (Fig. 4 ), who used two sequential anaerobic–aerobic FR with recycle for the removal of glucose and ammonia nitrogen. In the latter case, the axial profiles in the aerobic reactor depend on the recycled flow to the anoxic/anaerobic zone. Nevertheless, for the simulation in this work, the inlet conditions in the reactor were assumed to be known for each recycle ratio experimentally used.
+
+Fig. 3 shows that the model adequately predicts experimental data for R2 with TIC values of 0.64, 0.15, 0.08, 0.29, 0.19 and 0.003 for NO _3 ^−, NO _2 ^−, TAN, TOC, IC and pH, respectively. These are satisfactory values showing concordance with the criteria of Eq. (5) except for NO _3 ^−. Since these parameter concentrations are lower than unity, the calculated relative error for this parameter is very high, which in turn negatively influences the TIC value. On the other hand, the TIC value for R1 was 0.10, 0.24, 0.18, 0.02, 0.15 and 0.008 for NO _3 ^−, NO _2 ^−, TAN, TOC, IC and pH, respectively. From Fig. 4, it can be observed that the model adequately predicts experimental data for aerobic filter with TIC values of 0.15, 0.24, 0.14 and 0.11 for ratios of 0, 1, 3 and 5, respectively.
+
+These results show that the model effectively represents the anaerobic–anoxic–aerobic FR presented in this work for R = 2 and also that the model can predict the behavior of other reactors such as the aerobic FR used by Akunna et al. (1994), demonstrating its robustness and versatility.
+
+
+3.4 Effect of the DO concentration on the removal efficiency
+
+Once the model was validated, the effect of the injected DO on the process efficiency was studied. The simulated inlet conditions were those of the reactor R2 because these data showed the best experimental results.
+
+Removal efficiencies were determined from Fig. 5 . On the one hand, TOC concentration was low for the entire range of experimental DO concentrations, and removal was over 98% for all cases, as shown Fig. 5A. On the other hand, nitrogen removal reached 55 and 62% for partial and complete nitrification, respectively, as shown from Fig. 5B. Complete nitrification results in higher nitrogen removal than partial nitrification because, in this case, the greatest amount of NO _x is produced in the aerobic zone and then is recirculated into the anoxic zone where they are denitrified, passing into the gaseous phase N_2.
+
+It is noteworthy that even for high oxygen concentrations (c _DO,bulk > 5.0 mg DO L^−1), it is still observed that nitrification is not complete. Two reasons can explain this behavior: first, nitritation and nitratation inhibition by NH_3 and HNO_2 produced by the pH decrease (see Fig. 5C); and second, the diffusion limitations that hinder the free access of the oxygen inside the biofilm. With our model, this result can be predicted because of the inclusion of the inorganic carbon concentration (c _IC) and pH. This is an important difference because previous models assumed that the pH was constant and usually close to neutrality, resulting in an overestimation of the nitrification and consequently also in the overestimation of the overall nitrogen removal in the tubular reactor.
+
+
+3.5 The effect of DO concentration on the nitrification
+
+Fig. 5B shows that for DO values below 0.4 mg L^−1, there is no NO _2 ^−, first due to larger affinity to DO of X _HAe than X _AO, and second because the NO _2 ^− formed is denitrified inside of the biofilm forming N _2. Under low availability of DO (0.8 < c _DO,bulk < 1.6 mg DO L^−1), partial nitrification occurs due to larger affinity of the X _AO to oxygen (Bernet et al., 2001). No NO _2 ^− and complete nitrification are observed for larger DO concentration values. Profiles of different nitrogen species with respect to partial or total nitrification as a function of DO are similar to those reported in previous studies, even with the presence of organic matter. The sum of NO _2 ^− and NO _3 ^− concentrations do not match with the amount of TAN oxidized due mainly to denitrification in the aerobic zone of the tubular FR and in less amount to the TAN consumption by heterotrophic growth. A simultaneous nitrification–denitrification process is possible because of the diffusion limitations that prevent the necessary oxygen transfer into the biofilm; therefore, denitrification produces nitrogen gas in the aerobic zone of the reactor.
+
+The nitrification process can also be expressed using two parameters, namely α and β that show the TAN oxidation and how much TAN is transformed to NO _2 ^− (Huiliñir et al., 2010), respectively. These values are shown in Fig. 6 , where α values larger than 65% are obtained if c _DO,bulk > 2.0 mg DO L^−1, with a maximum of 75% if c _DO,bulk > 5.0 mg DO L^−1; also β values larger than 80% when c _DO,bulk < 1.4 mg DO L^−1, for a pH range between 6 and 7 in the outlet reactors flow. These results are similar to those published by Huiliñir et al. (2010) who reported that α is less than 50% for c _DO,bulk < 1.5 mg DO L^−1 for all pH values between 7 and 9, whereas α is increased for c _DO,bulk > 2 mg DO L^−1 and for basic pH values. Low ammonia oxidation is shown in Fig. 6 due to acidity during the determination, which should not be the case for substrates at neutral pH. In the latter scenario, nitritation is not inhibited and an increase in X _NO is expected until reaching a final value defined by complete ammonia oxidation and total nitrification. A pH control system for nitrifying media (Bernet et al., 2005) can be experimentally installed in order to define requirements.
+
+
+3.6 Reactor performance for  R 
+                         = 2 and 2.6 mg DO L −1 .
+
+The following sections discuss the case for the injection of 2400 L d^−1 of air into the aerobic zone, resulting in c _DO,bulk = 2.6 mg DO L^−1 in the outlet of the FR. As observed in Figs. 5 and 6, TOC and nitrogen removal of 98 and 60% as well as α and β of 68 and 5%, respectively are obtained under these conditions.
+
+
+3.6.1 Axial profiles of dissolved compounds and of biomass throughout the reactor
+
+Fig. 7 shows that with air injection, two reactor zones are produced. In the lower anoxic-anaerobic zone the aerobic oxidation of VFA (with depletion of recycled DO), denitrification (with total reduction of NO_x) and anaerobic digestion (organic matter consumption and IC y TAN generation) are produced. In the upper zone the aerobic oxidation of remnant VFA and nitrification occur. Also due to nitrification, pH values decrease up to slightly over 6.25, resulting in a decrease of the NH _3 available for nitritation.
+
+A significant result is related with the recirculated DO concentration, which does not inhibit denitrification in all the cases. This phenomenon is due to the quick consumption of DO in the first step at the reactor entrance where aerobic oxidation of volatile fatty acids (VFA) occurs. Here, the inlet DO is consumed, and no nitrifying bacteria are observed. The absence of inhibition can be observed in the axial profiles of Fig. 7B where recirculated NO _3 ^− is completely denitrified in the first CSTR. In addition, no methanogenesis inhibition by DO is observed since the DO concentration is higher than the threshold inhibition DO concentration of denitrification.
+
+Fig. 8 presents biomass profiles in the FR calculated as mean values along the biofilm. In the anaerobic zone heterotrophic aerobic biomass (X _HAe), amino-acids degraders biomass (X _AA) and heterotrophic anaerobic biomass (X _HAn) are present. Here X H A n = X V a B u + X Pr o + X A c where X _VaBu, X _Pro, X _Ac are valerate–butyrate, propionate and acetate degraders biomass, respectively. While in the aerobic zone X _HAe, ammonio-oxidants biomass (X _AO) and X _AA are present. Denitrification is carried out by X _HAe mainly in the lower part of the reactor; VFA oxidation and denitrification in zones of low DO availability are present in the upper part of filter. In the aerobic zone, as expected, X _AO is larger than nitrite-oxidants biomass (X _NO).
+
+
+3.6.2 Profiles inside the biofilm for  R 
+                            = 2,  Q 
+                            
+                               air,0 
+                            
+                            = 2400 L d −1  in the fifth CSTR
+
+Fig. 9 shows that dissolved nitrogen and carbon species are relatively constant and that the limiting substrate is the DO concentration, which decreases along the biofilm depth. For most cases, this behavior is the same in all the reactors sections and for all simulated conditions. Fig. 9C shows that a change in the biofilm biomass fractions occurs as a result of the decrease of DO concentrations up to values of 1.0 mg DO L^−1; indeed, one of the main results is the X _HAe remain practically constant throughout the biofilm due to the lack of organic matter required for aerobic oxidation of VFA. This fact highlights the simulation result of nitrification and denitrification phenomena in the aerobic zone of the FR.
+
+
+4 Conclusions
+
+The model predicts the behavior and operation performance of the proposed compact anoxic–anaerobic–aerobic FR used to treat fishery effluents at a recycle ratio (R) of 2 as well as operation performance values reported for denitrification, anaerobic digestion, aerobic carbon oxidation and nitrification processes in a compact FR, including pH and inorganic carbon as a states variables.
+
+In the compact FR, nitrogen removal increases until reaching 62% when the DO concentration increases. High amounts of DO do not significantly affect nitrogen removal as the heterotrophic biomass in the anoxic zone consumes all available DO in the aerobic oxidation of the VFA, avoiding denitrification and methanogenesis inhibition.
+
+There is no NO _2 ^− in the aerobic zone for c _DO,bulk < 0.4 mg DO L^−1, first due to larger affinity to DO of X _HAe than X _AO, and second because the NO _2 ^− formed is denitrified inside of the biofilm forming N _2. Also partial nitrification is produced for c _DO,bulk < 1.6 mg DO L^−1 due to the larger DO affinity of X _AO in comparison with X _NO; meanwhile complete nitrification takes place for larger c _DO,bulk. In this FR zone, the c _DO decreases inside the biofilm for depths up to values of 1.0 mg DO L^−1, allowing simultaneous nitrification and denitrification processes.

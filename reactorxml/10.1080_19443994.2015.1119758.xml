@@ -1,0 +1,2523 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S1944398624041079</prism:url><dc:identifier>doi:10.1080/19443994.2015.1119758</dc:identifier><eid>1-s2.0-S1944398624041079</eid><prism:doi>10.1080/19443994.2015.1119758</prism:doi><pii>S1944-3986(24)04107-9</pii><dc:title>Effect of inoculum source and effluent recycle on the start-up performance of a modified anaerobic inclining-baffled reactor treating recycled paper mill effluent </dc:title><prism:publicationName>Desalination and Water Treatment</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>19443986</prism:issn><prism:volume>57</prism:volume><prism:issueIdentifier>45</prism:issueIdentifier><prism:startingPage>21350</prism:startingPage><prism:endingPage>21363</prism:endingPage><prism:pageRange>21350-21363</prism:pageRange><prism:number>45</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2016-09-30</prism:coverDate><prism:coverDisplayDate>September 2016</prism:coverDisplayDate><prism:copyright>Copyright © 2015 Elsevier Inc.</prism:copyright><prism:publisher>Elsevier Inc.</prism:publisher><dc:creator>Zwain, Haider M.</dc:creator><dc:creator>Aziz, Hamidi Abdul</dc:creator><dc:creator>Dahlan, Irvan</dc:creator><dc:description>
+                  In this study, three start-up techniques of modified anaerobic inclining-baffled reactor (MAI-BR) were performance to understand the effect of inoculum source and effluent recycle on the treatment of recycled paper mill effluent (RPME). Flocculant anaerobic sludge from a palm oil mill pond and digested anaerobic sludge from a sewage treatment plant were inoculated in the first and second start-up/phase1, respectively. Results show that high chemical oxygen demand (COD) removals of 93 and 88% were achieved in the first and second start-up/phase1, respectively. The amount of methane produced in the second start-up/phase1 within 15 d was doubled as compared to the amount produced in the first start-up, with a higher methane content of 79% (as compared to 62% in the first start-up). This result indicated that the inoculum source has a significant effect on the reactor performance. The results in the second start-up/phase2 also showed that COD removal and methane production increased up to 94% and 0.52 L CH4/d, respectively. This finding can conclude that the use of effluent recycle has a favorable effect on the performance of MAI-BR. During the first start-up, second start-up/phase1, and second start-up/phase2, the volatile fatty acid/alkalinity compartmental ratios were varied at 0.01–0.06, 0.03–0.43, and 0.02–0.14, respectively, and the overall effluent pH levels were higher than 6.5. The findings indicate the stability of the MAI-BR system in treating RPME.
+               </dc:description><openaccess>1</openaccess><openaccessArticle>true</openaccessArticle><openaccessType>Full</openaccessType><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType>Author</openaccessSponsorType><openaccessUserLicense>http://creativecommons.org/licenses/by-nc-nd/4.0/</openaccessUserLicense><dcterms:subject>Anaerobic digestion</dcterms:subject><dcterms:subject>Recycled paper mill effluent (RPME)</dcterms:subject><dcterms:subject>Modified anaerobic inclining-baffled reactor (MAI-BR)</dcterms:subject><dcterms:subject>Start-up techniques</dcterms:subject><dcterms:subject>Inoculum source</dcterms:subject><dcterms:subject>Effluent recycle</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S1944398624041079" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S1944398624041079" rel="scidir"/></coredata><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>785634</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291810</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+         <xocs:ssid type="oa">90</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Desalination and Water Treatment</xocs:srctitle>
+      <xocs:normalized-srctitle>DESALINATIONWATERTREATMENT</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20241009">2024-10-09</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20241009">2024-10-09</xocs:available-online-date>
+      <xocs:vor-load-date yyyymmdd="20241009">2024-10-09</xocs:vor-load-date>
+      <xocs:vor-available-online-date yyyymmdd="20241009">2024-10-09</xocs:vor-available-online-date>
+      <xocs:ew-transaction-id>2024-10-09T08:03:17</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S1944398624041079</xocs:eid>
+      <xocs:pii-formatted>S1944-3986(24)04107-9</xocs:pii-formatted>
+      <xocs:pii-unformatted>S1944398624041079</xocs:pii-unformatted>
+      <xocs:doi>10.1080/19443994.2015.1119758</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.1</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S1944398615X98006</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20241009">2024-10-09T07:48:26.804876Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20160901</xocs:date-search-begin>
+      <xocs:date-search-end>20160930</xocs:date-search-end>
+      <xocs:year-nav>2016</xocs:year-nav>
+      <xocs:indexeddate epoch="1728463706">2024-10-09T08:48:26.804876Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright crossmark dateloaded dateloadedtxt datesearch datesort dateupdated dco docsubtype doctype doi eid ewtransactionid hubeid indexeddate issfirst issn issnnorm issuelist itemstage itemtransactionid itemweight oauserlicense openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype ssids alllist content oa subj tomb volfirst volissue volumelist webpdf webpdfpagecount yearnav affil articletitle auth authfirstini authfull authkeywords authlast primabst ref</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>1944-3986</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>19443986</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0">false</xocs:crossmark>
+      <xocs:vol-first>57</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>57</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>45</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>45</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 57, Issue 45</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>19</xocs:sort-order>
+      <xocs:first-fp>21350</xocs:first-fp>
+      <xocs:last-lp>21363</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>21350</xocs:first-page>
+         <xocs:last-page>21363</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>201609</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>September 2016</xocs:cover-date-text>
+      <xocs:cover-date-start>2016-09-01</xocs:cover-date-start>
+      <xocs:cover-date-end>2016-09-30</xocs:cover-date-end>
+      <xocs:cover-date-year>2016</xocs:cover-date-year>
+      <xocs:document-type>simple-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2015 Elsevier Inc.</xocs:copyright-line>
+      <xocs:normalized-article-title>EFFECTINOCULUMSOURCEEFFLUENTRECYCLESTARTUPPERFORMANCEAMODIFIEDANAEROBICINCLININGBAFFLEDREACTORTREATINGRECYCLEDPAPERMILLEFFLUENT</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>ZWAIN</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>H</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="rf0010">
+            <xocs:ref-normalized-surname>WIJETUNGA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>792</xocs:ref-first-fp>
+            <xocs:ref-last-lp>798</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0015">
+            <xocs:ref-normalized-surname>AIYUK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2225</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2241</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0020">
+            <xocs:ref-normalized-surname>BARBER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1559</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1578</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0025">
+            <xocs:ref-normalized-surname>HASSAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>7</xocs:ref-first-fp>
+            <xocs:ref-last-lp>12</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0030">
+            <xocs:ref-normalized-surname>ZHU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1243</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1276</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0035">
+            <xocs:ref-normalized-surname>ALIGHARDASHI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>9</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0040">
+            <xocs:ref-normalized-surname>KENNEDY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1277</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1281</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0045">
+            <xocs:ref-normalized-surname>GROVER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>653</xocs:ref-first-fp>
+            <xocs:ref-last-lp>657</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0050">
+            <xocs:ref-normalized-surname>BARBER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-first-fp>489</xocs:ref-first-fp>
+            <xocs:ref-last-lp>501</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0055">
+            <xocs:ref-normalized-surname>MALIK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>B</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>EVALUATIONPROCESSPARAMETERSTREATMENTSDIFFERENTRAWMATERIALSFORBIOGASPRODUCTION</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0060">
+            <xocs:ref-normalized-surname>LI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>138</xocs:ref-first-fp>
+            <xocs:ref-last-lp>144</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0065">
+            <xocs:ref-normalized-surname>NEVES</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2019</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2024</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0070">
+            <xocs:ref-normalized-surname>BALOCH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1849</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1855</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0075">
+            <xocs:ref-normalized-surname>ZWAIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>85</xocs:ref-first-fp>
+            <xocs:ref-last-lp>90</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0080">
+            <xocs:ref-normalized-surname>ZWAIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0085">
+            <xocs:ref-normalized-surname>ZWAIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>60</xocs:ref-first-fp>
+            <xocs:ref-last-lp>63</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0090">
+            <xocs:ref-normalized-surname>HASSAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>6</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0095">
+            <xocs:ref-normalized-surname>ZWAIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2013</xocs:ref-pub-year>
+            <xocs:ref-first-fp>61</xocs:ref-first-fp>
+            <xocs:ref-last-lp>64</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0100">
+            <xocs:ref-normalized-surname>TORABIAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>229</xocs:ref-first-fp>
+            <xocs:ref-last-lp>240</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0105">
+            <xocs:ref-normalized-surname>APHAAWWAWEF</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>STANDARDMETHODSFOREXAMINATIONWATERWASTEWATER</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0110">
+            <xocs:ref-normalized-surname>GUOCHEN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-article-title>STARTUPOPERATIONALPERFORMANCEANAEROBICBAFFLEDREACTORABRTREATINGHIGHCONCENTRATIONSUGARPRODUCINGWASTEWATER</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0115">
+            <xocs:ref-normalized-surname>KENNEDY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-first-fp>11</xocs:ref-first-fp>
+            <xocs:ref-last-lp>17</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0120">
+            <xocs:ref-normalized-surname>CHELLIAPAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>85</xocs:ref-first-fp>
+            <xocs:ref-last-lp>90</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0125">
+            <xocs:ref-normalized-surname>MALAKAHMAD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1449</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1452</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0130">
+            <xocs:ref-normalized-surname>PEREIRA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1025</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1031</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0135">
+            <xocs:ref-normalized-surname>SARITPONGTEERAKA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>8987</xocs:ref-first-fp>
+            <xocs:ref-last-lp>8994</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0140">
+            <xocs:ref-normalized-surname>ZWAIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>72</xocs:ref-first-fp>
+            <xocs:ref-last-lp>86</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>WASTEWATERENGINEERINGADVANCEDWASTEWATERTREATMENT</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>BIOLOGICALTREATMENTRECYCLEDPAPERMILLWASTEWATERUSINGMODIFIEDANAEROBICINCLININGBAFFLEDBIOREACTORMAIBR</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0145">
+            <xocs:ref-normalized-surname>MOHDARIS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2015</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>9</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0150">
+            <xocs:ref-normalized-surname>RONGRONG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2011</xocs:ref-pub-year>
+            <xocs:ref-first-fp>287</xocs:ref-first-fp>
+            <xocs:ref-last-lp>294</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0155">
+            <xocs:ref-normalized-surname>RAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>13498</xocs:ref-first-fp>
+            <xocs:ref-last-lp>13504</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>Z</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0160">
+            <xocs:ref-normalized-surname>SPEECE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>539</xocs:ref-first-fp>
+            <xocs:ref-last-lp>547</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0165">
+            <xocs:ref-normalized-surname>BODKHE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2488</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2493</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0170">
+            <xocs:ref-normalized-surname>HORIUCHI</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>209</xocs:ref-first-fp>
+            <xocs:ref-last-lp>213</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0175">
+            <xocs:ref-normalized-surname>MALAKAHMAD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2014</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>9</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0180">
+            <xocs:ref-normalized-surname>ZHU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>8027</xocs:ref-first-fp>
+            <xocs:ref-last-lp>8033</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0185">
+            <xocs:ref-normalized-surname>HU</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2008</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3135</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3139</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>X</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-article-title>OPERATIONALCHARACTERISTICSANAEROBICBAFFLEDREACTORTREATINGLOWSTRENGTHWASTEWATER</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0190">
+            <xocs:ref-normalized-surname>BALOCH</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1015</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1021</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0195">
+            <xocs:ref-normalized-surname>GOPALAKRISHNA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>166</xocs:ref-first-fp>
+            <xocs:ref-last-lp>176</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>G</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0200">
+            <xocs:ref-normalized-surname>MARIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2010</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2217</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2223</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0205">
+            <xocs:ref-normalized-surname>ZHANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2009</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>4</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-article-title>DOMESTICWASTEWATERTREATMENTASLOPPINGBAFFLEABR</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0210">
+            <xocs:ref-normalized-surname>POLLICE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2004</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1799</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1808</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0215">
+            <xocs:ref-normalized-surname>DITTMAR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1417</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1428</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>T</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0220">
+            <xocs:ref-normalized-surname>ARSHAD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2012</xocs:ref-pub-year>
+            <xocs:ref-first-fp>761</xocs:ref-first-fp>
+            <xocs:ref-last-lp>768</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="rf0225">
+            <xocs:ref-normalized-surname>NACHAIYASIT</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>2737</xocs:ref-first-fp>
+            <xocs:ref-last-lp>2747</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>ZWAINX2016X21350</xocs:refkey3>
+         <xocs:refkey4lp>ZWAINX2016X21350X21363</xocs:refkey4lp>
+         <xocs:refkey4ai>ZWAINX2016X21350XH</xocs:refkey4ai>
+         <xocs:refkey5>ZWAINX2016X21350X21363XH</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="1" is-open-archive="0">Full</xocs:oa-article-status>
+         <xocs:oa-access-effective-date>2024-07-29T15:17:21Z</xocs:oa-access-effective-date>
+         <xocs:oa-sponsor>
+            <xocs:oa-sponsor-type>Author</xocs:oa-sponsor-type>
+         </xocs:oa-sponsor>
+         <xocs:oa-user-license>http://creativecommons.org/licenses/by-nc-nd/4.0/</xocs:oa-user-license>
+         <xocs:oa-access-inherited-from winid="http://vtw.elsevier.com/content/oaw/1944-3986_UNBOUNDED_Author">OA-Window</xocs:oa-access-inherited-from>
+      </xocs:open-access>
+      <xocs:article-sharing-framework/>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S1944-3986(24)04107-9</xocs:pii-formatted>
+         <xocs:pii-unformatted>S1944398624041079</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S1944398624041079</xocs:eid>
+         <xocs:doi>10.1080/19443994.2015.1119758</xocs:doi>
+         <xocs:cid>785634</xocs:cid>
+         <xocs:timestamp>2024-10-09T07:48:26.804876Z</xocs:timestamp>
+         <xocs:cover-date-start>2016-09-01</xocs:cover-date-start>
+         <xocs:cover-date-end>2016-09-30</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S1944398624041079-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1944398624041079/MAIN/application/pdf/5ff50724223057f2910a91c62907504f/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>366445</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>14</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S1944398624041079-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1944398624041079/PREVIEW/image/png/d2c7f01e76d0feb430de1334a866a4f5/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>52915</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:rawtext xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">Effect of inoculum source and effluent recycle on the start-up performance of a modified anaerobic inclining-baffled reactor treating recycled paper mill effluent Haider M. Zwain, a eng.zwain@gmail.com Hamidi Abdul Aziz, a b cehamidi@usm.my Irvan Dahlan, b c chirvan@usm.my a School of Civil Engineering, Universiti Sains Malaysia, Engineering Campus, Seri Ampangan, Nibong Tebal, 14300, Pulau Pinang, Malaysia School of Civil Engineering, Universiti Sains Malaysia, Engineering Campus, Seri Ampangan Nibong Tebal Pulau Pinang 14300 Malaysia School of Civil Engineering, Universiti Sains Malaysia, Engineering Campus, Seri Ampangan, Nibong Tebal, 14300, Pulau Pinang, Malaysia b Solid Waste Management Cluster, Universiti Sains Malaysia, Engineering Campus, Nibong Tebal, 14300, Pulau Pinang, Malaysia, Tel. +604 5996463 Solid Waste Management Cluster, Universiti Sains Malaysia, Engineering Campus Nibong Tebal Pulau Pinang 14300 Malaysia Solid Waste Management Cluster, Universiti Sains Malaysia, Engineering Campus, Nibong Tebal, 14300, Pulau Pinang, Malaysia, Tel. +604 5996463 c School of Chemical Engineering, Universiti Sains Malaysia, Engineering Campus, Seri Ampangan, Nibong Tebal, 14300, Pulau Pinang, Malaysia School of Chemical Engineering, Universiti Sains Malaysia, Engineering Campus, Seri Ampangan Nibong Tebal Pulau Pinang 14300 Malaysia School of Chemical Engineering, Universiti Sains Malaysia, Engineering Campus, Seri Ampangan, Nibong Tebal, 14300, Pulau Pinang, Malaysia   Abstract   In this study, three start-up techniques of modified anaerobic inclining-baffled reactor (MAI-BR) were performance to understand the effect of inoculum source and effluent recycle on the treatment of recycled paper mill effluent (RPME). Flocculant anaerobic sludge from a palm oil mill pond and digested anaerobic sludge from a sewage treatment plant were inoculated in the first and second start-up/phase1, respectively. Results show that high chemical oxygen demand (COD) removals of 93 and 88% were achieved in the first and second start-up/phase1, respectively. The amount of methane produced in the second start-up/phase1 within 15Â d was doubled as compared to the amount produced in the first start-up, with a higher methane content of 79% (as compared to 62% in the first start-up). This result indicated that the inoculum source has a significant effect on the reactor performance. The results in the second start-up/phase2 also showed that COD removal and methane production increased up to 94% and 0.52Â LÂ CH4   /d, respectively. This finding can conclude that the use of effluent recycle has a favorable effect on the performance of MAI-BR. During the first start-up, second start-up/phase1, and second start-up/phase2, the volatile fatty acid/alkalinity compartmental ratios were varied at 0.01â€“0.06, 0.03â€“0.43, and 0.02â€“0.14, respectively, and the overall effluent pH levels were higher than 6.5. The findings indicate the stability of the MAI-BR system in treating RPME.Keywords Anaerobic digestion Recycled paper mill effluent (RPME) Modified anaerobic inclining-baffled reactor (MAI-BR) Start-up techniques Inoculum source Effluent recycle   References  [1] Wijetunga, S. Li, X.-F. Jian, C. Effect of organic load on decolourization of textile wastewater containing acid dyes in upflow anaerobic sludge blanket reactor J. Hazard. Mater. 177: (2010) 792-798 10.1016/j.jhazmat.2009.12.103 S. Wijetunga, X.-F.Li, C.Jian, Effect of organic load on decolourization of textile wastewater containing acid dyes in upflow anaerobic sludge blanket reactor, J. Hazard. Mater.177 (2010) 792â€“798.10.1016/j.jhazmat.2009.12.103   [2] Aiyuk, S. Forrez, I. Lieven, D.K. van Haandel, A. Verstraete, W. Anaerobic and complementary treatment of domestic sewage in regions with hot climatesâ€”A review Bioresour. Technol. 97: (2006) 2225-2241 10.1016/j.biortech.2005.05.015 S. Aiyuk, I.Forrez, D.K.Lieven, A.van Haandel, W.Verstraete, Anaerobic and complementary treatment of domestic sewage in regions with hot climatesâ€”A review, Bioresour. Technol.97 (2006) 2225â€“2241.10.1016/j.biortech.2005.05.015   [3] Barber, W.P. Stuckey, D.C. The use of the anaerobic baffled reactor (ABR) for wastewater treatment: A review Water Res. 33: (1999) 1559-1578 10.1016/S0043-1354(98)00371-6 W.P. Barber, D.C.Stuckey, The use of the anaerobic baffled reactor (ABR) for wastewater treatment: A review, Water Res.33 (1999) 1559â€“1578.10.1016/S0043-1354(98)00371-6   [4] Hassan, S.R. Zwain, H.M. Dahlan, I. Development of anaerobic reactor for industrial wastewater treatment: An overview, present stage and future prospects J. Adv. Sci. Res. 4: (2013) 7-12 S.R. Hassan, H.M.Zwain, I.Dahlan, Development of anaerobic reactor for industrial wastewater treatment: An overview, present stage and future prospects, J. Adv. Sci. Res.4 (2013) 7â€“12.   [5] Zhu, G. Zou, R. Jha, A.K. Huang, X. Liu, L. Liu, C. Recent developments and future perspectives of anaerobic baffled bioreactor for wastewater treatment and energy recovery Crit. Rev. Environ. Sci. Technol. 45: (2015) 1243-1276 10.1080/10643389.2014.924182 G. Zhu, R.Zou, A.K.Jha, X.Huang, L.Liu, C.Liu, Recent developments and future perspectives of anaerobic baffled bioreactor for wastewater treatment and energy recovery, Crit. Rev. Environ. Sci. Technol.45 (2015) 1243â€“1276.10.1080/10643389.2014.924182   [6] Alighardashi, A. Modanlou, M. Jamshidi, S. Performance evaluation of anaerobic baffled reactor (ABR) treating pulp and paper wastewater in start-up period Water Pract. Technol. 10: (2015) 1-9 10.2166/wpt.2015.001 A. Alighardashi, M.Modanlou, S.Jamshidi, Performance evaluation of anaerobic baffled reactor (ABR) treating pulp and paper wastewater in start-up period, Water Pract. Technol.10 (2015) 1â€“9.10.2166/wpt.2015.001   [7] Kennedy, J.F. Panesar, P.S. Grover, R. Marwaha, S.S. Continuous methanogenesis of black liquor of pulp and paper mills in an anaerobic baffled reactor using an immobilized cell system J. Chem. Technol. Biotechnol. 81: (2006) 1277-1281 10.1002/(ISSN)1097-4660 J.F. Kennedy, P.S.Panesar, R.Grover, S.S.Marwaha, Continuous methanogenesis of black liquor of pulp and paper mills in an anaerobic baffled reactor using an immobilized cell system, J. Chem. Technol. Biotechnol.81 (2006) 1277â€“1281.10.1002/(ISSN)1097-4660   [8] Grover, R. Marwaha, S.S. Kennedy, J.F. Studies on the use of an anaerobic baffled reactor for the continuous anaerobic digestion of pulp and paper mill black liquors Process Biochem. 34: (1999) 653-657 10.1016/S0032-9592(98)00138-1 R. Grover, S.S.Marwaha, J.F.Kennedy, Studies on the use of an anaerobic baffled reactor for the continuous anaerobic digestion of pulp and paper mill black liquors, Process Biochem.34 (1999) 653â€“657.10.1016/S0032-9592(98)00138-1   [9] Barber, W.P. Stuckey, D.C. The influence of start-up strategies on the performance of an anaerobic baffled reactor Environ. Technol. 19: (1998) 489-501 10.1080/09593331908616705 W.P. Barber, D.C.Stuckey, The influence of start-up strategies on the performance of an anaerobic baffled reactor, Environ. Technol.19 (1998) 489â€“501.10.1080/09593331908616705   [10] Malik, B. Bo, M. Bo, S. Evaluation of Process Parameters and Treatments of Different Raw Materials for Biogas Production (2012) Lund University Lund, Sweden B. Malik, M.Bo, S.Bo, Evaluation of Process Parameters and Treatments of Different Raw Materials for Biogas Production, Lund University, Lund, Sweden, 2012.   [11] Li, L. Yang, X. Li, X. Zheng, M. Chen, J. Zhang, Z. The influence of inoculum sources on anaerobic biogasification of NaOH-treated corn stover Energy Sources Part A 33: (2010) 138-144 10.1080/15567030902937192 L. Li, X.Yang, X.Li, M.Zheng, J.Chen, Z.Zhang, The influence of inoculum sources on anaerobic biogasification of NaOH-treated corn stover, Energy Sources Part A33 (2010) 138â€“144.10.1080/15567030902937192   [12] Neves, L. Oliveira, R. Alves, M.M. Influence of inoculum activity on the bio-methanization of a kitchen waste under different waste/inoculum ratios Process Biochem. 39: (2004) 2019-2024 10.1016/j.procbio.2003.10.002 L. Neves, R.Oliveira, M.M.Alves, Influence of inoculum activity on the bio-methanization of a kitchen waste under different waste/inoculum ratios, Process Biochem.39 (2004) 2019â€“2024.10.1016/j.procbio.2003.10.002   [13] Baloch, M.I. Akunna, J.C. Collier, P.J. The performance of a phase separated granular bed bioreactor treating brewery wastewater Bioresour. Technol. 98: (2007) 1849-1855 10.1016/j.biortech.2006.06.014 M.I. Baloch, J.C.Akunna, P.J.Collier, The performance of a phase separated granular bed bioreactor treating brewery wastewater, Bioresour. Technol.98 (2007) 1849â€“1855.10.1016/j.biortech.2006.06.014   [14] Zwain, H.M. Zaman, N.Q. Aziz, H.A. Dahlan, I. A novel design concept of modified anaerobic inclining-baffled reactor (MAI-BR) For wastewater treatment application J. Inst. Ind. Appl. Eng. 2: (2014) 85-90 H.M. Zwain, N.Q.Zaman, H.A.Aziz, I.Dahlan, A novel design concept of modified anaerobic inclining-baffled reactor (MAI-BR) For wastewater treatment application, J. Inst. Ind. Appl. Eng.2 (2014) 85â€“90.   [15] Zwain, H.M. Aziz, H.A. Zaman, N.Q. Dahlan, I. Effect of inoculum to substrate ratio on the performance of modified anaerobic inclining-baffled reactor treating recycled paper mill effluent Desalin. Water Treat. 1â€“12: (2015) 10.1080/19443994.2015.1033761 H.M. Zwain, H.A.Aziz, N.Q.Zaman, I.Dahlan, Effect of inoculum to substrate ratio on the performance of modified anaerobic inclining-baffled reactor treating recycled paper mill effluent, Desalin. Water Treat.1â€“12 (2015), doi: 10.1080/19443994.2015.1033761.   [16] Zwain, H.M. Zaman, N.Q. Aziz, H.A. Dahlan, I. Evaluation of lignin removal from recycled paper mill effluent (RPME) under different start-upâ€™s steady state conditions of modified anaerobic inclining-baffled reactor (MAI-BR) Curr. Environ. Eng. 1: (2014) 60-63 10.2174/2212717801999140415152610 H.M. Zwain, N.Q.Zaman, H.A.Aziz, I.Dahlan, Evaluation of lignin removal from recycled paper mill effluent (RPME) under different start-upâ€™s steady state conditions of modified anaerobic inclining-baffled reactor (MAI-BR), Curr. Environ. Eng.1 (2014) 60â€“63.10.2174/2212717801999140415152610   [17] Hassan, S.R. Zwain, H.M. Zaman, N.Q. Dahlan, I. Recycled paper mill effluent treatment in a modified anaerobic baffled reactor: Start-up and steady-state performance Environ. Technol. 35: (2014) 1-6 S.R. Hassan, H.M.Zwain, N.Q.Zaman, I.Dahlan, Recycled paper mill effluent treatment in a modified anaerobic baffled reactor: Start-up and steady-state performance, Environ. Technol.35 (2014) 1â€“6.   [18] Zwain, H.M. Hassan, S.R. Zaman, N.Q. Aziz, H.A. Dahlan, I. The start-up performance of modified anaerobic baffled reactor (MABR) for the treatment of recycled paper mill wastewater J. Environ. Chem. Eng. 1: (2013) 61-64 10.1016/j.jece.2013.03.007 H.M. Zwain, S.R.Hassan, N.Q.Zaman, H.A.Aziz, I.Dahlan, The start-up performance of modified anaerobic baffled reactor (MABR) for the treatment of recycled paper mill wastewater, J. Environ. Chem. Eng.1 (2013) 61â€“64.10.1016/j.jece.2013.03.007   [19] Torabian, A. Abtahi, S. Amin, M. Momeni, S. Treatment of low-strength industrial wastewater using anaerobic baffled reactor Iran. J. Environ. Health Sci. Eng. 7: (2010) 229-240 A. Torabian, S.Abtahi, M.Amin, S.Momeni, Treatment of low-strength industrial wastewater using anaerobic baffled reactor, Iran. J. Environ. Health Sci. Eng.7 (2010) 229â€“240.   [20] American Public Health Association (APHA), American Water Works Association (AWWA) &amp; Water Environment Federation (WEF) APHA, AWWA, WEF, Standard Methods for the Examination of Water &amp; Wastewater twenty-second (2012) APHA, AWWA, WEF, Standard Methods for the Examination of Water &amp; Wastewater, twenty-second ed., American Public Health Association (APHA), American Water Works Association (AWWA) &amp; Water Environment Federation (WEF), Washington, DC, 2012.   [21] Guochen, Z. Jianzheng, L. Junguo, H. Weiguang, L. Chao, M. The start-up and operational performance of anaerobic baffled reactor (ABR) treating high-concentration sugar-producing wastewater (2009) IEEE 1-4 Z. Guochen, L.Jianzheng, H.Junguo, L.Weiguang, M.Chao, The start-up and operational performance of anaerobic baffled reactor (ABR) treating high-concentration sugar-producing wastewater, in: Proceedings of the 3rd International Conference on Bioinformatics and Biomedical Engineering, ICBBE 2009, IEEE, Beijing, China, 2009, pp. 1â€“4.   [22] Kennedy, K. Barriault, M. Treatment kinetics of aircraft deicing fluid in an anaerobic baffled reactor J. Environ. Eng. Sci. 6: (2007) 11-17 10.1139/s06-024 K. Kennedy, M.Barriault, Treatment kinetics of aircraft deicing fluid in an anaerobic baffled reactor, J. Environ. Eng. Sci.6 (2007) 11â€“17.10.1139/s06-024   [23] Chelliapan, S. Mahat, S.B. Din, M.F.M. Yuzir, A. Othman, N. Anaerobic digestion of paper mill wastewater Iranica J. Energy Environ. 3: (2012) 85-90 S. Chelliapan, S.B.Mahat, M.F.M.Din, A.Yuzir, N.Othman, Anaerobic digestion of paper mill wastewater, Iranica J. Energy Environ.3 (2012) 85â€“90.   [24] Malakahmad, A. Noor Ezlin, A.B. Shahrom, M.Z. Study on performance of a modified anaerobic balled reactor to treat high strength wastewater J. Appl. Sci. 11: (2011) 1449-1452 A. Malakahmad, A.B.Noor Ezlin, M.Z.Shahrom, Study on performance of a modified anaerobic balled reactor to treat high strength wastewater, J. Appl. Sci.11 (2011) 1449â€“1452.   [25] Pereira, M.A. Mota, M. Alves, M.M. Operation of an anaerobic filter and an EGSB reactor for the treatment of an oleic acid-based effluent: Influence of inoculum quality Process Biochem. 37: (2002) 1025-1031 10.1016/S0032-9592(01)00311-9 M.A. Pereira, M.Mota, M.M.Alves, Operation of an anaerobic filter and an EGSB reactor for the treatment of an oleic acid-based effluent: Influence of inoculum quality, Process Biochem.37 (2002) 1025â€“1031.10.1016/S0032-9592(01)00311-9   [26] Saritpongteeraka, K. Chaiprapat, S. Effects of pH adjustment by parawood ash and effluent recycle ratio on the performance of anaerobic baffled reactors treating high sulfate wastewater Bioresour. Technol. 99: (2008) 8987-8994 10.1016/j.biortech.2008.05.012 K. Saritpongteeraka, S.Chaiprapat, Effects of pH adjustment by parawood ash and effluent recycle ratio on the performance of anaerobic baffled reactors treating high sulfate wastewater, Bioresour. Technol.99 (2008) 8987â€“8994.10.1016/j.biortech.2008.05.012   [27] Zwain, H.M. Dahlan, I. Biological treatment of recycled paper mill wastewater using modified anaerobic inclining-baffled bioreactor (MAIB-R) Aziz, H.A. Mojiri, A. Wastewater Engineering: Advanced Wastewater Treatment (2014) International Journal of Scientific Research (IJSR) Publications Penang 72-86 H.M. Zwain, I.Dahlan, Biological treatment of recycled paper mill wastewater using modified anaerobic inclining-baffled bioreactor (MAIB-R), in: H.A.Aziz, A.Mojiri (Eds.), Wastewater Engineering: Advanced Wastewater Treatment, International Journal of Scientific Research (IJSR) Publications, Penang, 2014, pp. 72â€“86.   [28] Mohd Aris, M.A. Chelliapan, S. Md. Din, M.F. Nor Anwar, A. Shahperi, R. Bannir Selvam, S. Effect of effluent circulation and hydraulic retention time (HRT) on the performance of a modified anaerobic baffled reactor (MABR) during start-up period Desalin. Water Treat. (2015) 1-9 10.1080/19443994.2015.1094676 10.1080/19443994.2015.1094676 M.A. Mohd Aris, S.Chelliapan, M.F.Md. Din, A.Nor Anwar, R.Shahperi, S.Bannir Selvam, Effect of effluent circulation and hydraulic retention time (HRT) on the performance of a modified anaerobic baffled reactor (MABR) during start-up period, Desalin. Water Treat. (2015) 1â€“9,Â doi: 10.1080/19443994.2015.1094676.10.1080/19443994.2015.1094676   [29] Rongrong, L. Xujie, L. Qing, T. Bo, Y. Jihua, C. The performance evaluation of hybrid anaerobic baffled reactor for treatment of PVA-containing desizing wastewater Desalination 271: (2011) 287-294 10.1016/j.desal.2010.12.044 L. Rongrong, L.Xujie, T.Qing, Y.Bo, C.Jihua, The performance evaluation of hybrid anaerobic baffled reactor for treatment of PVA-containing desizing wastewater, Desalination271 (2011) 287â€“294.10.1016/j.desal.2010.12.044   [30] Ran, Z. Gefu, Z. Kumar, J.A. Chaoxiang, L. Xu, H. Lin, L. Hydrogen and methane production in a bio-electrochemical system assisted anaerobic baffled reactor Int. J. Hydrogen Energy 39: (2014) 13498-13504 10.1016/j.ijhydene.2014.02.086 Z. Ran, Z.Gefu, J.A.Kumar, L.Chaoxiang, H.Xu, L.Lin, Hydrogen and methane production in a bio-electrochemical system assisted anaerobic baffled reactor, Int. J. Hydrogen Energy39 (2014) 13498â€“13504.10.1016/j.ijhydene.2014.02.086   [31] Speece, R.E. Duran, M. Demirer, G. Zhang, H. Distefano, T. The role of process configuration in the performance of anaerobic systems Water Sci. Technol. 36: (1997) 539-547 10.1016/S0273-1223(97)00566-0 R.E. Speece, M.Duran, G.Demirer, H.Zhang, T.Distefano, The role of process configuration in the performance of anaerobic systems, Water Sci. Technol.36 (1997) 539â€“547.10.1016/S0273-1223(97)00566-0   [32] Bodkhe, S.Y. A modified anaerobic baffled reactor for municipal wastewater treatment J. Environ. Manage. 90: (2009) 2488-2493 10.1016/j.jenvman.2009.01.007 S.Y. Bodkhe, A modified anaerobic baffled reactor for municipal wastewater treatment, J. Environ. Manage.90 (2009) 2488â€“2493.10.1016/j.jenvman.2009.01.007   [33] Horiuchi, J.I. Shimizu, T. Tada, K. Kanno, T. Kobayashi, M. Selective production of organic acids in anaerobic acid reactor by pH control Bioresour. Technol. 82: (2002) 209-213 10.1016/S0960-8524(01)00195-X J.I. Horiuchi, T.Shimizu, K.Tada, T.Kanno, M.Kobayashi, Selective production of organic acids in anaerobic acid reactor by pH control, Bioresour. Technol.82 (2002) 209â€“213.10.1016/S0960-8524(01)00195-X   [34] Malakahmad, A. Lahin, F. Yee, W. Biodegradation of high-strength palm oil mill effluent (POME) through anaerobes partitioning in an integrated baffled reactor inoculated with anaerobic pond sludge Water Air Soil Pollut. 225: (2014) 1-9 A. Malakahmad, F.Lahin, W.Yee, Biodegradation of high-strength palm oil mill effluent (POME) through anaerobes partitioning in an integrated baffled reactor inoculated with anaerobic pond sludge, Water Air Soil Pollut.225 (2014) 1â€“9.   [35] Zhu, G.F. Li, J.Z. Wu, P. Jin, H.Z. Wang, Z. The performance and phase separated characteristics of an anaerobic baffled reactor treating soybean protein processing wastewater Bioresour. Technol. 99: (2008) 8027-8033 10.1016/j.biortech.2008.03.046 G.F. Zhu, J.Z.Li, P.Wu, H.Z.Jin, Z.Wang, The performance and phase separated characteristics of an anaerobic baffled reactor treating soybean protein processing wastewater, Bioresour. Technol.99 (2008) 8027â€“8033.10.1016/j.biortech.2008.03.046   [36] Hu, X.-Q. Li, Z.-H. Operational characteristics of an anaerobic baffled reactor treating low strength wastewater (2008) ICBBE IEEE Beijing, China 3135-3139 X.-q. Hu, Z.-h.Li, Operational characteristics of an anaerobic baffled reactor treating low strength wastewater, in: Proceedings of the 2nd International Conference on Bioinformatics and Biomedical Engineering, ICBBE 2008, ICBBE IEEE, Beijing, China, 2008, pp. 3135â€“3139.   [37] Baloch, M.I. Akunna, J.C. Granular bed baffled reactor (Grabbr): Solution to a two-phase anaerobic digestion system J. Environ. Eng. 129: (2003) 1015-1021 10.1061/(ASCE)0733-9372(2003)129:11(1015) M.I. Baloch, J.C.Akunna, Granular bed baffled reactor (Grabbr): Solution to a two-phase anaerobic digestion system, J. Environ. Eng.129 (2003) 1015â€“1021.10.1061/(ASCE)0733-9372(2003)129:11(1015)   [38] Gopala Krishna, G.V. Kumar, P. Kumar, P. Treatment of low-strength soluble wastewater using an anaerobic baffled reactor (ABR) J. Environ. Manage. 90: (2009) 166-176 10.1016/j.jenvman.2007.08.017 G.V. Gopala Krishna, P.Kumar, P.Kumar, Treatment of low-strength soluble wastewater using an anaerobic baffled reactor (ABR), J. Environ. Manage.90 (2009) 166â€“176.10.1016/j.jenvman.2007.08.017   [39] Marin, J. Kennedy, K.J. Eskicioglu, C. Characterization of an anaerobic baffled reactor treating dilute aircraft de-icing fluid and long term effects of operation on granular biomass Bioresour. Technol. 101: (2010) 2217-2223 10.1016/j.biortech.2009.11.055 J. Marin, K.J.Kennedy, C.Eskicioglu, Characterization of an anaerobic baffled reactor treating dilute aircraft de-icing fluid and long term effects of operation on granular biomass, Bioresour. Technol.101 (2010) 2217â€“2223.10.1016/j.biortech.2009.11.055   [40] Zhang, S. Yang, F. Zhang, X. Meng, L. Yin, Y. Domestic wastewater treatment with a slopping-baffle ABR (2009) IEEE Beijing, China 1-4 S. Zhang, F.Yang, X.Zhang, L.Meng, Y.Yin, Domestic wastewater treatment with a slopping-baffle ABR, in: Proceedings of the 3rd International Conference on Bioinformatics and Biomedical Engineering, ICBBE 2009, IEEE, Beijing, China, 2009, pp. 1â€“4.   [41] Pollice, A. Laera, G. Blonda, M. Biomass growth and activity in a membrane bioreactor with complete sludge retention Water Res. 38: (2004) 1799-1808 10.1016/j.watres.2004.01.016 A. Pollice, G.Laera, M.Blonda, Biomass growth and activity in a membrane bioreactor with complete sludge retention, Water Res.38 (2004) 1799â€“1808.10.1016/j.watres.2004.01.016   [42] Dittmar, T. Lara, R.J. Molecular evidence for lignin degradation in sulfate-reducing mangrove sediments (AmazÃ´nia, Brazil) Geochim. Cosmochim. Acta 65: (2001) 1417-1428 10.1016/S0016-7037(00)00619-0 T. Dittmar, R.J.Lara, Molecular evidence for lignin degradation in sulfate-reducing mangrove sediments (AmazÃ´nia, Brazil), Geochim. Cosmochim. Acta65 (2001) 1417â€“1428.10.1016/S0016-7037(00)00619-0   [43] Arshad, A. Hashim, N.H. Anaerobic digestion of Nssc pulping effluent Int. J. Environ. Res. 6: (2012) 761-768 A. Arshad, N.H.Hashim, Anaerobic digestion of Nssc pulping effluent, Int. J. Environ. Res.6 (2012) 761â€“768.   [44] Nachaiyasit, S. Stuckey, D.C. The effect of shock loads on the performance of an anaerobic baffled reactor (ABR): 1, step changes in feed concentration at constant retention time Water Res. 31: (1997) 2737-2747 S. Nachaiyasit, D.C.Stuckey, The effect of shock loads on the performance of an anaerobic baffled reactor (ABR): 1, step changes in feed concentration at constant retention time, Water Res.31 (1997) 2737â€“2747.     llut.225 (2014) 1â€“9.   [35] Zhu, G.F. Li, J.Z. Wu, P. Jin, H.Z. Wang, Z. The performance and phase separated characteristics of an anaerobic baffled reactor treating soybean protein processing wastewater Bioresour. Technol. 99: (2008) 8027-8033 10.1016/j.biortech.2008.03.046 G.F. Zhu, J.Z.Li, P.Wu, H.Z.Jin, Z.Wang, The performance and phase separated characteristics of an anaerobic baffled reactor treating soybean protein processing wastewater, Bioresour. Technol.99 (2008) 8027â€“8033.10.1016/j.biortech.2008.03.046   [36] Hu, X.-Q. Li, Z.-H. Operational characteristics of an anaerobic baffled reactor treating low strength wastewater (2008) ICBBE IEEE Beijing, China 3135-3139 X.-q. Hu, Z.-h.Li, Operational characteristics of an anaerobic baffled reactor treating low strength wastewater, in: Proceedings of the 2nd International Conference on Bioinformatics and Biomedical Engineering, ICBBE 2008, ICBBE IEEE, Beijing, China, 2008, pp. 3135â€“3139.   [37] Baloch, M.I. Akunna, J.C. Granular bed baffled reactor (Grabbr): Solution to a two-phase anaerobic digestion system J. Environ. Eng. 129: (2003) 1015-1021 10.1061/(ASCE)0733-9372(2003)129:11(1015) M.I. Baloch, J.C.Akunna, Granular bed baffled reactor (Grabbr): Solution to a two-phase anaerobic digestion system, J. Environ. Eng.129 (2003) 1015â€“1021.10.1061/(ASCE)0733-9372(2003)129:11(1015)   [38] Gopala Krishna, G.V. Kumar, P. Kumar, P. Treatment of low-strength soluble wastewater using an anaerobic baffled reactor (ABR) J. Environ. Manage. 90: (2009) 166-176 10.1016/j.jenvman.2007.08.017 G.V. Gopala Krishna, P.Kumar, P.Kumar, Treatment of low-strength soluble wastewater using an anaerobic baffled reactor (ABR), J. Environ. Manage.90 (2009) 166â€“176.10.1016/j.jenvman.2007.08.017   [39] Marin, J. Kennedy, K.J. Eskicioglu, C. Characterization of an anaerobic baffled reactor treating dilute aircraft de-icing fluid and long term effects of operation on granular biomass Bioresour. Technol. 101: (2010) 2217-2223 10.1016/j.biortech.2009.11.055 J. Marin, K.J.Kennedy, C.Eskicioglu, Characterization of an anaerobic baffled reactor tr</xocs:rawtext><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <simple-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.6" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>DWT</jid>
+            <aid>57001331</aid>
+            <ce:pii>S1944-3986(24)04107-9</ce:pii>
+            <ce:doi>10.1080/19443994.2015.1119758</ce:doi>
+            <ce:copyright type="full-transfer" year="2015">Elsevier Inc.</ce:copyright>
+            <ce:copyright-line>© 2015 Elsevier Inc.</ce:copyright-line>
+         </item-info>
+         <simple-head>
+            <ce:title id="ti0010">Effect of inoculum source and effluent recycle on the start-up performance of a modified anaerobic inclining-baffled reactor treating recycled paper mill effluent</ce:title>
+            <ce:author-group id="ag0010">
+               <ce:author id="au0010" author-id="S1944398624041079-df5e37f24ff52c8e78bf20e3e9be31ae">
+                  <ce:given-name>Haider M.</ce:given-name>
+                  <ce:surname>Zwain</ce:surname>
+                  <ce:cross-ref refid="af0010" id="cf0010">a</ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au0015" author-id="S1944398624041079-0748d89003fbf9f53f75fde76c38e05d">
+                  <ce:given-name>Hamidi Abdul</ce:given-name>
+                  <ce:surname>Aziz</ce:surname>
+                  <ce:cross-ref refid="af0010" id="cf0015">a</ce:cross-ref>
+                  <ce:cross-ref refid="af0015" id="cf0020">b</ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author id="au0020" author-id="S1944398624041079-63141c77673deca99a0bbbbe033ea2df">
+                  <ce:given-name>Irvan</ce:given-name>
+                  <ce:surname>Dahlan</ce:surname>
+                  <ce:cross-ref refid="af0015" id="cf0025">b</ce:cross-ref>
+                  <ce:cross-ref refid="af0020" id="cf0030">c</ce:cross-ref>
+                  
+               </ce:author>
+               <ce:affiliation id="af0010" affiliation-id="S1944398624041079-b31a5960c95377236fa68c765697af28">
+                  <ce:label>a</ce:label>
+                  <ce:textfn id="tn0010">School of Civil Engineering, Universiti Sains Malaysia, Engineering Campus, Seri Ampangan, Nibong Tebal, 14300, Pulau Pinang, Malaysia</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>School of Civil Engineering, Universiti Sains Malaysia, Engineering Campus, Seri Ampangan</sa:organization>
+                     <sa:city>Nibong Tebal</sa:city>
+                     <sa:state>Pulau Pinang</sa:state>
+                     <sa:postal-code>14300</sa:postal-code>
+                     <sa:country>Malaysia</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="sot0010">School of Civil Engineering, Universiti Sains Malaysia, Engineering Campus, Seri Ampangan, Nibong Tebal, 14300, Pulau Pinang, Malaysia</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="af0015" affiliation-id="S1944398624041079-baf361d5bbd81247e4bc53f5e1863cad">
+                  <ce:label>b</ce:label>
+                  <ce:textfn id="tn0015">Solid Waste Management Cluster, Universiti Sains Malaysia, Engineering Campus, Nibong Tebal, 14300, Pulau Pinang, Malaysia, Tel. +604 5996463</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>Solid Waste Management Cluster, Universiti Sains Malaysia, Engineering Campus</sa:organization>
+                     <sa:city>Nibong Tebal</sa:city>
+                     <sa:state>Pulau Pinang</sa:state>
+                     <sa:postal-code>14300</sa:postal-code>
+                     <sa:country>Malaysia</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="sot0015">Solid Waste Management Cluster, Universiti Sains Malaysia, Engineering Campus, Nibong Tebal, 14300, Pulau Pinang, Malaysia, Tel. +604 5996463</ce:source-text>
+               </ce:affiliation>
+               <ce:affiliation id="af0020" affiliation-id="S1944398624041079-cf4b754dd6ffee5f7af7000dac98ece1">
+                  <ce:label>c</ce:label>
+                  <ce:textfn id="tn0020">School of Chemical Engineering, Universiti Sains Malaysia, Engineering Campus, Seri Ampangan, Nibong Tebal, 14300, Pulau Pinang, Malaysia</ce:textfn>
+                  <sa:affiliation>
+                     <sa:organization>School of Chemical Engineering, Universiti Sains Malaysia, Engineering Campus, Seri Ampangan</sa:organization>
+                     <sa:city>Nibong Tebal</sa:city>
+                     <sa:state>Pulau Pinang</sa:state>
+                     <sa:postal-code>14300</sa:postal-code>
+                     <sa:country>Malaysia</sa:country>
+                  </sa:affiliation>
+                  <ce:source-text id="sot0020">School of Chemical Engineering, Universiti Sains Malaysia, Engineering Campus, Seri Ampangan, Nibong Tebal, 14300, Pulau Pinang, Malaysia</ce:source-text>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="27" month="7" year="2015"/>
+            <ce:date-accepted day="25" month="10" year="2015" role="suppressed"/>
+            <ce:abstract xml:lang="en" id="ab0010" view="all" class="author"><ce:abstract-sec id="as0010" view="all">
+                  <ce:simple-para id="sp0010" view="all">In this study, three start-up techniques of modified anaerobic inclining-baffled reactor (MAI-BR) were performance to understand the effect of inoculum source and effluent recycle on the treatment of recycled paper mill effluent (RPME). Flocculant anaerobic sludge from a palm oil mill pond and digested anaerobic sludge from a sewage treatment plant were inoculated in the first and second start-up/phase1, respectively. Results show that high chemical oxygen demand (COD) removals of 93 and 88% were achieved in the first and second start-up/phase1, respectively. The amount of methane produced in the second start-up/phase1 within 15 d was doubled as compared to the amount produced in the first start-up, with a higher methane content of 79% (as compared to 62% in the first start-up). This result indicated that the inoculum source has a significant effect on the reactor performance. The results in the second start-up/phase2 also showed that COD removal and methane production increased up to 94% and 0.52 L CH<ce:inf loc="post">4</ce:inf>/d, respectively. This finding can conclude that the use of effluent recycle has a favorable effect on the performance of MAI-BR. During the first start-up, second start-up/phase1, and second start-up/phase2, the volatile fatty acid/alkalinity compartmental ratios were varied at 0.01–0.06, 0.03–0.43, and 0.02–0.14, respectively, and the overall effluent pH levels were higher than 6.5. The findings indicate the stability of the MAI-BR system in treating RPME.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords id="ks0010" view="all" class="keyword">
+               <ce:section-title id="st0015">Keywords</ce:section-title>
+               <ce:keyword id="kw0010">
+                  <ce:text id="tx0010">Anaerobic digestion</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0015">
+                  <ce:text id="tx0015">Recycled paper mill effluent (RPME)</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0020">
+                  <ce:text id="tx0020">Modified anaerobic inclining-baffled reactor (MAI-BR)</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0025">
+                  <ce:text id="tx0025">Start-up techniques</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0030">
+                  <ce:text id="tx0030">Inoculum source</ce:text>
+               </ce:keyword>
+               <ce:keyword id="kw0035">
+                  <ce:text id="tx0035">Effluent recycle</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </simple-head>
+         <simple-tail view="all">
+            <ce:further-reading id="fr0010" view="all">
+               <ce:section-title id="st1015">References</ce:section-title>
+               <ce:further-reading-sec id="fs0010" view="all">
+                  <ce:bib-reference id="bb0010">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference id="rf0010">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Wijetunga</ce:surname>
+                                 <ce:given-name>S.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Li</ce:surname>
+                                 <ce:given-name>X.-F.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Jian</ce:surname>
+                                 <ce:given-name>C.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of organic load on decolourization of textile wastewater containing acid dyes in upflow anaerobic sludge blanket reactor</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Hazard. Mater.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>177</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>792</sb:first-page>
+                              <sb:last-page>798</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1016/j.jhazmat.2009.12.103" id="ir0010" xlink:type="simple">10.1016/j.jhazmat.2009.12.103</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0025">S. Wijetunga, X.-F.Li, C.Jian, Effect of organic load on decolourization of textile wastewater containing acid dyes in upflow anaerobic sludge blanket reactor, J. Hazard. Mater.177 (2010) 792–798.10.1016/j.jhazmat.2009.12.103</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0015">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference id="rf0015">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Aiyuk</ce:surname>
+                                 <ce:given-name>S.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Forrez</ce:surname>
+                                 <ce:given-name>I.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Lieven</ce:surname>
+                                 <ce:given-name>D.K.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>van Haandel</ce:surname>
+                                 <ce:given-name>A.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Verstraete</ce:surname>
+                                 <ce:given-name>W.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Anaerobic and complementary treatment of domestic sewage in regions with hot climates—A review</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>97</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2225</sb:first-page>
+                              <sb:last-page>2241</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1016/j.biortech.2005.05.015" id="ir0015" xlink:type="simple">10.1016/j.biortech.2005.05.015</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0030">S. Aiyuk, I.Forrez, D.K.Lieven, A.van Haandel, W.Verstraete, Anaerobic and complementary treatment of domestic sewage in regions with hot climates—A review, Bioresour. Technol.97 (2006) 2225–2241.10.1016/j.biortech.2005.05.015</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0020">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference id="rf0020">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Barber</ce:surname>
+                                 <ce:given-name>W.P.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Stuckey</ce:surname>
+                                 <ce:given-name>D.C.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The use of the anaerobic baffled reactor (ABR) for wastewater treatment: A review</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>33</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1559</sb:first-page>
+                              <sb:last-page>1578</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1016/S0043-1354(98)00371-6" id="ir0020" xlink:type="simple">10.1016/S0043-1354(98)00371-6</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0035">W.P. Barber, D.C.Stuckey, The use of the anaerobic baffled reactor (ABR) for wastewater treatment: A review, Water Res.33 (1999) 1559–1578.10.1016/S0043-1354(98)00371-6</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0025">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference id="rf0025">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Hassan</ce:surname>
+                                 <ce:given-name>S.R.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Zwain</ce:surname>
+                                 <ce:given-name>H.M.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Dahlan</ce:surname>
+                                 <ce:given-name>I.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Development of anaerobic reactor for industrial wastewater treatment: An overview, present stage and future prospects</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Adv. Sci. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>4</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>7</sb:first-page>
+                              <sb:last-page>12</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0040">S.R. Hassan, H.M.Zwain, I.Dahlan, Development of anaerobic reactor for industrial wastewater treatment: An overview, present stage and future prospects, J. Adv. Sci. Res.4 (2013) 7–12.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0030">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference id="rf0030">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Zhu</ce:surname>
+                                 <ce:given-name>G.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Zou</ce:surname>
+                                 <ce:given-name>R.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Jha</ce:surname>
+                                 <ce:given-name>A.K.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Huang</ce:surname>
+                                 <ce:given-name>X.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Liu</ce:surname>
+                                 <ce:given-name>L.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Liu</ce:surname>
+                                 <ce:given-name>C.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Recent developments and future perspectives of anaerobic baffled bioreactor for wastewater treatment and energy recovery</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Crit. Rev. Environ. Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>45</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1243</sb:first-page>
+                              <sb:last-page>1276</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1080/10643389.2014.924182" id="ir0025" xlink:type="simple">10.1080/10643389.2014.924182</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0045">G. Zhu, R.Zou, A.K.Jha, X.Huang, L.Liu, C.Liu, Recent developments and future perspectives of anaerobic baffled bioreactor for wastewater treatment and energy recovery, Crit. Rev. Environ. Sci. Technol.45 (2015) 1243–1276.10.1080/10643389.2014.924182</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0035">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference id="rf0035">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Alighardashi</ce:surname>
+                                 <ce:given-name>A.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Modanlou</ce:surname>
+                                 <ce:given-name>M.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Jamshidi</ce:surname>
+                                 <ce:given-name>S.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Performance evaluation of anaerobic baffled reactor (ABR) treating pulp and paper wastewater in start-up period</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Pract. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>9</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.2166/wpt.2015.001" id="ir0030" xlink:type="simple">10.2166/wpt.2015.001</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0050">A. Alighardashi, M.Modanlou, S.Jamshidi, Performance evaluation of anaerobic baffled reactor (ABR) treating pulp and paper wastewater in start-up period, Water Pract. Technol.10 (2015) 1–9.10.2166/wpt.2015.001</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0040">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference id="rf0040">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Kennedy</ce:surname>
+                                 <ce:given-name>J.F.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Panesar</ce:surname>
+                                 <ce:given-name>P.S.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Grover</ce:surname>
+                                 <ce:given-name>R.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Marwaha</ce:surname>
+                                 <ce:given-name>S.S.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Continuous methanogenesis of black liquor of pulp and paper mills in an anaerobic baffled reactor using an immobilized cell system</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Technol. Biotechnol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>81</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1277</sb:first-page>
+                              <sb:last-page>1281</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1002/(ISSN)1097-4660" id="ir0035" xlink:type="simple">10.1002/(ISSN)1097-4660</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0055">J.F. Kennedy, P.S.Panesar, R.Grover, S.S.Marwaha, Continuous methanogenesis of black liquor of pulp and paper mills in an anaerobic baffled reactor using an immobilized cell system, J. Chem. Technol. Biotechnol.81 (2006) 1277–1281.10.1002/(ISSN)1097-4660</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0045">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference id="rf0045">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Grover</ce:surname>
+                                 <ce:given-name>R.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Marwaha</ce:surname>
+                                 <ce:given-name>S.S.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Kennedy</ce:surname>
+                                 <ce:given-name>J.F.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Studies on the use of an anaerobic baffled reactor for the continuous anaerobic digestion of pulp and paper mill black liquors</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Process Biochem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>34</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>653</sb:first-page>
+                              <sb:last-page>657</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1016/S0032-9592(98)00138-1" id="ir0040" xlink:type="simple">10.1016/S0032-9592(98)00138-1</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0060">R. Grover, S.S.Marwaha, J.F.Kennedy, Studies on the use of an anaerobic baffled reactor for the continuous anaerobic digestion of pulp and paper mill black liquors, Process Biochem.34 (1999) 653–657.10.1016/S0032-9592(98)00138-1</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0050">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference id="rf0050">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Barber</ce:surname>
+                                 <ce:given-name>W.P.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Stuckey</ce:surname>
+                                 <ce:given-name>D.C.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The influence of start-up strategies on the performance of an anaerobic baffled reactor</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Environ. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>19</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1998</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>489</sb:first-page>
+                              <sb:last-page>501</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1080/09593331908616705" id="ir0045" xlink:type="simple">10.1080/09593331908616705</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0065">W.P. Barber, D.C.Stuckey, The influence of start-up strategies on the performance of an anaerobic baffled reactor, Environ. Technol.19 (1998) 489–501.10.1080/09593331908616705</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0055">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference id="rf0055">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Malik</ce:surname>
+                                 <ce:given-name>B.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Bo</ce:surname>
+                                 <ce:given-name>M.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Bo</ce:surname>
+                                 <ce:given-name>S.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Evaluation of Process Parameters and Treatments of Different Raw Materials for Biogas Production</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>2012</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Lund University</sb:name>
+                                 <sb:location>Lund, Sweden</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0070">B. Malik, M.Bo, S.Bo, Evaluation of Process Parameters and Treatments of Different Raw Materials for Biogas Production, Lund University, Lund, Sweden, 2012.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0060">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference id="rf0060">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Li</ce:surname>
+                                 <ce:given-name>L.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Yang</ce:surname>
+                                 <ce:given-name>X.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Li</ce:surname>
+                                 <ce:given-name>X.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Zheng</ce:surname>
+                                 <ce:given-name>M.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Chen</ce:surname>
+                                 <ce:given-name>J.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Zhang</ce:surname>
+                                 <ce:given-name>Z.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The influence of inoculum sources on anaerobic biogasification of NaOH-treated corn stover</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Energy Sources Part A</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>33</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>138</sb:first-page>
+                              <sb:last-page>144</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1080/15567030902937192" id="ir0050" xlink:type="simple">10.1080/15567030902937192</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0075">L. Li, X.Yang, X.Li, M.Zheng, J.Chen, Z.Zhang, The influence of inoculum sources on anaerobic biogasification of NaOH-treated corn stover, Energy Sources Part A33 (2010) 138–144.10.1080/15567030902937192</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0065">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference id="rf0065">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Neves</ce:surname>
+                                 <ce:given-name>L.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Oliveira</ce:surname>
+                                 <ce:given-name>R.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Alves</ce:surname>
+                                 <ce:given-name>M.M.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Influence of inoculum activity on the bio-methanization of a kitchen waste under different waste/inoculum ratios</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Process Biochem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2019</sb:first-page>
+                              <sb:last-page>2024</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1016/j.procbio.2003.10.002" id="ir0055" xlink:type="simple">10.1016/j.procbio.2003.10.002</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0080">L. Neves, R.Oliveira, M.M.Alves, Influence of inoculum activity on the bio-methanization of a kitchen waste under different waste/inoculum ratios, Process Biochem.39 (2004) 2019–2024.10.1016/j.procbio.2003.10.002</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0070">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference id="rf0070">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Baloch</ce:surname>
+                                 <ce:given-name>M.I.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Akunna</ce:surname>
+                                 <ce:given-name>J.C.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Collier</ce:surname>
+                                 <ce:given-name>P.J.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The performance of a phase separated granular bed bioreactor treating brewery wastewater</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>98</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1849</sb:first-page>
+                              <sb:last-page>1855</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1016/j.biortech.2006.06.014" id="ir0060" xlink:type="simple">10.1016/j.biortech.2006.06.014</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0085">M.I. Baloch, J.C.Akunna, P.J.Collier, The performance of a phase separated granular bed bioreactor treating brewery wastewater, Bioresour. Technol.98 (2007) 1849–1855.10.1016/j.biortech.2006.06.014</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0075">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference id="rf0075">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Zwain</ce:surname>
+                                 <ce:given-name>H.M.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Zaman</ce:surname>
+                                 <ce:given-name>N.Q.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Aziz</ce:surname>
+                                 <ce:given-name>H.A.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Dahlan</ce:surname>
+                                 <ce:given-name>I.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A novel design concept of modified anaerobic inclining-baffled reactor (MAI-BR) For wastewater treatment application</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Inst. Ind. Appl. Eng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>85</sb:first-page>
+                              <sb:last-page>90</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0090">H.M. Zwain, N.Q.Zaman, H.A.Aziz, I.Dahlan, A novel design concept of modified anaerobic inclining-baffled reactor (MAI-BR) For wastewater treatment application, J. Inst. Ind. Appl. Eng.2 (2014) 85–90.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0080">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference id="rf0080">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Zwain</ce:surname>
+                                 <ce:given-name>H.M.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Aziz</ce:surname>
+                                 <ce:given-name>H.A.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Zaman</ce:surname>
+                                 <ce:given-name>N.Q.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Dahlan</ce:surname>
+                                 <ce:given-name>I.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of inoculum to substrate ratio on the performance of modified anaerobic inclining-baffled reactor treating recycled paper mill effluent</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Desalin. Water Treat.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1–12</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1080/19443994.2015.1033761" id="ir0065" xlink:type="simple">10.1080/19443994.2015.1033761</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0095">H.M. Zwain, H.A.Aziz, N.Q.Zaman, I.Dahlan, Effect of inoculum to substrate ratio on the performance of modified anaerobic inclining-baffled reactor treating recycled paper mill effluent, Desalin. Water Treat.1–12 (2015), doi: 10.1080/19443994.2015.1033761.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0085">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference id="rf0085">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Zwain</ce:surname>
+                                 <ce:given-name>H.M.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Zaman</ce:surname>
+                                 <ce:given-name>N.Q.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Aziz</ce:surname>
+                                 <ce:given-name>H.A.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Dahlan</ce:surname>
+                                 <ce:given-name>I.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Evaluation of lignin removal from recycled paper mill effluent (RPME) under different start-up’s steady state conditions of modified anaerobic inclining-baffled reactor (MAI-BR)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Curr. Environ. Eng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>60</sb:first-page>
+                              <sb:last-page>63</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.2174/2212717801999140415152610" id="ir0070" xlink:type="simple">10.2174/2212717801999140415152610</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0100">H.M. Zwain, N.Q.Zaman, H.A.Aziz, I.Dahlan, Evaluation of lignin removal from recycled paper mill effluent (RPME) under different start-up’s steady state conditions of modified anaerobic inclining-baffled reactor (MAI-BR), Curr. Environ. Eng.1 (2014) 60–63.10.2174/2212717801999140415152610</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0090">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference id="rf0090">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Hassan</ce:surname>
+                                 <ce:given-name>S.R.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Zwain</ce:surname>
+                                 <ce:given-name>H.M.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Zaman</ce:surname>
+                                 <ce:given-name>N.Q.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Dahlan</ce:surname>
+                                 <ce:given-name>I.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Recycled paper mill effluent treatment in a modified anaerobic baffled reactor: Start-up and steady-state performance</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Environ. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>35</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>6</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0105">S.R. Hassan, H.M.Zwain, N.Q.Zaman, I.Dahlan, Recycled paper mill effluent treatment in a modified anaerobic baffled reactor: Start-up and steady-state performance, Environ. Technol.35 (2014) 1–6.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0095">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference id="rf0095">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Zwain</ce:surname>
+                                 <ce:given-name>H.M.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Hassan</ce:surname>
+                                 <ce:given-name>S.R.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Zaman</ce:surname>
+                                 <ce:given-name>N.Q.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Aziz</ce:surname>
+                                 <ce:given-name>H.A.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Dahlan</ce:surname>
+                                 <ce:given-name>I.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The start-up performance of modified anaerobic baffled reactor (MABR) for the treatment of recycled paper mill wastewater</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Environ. Chem. Eng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>1</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2013</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>61</sb:first-page>
+                              <sb:last-page>64</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1016/j.jece.2013.03.007" id="ir0075" xlink:type="simple">10.1016/j.jece.2013.03.007</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0110">H.M. Zwain, S.R.Hassan, N.Q.Zaman, H.A.Aziz, I.Dahlan, The start-up performance of modified anaerobic baffled reactor (MABR) for the treatment of recycled paper mill wastewater, J. Environ. Chem. Eng.1 (2013) 61–64.10.1016/j.jece.2013.03.007</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0100">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference id="rf0100">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Torabian</ce:surname>
+                                 <ce:given-name>A.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Abtahi</ce:surname>
+                                 <ce:given-name>S.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Amin</ce:surname>
+                                 <ce:given-name>M.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Momeni</ce:surname>
+                                 <ce:given-name>S.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Treatment of low-strength industrial wastewater using anaerobic baffled reactor</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Iran. J. Environ. Health Sci. Eng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>7</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>229</sb:first-page>
+                              <sb:last-page>240</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0115">A. Torabian, S.Abtahi, M.Amin, S.Momeni, Treatment of low-strength industrial wastewater using anaerobic baffled reactor, Iran. J. Environ. Health Sci. Eng.7 (2010) 229–240.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0105">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference id="rf0105">
+                        <sb:comment>American Public Health Association (APHA), American Water Works Association (AWWA) &amp; Water Environment Federation (WEF)</sb:comment>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>APHA, AWWA, WEF</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Standard Methods for the Examination of Water &amp; Wastewater</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:edition>twenty-second</sb:edition>
+                              <sb:date>2012</sb:date>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0120">APHA, AWWA, WEF, Standard Methods for the Examination of Water &amp; Wastewater, twenty-second ed., American Public Health Association (APHA), American Water Works Association (AWWA) &amp; Water Environment Federation (WEF), Washington, DC, 2012.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0110">
+                     <ce:label>[21]</ce:label>
+                     <sb:reference id="rf0110">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Guochen</ce:surname>
+                                 <ce:given-name>Z.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Jianzheng</ce:surname>
+                                 <ce:given-name>L.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Junguo</ce:surname>
+                                 <ce:given-name>H.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Weiguang</ce:surname>
+                                 <ce:given-name>L.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Chao</ce:surname>
+                                 <ce:given-name>M.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The start-up and operational performance of anaerobic baffled reactor (ABR) treating high-concentration sugar-producing wastewater</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:date>2009</sb:date>
+                              <sb:publisher>
+                                 <sb:name>IEEE</sb:name>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>4</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0125">Z. Guochen, L.Jianzheng, H.Junguo, L.Weiguang, M.Chao, The start-up and operational performance of anaerobic baffled reactor (ABR) treating high-concentration sugar-producing wastewater, in: Proceedings of the 3rd International Conference on Bioinformatics and Biomedical Engineering, ICBBE 2009, IEEE, Beijing, China, 2009, pp. 1–4.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0115">
+                     <ce:label>[22]</ce:label>
+                     <sb:reference id="rf0115">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Kennedy</ce:surname>
+                                 <ce:given-name>K.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Barriault</ce:surname>
+                                 <ce:given-name>M.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Treatment kinetics of aircraft deicing fluid in an anaerobic baffled reactor</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Environ. Eng. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>11</sb:first-page>
+                              <sb:last-page>17</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1139/s06-024" id="ir0080" xlink:type="simple">10.1139/s06-024</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0130">K. Kennedy, M.Barriault, Treatment kinetics of aircraft deicing fluid in an anaerobic baffled reactor, J. Environ. Eng. Sci.6 (2007) 11–17.10.1139/s06-024</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0120">
+                     <ce:label>[23]</ce:label>
+                     <sb:reference id="rf0120">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Chelliapan</ce:surname>
+                                 <ce:given-name>S.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Mahat</ce:surname>
+                                 <ce:given-name>S.B.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Din</ce:surname>
+                                 <ce:given-name>M.F.M.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Yuzir</ce:surname>
+                                 <ce:given-name>A.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Othman</ce:surname>
+                                 <ce:given-name>N.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Anaerobic digestion of paper mill wastewater</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Iranica J. Energy Environ.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>3</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>85</sb:first-page>
+                              <sb:last-page>90</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0135">S. Chelliapan, S.B.Mahat, M.F.M.Din, A.Yuzir, N.Othman, Anaerobic digestion of paper mill wastewater, Iranica J. Energy Environ.3 (2012) 85–90.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0125">
+                     <ce:label>[24]</ce:label>
+                     <sb:reference id="rf0125">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Malakahmad</ce:surname>
+                                 <ce:given-name>A.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Noor Ezlin</ce:surname>
+                                 <ce:given-name>A.B.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Shahrom</ce:surname>
+                                 <ce:given-name>M.Z.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Study on performance of a modified anaerobic balled reactor to treat high strength wastewater</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Appl. Sci.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>11</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1449</sb:first-page>
+                              <sb:last-page>1452</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0140">A. Malakahmad, A.B.Noor Ezlin, M.Z.Shahrom, Study on performance of a modified anaerobic balled reactor to treat high strength wastewater, J. Appl. Sci.11 (2011) 1449–1452.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0130">
+                     <ce:label>[25]</ce:label>
+                     <sb:reference id="rf0130">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Pereira</ce:surname>
+                                 <ce:given-name>M.A.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Mota</ce:surname>
+                                 <ce:given-name>M.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Alves</ce:surname>
+                                 <ce:given-name>M.M.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Operation of an anaerobic filter and an EGSB reactor for the treatment of an oleic acid-based effluent: Influence of inoculum quality</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Process Biochem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>37</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1025</sb:first-page>
+                              <sb:last-page>1031</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1016/S0032-9592(01)00311-9" id="ir0085" xlink:type="simple">10.1016/S0032-9592(01)00311-9</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0145">M.A. Pereira, M.Mota, M.M.Alves, Operation of an anaerobic filter and an EGSB reactor for the treatment of an oleic acid-based effluent: Influence of inoculum quality, Process Biochem.37 (2002) 1025–1031.10.1016/S0032-9592(01)00311-9</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0135">
+                     <ce:label>[26]</ce:label>
+                     <sb:reference id="rf0135">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Saritpongteeraka</ce:surname>
+                                 <ce:given-name>K.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Chaiprapat</ce:surname>
+                                 <ce:given-name>S.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effects of pH adjustment by parawood ash and effluent recycle ratio on the performance of anaerobic baffled reactors treating high sulfate wastewater</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>99</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>8987</sb:first-page>
+                              <sb:last-page>8994</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1016/j.biortech.2008.05.012" id="ir0090" xlink:type="simple">10.1016/j.biortech.2008.05.012</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0150">K. Saritpongteeraka, S.Chaiprapat, Effects of pH adjustment by parawood ash and effluent recycle ratio on the performance of anaerobic baffled reactors treating high sulfate wastewater, Bioresour. Technol.99 (2008) 8987–8994.10.1016/j.biortech.2008.05.012</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0140">
+                     <ce:label>[27]</ce:label>
+                     <sb:reference id="rf0140">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Zwain</ce:surname>
+                                 <ce:given-name>H.M.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Dahlan</ce:surname>
+                                 <ce:given-name>I.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Biological treatment of recycled paper mill wastewater using modified anaerobic inclining-baffled bioreactor (MAIB-R)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:editors>
+                                 <sb:editor>
+                                    <ce:surname>Aziz</ce:surname>
+                                    <ce:given-name>H.A.</ce:given-name>
+                                 </sb:editor>
+                                 <sb:editor>
+                                    <ce:surname>Mojiri</ce:surname>
+                                    <ce:given-name>A.</ce:given-name>
+                                 </sb:editor>
+                              </sb:editors>
+                              <sb:book-series>
+                                 <sb:series>
+                                    <sb:title>
+                                       <sb:maintitle>Wastewater Engineering: Advanced Wastewater Treatment</sb:maintitle>
+                                    </sb:title>
+                                 </sb:series>
+                              </sb:book-series>
+                              <sb:date>2014</sb:date>
+                              <sb:publisher>
+                                 <sb:name>International Journal of Scientific Research (IJSR) Publications</sb:name>
+                                 <sb:location>Penang</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>72</sb:first-page>
+                              <sb:last-page>86</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0155">H.M. Zwain, I.Dahlan, Biological treatment of recycled paper mill wastewater using modified anaerobic inclining-baffled bioreactor (MAIB-R), in: H.A.Aziz, A.Mojiri (Eds.), Wastewater Engineering: Advanced Wastewater Treatment, International Journal of Scientific Research (IJSR) Publications, Penang, 2014, pp. 72–86.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0145">
+                     <ce:label>[28]</ce:label>
+                     <sb:reference id="rf0145">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Mohd Aris</ce:surname>
+                                 <ce:given-name>M.A.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Chelliapan</ce:surname>
+                                 <ce:given-name>S.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Md. Din</ce:surname>
+                                 <ce:given-name>M.F.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Nor Anwar</ce:surname>
+                                 <ce:given-name>A.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Shahperi</ce:surname>
+                                 <ce:given-name>R.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Bannir Selvam</ce:surname>
+                                 <ce:given-name>S.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of effluent circulation and hydraulic retention time (HRT) on the performance of a modified anaerobic baffled reactor (MABR) during start-up period</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Desalin. Water Treat.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2015</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>9</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1080/19443994.2015.1094676" id="ir0095" xlink:type="simple">10.1080/19443994.2015.1094676</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1080/19443994.2015.1094676" id="ir0100" xlink:type="simple">10.1080/19443994.2015.1094676</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0160">M.A. Mohd Aris, S.Chelliapan, M.F.Md. Din, A.Nor Anwar, R.Shahperi, S.Bannir Selvam, Effect of effluent circulation and hydraulic retention time (HRT) on the performance of a modified anaerobic baffled reactor (MABR) during start-up period, Desalin. Water Treat. (2015) 1–9, doi: 10.1080/19443994.2015.1094676.10.1080/19443994.2015.1094676</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0150">
+                     <ce:label>[29]</ce:label>
+                     <sb:reference id="rf0150">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Rongrong</ce:surname>
+                                 <ce:given-name>L.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Xujie</ce:surname>
+                                 <ce:given-name>L.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Qing</ce:surname>
+                                 <ce:given-name>T.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Bo</ce:surname>
+                                 <ce:given-name>Y.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Jihua</ce:surname>
+                                 <ce:given-name>C.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The performance evaluation of hybrid anaerobic baffled reactor for treatment of PVA-containing desizing wastewater</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Desalination</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>271</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2011</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>287</sb:first-page>
+                              <sb:last-page>294</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1016/j.desal.2010.12.044" id="ir0105" xlink:type="simple">10.1016/j.desal.2010.12.044</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0165">L. Rongrong, L.Xujie, T.Qing, Y.Bo, C.Jihua, The performance evaluation of hybrid anaerobic baffled reactor for treatment of PVA-containing desizing wastewater, Desalination271 (2011) 287–294.10.1016/j.desal.2010.12.044</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0155">
+                     <ce:label>[30]</ce:label>
+                     <sb:reference id="rf0155">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Ran</ce:surname>
+                                 <ce:given-name>Z.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Gefu</ce:surname>
+                                 <ce:given-name>Z.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Kumar</ce:surname>
+                                 <ce:given-name>J.A.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Chaoxiang</ce:surname>
+                                 <ce:given-name>L.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Xu</ce:surname>
+                                 <ce:given-name>H.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Lin</ce:surname>
+                                 <ce:given-name>L.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Hydrogen and methane production in a bio-electrochemical system assisted anaerobic baffled reactor</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Hydrogen Energy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>39</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>13498</sb:first-page>
+                              <sb:last-page>13504</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1016/j.ijhydene.2014.02.086" id="ir0110" xlink:type="simple">10.1016/j.ijhydene.2014.02.086</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0170">Z. Ran, Z.Gefu, J.A.Kumar, L.Chaoxiang, H.Xu, L.Lin, Hydrogen and methane production in a bio-electrochemical system assisted anaerobic baffled reactor, Int. J. Hydrogen Energy39 (2014) 13498–13504.10.1016/j.ijhydene.2014.02.086</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0160">
+                     <ce:label>[31]</ce:label>
+                     <sb:reference id="rf0160">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Speece</ce:surname>
+                                 <ce:given-name>R.E.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Duran</ce:surname>
+                                 <ce:given-name>M.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Demirer</ce:surname>
+                                 <ce:given-name>G.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Zhang</ce:surname>
+                                 <ce:given-name>H.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Distefano</ce:surname>
+                                 <ce:given-name>T.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The role of process configuration in the performance of anaerobic systems</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>36</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>539</sb:first-page>
+                              <sb:last-page>547</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1016/S0273-1223(97)00566-0" id="ir0115" xlink:type="simple">10.1016/S0273-1223(97)00566-0</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0175">R.E. Speece, M.Duran, G.Demirer, H.Zhang, T.Distefano, The role of process configuration in the performance of anaerobic systems, Water Sci. Technol.36 (1997) 539–547.10.1016/S0273-1223(97)00566-0</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0165">
+                     <ce:label>[32]</ce:label>
+                     <sb:reference id="rf0165">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Bodkhe</ce:surname>
+                                 <ce:given-name>S.Y.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A modified anaerobic baffled reactor for municipal wastewater treatment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Environ. Manage.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>90</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2488</sb:first-page>
+                              <sb:last-page>2493</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1016/j.jenvman.2009.01.007" id="ir0120" xlink:type="simple">10.1016/j.jenvman.2009.01.007</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0180">S.Y. Bodkhe, A modified anaerobic baffled reactor for municipal wastewater treatment, J. Environ. Manage.90 (2009) 2488–2493.10.1016/j.jenvman.2009.01.007</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0170">
+                     <ce:label>[33]</ce:label>
+                     <sb:reference id="rf0170">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Horiuchi</ce:surname>
+                                 <ce:given-name>J.I.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Shimizu</ce:surname>
+                                 <ce:given-name>T.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Tada</ce:surname>
+                                 <ce:given-name>K.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Kanno</ce:surname>
+                                 <ce:given-name>T.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Kobayashi</ce:surname>
+                                 <ce:given-name>M.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Selective production of organic acids in anaerobic acid reactor by pH control</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>82</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>209</sb:first-page>
+                              <sb:last-page>213</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1016/S0960-8524(01)00195-X" id="ir0125" xlink:type="simple">10.1016/S0960-8524(01)00195-X</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0185">J.I. Horiuchi, T.Shimizu, K.Tada, T.Kanno, M.Kobayashi, Selective production of organic acids in anaerobic acid reactor by pH control, Bioresour. Technol.82 (2002) 209–213.10.1016/S0960-8524(01)00195-X</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0175">
+                     <ce:label>[34]</ce:label>
+                     <sb:reference id="rf0175">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Malakahmad</ce:surname>
+                                 <ce:given-name>A.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Lahin</ce:surname>
+                                 <ce:given-name>F.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Yee</ce:surname>
+                                 <ce:given-name>W.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Biodegradation of high-strength palm oil mill effluent (POME) through anaerobes partitioning in an integrated baffled reactor inoculated with anaerobic pond sludge</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Air Soil Pollut.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>225</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2014</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>9</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0190">A. Malakahmad, F.Lahin, W.Yee, Biodegradation of high-strength palm oil mill effluent (POME) through anaerobes partitioning in an integrated baffled reactor inoculated with anaerobic pond sludge, Water Air Soil Pollut.225 (2014) 1–9.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0180">
+                     <ce:label>[35]</ce:label>
+                     <sb:reference id="rf0180">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Zhu</ce:surname>
+                                 <ce:given-name>G.F.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Li</ce:surname>
+                                 <ce:given-name>J.Z.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Wu</ce:surname>
+                                 <ce:given-name>P.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Jin</ce:surname>
+                                 <ce:given-name>H.Z.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Wang</ce:surname>
+                                 <ce:given-name>Z.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The performance and phase separated characteristics of an anaerobic baffled reactor treating soybean protein processing wastewater</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>99</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2008</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>8027</sb:first-page>
+                              <sb:last-page>8033</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1016/j.biortech.2008.03.046" id="ir0130" xlink:type="simple">10.1016/j.biortech.2008.03.046</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0195">G.F. Zhu, J.Z.Li, P.Wu, H.Z.Jin, Z.Wang, The performance and phase separated characteristics of an anaerobic baffled reactor treating soybean protein processing wastewater, Bioresour. Technol.99 (2008) 8027–8033.10.1016/j.biortech.2008.03.046</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0185">
+                     <ce:label>[36]</ce:label>
+                     <sb:reference id="rf0185">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Hu</ce:surname>
+                                 <ce:given-name>X.-Q.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Li</ce:surname>
+                                 <ce:given-name>Z.-H.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Operational characteristics of an anaerobic baffled reactor treating low strength wastewater</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:date>2008</sb:date>
+                              <sb:publisher>
+                                 <sb:name>ICBBE IEEE</sb:name>
+                                 <sb:location>Beijing, China</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>3135</sb:first-page>
+                              <sb:last-page>3139</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0200">X.-q. Hu, Z.-h.Li, Operational characteristics of an anaerobic baffled reactor treating low strength wastewater, in: Proceedings of the 2nd International Conference on Bioinformatics and Biomedical Engineering, ICBBE 2008, ICBBE IEEE, Beijing, China, 2008, pp. 3135–3139.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0190">
+                     <ce:label>[37]</ce:label>
+                     <sb:reference id="rf0190">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Baloch</ce:surname>
+                                 <ce:given-name>M.I.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Akunna</ce:surname>
+                                 <ce:given-name>J.C.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Granular bed baffled reactor (Grabbr): Solution to a two-phase anaerobic digestion system</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Environ. Eng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>129</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1015</sb:first-page>
+                              <sb:last-page>1021</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1061/(ASCE)0733-9372(2003)129:11(1015)" id="ir0135" xlink:type="simple">10.1061/(ASCE)0733-9372(2003)129:11(1015)</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0205">M.I. Baloch, J.C.Akunna, Granular bed baffled reactor (Grabbr): Solution to a two-phase anaerobic digestion system, J. Environ. Eng.129 (2003) 1015–1021.10.1061/(ASCE)0733-9372(2003)129:11(1015)</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0195">
+                     <ce:label>[38]</ce:label>
+                     <sb:reference id="rf0195">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Gopala Krishna</ce:surname>
+                                 <ce:given-name>G.V.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Kumar</ce:surname>
+                                 <ce:given-name>P.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Kumar</ce:surname>
+                                 <ce:given-name>P.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Treatment of low-strength soluble wastewater using an anaerobic baffled reactor (ABR)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Environ. Manage.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>90</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2009</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>166</sb:first-page>
+                              <sb:last-page>176</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1016/j.jenvman.2007.08.017" id="ir0140" xlink:type="simple">10.1016/j.jenvman.2007.08.017</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0210">G.V. Gopala Krishna, P.Kumar, P.Kumar, Treatment of low-strength soluble wastewater using an anaerobic baffled reactor (ABR), J. Environ. Manage.90 (2009) 166–176.10.1016/j.jenvman.2007.08.017</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0200">
+                     <ce:label>[39]</ce:label>
+                     <sb:reference id="rf0200">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Marin</ce:surname>
+                                 <ce:given-name>J.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Kennedy</ce:surname>
+                                 <ce:given-name>K.J.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Eskicioglu</ce:surname>
+                                 <ce:given-name>C.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Characterization of an anaerobic baffled reactor treating dilute aircraft de-icing fluid and long term effects of operation on granular biomass</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>101</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2010</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2217</sb:first-page>
+                              <sb:last-page>2223</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1016/j.biortech.2009.11.055" id="ir0145" xlink:type="simple">10.1016/j.biortech.2009.11.055</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0215">J. Marin, K.J.Kennedy, C.Eskicioglu, Characterization of an anaerobic baffled reactor treating dilute aircraft de-icing fluid and long term effects of operation on granular biomass, Bioresour. Technol.101 (2010) 2217–2223.10.1016/j.biortech.2009.11.055</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0205">
+                     <ce:label>[40]</ce:label>
+                     <sb:reference id="rf0205">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Zhang</ce:surname>
+                                 <ce:given-name>S.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Yang</ce:surname>
+                                 <ce:given-name>F.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Zhang</ce:surname>
+                                 <ce:given-name>X.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Meng</ce:surname>
+                                 <ce:given-name>L.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Yin</ce:surname>
+                                 <ce:given-name>Y.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Domestic wastewater treatment with a slopping-baffle ABR</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:date>2009</sb:date>
+                              <sb:publisher>
+                                 <sb:name>IEEE</sb:name>
+                                 <sb:location>Beijing, China</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>4</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0220">S. Zhang, F.Yang, X.Zhang, L.Meng, Y.Yin, Domestic wastewater treatment with a slopping-baffle ABR, in: Proceedings of the 3rd International Conference on Bioinformatics and Biomedical Engineering, ICBBE 2009, IEEE, Beijing, China, 2009, pp. 1–4.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0210">
+                     <ce:label>[41]</ce:label>
+                     <sb:reference id="rf0210">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Pollice</ce:surname>
+                                 <ce:given-name>A.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Laera</ce:surname>
+                                 <ce:given-name>G.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Blonda</ce:surname>
+                                 <ce:given-name>M.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Biomass growth and activity in a membrane bioreactor with complete sludge retention</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>38</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2004</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1799</sb:first-page>
+                              <sb:last-page>1808</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1016/j.watres.2004.01.016" id="ir0150" xlink:type="simple">10.1016/j.watres.2004.01.016</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0225">A. Pollice, G.Laera, M.Blonda, Biomass growth and activity in a membrane bioreactor with complete sludge retention, Water Res.38 (2004) 1799–1808.10.1016/j.watres.2004.01.016</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0215">
+                     <ce:label>[42]</ce:label>
+                     <sb:reference id="rf0215">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Dittmar</ce:surname>
+                                 <ce:given-name>T.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Lara</ce:surname>
+                                 <ce:given-name>R.J.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Molecular evidence for lignin degradation in sulfate-reducing mangrove sediments (Amazônia, Brazil)</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Geochim. Cosmochim. Acta</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>65</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1417</sb:first-page>
+                              <sb:last-page>1428</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                        <sb:host>
+                           <sb:e-host>
+                              <ce:inter-ref xlink:href="pmid:10.1016/S0016-7037(00)00619-0" id="ir0155" xlink:type="simple">10.1016/S0016-7037(00)00619-0</ce:inter-ref>
+                           </sb:e-host>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0230">T. Dittmar, R.J.Lara, Molecular evidence for lignin degradation in sulfate-reducing mangrove sediments (Amazônia, Brazil), Geochim. Cosmochim. Acta65 (2001) 1417–1428.10.1016/S0016-7037(00)00619-0</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0220">
+                     <ce:label>[43]</ce:label>
+                     <sb:reference id="rf0220">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Arshad</ce:surname>
+                                 <ce:given-name>A.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Hashim</ce:surname>
+                                 <ce:given-name>N.H.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Anaerobic digestion of Nssc pulping effluent</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Int. J. Environ. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>6</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2012</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>761</sb:first-page>
+                              <sb:last-page>768</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0235">A. Arshad, N.H.Hashim, Anaerobic digestion of Nssc pulping effluent, Int. J. Environ. Res.6 (2012) 761–768.</ce:source-text>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bb0225">
+                     <ce:label>[44]</ce:label>
+                     <sb:reference id="rf0225">
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>Nachaiyasit</ce:surname>
+                                 <ce:given-name>S.</ce:given-name>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:surname>Stuckey</ce:surname>
+                                 <ce:given-name>D.C.</ce:given-name>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The effect of shock loads on the performance of an anaerobic baffled reactor (ABR): 1, step changes in feed concentration at constant retention time</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>31</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>2737</sb:first-page>
+                              <sb:last-page>2747</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                     <ce:source-text id="sot0240">S. Nachaiyasit, D.C.Stuckey, The effect of shock loads on the performance of an anaerobic baffled reactor (ABR): 1, step changes in feed concentration at constant retention time, Water Res.31 (1997) 2737–2747.</ce:source-text>
+                  </ce:bib-reference>
+               </ce:further-reading-sec>
+            </ce:further-reading>
+         </simple-tail>
+      </simple-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

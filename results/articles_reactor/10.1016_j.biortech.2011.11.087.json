@@ -1,0 +1,37 @@
+{
+  "manual_review": [
+    [
+      "10.1016_j.biortech.2011.11.087",
+      "two stage"
+    ]
+  ],
+  "llm_review": [
+    [
+      "10.1016_j.biortech.2011.11.087",
+      "biofilm derivative"
+    ],
+    [
+      "10.1016_j.biortech.2011.11.087",
+      "two stage"
+    ]
+  ],
+  "correct_predictions": 1,
+  "false_predictions": 1,
+  "missed_predictions": 0,
+  "precision": 0.5,
+  "recall": 1.0,
+  "f1_score": 0.6667,
+  "correct_items": [
+    [
+      "10.1016_j.biortech.2011.11.087",
+      "two stage"
+    ]
+  ],
+  "false_items": [
+    [
+      "10.1016_j.biortech.2011.11.087",
+      "biofilm derivative"
+    ]
+  ],
+  "missed_items": []
+}

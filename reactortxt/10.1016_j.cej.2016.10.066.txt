@@ -1,0 +1,153 @@
+TITLE: Pilot-scale investigation on the treatment of cellulosic ethanol biorefinery wastewater
+
+
+1 Introduction
+
+Increased consumption and depletion of fossil fuels is predicted to continue with the development of the global economy. One renewable solution concerning this depletion is the use of solar energy in the form of biomass (bioenergy) [1]. Recently, a majority of the petroleum importing countries became interested in utilizing biomass containing cellulose (sugar or starch crops) as a feedstock for ethanol production [2]. Cellulosic ethanol production has been attracting worldwide interest because it provides a renewable-energy source in a sustainable manner [3–6]. Furthermore, the increasing demand for sustainably produced cellulose-derived ethanol has boosted the production of biofuels [7]. However, the production of cellulose-derived ethanol, whether from sugar crops or starch crops, results in the concurrent production of large volumes of high-strength wastewater [8]. Corn stover is a renewable lignocellulose feedstock for a large volume of ethanol production, and the biorefinery process usually begins with the breaking down of cellulose using H_2SO_4. Ammonia is added to neutralize the acid. Then, cellulose is converted into sugars by enzymes, and the sugars are fermented. Ethanol is distilled from the fermentation solution, and the residual fermenting mash is discharged as wastewater. Approximately 20 L of wastewater are generated from each liter of ethanol produced [9]. The discharge of cellulosic ethanol biorefinery wastewater without purification will seriously pollute the quality of the water environment [10,11].
+
+However, relatively few studies have focused on the treatment of cellulosic ethanol biorefinery wastewater [12–14]. Several studies focused on chemical oxygen demand (COD) removal, sulfur balances, color removal and color characterization [15–20]. Some processes have been studied, such as evaporation, membrane separation, single cell protein production, and thermal and electrochemical processes [9,13,21]. The shortfalls of existing treatment technologies include excessive energy consumption for evaporation, as well as for air diffusion in an aerobic process, and membrane fouling in membrane separation [9,22]. These problems require more rigorous consideration in wastewater treatment.
+
+The wastewater from a cellulosic ethanol biorefinery has a higher COD, biochemical oxygen demand (BOD), and suspended solids (SS) content, but a lower pH, than the distillery wastewater from processing of grain crops [9,22]. Usually, cellulosic ethanol biorefinery wastewater is treated first with a filter to remove SS, followed successively by anaerobic digestion (AD) and multi-stage extended aeration processes. An AD process can remove a significant portion of COD that is biodegradable [9,23,24]. During AD, 80–90% BOD removal also takes place and therefore, the AD process is widely accepted as the first bio-treatment step in traditional distilleries [25].
+
+Although many compounds in cellulosic ethanol biorefinery wastewater are biodegradable, numerous recalcitrant compounds cannot be removed using biological processes. Hydrolysis fermentation of cellulosic materials is much more complicated than that of sugar or starch crops. While some biomass is converted into ethanol, recalcitrant compounds are liberated simultaneously [9]. These compounds make the biological process less efficient and more energy-intensive. Therefore, additional chemical oxidation may be necessary to treat the biorefractory components. Once these recalcitrant substances are oxidized to assimilable or biodegradable organic carbon, a biological process becomes the ideal choice for further treatment.
+
+Ozonation is one means of oxidizing biorefractory compounds and has the advantage that it does not require the addition of chemicals, apart from the ozone; moreover, ozonation does not produce sludge, and it is a simple process to operate [26]. Ozonation has been applied as a pretreatment step to biological processes to enhance the biodegradability of wastewaters [27,28]. Ozonation-biological treatment is one of the most promising processes among advanced wastewater treatment processes [29–31]. However, when ozonation is applied to raw wastewater, all biodegradable compounds (not just the recalcitrant ones) compete for the ozone, and more ozone is consumed than when using ozone on partially treated wastewater [32]. The excessive ozone consumption leads to high energy demand and unnecessary costs. Thus, a combination of biological treatment and chemical oxidation is necessary to reduce the treatment costs associated with ozonation. Ozone should be used as much as necessary to convert the biorefractory compounds into biodegradable substances. When an ozonation process follows a biological process, the ozonation of organic matter mostly leads to the formation of low molecular weight acids, which usually are very biodegradable.
+
+The biological nitrification-denitrification process is used to remove ammonium (NH_4 ^+-N) nitrogen from wastewaters. Savings in aeration demand, carbon resources (for denitrification) and reductions in surplus sludge are achievable if nitrite accumulation is fostered in the nitrification step. Alternatively, nitrogen removal can be accomplished by converting NH_4 ^+-N directly through nitrite (NO_2 ^−-N) to nitrogen gas. In this paper, a novel combination of biological treatment and ozonation was used to treat wastewater from a cellulosic ethanol biorefinery. The biological process was designed as an integrated anaerobic continuous stirred tank reactor (CSTR), anaerobic internal circulation reactor (IC), and aerobic sequencing batch reactor (SBR). Ozone was applied in an ozonation reactor (OR) to degrade those molecules recalcitrant to biodegradable treatment. A shortcut nitrogen removal process was used to convert NH_4 ^+-N to NO_2 ^−-N in the SBR. The performance of each reactor and the whole system was evaluated in pilot-scale experiments to examine the possibility of applying this novel process for full-scale wastewater treatment.
+
+
+2 Material and methods
+
+
+2.1 Wastewater characterization
+
+The pilot-scale experiment was conducted in a production workshop in Heilongjiang Province, northeast China (longitude 125°22′–126°22′ and latitude 45°10′–46°20′). The wastewater was collected from a pilot-scale production line that produces ethanol using corn stover (Fig. 1 ). The corn stover was pretreated using a steam-explosion device, and a frame filter was used to obtain filtrate from the fermenting mash. The fermenting mash from the production line contained a large quantity of SS, and the frame filter was used to reduce the SS content of the wastewater used in this study. The characteristics of the filtered wastewater are summarized in Table 1 . The wastewater was stored in a large tank before its use in the bioreactors.
+
+
+2.2 The pilot-scale system
+
+The integrated CSTR-IC-SBR pilot-scale system, together with the OR option, is shown in Fig. 2 . The CSTR was a bottom-fed biological fermentation device with stirring, disposition and separation features. The CSTR and IC were anaerobic bioreactors (made of stainless steel) and each was preceded by a tank (made of polyethylene) that was used to regulate wastewater temperature. The SBR (made of stainless steel) was used for post-treatment of IC effluent, and was also preceded by a regulation tank (made of polyethylene) that was used to control wastewater capacity. A heat insulation sandwich layer lined each stainless steel bioreactor. Effective reactor volumes of the CSTR, IC and SBR were 1400 L, 500 L, and 1000 L, respectively. The OR also was made of stainless steel (effective volume 146 L) and was used to treat the IC effluent.
+
+
+2.3 Rector start-up
+
+Each reactor was inoculated and started individually, and then all reactors were connected. The hydraulic retention time (HRT) was 53 h for the CSTR, 17 h for the IC, and 24 h for the SBR. Sludge to inoculate the CSTR and IC was taken from an anaerobic bioreactor at the Cornstarch Wastewater Treatment Plant, Jilin province, China. The total solids and volatile solids concentrations of the inoculation sludge were 44.7 g/L and 40.6 g/L, respectively. The sludge concentration of the CSTR and the IC was 10.9 g volatile suspended solid (VSS)/L and 21.7 g VSS/L, respectively. Secondary clarifier sludge from the Cornstarch Wastewater Treatment Plant was used as the inoculation sludge for the SBR. The concentration of the floc sludge in the SBR was 10.5 g VSS/L. Sodium hydroxide was used to adjust the pH of each bioreactor to 7.0–8.0 before the bioreactors starting up individually. After the bioreactors were connected, the pH of influent to the CSTR was adjusted. The temperature of wastewater from the biorefinery workshop was approximately 55 °C. The wastewater from the production line was collected in a storage tank. Because the study was conducted in a cold region, the temperature of stored wastewater decreased due to heat lost to the surroundings. Therefore, a steam pipe was used to maintain a moderate wastewater temperature in the storage tank. The operating temperatures of the CSTR, IC and SBR were approximately 33 °C, 28 °C, and 22 °C, respectively.
+
+
+2.3.1 The start-up of the CSTR and IC
+
+Each bioreactor was started individually, and the raw wastewater was diluted in the initial phase. The start-up of the CSTR was divided into three stages before connection with the IC, and start-up of the IC was divided into two stages before the connection (Fig. 3 ). The CSTR was started using diluted raw wastewater for sludge acclimation, and the input COD was about 2000 mg/L (stage I, 13 d), 3500 mg/L (stage II, 16 d) and 5000 mg/L (stage III, 7 d). The IC also was started using diluted raw wastewater, and the input COD was increased from approximately 1300 mg/L (stage I, 11 d) to 1800 mg/L (stage II, 24 d). When the COD removal efficiency of both the CSTR and IC reached a steady state (approximately 70%), the two bioreactors were connected. After the connection, the input COD of the CSTR was gradually increased from approximately 5000 mg/L (at 36 d) to 10,500 mg/L (at 65 d) (Fig. 4 ).
+
+
+2.3.2 The start-up of the CSTR-IC-SBR system
+
+When the CSTR, IC and SBR were connected, some effluent from the IC was pumped back to the first regulation tank to dilute raw wastewater, and the balance became influent to the SBR (Fig. 5 ). The dilution of raw was accomplished in five steps, during which the ratio of raw wastewater, return flows (from the IC) and clean water that comprised the influent to the CSTR was 1:1:5, 1:2:4, 1:3:3, 1:4:2 and 1:6:0 (Fig. 5a) in step 1, step 2, step 3, step 4 and step 5, respectively. The effect of influent composition on COD removal in the CSTR-IC-SBR was investigated (Fig. 5b). At the end of the five steps, only IC effluent was used to dilute raw wastewater fed to the CSTR, at the rate of 1200 L IC effluent to 200 L raw wastewater.
+
+The aeration time in the SBR was extended as the NH_4 ^+-N loading increased. When the influent NH_4 ^+-N concentration was less than 100 mg/L, the aeration period was 4–5 h, followed by sedimentation of 0.5 h, and this cycle was repeated (step 1 to step 3) (Fig. 5c). The total cycle length was approximately 14 h in which the aerobic aeration and sedimentation processes were conducted alternately three times. Dissolved oxygen (DO) concentration was controlled at less than 1.5 mg/L in the aeration phase. A full nitrification process was used to accomplish nitrogen removal in steps 1 and 2 (Fig. 5c). With the increase of the NH_4 ^+-N loading during step 3 to step 5 (Fig. 5c), a shortcut nitrification process was started and gradually replaced the full nitrification.
+
+
+2.3.3 Operation of the CSTR-IC(-OR)-SBR system
+
+After the combined CSTR-IC-SBR system was successfully started, the IC effluent was directly recirculated to the inlet of the CSTR in stage I (without ozonation) (Fig. 6 a). In stage II, the OR was operated in the path of backflow, and the return flow from the IC was pumped into the OR for ozonation before it was mixed with the raw wastewater being fed to the CSTR (Fig. 6a). Ozonation was used to treat the IC effluent, and the experimental condition was that the reaction temperature was 25–28 °C, the ozone dose was 6 g/h and the reaction time was 140 min.
+
+After the shortcut nitrification process was successfully started, operation of the SBR was divided into two stages (Fig. 7 ). In stage I (cycles 1–20), continuous aeration was used to promote nitrification, and the DO concentration was controlled below 1.5 mg/L. The aeration period was extended to approximately 30 h, followed by denitrification of 7–8 h (Fig. 7). Glucose was used as the carbon source for denitrification. In stage II (cycles 21–47), DO concentration was controlled below 1.0 mg/L during nitrification (Fig. 7). Intermittent aeration was applied in stage II. Once the DO concentration exceeded 1.0 mg/L, aeration was stopped. Aeration was supplied for approximately 3 h, followed by stirring without aeration for approximately 1 h, and this cycle was repeated. Acetate was used as the external carbon source for denitrification in stage II, and the duration of the denitrification process was reduced to approximately 2 h.
+
+
+2.4 Analytical methods
+
+COD, NH_4 ^+-N, NO_2 ^−-N, nitrate (NO_3 ^−-N) and mixed liquor suspended solids (MLSS) concentrations were determined using standard methods (APHA-AWWA-WEF, 1998). BOD_5 concentration was monitored using an automatic analyzer (WTW OxiTop IS 6/12, Germany). DO, pH and temperature were measured using a portable multi-parameter test set (WTW pH/Oxi 340i, Germany). Alkalinity concentrations were monitored using potential titration. The concentration of sulfate was determined according to the gravimetric method (GB 11899–89, Standards of China).
+
+The nitrite accumulation ratio (NAR) [33] was determined based on Eq. (1): FORMULA: NAR ( % ) = NO 2 - - N NO 3 - - N + NO 2 - - N × 100
+
+When the NAR exceeded 50% during the nitrification stage, the nitrification process was nitrite-based.
+
+
+3 Results
+
+
+3.1 System start-up
+
+
+3.1.1 CSTR
+
+The average COD removal efficiency was 69%, 78% and 79% in the CSTR start-up stages I, II and III, respectively (Fig. 3a). After the CSTR and IC were connected, although the average influent COD concentration of the CSTR increased substantially, the removal efficiency remained steady (79%). The volumetric loading of the CSTR was increased from approximately 1.0 kg COD/(m^3·d) to 3.0 kg COD/(m^3·d) during the start-up period.
+
+
+3.1.2 IC
+
+As with the CSTR, the IC was started individually, and the average COD concentrations of the influent were 1408 mg/L and 1841 mg/L in stages I and II, respectively (Fig. 3b). In the two stages, the COD volumetric loading was approximately 1.0 kg COD/(m^3·d) with an average COD removal of 65–75%. For the CSTR and IC combined, the COD removal efficiency consistently exceeded 80% (Fig. 4).
+
+
+3.1.3 CSTR-IC-SBR
+
+When the CSTR, IC and SBR were connected, part of the IC effluent was used to dilute the influent to the CSTR, and the balance became influent to the SBR (Fig. 5a). As the volume of IC return flow in the CSTR influent increased (Fig. 5a) the COD removal efficiency of the CSTR-IC-SBR system decreased (Fig. 5b). An average removal efficiency of 89%, 86%, 86%, 83%, and 78% was achieved during the steps 1–5, respectively (Fig. 5a and b).
+
+A full nitrification process was used for nitrogen removal in steps 1 and 2 (Fig. 5c). In this stage, the effluent NH_4 ^+-N concentration was less than 10 mg/L, and the effluent NO_2 ^−-N concentration was approximately 5 mg/L. The NO_2 ^−-N concentration increased sharply as the NH_4 ^+-N loading increased in step 3, and the NAR reached 90% (Fig. 5c). The accumulation showed that shortcut nitrification was successfully adapted to biological denitrogenation. Moreover, the COD removal efficiency of the SBR decreased from 28.2% to 4.2%.
+
+
+3.2 Reactor performance
+
+
+3.2.1 COD removal
+
+An average COD removal efficiency of 78.5% was obtained for the integrated CSTR-IC-SBR system in stage I (Fig. 6a), and contributions of the CSTR, IC and SBR were 71.6%, 4.5% and 2.4%, respectively. The volumetric loadings of COD were 6.5 kg COD/(m^3·d) in the CSTR and 4.0 kg COD/(m^3·d) in the IC.
+
+The OR was used to treat the IC effluent in stage II (Fig. 6a). A total COD removal efficiency of 84.9% was obtained for the combined system in stage II (Fig. 6a), and contributions of the CSTR, IC and SBR were 76.4%, 5.2% and 3.3%.
+
+Moreover, a stable system pH was achieved when the IC effluent began to feed the CSTR. A large amount of carbonate alkalinity was produced in the anaerobic process; for example, the alkalinity concentration increased from 980 ± 85 mg/L (in raw wastewater) to 10,032 ± 264 mg/L (in IC effluent).
+
+
+3.2.2 Nitrogen removal
+
+The average NAR exceeded 90%, which showed that nitrification via the NO_2 ^−-N process was achieved (Fig. 7). The NH_4 ^+-N removal efficiency and NAR declined in stage I due to an unavoidable interruption in the operation of the SBR (Fig. 7). However, the operation of the SBR reactor resumed quickly, and thereafter both the NH_4 ^+-N removal and NO_2 ^−-N accumulation returned to their original levels. In stage II, an average NH_4 ^+-N removal efficiency of 80% was achieved and the effluent concentration was 61 ± 8 mg/L. Although the NO_2 ^−-N accumulation rate remained in excess of 90%, the effluent NO_2 ^−-N concentration was less than 10 mg/L after denitrification.
+
+
+3.2.3 Sulfate removal
+
+A total sulfate removal efficiency of 65% was obtained, and there was a conversion between sulfide and sulfate in this system. The sulfate concentration in the influent to the CSTR was 620 ± 58 mg/L, and the concentration in the IC effluent was 71 ± 18 mg/L. The removed sulfate was converted into elemental sulfur and sulfide in the CSTR and IC. In fact, more than 90% of the sulfate was removed in the anaerobic process (CSTR-IC), but the subsequent aerobic process in the SBR converted some of the sulfide into sulfate. In stage I, continuous aeration (maintaining the DO concentration at 1.0–1.5 mg/L) in the nitrification process (Fig. 7) resulted in the oxidation of sulfide to sulfate, which increased the effluent sulfate concentration to 300–400 mg/L. In stage II, because of the intermittent aeration in the nitrification process (Fig. 7), a lower DO concentration (<1.0 mg/L) was maintained in the SBR, which weakened the oxidation of sulfide to sulfate such that the effluent sulfate concentration of the SBR decreased to 217 ± 10 mg/L.
+
+
+3.3 Effect of post-treatment ozonation on wastewater biodegradability
+
+In a post-treatment technique, ozonation was used to treat the IC effluent. The COD and NH_4 ^+-N reduction efficiencies were 27.3 ± 3.5% and 40.3 ± 5.8%, respectively. The corresponding effluent concentrations of COD and NH_4 ^+-N were 1641 ± 78 and 243 ± 21 mg/L, respectively. The BOD_5/COD ratio increased from 0.15 ± 0.02 to 0.33 ± 0.05 as a result of ozonation (Fig. 6c), and the ozonation enhancement improved COD removal in the biological process (Fig. 6a). The COD removal efficiency of the combined system increased from 78.5% (without ozonation) to 84.9% (with ozonation), and the final effluent COD concentration decreased correspondingly from 1958 ± 84 mg/L to 1591 ± 226 mg/L.
+
+
+4 Discussion
+
+
+4.1 Impact of the ozonation enhancement on COD removal
+
+This study demonstrated that the use of ozonation as a post-treatment technique is very advantageous in the treatment of cellulosic ethanol biorefinery wastewater. In the combined system (CSTR-IC-SBR) without OR, approximately 76% of influent COD was removed during the anaerobic process, but the remaining COD could not be well utilized by microorganisms in the subsequent aerobic process. The ozonation enhancement, in this backflow process, not only strengthened the degradation of some recalcitrant compounds, but also extended the HRT of the biological process.
+
+A significant difference in COD removal occurred in the different phases of IC operation. In the start-up period, diluted raw wastewater was used to feed the IC, and the average COD removal efficiency was 65–75%. When the IC was connected to the CSTR, the COD removal efficiency began to decrease because the BOD_5/COD ratio of the IC influent decreased from 0.42 to 0.20 (Fig. 6c). The BOD_5/COD ratio was a major limitation for COD removal. In this study, the ozonation enhancement process was used to improve the biochemical characteristics of the effluent from the anaerobic process. The reaction between ozone and non-biodegradable dissolved organic carbon generally produced some intermediate compounds, which were typically more polar and more biodegradable than the parent compounds. The analyses of BOD_5/COD ratios demonstrated that ozone mineralized non-biodegradable organics in the IC effluent, and improved the biodegradability of the wastewater (Fig. 6c).
+
+When the operation of CSTR-IC(-OR)-SBR system was stable, the influent to the CSTR consisted of 1200 mL ozone reactor effluent mixed with 200 mL raw wastewater (Fig. 6c). The BOD_5/COD ratio of the influent was 0.15 before reaction with ozone and increased to 0.33 after the ozonation process was included. Ozone converted some biorefractory compounds into biodegradable substances. The ozonation of organic matter leads to the formation of low molecular weight acids that are usually very biodegradable.
+
+A final COD removal efficiency of 85% was achieved in the CSTR-IC(-OR)-SBR system. Merrick et al. [34] in laboratory trials achieved up to a 73% reduction in COD, and hence proposed a design for treating effluent arising from the National Renewable Energy Laboratory acid hydrolysis process. Luiz et al. [13] used a membrane to treat wastewater from cellulosic ethanol biorefineries using ultrafiltration, and the COD removal efficiency was 67%. Torry-Smith et al. [15] studied the use of a pilot-scale UASB on wet-oxidized wheat straw effluent to achieve a COD reduction exceeding 80%.
+
+A short HRT might be another factor that limits achieving a high COD removal. In this study, the recirculation of effluent and the ozonation enhancement transformed the treatment process into a sequence of anaerobic (CSTR-IC), aerobic (ozonation), anaerobic (CSTR-IC) and aerobic (SBR) processes. The OR extended the HRT of the anaerobic process, and thus increased the opportunity for complex organic matter or some intermediates from ozonation to be fully used by the microorganisms (Fig. 6b).
+
+The operating costs of the ozonation process were calculated. The cost for labor, chemicals and electricity was 0.78, 0.23 and 0.80 US$/tonne, respectively, in the biological process. The running cost of the ozone-oxidation system consisted of an operation cost (2.52 US$/tonne) for the ozone generator and a treatment cost (0.27 US$/tonne) for the ozone tail gas, of which the former was dominant. Based on the current price of chemicals, the treatment cost was 1.81 US$/tonne for the biological process and 2.79 US$/tonne for the ozonation process. Although the cost of the ozonation process was higher than that of the biological process, the ozonation process was necessary to improve the overall treatment of the cellulosic ethanol biorefinery wastewater. When cellulose was converted into ethanol, some recalcitrant compounds were liberated simultaneously into the water. These compounds limited the treatment effectiveness of a stand-alone biological process and necessitated additional chemical oxidation
+
+
+4.2 Reactor performance in terms of nitrogen removal
+
+Biological nitrogen removal, consisting of combined aerobic nitrification and anoxic denitrification, is an economical and efficient means for removing nitrogen from wastewater. In this process, NO_2 ^−-N can be directly reduced by denitrification to form a shortcut nitrification-denitrification process [35]. Compared with traditional nitrification-denitrification (in which nitrate is the end product in nitrification and the electron acceptor in the subsequent denitrification process), shortcut nitrification-denitrification requires less oxygen and organic carbon and functions in a shorter reaction time [36,37]. These characteristics are especially favorable for treating wastewater such as the IC effluent (which had a low concentration of biodegradable dissolved organic carbon but was rich in nitrogen). A consistent accumulation of NO_2 ^−-N is needed to achieve “shortcut” nitrification. From a biological viewpoint, NO_2 ^−-N accumulation has been promoted in two ways [38]: (1) by separating NH_4 ^+-N oxidizers from NO_2 ^−-N oxidizers; and (2) by restricting NO_2 ^−-N oxidizers to grow in a nitrifying mixture. In this study, both nitrification and denitrification occurred in the SBR. Several operational parameters, such as DO, pH and alkalinity, were closely associated with the partial nitrification process. Proper manipulation of the oxic and anoxic phases assured a good shortcut nitrification process. In practice, operations were performed at a low DO concentration (<1.0 mg/L), a high pH (7.5–8.5), and an appropriate initial alkalinity to enable NH_4 ^+-N oxidizing bacteria to predominate over NO_2 ^−-N oxidizing bacteria.
+
+DO concentration is an important factor in nitrification, and a higher oxygen affinity of ammonium-nitrifying bacteria for oxygen compared to that of nitrite-oxidizing bacteria seems critical to achieving partial nitrification. Continuous nitrification at a low DO concentration can lead to a high NO_2 ^−-N accumulation. In this study, stable NO_2 ^−-N accumulation was obtained by decreasing the DO concentration and increasing the NH_4 ^+-N loading (Fig. 5c). At low DO concentrations, nearly all oxygen was consumed by NH_4 ^+-N oxidizers. Nitrite oxidizers were out-competed for oxygen; thus, their activity decreased. The DO concentration was maintained at approximately 0.5–1.0 mg/L through the use of intermittent aeration in stage II (Fig. 7). A NO_2 ^−-N buildup in nitrification was obtained by regulating the DO concentration. In addition to promoting stable NO_2 ^−-N accumulation, a low DO concentration can reduce energy usage. For cellulosic ethanol biorefinery wastewater, maintaining low DO concentrations is an energy-neutral way to remove nitrogen in practice.
+
+A reasonable pH range is important to successfully achieving shortcut nitrification. The oxidation of NH_4 ^+-N is an acidifying process, and thus the control of pH is necessary for preventing process inhibition [39]. Nitrification suddenly decreases, and complete inhibition of both NH_4 ^+-N oxidizing and NO_2 ^−-N oxidizing bacteria occurs at pH less than 6.45 and greater than 8.95 [40]. Because the NH_4 ^+-N oxidizers grow faster than the NO_2 ^−-N oxidizers at high pH values [41], a high pH is preferred for obtaining an effluent that has a low NH_4 ^+-N concentration [37]. In this study, the raw wastewater was acidic, and a certain amount of sodium hydroxide was used to adjust the pH to a desirable level. In the SBR, the pH remained in the range 7.5–8.5.
+
+The extent of the pH decrease during nitrification depends on the carbonate alkalinity concentration in wastewater. In this study, the carbonate alkalinity concentration of raw wastewater was approximately 980 ± 85 mg/L. A large amount of carbonate alkalinity was produced in the anaerobic process, and the alkalinity concentration increased to 10,032 ± 264 mg/L. At the completion of an aeration period in the SBR, the alkalinity concentration decreased to 6206 mg/L, and the pH decreased from 8.1 to 7.8. Thus, the wastewater had a good buffer capacity for the pH changes.
+
+In general, the effluent from the anaerobic process had low concentrations of biodegradable organics, high concentrations of NH_4 ^+-N, a high alkalinity level and a low C/N ratio. These characteristics are well suited to the shortcut biological nitrogen removal process, which is designed to remove nitrogen from high-strength NH_4 ^+-N wastewater having a low C/N ratio.
+
+
+4.3 Reactor performance in terms of sulfate removal
+
+One technology for the treatment of high sulfate water is the anaerobic biological reduction of sulfate to sulfide [42]. During this process, sulfate reducing bacteria utilize sulfate as an electron acceptor, reducing it to sulfide. In this study, the wastewater had high concentrations of sulfate, NH_4 ^+-N and carbon compounds. Some organic compounds were used by the sulfate reducing bacteria to produce sulfide from sulfate in the CSTR and IC. The shortcut nitrification process converted both sulfide and NH_4 ^+-N into sulfate (and elemental sulfur) and NO_2 ^−-N, respectively. Finally, anoxic denitrification converted sulfate and NO_2 ^−-N to elemental sulfur and N_2, respectively. Thus there was a conversion between sulfide and sulfate in the system. Sulfide oxidation proceeded in two steps: sulfide was first oxidized to thiosulfate and elemental sulfur (S^0), and then both compounds were further oxidized to sulfate in the second step [43,44]. A high DO concentration oxidized additional sulfides into sulfate. In this case, appropriate operational parameters were needed to remove sulfate and NH_4 ^+-N simultaneously. To achieve this objective, a low-DO biological process provided for both the sulfate and NH_4 ^+-N removal.
+
+
+5 Conclusions
+
+At pilot scale, a combined treatment system consisting of a CSTR, IC and SBR, and ozonation can successfully treat complex wastewater from a cellulosic ethanol biorefinery. The performance of the treatment system at pilot scale suggests that it is appropriate for full-scale application. Ozonation was integrated into the system to enhance the biodegradability of the anaerobic effluent from the IC and improved the BOD_5/COD ratio of this effluent from 0.15 ± 0.02 to 0.33 ± 0.05. A final COD removal efficiency of 85% was obtained in the combined system (including ozonation), resulting in an effluent COD concentration of 1591 ± 226 mg/L and an effluent BOD_5/COD ratio of 0.07 ± 0.01. The total NH_4 ^+-N removal efficiency was approximately 80%, and the effluent NH_4 ^+-N concentration was 61 ± 8 mg/L. Sulfate was removed in the treatment system by alternating anaerobic and aerobic conditions, resulting in a total sulfate removal efficiency of 65%. The final effluent sulfate concentration was 217 ± 10 mg/L.

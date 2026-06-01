@@ -1,0 +1,133 @@
+{
+  "manual_review": [
+    [
+      "10.1016_j.bej.2008.05.008",
+      "two stage"
+    ]
+  ],
+  "llm_review": [
+    [
+      "10.1016_j.bej.2008.05.008",
+      "batch"
+    ],
+    [
+      "10.1016_j.bej.2008.05.008",
+      "sequencing batch reactor"
+    ],
+    [
+      "10.1016_j.bej.2008.05.008",
+      "cstr"
+    ],
+    [
+      "10.1016_j.bej.2008.05.008",
+      "anaerobic contact reactor"
+    ],
+    [
+      "10.1016_j.bej.2008.05.008",
+      "uasb"
+    ],
+    [
+      "10.1016_j.bej.2008.05.008",
+      "egsb"
+    ],
+    [
+      "10.1016_j.bej.2008.05.008",
+      "uasb derivative"
+    ],
+    [
+      "10.1016_j.bej.2008.05.008",
+      "fixed bed"
+    ],
+    [
+      "10.1016_j.bej.2008.05.008",
+      "membrane"
+    ],
+    [
+      "10.1016_j.bej.2008.05.008",
+      "hybrid"
+    ],
+    [
+      "10.1016_j.bej.2008.05.008",
+      "two stage"
+    ],
+    [
+      "10.1016_j.bej.2008.05.008",
+      "small scale"
+    ],
+    [
+      "10.1016_j.bej.2008.05.008",
+      "loop reactor"
+    ],
+    [
+      "10.1016_j.bej.2008.05.008",
+      "hydraulic flush"
+    ]
+  ],
+  "correct_predictions": 1,
+  "false_predictions": 13,
+  "missed_predictions": 0,
+  "precision": 0.0714,
+  "recall": 1.0,
+  "f1_score": 0.1333,
+  "correct_items": [
+    [
+      "10.1016_j.bej.2008.05.008",
+      "two stage"
+    ]
+  ],
+  "false_items": [
+    [
+      "10.1016_j.bej.2008.05.008",
+      "batch"
+    ],
+    [
+      "10.1016_j.bej.2008.05.008",
+      "sequencing batch reactor"
+    ],
+    [
+      "10.1016_j.bej.2008.05.008",
+      "cstr"
+    ],
+    [
+      "10.1016_j.bej.2008.05.008",
+      "anaerobic contact reactor"
+    ],
+    [
+      "10.1016_j.bej.2008.05.008",
+      "uasb"
+    ],
+    [
+      "10.1016_j.bej.2008.05.008",
+      "egsb"
+    ],
+    [
+      "10.1016_j.bej.2008.05.008",
+      "uasb derivative"
+    ],
+    [
+      "10.1016_j.bej.2008.05.008",
+      "fixed bed"
+    ],
+    [
+      "10.1016_j.bej.2008.05.008",
+      "membrane"
+    ],
+    [
+      "10.1016_j.bej.2008.05.008",
+      "hybrid"
+    ],
+    [
+      "10.1016_j.bej.2008.05.008",
+      "small scale"
+    ],
+    [
+      "10.1016_j.bej.2008.05.008",
+      "loop reactor"
+    ],
+    [
+      "10.1016_j.bej.2008.05.008",
+      "hydraulic flush"
+    ]
+  ],
+  "missed_items": []
+}

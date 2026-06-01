@@ -1,0 +1,1368 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/S1369703X0800185X</prism:url><dc:identifier>doi:10.1016/j.bej.2008.05.008</dc:identifier><eid>1-s2.0-S1369703X0800185X</eid><prism:doi>10.1016/j.bej.2008.05.008</prism:doi><pii>S1369-703X(08)00185-X</pii><dc:title>Anaerobic digestion of food waste in a hybrid anaerobic solid–liquid system with leachate recirculation in an acidogenic reactor </dc:title><prism:publicationName>Biochemical Engineering Journal</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>sco</pubType><prism:issn>1369703X</prism:issn><prism:volume>41</prism:volume><prism:issueIdentifier>2</prism:issueIdentifier><prism:startingPage>198</prism:startingPage><prism:endingPage>201</prism:endingPage><prism:pageRange>198-201</prism:pageRange><prism:number>2</prism:number><dc:format>text/xml</dc:format><prism:coverDate>2008-09-01</prism:coverDate><prism:coverDisplayDate>1 September 2008</prism:coverDisplayDate><prism:copyright>Copyright © 2008 Elsevier B.V. All rights reserved.</prism:copyright><prism:publisher>Elsevier B.V.</prism:publisher><dc:creator>Stabnikova, Olena</dc:creator><dc:creator>Liu, Xue-Yan</dc:creator><dc:creator>Wang, Jing-Yuan</dc:creator><dc:description>
+                  Recirculation of the leachate in the acidogenic reactor was proposed to enhance anaerobic digestion of food waste in the hybrid anaerobic solid–liquid (HASL) system. Recirculation of the leachate in the acidogenic reactor provided better conditions for extraction of organic matter from the treated food waste and buffering capacity to prevent excessive acidification in the acidogenic reactor. It ensured faster supply of nutrients in the methanogenic reactor in experiment. The highest dissolved COD and VFA concentrations in the leachate from the acidogenic reactor were reached for shorter time and were 16,670mg/l and 9450mg/l in control and 18,614mg/l and 11,094mg/l in experiment, respectively. Recycling of the leachate in the acidogenic reactor intensified anaerobic digestion of food waste and diminished time needed to produce the same quantity of methane by 40% in comparison with anaerobic digestion of food waste without recirculation.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Anaerobic digestion</dcterms:subject><dcterms:subject>Food waste</dcterms:subject><dcterms:subject>Hybrid anaerobic solid–liquid (HASL) system</dcterms:subject><dcterms:subject>Recirculation</dcterms:subject><dcterms:subject>Acidogenic reactor</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/S1369703X0800185X" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/S1369703X0800185X" rel="scidir"/></coredata><objects><object ref="gr1" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="528" height="275" size="31449">https://api.elsevier.com/content/object/eid/1-s2.0-S1369703X0800185X-gr1.jpg?httpAccept=%2A%2F%2A</object><object ref="gr1" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="65" size="1698">https://api.elsevier.com/content/object/eid/1-s2.0-S1369703X0800185X-gr1.sml?httpAccept=%2A%2F%2A</object><object ref="gr2" category="standard" type="IMAGE-DOWNSAMPLED" multimediatype="JPEG image file" mimetype="image/jpeg" width="566" height="363" size="41867">https://api.elsevier.com/content/object/eid/1-s2.0-S1369703X0800185X-gr2.jpg?httpAccept=%2A%2F%2A</object><object ref="gr2" category="thumbnail" type="IMAGE-THUMBNAIL" multimediatype="GIF image file" mimetype="image/gif" width="125" height="80" size="1742">https://api.elsevier.com/content/object/eid/1-s2.0-S1369703X0800185X-gr2.sml?httpAccept=%2A%2F%2A</object></objects><scopus-id>47849115117</scopus-id><scopus-eid>2-s2.0-47849115117</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/47849115117" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271428</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291808</xocs:ssid>
+         <xocs:ssid type="subj">291850</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Biochemical Engineering Journal</xocs:srctitle>
+      <xocs:normalized-srctitle>BIOCHEMICALENGINEERINGJOURNAL</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20080528">2008-05-28</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20080528">2008-05-28</xocs:available-online-date>
+      <xocs:ew-transaction-id>2010-03-28T02:22:29</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-S1369703X0800185X</xocs:eid>
+      <xocs:pii-formatted>S1369-703X(08)00185-X</xocs:pii-formatted>
+      <xocs:pii-unformatted>S1369703X0800185X</xocs:pii-unformatted>
+      <xocs:doi>10.1016/j.bej.2008.05.008</xocs:doi>
+      <xocs:item-stage>S300</xocs:item-stage>
+      <xocs:item-version-number>S300.1</xocs:item-version-number>
+      <xocs:item-weight>FULL-TEXT</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S1369703X08X00105</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150515">2015-05-15T05:55:30.204224-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>20080901</xocs:date-search-begin>
+      <xocs:year-nav>2008</xocs:year-nav>
+      <xocs:indexeddate epoch="1211932800">2008-05-28T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdatestart pubdatetxt pubyr sectiontitle sortorder srctitle srctitlenorm srctype subheadings volfirst volissue webpdf webpdfpagecount figure table body acknowledge affil articletitle auth authfirstini authfull authkeywords authlast primabst pubtype ref alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>1369-703X</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>1369703X</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:vol-first>41</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>41</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>2</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>2</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 41, Issue 2</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>18</xocs:sort-order>
+      <xocs:first-fp>198</xocs:first-fp>
+      <xocs:last-lp>201</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>198</xocs:first-page>
+         <xocs:last-page>201</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>20080901</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>1 September 2008</xocs:cover-date-text>
+      <xocs:cover-date-start>2008-09-01</xocs:cover-date-start>
+      <xocs:cover-date-year>2008</xocs:cover-date-year>
+      <xocs:hub-sec>
+         <xocs:hub-sec-title>Short Communication</xocs:hub-sec-title>
+      </xocs:hub-sec>
+      <xocs:document-type>article</xocs:document-type>
+      <xocs:document-subtype>sco</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 2008 Elsevier B.V. All rights reserved.</xocs:copyright-line>
+      <xocs:normalized-article-title>ANAEROBICDIGESTIONFOODWASTEINAHYBRIDANAEROBICSOLIDLIQUIDSYSTEMLEACHATERECIRCULATIONINACIDOGENICREACTOR</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>STABNIKOVA</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>O</xocs:normalized-first-auth-initial>
+      <xocs:item-toc>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>1</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Introduction</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>2</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Materials and methods</xocs:item-toc-section-title>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.1</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Food waste, anaerobic microbial sludge and microbial granules</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.2</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Characteristics and operation of the HASL system</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+            <xocs:item-toc-entry ref-elem="ce:sections">
+               <xocs:item-toc-label>2.3</xocs:item-toc-label>
+               <xocs:item-toc-section-title>Chemical analysis</xocs:item-toc-section-title>
+            </xocs:item-toc-entry>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>3</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Results and discussion</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:sections">
+            <xocs:item-toc-label>4</xocs:item-toc-label>
+            <xocs:item-toc-section-title>Conclusions</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:acknowledgment">
+            <xocs:item-toc-section-title>Acknowledgments</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+         <xocs:item-toc-entry ref-elem="ce:bibliography">
+            <xocs:item-toc-section-title>References</xocs:item-toc-section-title>
+         </xocs:item-toc-entry>
+      </xocs:item-toc>
+      <xocs:references>
+         <xocs:ref-info refid="bib1">
+            <xocs:ref-normalized-surname>VERSTRAETE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-first-fp>221</xocs:ref-first-fp>
+            <xocs:ref-last-lp>238</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib2">
+            <xocs:ref-normalized-surname>FEHR</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>247</xocs:ref-first-fp>
+            <xocs:ref-last-lp>253</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib3">
+            <xocs:ref-normalized-surname>POHLAND</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1971</xocs:ref-pub-year>
+            <xocs:ref-first-fp>85</xocs:ref-first-fp>
+            <xocs:ref-last-lp>106</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib4">
+            <xocs:ref-normalized-surname>SHIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2001</xocs:ref-pub-year>
+            <xocs:ref-first-fp>271</xocs:ref-first-fp>
+            <xocs:ref-last-lp>279</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib5">
+            <xocs:ref-normalized-surname>STRYDOM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1997</xocs:ref-pub-year>
+            <xocs:ref-first-fp>151</xocs:ref-first-fp>
+            <xocs:ref-last-lp>156</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib6">
+            <xocs:ref-normalized-surname>SHARMA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>251</xocs:ref-first-fp>
+            <xocs:ref-last-lp>263</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib7">
+            <xocs:ref-normalized-surname>MATAALVAREZ</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3</xocs:ref-first-fp>
+            <xocs:ref-last-lp>16</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib8">
+            <xocs:ref-normalized-surname>TSUKAHARA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>554</xocs:ref-first-fp>
+            <xocs:ref-last-lp>556</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>K</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib9">
+            <xocs:ref-normalized-surname>SCHIEDER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2000</xocs:ref-pub-year>
+            <xocs:ref-first-fp>181</xocs:ref-first-fp>
+            <xocs:ref-last-lp>187</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib10">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2006</xocs:ref-pub-year>
+            <xocs:ref-first-fp>345</xocs:ref-first-fp>
+            <xocs:ref-last-lp>351</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib11">
+            <xocs:ref-normalized-surname>HAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2002</xocs:ref-pub-year>
+            <xocs:ref-first-fp>110</xocs:ref-first-fp>
+            <xocs:ref-last-lp>118</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>S</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib12">
+            <xocs:ref-normalized-surname>REINHART</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1996</xocs:ref-pub-year>
+            <xocs:ref-first-fp>337</xocs:ref-first-fp>
+            <xocs:ref-last-lp>346</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>D</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib13">
+            <xocs:ref-normalized-surname>POHLAND</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1999</xocs:ref-pub-year>
+            <xocs:ref-first-fp>203</xocs:ref-first-fp>
+            <xocs:ref-last-lp>220</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>F</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib14">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>223</xocs:ref-first-fp>
+            <xocs:ref-last-lp>228</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib15">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>3580</xocs:ref-first-fp>
+            <xocs:ref-last-lp>3586</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib16">
+            <xocs:ref-normalized-surname>STABNIKOVA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2005</xocs:ref-pub-year>
+            <xocs:ref-first-fp>455</xocs:ref-first-fp>
+            <xocs:ref-last-lp>461</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib17">
+            <xocs:ref-normalized-surname>STABNIKOVA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2007</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>O</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib18">
+            <xocs:ref-normalized-surname>WANG</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>527</xocs:ref-first-fp>
+            <xocs:ref-last-lp>534</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib19">
+            <xocs:ref-pub-year>1998</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>STANDARDMETHODSFOREXAMINATIONWATERWASTEWATER</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="bib20">
+            <xocs:ref-normalized-surname>VAVILIN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>2003</xocs:ref-pub-year>
+            <xocs:ref-first-fp>66</xocs:ref-first-fp>
+            <xocs:ref-last-lp>73</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>V</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>STABNIKOVAX2008X198</xocs:refkey3>
+         <xocs:refkey4lp>STABNIKOVAX2008X198X201</xocs:refkey4lp>
+         <xocs:refkey4ai>STABNIKOVAX2008X198XO</xocs:refkey4ai>
+         <xocs:refkey5>STABNIKOVAX2008X198X201XO</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>S1369-703X(08)00185-X</xocs:pii-formatted>
+         <xocs:pii-unformatted>S1369703X0800185X</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-S1369703X0800185X</xocs:eid>
+         <xocs:doi>10.1016/j.bej.2008.05.008</xocs:doi>
+         <xocs:cid>271428</xocs:cid>
+         <xocs:timestamp>2010-09-18T02:03:09.667417-04:00</xocs:timestamp>
+         <xocs:cover-date-start>2008-09-01</xocs:cover-date-start>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-S1369703X0800185X-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369703X0800185X/MAIN/application/pdf/7de98626cdbddd141855ac09f64afddf/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1369703X0800185X/MAIN/application/pdf/7de98626cdbddd141855ac09f64afddf/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>328146</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>4</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-S1369703X0800185X-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369703X0800185X/PREVIEW/image/png/cddfa318bd2a95519ac397ad51f62d5c/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1369703X0800185X/PREVIEW/image/png/cddfa318bd2a95519ac397ad51f62d5c/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>58072</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369703X0800185X-gr1.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369703X0800185X/gr1/DOWNSAMPLED/image/jpeg/066001d7b2592afd3b433c1f2aee7750/gr1.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1369703X0800185X/gr1/DOWNSAMPLED/image/jpeg/066001d7b2592afd3b433c1f2aee7750/gr1.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>31449</xocs:filesize>
+               <xocs:pixel-height>275</xocs:pixel-height>
+               <xocs:pixel-width>528</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369703X0800185X-gr1.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369703X0800185X/gr1/THUMBNAIL/image/gif/2fea1631ef69e4f923829c0a16765071/gr1.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1369703X0800185X/gr1/THUMBNAIL/image/gif/2fea1631ef69e4f923829c0a16765071/gr1.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr1</xocs:file-basename>
+               <xocs:filename>gr1.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1698</xocs:filesize>
+               <xocs:pixel-height>65</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369703X0800185X-gr2.jpg</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369703X0800185X/gr2/DOWNSAMPLED/image/jpeg/2afda98c739fffda2404484ec3edb2b4/gr2.jpg</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1369703X0800185X/gr2/DOWNSAMPLED/image/jpeg/2afda98c739fffda2404484ec3edb2b4/gr2.jpg</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.jpg</xocs:filename>
+               <xocs:extension>jpg</xocs:extension>
+               <xocs:filesize>41867</xocs:filesize>
+               <xocs:pixel-height>363</xocs:pixel-height>
+               <xocs:pixel-width>566</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-DOWNSAMPLED</xocs:attachment-type>
+            </xocs:attachment>
+            <xocs:attachment>
+               <xocs:attachment-eid>1-s2.0-S1369703X0800185X-gr2.sml</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:S1369703X0800185X/gr2/THUMBNAIL/image/gif/330bc60220fa21c9deb571655caf813b/gr2.sml</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:S1369703X0800185X/gr2/THUMBNAIL/image/gif/330bc60220fa21c9deb571655caf813b/gr2.sml</xocs:ucs-locator>
+               <xocs:file-basename>gr2</xocs:file-basename>
+               <xocs:filename>gr2.sml</xocs:filename>
+               <xocs:extension>sml</xocs:extension>
+               <xocs:filesize>1742</xocs:filesize>
+               <xocs:pixel-height>80</xocs:pixel-height>
+               <xocs:pixel-width>125</xocs:pixel-width>
+               <xocs:attachment-type>IMAGE-THUMBNAIL</xocs:attachment-type>
+            </xocs:attachment>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <article xmlns="http://www.elsevier.com/xml/ja/dtd" version="5.0" xml:lang="en" docsubtype="sco">
+         <item-info>
+            <jid>BEJ</jid>
+            <aid>4775</aid>
+            <ce:pii>S1369-703X(08)00185-X</ce:pii>
+            <ce:doi>10.1016/j.bej.2008.05.008</ce:doi>
+            <ce:copyright type="full-transfer" year="2008">Elsevier B.V.</ce:copyright>
+         </item-info>
+         <ce:floats>
+            <ce:figure id="fig1">
+               <ce:label>Fig. 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Schematic diagram of the HASL system operated without (a) and with (b) leachate recirculation in the acidogenic reactor: 1, acidogenic reactor; 2, methanogenic reactor; 3, peristaltic pump; 4, wet gas meter.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr1"/>
+            </ce:figure>
+            <ce:figure id="fig2">
+               <ce:label>Fig. 2</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">pH (a) and concentration of VFA (b) in the leachate from the acidogenic reactor (Ra), concentration of dissolved COD in the leachate from the acidogenic reactor and in the effluent from the methanogenic reactor (Rm) (c), production of methane (d) in control (C) and in experiment (E). Error bars represent the standard deviations.</ce:simple-para>
+               </ce:caption>
+               <ce:link locator="gr2"/>
+            </ce:figure>
+            <ce:table xmlns="http://www.elsevier.com/xml/common/cals/dtd" id="tbl1" frame="topbot" rowsep="0" colsep="0">
+               <ce:label>Table 1</ce:label>
+               <ce:caption>
+                  <ce:simple-para view="all">Influence of leachate recirculation in the acidogenic reactor on the parameters of anaerobic digestion of food waste during first 9 days in the HASL system</ce:simple-para>
+               </ce:caption>
+               <tgroup cols="3">
+                  <colspec colname="col1"/>
+                  <colspec colname="col2"/>
+                  <colspec colname="col3"/>
+                  <thead valign="top">
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Parameters</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Control</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" rowsep="1" align="left">Experiment</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col3" align="left">Parameters of the acidogenic reactor</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <hsp sp="1.0"/>Dissolved COD produced (g)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">98.7<hsp sp="0.25"/>±<hsp sp="0.25"/>7.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">104.6<hsp sp="0.25"/>±<hsp sp="0.25"/>6.7</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <hsp sp="1.0"/>Maximum dissolved COD concentration (g/l)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">16.7<hsp sp="0.25"/>±<hsp sp="0.25"/>0.8</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">18.6<hsp sp="0.25"/>±<hsp sp="0.25"/>0.9</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <hsp sp="1.0"/>VFA produced (g)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">59.9<hsp sp="0.25"/>±<hsp sp="0.25"/>2.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">71.3<hsp sp="0.25"/>±<hsp sp="0.25"/>3.8</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <hsp sp="1.0"/>Maximum VFA concentration (g/l)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">9.5<hsp sp="0.25"/>±<hsp sp="0.25"/>0.5</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">11.1<hsp sp="0.25"/>±<hsp sp="0.25"/>0.5</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <hsp sp="1.0"/>VFA/dissolved COD (%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">62.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">71.3</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <hsp sp="1.0"/>Lowest pH</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">4.6</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">5.1</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col3" align="left">
+                           <vsp sp="0.5"/>
+                        </entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" namest="col1" nameend="col3" align="left">Parameters of the methanogenic reactor</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <hsp sp="1.0"/>Methane production (l)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">23.7</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">28.6</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <hsp sp="1.0"/>Average methane content (%)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">72.2<hsp sp="0.25"/>±<hsp sp="0.25"/>7.0</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">76.3<hsp sp="0.25"/>±<hsp sp="0.25"/>6.2</entry>
+                     </row>
+                     <row>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="left">
+                           <hsp sp="1.0"/>Maximum rate of methane production (l/day)</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">3.9</entry>
+                        <entry xmlns="http://www.elsevier.com/xml/common/dtd" align="char" char=".">4.6</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </ce:table>
+         </ce:floats>
+         <head>
+            <ce:dochead>
+               <ce:textfn>Short communication</ce:textfn>
+            </ce:dochead>
+            <ce:title>Anaerobic digestion of food waste in a hybrid anaerobic solid–liquid system with leachate recirculation in an acidogenic reactor</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>Olena</ce:given-name>
+                  <ce:surname>Stabnikova</ce:surname>
+                  <ce:cross-ref refid="cor1">
+                     <ce:sup loc="post">⁎</ce:sup>
+                  </ce:cross-ref>
+                  
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Xue-Yan</ce:given-name>
+                  <ce:surname>Liu</ce:surname>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>Jing-Yuan</ce:given-name>
+                  <ce:surname>Wang</ce:surname>
+               </ce:author>
+               <ce:affiliation>
+                  <ce:textfn>School of Civil and Environmental Engineering, Nanyang Technological University, 50 Nanyang Avenue, Singapore 639798, Singapore</ce:textfn>
+               </ce:affiliation>
+               <ce:correspondence id="cor1">
+                  <ce:label>⁎</ce:label>
+                  <ce:text>Corresponding author. Tel.: +65 6790 4740; fax: +65 6792 1650.</ce:text>
+               </ce:correspondence>
+            </ce:author-group>
+            <ce:date-received day="17" month="3" year="2008"/>
+            <ce:date-revised day="6" month="5" year="2008"/>
+            <ce:date-accepted day="21" month="5" year="2008"/>
+            <ce:abstract class="author"><ce:abstract-sec>
+                  <ce:simple-para view="all">Recirculation of the leachate in the acidogenic reactor was proposed to enhance anaerobic digestion of food waste in the hybrid anaerobic solid–liquid (HASL) system. Recirculation of the leachate in the acidogenic reactor provided better conditions for extraction of organic matter from the treated food waste and buffering capacity to prevent excessive acidification in the acidogenic reactor. It ensured faster supply of nutrients in the methanogenic reactor in experiment. The highest dissolved COD and VFA concentrations in the leachate from the acidogenic reactor were reached for shorter time and were 16,670<ce:hsp sp="0.25"/>mg/l and 9450<ce:hsp sp="0.25"/>mg/l in control and 18,614<ce:hsp sp="0.25"/>mg/l and 11,094<ce:hsp sp="0.25"/>mg/l in experiment, respectively. Recycling of the leachate in the acidogenic reactor intensified anaerobic digestion of food waste and diminished time needed to produce the same quantity of methane by 40% in comparison with anaerobic digestion of food waste without recirculation.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>Anaerobic digestion</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Food waste</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Hybrid anaerobic solid–liquid (HASL) system</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Recirculation</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>Acidogenic reactor</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <body view="all">
+            <ce:sections>
+               <ce:section view="all">
+                  <ce:label>1</ce:label>
+                  <ce:section-title>Introduction</ce:section-title>
+                  <ce:para view="all">Anaerobic digestion of solid food waste is considered as a perspective way for its disposal <ce:cross-refs refid="bib1 bib2">[1,2]</ce:cross-refs>. To increase process efficiency, two-phase anaerobic digestion can be used <ce:cross-ref refid="bib3">[3]</ce:cross-ref>. Liquefaction and acidification of food waste in this process are performed in an acidogenic reactor to obtain leachate containing dissolved organic matter, which is treated in a methanogenic reactor, where acetogenesis and methanogenesis are running. As hydrolysis of organic matter is a slowest step in an anaerobic process <ce:cross-ref refid="bib4">[4]</ce:cross-ref>, its intensification usually leads to faster anaerobic digestion <ce:cross-ref refid="bib5">[5]</ce:cross-ref>. There are known different methods to facilitate food waste hydrolysis in an acidogenic reactor, such as mechanical reduction of particle size of digested material <ce:cross-refs refid="bib6 bib7">[6,7]</ce:cross-refs>; thermal pre-treatment of food waste to transform the organic solid material to liquid hydrolyzate <ce:cross-refs refid="bib8 bib9 bib10">[8–10]</ce:cross-refs>; and inoculation with cellulolytic bacteria from cattle rumen <ce:cross-ref refid="bib11">[11]</ce:cross-ref>.</ce:para>
+                  <ce:para view="all">It is known from the practice of organic waste landfill management that a landfill leachate recirculation enhances microbial activity and shorten time required for waste conversion and stabilization <ce:cross-refs refid="bib12 bib13">[12,13]</ce:cross-refs>. Therefore, using hypothetic analogy, leachate recirculation in an acidogenic reactor may be the way to enhance extraction of organic matter from the treated food waste in two-phase anaerobic digestion. This assumption was tested in the hybrid anaerobic solid–liquid (HASL) system, which was developed to minimize the amount of food waste for disposal in Singapore <ce:cross-refs refid="bib14 bib15">[14,15]</ce:cross-refs>.</ce:para>
+                  <ce:para view="all">The present paper is a part of the research on HASL-enhancing performance <ce:cross-refs refid="bib10 bib16 bib17">[10,16,17]</ce:cross-refs>. The aim of the present research was to study the effect of leachate recirculation in the acidogenic reactor on food waste anaerobic digestion in the hybrid anaerobic solid–liquid system.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>2</ce:label>
+                  <ce:section-title>Materials and methods</ce:section-title>
+                  <ce:section view="all">
+                     <ce:label>2.1</ce:label>
+                     <ce:section-title>Food waste, anaerobic microbial sludge and microbial granules</ce:section-title>
+                     <ce:para view="all">Individual food waste was collected from a canteen in the university. Waste was shredded into particles with average size of 6.0<ce:hsp sp="0.25"/>mm in a Robot-Coupe Shredder (CL50 Ultra, Hobart, France). The artificial composition of food wastes used in the experiment was as follows (% of wet weight): vegetable roots, 50; orange peels, 20; rice, 15 and noodles, 15. The content of total solids (TS) was 20.3<ce:hsp sp="0.25"/>±<ce:hsp sp="0.25"/>0.8% and the content of volatile solids (VS) was 76.2<ce:hsp sp="0.25"/>±<ce:hsp sp="0.25"/>1.3% of TS in the mixed waste.</ce:para>
+                     <ce:para view="all">Anaerobic microbial sludge, used as inoculum for the acidogenic and methanogenic reactors, was collected from an anaerobic digester of a local wastewater treatment plant. The pH of sludge was 7.1; the concentrations of the total solids and volatile solids in sludge were 3.8<ce:hsp sp="0.25"/>±<ce:hsp sp="0.25"/>0.1<ce:hsp sp="0.25"/>g/l and 2.7<ce:hsp sp="0.25"/>±<ce:hsp sp="0.25"/>0.1<ce:hsp sp="0.25"/>g/l, respectively. The microbial anaerobic granules, adapted to high concentration of volatile fatty acids (VFA), were used as additional inoculum for the methanogenic reactor <ce:cross-ref refid="bib18">[18]</ce:cross-ref>.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>2.2</ce:label>
+                     <ce:section-title>Characteristics and operation of the HASL system</ce:section-title>
+                     <ce:para view="all">The lab-scale HASL system includes an acidogenic reactor to treat solid food waste and an upflow anaerobic sludge blanket (UASB) methanogenic reactor to treat liquid leachate from the acidogenic reactor (<ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>a<ce:float-anchor refid="fig1"/>). Part of the effluent from the methanogenic reactor is used for the dilution of the acid effluent from the acidogenic reactor to maintain optimal pH for methanogenesis, and the rest of the effluent from the methanogenic reactor is recycled into the acidogenic reactor to avoid addition of water for food waste hydrolysis. An inner diameter of the acidogenic reactor was 140<ce:hsp sp="0.25"/>mm and a height was 500<ce:hsp sp="0.25"/>mm. Working volume of the reactor was 5.4<ce:hsp sp="0.25"/>l. The working volume of the methanogenic reactor was 3.0<ce:hsp sp="0.25"/>l with inner diameter of 90<ce:hsp sp="0.25"/>mm and a height of 600<ce:hsp sp="0.25"/>mm. The HASL systems were operated in a constant temperature room at 35<ce:hsp sp="0.25"/>±<ce:hsp sp="0.25"/>1<ce:hsp sp="0.25"/>°C.</ce:para>
+                     <ce:para view="all">Two sources of inoculum were used for the methanogenic reactor: anaerobic microbial sludge and microbial anaerobic granules. To start up the methanogenic reactor, suspension of microbial anaerobic granules, 1<ce:hsp sp="0.25"/>l, and anaerobic microbial sludge, 1<ce:hsp sp="0.25"/>l, were put into the reactor, which was fed with synthetic wastewater <ce:cross-ref refid="bib18">[18]</ce:cross-ref>. Concentration of chemical oxygen demand (COD) in effluent (less than 500<ce:hsp sp="0.25"/>mg COD/l) and average methane content in biogas (exceeding 70% v/v) indicated that the methanogenic reactor was in active state and ready for connection with the acidogenic reactor.</ce:para>
+                     <ce:para view="all">Control and experiment were carried out simultaneously in two identical HASL systems operated for 2 weeks. Food waste, 200<ce:hsp sp="0.25"/>g, 1<ce:hsp sp="0.25"/>l of distilled water and 36<ce:hsp sp="0.25"/>g of CaCO<ce:inf loc="post">3</ce:inf> for pH buffering were placed in each acidogenic reactor. Anaerobic microbial sludge, 1<ce:hsp sp="0.25"/>l, was added into each reactor as an inoculum. Food waste, 200<ce:hsp sp="0.25"/>g, was added after each 24<ce:hsp sp="0.25"/>h to the control and experimental reactors during first 4 days of anaerobic digestion. So, organic loading rate for acidogenic reactors was 5.73<ce:hsp sp="0.25"/>g VS/day during first 4 days of operation. Totally, 800<ce:hsp sp="0.25"/>g of food waste with the contents of total solids of 130.4<ce:hsp sp="0.25"/>g and volatile solids of 114.7<ce:hsp sp="0.25"/>g were added into each acidogenic reactor in control and experiment. The flow rate of leachate from acidogenic reactor in experiment with recirculation was in 21 times higher than in control. However, volume of leachate supplied into the methanogenic reactor was stable for both system 1440<ce:hsp sp="0.25"/>ml/day (<ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>). Excess of leachate was recycled into acidogenic reactor in experiment to ensure better conditions for extraction of organic matter from the treated food waste and to improve anaerobic process in the acidogenic reactor.</ce:para>
+                     <ce:para view="all">No leachate recirculation was in control, but leachate from the acidogenic reactor was recycled onto the top of waste in the acidogenic reactor in experiment (<ce:cross-ref refid="fig1">Fig. 1</ce:cross-ref>b). The ratio between volume of recycled leachate and volume of leachate supplied into the methanogenic reactor was 20:1.</ce:para>
+                  </ce:section>
+                  <ce:section view="all">
+                     <ce:label>2.3</ce:label>
+                     <ce:section-title>Chemical analysis</ce:section-title>
+                     <ce:para view="all">The leachate from the acidogenic reactor and the effluent from the methanogenic reactor were collected daily for analyses. The pH value was measured using a pH meter (CORNING 145, Halstead, Essex, England). Total solids, volatile solids, and COD of the feedstock and digested food waste were determined in the well-mixed samples in triplicates by standard methods <ce:cross-ref refid="bib19">[19]</ce:cross-ref>. For the determination of VFA, samples were filtrated through Whatman 0.2<ce:hsp sp="0.25"/>μm nitrocellulose membrane filters and were then analyzed using high performance liquid chromatography (HPLC) (PerkinElmer, Series 200, Norwalk, CT, USA). The HPLC was equipped with a 220<ce:hsp sp="0.25"/>mm<ce:hsp sp="0.25"/>×<ce:hsp sp="0.25"/>4.6<ce:hsp sp="0.25"/>mm polypore H column and a UV 210<ce:hsp sp="0.25"/>nm detector. The mobile phase was 0.005N H<ce:inf loc="post">2</ce:inf>SO<ce:inf loc="post">4</ce:inf> with a flow rate at 0.15<ce:hsp sp="0.25"/>ml/min.</ce:para>
+                     <ce:para view="all">Gas production was monitored by a wet gas meter (Ritter TG 05, Bochum, Germany), while gas composition was analyzed by a Hewlett Packard GC HP5890A (HACH, Avondale, PA, and USA) for methane, carbon dioxide, and nitrogen. The GC was equipped with a thermal conductivity detector and a stainless-steel column packed with Hayesep Q (80/100 mesh). The operational temperatures of injector, detector and column were kept at 100<ce:hsp sp="0.25"/>°C, 200<ce:hsp sp="0.25"/>°C and 50<ce:hsp sp="0.25"/>°C, respectively. Helium was used as a carrier gas at a flow rate of 40<ce:hsp sp="0.25"/>ml/min. The pH, concentrations of dissolved COD and VFA, as well as biogas production and methane content, were determined daily.</ce:para>
+                     <ce:para view="all">All analytical determinations were performed at least in triplicate and mean values<ce:hsp sp="0.25"/>±<ce:hsp sp="0.25"/>S.D.s are shown.</ce:para>
+                  </ce:section>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>3</ce:label>
+                  <ce:section-title>Results and discussion</ce:section-title>
+                  <ce:para view="all">Food waste was placed in the acidogenic reactors of control and experimental HASL systems without or with leachate recirculation, respectively. The results of anaerobic digestion in the HASL systems are shown in <ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>
+                     <ce:float-anchor refid="fig2"/> and <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>
+                     <ce:float-anchor refid="tbl1"/>. The pH was lower in control in comparison with experiment. The lowest pH in the leachate from the acidogenic reactor was 4.6 on day 5 in control and 5.1 on day 6 in experiment (<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>a). The peaks of VFA and dissolved COD concentrations were higher and were reached in shorter time in experiment in comparison with control. The highest VFA concentrations in the leachate from the acidogenic reactors were 9450<ce:hsp sp="0.25"/>mg/l on day 5 in control and 11,094<ce:hsp sp="0.25"/>mg/l on day 3 in experiment (<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>b). Notwithstanding that concentrations of VFA were higher in leachate from acidogenic reactor in experiment, pH of leachate were lower than in control (<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>a and b). As shown earlier <ce:cross-ref refid="bib10">[10]</ce:cross-ref>, pH values in leachate from acidogenic reactor of batch HASL system dropped rapidly to pH about 5.0, probably due to cells and vacuoles lysis, and after that slowly increased to neutral pH, probably due to hydrolysis of proteins and buffering of pH by released aminoacids. So, higher pH values of leachate in experiment could be hypothetically explained by faster hydrolysis of proteins and faster transfer the products of their hydrolysis in leachate under leachate recirculation.</ce:para>
+                  <ce:para view="all">The highest dissolved COD concentrations in the leachate from the acidogenic reactors were 16,670<ce:hsp sp="0.25"/>mg/l on day 6 in control and 18,614<ce:hsp sp="0.25"/>mg/l on day 5 in experiment (<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>c). The concentrations of dissolved COD in the effluent from the methanogenic reactor were lower in experiment than that in control (<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>c). The same positive effect of leachate recycling with the pH adjustment in the one-stage landfill-simulating reactor was shown by Vavilin et al. <ce:cross-ref refid="bib20">[20]</ce:cross-ref>. Total VFA, produced in the acidogenic reactor, and the VFA/COD ratio were similar in experiment on day 9 and in control on day 14 (<ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>).</ce:para>
+                  <ce:para view="all">The same volume of methane was produced for 14 days in control and for 9 days in experiment (<ce:cross-ref refid="fig2">Fig. 2</ce:cross-ref>d, <ce:cross-ref refid="tbl1">Table 1</ce:cross-ref>). Maximum rates of biogas production were 3.9<ce:hsp sp="0.25"/>l/day in control and 4.6<ce:hsp sp="0.25"/>l/day in experiment. Therefore, recirculation shortened time for the production of same volume of biogas.</ce:para>
+                  <ce:para view="all">According to the results, increase of total COD, VFA, and methane production during batch anaerobic digestion of food waste for 14 days in experiment was higher by 11% than in control. However, anaerobic process in the acidogenic reactor was faster in experiment, especially during first 6 days of operation. VFA and COD concentrations in leachate from the acidogenic reactor on day 3 were higher in experiment than that in control, by 37% and 33%, respectively. Thus, recirculation of the leachate in the acidogenic reactor provided better conditions for extraction of organic matter from the treated food waste and for the pH buffering thus preventing excessive acidification in the acidogenic reactor.</ce:para>
+                  <ce:para view="all">The same amount of methane was generated during 14 days in control and during 9 days in experiment. This gives the opportunity to diminish operation time of batch process by 40%. It was supposed also that recirculation will be more essential for semi-continuous anaerobic digestion, when fresh food waste will be added periodically into acidogenic reactor on the top of semi-digested food waste. In this case, recirculation will play additional role as a source of hydrolyzing and acidogenic bacteria for the treatment of fresh food waste.</ce:para>
+                  <ce:para view="all">The effect of leachate recirculation in the acidogenic reactor on food waste anaerobic digestion in the hybrid anaerobic solid–liquid system was comparable with thermal pre-treatment of food waste at 150<ce:hsp sp="0.25"/>°C for 1<ce:hsp sp="0.25"/>h which helped to diminish operation time of batch process in HASL by 50% <ce:cross-ref refid="bib10">[10]</ce:cross-ref> and with freezing/thawing pre-treatment of food waste (food waste was frozen for 24<ce:hsp sp="0.25"/>h at −20<ce:hsp sp="0.25"/>°C and then thawed for 12<ce:hsp sp="0.25"/>h at 25<ce:hsp sp="0.25"/>°C) which gave the opportunity to diminish operational time of anaerobic digestion of food waste in HASL by 42% <ce:cross-ref refid="bib17">[17]</ce:cross-ref> in comparison with the anaerobic digestion of fresh food waste.</ce:para>
+               </ce:section>
+               <ce:section view="all">
+                  <ce:label>4</ce:label>
+                  <ce:section-title>Conclusions</ce:section-title>
+                  <ce:para view="all">Recirculation of the leachate in the acidogenic reactor was proposed to enhance food waste anaerobic digestion in the hybrid anaerobic solid–liquid system. Recirculation of the leachate in the acidogenic reactor provided better conditions for extraction of organic matter from the treated food waste and enhanced buffering capacity preventing excessive acidification in the acidogenic reactor. It ensured faster supplying of nutrients in the methanogenic reactor in experiment. Use of leachate recirculation in the acidogenic reactor diminished time needed to produce the same quantity of methane by 40% in comparison with anaerobic digestion of food waste without recirculation. It was supposed that recirculation will be more essential for semi-continuous anaerobic digestion than for batch process. Application of leachate recirculation in the acidogenic reactor of a two-phase anaerobic digestion system led to intensification of anaerobic digestion of food waste and did not demand significant additional expenses.</ce:para>
+               </ce:section>
+            </ce:sections>
+            <ce:acknowledgment>
+               <ce:section-title>Acknowledgments</ce:section-title>
+               <ce:para view="all">The research was supported by a grant from the National Environment Agency of the Ministry of the Environment and Water Resources of the Republic of Singapore.</ce:para>
+            </ce:acknowledgment>
+         </body>
+         <tail view="all">
+            <ce:bibliography view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec>
+                  <ce:bib-reference id="bib1">
+                     <ce:label>[1]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>Verstraete</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>de Beer</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Pena</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Lettinga</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Lens</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Anaerobic bioprocessing of organic wastes</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>World J. Microbiol. Biotechnol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>12</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1996</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>221</sb:first-page>
+                              <sb:last-page>238</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib2">
+                     <ce:label>[2]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Fehr</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.D.R.</ce:given-name>
+                                 <ce:surname>Calcado</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.C.</ce:given-name>
+                                 <ce:surname>Romao</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The basis of a policy for minimizing and recycling food waste</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Environ. Sci. Policy</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>5</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>247</sb:first-page>
+                              <sb:last-page>253</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib3">
+                     <ce:label>[3]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.G.</ce:given-name>
+                                 <ce:surname>Pohland</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Ghosh</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Developments in anaerobic treatments process</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biotechnol. Bioeng. Symp.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>2</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1971</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>85</sb:first-page>
+                              <sb:last-page>106</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib4">
+                     <ce:label>[4]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.S.</ce:given-name>
+                                 <ce:surname>Shin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Han</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>Y.C.</ce:given-name>
+                                 <ce:surname>Song</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.Y.</ce:given-name>
+                                 <ce:surname>Lee</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Multi-step sequential batch two-phase anaerobic composting of food waste</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Environ. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>22</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2001</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>271</sb:first-page>
+                              <sb:last-page>279</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib5">
+                     <ce:label>[5]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Strydom</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.J.</ce:given-name>
+                                 <ce:surname>Britz</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.F.</ce:given-name>
+                                 <ce:surname>Mostert</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Two-phase anaerobic digestion of three different dairy effluents using a hybrid bioreactor</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water SA</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>23</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1997</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>151</sb:first-page>
+                              <sb:last-page>156</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib6">
+                     <ce:label>[6]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Sharma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.M.</ce:given-name>
+                                 <ce:surname>Mishra</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.P.</ce:given-name>
+                                 <ce:surname>Sharma</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.S.</ce:given-name>
+                                 <ce:surname>Saini</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of particle size on biogas generation from biomass residues</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biomass</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>17</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>251</sb:first-page>
+                              <sb:last-page>263</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib7">
+                     <ce:label>[7]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.</ce:given-name>
+                                 <ce:surname>Mata-Alvarez</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Macé</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Llabrés</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Anaerobic digestion of organic solid wastes. An overview of research achievements and perspectives</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Bioresour. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>74</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3</sb:first-page>
+                              <sb:last-page>16</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib8">
+                     <ce:label>[8]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>K.</ce:given-name>
+                                 <ce:surname>Tsukahara</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Yagishita</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>T.</ce:given-name>
+                                 <ce:surname>Ogi</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.</ce:given-name>
+                                 <ce:surname>Sawayama</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Treatment of liquid fraction separated from liquidized food waste in an upflow anaerobic sludge blanket reactor</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Biosci. Bioeng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>87</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>554</sb:first-page>
+                              <sb:last-page>556</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib9">
+                     <ce:label>[9]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.</ce:given-name>
+                                 <ce:surname>Schieder</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Schneider</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>F.</ce:given-name>
+                                 <ce:surname>Bischof</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Thermal hydrolysis (TDH) as a pretreatment method for the digestion of organic waste</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>41</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2000</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>181</sb:first-page>
+                              <sb:last-page>187</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib10">
+                     <ce:label>[10]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.Y.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.M.</ce:given-name>
+                                 <ce:surname>Kao</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Stabnikova</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Digestion of pre-treated food waste in hybrid anaerobic solid–liquid (HASL) system</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Technol. Biotechnol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>81</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2006</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>345</sb:first-page>
+                              <sb:last-page>351</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib11">
+                     <ce:label>[11]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>S.K.</ce:given-name>
+                                 <ce:surname>Han</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.S.</ce:given-name>
+                                 <ce:surname>Shin</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Enhanced acidogenic fermentation of food waste in a continuous-flow reactor</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Waste Manage. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>20</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2002</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>110</sb:first-page>
+                              <sb:last-page>118</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib12">
+                     <ce:label>[12]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>D.R.</ce:given-name>
+                                 <ce:surname>Reinhart</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.B.</ce:given-name>
+                                 <ce:surname>Al-Yousfi</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The impact of leachate recirculation on municipal solid waste landfill operating characteristics</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Waste Manage. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1996</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>337</sb:first-page>
+                              <sb:last-page>346</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib13">
+                     <ce:label>[13]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>F.G.</ce:given-name>
+                                 <ce:surname>Pohland</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>Kim</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>
+                                 <ce:italic>In situ</ce:italic> anaerobic treatment of leachate in landfill bioreactors</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>8</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1999</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>203</sb:first-page>
+                              <sb:last-page>220</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib14">
+                     <ce:label>[14]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Stabnikova</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.S.</ce:given-name>
+                                 <ce:surname>Ang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Tay</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A hybrid anaerobic solid–liquid (HASL) system for food waste digestion</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>52</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>223</sb:first-page>
+                              <sb:last-page>228</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib15">
+                     <ce:label>[15]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Stabnikova</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Tay</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Comparison of lab-scale and pilot-scale hybrid anaerobic solid–liquid systems operated in batch and semi-continuous modes</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Process Biochem.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>40</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>3580</sb:first-page>
+                              <sb:last-page>3586</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib16">
+                     <ce:label>[16]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Stabnikova</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.S.</ce:given-name>
+                                 <ce:surname>Ang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.Y.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>V.</ce:given-name>
+                                 <ce:surname>Ivanov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Tay</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>The use of hybrid anaerobic solid–liquid (HASL) system for the treatment of lipid-containing food waste</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>J. Chem. Technol. Biotechnol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>80</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2005</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>455</sb:first-page>
+                              <sb:last-page>461</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib17">
+                     <ce:label>[17]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Stabnikova</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.Y.</ce:given-name>
+                                 <ce:surname>Liu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Digestion of frozen/thawed food waste in a hybrid anaerobic solid–liquid system</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Waste Manage.</sb:maintitle>
+                                 </sb:title>
+                              </sb:series>
+                              <sb:date>2007</sb:date>
+                           </sb:issue>
+                        </sb:host>
+                        <sb:comment>(Published online September 7, 2007)</sb:comment>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib18">
+                     <ce:label>[18]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.Y.</ce:given-name>
+                                 <ce:surname>Wang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>H.</ce:given-name>
+                                 <ce:surname>Zhang</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>O.</ce:given-name>
+                                 <ce:surname>Stabnikova</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.H.</ce:given-name>
+                                 <ce:surname>Tay</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Removal of ammonia in a modified two-phase food waste anaerobic digestion system coupled with an aerated submerged biofilters</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Waste Manage. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>21</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>527</sb:first-page>
+                              <sb:last-page>534</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib19">
+                     <ce:label>[19]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:title>
+                              <sb:maintitle>Standard Methods for the Examination of Water and Wastewater</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:edition>20th ed.</sb:edition>
+                              <sb:date>1998</sb:date>
+                              <sb:publisher>
+                                 <sb:name>American Public Health Association/Water Environment Federation</sb:name>
+                                 <sb:location>Washington, DC</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="bib20">
+                     <ce:label>[20]</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>V.A.</ce:given-name>
+                                 <ce:surname>Vavilin</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.V.</ce:given-name>
+                                 <ce:surname>Rytov</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.Y.</ce:given-name>
+                                 <ce:surname>Lokshina</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.G.</ce:given-name>
+                                 <ce:surname>Pavlostathis</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.A.</ce:given-name>
+                                 <ce:surname>Barlaz</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Distributed model of solid waste anaerobic digestion: effects of leachate recirculation and pH adjustment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biotechnol. Bioeng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>81</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>2003</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>66</sb:first-page>
+                              <sb:last-page>73</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

@@ -1,0 +1,12 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Thermophilic Pretreatment (TPP): Mixing of FW and inoculum in BMP bottles, incubated at varying temperatures (50, 60, 70, 80 \u00b0C) for varying times (12, 24, 36, 48 h), followed by reduction of incubator temperature to mesophilic conditions (35 \u00b1 2 \u00b0C)"
+    },
+    {
+      "id": 1,
+      "description": "Conventional Thermal Pretreatment (CTP): Heating only FW to 50-80 \u00b0C for a selected duration, inoculum added subsequently in bottles, incubation at mesophilic conditions"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "manual_review": [],
+  "llm_review": [
+    [
+      "10.1016_j.psep.2024.05.005",
+      "fluidized bed"
+    ],
+    [
+      "10.1016_j.psep.2024.05.005",
+      "two stage"
+    ]
+  ],
+  "correct_predictions": 0,
+  "false_predictions": 2,
+  "missed_predictions": 0,
+  "precision": 0.0,
+  "recall": 0,
+  "f1_score": 0,
+  "correct_items": [],
+  "false_items": [
+    [
+      "10.1016_j.psep.2024.05.005",
+      "fluidized bed"
+    ],
+    [
+      "10.1016_j.psep.2024.05.005",
+      "two stage"
+    ]
+  ],
+  "missed_items": []
+}

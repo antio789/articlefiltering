@@ -1,0 +1,689 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/004313549090081G</prism:url><dc:identifier>doi:10.1016/0043-1354(90)90081-G</dc:identifier><eid>1-s2.0-004313549090081G</eid><prism:doi>10.1016/0043-1354(90)90081-G</prism:doi><pii>0043-1354(90)90081-G</pii><dc:title>The characteristics of granules from upflow anaerobic sludge blanket reactors </dc:title><prism:publicationName>Water Research</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>00431354</prism:issn><prism:volume>24</prism:volume><prism:issueIdentifier>12</prism:issueIdentifier><prism:startingPage>1473</prism:startingPage><prism:endingPage>1477</prism:endingPage><prism:pageRange>1473-1477</prism:pageRange><prism:number>12</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1990-12-31</prism:coverDate><prism:coverDisplayDate>December 1990</prism:coverDisplayDate><prism:copyright>Copyright © 1990 Published by Elsevier Ltd.</prism:copyright><prism:publisher>Published by Elsevier Ltd.</prism:publisher><dc:creator>Kosaric, N.</dc:creator><dc:creator>Blaszczyk, R.</dc:creator><dc:creator>Orphan, L.</dc:creator><dc:creator>Valladarfs, J.</dc:creator><dc:description>
+                  Granules from an industrial UASB reactor were maintained in bench scale (201.) UASB reactors and fed with a synthetic medium based on volatile fatty acids.
+                  After 60 days of reactor operation, three distinct granule types were found to have evolved within the reactors. These types were defined by their colour: black, grey and white. These granules also differed in structure (texture) and elemental composition. The proportion of black, grey and white granules in the bed changed when the organic loading rate was changed. At the low loading rate, a large number of “hollow” granules appeared which were less dense than the liquid and were washed out at the top of the reactor.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>anaerobic digestion</dcterms:subject><dcterms:subject>granules</dcterms:subject><dcterms:subject>loading rate</dcterms:subject><dcterms:subject>UASB reactor</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/004313549090081G" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/004313549090081G" rel="scidir"/></coredata><scopus-id>0025570017</scopus-id><scopus-eid>2-s2.0-0025570017</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0025570017" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271768</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291798</xocs:ssid>
+         <xocs:ssid type="subj">291830</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Water Research</xocs:srctitle>
+      <xocs:normalized-srctitle>WATERRESEARCH</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20030415">2003-04-15</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20030415">2003-04-15</xocs:available-online-date>
+      <xocs:ew-transaction-id>2010-11-06T12:30:03</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-004313549090081G</xocs:eid>
+      <xocs:pii-formatted>0043-1354(90)90081-G</xocs:pii-formatted>
+      <xocs:pii-unformatted>004313549090081G</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0043-1354(90)90081-G</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.2</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0043135400X02874</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20150513">2015-05-13T21:24:06.072783-04:00</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19901201</xocs:date-search-begin>
+      <xocs:date-search-end>19901231</xocs:date-search-end>
+      <xocs:year-nav>1990</xocs:year-nav>
+      <xocs:indexeddate epoch="1050364800">2003-04-15T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype volfirst volissue webpdf webpdfpagecount affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0043-1354</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>00431354</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:vol-first>24</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>24</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>12</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>12</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 24, Issue 12</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>5</xocs:sort-order>
+      <xocs:first-fp>1473</xocs:first-fp>
+      <xocs:last-lp>1477</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>1473</xocs:first-page>
+         <xocs:last-page>1477</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>199012</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>December 1990</xocs:cover-date-text>
+      <xocs:cover-date-start>1990-12-01</xocs:cover-date-start>
+      <xocs:cover-date-end>1990-12-31</xocs:cover-date-end>
+      <xocs:cover-date-year>1990</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1990 Published by Elsevier Ltd.</xocs:copyright-line>
+      <xocs:normalized-article-title>CHARACTERISTICSGRANULESUPFLOWANAEROBICSLUDGEBLANKETREACTORS</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>KOSARIC</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>N</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>ANDRAS</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1989</xocs:ref-pub-year>
+            <xocs:ref-first-fp>463</xocs:ref-first-fp>
+            <xocs:ref-last-lp>470</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>APHA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-normalized-srctitle>STANDARDMETHODSFOREXAMINATIONWATERWASTEWATER</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>BEEFTINK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>233</xocs:ref-first-fp>
+            <xocs:ref-last-lp>238</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>BEEFTINK</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1986</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1139</xocs:ref-first-fp>
+            <xocs:ref-last-lp>1146</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>BOCHEM</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1982</xocs:ref-pub-year>
+            <xocs:ref-first-fp>500</xocs:ref-first-fp>
+            <xocs:ref-last-lp>510</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>DUBOURGUIER</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>78</xocs:ref-first-fp>
+            <xocs:ref-last-lp>86</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>H</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PROCEEDINGSGASMATWORKSHOP</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>STRUCTURALCHARACTERISTICSMETABOLICACTIVITIESGRANULARMETHANOGENICSLUDGEAMIXEDDEFINEDSUBSTRATE</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB7">
+            <xocs:ref-normalized-surname>KNETCHEL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1977</xocs:ref-pub-year>
+            <xocs:ref-first-fp>25</xocs:ref-first-fp>
+            <xocs:ref-last-lp>27</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB8">
+            <xocs:ref-normalized-surname>MAHONEY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>249</xocs:ref-first-fp>
+            <xocs:ref-last-lp>260</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>E</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB9">
+            <xocs:ref-normalized-surname>TRUDELL</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-first-fp>25</xocs:ref-first-fp>
+            <xocs:ref-last-lp>41</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB10">
+            <xocs:ref-normalized-surname>TILCHE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1987</xocs:ref-pub-year>
+            <xocs:ref-first-fp>170</xocs:ref-first-fp>
+            <xocs:ref-last-lp>178</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>A</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PROCEEDINGSGASMATWORKSHOP</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>LIGHTSCANNINGELECTRONMICROSCOPEOBSERVATIONGRANULARBIOMASSEXPERIMENTALSBAFHABRREACTORS</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB11">
+            <xocs:ref-normalized-surname>DEZEEUW</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-first-fp>625</xocs:ref-first-fp>
+            <xocs:ref-last-lp>634</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>W</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>PROCEEDINGS35THINDUSTRIALWASTECONFERENCE</xocs:ref-normalized-srctitle>
+            <xocs:ref-normalized-article-title>ACCLIMATIONDIGESTEDSEWAGESLUDGEDURINGSTARTUPUPFLOWANAEROBICSLUDGEBLANKETUASBREACTOR</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>KOSARICX1990X1473</xocs:refkey3>
+         <xocs:refkey4lp>KOSARICX1990X1473X1477</xocs:refkey4lp>
+         <xocs:refkey4ai>KOSARICX1990X1473XN</xocs:refkey4ai>
+         <xocs:refkey5>KOSARICX1990X1473X1477XN</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0043-1354(90)90081-G</xocs:pii-formatted>
+         <xocs:pii-unformatted>004313549090081G</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-004313549090081G</xocs:eid>
+         <xocs:doi>10.1016/0043-1354(90)90081-G</xocs:doi>
+         <xocs:cid>271768</xocs:cid>
+         <xocs:timestamp>2010-12-11T17:21:14.124255-05:00</xocs:timestamp>
+         <xocs:cover-date-start>1990-12-01</xocs:cover-date-start>
+         <xocs:cover-date-end>1990-12-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-004313549090081G-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:004313549090081G/MAIN/application/pdf/75b7dad9d43d89b49808bd6b4b065a49/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:004313549090081G/MAIN/application/pdf/75b7dad9d43d89b49808bd6b4b065a49/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>518406</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-004313549090081G-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:004313549090081G/PREVIEW/image/png/e4cf92fa96ea4202f779ab023f110b33/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:004313549090081G/PREVIEW/image/png/e4cf92fa96ea4202f779ab023f110b33/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>78509</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:rawtext xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">War. Res. Vol. 24, No. 12, pp. 1473-1477, 1990                                                   0043-1354/90 $3.00 + 0.00  Printed in Great Britain. All rights reserved                                          Copyright &lt;~ 1990 Pergamon Pt~'ss pie    THE CHARACTERISTICS OF GRANULES FROM UPFLOW  ANAEROBIC SLUDGE BLANKET REACTORS    N. KOSAmCI, R. BLASZCZYX', L. ORPHANI and J. VALLADARESI  ~The University of Western Ontario, Department of Chemical and Biochemical Engineering, London,  Ontario, Canada N6A 5B9 and 2Lodz Technical University, Institute of Chemical Engineering,  90-924 Lodz, Poland    (First received March 1989; accepted in revised form April 1990)    Abstract--Granules from an industrial UASB reactor were maintained in bench scale (20 I.) UASB  reactors and fed with a synthetic medium based on volatile fatty acids.  After 60 days of reactor operation, three distinct granule types were found to have evolved within the  reactors. These types were defined by their colour: black, grey and white. These granules also differed in  structure (texture) and elemental composition. The proportion of black, grey and white granules in the  bed changed when the organic loading rate was changed. At the low loading rate, a large number of  "hollow" granules appeared which were less dense than the liquid and were washed out at the top of the  reactor.    Key words--anaerobic digestion, granules, loading rate, UASB reactor    INTRODUCTION  Granulation of methanogenic bacteria in upflow an-  aerobic sludge  blanket reactors (UASBR) is  important in treatment of various industrial waste-  waters. However, these granules occasionally dis-  integrate in industrial reactors, which results in loss  of activity and washout of granules from the system.  Little is known about the mechanism for formation,  maintenance and disintegration of granules. This  paper attempts to elucidate some factors which  influence granule maintenance in conditions similar  to industrial reactors.  Methanotrix and Methanosarcina bacteria are  the main methanogens reported to form the granules.  De Zeeuw and Lettinga (1980) reported that in the  first stage of the granulation process (in about 10 days)  filamentous bacteria, which were almost absent in the  original seed sludge, grew on the external surface of  a separate sludge floe, but beyond day 50 increasing  numbers of Methanosarcina were observed.  Little information is available on the maintenance  of granules and very little on their disintegration.  Tilche and Yang (1987) observed granules 0.5-3.0 rnm  in diameter, the majority of them being dark, but  some of them were a light grey. No significant  microscopic difference was found in their bacterial  composition. Dubourguier et al. (1987) showed that  the granules which formed a well defined bed with a  clear supernatant and without fluffy conglomerates,  were black but some whitish conglomerates were  always present.  Bochem et al. (1982) reported that in partially  cross-sectioned granules (1-3 mm in diameter) one  can recognize cells consisting of two regions: a    densely packed outer area and a loosely packed  central area resembling a lysis zone. This latter  area was comprised of ovoid cells (1.0-2.0/zm in  diameter) with intercellular spaces of approx. 0.1/zm.  These intercellular spaces were either completely  transparent, or composed of weakly stainable matter.  Beeftink and Staugard (1986) examined the colon-  ization of sand grains by bacteria and found that  numerical cell densities within the aggregates ranged  from 1012 per ml at the periphery to very low values  in the centre. Microscopic evidence for "hollowing"  of large aggregates by autolysis has been presented,  and it was suggested that granules lysed within  large aggregates due to substrate insut~ciency  (Beeftink and van den Heuvel, 1987). Conceivably,  such "hollow" structures are more susceptible to  shear stresses within the reactor. The disappearance  of large aggregates may also have resulted from their  disintegration.  In this work, some features and behaviour of  granules obtained from a pulp and paper mill waste-  water treatment plant were investigated. It was found  that during prolonged time periods, granules do  change their shape, composition and density.    ,MATERIALS AND METHODS  Equipment  Experiments were carried out in a 201. bench scale  UASBR which was constructed from extruded PVC pipe  having a height to diameter ratio of approx. 6 (1000 x  163 nun, respectively). Synthetic medium enters the bottom  of the reactor through six equally spaced distribution ports  at the circular periphery and effluent leaves by overflow  from the top. The temperature was maintained at 35.  A schematic of the reactor is presented in Fig. 1.    w,~ ~/12--D                                         1473    1474    N. Kos,,~Ic et al.    1000    "-- 114  j      --  R    '    163     '    "X,    I,F    Fig. I. Schematic of upflow anaerobic sludge blanket  reactor.    Effluent was recycled and combined with the influent in  a ratio of about 7:1. An internal gas-liquid-solid separator  cone was constructed at the top of the reactor. Pumping was  provided by Piper peristaltic pumps for both the feed and  recycle lines. The feed rate was 0.02251 min-t (32.51 day-I)  and recycle rate 0.1641rain-t. Combined, these streams  resulted in a superficial liquid upflow velocity in the reactor  of 0.5 m h-t.  Source of granules  The granules were initially obtained from an UASBR  pilot plant unit treating wastewaters from a waste paper  recycling mill at Domtar Pulp and Paper Industry  (Mississauga, Ontario).  Medium  A synthetic medium (acetic, propionic and butyric acid),  modified from Trudeil et al. (1985), was used. The carbon  sources were acetic acid, propionic acid and butyric acid  added in a weight ratio of 4: I : I, respectively. Total COD    concentration was 3800 mg I- J and COD: N: P ratio was  107:3.4:1. The pH of the medium was adjusted to 6.8 + 0.1  with 10 M NaOH. Detailed composition of the medium is  given in Table I.  Analysis  ATP. A sample was weighed and 100/~l pipetted into a  cuvette. To the samples, 100 p l of nucleotide releasing agent  (NRA) was added and the cuvette placed in a LUMAC  BIOCOUNTER Model 2010. An integration time of 10 s  was set and 100pl of reconstituted LUMIT-PM was in-  jected. After 10 s, relative light units (RLU) were read from  the display and the ATP concentration was determined by  means of an ATP calibration curve.  ATP standard. Freeze-dried ATP (LUMAC) was recon-  stituted with 10 ml of bi-distilled water and divided into 10,  I ml samples. The samples were diluted to a wide range of  concentrations (0.01-0.25 g ATP ml-t). From these diluted  samples, I00/zl aliquots were taken and analysed as above.  Volatile suspended solids (VSS). The VSS were analysed  according to Standard Methods (APHA, 1975).  Size of granules. Granules were distributed in a vertically  placed tube by water flowing at different velocities according  to the method developed by Andras et aL (1989). Washed  granules were collected on filter papers and photographed.  The photographic negatives were used to determine the size  of granules by using a printing enlarger (Omega B22,  magnification 2.2 x actual size).  Calcium analysis. Atomic absorption (AA) spectroscopy  (Instrumentation Laboratory Inc., Model 157) was used.  The ashed sample was redissolved in 5 ml hot concentrated  HCI and filtered fWhatman Qualitative No. 2) into a 50 ml  volumetric flask. The 50 ml volume was made up with I ml  of 10% (w/v) KCI, I ml of 5% (w/v) La203 (50 g La203 per  iitre of 80% HC1 and deionized water).  Scanning electron microscopy (SEM). Granules were  fixed in 3% giutaraldehyde for I h, dehydrated in a graded  ethanol series and critical-point dried with CO2. After  sputter coating with carbon, granules were examined using  an International Scientific Instruments DS-130 scanning  electron microscope.  Electron dispersive X-ray (EDAX) analysis. During SEM  analysis the elemental composition of samples was obtained  using X-ray microanalysis systems XPGT-System III.  Chemical oxygen demand (COD). The COD analyses were  determined by the method of Knetchel (1977).    RESULTS AND DISCUSSION  The reactor history  The granules obtained from a UASB pilot plant  exposed to pulp and paper mill wastewaters were  highly contaminated with wood and fibres. Prior to  reactor start-up, a known mass of granules (about  300 g of VSS) was fluidized in a liquid medium using    Table i. Feed composition of synthetic medium  Cone.                            Cone.  Medium                   (mg I- I )            TMS           (rag I-i )    Acetic acid                 2000     FeCI2.4HzO              2000  Propionic acid               500     Hj BOj                    50  Butyric acid                 500     ZnCI2                     50  K2HPO,                      200     CuCI,'2H20                  40  (NH4)=SO,                    20     MnCI:-4H20               500  NH4HCO3                     650     (NH,)6MoTO:,.2H20          50  NaHCOj                  2250    AICI3                      30  Yeast extract                100     CoCI,.6H~O               150  CaCI=.2H20                  368     NiCI:'6H:O                100  (I 00 mg I- i Ca=. )                   Concentrated HCI          2 ml  TMS (2 ml I- ' )                     Distilled water to          I litre    TMS, trace metal solution.    Characteristics of granules from UASB reactors                           1,175    pure nitrogen. Upon stopping the gas flow, dense  granules settled first permitting removal of undesired  particles along with slower settling granules. This  procedure was repeated until most of the con-  taminated material was flushed out. Following this  procedure, the upper layer of granules was removed  to leave about 240g VSS in the reactor. Upon  start-up, the reactor effluent was very clear for over  1 month, and very little solids were washed out of  the reactor.  The initial volumetric loading rate was about 2.2 g  COD 1-1 day-~, initial specific loading rate about  0.2 g COD (g VSS)-~ day-~, initial COD conversion  about 80% and the initial upflow velocity 0.5 m h-~  (feed + recycle). At day 7, the volumetric load was  increased to 3.8 g COD !- ~ day- ~ and about 40 g VSS  were removed. At day 14 the loading rate was  increased to 6.2 g COD 1-~ day-~ and maintained at  this level through the experiment. The specific loading  rate was about 0.65 g COD (g VSS)-t day-l.  Between day 14 and day 82 accumulation of  granules was observed and granules were removed at  days 49 and 77 to keep the specific organic loading  rate at a constant level [0.65 g COD (g VSS)-t day-t].  Increasing COD conversion values, up to 100%,  were observed and larger portions of granules were  removed at days 82, 118, 127 and 131 to maintain the  COD conversion at 95-98%. In this way the mass of  granules in the reactor decreased to about 120 g VSS  and specific organic loading rate increased to about  1.0 g COD (g VSS)- 1 day- i.    At day 134 another 30g VSS was removed  to increase the specific organic loading rate to  !.6 g COD (g VSS)- 1 day- t.  Granules obserration  Before start-up, all granules had a uniform dark  colour. In the period of time when specific organic  loading rate was about 0.65 g COD (g VSS)-t (up to  day 82) the appearance of a large number of grey and  white granules with diameters from 0.2 to 2 mm in the  upper layer of the bed was observed.  A month after start-up granules appeared in the  effluent. The grey and white granules with diameters  of !-2 mm predominated in the effluent although  large black granules (over 2 mm in diameter) were  also observed. These granules floated and sometimes  did not settle even after centrifugation (at 600 g for  15 min). It is suspected that a hollow core within  the granules was the reason for their poor settling.  A scanning electron micrograph (SEM) of a  "hollow" black granule is presented in Fig. 2. This  hollow core was separated from the granular mass by  a thin wall and was probably filled with gas produced  by the anaerobic microbial culture within the granule.  A very small mechanical stress can rupture this  wall, resulting in the release of the gas within. The  remaining granular mass then settles rapidly. This  may suggest that an induced mechanical stress, for  example by effluent recirculation could prevent the  granules from maintaining this hollow core and  consequently from floating out of the reactor.    Fig. 2. Scanning electron micrograph of a cut "'hollow" black granule.    1476    N. Kos.~c et al.  Table 2. Percent f~n 6f black, grey lad white IVanules from the bed    Size range                 Percent fraction of granules number  of granules  (mm)       B    G    W    B    G    W    B    G    W    &lt;0.4         5    90     5    30    40    30     10    60    30  0.4--0.8        15    40    45    20    40    40    20    40    40  0.8-1.6        5    55    40     10    40    50    20    40    40  &gt; 1.6         5    45    50     5    40    55     10    50    40  Day 82             Day 134             Day 160  SLR = 0.65           SLR = 1.0           SLR = 1.6    B, black: G, grey; W, white; SLR, specific loading rate. g COD (g VSS)-I day-z.    Generally the black granules appeared to be more  resistant to stresses produced by the upflow stream  (0.5 m h-t) as compared to grey, which in turn were  more resistant than white. The white granules col-  lapsed inward, even without mechanical stress if they  were partially dewatered. In comparison, the black  granules kept their shape and maintained the hollow  core. However, it was observed that both white and  grey granules from the bottom of the reactor, settled  excellently. This observation may suggest that the  change of colour and the hollowing of granules  resulted from different mechanisms. The "hollowing"  of granules is probably connected with the size of  granules. The feed may penetrate within the granules  only by diffusion so when the size of the granule  exceeds a certain limit, the concentration of feed in  the middle of the granules becomes too small to feed  the bacteria at this location resulting in starvation of  the microbial population and their autolysis. It is  expected that autolysis products are not so densely  packed as viable cells (Bochem et al., 1982) and gas  may be entrapped decreasing the density of granules,  As a consequence the granules may float. A hollow  core which could be visually observed may also occur.  The change in colour seems to be dependent on  composition of the feed around granules. Also hydro-  dynamic conditions in the reactor may influence the  colour of granules. When a large number of granules  is packed densely at the bottom of the reactor a  deficiency of some nutrients may last for a long time  around granules. This may result in irreversible  changes in granules composition and structure. Such  a phenomenon is more possible at low specific load-  ing rate and at low upflow velocities. Higher loading  rates and higher upflow velocities increase the access  of granules to the nutrients and may slow down the  colour change of granules.  It could be postulated that large grey and white  granules were formed from large black granules.  Due to little resistance of grey and white granules to  hydraulic stresses, small grey and white granules  (which were also observed) may also be formed from  the disruption of large granules of these same colours.  According to this hypothesis in reactors operated  at low upflow velocities and low specific loading  rate, the majority of granules should be grey and  white and washout of large size granules should  occur. In reactors operated at high upflow velocities  and high specific loading rates black granules    should prevail and washout of small granules should  occur. Such phenomena have been observed during  long term reactor performance (Kosaric et al.,  unpublished data).  Analysis of granules  Up to day 82 the loading rates were maintained at  approx. 0.65 g COD (g VSS)- t day- '. The analysis of  granules from the bed on this day (Table 2), in four  size ranges, showed that the granular bed consisted of  only a small percentage of black granules. A number  of large granules, mainly grey and white, in the  effluent, were also observed. Although grey and white  granules predominated in the bed no change in the  COD conversion and gas production was observed.  The analysis of black, grey and white granules  (Table 2) generally showed that the percentage of  black granules is higher at higher specific loading  rate. Further investigations are in progress.  Granules were segregated and the ATP activity test  was performed for black, grey and white granules.  The results of this analysis are presented in Table 3.  It was interesting to notice that the ATP activity of  white granules was higher than that of the grey ones,  which in turn had higher activity than the black.  There is no explanation for this finding at this stage.  Either the metabolic activity is indeed higher in white  granules, or the ATP was merely easier to extract.  EDAX analysis was performed at day 134 to  find the elements present in black, grey and white  granules. The granules from the bed were taken  and the concentration of elements on the surface  of granules was measured. The results are shown in  Table 4. As one could expect, the difference in colour  and physical structure between black, grey and  white granules resulted from differences in surface  elemental composition of the granules. The grey and  white granules contained sulphur and phosphorus  (about 10%), silicon and aluminium (about 4%).  In contrast, black granules contained about half as  much sulphur and phosphorus, and about ten times    Table 3. ATP concentration in 5 ml of black, grey  and white granules  Type of       Mass     RLU      ATP  granules        (g)     (mean)    (~g 1- ' )  Black        0.0248     1361      0.538  Grey         0.0125     1924      1.682  White        0.0155    4720     3.804    Characteristics of granules from UASB reactors    1477    Table 4. EDAX results (atom %) for black, grey  and white Branules    Element    Black    Grey    White    Ca        19.8      18.7      12.2  Fe         8.0       6.3       3.9  Cu         1.8       4.3       6.2  S          14.1      34.9      31.1  P          19.7      27.2      23.9  Si          14.2       2.4       i.9  AI         19.6       1.6       I.I  K          0.6       3.6      10.9  Na         1.6       0. I       7.3  CI          0.7       1.0       1.6    more silicon and aluminium. This may be the reason  for higher resistance to disintegration of black gran-  ules as compared to grey and white. The black colour  of granules probably appears due to iron sulphides  and related compounds.  The elemental composition of black granules may  suggest that the black colour appears when the ratio  of S: Fe is small. In black granules, this ratio is about  1.8, in grey granules 5.5 and in white 8, although in  white granules there is only about one-third as much  iron as for the black. The high phosphorus content in  grey and white granules may suggest that the sulphur  is mainly combined with phosphorus. Additionally,  at a high concentration of chlorine, the iron may exist  as iron chloride (the ratio of CI: Fe in white granules  is 0.4, but in black it is about 0.09).  It is characteristic that the amount of calcium on  the granule surface is almost the same in black and  grey granules while just slightly lower in the white  granules. This may suggest that the concentration of  this element in the feed was high enough to provide  Ca2+ ions to granules in excess. In fact, the calcium  concentration in the feed was established at a  high level of 100mgl-l, according to previous data  (Mahoney et al., 1987) when calcium was shown to  be beneficial for granule formation.  At start-up and days 82, 134 and 160 the granules'  calcium content was analysed by AA spectroscopy.  At day 0 when all granules were of uniform dark  colour, at day 82 when a large number of grey and  white granules were observed [the specific organic  loading rate of 0.65gCOD (gVSS)-Iday-~ was  maintained for about 60 days], at day 134 when more  dark granules were observed [the specific organic  loading rate of about 1.0 g COD (g VSS)- ~ day- ' was  maintained for about 50 days] and at day 160 when  percentage of dark granules increased again (Table 2)  and the specific organic loading rate of about 1.6  g COD (g VSS)- ~ day- ~ was maintained for 26 days.  The calcium concentration in granule sludge seems  to be related to the specific loading rate in the  reactor (Table 5). To fully evaluate the effect of    Table 5. Calcium concentration of granular sludge at different  specific loading rate    Day 0    Day 82   Day 134  Day 160  Ca. rag (g VSS)-I      I.I        4.3        2.7        1.5  SLR                0        0.65       1.0       1.6  SLR, specific loading rate. gCOD (gVSS)-I day-'.    calcium ions on granule long term maintenance,  further experiments are being performed.    CONCLUSIONS  (I) Granules from industrial reactors, when fed  with volatile fatty acids in continuous culture, can  change their colour and elemental composition at  varied specific organic loading rates.  (2) At  low  specific  organic  loading  rate  [0.65 g COD (g VSS)- i day-'] granules become lighter  or even white and their texture is soft. A hollow core  may occur within white, grey or black granules which  then may float out of the reactor.  (3) At  high  specific  organic  loading  rate  [1.6 g COD (g VSS)-~ day-1]  granules  maintained  their original dark coiour (mainly grey) and hollow  granules rarely occurred.  Acknowledgements--This  research  was  supported  by  Paques-Lavalin Inc. and the Biotechnology Research  Institute in Montreal, Canada. The authors express their  gratitude for this support.    REFERENCES  Andras E., Kennedy K. J. and Richardson D. A. (1989)  Test for characterizing settleability of anaerobic sludge.  Envir. Technol. Left. 10, 463-470.  APHA (1985) Standard Methods for The Examination of  Water and Wastewater, 16th edition. American Public  Health Association, Washington, D.C.  Beeftink H. H. and van den Heuvel J. C. (1987) Novel  anaerobic Gas-Lift Reactor (AGLR) with retention of  biomass: start-up, routine and establishment of hold-up.  Biotechnol. Bioengng 30, 233-238.  Beeftink H. H. and Staugard P. (1986) Structure and  dynamics of anaerobic bacterial aggregate in a Gas-Lift  Reactor. AppL etwir. Microbioi. 52, 1139-1146.  Bochem H. P., Schobert S. M., Sprey B. and Wengler P.  (1982) Thermophilic biomethanation of acetic acid:  morphology and ultrastructure of a granular consortium.  Can. J. Microbiol. ~, 500-510.  Dubourguier H. C., Buisson M. N., Tissier J. P., Prensier G.  and Albagnae G. (1987) Structural characteristics and  metabolic activities of granular methanogenic sludge on  a mixed defined substrate. In Proceedings of the GASMAT  Workshop, pp. 78-86, Lunteren, The Netherlands.  Knetchel R. J. (1977) A more economical method for the  determination of chemical oxygen demand. Water Waste  Engng 14, 25-27.  Mahoney E. M., Varangu L. K., Cairns W. L., Kosaric N.  and Murray R. G. E. (1987) Effect of calcium on micro-  bial aggregation during UASB reactor start-up. Wat. $ci.  Technol. 19, 249-260.  Trudell M., van den Berg L. and Kosaric N. (1985)  Anaerobic treatment of high strength acidic organic  wastewaters utilizing the upflow sludge blanket treatment  process. Wat. Pollut. Res. J. Can. 20, 25-41.  Tilche A. and Yang X. (1987) Light and scanning electron  microscope observation on the granular biomass of  experimental SBAF and HABR reactors. In Proceedings  of the GASMAT Workshop, pp. 170-178, Lunteren,  The Netherlands.  de Zeeuw W. and Lettinga G. (1980) Acclimation of  digested sewage sludge during start-up of upflow  anaerobic sludge blanket (UASB) reactor. In Proceedings  of the 35th Industrial Waste Conference, pp. 625-634.  Purdue University.                                                                                                                                                                                                                                                                                                                                                </xocs:rawtext><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>WR</jid>
+            <aid>9090081G</aid>
+            <ce:pii>0043-1354(90)90081-G</ce:pii>
+            <ce:doi>10.1016/0043-1354(90)90081-G</ce:doi>
+            <ce:copyright type="unknown" year="1990"/>
+         </item-info>
+         <head>
+            <ce:title>The characteristics of granules from upflow anaerobic sludge blanket reactors</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>N.</ce:given-name>
+                  <ce:surname>Kosaric</ce:surname>
+                  <ce:cross-ref refid="AFF1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>R.</ce:given-name>
+                  <ce:surname>Blaszczyk</ce:surname>
+                  <ce:cross-ref refid="AFF2">
+                     <ce:sup loc="post">2</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>L.</ce:given-name>
+                  <ce:surname>Orphan</ce:surname>
+                  <ce:cross-ref refid="AFF1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>J.</ce:given-name>
+                  <ce:surname>Valladarfs</ce:surname>
+                  <ce:cross-ref refid="AFF1">
+                     <ce:sup loc="post">1</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="AFF1">
+                  <ce:label>a</ce:label>
+                  <ce:textfn>The University of Western Ontario, Department of Chemical and Biochemical Engineering, London, Ontario, Canada N6A 5119</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="AFF2">
+                  <ce:label>b</ce:label>
+                  <ce:textfn>Lodz Technical University, Institute of Chemical Engineering, 90-924 Lodz, Poland</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:abstract class="author"><ce:abstract-sec>
+                  <ce:simple-para view="all">Granules from an industrial UASB reactor were maintained in bench scale (201.) UASB reactors and fed with a synthetic medium based on volatile fatty acids.</ce:simple-para>
+                  <ce:simple-para view="all">After 60 days of reactor operation, three distinct granule types were found to have evolved within the reactors. These types were defined by their colour: black, grey and white. These granules also differed in structure (texture) and elemental composition. The proportion of black, grey and white granules in the bed changed when the organic loading rate was changed. At the low loading rate, a large number of “hollow” granules appeared which were less dense than the liquid and were washed out at the top of the reactor.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>anaerobic digestion</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>granules</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>loading rate</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>UASB reactor</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <tail>
+            <ce:bibliography view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec>
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>Andras et al., 1989</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.</ce:given-name>
+                                 <ce:surname>Andras</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>K.J.</ce:given-name>
+                                 <ce:surname>Kennedy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>D.A.</ce:given-name>
+                                 <ce:surname>Richardson</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Test for characterizing settleability of anaerobic sludge</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Envir. Technol. Lett.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>10</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1989</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>463</sb:first-page>
+                              <sb:last-page>470</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>APHA, 1985</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>APHA</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Standard Methods for The Examination of Water and Wastewater</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:edition>16th edition</sb:edition>
+                              <sb:date>1985</sb:date>
+                              <sb:publisher>
+                                 <sb:name>American Public Health Association</sb:name>
+                                 <sb:location>Washington, D.C</sb:location>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>Beeftink and van den Heuvel, 1987</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.H.</ce:given-name>
+                                 <ce:surname>Beeftink</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.C.</ce:given-name>
+                                 <ce:surname>van den Heuvel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Novel anaerobic Gas-Lift Reactor (AGLR) with retention of biomass: start-up, routine and establishment of hold-up</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biotechnol. Bioengng</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>30</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>233</sb:first-page>
+                              <sb:last-page>238</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>Beeftink and Staugard, 1986</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.H.</ce:given-name>
+                                 <ce:surname>Beeftink</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Staugard</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Structure and dynamics of anaerobic bacterial aggregate in a Gas-Lift Reactor</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Appl. envir. Microbiol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>52</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1986</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1139</sb:first-page>
+                              <sb:last-page>1146</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>Bochem et al., 1982</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.P.</ce:given-name>
+                                 <ce:surname>Bochem</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>S.M.</ce:given-name>
+                                 <ce:surname>Schobert</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>B.</ce:given-name>
+                                 <ce:surname>Sprey</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Wengler</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Thermophilic biomethanation of acetic acid: morphology and ultrastructure of a granular consortium</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Can. J. Microbiol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>28</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1982</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>500</sb:first-page>
+                              <sb:last-page>510</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>Dubourguier et al., 1987</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>H.C.</ce:given-name>
+                                 <ce:surname>Dubourguier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>M.N.</ce:given-name>
+                                 <ce:surname>Buisson</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>J.P.</ce:given-name>
+                                 <ce:surname>Tissier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Prensier</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Albagnac</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Structural characteristics and metabolic activities of granular methanogenic sludge on a mixed defined substrate</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:title>
+                                 <sb:maintitle>Proceedings of the GASMAT Workshop</sb:maintitle>
+                              </sb:title>
+                              <sb:date>1987</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Lunteren</sb:name>
+                                 <sb:location>The Netherlands</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>78</sb:first-page>
+                              <sb:last-page>86</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB7">
+                     <ce:label>Knetchel, 1977</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.J.</ce:given-name>
+                                 <ce:surname>Knetchel</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>A more economical method for the determination of chemical oxygen demand</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Water Waste Engng</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>14</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1977</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>25</sb:first-page>
+                              <sb:last-page>27</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB8">
+                     <ce:label>Mahoney et al., 1987</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>E.M.</ce:given-name>
+                                 <ce:surname>Mahoney</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.K.</ce:given-name>
+                                 <ce:surname>Varangu</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>W.L.</ce:given-name>
+                                 <ce:surname>Cairns</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Kosaric</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>R.G.E.</ce:given-name>
+                                 <ce:surname>Murray</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Effect of calcium on microbial aggregation during UASB reactor start-up</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Wat. Sci. Technol.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>19</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1987</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>249</sb:first-page>
+                              <sb:last-page>260</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB9">
+                     <ce:label>Trudell et al., 1985</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Trudell</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>L.</ce:given-name>
+                                 <ce:surname>van den Berg</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>N.</ce:given-name>
+                                 <ce:surname>Kosaric</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Anaerobic treatment of high strength acidic organic wastewaters utilizing the upflow sludge blanket treatment process</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Wat. Pollut. Res. J. Can.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>20</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1985</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>25</sb:first-page>
+                              <sb:last-page>41</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB10">
+                     <ce:label>Tilche and Yang, 1987</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Tilche</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>X.</ce:given-name>
+                                 <ce:surname>Yang</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Light and scanning electron microscope observation on the granular biomass of experimental SBAF and HABR reactors</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:title>
+                                 <sb:maintitle>Proceedings of the GASMAT Workshop</sb:maintitle>
+                              </sb:title>
+                              <sb:date>1987</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Lunteren</sb:name>
+                                 <sb:location>The Netherlands</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>170</sb:first-page>
+                              <sb:last-page>178</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB11">
+                     <ce:label>de Zeeuw and Lettinga, 1980</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>W.</ce:given-name>
+                                 <ce:surname>de Zeeuw</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>G.</ce:given-name>
+                                 <ce:surname>Lettinga</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Acclimation of digested sewage sludge during start-up of upflow anaerobic sludge blanket (UASB) reactor</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:title>
+                                 <sb:maintitle>Proceedings of the 35th Industrial Waste Conference</sb:maintitle>
+                              </sb:title>
+                              <sb:date>1980</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Purdue University</sb:name>
+                              </sb:publisher>
+                           </sb:edited-book>
+                           <sb:pages>
+                              <sb:first-page>625</sb:first-page>
+                              <sb:last-page>634</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

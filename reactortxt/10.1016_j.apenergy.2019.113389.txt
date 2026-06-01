@@ -1,0 +1,259 @@
+TITLE: Optimized production of biomethane as an energy vector from low-solids biomass using novel magnetic biofilm carriers
+
+
+1 Introduction
+
+
+1.1 Background
+
+There is a very high demand in energy worldwide, and it is still growing. The German Federal Ministry for Economic Affairs and Energy published values of 570.3 EJ and 576.2 EJ for global primary energy consumption in 2014 and 2016, respectively [1]. The Renewable Energy Policy Network for the 21st century estimated the total final energy consumption at 362.3 EJ in 2016, mostly originated from fossil fuels [2]. The share of combined renewable energy (both traditional use of biomass and modern renewables) was 18.2% of total final energy consumption. During the last decades, global production of biogas and biomethane from anaerobic digestion of biomass resources has increased substantially from 0.28 EJ in 2000 to 1.28 EJ in 2014, with a global volume of 59 billion m^3 biogas (35 billion m^3 methane equivalent) [3]. Further growth of biogas production is expected in order to reach the set goals on decarbonisation with the overall objective of limiting the increase of global average temperature to below 2 °C above preindustrial levels as stated at the United Nations Framework Convention on Climate Change (UNFCCC) 21st Conference of the Parties (COP21) in 2015. According to Scarlat et al. [3] biogas production is most established in the United States and especially in Europe. Besides, there is high demand and potential for biogas serving as an alternative clean energy source in Asia, Africa and Latin America. In the European Union 18 billion m^3 methane equivalent were produced in 2015, representing half of the global biogas production. The produced biogas was utilized in generation of 127 TJ of heat and 61 TWh of electricity in 2015. The use of biogas in Europe is projected to reach 420 PJ, including 189 PJ of heat and 63.9 TWh (230 PJ) of electricity, requiring the production of 20 to 22 billion Nm^3 CH_4 equivalent.
+
+Because of its reliability, high feedstock flexibility, and relatively low costs, the completely stirred tank reactor (CSTR) is by far the most abundant technology for industrial-scale anaerobic digestion [4]. One of the most important disadvantages of CSTRs is the loss of microorganisms caused by the withdrawal of digestate, which depends on the substrate feeding rate and its content of organic solids [5]. The required hydraulic retention time (HRT) needs to be long enough, at least 16 days, to ensure a stable and efficient microbial community [6]. Thus, the common CSTR is not feasible for high-rate digestion of low-solids feedstock.
+
+Especially developing countries rely on simple and robust anaerobic digestion technologies, but, at the same time, they are looking for ways to expand the range of suitable feedstocks. There are numerous residues or wastewaters from agricultural and industrial applications with low solids contents. Using the potential of these residues for biogas production is of special importance. Normally, simple techniques like the CSTR need energy-rich feedstock containing high organic contents. When using low-energy feedstock with low solids content, co-fermentation with organic-rich feedstock such as energy plants is often applied in order to increase methane production. Otherwise, either a low methanogenic performance is tolerated or additional techniques for retention of biomass are necessary.
+
+
+1.2 Retention of microbial biomass inside a CSTR
+
+Various techniques have been developed to retain microbial biomass inside anaerobic digestion systems [7]. These techniques are mainly used in wastewater treatment and include membrane filtration, anaerobic filters (AF) or upflow anaerobic sludge blanket reactors (UASB) [7,8]. These systems are not suitable for the digestion of solid feedstocks due to their vulnerability to clogging (AF) [9] and the necessity of certain hydraulic properties (UASB) [7]. Besides, their design and operation is usually more costly than a CSTR [7,9].
+
+A known (simple) approach to immobilize microorganisms is on particles which serve as carriers for biofilms. Formation of methanogenic biofilms has been intensely investigated for various materials including porous glass [10], ceramics [11,12], metals [10,11], plastics [11,12] and organic materials such as Loofah sponge [13], straw [14] and biochar [15]. For conductive carrier material, for example, carbon cloth or granular activated carbon and magnetite, a promotion of direct interspecies electron transfer (DIET) has even been observed [16,17].
+
+To achieve a permanent positive effect by the addition of biofilm carriers, the concentration of carrier material has to be kept stable inside the reactor. An especially elegant approach is the use of magnetic forces to recover magnetic carrier material from the digestate. The necessary technical components, magnetic carrier material and a magnetic separator, can easily be combined with an existing CSTR. The use of magnetite particles to reduce the loss of biofilm carrying support media through digestate withdrawal, has been investigated by Moestedt [18]. The support particles showed colonization with preferential adhesion of hydrogenotrophic methanogens, resulting in increased process stability, an elevated degrading potential of volatile fatty acids and higher methane content when subjected to increased organic load. According to Moestedt, further detailed studies are required, to determine the effect of hydraulic retention time (HRT), organic loading rate (OLR) and selection of substrate. Ramm et al. [19] investigated the use of magnetic composite particles made of foam glass and Reza et al. [20] the use of magnetic hydrochar. Both materials were found to be mechanically and chemically stable and they were also found to develop a methanogenic microbial biofilm as intended. However, the results also indicated that such technology bears the risk of initial inhibition [20] and insufficient particle recovery [19] not fully achieving the assumed positive effects of the investigated materials.
+
+
+1.3 Objectives of the presented study
+
+The current state of knowledge of biomass retention in anaerobic CSTRs using magnetic biofilm carrier material is still very limited despite its promising approach. As far as the authors are aware, the presented study is the first to provide systematic data on the technical and biological behavior of porous particles made of composite materials and possessing magnetic properties in high-performance anaerobic digestion with a continuously operated CSTR that is stressed by high OLRs and short HRTs. Novel magnetic composites made of foam glass (MFGPs) have been developed by the authors with the aim to combine magnetic features with a high porosity material that can be expected to immobilize a significant proportion of microbial biomass. The composites are tested for the first time for high-performance anaerobic digestion. The most valuable advantage offered by composite materials is the possibility to customize specific properties of carriers with regard to the demands of the application in a more versatile way compared to carriers made of a single material.
+
+While in preliminary experiments, the general suitability (spatial distribution, stability against mechanical forces, recovery, acceptance by microorganisms) of a first version of MFGPs was confirmed [19]. The objective of this study was to investigate in detail the influence of an advanced version of MFGPs on the methanogenic performance of a CSTR at challenging process conditions, including observations on the development of the involved microbial population. The new version of the MFGPs included adaption of surface and shape, and improvement of magnetic properties, aiming at achieving a higher degree of biomass attachment and enhanced magnetic recovery. The study presented here had the following individual objectives:(i) determine the effects of novel magnetic composites made of foam glass (MFGPs) on the methanogenic performance and the process stability of an anaerobic methanogenic CSTR while increasing organic loading rate and decreasing hydraulic retention time (ii) observe the microbial community inside anaerobic methanogenic CSTRs, with and without addition of MFGPs (iii) investigate the technical feasibility of MFGPs in production of biomethane with regard to practical application.
+
+
+2 Materials and methods
+
+
+2.1 Magnetic foam glass particles (MFGPs)
+
+The companies Clariant Produkte (Deutschland) GmbH (Moosburg, Germany) and Dennert Poraver GmbH (Postbauer-Heng, Germany) developed in collaboration with the Leibniz Institute for Agricultural Engineering and Bioeconomy e.V. (ATB) (Potsdam, Germany) magnetic particles serving as carriers for biofilms (Patent application WO2011EP63930 20110812 [21]).
+
+The particles were made of foamed soda-lime silicate glass containing iron powder and showed a fine-pored surface. The iron powder “Bayoxide E AB 21” (LANXESS Deutschland GmbH, Krefeld, Germany), which contains 97.5% magnetisable Fe_2O_3, was added in a concentration of approximately 20% (w-iron powder/w-granular glass). The production process included the granulation of a mixture of soda-lime silicate glass, iron powder as well as binding and blowing agents. The resulting agglomerates were dried at 900 °C using a rotary kiln. For the enhanced version of MFGPs, drying was followed by breaking the particles to achieve an irregular shape. The MFGPs were added to the anaerobic digestion system directly after production without preliminary microbial cultivation.
+
+After successful preliminary investigation [19] and further development, an enhanced version of MFGPs became the subject of the study presented here. The two different versions of MFGPs are described in Table 1 .
+
+The particle diameter range and the particle size distribution were determined by means of laser diffraction particle sizing using a “Mastersizer 2000” and a “Scirocco 2000” (Malvern Instruments, Worcestershire, UK); the analysis was conducted by Clariant Produkte (Deutschland) GmbH. The mean pore diameter and the total porosity were determined by means of Hg-porosimetry using a “Pascal 440” (Thermo Electron Corporation, Waltham, USA) at pressures from 1 to 2000 bar (pore diameter range 3.6 to 7500 nm) respectively 10^−2 mbar to 1 bar (pore diameter >7500 nm); the analysis was conducted by Clariant Produkte (Deutschland) GmbH. The BET surface area was determined by means of nitrogen adsorption using an “ASAP 2020” (Micromeritics, Aachen, Germany); the analysis was conducted by Clariant Produkte (Deutschland) GmbH. The magnetic volume susceptibility was determined by means of ferromagnetic analysis using a “FMA 5000” (Forgenta GmbH, Berlin, Germany); the analysis was conducted by Dr. Rainer Tölle (Albrecht Daniel Thaer-Institute for Agricultural and Horticultural Sciences, Berlin Humboldt University, Germany). The zeta potential was determined by means of laser-doppler electrophoresis using a “Zetasizer 3000 HAS” (Malvern Instruments, Worcestershire, UK); the analysis was conducted by Surflay Nanotec GmbH, Berlin, Germany.
+
+The enhanced version of MFGPs, that is object of the present study, has been modified with regard to particle diameter, surface roughness and particle shape, and especially magnetic volume susceptibility. These modifications were intended to improve formation of biofilms and magnetic recovery and will be discussed in Section 3.3.
+
+
+2.2 Feedstock and nutrient supplements
+
+To demonstrate the suitability of the investigated MFGPs to prevent loss of microorganisms by high volumetric flows of digestate, a substrate had to be chosen that is suitable to simulate different HRTs. Therefore, very homogenous sugar beet silage (Beta vulgaris subsp. vulgaris) was used as the sole-substrate. The silage (made of sugar beets without leaves, mechanically cleaned and chopped) was ground with a hammer-mill (punched screen 1.25 mm) before use. Section 3.1.1 contains further characterization of the sugar beet silage.
+
+For efficient continuous biogas production, an optimum C:N:P:S ratio of 600:15:5:3 is recommended [22]. To approach this ratio, ammonium carbonate, monopotassium phosphate and potassium sulphate (Carl Roth GmbH & Co. KG, Karlsruhe, Germany) were added to the sugar beet silage in concentrations of 2.68, 1.93 and 1.28 g per kg fresh silage, respectively.
+
+Furthermore, a trace element solution was given to the silage. The solution was made according to recipe DSMZ 144 provided by “Deutsche Sammlung von Mikroorganismen und Zellkulturen” (DSMZ), but in a 5-fold concentration. The solution was added to the sugar beet silage in a ratio of 0.01 mL per g volatile solids (VS) as recommended by Abdoun and Weiland [23].
+
+
+2.3 Experimental setup
+
+The setup consisted of two identical CSTRs made of stainless steel (V2A) with an effective volume of approximately 40 L.
+
+Both reactors were operated under identical conditions. Their operation only differed in the use of the MFGPs. One of the CSTRs, the “magnetic reactor” (MR), contained a suspension of MFGPs (2% w-MFGPs/w-fermentation liquor). The other reactor served as “control reactor” (CR).
+
+
+2.3.1 Operation
+
+The digestion temperature was kept at 41 °C since Demirel and Scherer [24] achieved a successful mono-digestion of sugar beet silage at mesophilic temperatures between 41 and 42 °C. Silage was fed into the reactors every 2 h. Continuous agitation was realized using a paddle stirrer custom made of V2A steel.
+
+Volume and composition of the produced biogas were determined once a day using a multi-chamber rotor gas meter “TG 05” (Ritter Apparatebau GmbH & Co. KG, Bochum, Germany) and a gas analyzer “SSM 6000” (Pronova Analysentechnik GmbH & Co. KG, Berlin, Germany). The measured biogas volume was normalized to standard conditions (temperature 273.15 K, pressure 1013.25 mbar).
+
+
+2.3.2 Removal of digestate and sampling
+
+Digestate was removed from the reactors in different intervals during the four phases of the experiment described in Section 2.4 in order to achieve the desired HRTs. Beginning with once a week (phase 1), the interval was decreased in accordance with the target HRT up to once a day (phase 4).
+
+The digestate taken from the MR contained MFGPs. The MFGPs were recovered and returned to the MR at every removal of digestate. The recovery was conducted manually using the handheld rod magnetic separator “SMN9-HM-0300” (S + S Separation and Sorting Technology GmbH, Schönberg, Germany).
+
+Sampling of fermentation liquor was carried out once a week. Samples were taken from the removed digestate before disposal and analyzed without further preparation. Sampling of MFGPs was conducted at least every two weeks. The MFGPs were cleaned from adhering fermentation liquor by washing in phosphate buffered saline solution (PBS) before chemical and microbiological analyses.
+
+
+2.3.3 Further supplements
+
+The NH_4-N concentration of the fermentation liquor was kept at a certain level to ensure a sufficient supply with nitrogen as an essential nutrient. The set concentration of NH_4-N was 1000 mg L^−1 during start-up (phase 1, described in Section 2.4), and 550 mg L^−1 during further operation. Ammonium carbonate (Carl Roth GmbH & Co. KG, Karlsruhe, Germany) was directly added to the reactors to obtain these NH_4-N concentrations.
+
+To avoid foaming, a silicone anti-foaming emulsion (Carl Roth GmbH & Co. KG, Karlsruhe, Germany) was added to the reactors daily.
+
+
+2.4 Experimental design
+
+The digestion experiment was conducted over a total period of 521 days. It consisted of the four successive phases 1 to 4.
+
+
+2.4.1 Start-up – PHASE 1
+
+Both CSTRs were inoculated with 40 L of digestate taken from a commercial biogas facility located in Schuby (Germany). This plant was chosen because it was considered to possess an adequate microbial community since it served for mono-fermentation of sugar beet silage (targetted performance about 100 GWh per year). After 107 days of operation, an additional inoculation of the CSTRs each with 10 kg cow slurry was conducted. The cow slurry was taken from the “Lehr- und Versuchsanstalt für Tierzucht und Tierhaltung e.V.“ (LVAT) in Groß-Kreutz, Germany. Section 3.1.1 contains further characterization of inoculum and cow slurry.
+
+After the additional inoculation the OLR was kept constant at 1.5 g_VS L^−1 d^−1 with a resulting HRT of about 150 d for the following 34 days.
+
+
+2.4.2 Addition of MFGPs – PHASE 2
+
+After reaching stable performance in phase 1, MFGPs were added to one of the reactors (the MR) in a concentration of 2% (w-MFGPs/w-fermentation liquor).
+
+After four weeks of stable operation, the OLR was increased daily in gentle steps of 0.036 g_VS L^−1 d^−1 until a loading of 4.0 g_VS L^−1 d^−1 was reached (day 101 of phase 2). Then the OLR was kept stable until the end of this phase after 127 days of incubation. The HRT ranged from 44 to 52 d.
+
+The operation of phase 2 was stopped when the biofilm on the surfaces of the MFGPs reached a steady state in terms of attached biomass. At the end of phase 2 the colonized MFGPs showed contents of dry matter (DM) and VS of 302.5 g kg_FM ^−1 and 4.09% DM, respectively.
+
+
+2.4.3 First stress test: Fast increase in the OLR – PHASE 3
+
+After successful formation of biofilms on the surfaces of the MFGPs, a first stress test was started in phase 3.
+
+The initial OLR of 4.0 g_VS L^−1 d^−1 was successively increased in single weekly steps of 0.5 g_VS L^−1 d^−1. After every two weeks (two increasing steps), the OLR was kept stable for the following three weeks. This procedure was repeated until the final OLR of 8.0 g_VS L^−1 d^−1 (HRT approximately 24.5 d) was reached after 126 days of digestion.
+
+
+2.4.4 Second stress test: Systematic reduction of the HRT – PHASE 4
+
+After reaching OLR 8.0 g_VS L^−1 d^−1 in the first stress test (phase 3), a second stress test was performed.
+
+While feeding was kept constant, the HRT was systematically reduced by using diluted feedstock. The feedstock (sugar beet silage) was diluted by adding untreated tap water, the dilution factors (w-feedstock/w-tap water) were set to 2.63 (phase 4–1), 0.57 (phase 4–2) and 0.21 (phase 4–3). The resulting target values for the HRT were 15 d (phase 4–1), 8.5 d (phase 4–2) and 4.5 d (phase 4–3), respectively. The HRT was kept at these values for 41 days (phase 4–1), 56 days (phase 4–2) and 30 days (phase 4–3). Thus, the total duration of this phase was 127 days.
+
+In the end of phase 4–3 the colonized MFGPs showed contents of dry matter (DM) and VS of 170 g kg_FM ^−1 and 36.54% DM, respectively.
+
+
+2.5 Analytical methods
+
+
+2.5.1 Chemical analysis
+
+The performance of the operated CSTRs was monitored by applying the following methods for chemical analyses.
+
+The concentration of NH_4-N was determined by conversion into NH_3, steam distillation and back-titration [25]. The concentration of N_Kjel was determined using the Kjeldahl method [25]. The concentrations of the volatile fatty acids C_2-C_6 (VFAs) and alcohols (methanol, ethanol) were determined by gas chromatographic analysis after extraction with Carrez reagent, using the “VARIAN GC 8300” system with flame ionization detector (Bruker Corporation, Billerica, USA) as described by Herrmann et al. [26]. The concentration of lactic acid was determined by high-performance liquid chromatography, using the ”DIONEX ULTIMATE 3000” system (Thermo Scientific, Sunnyvale, USA) and the detector “SHODEX RI-101” (Showa Denko, Tokio, Japan) as described by Herrmann et al. [26]. Samples of sugar beet silage were analyzed after cold water extraction. The ratio of volatile organic acids to total inorganic carbon (VOA/TIC) was determined by manual titration with 0.05 M sulphuric acid [27]. In contrast to the analyses of individual VFAs, VOA represents a nonspecific lumped parameter which also includes other organic acids e.g. lactic acid. The chemical oxygen demand (COD) was determined by oxidation with potassium dichromate (K_2Cr_2O_7) and titration [28]. The elemental analysis (N, C, S) was conducted by catalytic combustion in an elemental analyzer ”Elementar vario EL III“ (Elementar Analysensysteme GmbH, Hanau, Germany) [25]. The total content of phosphorus (P_total) was determined by spectroscopic analysis after Kjeldahl extraction, using test cuvettes and the spectrophotometer ”Cadas 200” (Hach Lange GmbH, Düsseldorf, Germany). The dry matter content (DM) was determined by gravimetrical analysis after drying at 105 °C until constant weight was reached [25]. The content of volatile solids (VS) was determined by gravimetrical analysis after drying at 550 °C until constant weight was reached [29].
+
+
+2.5.2 Microbiological analysis
+
+The microbial communities inside the CSTRs were monitored by means of the quantitative real-time PCR (q-PCR) method. Therefore, samples of fermentation liquor and MFGPs were taken regularly as described in Section 2.3.2. For the magnetic reactor (MR) the total microbial population was defined as the sum of microorganisms living inside the fermentation liquor and microorganisms living inside biofilms on MFGPs. As the control reactor (CR) did not contain MFGPs, the total microbial population was equal to the number of microorganisms living in its fermentation liquor.
+
+The conduction of the q-PCR method was in accordance to procedures described by Nettmann et al. [30] and Bergmann et al. [31]. To evaluate the stability of the microbial population, the abundance of the domains Archaea and Bacteria was observed by determining the numbers of associated 16S rRNA gene copies using universal Archaea and universal Bacteria primer sets. For the samples of MFGPs a “PowerSoil - DNA Isolation Kit” (MOBIO Laboratories, Inc., Carlsbad, USA) and a “FastPrep 24” (MP-Biomedicals Inc., Santa Ana, USA) were applied for isolation of DNA from attached biofilms; samples of fermentation liquor did not require this additional preparation step before conducting q-PCR analysis.
+
+Every analysis was conducted as triplet. For evaluation of the results the program “7300 Real-Time PCR System Sequence Detection Software, Version 1.3” (Applied Biosystems/Life Technologies Inc., Carlsbad, USA) was used. To ensure sufficient quality of the q-PCR analysis, its parameters were compared to the target values stated by Bergmann et al. [31].
+
+
+3 Results and discussion
+
+
+3.1 Evaluation of the achieved biomethane production
+
+
+3.1.1 Characteristics of sugar beet silage, inoculum and cow slurry
+
+Specific analytical data of sugar beet silage, inoculum and cow slurry are given in Table 2 .
+
+If the OLR of a biogas reactor is defined based on the measured content of VS in the feedstock, it may be underestimated due to losses in volatile compounds during determination of DM by oven drying. This applies especially to feedstock that contains high amounts of volatile acids and alcohols. As the sugar beet silage contained high amounts of lactic acid, acetic acid and alcohols, the VS was related to a corrected content of dry matter (DM_corr) to calculate a correct value of the OLR. DM_corr was defined as the sum of DM and a certain share of the determined concentrations of volatile fatty acids (95%), alcohols (100%) and lactic acid (8%) as recommended by Weissbach and Strubelt [32].
+
+The concentrations of N, P and S determined in the sugar beet silage were too low to ensure an efficient degradation of the substrate. In order to balance the nutrient composition, the silage was enriched as described in Section 2.2.
+
+The inoculum was characterized by a low ratio of VS to fresh mass of 9.6 g kg_FM ^−1. The low VS might be seen as indicator for the low concentration of microorganisms in the fermentation liquor of the reactors that was determined in the beginning of the digestion experiment (described in Section 3.2.2). In contrast, the cow slurry showed a high VS of 28.6 g kg_FM ^−1. For that reason the cow slurry seemed to be well suited for additional inoculation to support the start-up process of the CSTRs.
+
+
+3.1.2 Methanogenic performance
+
+The methanogenic performance is characterized by the methane rate, the methane yield and the methane content of the produced biogas. The observed values of these relevant parameters are presented in Table 3 . The values are averaged over the different phases of the digestion experiment.
+
+It was possible to increase the OLR up to a range of 7.12 to 8.36 g_VS L^−1 d^−1 in both reactors, the methane rates increased in accordance with the OLR up to 2.92 ± 0.20 and 2.90 ± 0.15 L L^−1 d^−1 (MR respectively CR). A strong correlation between feeding strategy and methanogenic performance is known from previous studies. For example, Maehnert and Linke [33] were able to increase the OLR up to 4.5 g_VS L^−1 d^−1 during digestion of fodder beet silage using a mesophilic system similar to the presented study. Further increase in OLR caused strong inhibition. The reactors were fed only once a day compared to the 2 h feeding interval applied here. During the digestion of sugar beets in a setup similar to Maehnert and Linke, Hassan [34] also reached an OLR that was much lower compared to the presented study (Hassan stated a maximum value of 4.0 g_VS L^−1 d^−1 for OLR). In contrast, Scherer et al. [35] achieved a much higher performance with maximum values of 15 g_VS L^−1 d^−1, 6.21 L L^−1 d^−1 and 0.386 L g_VS ^−1 determined for OLR, methane rate and methane yield in mono-digestion of diluted fodder beet silage (including leaves and tops) at a short HRT of 6 days. This performance was realized by an effective but sophisticated and demanding procedure to increase the loading of the operated reactors using fuzzy-logic technology. Permanent feeding was adjusted very sensitive to the pH value measured inside the digestion system. Therefore, the results of the presented study confirm the correlation between feeding strategy and methanogenic performance. The achieved performance ranges between the results of the described strategies and might be seen as an appropriate compromise.
+
+The methane yield of the operated CSTRs was quite stable. After start-up, values between 0.344 and 0.423 L g_VS ^−1 and between 0.334 and 0.423 L g_VS ^−1 were achieved by MR and CR, respectively. The achieved methane yields were comparable to the data given by the German Agency of Renewable Resources (FNR), 0.340 to 0.372 L g_VS ^−1 [36]. The methane yield was marginally influenced by OLR or HRT, even in the CR. This suggests the development of a very stable microbial community inside both reactors. Methane concentrations were found within a narrow range of 52–54%, which corresponds to methane contents usually determined for digestion of sugar beet silage [37].
+
+
+3.1.3 Process stability
+
+The chemical composition of the reactor’s content (fermentation liquor) allows conclusions on process stability. The determined values describing the chemical composition of both reactors’ fermentation liquor are presented in Table 4 . These values are averaged over the different phases of the digestion experiment.
+
+The most important parameters pH, ratio of volatile organic acids to total inorganic carbon (VOA/TIC) and sum of volatile fatty acids (VFA) showed no critical values for both reactors until a sudden breakdown of the CR occurred after reducing the target HRT to 8.5 d in phase 4–2.
+
+While the VS of the fermentation liquor remained comparatively stable during the entire digestion experiment in both reactors (range between 47 and 61% DM), their DM fluctuated much more. In both reactors the DM initially increased continuously during moderate operation at start-up (phase 1) and addition of MFGPs (phase 2) and even during the first period of high stress (fast increase in OLR in phase 3). Beginning with the second stress test (reduction of HRT in phase 4), a strong reduction of the DM was observed. In the MR, the DM was reduced by a factor of approximately 4.9 (from 5.87% in the end of phase 3, to 1.20% in the end of phase 4–3). The CR showed a similar development (reduction of DM from 5.98% in the end of phase 3, to 2.79% at its breakdown in phase 4–2).
+
+The sharp decrease in DM can be attributed to the reduction of HRT. It indicates that organic material was lost, including microorganisms. Most likely, this is the reason for process failure of the CR, because its microbial community mainly consisted of microorganisms living suspended in the fermentation liquor (described in Section 3.2.2).
+
+
+3.2 Biological aspects of the magnetic immobilization technology
+
+
+3.2.1 Effects of the MFGPs on process stability
+
+The reduction of the HRT to the target value 8.5 d during the second stress test (phase 4) led to process failure of the control without MFGPs (CR). Failure of the reactor performance occurred very rapidly and was not possible to predict. It was only indicated by a sudden increase in the VOA/TIC and a slight decrease in the pH.
+
+The courses of the parameters OLR, methane yield, methane rate, pH, VOA/TIC, acetic acid, propionic acid, propanol, ethanol, lactic acid and butyric acid over time are presented in Fig. 1 for the target HRT at 8.5 d.
+
+The failure of the methanogenic performance of the CR (beginning on day 70 of phase 4) was accompanied by a severe change in chemical composition of its fermentation liquor. Two days after first signs of overloading were recognized with regard to methanogenic performance, a strong increase in VOA/TIC from 0.37 to 0.93 (day 72) to 2.2 (day 73) clearly indicated acidification. The VOA/TIC, also referred to as alkalinity ratio, represents a proven parameter for process control in the production of biogas [38]. In comparison to the content of VFAs, its determination is much easier and faster. Therefore the VOA/TIC is often used in practical applications to avoid process failures. Shortly after the increase in VOA/TIC in the CR, its pH decreased very rapidly to 4.04 on day 77. The concentrations of the determined acids and alcohols increased rapidly, obviously following the course of pH.
+
+In contrast to the control, the performance of the reactor containing MFGPs remained stable, not only at the target HRT of 8.5 d, but even during the further reduction in the HRT to approximately 4.7 d in phase 4–3 (Table 4). The methanogenic performance of the MR only fluctuated within a small range. Some small peaks occurred in VOA/TIC, pH and concentration of acetic acid, but the reactor never lost its stability. The low values of HRT achieved with MFGPs are comparable to other technologies equipped with systems for retention of biomass, such as AF or UASB reactors. AF and UASB reactors common in wastewater treatment might be operated at very short HRTs, ranging from several days to below one day [6].
+
+From the obtained results, it can be concluded that the actual advantage of the used MFGPs is the possibility to operate a CSTR at HRTs that are far below the value that is recommended from practical experience: 16 days [6]. The methanogenic performance itself was only marginally influenced by the presence of MFGPs (as described in Section 3.1.2). The microbial population of magnetic reactor and control reactor obviously has been very well adapted to the chosen substrate, the risk of acidification was low if no disturbances of the microbial community were provoked (described in Section 3.2.2). The development of this well adapted microbial community can be attributed to the gentle method applied to increase the loading of the reactors. In addition, the living conditions inside the reactors (pH, temperature, DM, agitation etc.) must have been very well suited for the present microorganisms. Therefore, it was not possible to enhance the well working digestion process itself any more. However, it was possible to retain the well adapted microbial population in the MR through the use of MFGPs, while it was lost by wash-out in the control.
+
+
+3.2.2 Microbial community
+
+The numbers of 16S rRNA gene copies associated with Archaea (ARC) and with Archaea and Bacteria (ARC + BAC) are presented in Fig. 2 .
+
+The total microbial population inside the MR was defined as the sum of microorganisms living suspended in the fermentation liquor and microorganisms living in biofilms on MFGPs. In the control (without MFGPs) the total microbial population corresponded to the population in the fermentation liquor.
+
+The numbers of gene copies were similar for both reactors until process failure of the CR occurred after reducing the target HRT to 8.5 d in phase 4. Beginning on day 70 of phase 4, the total microbial population inside the CR decreased sharply within 7 days, the numbers of gene copies dropped from 58.37 to 0.07 × 10^9 (g FM)^−1 (ARC) and from 1552.36 to 41.51 × 10^9 (g FM)^−1 (ARC + BAC). These remarkable losses of microorganisms are an explanation for the high accumulation of acids observed in the CR since acid consumers were lost. In contrast to the control, the microbial population of the MR and its performance remained stable, even at further reduction of the hydraulic retention time to approximately 4.7 d.
+
+Archaea clearly preferred living in biofilms attached to the MFGPs. At the end of the phases 2, 3 and 4 of the digestion experiment, 29.5, 33.4 and 49.1% of the numbers of 16S rRNA gene copies detected on the MFGPs belonged to Archaea. In contrast, within the fermentation liquor a maximum of 5.1% (MR) and 13.2% (CR) of the gene copy numbers could be allocated to Archaea.
+
+The results of the microbiological analysis demonstrate that the MFGPs were crucial for maintaining a stable microbial population inside the MR. Intense interactions between microbial communities in fermentation liquor and on MFGPs seem probable. Serious decreases in the fermentation liquor’s microbial population caused by short HRTs did not occur when MFGPs were present. Since the fermentation liquor of the control showed heavy losses of microorganisms when HRT was reduced, it seems likely that similar losses at the same operating conditions were compensated in the MR by the detaching of microorganisms living on MFGPs and moving into its fermentation liquor. This is supported by the fact that the presence of MFGPs only seemed to influence the total number of microorganisms (ARC + BAC) in the fermentation liquor, the ratio between ARC and BAC was quite similar in the fermentation liquor of MR and CR and differed strongly from MFGPs as described above. According to that, especially Bacteria must have detached from MFGPs.
+
+
+3.3 Technical aspects of the magnetic immobilization technology
+
+Besides the influence on the reactor performance defined by its microbial community, the usefulness of magnetic carriers in practical application depends on the technical effort that is necessary to recover the carriers from fermentation liquor that leaves the reactor and to obtain a homogenous spatial distribution of the carriers inside the fermentation liquor. In summary, a carrier suitable for biomass retention by magnetic forces has to meet three criteria: formation of stable biofilms, appropriate magnetic properties and homogenous spatial distribution in fermentation liquor. The investigated magnetic foam glass particles (MFGPs) were developed to meet this criteria, the success of the development will be discussed in the following sections.
+
+
+3.3.1 Formation of biofilms
+
+There are a lot of different parameters influencing the formation of biofilms. Besides environmental conditions, e.g. ionic strength, substrate concentration and pH value of the fermentation liquor, and abilities of the microorganisms, e.g. production of specific surface binding proteins or extracellular polymeric substances (EPS), the properties of the colonized surface are crucial for formation and microbial composition of biofilms. According to Li and Logan, surface roughness might be a factor minimizing the thermodynamically calculated free energy of initial adhesion leading to lower repulsive effects [10]. This theory is confirmed by Shellenberger and Logan observing a higher adhesion of microorganisms on the surfaces of silica beads when increasing the surface roughness from 15 to 38 nm [39]. Another important factor is particle porosity. Particles showing higher porosity will contribute larger surface areas leading to higher adherence of microorganisms per particle [18]. Investigating the anaerobic treatment of wastewater, Picanco et al. observed a much better performance of fixed-bed reactors when carrier material with higher porosity was used [12]. The effect was attributed to an increase in porosity from 1.5% and 35% (PVC and refractory brick) to 64% and 92% (special ceramic and polyurethane foam) leading to higher specific surface area. Since microorganisms principally show negative charges on their cell surfaces, a positively charged carrier surface is recommended [40]. A similar effect is attributed to hydrophobicity, a higher initial adhesion of microorganisms will occur at hydrophobic carrier surfaces [41]. The structure and the shape of the carrier are very important, too. Yang et al. observed higher microbial diversities on porous sponge-like structures (polyurethane foam and loofah sponge) in contrast to more uniform fibrous structures (carbon felt and rockwool) at similar porosity of the materials (more than 90%) [13]. This effect resulted in higher performance of fluidized-bed reactors.
+
+The MFGPs studied here showed intense colonization, as described in Section 3.2.2, and were able to carry a high amount of biomass. According to the content of dry matter (DM) and VS of 170 g kg_FM ^−1 and 36.54% DM (or 6.2% FM) determined for colonized MFGPs at the end of phase 4–3, it was possible to recover up to 8.27 g wet biomass and up to 0.58 g VS per g MFGP. The observed attachment of biomass on MFGPs is comparable to the results of Moerstedt who determined a VS content of 4 to 11% FM on magnetite carriers incubated in a CSTR [18]. The preference of methanogenic microorganisms to settle on carrier surfaces has been frequently observed, e.g. by Moerstedt [18], Yang et al. [13] and Zainab et al. [42].
+
+The most important factors for the retention of biomass by means of MFGPs seem to be the surface roughness and the shape of the investigated particles. In preliminary experiments, an up to 8-times higher amount of attached biomass was determined in direct comparison between the first version and the enhanced version of MFGPs (after 12 weeks of incubation in a fed-batch system). The microbial population (ARC + BAC) living in attached biofilms was about 39% higher. As the enhanced version showed lower values of total porosity and BET surface area, these parameters cannot be responsible for the strong enhancement. Additional microscopic analyses revealed a very homogenous and regular spherical shape with smooth surface for the first version of MFGPs. In contrast, the enhanced version has a very irregular rocky shape with rough surface, which was generated by modifying the production process for the enhanced version of MFGPs, obviously offering lots of protected areas suitable for attachment of biomass and microbial settlement. Comparable correlations were arrived at by Yang et al. [13] and Zainab et al. [42] from their results investigating natural materials showing similar porous microstructures but differences in macrostructure.
+
+
+3.3.2 Magnetic recovery
+
+For the magnetic recovery of the MFGPs, the magnetic force acting on the particles must be chosen appropriately. The magnetic force F_M is defined as the product of particle volume V_p, permeability of free space μ_0, magnetic volume susceptibility of the particle and the magnetic field H applied by the magnetic separator and its gradient [43]. A high recovery of MFGPs from the fermentation liquor was possible by means of a simple manual separation procedure. Based on the remaining amount of MFGPs inside the MR in the end of the digestion experiment a recovery rate of 95.7% for every single separation procedure was calculated. This value is much higher than the recovery rate of 76.3% achieved in preliminary investigation [19]. The enhancement compared to the first version of MFGPs can be attributed to the adaption of two factors influencing the magnetic force acting on the particles, particle volume and magnetic volume susceptibility. The particle volume was increased by enlarging the particle diameter (D50) from 159.45 to 867.85 μm. Magnetic volume susceptibility was increased from 5.25 × 10^−3 to 1.71 × 10^−2 by adjusting the content of iron powder. Nevertheless, because MFGPs had to be separated from fermentation liquor several times within the total experimental period of 521 days, the total loss of MFGPs cumulated to 62.3% even for the enhanced version. Accordingly, for practical applications, a high amount of particles will have to be replaced continuously during the operation of the reactor.
+
+The loss of particles might be eliminated best by improvement in the recovery procedure. The recovery procedure applied in the presented study is not suitable for practical use, because it requires high amounts of work and time. However, the development of an automatically operated recovery system seems possible. A prototype manufactured by S + S Separation and Sorting Technology GmbH, Schönberg, Germany, was evaluated in preliminary experiments. It was possible to reach a recovery rate of over 99% when separating MFGPs from liquors showing different viscosities. However, in these experiments artificial liquors consisting of tap water and xanthan gum were used, the evaluation of the separation system in regard to practical use is still pending.
+
+
+3.3.3 Spatial distribution
+
+A homogenous spatial distribution inside the reactor is important to ensure intense contact between microorganisms (living in fermentation liquor and/or on surfaces of carriers) and substrate to reach optimum degradation. Using an agitation system common for CSTRs, the effort to achieve a homogenous spatial distribution inside the reactor is highly influenced by the density of the carrier. Carrier materials having densities higher than the fermentation liquor (density approximately 1000, similar to water), e.g. magnetite and iron oxides (densities ranging between 5200 and 5750 kg m^−3), will increase the amount of effort required to achieve a homogenous spatial distribution. In that case, it is advantageous to use composite materials for carriers. For the MFGPs investigated here, the density was adjustable by varying the content of iron oxide. The chosen density of approximately 2000 kg m^−3 (2050 kg m^−3 for the first version, and 2350 kg m^−3 for the enhanced version of MFGPs) proved to be well suited. A very homogenous spatial distribution of MFGPs was reached inside the MR. Because the density of MFGPs was higher than the density of fermentation liquor, it was possible to separate MFGPs inside the reactor by stopping agitation before removal of digestate. This is an opportunity to reduce the effort needed for magnetic recovery of MFGPs from digestate. The agitation system and its operation were comparable to other experimental CSTRs of the same size, no additional effort was required for use of the MFGPs.
+
+Finally, the risk of clogging that is relevant for other biomass retention techniques and might cause system failure, does not apply to the use of MFGPs.
+
+
+4 Conclusions
+
+Experiments conducted in the present study showed remarkable effects of novel magnetic foam glass particles on the stability of the microbial population inside a completely stirred tank reactor. Losses of microorganisms caused by wash-out, a common problem of completely stirred tank reactor systems, were successfully avoided. This enabled the drastic shortening of the hydraulic retention time from 24.5 to 4.7 d without process inhibition. High enrichment of methanogenic Archaea was achieved in stable biofilms formed on magnetic foam glass particles since up to 49% of the gene copy numbers determined by qPCR analyses could be associated to Archaea.
+
+The demonstrated reduction of the hydraulic retention time equates to a decrease in the volatile solids content of the feedstock from 17.3 to 3.0% of fresh matter and a 5.7-fold increase in the volumetric flow, respectively. The resulting low organic content of the substrate is comparable to other feedstocks with low-solids such as cow slurry, pig slurry or even municipal wastewater. The demonstrated increase in the volumetric flow did not cause any considerable decreases in process performance (methane production rates of up to 2.2 L L^−1 d^−1 were detected at a hydraulic retention time of 4.7 d), therefore, a direct correlation between performance and volumetric flow seems very probable. This conclusion justifies the assumption that it is possible to achieve high methane productivities from low-quality (non-food) feedstock using the completely stirred tank reactor as an inexpensive, simple and reliable technique.
+
+The effective treatment of municipal wastewater without depending on sophisticated systems is another possible application of the magnetic foam glass particles that is of great importance and seems promising based on the achieved results.
+
+The use of magnetic forces for retention of microorganisms is quite innovative. The stated requirements for a successful practical application of this technique for the production of biomethane (formation of stable biofilms, appropriate magnetic properties and homogenous spatial distribution in fermentation liquor) can be considered as fulfilled by the enhanced version of the magnetic foam glass particles. Especially the simplicity of the investigated technology is worth highlighting. It should be easy to amend existing biogas plants using the widely spread completely stirred tank reactor, since neither complex modifications nor the construction of a new plant are required. However, one important aspect of this technology, magnetic separation and recovery of MFGPs from fermentation liquor, still has to be solved for full-scale operation under real-life conditions demanding further investigation.
+
+Because of the promising results and the high social importance of the topic, further evaluation of the magnetic foam glass particles aiming at the practical application is recommended.
+
+
+ Funding
+
+This work derives from a PhD project by Patrice Ramm. He was supported through funding from Clariant Produkte (Deutschland) GmbH. The authors confirm that neither the design nor the experimental work, data analysis and interpretation was influenced by any commercial interest of the funder.
+
+
+ Acknowledgements
+
+The authors would like to thank Oliver Menhorn and Karl Weinberger from Dennert Poraver GmbH for their great and very ambitious support by providing and customizing magnetic foam glass particles that have been subject to the present study.
+
+Special acknowledgements to Jacqueline Götze for her great work in microbiological analysis and to all members of the microbiological lab, the chemical-analytical lab and the workshop of the Leibniz Institute for their very ambitious support.

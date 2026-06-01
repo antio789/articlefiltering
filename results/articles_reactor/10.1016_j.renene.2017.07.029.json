@@ -1,0 +1,85 @@
+{
+  "manual_review": [
+    [
+      "10.1016_j.renene.2017.07.029",
+      "uasb"
+    ]
+  ],
+  "llm_review": [
+    [
+      "10.1016_j.renene.2017.07.029",
+      "batch"
+    ],
+    [
+      "10.1016_j.renene.2017.07.029",
+      "cstr"
+    ],
+    [
+      "10.1016_j.renene.2017.07.029",
+      "plug flow"
+    ],
+    [
+      "10.1016_j.renene.2017.07.029",
+      "anaerobic contact reactor"
+    ],
+    [
+      "10.1016_j.renene.2017.07.029",
+      "uasb"
+    ],
+    [
+      "10.1016_j.renene.2017.07.029",
+      "uasb derivative"
+    ],
+    [
+      "10.1016_j.renene.2017.07.029",
+      "fixed bed"
+    ],
+    [
+      "10.1016_j.renene.2017.07.029",
+      "rotating disc / contactor"
+    ]
+  ],
+  "correct_predictions": 1,
+  "false_predictions": 7,
+  "missed_predictions": 0,
+  "precision": 0.125,
+  "recall": 1.0,
+  "f1_score": 0.2222,
+  "correct_items": [
+    [
+      "10.1016_j.renene.2017.07.029",
+      "uasb"
+    ]
+  ],
+  "false_items": [
+    [
+      "10.1016_j.renene.2017.07.029",
+      "batch"
+    ],
+    [
+      "10.1016_j.renene.2017.07.029",
+      "cstr"
+    ],
+    [
+      "10.1016_j.renene.2017.07.029",
+      "plug flow"
+    ],
+    [
+      "10.1016_j.renene.2017.07.029",
+      "anaerobic contact reactor"
+    ],
+    [
+      "10.1016_j.renene.2017.07.029",
+      "uasb derivative"
+    ],
+    [
+      "10.1016_j.renene.2017.07.029",
+      "fixed bed"
+    ],
+    [
+      "10.1016_j.renene.2017.07.029",
+      "rotating disc / contactor"
+    ]
+  ],
+  "missed_items": []
+}

@@ -1,0 +1,57 @@
+{
+  "manual_review": [
+    [
+      "52",
+      "thermal"
+    ],
+    [
+      "52",
+      "mechanical disintegration"
+    ]
+  ],
+  "llm_review": [
+    [
+      "52",
+      "mechanical disintegration"
+    ],
+    [
+      "52",
+      "thermal"
+    ],
+    [
+      "52",
+      "electric"
+    ],
+    [
+      "52",
+      "solvent"
+    ]
+  ],
+  "correct_predictions": 2,
+  "false_predictions": 2,
+  "missed_predictions": 0,
+  "precision": 0.5,
+  "recall": 1.0,
+  "f1_score": 0.6667,
+  "correct_items": [
+    [
+      "52",
+      "mechanical disintegration"
+    ],
+    [
+      "52",
+      "thermal"
+    ]
+  ],
+  "false_items": [
+    [
+      "52",
+      "electric"
+    ],
+    [
+      "52",
+      "solvent"
+    ]
+  ],
+  "missed_items": []
+}

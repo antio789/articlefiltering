@@ -1,0 +1,422 @@
+<full-text-retrieval-response xmlns="http://www.elsevier.com/xml/svapi/article/dtd" xmlns:bk="http://www.elsevier.com/xml/bk/dtd" xmlns:cals="http://www.elsevier.com/xml/common/cals/dtd" xmlns:ce="http://www.elsevier.com/xml/common/dtd" xmlns:ja="http://www.elsevier.com/xml/ja/dtd" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:sa="http://www.elsevier.com/xml/common/struct-aff/dtd" xmlns:sb="http://www.elsevier.com/xml/common/struct-bib/dtd" xmlns:tb="http://www.elsevier.com/xml/common/table/dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xocs="http://www.elsevier.com/xml/xocs/dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><coredata><prism:url>https://api.elsevier.com/content/article/pii/096195349290016J</prism:url><dc:identifier>doi:10.1016/0961-9534(92)90016-J</dc:identifier><eid>1-s2.0-096195349290016J</eid><prism:doi>10.1016/0961-9534(92)90016-J</prism:doi><pii>0961-9534(92)90016-J</pii><dc:title>The effect of hydraulic retention time on the hybrid anaerobic baffled reactor performance at constant loading </dc:title><prism:publicationName>Biomass and Bioenergy</prism:publicationName><prism:aggregationType>Journal</prism:aggregationType><pubType>fla</pubType><prism:issn>09619534</prism:issn><prism:volume>3</prism:volume><prism:issueIdentifier>1</prism:issueIdentifier><prism:startingPage>25</prism:startingPage><prism:endingPage>29</prism:endingPage><prism:pageRange>25-29</prism:pageRange><prism:number>1</prism:number><dc:format>text/xml</dc:format><prism:coverDate>1992-12-31</prism:coverDate><prism:coverDisplayDate>1992</prism:coverDisplayDate><prism:copyright>Copyright © 1992 Published by Elsevier Ltd.</prism:copyright><prism:publisher>Published by Elsevier Ltd.</prism:publisher><dc:creator>Xing, J.</dc:creator><dc:creator>Tilche, A.</dc:creator><dc:description>
+                  An experimental study was undertaken to determine the effect of hydraulic retention time (HRT) on a 1501 hybrid anaerobic baffled reactor (HABR) at constant organic loading 10 kg m−3 d−1. When the HRT was gradually changed from 1 day to 6 days, i.e. the feed concentration changed from 10 g 1−1 to 60 g 1−1 the COD reduction dropped from 75% to about 40%, the gas production rate decreased from 5.2 m3 m3 d−1 to 3.4 m3 m3 d−1, and the effluent volatile fatty acids (VFA) concentration increased from 430 mg 1−1 to about 16,000 mg l−1 Thus methanogenic inhibition occurred at longer HRTs. The experimental results strongly suggested that the HRT is a significant factor for HABR performance.
+               </dc:description><openaccess>0</openaccess><openaccessArticle>false</openaccessArticle><openaccessType/><openArchiveArticle>false</openArchiveArticle><openaccessSponsorName/><openaccessSponsorType/><openaccessUserLicense/><dcterms:subject>Hydraulic retention time</dcterms:subject><dcterms:subject>anaerobic baffled reactor</dcterms:subject><dcterms:subject>anaerobic digestion</dcterms:subject><dcterms:subject>molasses waste treatment</dcterms:subject><dcterms:subject>constant organic loading</dcterms:subject><dcterms:subject>HABR</dcterms:subject><dcterms:subject>HRT</dcterms:subject><link href="https://api.elsevier.com/content/article/pii/096195349290016J" rel="self"/><link href="https://www.sciencedirect.com/science/article/pii/096195349290016J" rel="scidir"/></coredata><scopus-id>0342499211</scopus-id><scopus-eid>2-s2.0-0342499211</scopus-eid><link href="https://api.elsevier.com/content/abstract/scopus_id/0342499211" rel="abstract"/><originalText><xocs:doc xsi:schemaLocation="http://www.elsevier.com/xml/xocs/dtd http://null/schema/dtds/document/fulltext/xcr/xocs-article.xsd"><xocs:meta xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <xocs:content-family>serial</xocs:content-family>
+      <xocs:content-type>JL</xocs:content-type>
+      <xocs:cid>271477</xocs:cid>
+      <xocs:ssids>
+         <xocs:ssid type="alllist">291210</xocs:ssid>
+         <xocs:ssid type="subj">291731</xocs:ssid>
+         <xocs:ssid type="subj">291744</xocs:ssid>
+         <xocs:ssid type="subj">291768</xocs:ssid>
+         <xocs:ssid type="subj">291838</xocs:ssid>
+         <xocs:ssid type="content">31</xocs:ssid>
+      </xocs:ssids>
+      <xocs:srctitle>Biomass and Bioenergy</xocs:srctitle>
+      <xocs:normalized-srctitle>BIOMASSBIOENERGY</xocs:normalized-srctitle>
+      <xocs:orig-load-date yyyymmdd="20030821">2003-08-21</xocs:orig-load-date>
+      <xocs:available-online-date yyyymmdd="20030821">2003-08-21</xocs:available-online-date>
+      <xocs:ew-transaction-id>2010-10-02T14:06:03</xocs:ew-transaction-id>
+      <xocs:eid>1-s2.0-096195349290016J</xocs:eid>
+      <xocs:pii-formatted>0961-9534(92)90016-J</xocs:pii-formatted>
+      <xocs:pii-unformatted>096195349290016J</xocs:pii-unformatted>
+      <xocs:doi>10.1016/0961-9534(92)90016-J</xocs:doi>
+      <xocs:item-stage>S350</xocs:item-stage>
+      <xocs:item-version-number>S350.1</xocs:item-version-number>
+      <xocs:item-weight>HEAD-AND-TAIL</xocs:item-weight>
+      <xocs:hub-eid>1-s2.0-S0961953400X01122</xocs:hub-eid>
+      <xocs:timestamp yyyymmdd="20240102">2024-01-02T06:27:44.6442Z</xocs:timestamp>
+      <xocs:dco>0</xocs:dco>
+      <xocs:tomb>0</xocs:tomb>
+      <xocs:date-search-begin>19920101</xocs:date-search-begin>
+      <xocs:date-search-end>19921231</xocs:date-search-end>
+      <xocs:year-nav>1992</xocs:year-nav>
+      <xocs:indexeddate epoch="1061424000">2003-08-21T00:00:00Z</xocs:indexeddate>
+      <xocs:articleinfo>rawtext articleinfo crossmark dco dateupdated tomb dateloaded datesearch indexeddate issuelist volumelist yearnav articletitlenorm authfirstinitialnorm authfirstsurnamenorm cid cids contenttype copyright dateloadedtxt docsubtype doctype doi eid ewtransactionid hubeid issfirst issn issnnorm itemstage itemtransactionid itemweight openaccess openarchive pg pgfirst pglast pii piinorm pubdateend pubdatestart pubdatetxt pubyr sortorder srctitle srctitlenorm srctype volfirst volissue webpdf webpdfpagecount affil articletitle auth authfirstini authfull authkeywords authlast primabst ref alllist content subj ssids</xocs:articleinfo>
+      <xocs:issns>
+         <xocs:issn-primary-formatted>0961-9534</xocs:issn-primary-formatted>
+         <xocs:issn-primary-unformatted>09619534</xocs:issn-primary-unformatted>
+      </xocs:issns>
+      <xocs:crossmark is-crossmark="0"/>
+      <xocs:vol-first>3</xocs:vol-first>
+      <xocs:volume-list>
+         <xocs:volume>3</xocs:volume>
+      </xocs:volume-list>
+      <xocs:iss-first>1</xocs:iss-first>
+      <xocs:issue-list>
+         <xocs:issue>1</xocs:issue>
+      </xocs:issue-list>
+      <xocs:vol-iss-suppl-text>Volume 3, Issue 1</xocs:vol-iss-suppl-text>
+      <xocs:sort-order>4</xocs:sort-order>
+      <xocs:first-fp>25</xocs:first-fp>
+      <xocs:last-lp>29</xocs:last-lp>
+      <xocs:pages>
+         <xocs:first-page>25</xocs:first-page>
+         <xocs:last-page>29</xocs:last-page>
+      </xocs:pages>
+      <xocs:cover-date-orig>
+         <xocs:start-date>1992</xocs:start-date>
+      </xocs:cover-date-orig>
+      <xocs:cover-date-text>1992</xocs:cover-date-text>
+      <xocs:cover-date-start>1992-01-01</xocs:cover-date-start>
+      <xocs:cover-date-end>1992-12-31</xocs:cover-date-end>
+      <xocs:cover-date-year>1992</xocs:cover-date-year>
+      <xocs:document-type>converted-article</xocs:document-type>
+      <xocs:document-subtype>fla</xocs:document-subtype>
+      <xocs:copyright-line>Copyright © 1992 Published by Elsevier Ltd.</xocs:copyright-line>
+      <xocs:normalized-article-title>EFFECTHYDRAULICRETENTIONTIMEHYBRIDANAEROBICBAFFLEDREACTORPERFORMANCECONSTANTLOADING</xocs:normalized-article-title>
+      <xocs:normalized-first-auth-surname>XING</xocs:normalized-first-auth-surname>
+      <xocs:normalized-first-auth-initial>J</xocs:normalized-first-auth-initial>
+      <xocs:references>
+         <xocs:ref-info refid="BIB1">
+            <xocs:ref-normalized-surname>DENAC</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>159</xocs:ref-first-fp>
+            <xocs:ref-last-lp>173</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB2">
+            <xocs:ref-normalized-surname>YAN</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1988</xocs:ref-pub-year>
+            <xocs:ref-first-fp>185</xocs:ref-first-fp>
+            <xocs:ref-last-lp>202</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>J</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB3">
+            <xocs:ref-normalized-surname>APHA</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1985</xocs:ref-pub-year>
+            <xocs:ref-normalized-article-title>STANDARDMETHODSFOREXAMINATIONWATERWASTEWATER</xocs:ref-normalized-article-title>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB4">
+            <xocs:ref-normalized-surname>BOOPATHY</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1991</xocs:ref-pub-year>
+            <xocs:ref-first-fp>785</xocs:ref-first-fp>
+            <xocs:ref-last-lp>790</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>R</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB5">
+            <xocs:ref-normalized-surname>HENZE</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1983</xocs:ref-pub-year>
+            <xocs:ref-first-fp>1</xocs:ref-first-fp>
+            <xocs:ref-last-lp>101</xocs:ref-last-lp>
+            <xocs:ref-normalized-initial>M</xocs:ref-normalized-initial>
+         </xocs:ref-info>
+         <xocs:ref-info refid="BIB6">
+            <xocs:ref-normalized-surname>BENEFIELD</xocs:ref-normalized-surname>
+            <xocs:ref-pub-year>1980</xocs:ref-pub-year>
+            <xocs:ref-normalized-initial>L</xocs:ref-normalized-initial>
+            <xocs:ref-normalized-srctitle>BIOLOGICALPROCESSDESIGNFORWASTEWATERTREATMENT</xocs:ref-normalized-srctitle>
+         </xocs:ref-info>
+      </xocs:references>
+      <xocs:refkeys>
+         <xocs:refkey3>XINGX1992X25</xocs:refkey3>
+         <xocs:refkey4lp>XINGX1992X25X29</xocs:refkey4lp>
+         <xocs:refkey4ai>XINGX1992X25XJ</xocs:refkey4ai>
+         <xocs:refkey5>XINGX1992X25X29XJ</xocs:refkey5>
+      </xocs:refkeys>
+      <xocs:open-access>
+         <xocs:oa-article-status is-open-access="0" is-open-archive="0"/>
+      </xocs:open-access>
+      <xocs:attachment-metadata-doc>
+         <xocs:attachment-set-type>item</xocs:attachment-set-type>
+         <xocs:pii-formatted>0961-9534(92)90016-J</xocs:pii-formatted>
+         <xocs:pii-unformatted>096195349290016J</xocs:pii-unformatted>
+         <xocs:eid>1-s2.0-096195349290016J</xocs:eid>
+         <xocs:doi>10.1016/0961-9534(92)90016-J</xocs:doi>
+         <xocs:cid>271477</xocs:cid>
+         <xocs:timestamp>2024-01-02T06:27:44.6442Z</xocs:timestamp>
+         <xocs:cover-date-start>1992-01-01</xocs:cover-date-start>
+         <xocs:cover-date-end>1992-12-31</xocs:cover-date-end>
+         <xocs:attachments>
+            <xocs:web-pdf>
+               <xocs:attachment-eid>1-s2.0-096195349290016J-main.pdf</xocs:attachment-eid>
+               <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:096195349290016J/MAIN/application/pdf/f38bd755f2b5b8ae8dc0f08f40bb4818/main.pdf</xocs:ucs-locator>
+               <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:096195349290016J/MAIN/application/pdf/f38bd755f2b5b8ae8dc0f08f40bb4818/main.pdf</xocs:ucs-locator>
+               <xocs:filename>main.pdf</xocs:filename>
+               <xocs:extension>pdf</xocs:extension>
+               <xocs:pdf-optimized>true</xocs:pdf-optimized>
+               <xocs:filesize>391947</xocs:filesize>
+               <xocs:web-pdf-purpose>MAIN</xocs:web-pdf-purpose>
+               <xocs:web-pdf-page-count>5</xocs:web-pdf-page-count>
+               <xocs:web-pdf-images>
+                  <xocs:web-pdf-image>
+                     <xocs:attachment-eid>1-s2.0-096195349290016J-main_1.png</xocs:attachment-eid>
+                     <xocs:ucs-locator>https://s3.amazonaws.com/prod-ucs-content-store-us-east/content/pii:096195349290016J/PREVIEW/image/png/295b3c2939b28de3cfe56bbdf2909c46/main_1.png</xocs:ucs-locator>
+                     <xocs:ucs-locator>https://s3-eu-west-1.amazonaws.com/prod-ucs-content-store-eu-west/content/pii:096195349290016J/PREVIEW/image/png/295b3c2939b28de3cfe56bbdf2909c46/main_1.png</xocs:ucs-locator>
+                     <xocs:filename>main_1.png</xocs:filename>
+                     <xocs:extension>png</xocs:extension>
+                     <xocs:filesize>71150</xocs:filesize>
+                     <xocs:pixel-height>849</xocs:pixel-height>
+                     <xocs:pixel-width>656</xocs:pixel-width>
+                     <xocs:attachment-type>IMAGE-WEB-PDF</xocs:attachment-type>
+                     <xocs:pdf-page-num>1</xocs:pdf-page-num>
+                  </xocs:web-pdf-image>
+               </xocs:web-pdf-images>
+            </xocs:web-pdf>
+         </xocs:attachments>
+      </xocs:attachment-metadata-doc>
+   </xocs:meta><xocs:rawtext xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">Mom= and Bioenergy Vol. 3, No. 1, pp. 25-29, 1992 Printed in Great Britain. All rights reserved     0961-9534/92 .00 + 0.00  Q 1992 Pergamon Press Ltd    THE EFFECT OF HYDRAULIC RETENTION TIME ON  THE HYBRID ANAEROBIC BAFFLED REACTOR  PERFORMANCE AT CONSTANT LOADING    J. XING* and A. TILCHE f    *Environmental Engineering Department, Michigan State University, E. Lansing, MI 48824, U.S.A.  tltalian Commission for Nuclear and Alternate Energy Sources, ENEA, CORELAB,  DIM2, Via G. Mazzini 2, 40138 Bologna, Italy    (Received 15 January 1992, accepted 3 March 1992)    Abstract-An experimental study was undertaken to determine the effect of hydraulic retention time (HRT) on a 1501 hybrid anaerobic baffled reactor (HABR) at constant organic loading 10 kg m-' d-'. When the HRT was gradually changed from 1 day to 6 days, i.e. the feed concentration changed from 10 g 1-' to 60 g 1-', the COD reduction dropped from 75% to about 40%, the gas production rate decreased from 5.2 m' m-' d-' to 3.4 m' m-3 d-', and the efuent volatile fatty acids (VFA) concentration increased from 430 mg 1-' to about 16,000 mg 1-'. Thus methanogenic inhibition occurred at longer HRTs. The experimental results strongly suggested that the HRT is a significant factor for HABR performance.    Keywords-Hydraulic retention time, anaerobic baffled reactor, anaerobic digestion, molasses waste treatment, constant organic loading, HABR, HRT.    1. INTRODUCTION    Compared with organic loading, fermentation temperature, nutrient requirements and other potential physical and chemical fermentation inhibitors, hydraulic retention time, as a design and operation factor, is not as well elucidated in anaerobic digestion. However, recent publications have suggested that HRT could be important for upgrading anaerobic digester capability.   Denac and Dunn' compared the anaerobic degradation performance of a lab-scale packed bed reactor (PBR) with two lab-scale fluidizedbed biofilm reactors (FBRs) treating molasses and whey feeds. In this study they found that at a constant loading 10 g 1-' d-' for both PBR and FBR, the COD reduction rates increased with HRT. For instance, when the HRT increased from 3 to 24 hr, the PBR COD reduction rate increased from 76% to about 90%, and the gas production rate increased from 5.51 d-' to 7.51 d-'. A similar result can be observed in research performed by Yan et al.,' in which a lab-scale UASB reactor was used for cheese whey wastes anaerobic digestion. The data presented in their report suggested that, for the same organic loading rate, the gas production was higher at longer HRT. For example, in their study when the HRT increased    from 5 days to about 24 days at an organic loading 2 g 1-' d-', the gas production rate increased from 0.6781 g-' d-' to 1.0521 g-' d-'.   In our recent research project, a 1501 working volume HABR was used for sugar plant molasses waste digestion. In this project, at a constant organic loading of 10 kg m-' d-', seven different HRTs were employed. The main purposes of this study are (1) to provide experimental evidence for the effect of HRT on HABR performance under constant organic loading, and (2) to obtain a better understanding of HABR hydraulic and kinetic characteristics.    2. MATERIALS AND METHODS    2.1. Apparatus     The experiment Plexiglass HABR consisted of three chambers and a final settler (see Fig. 1). The working volume of each chamber was 501 and the total volume of this reactor including the settling tank was 1651. The first two chambers each had a 10 cm layer of plastic media (Pull rings D 38 mm, specific surface area 142 m2 m-3 and the void space 94%) near the liquid surface. In the third chamber the upper half was filled with a modular corrugated block (Eco Trick 200m' m-3, 98.5% void space).    25  26    Fig. 1. Schematic of    The biogas produced in each chamber was separately exhausted and measured.    2.2. Feed substrate     The waste used for this study was diluted raw molasses obtained from Distercoop, Faunza, Italy. The main characteristics are given in Table I. The waste was rich in protein but lacking in phosphorus. The molasses was concentrated in their factory for use as a fuel and therefore the COD concentration was very high. Diammonium hydrogen phosphate was added as nutrient according to the C : P ratio 100:0.5. No tracer metals were used in this study.   Raw molasses was stored in a 2001 thermostatic tank at 4. Peristaltic pumps were used for continuous feeding. The flow rate was measured using an automatic flow counter connected with a microcomputer. Before feeding, the raw molasses was diluted and preheated to 37 in the mixing tank. Reactor temperature    Table 1. Characteristics of molasses    Parameter    pH  TS  VS  TSS  VSS  VA  Alkalinity (as CaC03)  Total organic N (as N)  Sol. COD  Fluoride  Chloride  PO,  S04     All values except pH expressed in mg 1-'.    Molasses  alcohol     6.69 133,000 72,660 32,720 15,160 44,760 32,900     56 115,771    597    1191 175    1042    Raw  concentrated  molasses     6.95 805,000 552,000 352,580 76,020 39,800 75,600 39,700 990,000    J. XtNG and A. Tttctg    Gas outlet    tt    experiment HABR.    was kept at 37 by an electric heater inside the thermostatic hood.    2.3. Analysis instruments and methods     COD, pH, VFA, total alkalinity, gas production and composition were analyzed daily. The reactor profile was studied at the end of each test period by taking samples from each sampling point shown in Fig. 1. All the analyses were carried out according to standard methods.3   Gas production was measured for each chamber with three individual Elster Handel G.00 wet test gas meters. Methane, carbon dioxide and hydrogen sulphide in the gas were determined using a Leybold Heraeus Binos ) Infra red gas analyzer. Hydrogen in the gas was analyzed with a GCI Hydrogen Exhaled Monitor after having removed the hydrogen sulphide by passing the gas through 1.5 M zinc acetate solution.    80    80    s 40    t    0 20  O  v    0    0 1 2 3 4 5    8 7    HRT(deye)    Fig. 2. COD removal efficiency as a function of HRT.  Effect of HRT on HABR performance    1000    900    800-    700    oW    v    400    c    200    100    --a-- gpas    T    0 1 2 3 4     HRT(days)    Fig. 3, Gas production as a function of HRT.    2.4. Experiment design     At a constant organic loading 10 kg m-' d-', seven different HRT levels were employed in this study. The first test had a 1 day HRT, then it was gradually increased to 6 days. The organic loading was kept unchanged. At each HRT the experimental data were intensively collected during steady state condition. To minimize potential interferences, tap water was fed to the reactor for a while to drive out residue acids before each new test level began. The HABR was continuously fed with diluted molasses    25000    20000    e t5000     i    0    Chamber 1    Chamber 2    -r- Chamber 3    -o- VFA in    Test HRT  level (days)    I 1  2 1.5  3 2.4    2 3 4 5 6 7 4 3        5 4    6 5    7 6    0  1    HRT(days)    Fig. 4. VFA concentration as a function of HRT.    27    a    6 7    for 8 months prior to this study,' therefore no start-up period was necessary for this test. The experimental conditions are summarized in Table 2.    3. RESULTS AND DISCUSSION     The effects of increasing HRT on COD reduction and total gas and methane production are presented in Figs 2 and 3 respectively. Based on these results, at constant organic loading, the performance of the HABR was directly linked with operation HRT-in this case both COD reduction and total gas production decreased with the increasing HRT.   Figure 4 shows the VFA concentrations in each chamber as a function of HRT. The increasing VFA content suggests VFA accumulated    Table 2. Summary of test conditions    Flow Feeding  rate conc. Loading  (1 d-') (g 1`) (kg m-' d-')    (0 to  15 10  24 10  30 10  40 10  50 l0  60 10    150 100 62.5 50 37.5 30 25  28    to    3.0    2.5  x    0  2.0    d 1.5  E  n   t.0  0.5    0.0    0 1 2 3 4 5 6 7    HRT (days)    Fig. 5. Gas composition    inside the reactor at longer HRTs. From this figure, it can be seen that at an HRT of 3.3 days, the first chamber effluent VFA concentration began to surpass the influent VFA concentration and at an HRT of 4.7 days the same phenomenon happened in the third chamber. The biogas composition as a function of HRT is shown in Fig. 5. Agreed with the VFA data, the gas composition changed significantly with HRT. For example, when the HRT increased from 1 day to 6 days, the content of CH, in the total biogas dropped from 73% to about 56%, while the content of COZ increased from 25.4% to 42%.   In Fig. 6, a profile of VFA concentrations at five different HRT levels is given. The highest VFA concentrations occurred in the bottom of the first chamber where the feed molasses was injected into the HABR. As shown in Fig. ), the HABR can be considered as several UASB reactors connected in series by means of baffles.    40000    J. XING and A. TILCHE    100 1    60 -    40    81    0    0    s    E    0 1    as a function of HRT.    2 3 4 5 6 7    HRT(days)    For this reason, the actual loading for each individual chamber, especially for the first one, differs from the superficial loading calculated upon the total HABR working volume. In this experiment the actual organic loading of the first chamber was 30 kg m-3 d-'. Undoubtedly, under this condition, the dynamic balance between acid and methane producers was weak and sensitive. As Henze' pointed out, when an anaerobic digester is operated at its maximum load any sudden increase in easily degradable organics will result in an increased acid production and accumulation thereby inhibiting the methanogenesis. As shown in Fig. 5, with the first chamber VFA accumulation, a corresponding increase in the second and third chambers' effluent VFA concentrations occurred.   In the study performed by Denac and Dunn, two 1.81 lab-scale packed-bed reactors (PBR) and a 21 fluidized-bed biofilm reactor (FBR), all well mixed with high recirculating flows,    35000    30000    25000    20000    10000    0    int 1b 1 m t t2b 2m 2t 3b 3m 3t    Sampling point    Fig. 6. Profile of VFA at different HRT levels.    HRT 1.5 d HRT 3 d HRT 4 d HRTSd HRT6d  Effect of HRT on HABR performance    were used to treat molasses and whey wastes. The data available for HRT-efficiency analysis were obtained at a constant organic loading 10 g 1-' d-'. The other research project quoted in this paper was undertaken by Yan et al.,' where a 17.51 working volume lab-scale UASB reactor was used to treat cheese whey waste. The experimental data presented in their report were obtained from an organic loading range of 1 to 4 g 1-' d-'. Obviously, in these experiments the digesters were operated at relatively low organic loadings; in this condition increasing HRT tends to increase the reaction driving force,' thus increasing the COD reduction and biogas production rates.    4. CONCLUSIONS    4.    5.    The experimental results presented here   fi    suggest that hydraulic retention time is signifi-    cant for optimizing performance of HABR as    29    well as other anaerobic digesters. The effect is positive or negative depending on the organic loading rate.    Acknowledgements-This research work was supported by ENEA, Roma, and the International Center for Theoretical Physics (ICTP), Trieste, Italy.    REFERENCES    1. M. Denac and I. J. Dunn, Packed- and fluidized-bed biofilm reactor performance for anaerobic wastewater treatment. Biotechnol. Bioeng. 32, 159-173 (1988).  2. J. Q. Yan et al., Methane-production from cheese whey.   Biomass 17, 185-202 (1988).    3. APHA, Standard Methods for the Examination of Water and Wastewater, 16th ed. APHA, New York (l9).    R. Boopathy and A. Tilche, Performance of the hybrid anaerobic baffled reactor treating molasses waste. Wat. Res. 25, (7), 785-790 (1991).    M. Henze and P. Harremoes, Anaerobic treatment of wastewater in fixed film reactors-a literature review. Wat. Sci. Tech. 15, I-101 (1983).    L. D. Benefield and C. W. Randall, Biological Process Design for Wastewater Treatment. Prentice-Hall, Inc. ( l9).                                             </xocs:rawtext><xocs:serial-item xmlns:xoe="http://www.elsevier.com/xml/xoe/dtd">
+      <converted-article xmlns="http://www.elsevier.com/xml/ja/dtd" version="4.5.2" docsubtype="fla" xml:lang="en">
+         <item-info>
+            <jid>JBB</jid>
+            <aid>9290016J</aid>
+            <ce:pii>0961-9534(92)90016-J</ce:pii>
+            <ce:doi>10.1016/0961-9534(92)90016-J</ce:doi>
+            <ce:copyright type="unknown" year="1992"/>
+         </item-info>
+         <head>
+            <ce:title>The effect of hydraulic retention time on the hybrid anaerobic baffled reactor performance at constant loading</ce:title>
+            <ce:author-group>
+               <ce:author>
+                  <ce:given-name>J.</ce:given-name>
+                  <ce:surname>Xing</ce:surname>
+                  <ce:cross-ref refid="AFF1">
+                     <ce:sup loc="post">∗</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:author>
+                  <ce:given-name>A.</ce:given-name>
+                  <ce:surname>Tilche</ce:surname>
+                  <ce:cross-ref refid="AFF2">
+                     <ce:sup loc="post">†</ce:sup>
+                  </ce:cross-ref>
+               </ce:author>
+               <ce:affiliation id="AFF1">
+                  <ce:label>∗</ce:label>
+                  <ce:textfn>Environmental Engineering Department, Michigan State University, E. Lansing, MI 48824, U.S.A.</ce:textfn>
+               </ce:affiliation>
+               <ce:affiliation id="AFF2">
+                  <ce:label>†</ce:label>
+                  <ce:textfn>Italian Commission for Nuclear and Alternate Energy Sources, ENEA, CORELAB, DIM2, Via G. Mazzini 2, 40138 Bologna, Italy</ce:textfn>
+               </ce:affiliation>
+            </ce:author-group>
+            <ce:date-received day="15" month="1" year="1992"/>
+            <ce:date-accepted day="3" month="3" year="1992"/>
+            <ce:abstract class="author"><ce:abstract-sec>
+                  <ce:simple-para view="all">An experimental study was undertaken to determine the effect of hydraulic retention time (HRT) on a 1501 hybrid anaerobic baffled reactor (HABR) at constant organic loading 10 kg m<ce:sup loc="post">−3</ce:sup> d<ce:sup loc="post">−1</ce:sup>. When the HRT was gradually changed from 1 day to 6 days, i.e. the feed concentration changed from 10 g 1<ce:sup loc="post">−1</ce:sup> to 60 g 1<ce:sup loc="post">−1</ce:sup> the COD reduction dropped from 75% to about 40%, the gas production rate decreased from 5.2 m<ce:sup loc="post">3</ce:sup> m<ce:sup loc="post">3</ce:sup> d<ce:sup loc="post">−1</ce:sup> to 3.4 m<ce:sup loc="post">3</ce:sup> m<ce:sup loc="post">3</ce:sup> d<ce:sup loc="post">−1</ce:sup>, and the effluent volatile fatty acids (VFA) concentration increased from 430 mg 1<ce:sup loc="post">−1</ce:sup> to about 16,000 mg l<ce:sup loc="post">−1</ce:sup> Thus methanogenic inhibition occurred at longer HRTs. The experimental results strongly suggested that the HRT is a significant factor for HABR performance.</ce:simple-para>
+               </ce:abstract-sec></ce:abstract>
+            <ce:keywords class="keyword">
+               <ce:section-title>Keywords</ce:section-title>
+               <ce:keyword>
+                  <ce:text>Hydraulic retention time</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>anaerobic baffled reactor</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>anaerobic digestion</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>molasses waste treatment</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>constant organic loading</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>HABR</ce:text>
+               </ce:keyword>
+               <ce:keyword>
+                  <ce:text>HRT</ce:text>
+               </ce:keyword>
+            </ce:keywords>
+         </head>
+         <tail>
+            <ce:bibliography view="all">
+               <ce:section-title>References</ce:section-title>
+               <ce:bibliography-sec>
+                  <ce:bib-reference id="BIB1">
+                     <ce:label>1.</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Denac</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>I.J.</ce:given-name>
+                                 <ce:surname>Dunn</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Packed- and fluidized-bed biofilm reactor performance for anaerobic wastewater treatment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biotechnol. Bioeng.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>32</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>159</sb:first-page>
+                              <sb:last-page>173</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB2">
+                     <ce:label>2.</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>J.Q.</ce:given-name>
+                                 <ce:surname>Yan</ce:surname>
+                              </sb:author>
+                              <sb:et-al/>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Methane-production from cheese whey</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Biomass</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>17</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1988</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>185</sb:first-page>
+                              <sb:last-page>202</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB3">
+                     <ce:label>3.</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:surname>APHA</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Standard Methods for the Examination of Water and Wastewater</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:edited-book>
+                              <sb:edition>16th ed.</sb:edition>
+                              <sb:date>1985</sb:date>
+                              <sb:publisher>
+                                 <sb:name>APHA</sb:name>
+                                 <sb:location>New York</sb:location>
+                              </sb:publisher>
+                           </sb:edited-book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB4">
+                     <ce:label>4.</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>R.</ce:given-name>
+                                 <ce:surname>Boopathy</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>A.</ce:given-name>
+                                 <ce:surname>Tilche</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Performance of the hybrid anaerobic baffled reactor treating molasses waste</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Wat. Res.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>25</sb:volume-nr>
+                              </sb:series>
+                              <sb:issue-nr>7</sb:issue-nr>
+                              <sb:date>1991</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>785</sb:first-page>
+                              <sb:last-page>790</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB5">
+                     <ce:label>5.</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>M.</ce:given-name>
+                                 <ce:surname>Henze</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>P.</ce:given-name>
+                                 <ce:surname>Harremoes</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Anaerobic treatment of wastewater in fixed film reactors—a literature review</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:issue>
+                              <sb:series>
+                                 <sb:title>
+                                    <sb:maintitle>Wat. Sci. Tech.</sb:maintitle>
+                                 </sb:title>
+                                 <sb:volume-nr>15</sb:volume-nr>
+                              </sb:series>
+                              <sb:date>1983</sb:date>
+                           </sb:issue>
+                           <sb:pages>
+                              <sb:first-page>1</sb:first-page>
+                              <sb:last-page>101</sb:last-page>
+                           </sb:pages>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+                  <ce:bib-reference id="BIB6">
+                     <ce:label>6.</ce:label>
+                     <sb:reference>
+                        <sb:contribution langtype="en">
+                           <sb:authors>
+                              <sb:author>
+                                 <ce:given-name>L.D.</ce:given-name>
+                                 <ce:surname>Benefield</ce:surname>
+                              </sb:author>
+                              <sb:author>
+                                 <ce:given-name>C.W.</ce:given-name>
+                                 <ce:surname>Randall</ce:surname>
+                              </sb:author>
+                           </sb:authors>
+                           <sb:title>
+                              <sb:maintitle>Biological Process Design for Wastewater Treatment</sb:maintitle>
+                           </sb:title>
+                        </sb:contribution>
+                        <sb:host>
+                           <sb:book>
+                              <sb:date>1980</sb:date>
+                              <sb:publisher>
+                                 <sb:name>Prentice-Hall, Inc</sb:name>
+                              </sb:publisher>
+                           </sb:book>
+                        </sb:host>
+                     </sb:reference>
+                  </ce:bib-reference>
+               </ce:bibliography-sec>
+            </ce:bibliography>
+         </tail>
+      </converted-article>
+   </xocs:serial-item></xocs:doc></originalText></full-text-retrieval-response>

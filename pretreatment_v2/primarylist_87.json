@@ -1,0 +1,20 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Sodium hydroxide (NaOH) pretreatment - Pinewood was presoaked in 8% wt. sodium hydroxide solution (95 g) at room temperature for 10 min with stirring. The mixture was then heated to 100\u00b0C using an oil bath and held at this temperature for 10 min. After completion of the pretreatment, the reactor was cooled down in an ice bath, and the mixture was centrifuged at 4500 rpm for 15 min to separate the solids from the liquid phase. The liquid portion was discarded and the pretreated solids were washed repeatedly with room temperature distilled water until the pH of the supernatant was close to neutral. Finally, the washed pretreated solids were frozen in liquid nitrogen, freeze-dried (Christ ALPHA 1-2 LD plus, Germany) for 48 h, and stored in plastic bags at 4\u00b0C."
+    },
+    {
+      "id": 1,
+      "description": "Liquid hot water (LHW) pretreatment - All the steps of alkaline pretreatment (section 2.2.1) were followed using distilled water instead of an alkaline solution. The pretreatment conditions were based on the work by Safari et al. [29]."
+    },
+    {
+      "id": 2,
+      "description": "Biological pretreatment - Biological pretreatment was performed at 37\u00b0C and 90 rpm in a shaker incubator (JAL TAJHIZ, Iran). For this, 20 mL aerobic sludge, 5 mL tap water, and untreated or pretreated pinewood (0.25 g dry wt.) were added to the 118 mL open-cap bottles. The aerobic digestion pretreatment was run for 10 days to reach the equilibrium point of total volatile fatty acids (VFAs) production. The VFAs production equilibrium point was determined by performing elementary experiments. The whole suspension obtained from biological pretreatment was used for further stages including ultrasonic pretreatment or anaerobic digestion."
+    },
+    {
+      "id": 3,
+      "description": "Ultrasonic pretreatment - The untreated and pretreated substrates/slurry (0.25 g dry basis) were added to tap water (5 mL) and were incubated in an ultrasonic bath (Soltec SONICA 3200 L ETH S3, Italy, 180 W) at the frequency of 40 KHz for 30 min at 40\u00b0C."
+    }
+  ]
+}

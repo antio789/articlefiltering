@@ -1,0 +1,54 @@
+{
+  "manual_review": [
+    [
+      "526",
+      "ultrasonic"
+    ],
+    [
+      "526",
+      "alkaline"
+    ]
+  ],
+  "llm_review": [
+    [
+      "526",
+      "ultrasonic"
+    ],
+    [
+      "526",
+      "acidic"
+    ],
+    [
+      "526",
+      "ultrasonic"
+    ]
+  ],
+  "correct_predictions": 2,
+  "false_predictions": 1,
+  "missed_predictions": 1,
+  "precision": 0.6667,
+  "recall": 0.6667,
+  "f1_score": 0.6667,
+  "correct_items": [
+    [
+      "526",
+      "ultrasonic"
+    ],
+    [
+      "526",
+      "ultrasonic"
+    ]
+  ],
+  "false_items": [
+    [
+      "526",
+      "acidic"
+    ]
+  ],
+  "missed_items": [
+    [
+      "526",
+      "alkaline"
+    ]
+  ]
+}

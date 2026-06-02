@@ -1,0 +1,61 @@
+{
+  "manual_review": [
+    [
+      "485",
+      "mechanical disintegration"
+    ],
+    [
+      "485",
+      "pressure"
+    ]
+  ],
+  "llm_review": [
+    [
+      "485",
+      "mechanical disintegration"
+    ],
+    [
+      "485",
+      "mechanical disintegration"
+    ],
+    [
+      "485",
+      "mechanical disintegration"
+    ],
+    [
+      "485",
+      "mechanical disintegration"
+    ]
+  ],
+  "correct_predictions": 4,
+  "false_predictions": 0,
+  "missed_predictions": 1,
+  "precision": 1.0,
+  "recall": 0.8,
+  "f1_score": 0.8889,
+  "correct_items": [
+    [
+      "485",
+      "mechanical disintegration"
+    ],
+    [
+      "485",
+      "mechanical disintegration"
+    ],
+    [
+      "485",
+      "mechanical disintegration"
+    ],
+    [
+      "485",
+      "mechanical disintegration"
+    ]
+  ],
+  "false_items": [],
+  "missed_items": [
+    [
+      "485",
+      "pressure"
+    ]
+  ]
+}

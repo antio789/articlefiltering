@@ -105,8 +105,6 @@ def get_manual_review_article(artid): #Make sure there are no duplicates in the 
                     results.append(datapoint)
     return results
 
-
-
 ### Gather results from the LLM filtering on the article list
 
 def get_llm_review(jfile,art_id):
@@ -122,6 +120,36 @@ def get_llm_review(jfile,art_id):
                 datapoint = [art_id, pretreatment]
                 results.append(datapoint)
     return results
+
+def get_llmv2_review(jfile,art_id):
+    results = []
+    output = jfile.replace("ptoutput/", "pretreatment_v2/result_")
+    try:
+        with open(output, 'r', encoding='utf-8') as file:
+            data = json.load(file)
+            filters = data.get("filters")
+            for item in filters:
+                    try:
+                        qid = int(extract_integer(item.get("answer")))
+                        if qid in pretreatment_map:
+                            pretreatment = pretreatment_map[qid]
+                            datapoint = [art_id,pretreatment]
+                            results.append(datapoint)
+                        elif qid != -1:
+                            print(f"Wrong id for {art_id}: {item.get('answer')}")
+                    except:
+                        print(f"Wrong answer format on {art_id}: {item.get('answer')}")
+    except:
+        print(f"file not found: {output}")
+    return results
+
+def extract_integer(output):
+    # Find all integers in the string
+    numbers = re.findall(r'-?\d+', output)
+    if numbers:
+        return int(numbers[0])
+    else:
+        return -1
 
 ### Compare results from both sources
 
@@ -228,7 +256,7 @@ def compare_question(question_name, all_manual, all_llm):
 
     return compare_summary(manual_filtered, llm_filtered, include_other=True)
 
-def calculate_pretreatment(runname):
+def calculate_pretreatment(runname,v2=False):
     ensure_results_dirs()
     json_files = glob.glob("ptoutput/*.json")
 
@@ -239,7 +267,9 @@ def calculate_pretreatment(runname):
         processing_id = (os.path.basename(article_output).replace(".json", ""))
 
         manual_review = get_manual_review_article(processing_id)
-        llm_review = get_llm_review(article_output,processing_id)
+        llm_review = get_llm_review(article_output, processing_id)
+        if v2:
+            llm_review = get_llmv2_review(article_output,processing_id)
 
         article_report = compare(manual_review, llm_review, include_other=False)
         save_report(f"results/articles/{runname}_{processing_id}.json", article_report)
@@ -354,7 +384,7 @@ def calculate_reactor(runname):
 
 ### Run
 print("start comparison calculation")
-calculate_pretreatment('qwen80k0106')
+calculate_pretreatment('qwen80k0106-v2',True)
 
 
 

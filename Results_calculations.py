@@ -384,7 +384,7 @@ def calculate_reactor(runname):
 
 ### Run
 print("start comparison calculation")
-calculate_pretreatment('qwen80k0106-v2',True)
+calculate_pretreatment('qwen80k0206-v2',True)
 
 
 

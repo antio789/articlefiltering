@@ -23,10 +23,10 @@ pretreatment_map = {
     58: "microaerobic"
 }
 
-def find_files_containing_string( search_string):
+def find_files_containing_string(search_string,subpath):
 
     matching_files = []
-    for filepath in glob.glob("results/articles/*.json"):
+    for filepath in glob.glob(f"results/articles/{subpath}*.json"):
         try:
             with open(filepath, 'r', encoding='utf-8') as f:
                 data = json.load(f)
@@ -39,10 +39,10 @@ def find_files_containing_string( search_string):
             print(f"Error reading {filepath}: {e}")
     return matching_files
 
-def find_missed_containing_string( search_string):
+def find_missed_containing_string(search_string,subpath):
 
     matching_files = []
-    for filepath in glob.glob("results/articles/*.json"):
+    for filepath in glob.glob(f"results/articles/{subpath}*.json"):
         try:
             with open(filepath, 'r', encoding='utf-8') as f:
                 data = json.load(f)
@@ -55,10 +55,9 @@ def find_missed_containing_string( search_string):
             print(f"Error reading {filepath}: {e}")
     return matching_files
 
-def find_false_containing_string( search_string):
-
+def find_false_containing_string( search_string,subpath):
     matching_files = []
-    for filepath in glob.glob("results/articles/*.json"):
+    for filepath in glob.glob(f"results/articles/{subpath}*.json"):
         try:
             with open(filepath, 'r', encoding='utf-8') as f:
                 data = json.load(f)
@@ -72,8 +71,9 @@ def find_false_containing_string( search_string):
     return matching_files
 
 
-filter = 'nutrient'
-matching_files = find_files_containing_string(filter)
+filter = 'mechanical disintegration'
+subpath = 'qwen80k0206-v2'
+matching_files = find_files_containing_string(filter,subpath)
 print(matching_files)
-print(f"{find_missed_containing_string( filter)} missing")
-print(f"{find_false_containing_string(filter)} false")
+print(f"{find_missed_containing_string( filter,subpath)} missing")
+print(f"{find_false_containing_string(filter,subpath)} false")

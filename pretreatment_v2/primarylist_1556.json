@@ -1,0 +1,12 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Mechanical Pretreatment (Milling)"
+    },
+    {
+      "id": 1,
+      "description": "Acid Pretreatment (HCl and H2SO4) with varying acid concentration, temperature, and hydrolysis time"
+    }
+  ]
+}

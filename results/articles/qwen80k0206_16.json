@@ -1,0 +1,45 @@
+{
+  "manual_review": [
+    [
+      "16",
+      "mechanical disintegration"
+    ]
+  ],
+  "llm_review": [
+    [
+      "16",
+      "mechanical disintegration"
+    ],
+    [
+      "16",
+      "pressure"
+    ],
+    [
+      "16",
+      "electric"
+    ]
+  ],
+  "correct_predictions": 1,
+  "false_predictions": 2,
+  "missed_predictions": 0,
+  "precision": 0.3333,
+  "recall": 1.0,
+  "f1_score": 0.5,
+  "correct_items": [
+    [
+      "16",
+      "mechanical disintegration"
+    ]
+  ],
+  "false_items": [
+    [
+      "16",
+      "pressure"
+    ],
+    [
+      "16",
+      "electric"
+    ]
+  ],
+  "missed_items": []
+}

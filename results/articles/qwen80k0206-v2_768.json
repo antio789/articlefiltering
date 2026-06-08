@@ -1,0 +1,40 @@
+{
+  "manual_review": [
+    [
+      "768",
+      "mechanical disintegration"
+    ],
+    [
+      "768",
+      "enzyme"
+    ]
+  ],
+  "llm_review": [
+    [
+      "768",
+      "mechanical disintegration"
+    ],
+    [
+      "768",
+      "enzyme"
+    ]
+  ],
+  "correct_predictions": 2,
+  "false_predictions": 0,
+  "missed_predictions": 0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1_score": 1.0,
+  "correct_items": [
+    [
+      "768",
+      "mechanical disintegration"
+    ],
+    [
+      "768",
+      "enzyme"
+    ]
+  ],
+  "false_items": [],
+  "missed_items": []
+}

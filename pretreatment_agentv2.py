@@ -21,7 +21,7 @@ def read_file(path):
 
 
 '''INITIALIZING CONTENT'''
-pretreatment_questions = read_json('prompts/q_articles.json')[0].get('questions')
+pretreatment_questions = read_json('prompts/q_articles_v2.json')[0].get('questions')
 pretreatment_identification_prompt = read_file("prompts/pretreatment_prefilter")
 identify_categories_prompt = read_file("prompts/selectfromlist")
 
@@ -32,14 +32,14 @@ logger = logging.getLogger(__name__)
 
 def llm_prompt(string):
     response = generate(model='qwen40x2k', prompt=string,
-                        options={ 'num_predict': 10000, 'seed': 15,"think": True})
+                        options={ 'num_predict': 20000, 'seed': 15,"think": True})
     time = int(int(response['total_duration']) / 1000000000)
     logger.info(f'{time} seconds of runtime')
     logger.info(response['thinking'])
     logger.info(response['response'])
     return [response['response'],response['thinking']]
 
-def run_pretreatment_identification(path):
+def run_pretreatment_identification(path, run_id):
     logger.info(path)
     article_text = read_file(path)
     article_title = article_text.splitlines()[0]
@@ -51,7 +51,7 @@ def run_pretreatment_identification(path):
     response = re.sub(r"^```json\s*", "", response)
     response = re.sub(r"\s*```$", "", response)
 
-    article_path =  "pretreatment_v2/primarylist_"+temp_name+ '.json'
+    article_path =  f"pretreatment_v2/primarylist_{temp_name}_{run_id}.json"
     try:
         data = json.loads(response)
         with open(article_path, 'w') as f:
@@ -84,12 +84,12 @@ def identify_question(path):
     return results
 
 
-def run_pretreatmentv2():
+def run_pretreatment_v2(run_id):
     for article in articles_list:
-        run_pretreatment_identification(article)
+        run_pretreatment_identification(article,run_id)
 
 logging.basicConfig(format='%(asctime)s %(message)s',level=logging.INFO, handlers=[logging.FileHandler(f"logs/{datetime.now().strftime('%d_%H-%M')}.log"), logging.StreamHandler()])
 
-run_pretreatmentv2()
+run_pretreatment_v2("0206-1800")
 
 

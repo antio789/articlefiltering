@@ -1,0 +1,81 @@
+{
+  "manual_review": [
+    [
+      "1101",
+      "thermal"
+    ],
+    [
+      "1101",
+      "ultrasonic"
+    ],
+    [
+      "1101",
+      "alkaline"
+    ],
+    [
+      "1101",
+      "pressure"
+    ]
+  ],
+  "llm_review": [
+    [
+      "1101",
+      "mechanical disintegration"
+    ],
+    [
+      "1101",
+      "thermal"
+    ],
+    [
+      "1101",
+      "ultrasonic"
+    ],
+    [
+      "1101",
+      "pressure"
+    ],
+    [
+      "1101",
+      "alkaline"
+    ],
+    [
+      "1101",
+      "biological active substrate"
+    ]
+  ],
+  "correct_predictions": 4,
+  "false_predictions": 2,
+  "missed_predictions": 0,
+  "precision": 0.6667,
+  "recall": 1.0,
+  "f1_score": 0.8,
+  "correct_items": [
+    [
+      "1101",
+      "thermal"
+    ],
+    [
+      "1101",
+      "ultrasonic"
+    ],
+    [
+      "1101",
+      "pressure"
+    ],
+    [
+      "1101",
+      "alkaline"
+    ]
+  ],
+  "false_items": [
+    [
+      "1101",
+      "mechanical disintegration"
+    ],
+    [
+      "1101",
+      "biological active substrate"
+    ]
+  ],
+  "missed_items": []
+}

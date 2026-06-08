@@ -1,0 +1,254 @@
+{
+  "questions": [
+    {
+      "type": "pretreatment",
+      "questions": [
+        {
+          "qid": 1,
+          "question": "Does the methodology explicitly describe any physical process that mechanically alters the substrate (e.g., size reduction, structural disruption or similar)? Instructions for reasoning: 1.Identify any mechanical treatment (e.g., grinding, milling, shredding, physical disruption, or similar) applied to the substrate, consider mechanical as a blade physically cutting or crushing the material. 2. Confirm that the mechanical treatment is applied to the substrate and not to the inoculum or for analytical characterization. 3.confirm it is a direct effect from a mechanical blade and not an indirect effect from other procedure such as ultrasounds, pressure or similar 4. exclude freezing, or pressure to separate phases if that is the identified method"
+        },
+        {
+          "qid": 2,
+          "question": "Does the methodology explicitly describe the use of thermal pretreatment on a substrate, for thermal pretreatment consider high temperatures treatments as well as mentions of mild thermal pretreatment. Do not consider drying as a valid pretreatment"
+        },
+        {
+          "qid": 3,
+          "question": "Does the methodology explicitly describe the use of ultrasound pretreatment on a substrate"
+        },
+        {
+          "qid": 4,
+          "question": "Does the methodology explicitly describe the use of pressure-based pretreatment on a substrate (for example but not only: high-pressure homogenisation, pressure shock treatment, hydrodynamic cavitation, mechanical jet), and not pressure generated incidentally by heating in closed systems such as hydrothermal methods (e.g., autoclave,subcritical water, LHW,...)"
+        },
+        {
+          "qid": 5,
+          "question": "Does the methodology explicitly describe the use of a direct electrical application on the substrate for pretreatment to disrupt material and increase availability. This exclude all equipment that uses electricity such as but not only ultrasounds and microwave"
+        },
+        {
+          "qid": 6,
+          "question": "Does the methodology explicitly describe the use of alkaline pretreatment on a substrate, by the addition of a alkaline agent. This exclude pH adjustment, it must be for pretreatment purposes"
+        },
+        {
+          "qid": 7,
+          "question": "Does the methodology explicitly describe the use of acidic pretreatment on a substrate, by the addition of a acidic agent. This exclude pH adjustment for the digestion or other reaction, it must be for pretreatment purposes. procedure to verify before answering: 1. Identify acidic agent 2.ensure it is an acid 3. ensure it is used in a pretreatment of the substrate"
+        },
+        {
+          "qid": 8,
+          "question": "Does the methodology explicitly describe the use of an oxidizer agent? 1. Identify the agent 2.ensure it is an oxidizer 3. ensure it is used on the substrate as a pretreatment. Consider photocatalysis with TiO2 as an oxidizer"
+        },
+        {
+          "qid": 9,
+          "question": "Does the methodology explicitly describe the use of solvent for pretreatment on a substrate (e.g., organosolv, ioniq liquid,...), and mentions it as a solvent somewhere in the text (does not have to be in the methodology). Ignore implicit cases such as the use of water in a process. The methodology must clearly identifies a solvent system as an intentional pretreatment medium rather than merely using chemicals dissolved in water. An aqueous chemical solution is NOT a solvent pretreatment unless the paper explicitly frames it as a solvent system. Before answering: 1.Identify the pretreatment medium in the methodology 2.Determine whether it is explicitly a named solvent system in the text"        },
+        {
+          "qid": 10,
+          "question": "Does the methodology explicitly describe the use of a chemical pretreatment different from the more prevalent techniques (alkaline, acidic, oxidation and solvent)? Examples of those techniques can be (surfactant, solubilizer, salts,or other) on a substrate, where chemical pretreatment signifies the degradation of complex material to improve bioavailability using some chemical compound"
+        },
+        {
+          "qid": 11,
+          "question": "Does the methodology explicitly describe the use of an enzyme for pretreatment on a substrate (this also includes crude enzyme treatments), This exclude any bacteria, fungi, or other secreting enzyme organism, it refers to the direct use of enzymes. Before answering: 1. Identify enzyme used in the methodology 2.ensure it is an enzyme preparation or extracted crude enzyme 3.ensure that the enzymes are used directly and not produced in situ by bacteria, fungi, or other enzyme-secreting organisms"
+        },
+        {
+          "qid": 12,
+          "question": "Does the methodology explicitly describe the use of a fungi for pretreatment on a substrate (this excludes enzymes extracted from a fungi)"
+        },
+        {
+          "qid": 13,
+          "question": "Does the methodology explicitly describe the use of a microbial, such as isolate bacterial cultures or specialised microbila consortia, pretreatment on a substrate . You must exclude mediums rich in microorganisms(digestate, sludge,...) as well as fungi, and extracted enzymes. "
+        },
+        {
+          "qid": 14,
+          "question": "Excluding inoculum or other sludge necessary for starting the anaerobical biological activity in the digester, does the methodology explicitly describe the use of a external active organic material, such as but not only: rumen, compost, digestate, aerobic sludge or similar, as a pretreatment step; specifically to degrade or modify the substrate before anaerobic digestion, with the explicit purpose of increasing its bioavailability? This does not include any isolated or specialised microbial consortia. For clarity: a sludge or digestate are mainly composed of micro-organism but have large diversity and unknown species, while an isolated consortia of a more controlled species, such as bacteria isolated from fermenting straw and reproduced in a lab would be excluded from this definition."
+        },
+        {
+          "qid": 58,
+          "question": "Does the methodology explicitly references a microaerobic pretreatment by direct injection of limited air quantity in the anaerobic digester or in the substrate. Specifically, without the inclusion of an additional bacterial consortium or organic material that degrate the substrate under low oxygen conditions ?"
+        }
+      ]
+    },
+    {
+      "type": "improvements",
+      "Additional_info": "",
+      "questions": [
+        {
+          "qid": 15,
+          "question": "Does it explicitly describe the direct use of nanoparticles to improve the digestion process? This exclude all pretreatment such as photocatalysis or similar that employ a nanomaterial in their process."
+        },
+        {
+          "qid": 16,
+          "question": "Does the article explicitly describe the use of disinhibiting treatments (for example but not only: coagulants, biochar, ammonia stripping) applied to the substrate or reactor before or during digestion to improve microbial activity or methane production. Exclude laboratory control methods  during digestion such as artificial pH stabilisation"
+        },
+        {
+          "qid": 17,
+          "question": "Does the article explicitly describe the use of chelating agents added to the substrate or reactor before or during digestion to enhance microbial activity or substrate degradation"
+        },
+        {
+          "qid": 18,
+          "question": "Does the article explicitly describe the addition of nutrients as an additive (for example but not only: nitrogen, phosphorus, micronutrients,...) to the substrate or reactor before or during digestion to improve microbial activity or methane production during the digestion process. This exclude any substrate rich in nutrient or infered reasoning from the presence of nutrient in the substrate or inoculum, as well as nanoparticles. Before Answering: 1. Identify the source of nutrient 2.it is explicitly mentioned as nutrient supplement 3.It is NOT the substrate or the inoculum or some nanoparticle"
+        }
+      ]
+    },
+    {
+      "type": "reactor",
+      "Additional_info": "",
+      "questions": [
+        {
+          "qid": 20,
+          "question": "Does it, in that context, explicitly describe the use of a batch reactor as an anaerobic digester? \n"
+        },
+        {
+          "qid": 21,
+          "question": "Does it, in that context, explicitly describe the use of a SBR (sequencing batch reactor) reactor as an anaerobic digester. with definition: a batch reactoroperating in cycles. Typically: filling, reaction, settling and withdrawal with an optional resting period. where a part of the sludge is then reused for inoculation of the next sequence. The concept of continuous operational cycling is important. Only answer true if it is explicitly and clearly differentiated from a normal batch operation? \n"
+        },
+        {
+          "qid": 22,
+          "question": "Does it, in that context, explicitly describe the use of a CSTR reactor as an anaerobic digester, where the key part of the definition is the continuous process of feeding and digestate evacuation, due to real world operation the process might not be perfectly continuous but intermittent or semi-continuous. mentions of mixing are not enough? \n"
+        },
+        {
+          "qid": 23,
+          "question": "Does it, in that context, explicitly describe the use of a Leach Bed reactor as an anaerobic digester? \n"
+        },
+        {
+          "qid": 24,
+          "question": "Does it, in that context, explicitly describe the use of a plug flow reactor as an anaerobic digester, the attention to the definition that characterises this reactor is important with radial mixing but not axial front or back. mention of the name synonym or the specific process is necessary, having a inlet and outlet is not a sufficient criteria? \n"
+        },
+        {
+          "qid": 25,
+          "question": "Does it, in that context, explicitly describe the use of an Anaerobic Contact reactor as an anaerobic digester, with as definition: high rate reactor separating solids from hydraulic retention in wastewaters it is a combination of a CSTR with a sedimentation tank. The settled sludge is recirculated back while the liquid effluent is removed, mention of the reactor and some description of the process are necessary? \n"
+        },
+        {
+          "qid": 26,
+          "question": "Does it, in that context, explicitly describe the use of a UASB reactor as an anaerobic digester? \n"
+        },
+        {
+          "qid": 27,
+          "question": "Does it, in that context, explicitly describe the use of an EGSB reactor as an anaerobic digester? \n"
+        },
+        {
+          "qid": 28,
+          "question": "Does it, in that context, explicitly describe the use of a UASB derivate reactor (excluding EGSB) as an anaerobic digester, this infers a sludge blanket reactor such as IC reactor (internal circulation), induced bed, upflow solid reactor,...? \n"
+        },
+        {
+          "qid": 29,
+          "question": "Does it, in that context, explicitly describe the use of a baffled reactor as an anaerobic digester? \n"
+        },
+        {
+          "qid": 30,
+          "question": "Does it, in that context, explicitly describe the use of a filter/fixed bed reactor (a reactor with a settled biofilm) as an anaerobic digester? \n"
+        },
+        {
+          "qid": 31,
+          "question": "Does it, in that context, explicitly describe the use of a fluidized bed reactor (similar to filter/fixed bed with biofilm except that the support media is in suspension) as an anaerobic digester? \n"
+        },
+        {
+          "qid": 32,
+          "question": "Does it, in that context, explicitly describe the use of a derivative of biofilm reactors (such as filter/fixed bed or fluidized bed but excluding these ones specifically) as an anaerobic digester? \n"
+        },
+        {
+          "qid": 33,
+          "question": "Does it, in that context, explicitly describe the use of a membrane reactor as an anaerobic digester? \n"
+        },
+        {
+          "qid": 34,
+          "question": "Does it, in that context, explicitly describe the use of a hybrid reactor as an anaerobic digester, where here hybrid reactor is considered as a mix of two reactor designs (example UASB with fixed bed inside), this category should exclude reactors called hybrid but that are two or more reactors put into series (example fixed bed stage + fluidized bed stage)? \n"
+        },
+        {
+          "qid": 35,
+          "question": "Does it, in that context, explicitly describe the use of a multistage reactor as an anaerobic digester, where here multistage is defined as two or more reactors in series for the process of anaerobic digestion (for example leach bed reactor in combination with high rate reactor such as UASB, or multiple CSTR in series), care needs to be put into consideration in reading the text appropriately for this question, as certain researcher might call their reactor hybrid even though it is only reactors put into series.? \n"
+        },
+        {
+          "qid": 36,
+          "question": "Does it, in that context, explicitly describe the use of a small scale reactor as an anaerobic digester, here defined as low tech reactors with no heating or mixing, such as fixed dome, floating drum or tubular reactors (usually made out of plastic, the text needs to make it clear that it is such a low tech reactor)? \n"
+        },
+        {
+          "qid": 37,
+          "question": "Does it, in that context, explicitly describe the use of a lagoon reactor as an anaerobic digester, defined as a large covered reactor with no mixing and often no heating? \n"
+        },
+        {
+          "qid": 38,
+          "question": "Does the article explicitly describe the use of any anaerobic digester reactor type not listed here (batch, SBR, CSTR, Leach Bed, plug flow, anaerobic contact, UASB, EGSB, UASB derivatives, baffled, filter/fixed bed, fluidized bed, biofilm derivatives, membrane, hybrid, multistage, small-scale, lagoon, rotating disk/contactor, gradual concentric chambers, tower, loop, hydraulic flush, bionic, labyrinth flow, self-flotation), where to be considered true the text needs to clearly explain the specific reactor design, differentiate it beyond basic laboratory setup and its operation ?"
+        },
+        {
+          "qid": 39,
+          "question": "Does it, in that context, explicitly describe the use of a rotating disk or rotating contactor reactor as an anaerobic digester, defined as a reactor in which one or more disks rotate within the reactor volume to promote attached and suspended biomass growth through periodic contact with the substrate? \n"
+        },
+        {
+          "qid": 40,
+          "question": "Does it, in that context, explicitly describe the use of a gradual concentric chambers reactor as an anaerobic digester, defined as a reactor composed of concentric zones or chambers enabling sequential anaerobic (and potentially aerobic) treatment within a single structure? \n"
+        },
+        {
+          "qid": 41,
+          "question": "Does it, in that context, explicitly describe the use of a tower reactor as an anaerobic digester, defined as a vertical, modular reactor in which biogas-induced circulation or gas-lift effects promote mixing and biomass suspension, including tower or multiplate configurations? \n"
+        },
+        {
+          "qid": 42,
+          "question": "Does it, in that context, explicitly describe the use of a loop reactor as an anaerobic digester, defined as a reactor incorporating a physical loop that recirculates the substrate through the system, typically driven by biogas lift or mechanical means to enhance mixing and mass transfer? \n"
+        },
+        {
+          "qid": 44,
+          "question": "Does it, in that context, explicitly describe the use of a hydraulic flush reactor as an anaerobic digester, defined as a semi-continuous mixed reactor in which a portion of the digestate is periodically removed, phase-separated, and partially returned to the reactor to reduce inhibition effects and control process conditions? \n"
+        },
+        {
+          "qid": 45,
+          "question": "Does it, in that context, explicitly describe the use of a bionic reactor as an anaerobic digester, defined as a reactor or process design inspired by biological digestion systems, such as animal gastrointestinal tracts, potentially involving multi-stage configurations or bioaugmentation strategies? \n"
+        },
+        {
+          "qid": 46,
+          "question": "Does it, in that context, explicitly describe the use of a labyrinth flow reactor as an anaerobic digester, defined as a compartmentalized reactor with a complex up- and down-flow path designed to separate or control acidogenic and methanogenic phases, similar in operation to a baffled reactor? \n"
+        },
+        {
+          "qid": 47,
+          "question": "Does it, in that context, explicitly describe the use of a self-flotation reactor as an anaerobic digester, defined as an upflow reactor in which biogas bubbles are intentionally used to attach to and float suspended solids for separation or retention within the system? \n"
+        }
+      ]
+    },
+    {
+      "type": "other",
+      "Additional_info": "",
+      "questions": [
+        {
+          "qid": 19,
+          "question": "Does the article describe additional treatments applied to the substrate or reactor before or during digestion to optimize the digestion process, (considering treatments that do not have as goal the improvement of bioavailability of material like you would have with physical, chemical, or biological treatment), treatments such as nutrient addition, disinhibition with: coagulants, biochar, ammonia stripping,..., chelating agent or the use of nanoparticles but excluding these ones other similar treatments, it can be simple things such as washing in algae to remove salt for example? \n"
+        },
+        {
+          "qid": 48,
+          "question": "Does it, in that context, explicitly describe the use of the digestate as a fertilizer? \n"
+        },
+        {
+          "qid": 49,
+          "question": "Does it, in that context, explicitly describe the use of the biogas directly as an energy source, this means research around biogas performance/advantages/disadvantages for electricity, cooking,...? \n"
+        },
+        {
+          "qid": 50,
+          "question": "Does it, in that context, explicitly discuss the biogas adoption subject around social issues? \n"
+        },
+        {
+          "qid": 51,
+          "question": "Does it, in that context, explicitly discuss the biogas adoption subject around economical issues? \n"
+        },
+        {
+          "qid": 52,
+          "question": "Does it, in that context, explicitly discuss the biomass potential of a substrate or a geographic area? \n"
+        },
+        {
+          "qid": 53,
+          "question": "Does it, in that context, explicitly describe the enhancement of digestate as a fertilizer through nutrient addition? \n"
+        },
+        {
+          "qid": 54,
+          "question": "Does it, in that context, explicitly describe the enhancement of digestate as a fertilizer through drying? \n"
+        },
+        {
+          "qid": 55,
+          "question": "Does it, in that context, explicitly describe the reduction or elimination of pathogens or more generally decontamination?"
+        },
+        {
+          "qid": 56,
+          "question": "does this article discusses the impact of the biogas sector on greenhouse gas ?"
+        },
+        {
+          "qid": 57,
+          "question": "Does the article discusses the application of phosphogypsum in the field of anaerobic digestion?"
+        }
+      ]
+    }
+  ]
+}

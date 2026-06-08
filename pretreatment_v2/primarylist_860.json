@@ -1,0 +1,16 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Thermal pretreatment conducted for 30 min at 50 \u00b0C and 80 \u00b0C using water bath, and at 120 \u00b0C using autoclave"
+    },
+    {
+      "id": 1,
+      "description": "Ultrasonic pretreatment conducted for 30, 90, and 180 s on ultrasonicator (VCX-130, Vibra-Cell) of 130 W"
+    },
+    {
+      "id": 2,
+      "description": "Alkali pretreatment adjusted to pH 9, 11, and 13 by 5 N NaOH"
+    }
+  ]
+}

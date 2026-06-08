@@ -1,0 +1,958 @@
+2026-06-02 11:50:43,356 articletxt/16.txt
+2026-06-02 11:50:43,356 Title of processing article: TITLE: Mechanical pretreatment effects on macroalgae-derived biogas production in co-digestion with sludge in Ireland
+2026-06-02 11:52:11,631 HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2026-06-02 11:52:11,633 88 seconds of runtime
+2026-06-02 11:52:11,633 The user wants me to identify the pretreatments described in the article text.
+I need to go through the text and look for mechanical pretreatments, thermal pretreatments, chemical pretreatments, etc., applied to the seaweed biomass.
+Then I need to map these to the provided question IDs.
+The questions cover:
+- Mechanical process (size reduction, structural disruption).
+- Thermal pretreatment (high temperatures, drying excluded).
+- Ultrasound.
+- Pressure (excluding hydrothermal).
+- Direct electrical application (exclude ultrasounds, microwaves).
+- Alkaline pretreatment (excluding pH adjustment).
+- Acidic pretreatment (excluding pH adjustment).
+- Oxidizer agent (e.g., TiO2).
+- Solvent.
+- Enzymes (excludes bacteria/fermentation).
+- Fungi.
+- Microbial cultures.
+- External organic material (rumen, compost, digestate, aerobic sludge - excluding sludge as inoculum/starting medium).
+
+Let's scan the text for pretreatments on the substrate (seaweed biomass).
+
+**1. Mechanical Pretreatment:**
+- **Title:** Mechanical pretreatment effects on macroalgae-derived biogas production...
+- **Intro:** "In this study indigenous Irish seaweeds have been considered as substrate for pretreatment prior to anaerobic digestion."
+- **Section 2.1:** "The pre-treatment machine consists of a modified Hollander beater... spinning at 580 RPM."
+- **Section 2.1:** "A bed-plate... with sharp grooves... exercising a cutting action... high pressure and speed... beat the mixture."
+- **Section 2.4:** Mentioned "milling aims instead at reducing the particle sizes... leads to a double benefit."
+- **Section 3.3:** "The optimisation... numerical study... numerical restricting criteria." "Factor BT and SA were left in range as the second experiment."
+- **3.3 Optimization:** "Sample 12 was treated in the Hollander beater for 10 min prior to incubation at 37 °C."
+- **Conclusion:** "A mechanical pretreatment has been applied to the macroalgal feedstock by using a Hollander beater"
+- **Section 2.5:** "The purpose of the first experiment... The machine was fed... After 10 min of pretreatment..."
+- **Section 2.5:** "Sample 12... treated in the Hollander beater for 10 min".
+- **Section 3.1:** "The reasons of this can be identified... increased availability of the substrate's surface to the microorganisms... due to the pretreatment."
+- **Section 3.3:** "The treatment time was 10 min". "biogas volume rates... compared to digestion of sludge-only and co-digestion of untreated biomass."
+
+- **Section 2.5:** "The experiment was performed in four replications for each species and compared with digestion of untreated samples."
+
+- **Section 3.3:** "Factor BT and SA were left in range as the second experiment." "BT... 0, 5, 10 min".
+- **Section 2.5:** "After 10 min of pretreatment..."
+- **Section 2.5:** "The moisture content... drying was performed at 105 °C..."
+- **Section 2.5:** "Water-baths were used to keep the reactors at a fixed mesophilic temperature." (Drying for moisture content? No, the text says "Moisture content of untreated samples is a weighted average determined by drying random weights. The moisture content of the treated samples was obtained by drying 200 ml of macralgal pulp in both the experiments. The drying was performed at 105 °C until constant weight." This is part of characterization, not necessarily the active pretreatment on the seaweed biomass for biogas production, but often moisture removal counts as a step in sample prep. However, the question asks for pretreatments on substrates. Drying is excluded per instructions "exclude... freezing, or pressure to separate phases if that is the identified method" wait, instruction says: "exclude... drying, washing and freezing for storage." in STEP 1.
+
+- **Hollander beater (Blade drum)**: "modified Hollander beater, model Reina... elliptic water raceway... spinning at 580 RPM... high pressure and speed... beat the mixture." This is mechanical grinding/cutting.
+- **Treatment times:** 0, 5, 10 min in DOE experiment (BT = beating time).
+- **Section 2.5:** "Sample 12 was treated in the Hollander beater for 10 min prior to incubation at 37 °C."
+- **Section 3.3:** "The optimisation... numerical restricting criteria. Temperature was constrained... Factors BT and SA were left in range."
+- **Conclusion:** "A mechanical pretreatment has been applied to the macroalgal feedstock by using a Hollander beater"
+
+Are there other mechanical processes?
+- Inoculation: Digester sludge used as inoculum. "Digester sludge was used to inoculate batch digesters". Excluded by step 1 ("exclude the following 3 and nothing else: drying, washing and freezing for storage... If an identified treatment has multiple operational conditions...").
+- Inoculum composition: Table 1 mentions species, but that's feedstock identity.
+- Section 2.5: "The purpose of the first experiment... compare each algal species 'susceptibility to the treatment.' ... The machine was fed using 1 kg wet of each spp. ... After 10 min of pretreatment...".
+- Section 2.5: "reactors... were prepared with 30 g (wet) of each species in addition to 200 ml of sludge... The machine was fed using 1 kg wet of each spp. and 20 L of water."
+- "After 10 min of pretreatment"
+- "The moisture content... was obtained by drying 200 ml of macralgal pulp".
+
+Let's check if "drying" of sludge samples is considered a pretreatment.
+- "The moisture content of untreated samples is a weighted average determined by drying random weights." -> This is part of characterization, not the treatment.
+- "The drying was performed at 105 °C until constant weight. Moisture content findings of the first experiment are shown in Table 1. The moisture content of the treated samples was obtained by drying 200 ml of macralgal pulp...". -> This is sample prep.
+- Inoculation sludge is sludge itself (seaweed-derived sludge?). Wait, "sludge was used as inoculum... collected from the anaerobic sludge vessels... collected from... wastewater treatment plant". This is the inoculum.
+
+Let's check if "ultrasound" is mentioned.
+- Section 2.1: "The pre-treatment machine consists of a modified Hollander beater".
+- Section 2.3: "Sludge's particles disintegration was efficiently achieved by Appels et al. [32] with 40% extra biogas obtained for low frequency ultrasound treatment at 37 °C." -> This is a reference to another study, not the study itself. "In our study digester sludge has been used... A variety of pretreatments can be applied on sludge singularly or in combination with others, with the goals...".
+- Does the *article's* methodology include ultrasound? No. It mentions a reference to Ultrasound in the literature (Neyens et al, Appels et al).
+
+What about pressure?
+- Hollander beater involves "high pressure" inside the drum but that's not an external pressure treatment like autoclave.
+
+What about chemical?
+- "Chemical and thermal treatments are mainly used for dewaterability improvements...".
+- "Hydrogen peroxide treatment" - Neyens et al [30] (reference).
+- "pH adjustment" (not mentioned for substrate).
+- "Alkaline agent" (not mentioned).
+- "Oxidizer agent" (not mentioned).
+- "Enzymes" (not mentioned).
+- "Solvents" (water mentioned as medium, but not explicitly a solvent).
+
+What about "electrical application"?
+- "Power is activated, blades and grooves exercise a cutting action...". "Energy requirement of the machine's engine is 1 hp". "Electrical application... exclude... ultrasounds and microwave".
+
+So, the main pretreatment is the **Hollander beater**.
+Does it involve "drying"?
+- "The drying was performed at 105 °C until constant weight." This is mentioned in "The moisture content... was obtained by drying 200 ml of macralgal pulp". This is part of the methodology section describing sample prep, not the pretreatment of the biomass *before* digestion. However, Section 2.5: "The purpose of the first experiment... The machine was fed using 1 kg wet of each spp. and 20 L of water. After 10 min of pretreatment...".
+- "The moisture content... was obtained by drying 200 ml of macralgal pulp in both the experiments. The drying was performed at 105 °C until constant weight." This is in section 2.5.
+- Does the methodology explicitly describe a drying process as a pretreatment of the seaweed *before* digestion? Yes, "drying... to provide a comparison per gram of total solids". But is it listed as a pretreatment method in the text regarding the *Hollander beater*? No, it's part of the sample prep.
+- Wait, instruction in STEP 1 says: "Identify ALL the different pretreatments applied to the substrates, by consider ALL actions applied that affect the properties of the substrates, even if not mentioned as a pretreatment: this includes potential treatments during substrate sample preparation...".
+- "Identify... pretreatments... only exclude the following 3 and nothing else:drying, washing and freezing for storage."
+- So if I count "drying" as a sample prep step that affects the substrate (to get biomass), should it be listed?
+- Usually, in the context of anaerobic digestion methods classification, drying is not a pretreatment method in the same category as grinding/ultrasound. It is a sample preservation or storage method.
+- However, if the question is "Does the methodology explicitly describe the use of a solvent...?" or "Does the methodology explicitly describe the use of a chemical...?".
+- I need to classify the pretreatments described in the methodology *specifically* to the substrate (seaweed biomass) that are applied to improve digestibility.
+- The primary one is the **Hollander beater** (mechanical grinding/rupturing).
+- There is a mention of "low frequency ultrasound treatment at 37 °C" in Appels et al (Reference 32) which is used to *digest sludge*.
+- There is a mention of "thermal pretreatment" in the introduction ("The most used physical treatment on lignocellulososes is the thermal pretreatment...").
+- Is the study itself reporting on thermal pretreatment? No, it focuses on "Hollander beater".
+- Is there any other treatment mentioned?
+- "The machine was fed using 1 kg wet of each spp. and 20 L of water. After 10 min of pretreatment...".
+- "Treatment time was 10 min".
+- Is there a temperature treatment? "bioreactor system... Water-baths were used to keep the reactors at a fixed mesophilic temperature." "Incubation at 37 °C".
+- "The moisture content... was obtained by drying 200 ml of macralgal pulp".
+- Is drying considered a pretreatment? The instruction says "exclude the following 3 and nothing else: drying, washing and freezing for storage." This implies drying is NOT a pretreatment for this task. However, if the instruction says "identify ALL the different pretreatments applied to the substrates... this includes potential treatments during substrate sample preparation... only exclude... drying...". This is slightly contradictory. It says "exclude... drying...". It then says "If an identified treatment has multiple operational conditions tested for time or temperature, it is not necessary to divide it in multiple entries".
+- This implies I should identify the main treatment (Hollander beater) and not the drying which is for characterization of moisture.
+- However, let's look for "chemical" pretreatment.
+- "Chemical and thermal treatments are mainly used for dewaterability improvements...". These are general statements about sludge, not the seaweed.
+- "In our study digester sludge has been used...".
+- "The pre-treatment machine consists of a modified Hollander beater".
+- There are no other treatments applied to the seaweed biomass itself in the methodology (e.g. adding acid, enzyme, oxidizer).
+- So only the Hollander beater is a mechanical pretreatment of the seaweed.
+- Is there any thermal pretreatment applied? "After 10 min of pretreatment" (Section 2.5). No temperature is mentioned for the pretreatment *of the seaweed*, only the incubation temperature of the digester (37 °C).
+- So, only **Hollander beater** (mechanical pretreatment).
+- Does "Hollander beater" match any of the questions?
+- Question 1: "Does the methodology explicitly describe any physical process that mechanically alters the substrate (e.g., size reduction, structural disruption or similar)?". Yes. The Hollander beater is described.
+- So [1] for the Hollander beater.
+
+Is there anything else?
+- Inoculum is sludge, not a substrate treatment.
+- "Moisture content... obtained by drying". This is sample prep for moisture analysis, not a pretreatment method applied to the substrate to degrade it.
+- "Washing" is not mentioned.
+- "Freezing" is not mentioned.
+- "Ultrasound" is not mentioned as an application. (Reference is to others).
+- "Pressure" is not mentioned as a pretreatment.
+- "Acid/Alk/Oxid/Solvent". Not mentioned.
+- "Enzyme". Not mentioned.
+- "Fungi". Not mentioned.
+- "Microbial". Not mentioned (inoculum is external).
+- "External organic material". Not mentioned (inoculum is external but not a substrate pretreatment).
+
+So only the mechanical pretreatment (Hollander beater).
+The question ID for mechanical pretreatment is [1].
+
+Wait, is there a chance that "drying" counts?
+The instruction says: "only exclude the following 3 and nothing else:drying, washing and freezing for storage."
+This instruction is in STEP 1 "Identify ALL the different pretreatments applied to the substrates... only exclude the following 3...".
+It seems to say "Exclude drying... from your list of treatments" if it is considered a pretreatment?
+No, it says "this includes potential treatments during substrate sample preparation, only exclude the following 3...". This suggests that drying, washing, and freezing (for storage) should be excluded from the pretreatment identification.
+So if I find a drying step, I should not list it.
+The drying is for moisture content analysis ("Moisture content... was obtained by drying"). This is not a pretreatment to degrade the substrate.
+So drying is excluded.
+Therefore, only the Hollander beater remains.
+
+Is there any other mechanical pretreatment?
+In the context of co-digestion with sludge, is there a treatment of the sludge before mixing? "Inoculum... sludge". This is the feedstock for inoculation, not substrate for biogas.
+"Sludge's particles disintegration was efficiently achieved by Appels et al. [32] with 40% extra biogas obtained...". This is another study.
+The methodology describes the use of Hollander beater on the seaweed.
+So, only one pretreatment: Hollander beater.
+Question ID [1] refers to "physical process that mechanically alters the substrate... size reduction".
+
+Are there any other potential treatments?
+- "Energy requirement of the machine's engine is 1 hp."
+- "The machine was fed...".
+- "After 10 min of pretreatment".
+- No other treatment described.
+
+So the list is just [1].
+
+Wait, let's check the questions again.
+Question 1: "Does the methodology explicitly describe any physical process that mechanically alters the substrate (e.g., size reduction, structural disruption or similar)?". Yes.
+Question 14: "Excluding inoculum... does the methodology explicitly describe the use of an external active organic material... as a pretreatment step; specifically to degrade or modify the substrate before anaerobic digestion...". This refers to inoculum (external active organic material). But the instructions say "Do not answer with anything else a part from the requested list...".
+The instruction says "Identify ALL the different pretreatments applied to the substrates".
+The Hollander beater is applied to the seaweed biomass (substrate).
+The sludge is used as inoculum (not substrate pretreatment).
+So only Hollander beater.
+
+Wait, is there any mention of "co-digestion" involving pretreatment of sludge?
+"sludge... currently constitutes the main organic waste...".
+"Chemical and thermal treatments are mainly used for dewaterability improvements...".
+"In this study indigenous Irish seaweeds have been considered as substrate for pretreatment prior to anaerobic digestion."
+"The machine was fed using 1 kg wet of each spp."
+"The Hollander beater has never been used as mechanical pretreatment machine on seaweed biomass."
+"Seeing that this proposed pretreatment has already proved its effectiveness...".
+
+So, the only mechanical pretreatment is Hollander beater.
+Are there any others?
+"The moisture content of the treated samples was obtained by drying 200 ml of macralgal pulp...".
+This drying is done *before* the experiment, not as a pretreatment. It's part of sample prep.
+So I should not include drying.
+
+So only [1].
+
+Wait, I need to check if there are any other mechanical actions.
+"blades and grooves exercise a cutting action... double benefit...".
+"bed-plate... with sharp grooves... decreasing the gap between blades and bed-plate."
+This confirms mechanical grinding/cutting.
+
+Is there any mention of "ultrasound"?
+"The effect of thermal treatment temperature on different types of sludge...".
+"Appels et al... low frequency ultrasound treatment at 37 °C."
+This is a reference to a study, not the current methodology.
+The current methodology does not use ultrasound on the seaweed.
+
+Is there any mention of "pH"?
+"Digestion was stopped...".
+No pH control mentioned for the pretreatment.
+
+Is there any mention of "chemicals"?
+"Hydrogen peroxide treatment" (Reference).
+"pH adjustment" (Reference).
+No chemical pretreatment on seaweed.
+
+Is there any mention of "enzymes"?
+No.
+
+Is there any mention of "solvents"?
+Water is used as solvent, but not explicitly a solvent system for pretreatment (like organosolv).
+Instruction says: "Ignore implicit cases such as the use of water in a process. The methodology must clearly identifies a solvent system as an intentional pretreatment medium rather than merely using chemicals dissolved in water."
+Water is the reaction medium, not the solvent.
+Hollander beater works by mechanical action.
+
+Is there any mention of "biogas energy production"? Yes.
+"Energy assessment at laboratory scale...".
+
+So, only one pretreatment: Hollander beater.
+This corresponds to QID 1 (Mechanical process).
+
+Are there any other mechanical actions?
+"moisture content... obtained by drying... at 105 °C".
+Instruction says: "only exclude the following 3 and nothing else:drying, washing and freezing for storage."
+Does drying apply to the seaweed?
+"The moisture content of untreated samples is a weighted average determined by drying random weights."
+"The moisture content of the treated samples was obtained by drying 200 ml of macralgal pulp in both the experiments."
+This is to characterize the feedstock, not a pretreatment.
+Instruction 1 says: "identify ALL the different pretreatments applied to the substrates... this includes potential treatments during substrate sample preparation... only exclude the following 3...".
+This means "Drying (for storage) should be excluded from the list of pretreatments", even if it is a sample prep step.
+So I should exclude drying.
+
+So only [1].
+
+Double check the instruction for [1]:
+"Does the methodology explicitly describe any physical process that mechanically alters the substrate (e.g., size reduction, structural disruption or similar)?"
+The Hollander beater fits.
+
+Double check if any other QID matches.
+QID 2: Thermal (High temp). No thermal pretreatment on seaweed.
+QID 3: Ultrasound. No.
+QID 4: Pressure (not hydrothermal). No.
+QID 5: Electrical application (exclude ultrasounds/microwaves). No.
+QID 6: Alkaline. No.
+QID 7: Acidic. No.
+QID 8: Oxidizer. No.
+QID 9: Solvent. No.
+QID 10: Chemical (other than alkaline/acidic/oxidation/solvent). No.
+QID 11: Enzyme. No.
+QID 12: Fungi. No.
+QID 13: Microbial (exclude isolated cultures). No.
+QID 14: External organic material (rumen, compost... excluding sludge). No (Sludge is inoculum).
+QID 58: Microaerobic. No.
+
+So only [1].
+
+Wait, does the Hollander beater count as "pressure-based"?
+It mentions "high pressure and speed". But it's not pressure as a treatment type (like hydrostatic press). It's mechanical force.
+QID 4: "pressure-based pretreatment... for example but not only: high-pressure homogenisation, pressure shock treatment, hydrodynamic cavitation, mechanical jet). and not pressure generated incidentally by heating in closed systems such as hydrothermal methods".
+The text says "high pressure and speed reached under the drum beat the mixture." This is part of the mechanical action of the beater. Is it considered a "pressure-based pretreatment"?
+Usually, pressure-based pretreatment refers to hydrostatic press or hydrothermal.
+The text refers to "mechanical pretreatment effects... Hollander beater".
+And question 1 covers "physical process that mechanically alters the substrate".
+The Hollander beater is a mechanical pretreatment.
+Does it fit QID 4 (pressure based)?
+The instruction says: "Does the methodology explicitly describe the use of pressure-based pretreatment...".
+The Hollander beater works under pressure.
+But QID 1 is the broader category "Mechanical pretreatment".
+Does it fit QID 4 as well?
+If I select both, I might double count.
+The instruction says: "Identify ALL the different pretreatments".
+If the beater is primarily mechanical, does it also count as pressure-based?
+The text says "blades and grooves exercise a cutting action while the high pressure and speed reached under the drum beat the mixture."
+This is mechanical cutting/rupturing.
+Does it fit QID 4?
+QID 4 says "pressure-based...".
+Usually, a beater is not classified as a pressure-based pretreatment (like autoclave or hydrostatic).
+I will stick to [1] as it explicitly describes mechanical action in question 1.
+If the text doesn't explicitly define it as pressure-based pretreatment (just mechanical), I should just match it to the description in QID 1 which is more specific to "mechanical alters the substrate".
+However, QID 1 says "mechanical treatment... e.g., grinding, milling, shredding".
+The beater is a grinding/milling type.
+So QID 1 is the correct match.
+
+Wait, are there any other pretreatments?
+"The energy requirement of the machine's engine is 1 hp."
+"The moisture content... was obtained by drying".
+"Inoculum...".
+Is there any "co-digestion" involving sludge pretreatment?
+"sludge singularly or in combination with others".
+"Sludge's particles disintegration was efficiently achieved by Appels et al...".
+These are other references.
+No specific pretreatment for sludge is described in the methodology.
+
+So only the Hollander beater for the seaweed.
+The ID is [1].
+
+Wait, I should check if "moisture content" is considered a pretreatment.
+The instruction says "exclude the following 3 and nothing else:drying, washing and freezing for storage".
+Drying is explicitly excluded from pretreatment identification in this context (even though it is a sample prep step).
+So I should not list "moisture removal" as a pretreatment.
+So only the beater.
+
+One more check: "The machine was fed using 1 kg wet of each spp. and 20 L of water."
+This is the feed mixture, not a chemical pretreatment.
+"The Hollander beater has never been used as mechanical pretreatment machine on seaweed biomass."
+It was never used, but the methodology describes it in the context of the study.
+This text describes the study's methodology.
+So "Hollander beater" is a treatment described in the methodology.
+So [1].
+
+Is there any "co-digestion" where the sludge is treated first?
+"sludge's particles disintegration was efficiently achieved by Appels et al [32]...".
+This is about sludge, not the main substrate (seaweed).
+The main substrate is seaweed.
+So only [1].
+
+Final check:
+The task is to identify pretreatments on substrates in the article.
+List of IDs to output: [1].
+Is there any other mechanical process?
+"bed-plate with sharp grooves... dual functionality for cutting the material".
+This is mechanical.
+Are there any thermal processes?
+"Water-baths were used to keep the reactors at a fixed mesophilic temperature...".
+This is incubation.
+"Moisture content... obtained by drying at 105 °C".
+This is sample prep. Exclude.
+"Appels et al... 40% extra biogas obtained for low frequency ultrasound treatment at 37 °C".
+This is a reference to another study, not the methodology.
+So [1] is correct.
+2026-06-02 11:52:11,633 [1]
+2026-06-02 11:52:11,633 articletxt/752.txt
+2026-06-02 11:52:11,634 Title of processing article: TITLE: Accelerated biomethane production from lignocellulosic biomass: Pretreated by mixed enzymes secreted by Trichoderma viride and Aspergillus sp.
+2026-06-02 11:54:46,190 HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2026-06-02 11:54:46,193 154 seconds of runtime
+2026-06-02 11:54:46,193 Thinking Process:
+
+1.  **Analyze the Request:**
+    *   **Task:** Identify pretreatments on a substrate in the provided article.
+    *   **Context:** Anaerobic digestion (AD) focusing on pretreatment.
+    *   **Input:** Article text, a list of classification questions (10, 14, 18-25, 58, etc., though only specific qids 1-14 are explicitly listed with instructions, and qid 58 is also provided), specific constraints on identification.
+    *   **Constraint 1:** Start by reading the text and the questions.
+    *   **Constraint 2:** STEP 1: Identify pretreatments from the methodology. Exclude drying, washing, freezing, freezing/storage (wait, the instructions say "exclude the following 3 and nothing else: drying, washing and freezing for storage."). Wait, re-reading: "only exclude the following 3 and nothing else:drying, washing and freezing for storage." This means I must include drying, washing, and freezing if they appear *as part of the pretreatment* but the instruction says "exclude... drying, washing and freezing for storage". So I need to identify treatments applied to the *substrate* that are pretreatments, excluding those that are just drying/washing/storage. The instruction says "Identify ALL the different pretreatments applied to the substrates... This includes potential treatments during substrate sample preparation... only exclude the following 3 and nothing else:drying, washing and freezing for storage."
+    *   **Constraint 3:** STEP 2: Map identified treatments to the provided question list (Qids). If the description fits one of the questions (based on criteria provided in the prompt like "1. Identify enzyme used...", "2. Does the methodology explicitly describe..."), provide the qids. If it doesn't fit, answer -1.
+    *   **Constraint 4:** Output format: Single list of numbers `[int1, int2,...]` or `-1`. No explanations, no markdown.
+
+    *   **Wait, there's a conflict in the instructions:** "identify ALL the different pretreatments applied to the substrates" vs "identify the treatment from the list of questions provided above".
+    *   **Interpretation:** The prompt asks me to identify pretreatments (STEP 1) and then match them to the specific classification questions (Qids 1-14, etc.) provided in the instruction block. I need to look for methods that *fit* the definition of pretreatment (e.g., enzymes, chemical agents, thermal, mechanical) and check if there's a corresponding question ID (qid) that represents that specific method.
+    *   **However**, the instruction says: "The treatment identified above (in STEP 1) refers to treatments identified in a scientific article in the context of anaerobic digestion. More specifically it refers to a pretreatment of the substrate. You must identify the treatment from the list of questions provided above, it is possible that the description doesnt fit any questions."
+    *   This implies I need to match the *pre-treatment methods found in the text* to the *provided questions*.
+    *   **Wait, looking at the questions:** The provided questions (qid 1-14 and 58) are specific criteria definitions (e.g., "Does the methodology explicitly describe mechanical treatment?", "Does the methodology explicitly describe enzyme usage...", "Does the methodology explicitly describe chemical pretreatment...").
+    *   **Goal:** The user wants me to identify the pretreatment method found in the text and map it to one of these questions' descriptions *if* it fits. But the instruction says "identify the treatment from the list of questions... it is possible that the description doesn't fit any questions... If the description doesn't fit any questions answer with -1".
+    *   **Wait, looking closer at the instruction:** "You must identify the treatment from the list of questions provided above". This is a bit ambiguous. Does it mean "Does the methodology fit Question 1?" "Does it fit Question 2?" and output a list of qids that match? Or does it mean "Find the treatment and see if there is a qid for it in the list"?
+    *   **Re-reading carefully:** "You are tasked with identifying the pretreatments on a substrates... there is need to be precise and not miss details, but there is no need for complex reasoning it is a simple identification process."
+    *   "STEP 1: Identify the pretreatments... Describe the identified treatment in detail with information form the text".
+    *   "STEP 2: The treatment identified above (in STEP 1) refers to treatments identified in a scientific article... You must identify the treatment from the list of questions provided above, it is possible that the description doesnt fit any questions."
+    *   "Output format: Single list of numbers... no explanations, no markdowns".
+    *   **Constraint Check:** The prompt asks for a list of qids based on the matching of the identified treatment to the questions.
+    *   **Wait, one more thing:** The prompt includes specific definitions for the questions in the text. e.g. "1.Identify any mechanical treatment... 2. Confirm... 3. confirm it is a direct mechanical desintegration effect... exclude freezing, or pressure...". This looks like an instruction for *me* to evaluate the methodology against these criteria, but the instruction "identify the treatment from the list of questions" suggests I need to answer the specific Qids provided.
+    *   **Wait, I need to look at the Qids.** They are questions *about the methodology*. The task is to identify the *pretreatments* and then map them to the *Qids* that define those pretreatments? No, the prompt says "identify the pretreatments... You must identify the treatment from the list of questions provided above... if the description doesnt fit any questions answer with -1". This is very confusing.
+    *   **Let's interpret the task as:** The input is an article about pretreatment. I need to extract the pretreatment method(s) described in the text. Then I need to check if the methodology *matches the definitions provided in the Qids*. Wait, no. The instruction says "identify the pretreatments on a substrates... You must identify the treatment from the list of questions provided above". This implies the output *must be* the qids of the questions that *describe* the pretreatment method found.
+    *   **Wait, let's look at the instruction again:** "identify the pretreatments... Describe the identified treatment in detail with information from the text". Then "the treatment identified above... refer to treatments identified in a scientific article... You must identify the treatment from the list of questions provided above... answer with the qids".
+    *   **Hypothesis 1:** I need to identify the pretreatment method (e.g., enzymatic pretreatment using enzymes from fungi). Then I need to check which of the provided Qids (1-14) define this method. If the description of the method *matches* the definition in Qids, I list the qid number associated with that definition. But Qids 1-14 are questions *about* the methodology (e.g., "Does the methodology explicitly describe...?"), not definitions of the treatment itself.
+    *   **Hypothesis 2:** The Qids are criteria for classification. The task is to find the "pretreatment" in the text, and then classify it by selecting the relevant Qids that describe its nature.
+    *   **Hypothesis 3 (Most Likely):** The user wants me to perform Step 1 (Identify the method), Step 2 (Match to Qids), Step 3 (Output). Step 2 says "identify the treatment from the list of questions provided above". This implies the *pretext treatment* needs to be matched to one of the Qids that define it. But the Qids ask questions like "Does the methodology explicitly describe...".
+    *   **Wait, looking at the instruction again:** "You must identify the treatment from the list of questions provided above". This is likely a miscommunication in the prompt instructions. Usually, classification tasks ask to label the text based on the questions. If the task is "identify the pretreatments... from the list of questions", it implies: If the treatment *is* an enzyme, the qid related to enzymes is 11? If it is thermal, it's 2?
+    *   **Let's look at the instruction:** "if the description doesnt fit any questions answer with -1". This suggests that sometimes there won't be a match.
+    *   **Wait, Step 2:** "The treatment identified above (in STEP 1) refers to treatments identified in a scientific article... You must identify the treatment from the list of questions provided above".
+    *   **Wait, this is contradictory.** If I identify "enzymatic pretreatment", does it fit Qid 11? Qid 11 says "Does the methodology explicitly describe the use of an enzyme...". Yes. So the treatment (enzymatic pretreatment) *is* the answer to Qid 11.
+    *   **However, the instruction says:** "Do not answer with anything else a part form the requested list, no explanations, no markdowns". And "output format... single list of numbers".
+    *   **Wait, the Qids listed:**
+        *   qid 1: Mechanical treatment (size reduction, structural disruption).
+        *   qid 2: Thermal pretreatment.
+        *   qid 3: Ultrasound pretreatment.
+        *   qid 4: Pressure-based pretreatment.
+        *   qid 5: Direct electrical application.
+        *   qid 6: Alkaline pretreatment.
+        *   qid 7: Acidic pretreatment.
+        *   qid 8: Oxidizer agent.
+        *   qid 9: Solvent for pretreatment.
+        *   qid 10: Chemical pretreatment different from prevalent (surfactant, salts, etc.).
+        *   qid 11: Enzyme for pretreatment (includes crude enzymes).
+        *   qid 12: Use of a fungi for pretreatment.
+        *   qid 13: Use of microbial, isolate... (exclude sludge).
+        *   qid 58: Microaerobic pretreatment.
+    *   **My task:** Read the text to find the specific pretreatment used in the methodology.
+    *   **Text Analysis:**
+        *   Section 2.1 Cultivation of T. viride and Aspergillus sp. (Used to get crude enzymes).
+        *   Section 2.2 Preparation of crude enzyme solution (Used to hydrolyze cellulose/hemicellulose).
+        *   Section 2.3 Raw materials...
+        *   Section 2.4 Test design (Section 2.4.1 Pretreatment): "different mixing ratios of ETv/EAs were set... 50 mL enzyme solution was separately added to a 1 L reagent bottle containing 9 g of dry yellow MS powder... pretreated in a 50 °C incubator for 6 days".
+        *   The core pretreatment method is **"enzymatic pretreatment"** using **"crude enzymes" (Crude enzyme solution)** extracted from fungi (**Trichoderma viride** and **Aspergillus sp.**).
+        *   It is *not* drying (Section 2.1 mentions drying after milling, Section 2.3 mentions drying before grinding, Section 2.4.1 says "prettreated in a 50 °C incubator" - this is enzymatic hydrolysis).
+        *   It is not washing.
+        *   It is not mechanical disruption (except maybe grinding in 2.3, but that's preparation of substrate, not pretreatment for AD).
+        *   It is not thermal (Section 2.4.1 mentions incubator at 50 °C, but this is the incubation for the enzyme solution preparation, not AD temperature. Wait, Section 2.4 says "50 °C incubator for 6 days". Section 2.4.2 says "All treatments were carried out in triplicate at (35 ± 2) °C" for the AD digester. So the *pretreatment* incubation temperature 50 °C is distinct from the digestion temperature 35 °C. However, 50 °C is not "high temperature" thermal pretreatment. It is biological/physical incubation).
+        *   Section 2.4.1 says: "50 mL enzyme solution was separately added... pretreated in a 50 °C incubator for 6 days". This is enzymatic pretreatment.
+    *   **Identified Treatment:** Enzymatic pretreatment (Crude enzyme solution from fungi).
+    *   **Matching to Qids:**
+        *   Qid 1: Mechanical treatment? No.
+        *   Qid 2: Thermal treatment? No (incubator 50C, not high temp degradation).
+        *   Qid 3: Ultrasound? No.
+        *   Qid 4: Pressure? No.
+        *   Qid 5: Electrical application? No (enzymes, not electricity).
+        *   Qid 6: Alkaline? No.
+        *   Qid 7: Acidic? No.
+        *   Qid 8: Oxidizer? No.
+        *   Qid 9: Solvent? No.
+        *   Qid 10: Chemical pretreatment different? No.
+        *   Qid 11: Enzyme for pretreatment? **Yes**. The text explicitly mentions "enzymes... mixed enzymes". "enzymes were obtained... crude enzymes of different biological sources were mixed... as pretreatment agents". Section 2.4.1 says "50 mL enzyme solution... pretreated".
+        *   Qid 12: Use of a fungi for pretreatment? **Yes**. The text mentions "solid-state fermentation of fungi... enzymes... were obtained by solid-state fermentation of fungi".
+        *   Qid 13: Microbial, isolate... pretreatment? **No**. The instruction says "exclude mediums rich in microorganisms... and... extracted enzymes". But here the method is "enzymes extracted from fungi". The text says "enzymes were obtained by solid-state fermentation of fungi". It says "enzymes extracted from fungi". The method is *using* the enzymes, not the microorganism directly (though fungi are the source). Qid 13 says "exclude mediums rich in microorganisms... and... extracted enzymes". So if the method relies on *enzymes*, it is Qid 11 (Enzyme for pretreatment). Qid 12 says "Use of a fungi for pretreatment". Qid 13 says "exclude... extracted enzymes". The instruction says "You must identify the treatment from the list of questions provided above".
+        *   If the treatment is "Enzymatic pretreatment", it fits Qid 11 (Enzyme for pretreatment). It *also* fits Qid 12 (Use of a fungi for pretreatment - if the source is considered "a fungi" vs "enzymes"). But Qid 13 explicitly excludes "extracted enzymes". So Qid 11 is the most accurate for "enzymatic pretreatment".
+        *   Does it fit Qid 12? "Use of a fungi for pretreatment". The text says "enzymes were obtained by solid-state fermentation of fungi... crude enzymes... mixed". The source is fungi, but the treatment *is* the enzymes. So Qid 11 is the primary match.
+        *   Does it fit Qid 58? Microaerobic? No.
+        *   Wait, the instruction "identify the treatment from the list of questions provided above" might mean I should output the Qid number that defines the treatment *if it matches*.
+        *   If there are multiple matches (e.g. Qid 11 and Qid 12), I should list both? The instruction says "include them in a single list following this format". So yes, a list of matching qids.
+        *   The instruction also says: "if the description doesnt fit any questions answer with -1".
+        *   Wait, does the text *explicitly* describe "use of a fungi for pretreatment" as a pretreatment step? Section 2.1 mentions cultivation of T. viride. Section 2.4.1 says "different mixing ratios of ETv/EAs were set". Section 2.4.1 says "50 mL enzyme solution was separately added... pretreated". So the "use of a fungi" is via the enzyme production (solid state fermentation). Qid 12 says "Use of a fungi for pretreatment". Does "crude enzyme solution" count as "use of a fungi for pretreatment"? Usually, Qid 11 "Enzyme for pretreatment" takes precedence over Qid 12 "Fungi for pretreatment" because Qid 11 specifically mentions "enzymes".
+        *   However, Qid 12 says "Use of a fungi for pretreatment (this excludes enzymes extracted from a fungi)". Wait, Qid 12 text: "Does the methodology explicitly describe the use of a fungi for pretreatment on a substrate (this excludes enzymes extracted from a fungi)". Wait, Qid 12 description is in the prompt: "Does the methodology explicitly describe the use of a fungi for pretreatment on a substrate (this excludes enzymes extracted from a fungi)".
+        *   **Wait, re-reading Qid 12 definition:** "This excludes enzymes extracted from a fungi".
+        *   **My treatment:** The text describes "Enzymatic pretreatment... crude enzymes... mixed". It *uses* enzymes extracted from fungi. Qid 12 explicitly excludes enzymes extracted from a fungi.
+        *   Therefore, **Qid 12 should NOT match** because of the exclusion in the definition provided in the prompt.
+        *   What about Qid 11? "Does the methodology explicitly describe the use of an enzyme for pretreatment on a substrate... This exclude any bacteria, fungi, or other secreting enzyme organism, it refers to the direct use of enzymes."
+        *   The text says "enzymes were obtained by solid-state fermentation of fungi... crude enzymes... mixed". This is the method used. It describes the direct use of enzymes (extracted). Qid 11 says "refers to the direct use of enzymes".
+        *   So **Qid 11** matches.
+        *   Does it match Qid 12? No, Qid 12 is explicitly excluded for enzymes.
+        *   So the answer should be `[11]`.
+        *   Wait, are there other treatments?
+        *   Section 2.4.1 mentions "incubation in a 50 °C incubator". Is that "Drying"? No, "drying" is excluded from the instructions ("only exclude the following 3... drying, washing and freezing"). But is 50C a thermal pretreatment? Section 2.4.1 says "50 °C incubator". Usually, "thermal pretreatment" refers to high temperature or mild thermal pretreatment. The instruction for Qid 2 says: "Do not consider drying as a valid pretreatment". It doesn't explicitly exclude 50°C, but "thermal pretreatment on a substrate... for thermal pretreatment consider high temperatures treatments". 50°C is mild thermal.
+        *   However, the main focus of the text is on the enzymatic step (2.4.1). The 50°C is just to grow/enzymatic preparation. But wait, "pretreatment methods include physical methods, chemical methods, and biological methods." The study uses biological methods (enzymes).
+        *   Does it fit Qid 1 ("Mechanical treatment"): Grinding (2.3) and Chopping (2.3) were done to prepare the MS powder. Is this "pretreatment"? The text says "MS was chopped... ground... to obtain MS powder". This is material preparation for the substrate. The instruction says "Identify ALL the different pretreatments applied to the substrates... This includes potential treatments during substrate sample preparation, only exclude the following 3 and nothing else: drying, washing and freezing for storage." This implies grinding/chopping is *pre-treatment* in the broad sense, or rather preparation of the substrate sample. But the context of "pre-treatment for anaerobic digestion" is specifically enzymatic.
+        *   The prompt says "Identify ALL the different pretreatments applied to the substrates...". This is tricky. In biological pre-treatment studies, "pre-treatment" usually refers to the biological treatment (enzymes). However, "sample preparation" like grinding (FZ-102 Mini Plant Grinder) is technically a physical process that alters the substrate (structural disruption/crushing). The instruction says "identify all different pretreatments... This includes potential treatments during substrate sample preparation".
+        *   So I need to check if Grinding counts as a "pre-treatment" in the context of "anaerobic digestion pretreatment" or just "substrate sample preparation". The prompt instruction says "Identify ALL the different pretreatments applied to the substrates... This includes potential treatments during substrate sample preparation". This suggests Grinding/Chopping counts as a potential "pre-treatment".
+        *   So does Qid 1 ("Mechanical treatment") apply to Grinding/Chopping? Qid 1 definition: "Identify any mechanical treatment (e.g., grinding, milling, shredding, physical disruption, or similar)". So if the text describes Grinding/Chopping, it fits Qid 1.
+        *   So, does the text describe Mechanical treatment? Yes (Section 2.3 "MS was chopped to small pieces... dried... ground with a FZ-102 Mini Plant Grinder to obtain MS powder").
+        *   So Qid 1 applies.
+        *   Does Qid 11 (Enzyme) apply? Yes.
+        *   Does Qid 12 (Fungi) apply? Qid 12 definition: "Use of a fungi... (this excludes enzymes extracted from a fungi)". Since the text uses enzymes extracted from fungi, Qid 12 is excluded.
+        *   Does Qid 2 (Thermal) apply? Section 2.4.1 says "50 °C incubator for 6 days". Is this considered thermal pretreatment? The text distinguishes "pretreatment" (enzymes, physical, chemical) from "anaerobic digestion" (35 °C). The 50 °C is specifically for the enzyme solution prep. Is this "pretreatment on a substrate"? No, it's preparing the enzyme solution. However, 2.4.2 "MS was pretreated for 6 days" implies the MS powder was treated with the enzyme solution. The enzyme solution was prepared in 50 °C. Is this 50 °C a pretreatment temperature? The instruction for Qid 2 says "Do not consider drying as a valid pretreatment". It doesn't specify exclusion of mild thermal like 50C. But usually, "Thermal Pretreatment" refers to drying, autoclaving, heating, etc.
+        *   Wait, the most prominent pretreatment in the study is **Enzymatic Pretreatment**.
+        *   So I should focus on the Qids that match Enzymatic Pretreatment.
+        *   Qid 11: Enzyme. (Yes)
+        *   Qid 12: Fungi (Excluded).
+        *   Qid 1: Mechanical? (Yes, Grinding/Chopping mentioned in 2.3 as part of sample preparation, but does it count as "pretreatment applied to the substrates"? The instruction says "This includes potential treatments during substrate sample preparation". So yes. So Qid 1 is relevant).
+        *   However, in scientific classification of AD pretreatment, Mechanical (Grinding) is usually "Sample Preparation", not "Pretreatment of the Substrate for AD". The instruction asks to "identify pretreatments... in a scientific article... Pretreatments applied to the substrates". Grinding is to *prepare* the substrate, not to *pretreat* the substrate itself before AD. The text says "MS was chopped to small pieces... ground... to obtain MS powder". Then "MS was pretreated for 6 days...". The grinding was to prepare the powder for the 6-day incubation. So is it "pretreatment applied to the substrate"? Or is it "Sample preparation"? The instruction says "This includes potential treatments during substrate sample preparation". This suggests I should include grinding/chopping.
+        *   However, Qid 11 matches the main point (Enzymatic).
+        *   Qid 2: Thermal? 50C.
+        *   Qid 1: Mechanical? Grinding.
+        *   The prompt asks: "identify the pretreatments on a substrates... You must identify the treatment from the list of questions provided above... if the description doesnt fit any questions answer with -1".
+        *   This means I need to output a list of Qids that describe the identified pretreatment(s).
+        *   If the identified pretreatment is "Enzymatic Pretreatment (Mechanical Grinding)", then Qids 1 and 11 are relevant.
+        *   If I exclude mechanical preparation from "pretreatment", then only Qid 11.
+        *   Given the instruction "This includes potential treatments during substrate sample preparation, only exclude... drying, washing and freezing for storage", Grinding is included.
+        *   So Qid 1 (Mechanical treatment) applies to Grinding.
+        *   Qid 11 (Enzyme) applies to Enzymatic Pretreatment.
+        *   However, I need to check if Qid 11 is the primary one. The text says "Enzymatic pretreatment... was assessed... crude enzymes of different biological sources were mixed... as pretreatment agents".
+        *   Is there a Qid for "Enzymatic"? Qid 11.
+        *   Is there a Qid for "Biological"? Qid 13 excludes microbes.
+        *   Qid 12 excludes enzymes.
+        *   So only Qid 11 fits "Enzyme".
+        *   Does Qid 1 fit? "Mechanical treatment (e.g., grinding, milling, shredding, physical disruption)". The text says "MS was chopped to small pieces... ground with a FZ-102 Mini Plant Grinder". This is mechanical disruption of the substrate. So Qid 1 applies.
+        *   Does Qid 2 fit? 50C is not high temp. But 2.4.1 says "50 °C incubator". This is enzymatic incubation.
+        *   Does Qid 3/4/5/9/6/7/8/10/12/13/58 fit? No.
+        *   So the list should be `[11, 1]`. Or just `[11]`.
+        *   Wait, Qid 1 says "Identify any mechanical treatment...". The prompt instruction says "Identify ALL the different pretreatments...". If Grinding counts, Qid 1 is valid. If Grinding is "Sample Preparation", it might not be considered "Pretreatment" in the strict sense. The instruction says "This includes potential treatments during substrate sample preparation". This implies Grinding is a "Treatment applied to the substrate".
+        *   So I will include Qid 1 and Qid 11.
+        *   Wait, but there is a constraint: "identify the treatment from the list of questions provided above... It is possible that the description doesnt fit any questions. If the description doesnt fit any questions answer with -1".
+        *   If I identify "Enzymatic Pretreatment", does it fit Qid 11 (Enzyme) and Qid 12 (Fungi)? No Qid 12 because enzymes excluded. Does it fit Qid 1 (Mechanical)? No, it's biological enzyme.
+        *   So if I identify the *primary* pretreatment (Enzymatic), only Qid 11 fits.
+        *   But if I identify Grinding *and* Enzymatic, then Qid 1 and Qid 11.
+        *   Which one is more important? The text highlights "Enzymatic pretreatment" as the core contribution ("High-throughput sequencing... evaluate the effect of enzymatic pretreatment").
+        *   However, the instruction says "Identify ALL the different pretreatments".
+        *   So I should list all that match.
+        *   But wait, the output format is `[int1,int2,...]`.
+        *   Let's look at the instruction "if the description doesnt fit any questions answer with -1". This implies I need to check the *definition* in the question against the *description* in the text.
+        *   My text description of the pretreatment: "Enzymatic pretreatment using crude enzymes extracted from fungi (Trichoderma viride and Aspergillus sp.)."
+        *   Does "Enzymatic pretreatment" fit Qid 11? Yes ("Does the methodology explicitly describe the use of an enzyme for pretreatment on a substrate").
+        *   Does it fit Qid 12? No (Excluded by text definition).
+        *   Does it fit Qid 1 (Mechanical)? The text says "MS was chopped... ground with a FZ-102 Mini Plant Grinder". This is "Potential treatments during substrate sample preparation" (as per instructions "This includes potential treatments during substrate sample preparation"). So yes, Qid 1 applies.
+        *   Wait, does "pretreatment applied to the substrates" include sample prep like grinding? "Identify ALL the different pretreatments applied to the substrates... This includes potential treatments during substrate sample preparation". So yes, Grinding counts.
+        *   So `[1, 11]` seems correct.
+        *   Wait, is Qid 11 correct? "Does the methodology explicitly describe the use of an enzyme for pretreatment on a substrate...". Yes.
+        *   Is Qid 1 correct? "Does the methodology explicitly describe the use of any mechanical treatment...". Yes.
+        *   Is Qid 2 correct? "Does the methodology explicitly describe the use of thermal pretreatment". 50C is not high temp. So No.
+        *   Is Qid 3 correct? No.
+        *   So `[1, 11]`.
+        *   Wait, I need to check the instruction "identify the treatment from the list of questions provided above... if the description doesnt fit any questions answer with -1".
+        *   Wait, the instruction says "identify the treatment from the list of questions provided above". This might mean I should output the qid number that *represents* the treatment, not the qid that describes it.
+        *   But Qid 1 is "Mechanical". Qid 11 is "Enzyme". The text describes "Enzymatic". Does it describe Mechanical? Yes, grinding. So `[11, 1]`.
+        *   Wait, but does "Enzymatic" fit Qid 12? Qid 12 is "Fungi... excludes enzymes". So No.
+        *   So I should check if Qid 11 is the best fit.
+        *   Wait, is there a Qid for "Biological"? No.
+        *   So I will select `[11, 1]`.
+        *   Wait, re-reading the Qid 1 definition: "Identify any mechanical treatment (e.g., grinding, milling, shredding, physical disruption, or similar)".
+        *   Re-reading the text 2.3: "MS was chopped to small pieces... dried... ground... to obtain MS powder". This is mechanical disruption of the MS.
+        *   So yes, Qid 1.
+        *   Wait, does the text describe "Enzyme" in the methodology? Yes. 2.1 Cultivation... 2.2 Preparation of crude enzyme solution... 2.4 Test design (Pretreatment with enzyme solution).
+        *   So Qid 11 is definitely one.
+        *   Is there a better Qid?
+        *   Let's consider if Qid 1 is considered a "Pretreatment" in the context of AD. The instructions say "identify pretreatments... This includes potential treatments during substrate sample preparation". This implies Mechanical grinding *is* a pretreatment per this specific instruction logic.
+        *   So `[1, 11]` is the set.
+        *   Wait, I need to ensure I don't miss details. "Start by reading the text and the questions to better understand the context".
+        *   I have to check if Qid 12 is possible. Qid 12 definition: "This excludes enzymes extracted from a fungi". The text explicitly says "enzymes were obtained by solid-state fermentation of fungi... crude enzymes of different biological sources were mixed". This is "Enzymatic Pretreatment". Since the definition excludes enzymes, Qid 12 is NO.
+        *   So only Qid 1 and Qid 11.
+        *   Wait, Qid 1 is "Mechanical". Qid 11 is "Enzyme". The text describes both.
+        *   Are there any others?
+        *   Section 2.4.2 "300 mL of anaerobic inoculum was added...". Not pretreatment.
+        *   Section 2.5 "Chemical indicators...". Not pretreatment.
+        *   Section 2.4.1 "pretreated in a 50 °C incubator". This is for enzyme prep? Or AD? "MS was pretreated for 6 days, taken out from the incubator. 300 mL of anaerobic inoculum was added...". Wait, the incubation was for the enzyme solution. "50 mL enzyme solution was separately added to a 1 L reagent bottle... pretreated in a 50 °C incubator for 6 days... The blank group was replaced with 50 mL of deionized water." Then "The fermentation unit was filled...".
+        *   Wait, Section 2.4.2: "MS was pretreated for 6 days". So the MS powder + Enzyme solution (in a bottle) was treated. This is the pretreatment step.
+        *   So the primary pretreatment is "Enzymatic".
+        *   So Qid 11 is the match.
+        *   Qid 1 is also a match based on the instruction "This includes potential treatments during substrate sample preparation".
+        *   Is "Chopping" considered "Pretreatment applied to the substrate"? Yes, per instruction.
+        *   So `[1, 11]`.
+        *   Wait, I should check if Qid 11 is "Enzyme for pretreatment". Yes.
+        *   Is Qid 1 "Mechanical treatment"? Yes.
+        *   Is there any other?
+        *   No.
+        *   Wait, is there a Qid for "Biological Pretreatment"? No.
+        *   So `[1, 11]`.
+        *   But wait, the instruction says "identify the treatment from the list of questions provided above". This implies I should list the qid of the question that *describes* the treatment.
+        *   Wait, Qid 11 describes the use of an enzyme. Qid 1 describes the use of mechanical treatment.
+        *   If the treatment is "Enzymatic", does it fit Qid 11? Yes. Does it fit Qid 1? No, Enzymatic is not Mechanical.
+        *   Wait, the instruction says "Identify ALL the different pretreatments... This includes potential treatments during substrate sample preparation".
+        *   This means I should identify the pretreatments (e.g., Enzymatic + Grinding).
+        *   Then I must identify the treatments from the list of questions.
+        *   So if Enzymatic is identified, and Grinding is identified.
+        *   Grinding is Mechanical -> Qid 1.
+        *   Enzymatic is Enzyme -> Qid 11.
+        *   So `[1, 11]`.
+        *   Wait, the instruction says "identify the treatment from the list of questions". This is slightly ambiguous. Does it mean "Select the qid that corresponds to the treatment"?
+        *   Yes, "You must identify the treatment from the list of questions provided above... If the description doesnt fit any questions answer with -1".
+        *   So I need to match the identified treatment(s) with the question descriptions.
+        *   So if Treatment is "Enzymatic + Grinding", and Qid 11 matches Enzymatic, and Qid 1 matches Grinding.
+        *   Then the list is `[1, 11]`.
+        *   Wait, I need to be careful. Is "Grinding" definitely considered a pretreatment in this context? The instruction says "This includes potential treatments during substrate sample preparation". This suggests yes.
+        *   Wait, I need to check the text. "MS was chopped to small pieces... dried... ground... to obtain MS powder". Then "MS was pretreated...". So the grinding was to prepare the powder. The powder was then "pretreated". So grinding is part of the preparation process that leads to the substrate ready for AD.
+        *   So yes, `[1, 11]`.
+        *   Wait, is there a question for "Chemical"? Qid 7 (Acidic/Alkaline). No. Qid 10 (Chemical different). No.
+        *   So `[1, 11]`.
+        *   Wait, one more check. "Identify ALL the different pretreatments applied to the substrates".
+        *   Does "Solid-state fermentation of fungi" count as a pretreatment? Yes, it's the source of the enzyme.
+        *   Does the "50 °C incubator" count as thermal? Qid 2 says "thermal pretreatment... for thermal pretreatment consider high temperatures treatments... Do not consider drying". 50°C is not high temperature. So no.
+        *   Does "Enzymatic" count as "Pretreatment"? Yes.
+        *   Does Qid 11 match Enzymatic? Yes.
+        *   Does Qid 1 match Grinding? Yes.
+        *   So `[1, 11]`.
+        *   Wait, I should check if Qid 12 is possible. Qid 12 says "Use of a fungi... (this excludes enzymes extracted from a fungi)". So Qid 12 is NO.
+        *   Okay, I'm confident in `[1, 11]`.
+        *   Wait, wait, I should check if the instruction implies I should only list the qid that *exactly matches* the treatment, or all relevant ones. "identify the treatment from the list of questions provided above". This implies matching the treatment to the question.
+        *   If I identify "Enzymatic pretreatment", Qid 11 matches.
+        *   If I identify "Grinding", Qid 1 matches.
+        *   So `[1, 11]`.
+        *   Wait, I need to check if Qid 11 excludes anything. "This exclude any bacteria, fungi, or other secreting enzyme organism, it refers to the direct use of enzymes."
+        *   The text says "enzymes were obtained by solid-state fermentation of fungi". This is enzymes extracted from a fungi. Does Qid 11 exclude this? "It refers to the direct use of enzymes." It doesn't explicitly say "exclude enzymes from fungi" in the text definition (the prompt text for Qid 11 says: "this also includes crude enzyme treatments", but the definition says "exclude any bacteria, fungi, or other secreting enzyme organism"). Wait, Qid 11 definition in the prompt text block: "This exclude any bacteria, fungi, or other secreting enzyme organism, it refers to the direct use of enzymes."
+        *   The text for Qid 11 in the prompt: "Does the methodology explicitly describe the use of an enzyme for pretreatment on a substrate (this also includes crude enzyme treatments), This exclude any bacteria, fungi, or other secreting enzyme organism, it refers to the direct use of enzymes."
+        *   Okay, so Qid 11 excludes bacteria, fungi organisms directly used as the organism (like using the fungus to produce it *in situ*), but includes "crude enzyme treatments".
+        *   Wait, the prompt instruction for Qid 11 says: "This exclude any bacteria, fungi, or other secreting enzyme organism". The text for Qid 11 in the prompt block says: "This exclude any bacteria, fungi, or other secreting enzyme organism".
+        *   Wait, the prompt text for Qid 11 says: "Does the methodology explicitly describe the use of an enzyme for pretreatment on a substrate (this also includes crude enzyme treatments), This exclude any bacteria, fungi, or other secreting enzyme organism".
+        *   Wait, I need to read the Qid 11 text in the prompt block carefully.
+        *   Qid 11: "Does the methodology explicitly describe the use of an enzyme for pretreatment on a substrate (this also includes crude enzyme treatments), This exclude any bacteria, fungi, or other secreting enzyme organism, it refers to the direct use of enzymes."
+        *   Okay, this Qid 11 matches the "Enzyme treatment" described in the text (Crude enzymes extracted).
+        *   So `[11]` is definitely one.
+        *   What about Qid 1? "Does the methodology explicitly describe the use of any mechanical treatment (e.g., grinding, milling, shredding, physical disruption, or similar)?...".
+        *   Text 2.3: "MS was chopped to small pieces... dried... ground...". This is mechanical treatment.
+        *   So `[11, 1]`.
+        *   Wait, is there any other question that might apply?
+        *   Qid 12? "Use of a fungi for pretreatment (this excludes enzymes extracted from a fungi)". No, text uses enzymes.
+        *   So `[1, 11]`.
+        *   Wait, I need to check if Qid 1 is a valid pretreatment. The instruction says "This includes potential treatments during substrate sample preparation". This suggests it is valid.
+        *   So `[1, 11]`.
+        *   Wait, is there any constraint against multiple qids? "include them in a single list".
+        *   Okay. `[1, 11]`.
+        *   Wait, check Qid 1 definition. "mechanical treatment (e.g., grinding, milling, shredding, physical disruption, or similar)". Text: "ground with a FZ-102 Mini Plant Grinder". Yes.
+        *   Check Qid 11 definition. "use of an enzyme". Text: "crude enzymes of different biological sources". Yes.
+        *   So `[1, 11]`.
+        *   Wait, I need to check if Qid 1 is "Pretreatment applied to the substrate". The instruction says "This includes potential treatments during substrate sample preparation". This implies yes.
+        *   Okay, final check.
+        *   Text mentions:
+        *   - Grinding (2.3) -> Qid 1.
+        *   - Enzymatic (2.4.1) -> Qid 11.
+        *   No Qid 12 (excludes enzymes).
+        *   No Qid 2 (50C is not thermal pretreatment).
+        *   So `[1, 11]`.
+2026-06-02 11:54:46,193 [1, 11]
+2026-06-02 11:54:46,194 articletxt/1798.txt
+2026-06-02 11:54:46,217 Title of processing article: TITLE: Biological pre-hydrolysis and thermal pretreatment applied for anaerobic digestion improvement: Kinetic study and statistical variable selection
+2026-06-02 11:57:05,279 HTTP Request: POST http://127.0.0.1:11434/api/generate "HTTP/1.1 200 OK"
+2026-06-02 11:57:05,284 139 seconds of runtime
+2026-06-02 11:57:05,284 The user wants me to identify the pretreatments applied to the food waste (FW) substrate in the provided article based on the "Filtering Questions".
+I need to scan the "Material and methods" section for specific pretreatment techniques.
+The text explicitly mentions:
+1.  **Thermal pretreatment**: "Thermal pre-treatment" (TP) is discussed in detail, including temperatures (60, 80, 100, 120, 140 °C) and durations (1 h, 30 min).
+2.  **Biological pre-hydrolysis**: "Biological pre-hydrolysis (BPH)" is discussed in detail, including temperatures (37, 55 °C) and durations (40 h, divided into 20 h intervals).
+
+I also need to check the filtering questions to see which ones cover "pre-treatments applied to the substrates".
+The relevant questions are:
+- Q1: Does the methodology explicitly describe any physical process that mechanically alters the substrate (e.g., size reduction, structural disruption or similar)? Instructions for reasoning: 1.Identify any mechanical treatment (e.g., grinding, milling, shredding, physical disruption, or similar) applied to the substrate, consider mechanical as a blade physically cutting or crushing the material. 2. Confirm that the mechanical treatment is applied to the substrate and not to the inoculum or for analytical characterization. 3.confirm it is a direct mechanical desintegration effect and not an indirect effect from other procedure such as ultrasounds, pressure or similar 4. exclude freezing, or pressure to separate phases if that is the identified method.
+    - Scanning text: "The received FW was mixed with a kitchen blender to reduce the particle size". This is a physical/mechanical process applied to the substrate (mixing to reduce particle size is a form of physical processing before digestion, often considered a pretreatment in food waste contexts, though sometimes it's sample prep).
+    - Q1 instructions say: "Identify any mechanical treatment (e.g., grinding, milling, shredding, physical disruption, or similar) applied to the substrate".
+    - The text says: "mixed with a kitchen blender to reduce the particle size". This counts as a physical process affecting the substrate before the main digestion.
+    - However, usually "mechanical disruption" is distinct from standard "physical pretreatment" in AD literature (like pelletization, sonication). But the question defines it as "size reduction, structural disruption". Mixing/blending is a mechanical process that alters particle size. I will check if there are specific questions that map to this.
+
+Looking at the provided filtering questions list:
+[{'qid': 1, 'question': 'Does the methodology explicitly describe any physical process that mechanically alters the substrate (e.g., size reduction, structural disruption or similar)? Instructions for reasoning: 1.Identify any mechanical treatment (e.g., grinding, milling, shredding, physical disruption, or similar) applied to the substrate, consider mechanical as a blade physically cutting or crushing the material. 2. Confirm that the mechanical treatment is applied to the substrate and not to the inoculum or for analytical characterization. 3.confirm it is a direct mechanical desintegration effect and not an indirect effect from other procedure such as ultrasounds, pressure or similar 4. exclude freezing, or pressure to separate phases if that is the identified method'}, {'qid': 2, 'question': 'Does the methodology explicitly describe the use of thermal pretreatment on a substrate, for thermal pretreatment consider high temperatures treatments as well as mentions of mild thermal pretreatment. Do not consider drying as a valid pretreatment'}, {'qid': 3, 'question': 'Does the methodology explicitly describe the use of ultrasound pretreatment on a substrate'}, {'qid': 4, 'question': 'Does the methodology explicitly describe the use of pressure-based pretreatment on a substrate (for example but not only: high-pressure homogenisation, pressure shock treatment, hydrodynamic cavitation, mechanical jet), and not pressure generated incidentally by heating in closed systems such as hydrothermal methods (e.g., autoclave,subcritical water, LHW,...)'}, {'qid': 5, 'question': 'Does the methodology explicitly describe the use of a direct electrical application on the substrate for pretreatment to disrupt material and increase availability. This exclude all equipment that uses electricity such as but not only ultrasounds and microwave'}, {'qid': 6, 'question': 'Does the methodology explicitly describe the use of alkaline pretreatment on a substrate, by the addition of a alkaline agent. This exclude pH adjustment, it must be for pretreatment purposes'}, {'qid': 7, 'question': 'Does the methodology explicitly describe the use of acidic pretreatment on a substrate, by the addition of a acidic agent. This exclude pH adjustment for the digestion or other reaction, it must be for pretreatment purposes. procedure to verify before answering: 1. Identify acidic agent 2.ensure it is an acid 3. ensure it is used in a pretreatment of the substrate'}, {'qid': 8, 'question': 'Does the methodology explicitly describe the use of an oxidizer agent? 1. Identify the agent 2.ensure it is an oxidizer 3. ensure it is used on the substrate as a pretreatment. Consider photocatalysis with TiO2 as an oxidizer'}, {'qid': 9, 'question': 'Does the methodology explicitly describe the use of solvent for pretreatment on a substrate (e.g., organosolv, ioniq liquid,...), and mentions it as a solvent somewhere in the text (does not have to be in the methodology). Ignore implicit cases such as the use of water in a process. The methodology must clearly identifies a solvent system as an intentional pretreatment medium rather than merely using chemicals dissolved in water. An aqueous chemical solution is NOT a solvent pretreatment unless the paper explicitly frames it as a solvent system. Before answering: 1.Identify the pretreatment medium in the methodology 2.Determine whether it is explicitly a named solvent system in the text'}, {'qid': 10, 'question': 'Does the methodology explicitly describe the use of a chemical pretreatment different from the more prevalent techniques (alkaline, acidic, oxidation and solvent)? Examples of those techniques can be (surfactant, solubilizer, salts,or other) on a substrate, where chemical pretreatment signifies the degradation of complex material to improve bioavailability using some chemical compound'}, {'qid': 11, 'question': 'Does the methodology explicitly describe the use of an enzyme for pretreatment on a substrate (this also includes crude enzyme treatments), This exclude any bacteria, fungi, or other secreting enzyme organism, it refers to the direct use of enzymes. Before answering: 1. Identify enzyme used in the methodology 2.ensure it is an enzyme preparation or extracted crude enzyme 3.ensure that the enzymes are used directly and not produced in situ by bacteria, fungi, or other enzyme-secreting organisms'}, {'qid': 12, 'question': 'Does the methodology explicitly describe the use of a fungi for pretreatment on a substrate (this excludes enzymes extracted from a fungi)'}, {'qid': 13, 'question': 'Does the methodology explicitly describe the use of a microbial, such as isolate bacterial cultures or specialised microbila consortia, pretreatment on a substrate . You must exclude mediums rich in microorganisms(digestate, sludge,...) as well as fungi, and extracted enzymes. '}, {'qid': 14, 'question': 'Excluding inoculum or other sludge necessary for starting the anaerobical biological activity in the digester, does the methodology explicitly describe the use of a external active organic material, such as but not only: rumen, compost, digestate, aerobic sludge or similar, as a pretreatment step; specifically to degrade or modify the substrate before anaerobic digestion, with the explicit purpose of increasing its bioavailability? This does not include any isolated or specialised microbial consortia. For clarity: a sludge or digestate are mainly composed of micro-organism but have large diversity and unknown species, while an isolated consortia of a more controlled species, such as bacteria isolated from fermenting straw and reproduced in a lab would be excluded from this definition.'}, {'qid': 58, 'question': 'Does the methodology explicitly references a microaerobic pretreatment by direct injection of limited air quantity in the anaerobic digester or in the substrate. Specifically, without the inclusion of an additional bacterial consortium or organic material that degrate the substrate under low oxygen conditions ?'}
+
+Re-evaluating Q1: "mechanically alters the substrate".
+Text: "The received FW was mixed with a kitchen blender to reduce the particle size".
+Does "mix with kitchen blender" count as a pretreatment? In the context of the questions provided, Q1 is about "mechanical treatment". The text says "mixed with a kitchen blender". This is a physical processing step to prepare the sample. However, usually in Anaerobic Digestion papers, mechanical pretreatment refers to things like grinding, milling, etc. before the digestion process itself. The text says "stored in the fridge at (4 °C)" after processing.
+The instructions for the task say: "Only answer with the qids of the question and nothing else, include them in a single list following this format:[int1,int2,...]"
+"filtering questions" are specific questions asked to categorize the pretreatments.
+The user provided filtering questions which map specific methods to qids.
+Q1 is about mechanical alteration (grinding/milling/shredding/physical disruption).
+Text: "mixed with a kitchen blender to reduce the particle size".
+This is a physical process applied to the substrate. It falls under "mechanically alters the substrate".
+So I need to select Q1.
+
+Wait, looking at the filtering questions provided in the prompt input:
+The prompt *gives* the filtering questions with their specific IDs.
+The IDs are: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 58.
+I need to select the ones that match the identified pretreatments in the article.
+From my analysis of the text in "Material and methods" -> "Thermal pre-treatment": TP is the method.
+From my analysis of the text in "Material and methods" -> "Biological pre-hydrolysis treatment": BPH is the method.
+From my analysis of the text in "Pre-treatments methods": "mixed with a kitchen blender to reduce the particle size".
+Wait, the user instruction says "Only identify the pretreatments applied to the substrates in a scientific article".
+And "You must identify the treatment from the list of questions provided above".
+This means I need to match the text methods (TP, BPH, maybe Blending) to the filtering question categories (Physical/Mechanical, Thermal, etc.).
+
+Let's look at the filtering questions provided in the input:
+- Q1: Mechanical process (size reduction, etc).
+- Q2: Thermal pretreatment (high temp, not drying).
+- Q3: Ultrasound.
+- Q4: Pressure-based (excluding hydrothermal).
+- Q5: Direct electrical application (exclude ultrasounds/microwaves).
+- Q6: Alkaline pretreatment.
+- Q7: Acidic pretreatment.
+- Q8: Oxidizer.
+- Q9: Solvent.
+- Q10: Chemical pretreatment (surfactant, salts, etc - not solvent).
+- Q11: Enzyme.
+- Q12: Fungi (for pretreatment).
+- Q13: Microbial culture (not sludge, not digestate).
+- Q14: External organic material (compost, digestate, etc - excluding inoculum).
+- Q58: Microaerobic.
+
+So the relevant questions for my identified methods are:
+1.  **Thermal Pretreatment (TP)**: Matches Q2 explicitly ("Does the methodology explicitly describe the use of thermal pretreatment...").
+2.  **Biological Pre-hydrolysis (BPH)**: Does not explicitly match Q1-Q14 based on the specific definitions.
+    - Q1: Mechanical? BPH is biological/biological enzymatic. It's microbial action. It's not mechanical. So no Q1.
+    - Q2: Thermal? No, it's biological.
+    - Q14: External active organic material? BPH uses a mixture with inoculum (not pure organic material to degrade, but inoculum contains microorganisms).
+    - Wait, Q14 says: "Excluding inoculum... does the methodology explicitly describe the use of a external active organic material... to degrade or modify the substrate". BPH uses "mixture of food waste and inoculum (10:1 w/w)". This includes microorganisms. Q14 says exclude mediums rich in microorganisms (digestate, sludge). Inoculum is a mixture of food waste and inoculum.
+    - However, BPH is a pretreatment. The specific Q13 mentions "microbial... pretreatment". Q13 excludes digestates. Inoculum is not digestate/sludge.
+    - But Q14 asks for "external active organic material... such as... compost, digestate...". Inoculum is distinct from digestate.
+    - Is BPH considered a "pre-treatment" that matches Q13/Q14 in the context of the questions?
+    - Q13: "microbial... pretreatment". This fits BPH. "You must exclude mediums rich in microorganisms(digestate, sludge,...) as well as fungi". Inoculum is distinct from digestate. BPH is often described as biological pretreatment.
+    - Wait, Q14 is about external active organic material to modify substrate. This is effectively biological pretreatment.
+    - I need to see which QID fits BPH best.
+    - Does it match Q13 ("Does the methodology explicitly describe the use of a microbial... pretreatment")? The text says "In biological pre-hydrolysis (BPH)... acidogenic bacteria cause extracellular depolymerization...". It involves bacteria.
+    - Does it match Q14 ("...use of a external active organic material... to degrade or modify the substrate")? BPH is biological pretreatment. The text says "The mixture of food waste and inoculum was 10:1". Inoculum is a specific microbial culture. Is it external active organic material? The text says "mixture of food waste and inoculum".
+    - But usually, BPH matches Q13 ("microbial... pretreatment").
+    - Wait, I need to check if there are any *other* pretreatments.
+    - The text mentions: "Pre-treatments of FW were performed just before preparing the feeding for the reactors...". It lists "Thermal pre-treatment" and "Biological pre-hydrolysis treatment".
+    - There is no mention of chemical (except ammonia, nitrates, etc, but not chemical pretreatment agents like surfactants).
+    - The blender mixing is a physical step. Does it count as a "pretreatment" in the context of the questions?
+    - The questions ask "identify the pretreatments on a substrates in a scientific article so that they can be subsequently classified".
+    - So I need to select the specific QIDs for TP and BPH.
+    - Q2 fits TP (Thermal pretreatment).
+    - Q13 fits BPH (Microbial pretreatment).
+    - Q14 fits BPH? Q14 says "does not include any isolated or specialised microbial consortia". BPH uses inoculum which is a microbial consortia. So BPH might NOT fit Q14 (which is about external active organic material like digestate, compost... to increase bioavailability). BPH is about biological activity.
+    - Q13 fits BPH ("Use of a microbial...").
+    - Wait, there's a risk. Q14 definition excludes "mediums rich in microorganisms". Inoculum is used. Q14 asks for external active organic material *not* inoculum/slime/digestate.
+    - Q13 asks if the methodology uses a microbial... pretreatment. This is BPH.
+    - What about Q1 (Mechanical)? "mixed with a kitchen blender to reduce the particle size". This is a mechanical process to modify particle size. Is it a pretreatment?
+    - The prompt instructions say: "Consider only the methodology. Identify ALL the different pretreatments applied to the substrates... include potential treatments during substrate sample preparation, only exclude the following 3 and nothing else:drying, washing and freezing for storage."
+    - So "mix with blender" counts as a pretreatment in this specific context (sample prep).
+    - However, the filtering questions ask to map to specific categories like "thermal", "mechanical", "ultrasound".
+    - The filtering questions provided are specific to "Physical process that mechanically alters". (Q1). "Thermal pretreatment" (Q2). "Ultrasound" (Q3). "Pressure" (Q4). "Electrical" (Q5). "Alkaline" (Q6). "Acidic" (Q7). "Oxidizer" (Q8). "Solvent" (Q9). "Chemical" (Q10). "Enzyme" (Q11). "Fungi" (Q12). "Microbial" (Q13). "External organic material" (Q14). "Microaerobic" (Q58).
+    - I need to map the actual methods identified in the text to these QIDs.
+    - **Thermal Pretreatment (TP)**: Matches Q2.
+    - **Biological Pre-hydrolysis (BPH)**: Matches Q13 ("Use of a microbial... pretreatment").
+    - **Mechanical/Physical** (Blender): The text says "The received FW was mixed with a kitchen blender to reduce the particle size". This is sample preparation. Q1 asks "mechanically alters the substrate". Does "mix with blender" count? The instruction says "identify the treatment from the list of questions provided above". Q1 is the only mechanical question. So if there is a mechanical step, Q1 should be selected.
+    - Instruction: "Identify ALL the different pretreatments applied to the substrates... include potential treatments during substrate sample preparation".
+    - Does the blending constitute a pretreatment? Usually, yes, in food waste AD, "physical pretreatment" includes pelletization, grinding, etc. Here "reducing particle size". This is mechanical disruption.
+    - So Q1 should be selected if there is a mechanical step mentioned as part of the process methodology.
+    - The text says: "The received FW was mixed with a kitchen blender to reduce the particle size and then stored in the fridge...".
+    - So Q1 is applicable.
+    - Q2 is applicable for TP.
+    - Q13 is applicable for BPH (Microbial).
+    - Are there any other questions? Q12 (Fungi) is excluded for BPH as it is not extracting enzymes or fungi *agents*, it's bacteria (which is covered by Q13). Q5 (Electrical) is excluded for BPH. Q9 (Solvent) is excluded. Q14 (External organic material). Inoculum is not external organic material in the sense of Q14 (which excludes microbes).
+    - Wait, Q14 says "Excluding inoculum... does the methodology explicitly describe the use of a external active organic material...".
+    - The text says "mixture of food waste and inoculum". Inoculum is a specific microbial culture. So Q14 does not apply to BPH because it explicitly uses "inoculum".
+    - However, BPH is the treatment.
+    - Does Q14 refer to Q14 specifically?
+    - "Does the methodology explicitly describe the use of a external active organic material... as a pretreatment step...".
+    - This is a classification of the *method*.
+    - The question says: "You must identify the treatment from the list of questions provided above, it is possible that the description doesnt fit any questions. -ONLY answer with the qids of the question...".
+    - So I need to choose all questions where the text *describes* the use of a specific agent/technique defined by that question.
+    - TP -> Q2 (Thermal pretreatment).
+    - BPH -> Q13 (Microbial... pretreatment).
+    - Blending (Particle size) -> Q1 (Physical process mechanically alters).
+    - Are there any other steps?
+    - The text says "Pre-treatments methods". It lists "Thermal pre-treatment" and "Biological pre-hydrolysis treatment". It also mentions "The received FW was mixed with a kitchen blender to reduce the particle size". This is part of the material/methodology section.
+    - The prompt instructions say "Identify ALL the different pretreatments applied to the substrates... include potential treatments during substrate sample preparation".
+    - So I should include Q1 for the mechanical step.
+    - Q1: "mechanically alters the substrate". Blending reduces particle size. This is mechanical alteration.
+    - Q2: "thermal pretreatment". TP.
+    - Q13: "microbial... pretreatment". BPH involves bacteria.
+    - Does Q14 fit? "external active organic material". Inoculum is a microbial culture. Q14 explicitly says "This does not include... isolated or specialised microbial consortia". Q13 says "microbial... pretreatment on a substrate. You must exclude mediums rich in microorganisms(digestate, sludge,...) as well as fungi". Inoculum is distinct from digestate/slime, so it *might* fit Q13 but not Q14.
+    - So I need to select Q1, Q2, Q13.
+    - Wait, the text says "In order to improve AD performances... several pretreatment techniques have been developed, such as physical, chemical, and biological pretreatments (Carrèrea et al., 2010)... Among these pretreatments, thermal and biological pre-hydrolysis (mesophilic and thermophilic) have been widely studied...".
+    - Then it says "Pre-treatments methods: Thermal pre-treatment, Biological pre-hydrolysis treatment".
+    - Then "The received FW was mixed with a kitchen blender...".
+    - The question asks for "pretreatments on a substrate in a scientific article".
+    - The blender is sample prep, but the text calls it "Pre-treatments methods". It lists them under "Pre-treatments methods". So the blender is a pretreatment.
+    - So Q1 (Mechanical) is needed for blending.
+    - Q2 (Thermal) is needed for TP.
+    - Q13 (Microbial) is needed for BPH (bacteria).
+
+    Wait, there's a nuance. "Identify ALL the different pretreatments applied to the substrates...".
+    Does BPH count as a pretreatment if it relies on *microbes*? Yes.
+    Does it count if it uses *inoculum*? Yes, inoculum is a microbial source.
+    So BPH -> Q13.
+    TP -> Q2.
+    Mechanical step -> Q1.
+
+    Wait, I need to check Q14 again. "Excluding inoculum... does the methodology explicitly describe the use of a external active organic material...".
+    BPH uses "mixture of food waste and inoculum". Inoculum is explicitly microbial. Q14 explicitly says "This does not include any isolated or specialised microbial consortia...". So BPH does not fit Q14.
+
+    So the set is {1, 2, 13}.
+
+    Wait, I need to check if "blender" is considered a "pretreatment" in the context of the questions. The text says "The received FW was mixed with a kitchen blender...". The questions don't explicitly define "pre-treatment". The text does. "Pre-treatments methods...". The instructions say "identify ALL the different pretreatments... include potential treatments during substrate sample preparation". So yes, blending counts.
+    So {1, 2, 13}.
+
+    Wait, I should verify if Q13 fits BPH.
+    Q13: "Does the methodology explicitly describe the use of a microbial, such as isolate bacterial cultures or specialised microbila consortia, pretreatment on a substrate. You must exclude mediums rich in microorganisms(digestate, sludge,...) as well as fungi, and extracted enzymes."
+    Inoculum is a "medium rich in microorganisms". However, BPH is "microbial... pretreatment". The exclusion in Q13 says "exclude mediums rich in microorganisms... as well as fungi". This likely refers to the *substrate* being processed, not the *method*.
+    But wait, BPH uses an *inoculum*. Inoculum is a culture. The text says "mixture of food waste and inoculum".
+    Does the text say "microbial pretreatment"? Yes, "acidogenic bacteria cause extracellular depolymerization...".
+    Does Q13 say "exclude mediums rich in microorganisms"? It says "You must exclude mediums rich in microorganisms (digestate, sludge,...) as well as fungi". This might imply "do not count if the substrate is sludge".
+    In the text, the substrate is FW ("food waste"). The inoculum is separate.
+    So Q13 fits.
+
+    One more thing: The text mentions "The received FW was mixed with a kitchen blender to reduce the particle size...".
+    Does this count as a "physical process that mechanically alters the substrate"? Q1 asks "mechanically alters the substrate (e.g., size reduction, structural disruption or similar)". Blending reduces particle size. This is mechanical.
+    So {1, 2, 13}.
+
+    Is there any other question? Q5 is electrical (microwave, ultrasound). Text says ultrasound not mentioned. Q6 Alkaline not mentioned. Q7 Acidic not mentioned. Q8 Oxidizer not mentioned. Q9 Solvent not mentioned. Q10 Chemical (salt, surfactant). Not mentioned. Q11 Enzyme. Not mentioned (enzyme extraction or direct use). Q12 Fungi. Not mentioned (using bacteria). Q14 External organic material. Not mentioned.
+    So only Q1, Q2, Q13 seem relevant.
+
+    Wait, I need to check if the blending is actually a pretreatment *for* AD in the context of the paper. The text says "Pre-treatments methods...". And then describes the blender. So it is part of the "Pre-treatments".
+    So yes, it is a pretreatment.
+
+    Wait, one constraint: "If an identified treatment has multiple operational conditions tested for time or temperature, it is not necessary to divide it in multiple entries". This is relevant for Q2 (multiple temperatures: 60, 80, 100, 120, 140). But the question asks for QIDs. If I select Q2, that covers the TP methods. The instruction says "identify the treatment from the list of questions provided above". So I select the QID of the question that matches the method.
+    The Q2 asks "Does the methodology explicitly describe the use of thermal pretreatment". TP is thermal. So Q2 is selected.
+    The Q1 asks "Does the methodology explicitly describe any physical process that mechanically alters the substrate". Blending is mechanical. So Q1 is selected.
+    The Q13 asks "Does the methodology explicitly describe the use of a microbial... pretreatment". BPH is microbial. So Q13 is selected.
+
+    Are there any other questions?
+    Check Q4: "pressure-based". No.
+    Check Q5: "electrical". No (microwave/ultrasound excluded).
+    Check Q58: "microaerobic". No.
+
+    So final list: [1, 2, 13].
+
+    Wait, I should check Q13 again. "You must exclude mediums rich in microorganisms(digestate, sludge,...) as well as fungi".
+    Does this mean BPH is excluded if it uses an inoculum (which is a microbial medium)?
+    In many AD contexts, inoculum is considered separate from the "substrate" in terms of classification for "substrate pretreatment". The inoculum is the *feedstock* for the digester, not the substrate.
+    The text says "Inoculum consisted of digestate...".
+    The question says "Identify the treatment... pretreatment of the substrate."
+    If I use inoculum, is it treating the substrate?
+    The question says "Use of a external active organic material, such as... digestate... to degrade or modify the substrate before anaerobic digestion".
+    Q14 explicitly excludes "isolated or specialised microbial consortia". Inoculum is a consortium. So Q14 is excluded.
+    Q13 excludes "digestate, sludge". Inoculum is a culture.
+    However, BPH is described as "biological pre-hydrolysis".
+    I need to be careful. Does BPH match Q13?
+    Q13 says "microbial... pretreatment".
+    The text says "acidogenic bacteria cause extracellular depolymerization".
+    So yes, BPH matches Q13.
+    I will include 13.
+
+    So the list is [1, 2, 13].
+
+    Wait, is there any chance that "mixing with blender" is NOT considered a pretreatment in this classification context?
+    Instruction: "Identify ALL the different pretreatments applied to the substrates... include potential treatments during substrate sample preparation".
+    So yes, blending is considered a pretreatment.
+    And Q1 covers physical mechanical alteration. Blending = mechanical.
+    So [1, 2, 13] seems correct.
+    Wait, check the instruction "if the description doesnt fit any questions answer with -1".
+    But I have descriptions.
+    So [1, 2, 13].
+
+    One check: Q1 "mechanically alters". Blending is a physical process.
+    Q2 "thermal pretreatment". TP is thermal.
+    Q13 "microbial". BPH is microbial.
+    Are there any other questions?
+    Q10 "chemical pretreatment different from...". Text says "pre-treatments... physical, chemical, and biological". It mentions chemical pretreatment generally but the methods section specifies "Thermal" and "Biological". So it is classified as Biological (Q13) and Thermal (Q2). It does not explicitly describe chemical pretreatment agents (e.g. acid, alkali) for *pretreatment purposes* beyond the general biological/thermal ones.
+    Wait, "In biological pre-hydrolysis (BPH)... acidogenic bacteria...".
+    Is there any mention of specific chemical agents? "The received FW was mixed with a kitchen blender...".
+    There is no mention of chemicals other than standard analysis (Kjeldahl, etc.).
+    So Q10 (Chemical like surfactants) is not selected.
+
+    Wait, Q14 says "External active organic material... such as... compost, digestate...".
+    BPH uses "inoculum". Inoculum is a specific type of culture.
+    Does the text say "inoculum is external active organic material"?
+    Inoculum is a culture.
+    But Q14 explicitly excludes "isolated or specialised microbial consortia".
+    Does "digestate, sludge... internal in medium rich in microorganisms" mean Q14 is out for BPH?
+    Q14 definition: "Excluding inoculum... does the methodology explicitly describe the use of a external active organic material... as a pretreatment step... This does not include any isolated or specialised microbial consortia."
+    So Q14 is explicitly for things *excluding* microbial consortia (except digested sludge).
+    Since BPH uses microbial consortia (inoculum), it does not fit Q14.
+    So only Q13 applies.
+
+    Wait, I need to check Q1 again. "mechanically alters the substrate (e.g., size reduction, structural disruption or similar)".
+    Text: "The received FW was mixed with a kitchen blender to reduce the particle size".
+    This fits perfectly.
+
+    Final check on list format: [int1,int2,...]
+    So [1,2,13].
+    Is there any chance Q13 should be excluded?
+    "In order to improve AD performances in terms of methane production, biodegradability and process stability, several pretreatment techniques have been developed, such as physical, chemical, and biological pretreatments (Carrèrea et al., 2010)."
+    So BPH is a biological pretreatment.
+    Q13 is "microbial... pretreatment".
+    So BPH -> Q13.
+
+    One last check on Q2. "thermal pretreatment".
+    TP -> Q2.
+
+    One last check on Q1. "mechanically alters".
+    Blending -> Q1.
+
+    Wait, could "mechanical" be considered Q12 (Fungi)? No.
+    Could "mechanical" be considered Q5 (Electrical)? No.
+    Could "mechanical" be considered Q4 (Pressure)? No.
+    Could "mechanical" be considered Q3 (Ultrasound)? No.
+    So Q1 is the only one covering mechanical.
+
+    Wait, is there any chance "mixing with blender" is not considered a pretreatment in the context of the filtering questions?
+    Instruction: "identify ALL the different pretreatments applied to the substrates... include potential treatments during substrate sample preparation".
+    So I should include it.
+
+    Wait, I need to check if Q1 is considered a "pretreatment".
+    In the text, "Physical pretreatment" is mentioned in the introduction: "physical, chemical, and biological pretreatments".
+    So mechanical blending is a physical pretreatment.
+    So Q1 is valid.
+
+    Final List: [1, 2, 13].
+    Wait, check the Q13 definition again. "Does the methodology explicitly describe the use of a microbial, such as isolate bacterial cultures or specialised microbila consortia, pretreatment on a substrate."
+    Does BPH use "microbial... consortia"? Yes, bacteria.
+    So Q13 is valid.
+
+    Wait, I need to check if there is any other question ID.
+    Q14 is the only other possible one.
+    Q14: "External active organic material... specifically to degrade or modify the substrate...".
+    Inoculum is not "external active organic material" in the sense of compost/slime.
+    Inoculum is a "culture".
+    The text says "mixture of food waste and inoculum".
+    So Q14 is not selected.
+
+    One more thing: The prompt says "Do not answer with anything else a part form the requested list, no explanations, no markdowns".
+    So just the list.
+
+    Wait, I need to check if Q12 or Q11 or Q10 etc are relevant.
+    No chemical agents other than standard digestion buffers (which are not pretreatments).
+    No enzymes.
+    No fungi used for pretreatment (Q12).
+    So only Q1, Q2, Q13.
+
+    Wait, one detail. "The received FW was mixed with a kitchen blender to reduce the particle size...".
+    Does this count as "mechanically alters"?
+    Yes, particle size reduction is mechanical.
+    So Q1.
+
+    Wait, is there any chance that the Q1 instruction "exclude freezing, or pressure to separate phases if that is the identified method" applies?
+    No freezing or pressure.
+    So Q1 is valid.
+
+    So [1, 2, 13].
+    Wait, is Q1 the only one for blending? Yes.
+    Is Q2 the only one for TP? Yes.
+    Is Q13 the only one for BPH? Yes.
+
+    Wait, one more check. The instruction "if the description doesnt fit any questions answer with -1".
+    So if I find no fit, answer -1.
+    But I found fits.
+    So [1,2,13].
+
+    Wait, is Q5 relevant? "ultrasound". No.
+    Is Q4 relevant? "pressure". No.
+    Is Q10 relevant? "chemical". No.
+    Is Q9 relevant? "solvent". No.
+
+    Wait, is there any chance Q5 (Electrical) covers electrical pretreatment?
+    The text mentions no electrical pretreatment.
+    So no.
+
+    So [1,2,13].
+    Wait, I need to check if Q13 should be excluded because of Q14's exclusion clause.
+    Q14 says "This does not include any isolated or specialised microbial consortia".
+    Inoculum is a microbial consortium.
+    So BPH does not fit Q14.
+    But Q13 says "microbial... pretreatment on a substrate. You must exclude mediums rich in microorganisms...".
+    This means if the method is biological (BPH), it matches Q13.
+    Does Q14 *override* Q13? No.
+    Q14 is about "external active organic material". BPH is "microbial... pretreatment".
+    If BPH is microbial, it is not "external active organic material" in the context of Q14 (which refers to compost, digestate, etc).
+    So BPH is Q13, not Q14.
+    So [1, 2, 13].
+
+    Wait, is there a chance Q13 is "exclude mediums rich in microorganisms"?
+    The text says "exclude mediums rich in microorganisms (digestate, sludge...)".
+    This implies "You must exclude the cases where the medium is digestate/slime".
+    In BPH, the medium is "food waste and inoculum".
+    So it's not "digestate/slime".
+    So Q13 is valid.
+
+    So [1,2,13].
+
+    Wait, one more check on the text "Pre-treatments methods: Thermal pre-treatment, Biological pre-hydrolysis treatment".
+    And "The received FW was mixed with a kitchen blender to reduce the particle size...".
+    So there are 3 pretreatments identified.
+    1. Mechanical/Blending -> Q1.
+    2. Thermal/TP -> Q2.
+    3. Biological/BPH -> Q13.
+    Are there any other QIDs?
+    Q11 "enzyme". No.
+    Q12 "fungi". No.
+    Q6 "alkaline". No.
+    Q7 "acidic". No.
+    Q8 "oxidizer". No.
+    Q10 "chemical". No.
+    Q58 "microaerobic". No.
+    Q3 "ultrasound". No.
+    Q4 "pressure". No.
+    Q5 "electrical". No.
+    Q6 "alkaline". No.
+    Q7 "acidic". No.
+    Q8 "oxidizer". No.
+    Q9 "solvent". No.
+    Q10 "chemical". No.
+    Q11 "enzyme". No.
+    Q12 "fungi". No.
+    Q13 "microbial". Yes.
+    Q14 "external organic material". No (Inoculum is microbial).
+    Q1 "mechanical". Yes.
+
+    So [1,2,13].
+
+    Wait, one detail in Q13 instruction: "This exclude any bacteria, fungi, or other secreting enzyme organism...".
+    Wait, Q13 says "Do not... exclude any bacteria... it refers to the direct use of enzymes."
+    Q13 says "Does the methodology explicitly describe the use of a microbial, such as isolate bacterial cultures...".
+    And "exclude... extract bacteria...".
+    So BPH is NOT enzyme (it is bacteria).
+    So Q13 applies.
+
+    So [1,2,13].
+2026-06-02 11:57:05,284 [1,2,13]
+2026-06-02 11:57:05,285 articletxt/1608.txt
+2026-06-02 11:57:05,309 Title of processing article: TITLE: Enhanced digestibility and fermentability of sugarcane bagasse in biofuel production by surfactant-assisted dilute acid pretreatment

@@ -6,11 +6,11 @@
       "questions": [
         {
           "qid": 1,
-          "question": "Does the methodology explicitly describe any physical process that mechanically alters the substrate (e.g., size reduction, structural disruption or similar)? Instructions for reasoning: 1.Identify any mechanical treatment (e.g., grinding, milling, shredding, mixing, physical disruption, or similar) applied to the substrate. 2. Confirm that the mechanical treatment is applied to the substrate and not to the inoculum or for analytical characterization. 3.confirm it is a direct mechanical desintegration effect and not an indirect effect from other procedure such as ultrasounds, pressure or similar 4. exclude freezing, or pressure to separate phases if that is the identified method 5.Answer 'true' if conditions are met, otherwise 'false' "
+          "question": "Does the methodology explicitly describe any physical process that mechanically alters the substrate (e.g., size reduction, structural disruption or similar)? Instructions for reasoning: 1.Identify any mechanical treatment (e.g., grinding, milling, shredding, physical disruption, or similar) applied to the substrate, consider mechanical as a blade physically cutting or crushing the material. 2. Confirm that the mechanical treatment is applied to the substrate and not to the inoculum or for analytical characterization. 3.confirm it is a direct mechanical desintegration effect and not an indirect effect from other procedure such as ultrasounds, pressure or similar 4. exclude freezing, or pressure to separate phases if that is the identified method 5.Answer 'true' if conditions are met, otherwise 'false' "
         },
         {
           "qid": 2,
-          "question": "Does the methodology explicitly describe the use of thermal pretreatment on a substrate, thermal pretreatment consider high temperatures to disrupt the substrate, include high temperatures part of another treatment (such as but not only chemical treatment at high temperature). Do not consider drying as a valid pretreatment"
+          "question": "Does the methodology explicitly describe the use of thermal pretreatment on a substrate, for thermal pretreatment consider high temperatures treatments as well as mentions of mild thermal pretreatment. This category includes when it is part of another treatment (such as but not only chemical treatment at high temperature). Do not consider drying as a valid pretreatment"
         },
         {
           "qid": 3,

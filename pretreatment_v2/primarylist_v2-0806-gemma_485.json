@@ -1,0 +1,32 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Knife milling (KM) using a milling chamber with mobile milling elements mounted on a central shaft to disaggregate solid particles and slice fibres."
+    },
+    {
+      "id": 1,
+      "description": "Hammer milling (HM) consisting of a rotor with hammers that impact material against a breaker plate to grind fibres into long and thin pieces."
+    },
+    {
+      "id": 2,
+      "description": "Extrusion (EX) where materials are transported by a driving screw along a barrel, subjecting them to friction heat, mixing, vigorous shearing, and pressure release."
+    },
+    {
+      "id": 3,
+      "description": "Wet shredding using a wet shredder with an integrated heavy material separator to homogenize fluids."
+    },
+    {
+      "id": 4,
+      "description": "Hydrodynamic cavitation (HC) utilizing a stator and rotor assembly where the rotor speed is controlled by a variable frequency drive to generate microbubbles that collapse to disintegrate lignocellulosic structure."
+    },
+    {
+      "id": 5,
+      "description": "Sample preparation for chemical analysis (EC and sCOD) involving placing 25 g of substrate in 300 g of distilled water and shaking at 200 rpm for 30 min to produce a filtered leachate."
+    },
+    {
+      "id": 6,
+      "description": "Wet sieving using a vibration screening machine (FRITSCH Analysette 3 PRO) to analyze particle size distribution."
+    }
+  ]
+}

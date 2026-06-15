@@ -1,0 +1,32 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Combined CaO2/MW pretreatment"
+    },
+    {
+      "id": 1,
+      "description": "MW/CaO2 pretreatment"
+    },
+    {
+      "id": 2,
+      "description": "CaO2/MW pretreatment (CaO2 dose 0.1 g/gVSS, MW power 480 W, irradiation time 2 min)"
+    },
+    {
+      "id": 3,
+      "description": "CaO2 oxidation"
+    },
+    {
+      "id": 4,
+      "description": "MW irradiation (480 W, 2 min)"
+    },
+    {
+      "id": 5,
+      "description": "Ca(OH)2 oxidation"
+    },
+    {
+      "id": 6,
+      "description": "H2O2 oxidation"
+    }
+  ]
+}

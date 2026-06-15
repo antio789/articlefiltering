@@ -1,0 +1,24 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Ultrasonication treatment applied to excess sludge at various intensities (5, 10, 20, 40, and 60 min) using a 20 kHz ultrasonicator. This was done individually on untreated sludge. The process involves cavitation generating microbubbles that collapse and expand, creating high-temperature and high-pressure gradients to rupture cell walls and membranes, thereby increasing solubilization."
+    },
+    {
+      "id": 1,
+      "description": "Alkaline pretreatment using 6 mol/L KOH solution. This treatment was applied to excess sludge at various pH levels (9, 10, 11, 12, and 13) by mixing the sludge with the alkali solution and stirring for 1 hour. This method increases the solubility of organic matter but is found to have mixed effects on anaerobic digestion efficiency depending on the specific pH and pretreatment time."
+    },
+    {
+      "id": 2,
+      "description": "Combined alkaline and ultrasonic pretreatment. This method involved applying ultrasonication to sludge that was first pretreated with alkali at specific pH levels (9, 11, and 13) for 1 hour, then subjected to ultrasonication for specific durations (5, 20, and 60 minutes). This results in 9 different combinations of treatment conditions."
+    },
+    {
+      "id": 3,
+      "description": "Chemical modification involving the use of a 6 mol/L KOH solution for alkaline pretreatment to increase solubilization prior to biological treatment."
+    },
+    {
+      "id": 4,
+      "description": "Physical degradation via ultrasonic cavitation applied to excess sludge to disrupt cell walls and membranes, increasing the ratio of soluble organics to total organics."
+    }
+  ]
+}

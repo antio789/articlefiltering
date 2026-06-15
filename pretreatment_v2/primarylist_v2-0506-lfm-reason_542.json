@@ -1,0 +1,24 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Ozone pretreatment involves treating grass waste with ozone to degrade lignin and enhance biodegradation efficiency."
+    },
+    {
+      "id": 1,
+      "description": "Sodium 2-bromoethanesulfonate (SAA) is applied to inhibit methanogens, improving substrate solubility and reducing structural barriers."
+    },
+    {
+      "id": 2,
+      "description": "Ozone combined with SAA (OSAA) synergistically breaks down lignin and cellulose, optimizing hydrolysis and methane production."
+    },
+    {
+      "id": 3,
+      "description": "Size reduction through milling increases surface area and enzymatic activity for efficient breakdown."
+    },
+    {
+      "id": 4,
+      "description": "Enzymatic hydrolysis employs cellulase and \u03b2-glycosidase to degrade cellulose, boosting sugar recovery and biogas yield."
+    }
+  ]
+}

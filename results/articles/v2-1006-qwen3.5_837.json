@@ -1,0 +1,41 @@
+{
+  "manual_review": [
+    [
+      837,
+      "thermal"
+    ]
+  ],
+  "llm_review": [
+    [
+      837,
+      "electric"
+    ],
+    [
+      837,
+      "solvent"
+    ]
+  ],
+  "correct_predictions": 0,
+  "false_predictions": 2,
+  "missed_predictions": 1,
+  "precision": 0.0,
+  "recall": 0.0,
+  "f1_score": 0,
+  "correct_items": [],
+  "false_items": [
+    [
+      837,
+      "electric"
+    ],
+    [
+      837,
+      "solvent"
+    ]
+  ],
+  "missed_items": [
+    [
+      837,
+      "thermal"
+    ]
+  ]
+}

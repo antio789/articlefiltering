@@ -1,0 +1,28 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Mechanical degradation using a food blender and passing through a 40-mesh screen to obtain a particle size of less than 0.425 mm."
+    },
+    {
+      "id": 1,
+      "description": "Ensiling fresh Napier grass in a closed container under anaerobic conditions for 2 weeks to prepare Napier silage."
+    },
+    {
+      "id": 2,
+      "description": "Organosolv pretreatment using 50% (v/v) aqueous ethanol at 190 \u00b0C for 60 min in high-pressure stainless-steel vessels."
+    },
+    {
+      "id": 3,
+      "description": "Chemical treatment during organosolv process using sodium hydroxide (1% w/w dry weight) as a catalyst for Napier grass or sulfuric acid (1% w/w) as a catalyst for Napier silage."
+    },
+    {
+      "id": 4,
+      "description": "Hydrothermal pretreatment using distilled water at 190 \u00b0C for 60 min in high-pressure stainless-steel vessels."
+    },
+    {
+      "id": 5,
+      "description": "Chemical treatment during hydrothermal process using sulfuric acid (1% w/w) as a catalyst."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Mechanical grinding of pine wood to achieve a relatively homogeneous particle size of less than 1 mm (20 mesh)."
+    },
+    {
+      "id": 1,
+      "description": "Chemical pretreatment using an 8% w/w sodium hydroxide (NaOH) solution."
+    },
+    {
+      "id": 2,
+      "description": "Thermal treatment during the chemical process with incubation temperatures of either 0 \u00b0C or 100 \u00b0C for retention times of 10, 30, or 60 minutes."
+    }
+  ]
+}

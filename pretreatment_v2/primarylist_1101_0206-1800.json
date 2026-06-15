@@ -1,0 +1,20 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Thermal pretreatment was carried out by heating sludge samples (50 ml) in reactors at temperatures ranging from 110 \u00b0C to 150 \u00b0C for 20 min in an oil bath (Daihan Science, Korea)."
+    },
+    {
+      "id": 1,
+      "description": "Alkaline pretreatment was conducted by adding 5 N solutions of Ca(OH)_2, KOH, and NaOH to 50 ml of WAS to attain a final pH ranging from 8 to 13, mixing for 1 h (individual) or 20 min (combined)."
+    },
+    {
+      "id": 2,
+      "description": "Ultrasonication was performed with 50 ml of WAS using a 20 kHz frequency (VCX-750, S&M, USA) and 20% amplitude (Max.750 W)."
+    },
+    {
+      "id": 3,
+      "description": "Hydrodynamic cavitation (HC) involved forcing fluid flow through a venturi tube or orifice plate (1 mm diameter, 27 holes) with pressures of 0.7 and 0.07 MPa to generate cavitation bubbles for sludge disintegration."
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "manual_review": [
+    [
+      526,
+      "ultrasonic"
+    ],
+    [
+      526,
+      "alkaline"
+    ]
+  ],
+  "llm_review": [
+    [
+      526,
+      "mechanical disintegration"
+    ],
+    [
+      526,
+      "ultrasonic"
+    ],
+    [
+      526,
+      "pressure"
+    ],
+    [
+      526,
+      "alkaline"
+    ]
+  ],
+  "correct_predictions": 2,
+  "false_predictions": 2,
+  "missed_predictions": 0,
+  "precision": 0.5,
+  "recall": 1.0,
+  "f1_score": 0.6667,
+  "correct_items": [
+    [
+      526,
+      "ultrasonic"
+    ],
+    [
+      526,
+      "alkaline"
+    ]
+  ],
+  "false_items": [
+    [
+      526,
+      "mechanical disintegration"
+    ],
+    [
+      526,
+      "pressure"
+    ]
+  ],
+  "missed_items": []
+}

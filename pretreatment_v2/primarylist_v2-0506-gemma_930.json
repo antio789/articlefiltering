@@ -1,0 +1,24 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Dilution of olive oil waste residues with tap water. The mixture was diluted with tap water in a 1:2 ratio (OP:OMWW) and 10% v/v of bovine manure inoculum was added. The pH was adjusted to approximately 7 using 2 N NaOH or 2 N HCl when necessary. The mixture was agitated on a rotating shaker at 70 rpm in a thermostatic room kept at 30 \u00b1 1 \u00b0C."
+    },
+    {
+      "id": 1,
+      "description": "Basic pretreatment (BP) involving the addition of 2 N NaOH to the mixture until a pH of 12 was reached, followed by stirring at 70 rpm for 24 h at 30 \u00b1 1 \u00b0C. The broth was then neutralized with 2 N HCl to pH 6.5 before adding the bovine manure inoculum."
+    },
+    {
+      "id": 2,
+      "description": "Salt pretreatment using FeSO_4 (SP_FeII), FeCl_3 (SP_FeIII), MnSO_4\u00b7 H_2O (SP_Mn) and CaCO_3 (SP_Ca). Suitable quantities of solid salt were added to achieve a 5 g/L salt concentration within the mixture. The reaction mediums were treated with 2 N HCl until a pH of 2 was reached and then mixed at ambient temperature for 30 min at 70 rpm. Following this, the specific salt being tested was added at the desired concentration. The mixtures were then held at 70 rpm and 30 \u00b1 1 \u00b0C for 24 h. Finally, 2 N NaOH was added until a neutral pH was reached."
+    },
+    {
+      "id": 3,
+      "description": "Ultrasonic pretreatment (USP) involving the application of 1.8 kW of power in an ultrasonic bath (Ultrasonic Cleaner model CP823) for varying lengths of time (8000 kJ/L dose and 750 kJ/L dose) at 30 \u00b0C, atmospheric pressure, and 70 rpm. The mixture was inserted into the ultrasonic basin containing tap water."
+    },
+    {
+      "id": 4,
+      "description": "Combined pretreatments (CP) including ultrasonic plus CaCO_3 pretreatment (CP_Ca) and ultrasonic plus FeCl_3 pretreatment (CP_FeIII). The medium was first treated with ultrasonic rays at the highest dose of 8000 kJ/L and then with the salts, as described above."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "manual_review": [
+    [
+      333,
+      "alkaline"
+    ],
+    [
+      333,
+      "acidic"
+    ],
+    [
+      333,
+      "mechanical disintegration"
+    ],
+    [
+      333,
+      "oxidizer"
+    ],
+    [
+      333,
+      "solvent"
+    ]
+  ],
+  "llm_review": [
+    [
+      333,
+      "thermal"
+    ],
+    [
+      333,
+      "alkaline"
+    ],
+    [
+      333,
+      "acidic"
+    ],
+    [
+      333,
+      "solvent"
+    ],
+    [
+      333,
+      "microbial consortium"
+    ]
+  ],
+  "correct_predictions": 3,
+  "false_predictions": 2,
+  "missed_predictions": 2,
+  "precision": 0.6,
+  "recall": 0.6,
+  "f1_score": 0.6,
+  "correct_items": [
+    [
+      333,
+      "alkaline"
+    ],
+    [
+      333,
+      "acidic"
+    ],
+    [
+      333,
+      "solvent"
+    ]
+  ],
+  "false_items": [
+    [
+      333,
+      "thermal"
+    ],
+    [
+      333,
+      "microbial consortium"
+    ]
+  ],
+  "missed_items": [
+    [
+      333,
+      "mechanical disintegration"
+    ],
+    [
+      333,
+      "oxidizer"
+    ]
+  ]
+}

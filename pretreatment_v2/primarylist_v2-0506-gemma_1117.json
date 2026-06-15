@@ -1,0 +1,20 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Dewatering of settled fraction using a sand drying bed."
+    },
+    {
+      "id": 1,
+      "description": "Alkaline pretreatment using NaOH solutions of 0.2, 0.4, 0.6, 0.8% w/v concentrations. The NaOH solutions were prepared by adding the required NaOH pellets in distilled water, which was then mixed at 250 rpm until the solution became clear. The pretreatment of DWAS was performed at TS of 10% (dried solids to solution ratio 1:10), which gave the specific alkali doses of 2, 4, 6, and 8 g NaOH/100 g TS_sludge. The pretreatment at each concentration was carried out in 500 mL Pyrex glass bottles with 350 mL working volume. After adding the required quantity of NaOH solutions in the pre-weighed quantity of sludge solids, stirring was performed for 5 min at 200 rpm using a magnetic stirrer to ensure homogeneity of the suspension. Pretreatment was carried out for 3 h at 37 \u00b0C in a water bath. After pretreatment, each sample was neutralized to pH 7 by adding 0.02 N H_2SO_4."
+    },
+    {
+      "id": 2,
+      "description": "Photocatalytic pretreatment using TiO_2 NPs at doses of 0.3, 0.4, 0.5, 0.6 g/L. Pretreatment was carried out at TS of 10%, under continuous stirring for 3 h at 37 \u00b0C and TiO_2 NPs doses of 0.3, 0.4, 0.5, 0.6 g/L."
+    },
+    {
+      "id": 3,
+      "description": "Alkaline-photocatalytic pretreatment combining NaOH doses (0.2, 0.4, 0.6, 0.8% w/v) with TiO_2 NPs doses (0.3, 0.4, 0.5, 0.6 g/L). Pretreatment conditions were the same as described in Section 2.4."
+    }
+  ]
+}

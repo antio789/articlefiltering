@@ -1,0 +1,113 @@
+{
+  "manual_review": [
+    [
+      652,
+      "mechanical disintegration"
+    ],
+    [
+      652,
+      "alkaline"
+    ]
+  ],
+  "llm_review": [
+    [
+      652,
+      "mechanical disintegration"
+    ],
+    [
+      652,
+      "ultrasonic"
+    ],
+    [
+      652,
+      "electric"
+    ],
+    [
+      652,
+      "alkaline"
+    ],
+    [
+      652,
+      "acidic"
+    ],
+    [
+      652,
+      "oxidizer"
+    ],
+    [
+      652,
+      "enzyme"
+    ],
+    [
+      652,
+      "fungi"
+    ],
+    [
+      652,
+      "microbial consortium"
+    ],
+    [
+      652,
+      "biological active substrate"
+    ],
+    [
+      652,
+      "disinhibition"
+    ]
+  ],
+  "correct_predictions": 2,
+  "false_predictions": 9,
+  "missed_predictions": 0,
+  "precision": 0.1818,
+  "recall": 1.0,
+  "f1_score": 0.3077,
+  "correct_items": [
+    [
+      652,
+      "mechanical disintegration"
+    ],
+    [
+      652,
+      "alkaline"
+    ]
+  ],
+  "false_items": [
+    [
+      652,
+      "ultrasonic"
+    ],
+    [
+      652,
+      "electric"
+    ],
+    [
+      652,
+      "acidic"
+    ],
+    [
+      652,
+      "oxidizer"
+    ],
+    [
+      652,
+      "enzyme"
+    ],
+    [
+      652,
+      "fungi"
+    ],
+    [
+      652,
+      "microbial consortium"
+    ],
+    [
+      652,
+      "biological active substrate"
+    ],
+    [
+      652,
+      "disinhibition"
+    ]
+  ],
+  "missed_items": []
+}

@@ -1,0 +1,20 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Synthetic Food Waste (FW) preparation: Blending of various foods (fruits, vegetables, meat, rice, paste, and dairy products) to achieve homogenization. This process involves mechanical degradation of the food matrix, preparing the substrate for subsequent treatments."
+    },
+    {
+      "id": 1,
+      "description": "Thermophilic Pretreatment (TPP): Mixing FW and inoculum, incubation at varying temperatures (50, 60, 70 and 80 \u00b0C) for a varying time (12, 24, 36 and 48 h). After each TPP, the temperature of the incubator was reduced to mesophilic (35 \u00b1 2 \u00b0C) conditions. This involves a thermal treatment to accelerate the AD process."
+    },
+    {
+      "id": 2,
+      "description": "Conventional Thermal Pretreatment (CTP): Heating only the FW without inoculum to 50\u201380 \u00b0C for 1.5 h. This involves a thermal treatment to improve hydrolysis, increase the biomethane production, and to achieve pasteurization."
+    },
+    {
+      "id": 3,
+      "description": "Batch BMP experiments of FW: BMP tests were conducted in 1 L glass bottles at mesophilic (35 \u00b1 2 \u00b0C) conditions with a substrate to inoculum (S/I) ratio of 0.5 gVS/gVS, following the BMP protocol described by Esposito et al. (2012)."
+    }
+  ]
+}

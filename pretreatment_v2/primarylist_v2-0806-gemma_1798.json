@@ -1,0 +1,16 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Mechanical degradation using a kitchen blender to reduce particle size."
+    },
+    {
+      "id": 1,
+      "description": "Thermal pretreatment (TP) applied in an oven at temperatures of 60 \u00b0C, 80 \u00b0C, 100 \u00b0C, 120 \u00b0C and 140 \u00b0C with durations of 1 h for 60 and 80 \u00b0C, and 30 min for 100, 120 and 140 \u00b0C."
+    },
+    {
+      "id": 2,
+      "description": "Biological pre-hydrolysis (BPH) carried out in 1 L glass vessels flushed with nitrogen (N2) in an incubator for 40 h at different temperature regimes: 37 \u00b0C, 55 \u00b0C, a sequence of 37 \u00b0C for 20 h followed by 55 \u00b0C for 20 h, and a sequence of 55 \u00b0C for 20 h followed by 37 \u00b0C for 20 h, using an inoculum at a food waste to inoculum ratio of 10:1 (w/w)."
+    }
+  ]
+}

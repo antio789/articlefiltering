@@ -1,0 +1,12 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Thermal pretreatment (TP) involving placing the food waste in an oven at various temperatures (60 \u00b0C, 80 \u00b0C, 100 \u00b0C, 120 \u00b0C, and 140 \u00b0C) for different durations (1 h for 60 and 80 \u00b0C, and 30 min for 100, 120, and 140 \u00b0C)."
+    },
+    {
+      "id": 1,
+      "description": "Biological pre-hydrolysis (BPH) carried out in glass vessels at temperatures (37 \u00b0C, 55 \u00b0C) with a 10:1 (w/w) ratio of food waste to inoculum, involving a temperature cycle of 37 \u00b0C for 20 h followed by 55 \u00b0C for 20 h, and then 55 \u00b0C for 20 h followed by 37 \u00b0C for 20 h."
+    }
+  ]
+}

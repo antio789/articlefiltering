@@ -1,0 +1,36 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Dewatering of sludge using a belt filter press to a water content of approximately 80%."
+    },
+    {
+      "id": 1,
+      "description": "Low-temperature thermal pretreatment at temperatures between 50 \u00b0C and 80 \u00b0C for durations that varied from 15 to 90 min."
+    },
+    {
+      "id": 2,
+      "description": "Rapid cooling of thermally treated sludge to 33 \u00b0C immediately after thermal treatment."
+    },
+    {
+      "id": 3,
+      "description": "Batch anaerobic digestion of the thermally treated sludge in bottles with shaking and temperature control (35 \u00b1 2 \u00b0C)."
+    },
+    {
+      "id": 4,
+      "description": "Semi-continuous HSAD in a pilot-scale digester with intermittent stirring (3 h stirring and 3 h off) and temperature control (35 \u00b1 2 \u00b0C)."
+    },
+    {
+      "id": 5,
+      "description": "Measurement of physical and chemical parameters (TS, VS, total alkalinity, total nitrogen, total ammonia nitrogen, COD, and total phosphorus) of the sludge samples."
+    },
+    {
+      "id": 6,
+      "description": "Evaluation of the release of COD, VFAs, and nitrogen during thermal treatment."
+    },
+    {
+      "id": 7,
+      "description": "Analysis of sludge viscosity using a rate-controlled viscometer at various shear rates."
+    }
+  ]
+}

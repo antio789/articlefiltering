@@ -1,0 +1,28 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Microwave (MW) Irradiation"
+    },
+    {
+      "id": 1,
+      "description": "Chemical Oxidation with CaO_2 (Dose: 0.1 g/gVSS)"
+    },
+    {
+      "id": 2,
+      "description": "Combined CaO_2/MW Pretreatment (CaO_2 then MW, Sequence)"
+    },
+    {
+      "id": 3,
+      "description": "Combined MW/CaO_2 Pretreatment (MW then CaO_2, Sequence)"
+    },
+    {
+      "id": 4,
+      "description": "Combined H_2O_2/MW Pretreatment (Power: 480 W, Time: 2 min)"
+    },
+    {
+      "id": 5,
+      "description": "Combined Ca(OH)_2/MW Pretreatment (Power: 480 W, Time: 2 min)"
+    }
+  ]
+}

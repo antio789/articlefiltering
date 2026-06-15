@@ -1,0 +1,16 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Bath ultrasonic treatment (KH5200DE, Nanjing Xiao Equipment Company, China) applied at 20 kHz intensity, ambient temperature (22 \u00b1 1) \u00b0C, with water level maintained above the biomass to maximize cavitation effect, followed by 36 hours of pH stabilization."
+    },
+    {
+      "id": 1,
+      "description": "Ultrasonic-assisted KOH pretreatment (KOH_Upt) using a ratio of 1:0.02\u20130.06:6 (w/w) for Wheat Straw (WS):KOH:Water, with 2%, 4%, and 6% (w/w) KOH concentrations applied for 36 hours. The process involved adding KOH to distilled water to achieve equilibrium, then adding WS and mixing, before ultrasonic processing to disrupt the external structure."
+    },
+    {
+      "id": 2,
+      "description": "Control treatment involving distilled water addition without KOH or ultrasonic application to serve as a baseline for comparison in anaerobic digestion experiments."
+    }
+  ]
+}

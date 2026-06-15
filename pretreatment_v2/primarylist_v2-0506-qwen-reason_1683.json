@@ -1,0 +1,20 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Biological pretreatment: Based on the joint action of the native microbiota composed mainly of Clostridium, Lactobacillus, and Enterobacter, acting as a core microbiome of lignocellulosic biomasses; primarily hydrolyzed xylan to volatile fatty acids (simulated solely as acetic acid) under optimized operating conditions from previous studies."
+    },
+    {
+      "id": 1,
+      "description": "Enzymatic pretreatment: Based on the action of the commercial enzyme cocktail Cellulase 50XL (293 endoglucanase units/gram of bagasse working in a 50 mM citrate buffer at pH 6); released mainly glucose along with galactose, arabinose, and other sugars representing 69% of the total chemical oxygen demand."
+    },
+    {
+      "id": 2,
+      "description": "Dilute acid pretreatment: Solubilized all xylan and partially cellulose in 1.8% HCl under soft operating conditions; recovered sugars and eliminated the generation of inhibitors (furfural, hydroxymethylfurfural, and phenols) detected at elevated levels in dilute acid hydrolysates compared to biological and enzymatic hydrolysates."
+    },
+    {
+      "id": 3,
+      "description": "Steam explosion pretreatment: Solubilized xylan producing a mixture of sugars and acetic acid; performed in a plug flow reactor coupled to a flask tank with instant depressurization; operated at 116\u00b0C for low levels and 152\u00b0C for high levels; generated low concentrations of furfural and hydroxymethylfurfural."
+    }
+  ]
+}

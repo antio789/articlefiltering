@@ -1,0 +1,20 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Mechanical degradation using a shredder-chipper to ground giant reed to pass through a 12 mm sieve"
+    },
+    {
+      "id": 1,
+      "description": "Ensilage: supplementation with water to reach approximately 40% total solids (TS), vacuum packing in zipper bags to minimize oxygen, and incubation at room temperature (25 \u00b1 3 \u00b0C) for 60 days"
+    },
+    {
+      "id": 2,
+      "description": "Thermal pretreatment via autoclaving at 121 \u00b0C for 30 min"
+    },
+    {
+      "id": 3,
+      "description": "Fungal pretreatment using Ceriporiopsis subvermispora (ATCC 96608) inoculum, supplemented with sterilized DI water to obtain a final moisture content of around 70% (w/w, wet basis), and incubated at 28 \u00b1 1 \u00b0C for 30 days"
+    }
+  ]
+}

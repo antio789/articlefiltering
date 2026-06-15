@@ -1,0 +1,16 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Synthetic FW preparation: blending of fruits, vegetables, meat, rice, paste, and dairy products to achieve homogenization."
+    },
+    {
+      "id": 1,
+      "description": "Thermophilic pretreatment (TPP): Mixing FW and inoculum, incubation at varying temperatures (50, 60, 70, and 80 \u00b0C) for varying times (12, 24, 36, and 48 h), followed by reduction to mesophilic (35 \u00b1 2 \u00b0C) conditions."
+    },
+    {
+      "id": 2,
+      "description": "Conventional Thermal Pretreatment (CTP): Heating FW only to 50\u201380 \u00b0C for 1.5 h."
+    }
+  ]
+}

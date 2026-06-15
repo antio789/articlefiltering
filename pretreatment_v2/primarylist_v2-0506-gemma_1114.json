@@ -1,0 +1,20 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Hydrothermal pretreatment (HTP) at 50, 80, 110, or 140 \u00b0C for 20 minutes. The total volatile solids (VS) concentration in the reactor was 30 g VS\u00b7L^\u22121. The moisture content was set at 90% by adding deionized water. The reactor was heated to the desired temperature and maintained for 20 min. The HTP time was precisely measured, starting at the time the reactor reached the set temperature."
+    },
+    {
+      "id": 1,
+      "description": "Mechanical pretreatment: Food waste was milled using a food grinder (Element40, BECBAS, China) and Enteromorpha was pulverized to approximately 0.25 mm using a hammer mill (YSW-180, Zhengde, China) after the removal of sands and plastic bags."
+    },
+    {
+      "id": 2,
+      "description": "Addition of oyster shells, 8% (w/w) of total dry weight of FW and Enteromorpha, to strengthen the system, stabilize pH, and improve the performance of DF."
+    },
+    {
+      "id": 3,
+      "description": "The inoculum used in the study was the liquid fraction of digestate (LFD) obtained from the mesophilic digestion reactor of the Beijing Dongcun Comprehensive Municipal Solid Waste Treatment Plant located in Tongzhou District, Beijing, China, which has been stably operated for more than three years using FW as a mono-substrate."
+    }
+  ]
+}

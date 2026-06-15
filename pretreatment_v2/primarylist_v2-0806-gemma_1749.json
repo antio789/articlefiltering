@@ -1,0 +1,16 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Mechanical cutting of PBAT/PLA and PBAT/PLA/starch plastic bags into 2 cm \u00d7 2 cm square pieces"
+    },
+    {
+      "id": 1,
+      "description": "Alkaline treatment using NaOH at a concentration of 1% (w/v) with a plastic to alkaline solution ratio of 50 g TS/L"
+    },
+    {
+      "id": 2,
+      "description": "Thermal treatment by heating samples in a water bath at 70 \u00b0C for 48 h"
+    }
+  ]
+}

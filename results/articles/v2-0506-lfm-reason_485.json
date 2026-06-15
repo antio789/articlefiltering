@@ -1,0 +1,41 @@
+{
+  "manual_review": [
+    [
+      485,
+      "mechanical disintegration"
+    ],
+    [
+      485,
+      "pressure"
+    ]
+  ],
+  "llm_review": [
+    [
+      485,
+      "electric"
+    ]
+  ],
+  "correct_predictions": 0,
+  "false_predictions": 1,
+  "missed_predictions": 2,
+  "precision": 0.0,
+  "recall": 0.0,
+  "f1_score": 0,
+  "correct_items": [],
+  "false_items": [
+    [
+      485,
+      "electric"
+    ]
+  ],
+  "missed_items": [
+    [
+      485,
+      "mechanical disintegration"
+    ],
+    [
+      485,
+      "pressure"
+    ]
+  ]
+}

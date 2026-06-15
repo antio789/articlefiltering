@@ -1,0 +1,32 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Mechanical shredding of zucchini stem into particles about 3-5 mm"
+    },
+    {
+      "id": 1,
+      "description": "KOH pretreatment at concentrations of 1%, 2%, 3%, and 4% (mass fraction) under room temperature for 24 h with moisture content of 95%"
+    },
+    {
+      "id": 2,
+      "description": "Ca(OH)2 pretreatment at concentrations of 1%, 2%, 3%, and 4% (mass fraction) under room temperature for 24 h with moisture content of 95%"
+    },
+    {
+      "id": 3,
+      "description": "NaOH pretreatment at concentrations of 1%, 2%, 3%, and 4% (mass fraction) under room temperature for 24 h with moisture content of 95%"
+    },
+    {
+      "id": 4,
+      "description": "Alkaline hydrogen peroxide (AHP) pretreatment at concentrations of 1%, 2%, 3%, and 4% (mass fraction), pH adjusted to 11.5 by NaOH, under room temperature for 24 h with moisture content of 95%"
+    },
+    {
+      "id": 5,
+      "description": "HCl pretreatment at concentrations of 1%, 2%, 3%, and 4% (mass fraction) under room temperature for 24 h with moisture content of 95%"
+    },
+    {
+      "id": 6,
+      "description": "Microwave (MW) pretreatment at power levels of 300 w, 500 w, and 700 w for 10 min under the moisture content of 95%"
+    }
+  ]
+}

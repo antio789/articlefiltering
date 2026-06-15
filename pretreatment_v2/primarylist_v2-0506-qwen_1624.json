@@ -1,0 +1,20 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Wet sieving and drying at 45 \u00b1 3 \u00b0C to a constant weight"
+    },
+    {
+      "id": 1,
+      "description": "Enzymatic liquefaction and saccharification involving sterilization by autoclaving, pH adjustment to 7.0 \u00b1 0.1 with hydrochloric acid, addition of \u03b1-amylase at 90 \u00b0C, glucoamylase and cellulase additions at 50 \u00b0C, and mixing at 120 rpm for 24 h"
+    },
+    {
+      "id": 2,
+      "description": "Liquid hot water pretreatment in a stainless steel Parr reactor (500 ml) under 345 bar pressure"
+    },
+    {
+      "id": 3,
+      "description": "Thermochemical conversion by heating duckweed to 150 \u00b0C within 15 minutes"
+    }
+  ]
+}

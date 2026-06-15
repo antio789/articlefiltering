@@ -1,0 +1,32 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "LHW pretreatment"
+    },
+    {
+      "id": 1,
+      "description": "60% ethanol pretreatment"
+    },
+    {
+      "id": 2,
+      "description": "1% H2SO4 pretreatment"
+    },
+    {
+      "id": 3,
+      "description": "0.5% NaOH pretreatment"
+    },
+    {
+      "id": 4,
+      "description": "PEG 6000-assisted 1% H2SO4 pretreatment"
+    },
+    {
+      "id": 5,
+      "description": "PEG 6000-assisted 2% H2SO4 pretreatment"
+    },
+    {
+      "id": 6,
+      "description": "PEG 6000-assisted 0.5% NaOH pretreatment"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Microwave (MW) pretreatment using a household Panasonic microwave oven at 600 W for 6 minutes with a liquid:solid ratio of 20:1"
+    },
+    {
+      "id": 1,
+      "description": "Addition of Cobalt nanoparticles (Co NPs), spherical shape with average size < 100 nm, at a concentration of 1 mg/L in a suspension containing 0.1 mM sodium dodecylbenzene sulfonate (SDS)"
+    },
+    {
+      "id": 2,
+      "description": "Addition of Nickel nanoparticles (Ni NPs), spherical shape with average size < 100 nm, at a concentration of 1 mg/L in a suspension containing 0.1 mM sodium dodecylbenzene sulfonate (SDS)"
+    }
+  ]
+}

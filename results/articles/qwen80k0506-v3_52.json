@@ -1,0 +1,40 @@
+{
+  "manual_review": [
+    [
+      "52",
+      "thermal"
+    ],
+    [
+      "52",
+      "mechanical disintegration"
+    ]
+  ],
+  "llm_review": [
+    [
+      "52",
+      "mechanical disintegration"
+    ],
+    [
+      "52",
+      "thermal"
+    ]
+  ],
+  "correct_predictions": 2,
+  "false_predictions": 0,
+  "missed_predictions": 0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1_score": 1.0,
+  "correct_items": [
+    [
+      "52",
+      "mechanical disintegration"
+    ],
+    [
+      "52",
+      "thermal"
+    ]
+  ],
+  "false_items": [],
+  "missed_items": []
+}

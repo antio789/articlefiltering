@@ -1,0 +1,61 @@
+{
+  "manual_review": [
+    [
+      1569,
+      "mechanical disintegration"
+    ],
+    [
+      1569,
+      "ultrasonic"
+    ],
+    [
+      1569,
+      "thermal"
+    ]
+  ],
+  "llm_review": [
+    [
+      1569,
+      "mechanical disintegration"
+    ],
+    [
+      1569,
+      "thermal"
+    ],
+    [
+      1569,
+      "ultrasonic"
+    ],
+    [
+      1569,
+      "biological active substrate"
+    ]
+  ],
+  "correct_predictions": 3,
+  "false_predictions": 1,
+  "missed_predictions": 0,
+  "precision": 0.75,
+  "recall": 1.0,
+  "f1_score": 0.8571,
+  "correct_items": [
+    [
+      1569,
+      "mechanical disintegration"
+    ],
+    [
+      1569,
+      "thermal"
+    ],
+    [
+      1569,
+      "ultrasonic"
+    ]
+  ],
+  "false_items": [
+    [
+      1569,
+      "biological active substrate"
+    ]
+  ],
+  "missed_items": []
+}

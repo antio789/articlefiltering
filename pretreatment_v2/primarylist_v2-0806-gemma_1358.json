@@ -1,0 +1,24 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Mechanical degradation of kitchen waste using a cutter to produce particulates and a home-type coffee grinder to achieve fine particles smaller than 4 mm."
+    },
+    {
+      "id": 1,
+      "description": "Dilution of cow manure and grinded kitchen waste with tap water until concentrations reached near the municipal waste concentration (1024 kg/m^3)."
+    },
+    {
+      "id": 2,
+      "description": "Anaerobic stabilization in 1.8 L vessels by injecting N2 99% for 5 minutes and maintaining for 5 days."
+    },
+    {
+      "id": 3,
+      "description": "Chemical pretreatment using Sodium Hydroxide (NaOH) in ranges of 0\u20134% of total weight."
+    },
+    {
+      "id": 4,
+      "description": "Chemical pretreatment using Hydrogen Peroxide (H2O2) in ranges of 0\u20134% of total weight."
+    }
+  ]
+}

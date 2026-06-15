@@ -1,0 +1,40 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Organosolv pretreatment: Napier grass or silage was mixed with 100 mL of 50% (v/v) aqueous ethanol at a solid to liquid ratio of 1:10 (with or without 1% (w/w) H_2SO_4, HCl, CH_3COOH, or NaOH) in 150 mL high-pressure stainless-steel vessels for 15, 30, 45, and 60 minutes. The vessels were cooled in an ice bath to stop the reaction. Pretreated solids were separated from the liquid fraction by filtration. The solid fractions were washed with 100 mL of 50% (v/v) aqueous ethanol followed by several washes with distilled water to adjust the pH to 7.0. The solid fractions were dried overnight at 60 \u00b0C."
+    },
+    {
+      "id": 1,
+      "description": "Hydrothermal pretreatment: Napier grass or silage was mixed with distilled water (with or without 1% (w/w) H_2SO_4, HCl, CH_3COOH, or NaOH) in 150 mL high-pressure stainless-steel vessels. The vessels were heated in an oil bath at 190 \u00b0C for 15, 30, 45, and 60 minutes. The vessels were removed from the oil bath and placed in an ice bath to stop the reaction. Pretreated solids were separated from the liquid fraction by filtration. The solid fractions were washed with distilled water several times to adjust the pH to 7.0. The solid fractions were dried overnight at 60 \u00b0C."
+    },
+    {
+      "id": 2,
+      "description": "Enzymatic hydrolysis: 1.5 g of organosolv or hydrothermally pretreated Napier grass or silage was mixed with 30 mL of 50 mM sodium citrate buffer at pH 5.0. The mixture was sterilized in an autoclave at 121 \u00b0C for 15 minutes. Cellic\u00ae CTec2 (20 filter paper unit/g-substrate) was added. Hydrolysis was conducted at 50 \u00b0C in an incubator shaker at 150 rpm for 72 hours."
+    },
+    {
+      "id": 3,
+      "description": "Anaerobic batch digestion: Substrate (1.5 g of organosolv, hydrothermally pretreated Napier grass, or silage from each pretreatment condition) was mixed with 20 g of VS/L of anaerobic sludge in 120 mL serum bottles with a working volume of 70 mL. The initial pH was adjusted to 7.0 using 5 M HCl or 5 M NaOH. Bottles were purged with nitrogen gas for 5 minutes to create anaerobic conditions. The bottles were incubated at room temperature on an orbital shaker at 150 rpm. Biogas volume was measured using the wetted glass syringe method. Gas samples were withdrawn from the headspace and analyzed for methane content using gas chromatography (GC)."
+    },
+    {
+      "id": 4,
+      "description": "Solid fraction analysis: Solid fractions obtained from organosolv and hydrothermal pretreatments were analyzed for chemical composition (cellulose, hemicellulose, lignin), morphology (scanning electron microscopy), and chemical changes using energy dispersive X-ray spectrometry."
+    },
+    {
+      "id": 5,
+      "description": "Enzymatic hydrolysis analysis: The remaining enzymatic hydrolysate with a solid residue after enzymatic hydrolysis was used for reducing sugar analysis using the 3,5-dinitrosalicylic acid method."
+    },
+    {
+      "id": 6,
+      "description": "Enzymatic hydrolysis analysis: Methane and carbon dioxide contents of the biogas were analyzed using gas chromatography (GC). The volume of methane in the biogas was calculated using the mass balance equation."
+    },
+    {
+      "id": 7,
+      "description": "Methane production analysis: Methane production (MP), methane yield (MY), and methane production rate (MPR) were calculated based on cumulative MP, substrate added (g-VS_added), and fermentation time. The overall energy yield (EY) was calculated by multiplying MY by the energy content of methane (50 kJ/g-CH_4)."
+    },
+    {
+      "id": 8,
+      "description": "Statistical analysis: Data was analyzed using Duncan's test to determine significant differences between treatments."
+    }
+  ]
+}

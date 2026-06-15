@@ -1,0 +1,20 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Ozone pretreatment procedure performed on 3 g grass particles adjusted to 90% moisture within a stainless steel reactor with a 1 cm bed height, using a L11\u2013L24 Ozone Generator with 5.3% ozone concentration (w/w) for 10 min, at a flow rate of 2000 ml/min for 10 min, resulting in 0.79 g O3/g TS applied semi-continuously."
+    },
+    {
+      "id": 1,
+      "description": "Soaking aqueous ammonia (SAA) pretreatment procedure performed using 28\u201330% (w/w) ammonium hydroxide solution in a 1000 ml screw cap Pyrex solution bottle with a solid to liquid ratio of 2:10 at 50 \u00b0C for 24 h without agitation, followed by neutralization with distilled water and dried at 50 \u00b0C (excluding washing and drying)."
+    },
+    {
+      "id": 2,
+      "description": "Ozone combined with SAA (OSAA) pretreatment procedure performed using 10 min ozone pretreatment on 32\u201342 mesh grass particles followed by 6 h SAA pretreatment on the resulting material, where the grass waste was pre-treated with ozone at 5.3% ozone concentration (w/w) followed by SAA at 28\u201330% (w/w) ammonium hydroxide solution."
+    },
+    {
+      "id": 3,
+      "description": "Size reduction procedure performed on milled grass waste particles by sieving through a 42 mesh Tyler Standard Screen Scale to obtain particles with a size less than 0.354 mm."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Alkaline Pretreatment using NaOH solutions at varying concentrations (0.2, 0.4, 0.6, and 0.8% w/v). This method involves dissolving and destroying sludge flocs using hydroxyl ions to induce swelling, release soluble organics, and enhance microbial cell integrity."
+    },
+    {
+      "id": 1,
+      "description": "Photocatalytic Pretreatment using Titanium (IV) Oxide Anatase (TiO2) nanoparticles (NPs) at varying doses (0.3, 0.4, 0.5, and 0.6 g/L). This method uses semiconductor photocatalyst TiO2 NPs to degrade organic matter under UV light, generating hydroxyl radicals for oxidative reaction and sludge disintegration."
+    },
+    {
+      "id": 2,
+      "description": "Combined Alkaline-Photocatalytic Pretreatment. This involves combining NaOH and TiO2 NPs pretreatment conditions where doses are optimized for both alkaline and photocatalytic methods. This synergy leads to higher sludge solubilization and methane production."
+    }
+  ]
+}

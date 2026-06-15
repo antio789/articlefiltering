@@ -1,0 +1,32 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Physical grinding (mechanical degradation) of pine wood to achieve a homogeneous size of less than 1 mm (20 mesh) before mixing with NaOH solution."
+    },
+    {
+      "id": 1,
+      "description": "Chemical alkali pretreatment using 8% sodium hydroxide (NaOH) solution mixed with milled pine wood for varying durations at two temperatures: 100 \u00b0C for 10, 30, and 60 minutes (shorter retention times), and 0 \u00b0C for 10, 30, and 60 minutes (longer retention times)."
+    },
+    {
+      "id": 2,
+      "description": "Combined chemical-thermal treatment involving the high-temperature NaOH pretreatment at 100 \u00b0C for 10 minutes."
+    },
+    {
+      "id": 3,
+      "description": "Low-temperature NaOH pretreatment involving the low-temperature NaOH pretreatment at 0 \u00b0C for 60 minutes."
+    },
+    {
+      "id": 4,
+      "description": "Treatment at 0 \u00b0C for 30 minutes."
+    },
+    {
+      "id": 5,
+      "description": "Treatment at 100 \u00b0C for 30 minutes."
+    },
+    {
+      "id": 6,
+      "description": "Treatment at 100 \u00b0C for 60 minutes."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Chemical treatment using dilute citric acid solution with variables: temperature from 120 to 180 \u00b0C, reaction time from 20 to 90 min, and percentage by weight of citric acid (PCA) to sugarcane bagasse from 3 to 12 wt%."
+    },
+    {
+      "id": 1,
+      "description": "Thermal treatment during the dilute citric acid pretreatment process with temperatures ranging from 120 to 180 \u00b0C."
+    },
+    {
+      "id": 2,
+      "description": "Mechanical degradation through pressing in a hydraulic press at 9 tons to separate solid and liquid fractions after pretreatment."
+    },
+    {
+      "id": 3,
+      "description": "Enzymatic hydrolysis using Cellic\u00ae CTec 3 HS cocktail (containing AA9 molecules, T. reesei cellulases, \u03b2-glucosidases, and hemicellulases) at 45\u201350 \u00b0C and pH 5.0\u20135.5 for 72 h."
+    }
+  ]
+}

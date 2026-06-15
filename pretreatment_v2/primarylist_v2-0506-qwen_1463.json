@@ -1,0 +1,20 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Chemo-mechanical pretreatment using NaOH (pH 10) combined with an ultrasonic disperser (IKA T25 Ultra Turrax Digital) at specific energy levels of 4544 kJ/kg TS, applied to waste activated sludge (WAS) from Aavin dairy effluent treatment plant at Ambathur, Chennai for 15\u2013180 minutes."
+    },
+    {
+      "id": 1,
+      "description": "Chemo-mechanical pretreatment using KOH (pH 10 or 11) combined with an ultrasonic disperser (IKA T25 Ultra Turrax Digital) at specific energy levels of 4544 kJ/kg TS, applied to waste activated sludge (WAS) for 15\u2013180 minutes."
+    },
+    {
+      "id": 2,
+      "description": "Chemo-mechanical pretreatment using Ca(OH)_2 (pH 8\u201311) combined with an ultrasonic disperser (IKA T25 Ultra Turrax Digital) at specific energy levels of 4544 kJ/kg TS, applied to waste activated sludge (WAS) for 15\u2013180 minutes."
+    },
+    {
+      "id": 3,
+      "description": "Control treatment without pretreatment, consisting of raw dairy waste activated sludge (WAS) sampled from the Aavin dairy effluent treatment plant at Ambathur, Chennai, characterized by a total COD of 10200 mg/L, total solids of 13850 mg/L, and pH of 6.97, before any chemical or mechanical treatment."
+    }
+  ]
+}

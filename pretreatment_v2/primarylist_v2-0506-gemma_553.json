@@ -1,0 +1,36 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Grinding to pass through a 12 mm sieve using a shredder-chipper (Mighty Mac, Mackissic Inc., Parker Ford, PA, USA)."
+    },
+    {
+      "id": 1,
+      "description": "Ensilage: Supplemented with water to reach a total solids (TS) content of around 40%, packed into 1-gallon-size zipper bags (Ziploc Vacuum Freezer System, SC Johnson Inc., Racine, WI, USA) with 1 kg of wet giant reed in each bag, vacuumed to minimize oxygen, and placed at room temperature (25 \u00b1 3 \u00b0C)."
+    },
+    {
+      "id": 2,
+      "description": "Fungal pretreatment: C. subvermispora (ATCC 96608) inoculum prepared by activating the fungus on 2% malt extract agar plates at 28 \u00b0C for 7 days, followed by liquid inoculum preparation and homogenization with sterilized DI water."
+    },
+    {
+      "id": 3,
+      "description": "Autoclaving at 121 \u00b0C for 30 min."
+    },
+    {
+      "id": 4,
+      "description": "Mixing thoroughly after 60 days of ensilage."
+    },
+    {
+      "id": 5,
+      "description": "Storage at \u221220 \u00b0C for AD and enzymatic hydrolysis tests."
+    },
+    {
+      "id": 6,
+      "description": "Enzymatic hydrolysis using cellulase (Cellic CTec 2, Novozymes, Denmark) at 50 \u00b0C with shaking at 180 rpm for 72 h, followed by filtration."
+    },
+    {
+      "id": 7,
+      "description": "Anaerobic digestion (AD) in a mesophilic liquid anaerobic digester (KB BioEnergy, Akron, OH, USA) with sewage sludge inoculum at 37 \u00b1 1 \u00b0C for 30 days."
+    }
+  ]
+}

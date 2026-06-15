@@ -1,0 +1,10 @@
+{
+  "filters": [
+    {
+      "reasoning": "*   Description: \"Thermal pretreatment performed in a 10 L agitated autoclave using either electric mode (at temperatures of 110 \u00b0C, 165 \u00b0C and 220 \u00b0C) or steam mode (at 165 \u00b0C), for a duration of 30 minutes once the target temperature was reached.\"\n    *   Context: Pretreatment of substrate for anaerobic digestion.\n\n    *   qid 1: Mechanical alteration? No mentions of grinding, milling, shredding.\n    *   qid 2: Thermal pretreatment? Yes (\"Thermal pretreatment\", \"temperatures of 110 \u00b0C, 165 \u00b0C and 220 \u00b0C\", \"steam mode\").\n    *   qid 3: Ultrasound? No.\n    *   qid 4: Pressure-based (excluding autoclave)? The description mentions an autoclave, but qid 4 explicitly excludes pressure generated incidentally by heating in closed systems such as hydrothermal methods (e.g., autoclave). So, no.\n    *   qid 5: Direct electrical application? It says \"electric mode\", but this refers to the heating method of the autoclave, not direct electricity applied to the substrate to disrupt it. No.\n    *   qid 6: Alkaline pretreatment? No agents mentioned.\n    *   qid 7: Acidic pretreatment? No agents mentioned.\n    *   qid 8: Oxidizer agent? No agents mentioned.\n    *   qid 9: Solvent for pretreatment? No solvents mentioned (water/steam is implicit or not a solvent system as per rule).\n    *   qid 10: Other chemical pretreatment? No.\n    *   qid 11: Enzyme? No.\n    *   qid 12: Fungi? No.\n    *   qid 13: Microbial? No.\n    *   qid 14: External active organic material? No.\n    *   qid 58: Microaerobic pretreatment? No.\n\n    The description explicitly mentions \"Thermal pretreatment\" and specifies temperatures and methods (electric mode, steam mode). This fits qid 2 perfectly.",
+      "answer": "2"
+    }
+  ],
+  "article_path": "articletxt/837.txt",
+  "article_title": "TITLE: Kinetics of thermophilic batch anaerobic digestion of thermal hydrolysed waste activated sludge"
+}

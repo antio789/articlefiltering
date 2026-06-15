@@ -1,0 +1,74 @@
+{
+  "manual_review": [
+    [
+      553,
+      "mechanical disintegration"
+    ],
+    [
+      553,
+      "enzyme"
+    ],
+    [
+      553,
+      "fungi"
+    ]
+  ],
+  "llm_review": [
+    [
+      553,
+      "thermal"
+    ],
+    [
+      553,
+      "alkaline"
+    ],
+    [
+      553,
+      "oxidizer"
+    ],
+    [
+      553,
+      "enzyme"
+    ],
+    [
+      553,
+      "fungi"
+    ]
+  ],
+  "correct_predictions": 2,
+  "false_predictions": 3,
+  "missed_predictions": 1,
+  "precision": 0.4,
+  "recall": 0.6667,
+  "f1_score": 0.5,
+  "correct_items": [
+    [
+      553,
+      "enzyme"
+    ],
+    [
+      553,
+      "fungi"
+    ]
+  ],
+  "false_items": [
+    [
+      553,
+      "thermal"
+    ],
+    [
+      553,
+      "alkaline"
+    ],
+    [
+      553,
+      "oxidizer"
+    ]
+  ],
+  "missed_items": [
+    [
+      553,
+      "mechanical disintegration"
+    ]
+  ]
+}

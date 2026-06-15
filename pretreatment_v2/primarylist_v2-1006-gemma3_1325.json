@@ -1,0 +1,20 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Ethanolic organosolv pretreatment with 50% ethanol solution, in the presence of 1% H2SO4, at 120, 140 and 180 \u00b0C for 60 min."
+    },
+    {
+      "id": 1,
+      "description": "Ethanolic organosolv pretreatment with 75% ethanol solution, in the presence of 1% H2SO4, at 120, 140 and 180 \u00b0C for 60 min."
+    },
+    {
+      "id": 2,
+      "description": "Enzymatic hydrolysis using Cellic\u00ae CTec2 and Cellic\u00ae HTec2 enzyme mixture (1:9 ratio) at 45 \u00b1 1 \u00b0C and 120 rpm for 72 h."
+    },
+    {
+      "id": 3,
+      "description": "Anaerobic digestion of the residual solids and the supernatant."
+    }
+  ]
+}

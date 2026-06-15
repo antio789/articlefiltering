@@ -1,0 +1,32 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "CaO2 oxidation combined with microwave irradiation"
+    },
+    {
+      "id": 1,
+      "description": "H2O2 oxidation combined with microwave irradiation"
+    },
+    {
+      "id": 2,
+      "description": "Ca(OH)2 treatment combined with microwave irradiation"
+    },
+    {
+      "id": 3,
+      "description": "CaO2 treatment"
+    },
+    {
+      "id": 4,
+      "description": "MW irradiation"
+    },
+    {
+      "id": 5,
+      "description": "Ca(OH)2 treatment"
+    },
+    {
+      "id": 6,
+      "description": "H2O2 treatment"
+    }
+  ]
+}

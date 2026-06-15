@@ -1,0 +1,24 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Grinding using a grinder (Bosch MKM6003, Iran)"
+    },
+    {
+      "id": 1,
+      "description": "Sodium hydroxide (NaOH) pretreatment: presoaking in 8% wt. sodium hydroxide solution (95 g) at room temperature for 10 min with stirring, followed by heating to 100 \u00b0C for 10 min in an oil bath, cooling in an ice bath, centrifugation, washing with distilled water, freezing, and freeze-drying."
+    },
+    {
+      "id": 2,
+      "description": "Liquid hot water (LHW) pretreatment: presoaking in distilled water instead of alkaline solution, heating to 100 \u00b0C for 10 min in an oil bath, cooling in an ice bath, centrifugation, washing with distilled water, freezing, and freeze-drying."
+    },
+    {
+      "id": 3,
+      "description": "Biological pretreatment: aerobic digestion using the aerobic sludge at 37 \u00b0C and 90 rpm in a shaker incubator for 10 days."
+    },
+    {
+      "id": 4,
+      "description": "Ultrasonic pretreatment: incubation in an ultrasonic bath at 40 KHz frequency for 30 min at 40 \u00b0C."
+    }
+  ]
+}

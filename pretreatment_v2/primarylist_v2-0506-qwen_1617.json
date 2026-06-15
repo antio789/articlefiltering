@@ -1,0 +1,16 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Microwave pretreatment (MP) performed without the addition of surfactant, using an IFB-30SC2 microwave oven at 900 W and 2450 MHz frequency for treatment times ranging from 1 to 60 minutes."
+    },
+    {
+      "id": 1,
+      "description": "Sodium dodecylbenzene sulfonate (SDBS) microwaved pretreatment (SMP) performed in the presence of SDBS at concentrations ranging from 0.005 g/g TS to 0.5 g/g TS, utilizing the same microwave conditions as MP."
+    },
+    {
+      "id": 2,
+      "description": "Control treatment (without pretreatment) where no microwave irradiation or surfactant was applied to the fresh kelp samples prior to the fermentation process."
+    }
+  ]
+}

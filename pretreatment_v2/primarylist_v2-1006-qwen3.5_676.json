@@ -1,0 +1,28 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Microwave pretreatment using 300 W, 500 W, and 700 W power levels for 10 minutes at 95% moisture content."
+    },
+    {
+      "id": 1,
+      "description": "KOH pretreatment at concentrations of 1%, 2%, 3%, and 4% (mass fraction)."
+    },
+    {
+      "id": 2,
+      "description": "Ca(OH)_2 pretreatment at concentrations of 1%, 2%, 3%, and 4% (mass fraction)."
+    },
+    {
+      "id": 3,
+      "description": "NaOH pretreatment at concentrations of 1%, 2%, 3%, and 4% (mass fraction)."
+    },
+    {
+      "id": 4,
+      "description": "AHP pretreatment using alkaline hydrogen peroxide (pH 11.5) adjusted with NaOH at concentrations of 1%, 2%, 3%, and 4% (mass fraction)."
+    },
+    {
+      "id": 5,
+      "description": "HCl pretreatment at concentrations of 1%, 2%, 3%, and 4% (mass fraction)."
+    }
+  ]
+}

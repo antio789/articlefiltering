@@ -1,0 +1,12 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Solid-state alkaline pretreatment using NaOH solutions of varying concentrations (0.25, 0.625, 1.25, and 1.85 M), where 200g of corn stover mixed evenly with the specified NaOH volume for 24 hours at ambient temperature (20 \u00b1 0.5 \u00b0C), resulting in varying NaOH loadings of 1.0%, 2.5%, 5.0%, and 7.5% (w/w) to influence lignin and carbohydrate degradation before digestion."
+    },
+    {
+      "id": 1,
+      "description": "Concurrent NaOH pretreatment and anaerobic digestion (SATD) involving mixing of corn stover with NaOH solutions (0.25, 0.625, and 1.25 M) and effluent, with the mixture immediately fed into the SS-AD reactor without prior washing or detoxification, allowing simultaneous treatment and digestion under optimized conditions."
+    }
+  ]
+}

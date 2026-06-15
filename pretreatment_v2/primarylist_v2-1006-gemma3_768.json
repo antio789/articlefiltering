@@ -1,0 +1,32 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Mechanical grinding of food waste using an in-sink food disposer with a strainer hole size of 0.75 cm."
+    },
+    {
+      "id": 1,
+      "description": "Mechanical grinding of food waste using a manual meat grinder with a medium (1.0 cm) plate opening."
+    },
+    {
+      "id": 2,
+      "description": "Mechanical grinding of food waste using a manual meat grinder with a small (0.5 cm) plate opening."
+    },
+    {
+      "id": 3,
+      "description": "Addition of a commercial digestive enzyme formulation (Digest\u00ae, Enzymedica Inc.) in excess to the ground food waste."
+    },
+    {
+      "id": 4,
+      "description": "Dilution of ground food waste with a buffered aqueous solution (0.5 M NaOH titrated into 0.5 M KH\u2082PO\u2084 to pH 6.5) to a COD concentration of 3.5 g COD L\u207b\u00b9."
+    },
+    {
+      "id": 5,
+      "description": "Maintaining the assays in 1 L glass beakers maintained at 35 \u00b0C in a water bath."
+    },
+    {
+      "id": 6,
+      "description": "Covering the beakers with plastic film (Glad\u00ae Cling Wrap) held with a rubber band to reduce evaporation and potential contamination."
+    }
+  ]
+}

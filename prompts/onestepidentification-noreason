@@ -1,0 +1,21 @@
+Consider this article about anaerobic digestion with particular interest in the pretreatment:
+You are tasked with identifying the pretreatments on a substrates in a scientific article so that they can be subsequently classified.
+There is need to be precise and not miss details, but there is no need for complex reasoning it is a simple identification process.
+Start by reading the text and the questions to better understand the context
+
+STEP 1 Identify the pretreatments:
+- Consider only the methodology
+- Identify ALL the different pretreatments applied to the substrates, by consider ALL actions applied that affect the properties of the substrates, even if not mentioned as a pretreatment: this includes potential treatments during substrate sample preparation, only exclude the following 3 and nothing else:drying, washing and freezing for storage.
+- Describe the identified treatment in detail with information form the text
+
+STEP 2:
+the treatment identified above (in STEP 1) refers to treatments identified in a scientific article in the context of anaerobic digestion. More specifically it refers to a pretreatment of the substrate.
+You must for each identified treatment identify which question from the list fits the treatment, you can only choose one
+it is possible that the description doesnt fit any questions.
+
+-ONLY answer with the qids of the question and nothing else, include them in a single list following this format:[int1,int2,...]
+-if the description doesn't fit any questions answer with -1
+-Do not answer with anything else a part form the requested list, no explanations, no markdowns
+
+STEP 3:
+Ensure the answer is a single list of numbers and nothing else

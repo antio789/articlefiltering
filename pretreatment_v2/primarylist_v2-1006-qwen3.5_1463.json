@@ -1,0 +1,16 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Chemo-mechanical pretreatment using NaOH (pH 10) combined with disperser (IKA T25 Ultra Turrax) at 12,000 rpm for 30 min, applied at specific energy of 4544 kJ/kg TS, to enhance sludge disintegration, solubilization, and biodegradability before anaerobic digestion."
+    },
+    {
+      "id": 1,
+      "description": "Chemo-mechanical pretreatment using KOH (pH 10) combined with disperser (IKA T25 Ultra Turrax) at 12,000 rpm for 30 min, applied at specific energy of 4544 kJ/kg TS, to enhance sludge disintegration, solubilization, and biodegradability before anaerobic digestion."
+    },
+    {
+      "id": 2,
+      "description": "Chemo-mechanical pretreatment using Ca(OH)_2 (pH 10) combined with disperser (IKA T25 Ultra Turrax) at 12,000 rpm for 30 min, applied at specific energy of 4544 kJ/kg TS, to enhance sludge disintegration, solubilization, and biodegradability before anaerobic digestion."
+    }
+  ]
+}

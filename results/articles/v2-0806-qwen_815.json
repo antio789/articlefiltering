@@ -1,0 +1,37 @@
+{
+  "manual_review": [
+    [
+      815,
+      "mechanical disintegration"
+    ]
+  ],
+  "llm_review": [
+    [
+      815,
+      "mechanical disintegration"
+    ],
+    [
+      815,
+      "thermal"
+    ]
+  ],
+  "correct_predictions": 1,
+  "false_predictions": 1,
+  "missed_predictions": 0,
+  "precision": 0.5,
+  "recall": 1.0,
+  "f1_score": 0.6667,
+  "correct_items": [
+    [
+      815,
+      "mechanical disintegration"
+    ]
+  ],
+  "false_items": [
+    [
+      815,
+      "thermal"
+    ]
+  ],
+  "missed_items": []
+}

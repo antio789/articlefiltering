@@ -1,0 +1,20 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Biological pretreatment, based on the joint action of the native microbiota of Agave bagasse composed mainly of Clostridium, Lactobacillus, and Enterobacter, described as a core microbiome of lignocellulosic biomasses, which primarily hydrolyzed xylan, converting it into volatile fatty acids simulated solely as acetic acid to simplify the study."
+    },
+    {
+      "id": 1,
+      "description": "Enzymatic pretreatment, based on the action of the commercial enzyme cocktail Cellulase 50XL, simulated to a dose of 293 endoglucanase units (EGU)/g of bagasse working in a 50 mM citrate buffer pH 6, which released mainly glucose along with galactose, arabinose, and other sugars."
+    },
+    {
+      "id": 2,
+      "description": "Dilute acid pretreatment, solubilized all xylan and partially cellulose in 1.8 % HCl under soft operating conditions, which recovered sugars and eliminated the generation of inhibitors."
+    },
+    {
+      "id": 3,
+      "description": "Steam explosion pretreatment, solubilized xylan producing a mixture of sugars and acetic acid, with low concentrations of furfural (0.7 g/L) and hydroxymethylfurfural (0.12 g/L)."
+    }
+  ]
+}

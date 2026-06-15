@@ -1,0 +1,20 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Alkaline pretreatment using NaOH solutions (0.2%, 0.4%, 0.6%, 0.8% w/v) at temperatures of 37 \u00b0C for 3 hours."
+    },
+    {
+      "id": 1,
+      "description": "Photocatalytic pretreatment using TiO_2 nanoparticles (0.3, 0.4, 0.5, 0.6 g/L) in an enclosed chamber with UV-B lamps at 37 \u00b0C for 3 hours."
+    },
+    {
+      "id": 2,
+      "description": "Alkaline-photocatalytic pretreatment combining the above conditions."
+    },
+    {
+      "id": 3,
+      "description": "Sample preparation involving thickening and dewatering using a sand drying bed prior to storage."
+    }
+  ]
+}

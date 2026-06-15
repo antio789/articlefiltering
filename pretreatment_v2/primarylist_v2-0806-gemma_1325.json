@@ -1,0 +1,24 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Mechanical degradation via ball-milling and sieving through 20 and 80 mesh screens to obtain particles smaller than 1 mm."
+    },
+    {
+      "id": 1,
+      "description": "Chemical pretreatment using organosolv solvent concentrations of 50% or 75% vv-1 ethanol solution."
+    },
+    {
+      "id": 2,
+      "description": "Thermal treatment during the organosolv process at temperatures of 120, 140 and 180 \u00b0C for 60 min."
+    },
+    {
+      "id": 3,
+      "description": "Chemical pretreatment using a catalyst consisting of 1% ww-1 H2SO4 during the organosolv process."
+    },
+    {
+      "id": 4,
+      "description": "Enzymatic hydrolysis of recovered solids using a mixture of Cellic\u00ae CTec2 and Cellic\u00ae HTec2 enzymes at a ratio of 1:9 (Htec2 to Ctech2) with an activity of 113.5 FPU mL-1, conducted for 72 h at 45 \u00b1 1 \u00b0C and 120 rpm in sodium citrate buffer (50 mM, pH 4.8)."
+    }
+  ]
+}

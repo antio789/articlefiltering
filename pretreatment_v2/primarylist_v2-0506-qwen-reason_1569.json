@@ -1,0 +1,20 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Ultrasonic pre-treatment of wastewater sludges using an ultrasonic homogeniser (Bandelin-Sonopuls HD 3400) with a frequency of 20 kHz, 70% amplitude, and a supplied power of 200 W. The samples were ultrasonicated for 15 and 30 min to obtain specific energies of 15,000 and 25,000 kJ/kg TS, respectively. This treatment enhanced the solubility of sludge solids and reduced the particle size."
+    },
+    {
+      "id": 1,
+      "description": "Microwave pre-treatment (thermal disintegration) of wastewater sludges using a Microwave (MW) Digestion Unit (Berghoff Speedwave MWS-3+) with a staged temperature profile. The application time varied from 30 to 60 min in literature, while in this study, the microwave pre-treatment was applied to the sludge samples for 30 min at 175 \u00b0C and 2000 kPa. This treatment improved the solubilization of organic solid waste."
+    },
+    {
+      "id": 2,
+      "description": "Mechanical degradation of olive pomace through shredding using a blender into small particles prior to addition into the reactors. This action was performed to increase the solubility and enhance biodegradability of the substrates before anaerobic digestion. The pomace samples were brought to room temperature before addition."
+    },
+    {
+      "id": 3,
+      "description": "Co-digestion process of olive pomace and wastewater sludges in reactors (R2-R7) where the mixtures of olive pomace and wastewater sludges were prepared on a weight (w/w) basis. This method was investigated to adjust nutrient content and establish an appropriate C/N ratio, though it is classified as a digestion process rather than a pre-treatment method."
+    }
+  ]
+}

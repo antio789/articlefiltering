@@ -1,0 +1,48 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Suspended TiO_2 photocatalyst impregnation on chitosan thin film (TCTF) for deflocculation and defoaming of sludge aggregates, followed by solar irradiation to generate reactive oxygen species that disrupt microbial cell adhesion and release exopolymers."
+    },
+    {
+      "id": 1,
+      "description": "Inoculation of Bacillus jerish 03 and Bacillus jerish 04 strains with the deflocculated sludge to induce enzymatic hydrolysis and biomass stress for subsequent methanogenesis."
+    },
+    {
+      "id": 2,
+      "description": "Anaerobic batch testing performed at 37 \u00b1 1 \u00b0C with a 3:1 inoculum-to-substrate ratio using bovine rumin fluid as the inoculum and sludge samples as the substrate to quantify methane production rates and kinetic parameters."
+    },
+    {
+      "id": 3,
+      "description": "Pilot-scale energetic and solid balance analysis performed using 1 ton of treated sludge to calculate energy consumption, methane energy output, net energy, net solid quantity, net cost, and net profit."
+    },
+    {
+      "id": 4,
+      "description": "Statistical significance analysis using Student t-test and one-way analysis of variance to compare results between control (raw sludge), flocculated (bacterial only), and deflocculated (TCTF + bacterial) samples."
+    },
+    {
+      "id": 5,
+      "description": "Suspended solids (SS) reduction analysis monitored over 42 hours to quantify the degradation of solid particulate matter due to enzymatic activity and cell lysis induced by the bacterial pretreatment."
+    },
+    {
+      "id": 6,
+      "description": "Soluble chemical oxygen demand (SCOD) solubilization efficiency analysis over 42 hours to measure the release of intracellular organic substances into the aqueous phase via microbial lysis and enzyme secretion."
+    },
+    {
+      "id": 7,
+      "description": "Specific growth rate analysis of inoculated bacterial strains using skimmed milk agar to determine the enzymatic activity (protease and amylase) and cell proliferation dynamics over different incubation periods."
+    },
+    {
+      "id": 8,
+      "description": "Methane production assay analysis over 15 days using a syringe and needle arrangement to measure gCOD/gCOD methane yield and evaluate the impact of deflocculation on methanogenic activity."
+    },
+    {
+      "id": 9,
+      "description": "Non-linear regression kinetic modeling using Matlab to estimate hydrolysis rate constants and biodegradability parameters (Xd, \u03b8) for the three sludge samples to predict long-term methane generation."
+    },
+    {
+      "id": 10,
+      "description": "Cost-benefit analysis evaluating the economic feasibility of the TCTF-mediated pretreatment process by calculating energy input costs, chemical costs, solid disposal costs, and methane energy revenue per ton of sludge."
+    }
+  ]
+}

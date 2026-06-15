@@ -1,0 +1,20 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Sedimentation and centrifugation (5 min, 3000 rpm) for harvesting microalgae biomass"
+    },
+    {
+      "id": 1,
+      "description": "Thermal-pretreatment conducted for 30 min at temperatures of 50 \u00b0C, 80 \u00b0C, and 120 \u00b0C"
+    },
+    {
+      "id": 2,
+      "description": "Ultrasonic pretreatments conducted for 30, 90, and 180 s using an ultrasonicator of 130 W"
+    },
+    {
+      "id": 3,
+      "description": "Alkali pretreatment adjusted to pH 9, 11, and 13 using 5 N NaOH"
+    }
+  ]
+}

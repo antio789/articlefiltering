@@ -1,0 +1,133 @@
+{
+  "manual_review": [
+    [
+      1115,
+      "oxidizer"
+    ],
+    [
+      1115,
+      "alkaline"
+    ],
+    [
+      1115,
+      "thermal"
+    ]
+  ],
+  "llm_review": [
+    [
+      1115,
+      "thermal"
+    ],
+    [
+      1115,
+      "ultrasonic"
+    ],
+    [
+      1115,
+      "pressure"
+    ],
+    [
+      1115,
+      "electric"
+    ],
+    [
+      1115,
+      "alkaline"
+    ],
+    [
+      1115,
+      "acidic"
+    ],
+    [
+      1115,
+      "oxidizer"
+    ],
+    [
+      1115,
+      "solvent"
+    ],
+    [
+      1115,
+      "enzyme"
+    ],
+    [
+      1115,
+      "fungi"
+    ],
+    [
+      1115,
+      "microbial consortium"
+    ],
+    [
+      1115,
+      "biological active substrate"
+    ],
+    [
+      1115,
+      "nanoparticles"
+    ]
+  ],
+  "correct_predictions": 3,
+  "false_predictions": 10,
+  "missed_predictions": 0,
+  "precision": 0.2308,
+  "recall": 1.0,
+  "f1_score": 0.375,
+  "correct_items": [
+    [
+      1115,
+      "thermal"
+    ],
+    [
+      1115,
+      "alkaline"
+    ],
+    [
+      1115,
+      "oxidizer"
+    ]
+  ],
+  "false_items": [
+    [
+      1115,
+      "ultrasonic"
+    ],
+    [
+      1115,
+      "pressure"
+    ],
+    [
+      1115,
+      "electric"
+    ],
+    [
+      1115,
+      "acidic"
+    ],
+    [
+      1115,
+      "solvent"
+    ],
+    [
+      1115,
+      "enzyme"
+    ],
+    [
+      1115,
+      "fungi"
+    ],
+    [
+      1115,
+      "microbial consortium"
+    ],
+    [
+      1115,
+      "biological active substrate"
+    ],
+    [
+      1115,
+      "nanoparticles"
+    ]
+  ],
+  "missed_items": []
+}

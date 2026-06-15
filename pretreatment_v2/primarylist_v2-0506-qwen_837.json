@@ -1,0 +1,24 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Thermal pretreatment conducted in an agitated autoclave at temperatures of 110 \u00b0C, 165 \u00b0C, and 220 \u00b0C using an electric heating mode."
+    },
+    {
+      "id": 1,
+      "description": "Thermal pretreatment conducted in an agitated autoclave at a temperature of 165 \u00b0C using a steam injection mode."
+    },
+    {
+      "id": 2,
+      "description": "Mechanical treatment using a bead mill."
+    },
+    {
+      "id": 3,
+      "description": "Mechanical treatment using sonication."
+    },
+    {
+      "id": 4,
+      "description": "Mechanical treatment using a high-pressure homogenizer."
+    }
+  ]
+}

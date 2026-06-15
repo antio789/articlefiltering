@@ -1,0 +1,16 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Thermal pretreatment at 50 \u00b0C for 30 min, 80 \u00b0C for 30 min, and 120 \u00b0C for 30 min"
+    },
+    {
+      "id": 1,
+      "description": "Ultrasonic pretreatment at 130 W for 30 s, 90 s, and 180 s"
+    },
+    {
+      "id": 2,
+      "description": "Alkali pretreatment at pH 9, 11, and 13 with 5 N NaOH"
+    }
+  ]
+}

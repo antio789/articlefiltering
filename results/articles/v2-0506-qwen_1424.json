@@ -1,0 +1,65 @@
+{
+  "manual_review": [
+    [
+      1424,
+      "thermal"
+    ],
+    [
+      1424,
+      "alkaline"
+    ],
+    [
+      1424,
+      "oxidizer"
+    ]
+  ],
+  "llm_review": [
+    [
+      1424,
+      "electric"
+    ],
+    [
+      1424,
+      "pressure"
+    ],
+    [
+      1424,
+      "solvent"
+    ]
+  ],
+  "correct_predictions": 0,
+  "false_predictions": 3,
+  "missed_predictions": 3,
+  "precision": 0.0,
+  "recall": 0.0,
+  "f1_score": 0,
+  "correct_items": [],
+  "false_items": [
+    [
+      1424,
+      "electric"
+    ],
+    [
+      1424,
+      "pressure"
+    ],
+    [
+      1424,
+      "solvent"
+    ]
+  ],
+  "missed_items": [
+    [
+      1424,
+      "thermal"
+    ],
+    [
+      1424,
+      "alkaline"
+    ],
+    [
+      1424,
+      "oxidizer"
+    ]
+  ]
+}

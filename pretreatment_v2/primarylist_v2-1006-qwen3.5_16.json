@@ -1,0 +1,40 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Milling: The macralgal biomass (Laminaria sp.) was subjected to mechanical degradation using a Hollander beater machine to reduce particle size and increase specific surface area before anaerobic digestion."
+    },
+    {
+      "id": 1,
+      "description": "Thermal treatment: The sludge was subjected to a thermal treatment process to improve its dewaterability and destroy pathogens, involving heating the material to high temperatures (specifically 175\u00b0C is mentioned as the ideal target)."
+    },
+    {
+      "id": 2,
+      "description": "Chemical treatment: Hydrogen peroxide was applied to sludge to reduce its volume by 30% and improve its dewaterability."
+    },
+    {
+      "id": 3,
+      "description": "Physical treatment (Mechanical): Ultrasound was used on sludge particles at 37\u00b0C to disintegrate sludge particles and produce extra biogas."
+    },
+    {
+      "id": 4,
+      "description": "Pre-treatment: Mechanical pretreatment (using a Hollander beater) was applied to the macroalgae biomass (Pelvetia Caniculata, Fucus Serratus, Gracilaria Gracilis, Fucus Vesiculosus, and Laminaria Digitata) prior to anaerobic digestion."
+    },
+    {
+      "id": 5,
+      "description": "Chemical treatment: Drying was performed at 105\u00b0C to obtain constant weight and calculate moisture content of both untreated and treated material samples."
+    },
+    {
+      "id": 6,
+      "description": "Hydrogen peroxide treatment: Applied to sludge to reduce volume by 30%."
+    },
+    {
+      "id": 7,
+      "description": "Appels treatment: 40% extra biogas was obtained for low frequency ultrasound treatment at 37\u00b0C."
+    },
+    {
+      "id": 8,
+      "description": "Milling: Applied to maize silage (not algae, but mentioned as a reference for the Hollander beater's effectiveness). Not applied to algae in this study."
+    }
+  ]
+}

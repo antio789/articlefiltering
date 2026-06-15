@@ -1,0 +1,28 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Lab-scale shredding (I-PT) - Low speed operation designed to reduce particle size, primarily affecting larger particles (>20 mm) and reducing viscosity."
+    },
+    {
+      "id": 1,
+      "description": "Lab-scale shredding and mixing (II-PT) - Combination of mechanical shredding and water addition to favor water penetration into biomass, increasing water retention capacity (WRC)."
+    },
+    {
+      "id": 2,
+      "description": "Lab-scale shredding, mixing, and blending (III-PT) - Fine blending operation using water to alter lignocellulosic structure, create homogeneous liquid slurry, and produce fine particles (<0.25 mm), maximizing solubilization."
+    },
+    {
+      "id": 3,
+      "description": "Full-scale hammer mill (Mobile, Noremat Valormax BA915D) treating cattle manure (HM3) - Mechanical comminution for particle size reduction and slight increase in methane production rate, no significant change in biodegradability."
+    },
+    {
+      "id": 4,
+      "description": "Full-scale fixed hammer mill (HM4) treating cattle manure - On-line mechanical pretreatment showing slightly increased methane potential compared to confidence interval but remaining close to baseline."
+    },
+    {
+      "id": 5,
+      "description": "Full-scale X-Chopper chain mill (Xergi) treating silage and manure mixture (CH-SM) - Strongest effect among tested full-scale devices, causing significant enhancement of methane kinetics (+140%) and improving both kinetics and biodegradability."
+    }
+  ]
+}

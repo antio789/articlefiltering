@@ -1,0 +1,20 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Thermal hydrolysis at 110 \u00b0C in electric mode"
+    },
+    {
+      "id": 1,
+      "description": "Thermal hydrolysis at 165 \u00b0C in electric mode"
+    },
+    {
+      "id": 2,
+      "description": "Thermal hydrolysis at 220 \u00b0C in electric mode"
+    },
+    {
+      "id": 3,
+      "description": "Thermal hydrolysis at 165 \u00b0C in steam mode"
+    }
+  ]
+}

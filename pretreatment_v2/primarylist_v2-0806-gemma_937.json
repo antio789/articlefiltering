@@ -1,0 +1,28 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Mechanical chopping of Napier grass to a particle size of approximately 5 cm \u00d7 5 cm"
+    },
+    {
+      "id": 1,
+      "description": "Ensiling of chopped Napier grass in a closed container by self-fermentation for two weeks to produce silage"
+    },
+    {
+      "id": 2,
+      "description": "Mechanical grinding in a food blender until materials could pass through a 40-mesh screen (less than 0.425 mm)"
+    },
+    {
+      "id": 3,
+      "description": "Organosolv pretreatment using 50% (v/v) aqueous ethanol at 190 \u00b0C for reaction times of 15, 30, 45, and 60 min, with or without the addition of 1% (w/w) H2SO4, HCl, CH3COOH, or NaOH as catalysts"
+    },
+    {
+      "id": 4,
+      "description": "Hydrothermal pretreatment using distilled water at 190 \u00b0C for reaction times of 15, 30, 45, and 60 min, with or without the addition of 1% (w/w) H2SO4, HCl, CH3COOH, or NaOH as catalysts"
+    },
+    {
+      "id": 5,
+      "description": "Enzymatic hydrolysis using Cellic\u00ae CTec2 at 20 filter paper unit (FPU)/g-substrate in 50 mM sodium citrate buffer at pH 5.0, conducted at 50 \u00b0C and 150 rpm for 72 h"
+    }
+  ]
+}

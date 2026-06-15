@@ -1,0 +1,16 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Heat treatment (102 \u00b0C for 30 min) applied to waste activated sludge before anaerobic digestion."
+    },
+    {
+      "id": 1,
+      "description": "Alkali pretreatment (NaOH adjustment to pH 10) applied to waste activated sludge before anaerobic digestion."
+    },
+    {
+      "id": 2,
+      "description": "Chemical-thermal combined treatment involving alkali pretreatment followed by heat treatment on waste activated sludge before anaerobic digestion."
+    }
+  ]
+}

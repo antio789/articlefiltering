@@ -1,0 +1,129 @@
+{
+  "manual_review": [
+    [
+      815,
+      "mechanical disintegration"
+    ]
+  ],
+  "llm_review": [
+    [
+      815,
+      "thermal"
+    ],
+    [
+      815,
+      "ultrasonic"
+    ],
+    [
+      815,
+      "pressure"
+    ],
+    [
+      815,
+      "electric"
+    ],
+    [
+      815,
+      "alkaline"
+    ],
+    [
+      815,
+      "acidic"
+    ],
+    [
+      815,
+      "oxidizer"
+    ],
+    [
+      815,
+      "solvent"
+    ],
+    [
+      815,
+      "enzyme"
+    ],
+    [
+      815,
+      "fungi"
+    ],
+    [
+      815,
+      "microbial consortium"
+    ],
+    [
+      815,
+      "biological active substrate"
+    ],
+    [
+      815,
+      "nanoparticles"
+    ]
+  ],
+  "correct_predictions": 0,
+  "false_predictions": 13,
+  "missed_predictions": 1,
+  "precision": 0.0,
+  "recall": 0.0,
+  "f1_score": 0,
+  "correct_items": [],
+  "false_items": [
+    [
+      815,
+      "thermal"
+    ],
+    [
+      815,
+      "ultrasonic"
+    ],
+    [
+      815,
+      "pressure"
+    ],
+    [
+      815,
+      "electric"
+    ],
+    [
+      815,
+      "alkaline"
+    ],
+    [
+      815,
+      "acidic"
+    ],
+    [
+      815,
+      "oxidizer"
+    ],
+    [
+      815,
+      "solvent"
+    ],
+    [
+      815,
+      "enzyme"
+    ],
+    [
+      815,
+      "fungi"
+    ],
+    [
+      815,
+      "microbial consortium"
+    ],
+    [
+      815,
+      "biological active substrate"
+    ],
+    [
+      815,
+      "nanoparticles"
+    ]
+  ],
+  "missed_items": [
+    [
+      815,
+      "mechanical disintegration"
+    ]
+  ]
+}

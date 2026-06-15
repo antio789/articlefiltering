@@ -1,0 +1,29 @@
+Consider this article about anaerobic digestion with particular interest in the pretreatment:
+You are tasked with identifying the pretreatments on a substrates so that they can be subsequently classified.
+There is need to be precise and not miss details, but there is no need for complex reasoning it is a simple identification process.
+
+**Rules:**
+- Consider only the methodology
+- Identify ALL the different treatments applied to the substrates, by consider ALL actions applied that affect the properties of the substrates before the anaerobic digestion, even if not mentioned as a pretreatment: this includes potential treatments during substrate sample preparation, such as mechanical degradation, only exclude the following 3 and nothing else:drying, washing and freezing for storage.
+- If an identified treatment has multiple operational conditions, it is not necessary to divide it in multiple entries
+- Consider a combined pretreatment as different entries, for example chemical-thermal treatment should be written in two separate treatments.
+- Describe the identified treatment in detail with information form the text
+
+
+
+Return ONLY valid JSON.
+Do not include explanations.
+Do not include markdown.
+Schema:
+{
+  "pretreatments": [
+    {
+        "id":0
+        "description": string,
+    },
+    {
+        "id":1
+        "description": string,
+    }
+  ]
+}

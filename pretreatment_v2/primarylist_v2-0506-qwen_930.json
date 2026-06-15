@@ -1,0 +1,44 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Basic pretreatment (NaOH): The substrates (OP and OMWW) were treated with 2 N NaOH until a pH of 12 was reached, followed by stirring at 70 rpm for 24 h at 30 \u00b1 1 \u00b0C. The broth was then neutralized with 2 N HCl before inoculum addition. This treatment is designed to improve hydrolysis efficiency by promoting saponification of intermolecular ester bonds, which increases porosity and reduces degree of polymerization and crystallinity of the lignocellulosic materials."
+    },
+    {
+      "id": 1,
+      "description": "Salt pretreatment with FeSO\u2084 (SP_FeII), FeCl\u2083 (SP_FeIII), and MnSO\u2084 (SP_Mn): Solid salts were added to achieve a 5 g/L salt concentration. The pH was adjusted to 2 using 2 N HCl, and the mixture was stirred at 70 rpm for 30 min at ambient temperature. The specific salt was then added, the mixture held at 70 rpm and 30 \u00b1 1 \u00b0C for 24 h, and finally neutralized with 2 N NaOH. FeSO\u2084 and FeCl\u2083 pretreatments involved an acid cracking phase followed by Fenton-like reactions using poly-electrolyte salts to promote the degradation of organic matter."
+    },
+    {
+      "id": 2,
+      "description": "Salt pretreatment with CaCO\u2083 (SP_Ca): Similar to Fe pretreatments, CaCO\u2083 was used to achieve a 5 g/L concentration. The pH was adjusted to approximately 7 using 2 N NaOH (as CaCO\u2083 is basic, acid was not used). The mixtures were held at 70 rpm and 30 \u00b1 1 \u00b0C for 24 h, then neutralized to achieve a neutral pH. This method was found to be highly effective, generating high biogas production and low lag phase."
+    },
+    {
+      "id": 3,
+      "description": "Physical pretreatment (USP): Ultrasonic pretreatment was performed in an ultrasonic bath at 30 \u00b0C, atmospheric pressure, and 1.8 kW power for varying durations (e.g., 8000 kJ/L in a first test, 750 kJ/L in a second optimized test). This mechanical energy application aims to break down large molecules and increase surface area for microbial degradation."
+    },
+    {
+      "id": 4,
+      "description": "Combined pretreatment (CP_Ca): The mixture was first treated with the highest dose of ultrasonic rays (8000 kJ/L), followed by salt pretreatment with CaCO\u2083. This combines ultrasonic degradation with the beneficial effects of calcium carbonate."
+    },
+    {
+      "id": 5,
+      "description": "Combined pretreatment (CP_FeIII): The mixture was first treated with the highest dose of ultrasonic rays (8000 kJ/L), followed by salt pretreatment with FeCl\u2083. This combines ultrasonic degradation with the benefits of iron chloride for Fenton-like reactions."
+    },
+    {
+      "id": 6,
+      "description": "Dilution with water (WP): Olive oil waste residues were diluted with tap water. This process involved adding water to the OP + OMWW mixture to create a final concentration of approximately 10% w/w TS, with no additional chemical energy costs (ESI = 8.62, one of the highest values). However, the kinetic parameters (lag phase, HPT) remained high, indicating slow reaction rates."
+    },
+    {
+      "id": 7,
+      "description": "Acid cracking and coagulation-flocculation with FeCl\u2083 (SP_FeIII): A specific process where acid cracking was performed to crack organic matter, followed by the addition of FeCl\u2083 as a coagulation agent and coagulation agent (FeCl\u2083). This process utilized the destabilizing action of positively charged polyelectrolytes (metal cations) to neutralize the negative charge of colloidal organic matter, thereby enhancing the reduction of VS and TS and removal of poly-phenolic compounds."
+    },
+    {
+      "id": 8,
+      "description": "Acid cracking and lime precipitation (SP_Ca): A process involving acid cracking (implied by the context of salt pretreatment using CaCO\u2083) and lime precipitation (implied by the use of CaCO\u2083 as a salt source). The text describes the use of CaCO\u2083 specifically for salt pretreatment, which acts as a precipitating agent to stabilize the biomass and buffer the pH. The combination with ultrasonic rays creates a hybrid approach where chemical precipitation (CaCO\u2083) aids in flocculation and biofilm formation, while ultrasound provides physical breakdown."
+    },
+    {
+      "id": 9,
+      "description": "Dilution with water (WP) - Secondary: The study mentions that dilution with water alone produced the second highest ESI value (8.62) but had high kinetic parameters. This is listed as a pretreatment option where the substrate is physically diluted to improve the medium's pH and reduce polyphenol concentration, though it does not inherently degrade the substrate's molecular structure."
+    }
+  ]
+}

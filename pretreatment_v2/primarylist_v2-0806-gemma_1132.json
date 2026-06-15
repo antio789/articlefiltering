@@ -1,0 +1,28 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Mechanical degradation: milling substrates into chips of <2 cm and screening to achieve powder with particle size between 295 and 833 \u00b5m (20 and 80 mesh No.)"
+    },
+    {
+      "id": 1,
+      "description": "Concentrated phosphoric acid treatment: mixing substrate with 83-85.9% phosphoric acid at 50 \u00b0C for 50 min, followed by addition of cold acetone"
+    },
+    {
+      "id": 2,
+      "description": "Organosolv treatment: mixing substrate with 75% v/v ethanol solution (solid to liquid ratio 1:8) and 1% w/w sulfuric acid catalyst at 150 \u00b0C for 30 min"
+    },
+    {
+      "id": 3,
+      "description": "Thermal treatment: heating substrates to 150 \u00b0C (organosolv) or 140 \u00b0C (dilute acid)"
+    },
+    {
+      "id": 4,
+      "description": "Dilute sulfuric acid treatment: mixing substrate with 0.5% w/w sulfuric acid (solid to liquid ratio 1:10) at 140 \u00b0C for 5 min"
+    },
+    {
+      "id": 5,
+      "description": "Soxhlet extraction: two-step extraction used on untreated samples to remove water-soluble and ethanol-soluble substances"
+    }
+  ]
+}

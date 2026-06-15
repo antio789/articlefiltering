@@ -1,0 +1,20 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Hydrothermal pretreatment (HP) via autohydrolysis of sugarcane bagasse at 183\u00b0C for 41 minutes with a liquid-to-solid ratio (LSR) of 3.94 mL/g, resulting in hemicellulose removal of 73% and cellulose preservation of 82.1%, followed by alkaline extraction (AE) at pH ~3.5 to partially delignify the material."
+    },
+    {
+      "id": 1,
+      "description": "Advanced oxidative pretreatment (AOP) applied to the alkaline-extracted SB pretreated by HP using hydrogen peroxide (H_2O_2) at various ratios (0.3 to 3.0 g_H_2O_2/g_SB), liquid-to-solid ratios (5 to 25 mL/g_SB), and reaction times (1 to 8 hours) at 25\u00b0C, with pH adjusted to 11.6, to achieve further delignification and maximize cellulose and glucose yield."
+    },
+    {
+      "id": 2,
+      "description": "Enzymatic hydrolysis using Cellic HTec2 and Cellic CTec2 cocktails with sodium azide (0.02%) and LSR of 10 mL/g at 50\u00b0C for 72 hours, utilizing residual solid fractions from AOP or HP to produce fermentable sugars."
+    },
+    {
+      "id": 3,
+      "description": "Anaerobic digestion (AD) of the liquid waste streams generated from AE and AOP pretreatment steps, performed under mesophilic conditions (35\u00b0C, 200 rpm) with sufficient food-to-microorganism (F/M) ratio to recover methane for energy balance and treat effluents."
+    }
+  ]
+}

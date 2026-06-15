@@ -1,0 +1,48 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Organosolv pretreatment using aqueous ethanol, 50% (v/v), with catalysts including H2SO4, HCl, CH3COOH, or NaOH; solid to liquid ratio 1:10; heated at 190\u00b0C for 15, 30, 45, or 60 min; followed by washing with 50% aqueous ethanol and distilled water until pH 7; dried at 60\u00b0C; solid fractions used."
+    },
+    {
+      "id": 1,
+      "description": "Hydrothermal pretreatment using distilled water, heated at 190\u00b0C for 15, 30, 45, or 60 min; solid to liquid ratio 1:1; followed by washing with distilled water until pH 7.0; dried at 60\u00b0C; solid fractions used."
+    },
+    {
+      "id": 2,
+      "description": "Combined organosolv and hydrothermal pretreatment: Napier grass pretreated with organosolv, then combined hydrolysate and solid fraction mixture of organosolv-pretreated grass used as substrate; Napier silage pretreated with organosolv, then combined hydrolysate and solid fraction mixture of organosolv-pretreated silage used as substrate."
+    },
+    {
+      "id": 3,
+      "description": "Combined organosolv and hydrothermal pretreatment: Napier grass pretreated with organosolv, then combined hydrolysate and solid fraction mixture of hydrothermally-pretreated grass used as substrate; Napier silage pretreated with hydrothermal, then combined hydrolysate and solid fraction mixture of hydrothermally-pretreated silage used as substrate."
+    },
+    {
+      "id": 4,
+      "description": "Enzymatic hydrolysis using Cellic\u00ae CTec2 (20 FPU/g-substrate) with 50 mM sodium citrate buffer at pH 5.0 at 50\u00b0C for 72 h."
+    },
+    {
+      "id": 5,
+      "description": "Anaerobic batch digestion in 120 mL serum bottles with 20 g VS/L of anaerobic sludge as inoculum; substrate at designated amount with or without added 29 mL enzymatic hydrolysate and solid fraction mixture; purged with nitrogen gas; incubated at 150 rpm; methane content analyzed via gas chromatography."
+    },
+    {
+      "id": 6,
+      "description": "Biogas volume measurement using wetted glass syringe method; methane analysis via gas chromatography."
+    },
+    {
+      "id": 7,
+      "description": "Solid yield calculation based on dry weight after pretreatment divided by dry weight before pretreatment; lignin removal and hemicellulose removal calculation."
+    },
+    {
+      "id": 8,
+      "description": "Cellulose, hemicellulose, and lignin content analysis according to NREL/TP-510-42618; TS and VS determination using APHA standard methods; morphological and compositional analysis via SEM and XRD; sugar concentration via HPLC; biogas composition via GC."
+    },
+    {
+      "id": 9,
+      "description": "Preparation of anaerobic sludge inoculum from SF Khon Kaen Co., Ltd. biogas plant; enrichment in 6 L bottles with 4 L sludge and 10 g Napier silage; incubation at room temperature for 3 weeks; separation of non-degradable materials by filtration through 10-mesh screen."
+    },
+    {
+      "id": 10,
+      "description": "Enrichment of anaerobic sludge for methane production; collection from biogas plant co-digestion of Napier silage with chicken manure; storage at room temperature."
+    }
+  ]
+}

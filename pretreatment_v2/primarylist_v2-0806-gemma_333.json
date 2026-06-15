@@ -1,0 +1,28 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Mechanical comminution using a food processor for winery waste (WW) and juice industry waste (JW), and using a universal cutting mill for cotton gin waste (CGW) to achieve a particle size less than 500 \u03bcm."
+    },
+    {
+      "id": 1,
+      "description": "Chemical pretreatment using alkaline reagents: sodium hydroxide (NaOH), sodium bicarbonate (NaHCO3), and sodium chloride (NaCl)."
+    },
+    {
+      "id": 2,
+      "description": "Chemical pretreatment using acid reagents: citric acid (H3Cit) and acetic acid (AcOH)."
+    },
+    {
+      "id": 3,
+      "description": "Chemical pretreatment using oxidative agents: hydrogen peroxide (H2O2)."
+    },
+    {
+      "id": 4,
+      "description": "Chemical pretreatment using organic solvents: acetone (Me2CO) and ethanol (EtOH)."
+    },
+    {
+      "id": 5,
+      "description": "Thermal treatment applying temperatures of 25 \u00b0C, 60 \u00b0C, and 90 \u00b0C during the chemical pretreatment process."
+    }
+  ]
+}

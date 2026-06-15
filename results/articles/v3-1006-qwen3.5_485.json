@@ -1,0 +1,129 @@
+{
+  "manual_review": [
+    [
+      485,
+      "mechanical disintegration"
+    ],
+    [
+      485,
+      "pressure"
+    ]
+  ],
+  "llm_review": [
+    [
+      485,
+      "mechanical disintegration"
+    ],
+    [
+      485,
+      "pressure"
+    ],
+    [
+      485,
+      "electric"
+    ],
+    [
+      485,
+      "alkaline"
+    ],
+    [
+      485,
+      "acidic"
+    ],
+    [
+      485,
+      "oxidizer"
+    ],
+    [
+      485,
+      "solvent"
+    ],
+    [
+      485,
+      "enzyme"
+    ],
+    [
+      485,
+      "fungi"
+    ],
+    [
+      485,
+      "microbial consortium"
+    ],
+    [
+      485,
+      "biological active substrate"
+    ],
+    [
+      485,
+      "disinhibition"
+    ],
+    [
+      485,
+      "chelating"
+    ]
+  ],
+  "correct_predictions": 2,
+  "false_predictions": 11,
+  "missed_predictions": 0,
+  "precision": 0.1538,
+  "recall": 1.0,
+  "f1_score": 0.2667,
+  "correct_items": [
+    [
+      485,
+      "mechanical disintegration"
+    ],
+    [
+      485,
+      "pressure"
+    ]
+  ],
+  "false_items": [
+    [
+      485,
+      "electric"
+    ],
+    [
+      485,
+      "alkaline"
+    ],
+    [
+      485,
+      "acidic"
+    ],
+    [
+      485,
+      "oxidizer"
+    ],
+    [
+      485,
+      "solvent"
+    ],
+    [
+      485,
+      "enzyme"
+    ],
+    [
+      485,
+      "fungi"
+    ],
+    [
+      485,
+      "microbial consortium"
+    ],
+    [
+      485,
+      "biological active substrate"
+    ],
+    [
+      485,
+      "disinhibition"
+    ],
+    [
+      485,
+      "chelating"
+    ]
+  ],
+  "missed_items": []
+}

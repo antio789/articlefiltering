@@ -1,0 +1,28 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Concentrated phosphoric acid pretreatment: 83-85.9% phosphoric acid at 50\u00b0C for 50 min, followed by addition of acetone, centrifugation, and washing with distilled water twice. The resulting supernatant was heated to remove acetone and then frozen."
+    },
+    {
+      "id": 1,
+      "description": "Organosolv pretreatment: Ethanol (75% v/v) at 150\u00b0C for 30 min with 1% sulfuric acid catalyst, followed by separation of liquid and solid phases."
+    },
+    {
+      "id": 2,
+      "description": "Dilute sulfuric acid pretreatment: 0.5% w/w sulfuric acid at 140\u00b0C for 5 min, followed by separation of liquid and solid phases."
+    },
+    {
+      "id": 3,
+      "description": "Steam pretreatment: Steaming at 220\u00b0C supplemented with 2.4% SO\u2082 for 50 min."
+    },
+    {
+      "id": 4,
+      "description": "Alkali pretreatment: NaOH and different combinations of NaOH, thiourea, urea, and polyethylene glycol at \u2212 15\u00b0C."
+    },
+    {
+      "id": 5,
+      "description": "N-methylmorpholine-N-oxide pretreatment: Solvent recovery needed, pretreatment time 15 h at 130\u00b0C."
+    }
+  ]
+}

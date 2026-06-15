@@ -1,0 +1,16 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Mechanical degradation by splicing the dried kelp (Chaetomorpha antennina) into small sizes of less than 2 cm."
+    },
+    {
+      "id": 1,
+      "description": "Microwave pretreatment (MP) using a microwave oven (900 W and 2450 MHz) in polytetra fluoro ethylene sealed containers with a substrate to water ratio of 1:50, with power ranging from 90 W to 720 W and treatment times from 1 to 60 min."
+    },
+    {
+      "id": 2,
+      "description": "Chemical pretreatment using the anionic surfactant Sodium dodecylbenzene sulfonate (SDBS) at concentrations ranging from 0.005 to 0.5 g/g TS."
+    }
+  ]
+}

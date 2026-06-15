@@ -1,0 +1,20 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Knife milling (KM) - applied to substrates with total solids content higher than 85%, used to disaggregate solid particles, slices fibres, and typically produces small pieces."
+    },
+    {
+      "id": 1,
+      "description": "Hammer milling (HM) - applied to substrates with total solids content ranging between 20 and 85%, grinds fibres in long and thin pieces similar to mortar and pestle."
+    },
+    {
+      "id": 2,
+      "description": "Extrusion (EX) - applied to substrates subject to high shear, temperature and pressure, adapting from plastic-processing industry for biogas sector to treat substrates."
+    },
+    {
+      "id": 3,
+      "description": "Wet shredding and hydrodynamic cavitator (SHC) - represented by a combination in series of a wet shredder and hydrodynamic cavitator, used to avoid crust and floating layers in digesters."
+    }
+  ]
+}

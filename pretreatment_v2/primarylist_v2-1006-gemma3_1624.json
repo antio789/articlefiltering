@@ -1,0 +1,56 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Wet sieving with tap water to remove smaller and coarser impurities"
+    },
+    {
+      "id": 1,
+      "description": "Drying at 45 \u00b1 3 \u00b0C to a constant weight over two days"
+    },
+    {
+      "id": 2,
+      "description": "Determination of moisture, total solids (TS), and volatile solids (VS) contents according to the NREL LAP for biomass and total dissolved solids of liquid process samples"
+    },
+    {
+      "id": 3,
+      "description": "Determination of ash content according to NREL LAP for determination of ash in biomass"
+    },
+    {
+      "id": 4,
+      "description": "Enzymatic liquefaction and saccharification of the duckweed was performed in four 2-L flasks with 1 L total working volume"
+    },
+    {
+      "id": 5,
+      "description": "Prior to liquefaction, 50 g duckweed (dry weight) was sterilized by autoclaving with 945 ml water for 30 min at 121 \u00b0C"
+    },
+    {
+      "id": 6,
+      "description": "pH was adjusted to 7.0 \u00b1 0.1 with 2 M hydrochloric acid"
+    },
+    {
+      "id": 7,
+      "description": "\u03b1-amylase (Sigma Aldrich, A3403, USA) was added at a loading of 5000 units g starch^\u22121"
+    },
+    {
+      "id": 8,
+      "description": "Glucoamylase (Sigma Aldrich, 10115, USA) and cellulase (Novozymes, Cellic\u00ae CTec2, Denmark) were added to each flask"
+    },
+    {
+      "id": 9,
+      "description": "Saccharification was then performed at 50 \u00b0C, while mixing at 120 rpm for 24 h"
+    },
+    {
+      "id": 10,
+      "description": "Liquid hot water pretreatment was carried out in a 500 ml stainless steel Parr reactor (Parr Instrument Company, model 4575, Moline, IL), with a pressure limit of 345 bar"
+    },
+    {
+      "id": 11,
+      "description": "The vessel was filled with 30 g duckweed (dry weight) and 270 g distilled water"
+    },
+    {
+      "id": 12,
+      "description": "The temperature was ramped up to 150 \u00b0C within 15 min, followed by pressurization with nitrogen gas for 5 min which was monitored using a digital pressure transducer"
+    }
+  ]
+}

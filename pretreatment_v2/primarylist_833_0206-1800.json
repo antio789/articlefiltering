@@ -1,0 +1,12 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Thermophilic Pretreatment (TPP) involves heating the food waste and inoculum together in BMP bottles at varying temperatures (50, 60, 70 and 80 \u00b0C) for varying time durations (12, 24, 36, and 48 h) prior to mesophilic digestion. The temperature is subsequently reduced to mesophilic (35 \u00b1 2 \u00b0C) conditions. This method combines biological and thermal pretreatment to accelerate anaerobic digestion."
+    },
+    {
+      "id": 1,
+      "description": "Conventional Thermal Pretreatment (CTP) involves heating only the food waste in BMP bottles at specific temperatures (50, 55, 60, and 80 \u00b0C) for short to medium times (e.g., 1.5 to 12 h) without inoculum. The inoculum is added back to the digester after the CTP treatment is completed. This method heats only the substrate to 50\u201380 \u00b0C to improve hydrolysis, increase biomethane production, and achieve pasteurization without affecting digester stability."
+    }
+  ]
+}

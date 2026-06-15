@@ -1,0 +1,98 @@
+{
+  "filters": [
+    {
+      "qid": 1,
+      "question": "Does the methodology explicitly describe any physical process that mechanically alters the substrate (e.g., size reduction, structural disruption or similar)? Instructions for reasoning: 1.Identify any mechanical treatment (e.g., grinding, milling, shredding, physical disruption, or similar) applied to the substrate, consider mechanical as a blade physically cutting or crushing the material. 2. Confirm that the mechanical treatment is applied to the substrate and not to the inoculum or for analytical characterization. 3.confirm it is a direct mechanical desintegration effect and not an indirect effect from other procedure such as ultrasounds, pressure or similar 4. exclude freezing, or pressure to separate phases if that is the identified method 5.Answer 'true' if conditions are met, otherwise 'false' ",
+      "reasoning": "",
+      "answer": "True"
+    },
+    {
+      "qid": 2,
+      "question": "Does the methodology explicitly describe the use of thermal pretreatment on a substrate, for thermal pretreatment consider high temperatures treatments as well as mentions of mild thermal pretreatment. This category includes when it is part of another treatment (such as but not only chemical treatment at high temperature). Do not consider drying as a valid pretreatment",
+      "reasoning": "",
+      "answer": "True"
+    },
+    {
+      "qid": 3,
+      "question": "Does the methodology explicitly describe the use of ultrasound pretreatment on a substrate",
+      "reasoning": "",
+      "answer": "True"
+    },
+    {
+      "qid": 4,
+      "question": "Does the methodology explicitly describe the use of pressure-based pretreatment on a substrate (for example but not only: high-pressure homogenisation, pressure shock treatment, hydrodynamic cavitation, mechanical jet), and not pressure generated incidentally by heating in closed systems such as hydrothermal methods (e.g., autoclave,subcritical water, LHW,...)",
+      "reasoning": "",
+      "answer": "True"
+    },
+    {
+      "qid": 5,
+      "question": "Does the methodology explicitly describe the use of a direct electrical application on the substrate for pretreatment to disrupt material and increase availability. This exclude all equipment that uses electricity such as but not only ultrasounds and microwave",
+      "reasoning": "",
+      "answer": "True"
+    },
+    {
+      "qid": 6,
+      "question": "Does the methodology explicitly describe the use of alkaline pretreatment on a substrate, by the addition of a alkaline agent. This exclude pH adjustment, it must be for pretreatment purposes",
+      "reasoning": "",
+      "answer": "False"
+    },
+    {
+      "qid": 7,
+      "question": "Does the methodology explicitly describe the use of acidic pretreatment on a substrate, by the addition of a acidic agent. This exclude pH adjustment for the digestion or other reaction, it must be for pretreatment purposes. procedure to verify before answering: 1. Identify acidic agent 2.ensure it is an acid 3. ensure it is used in a pretreatment of the substrate",
+      "reasoning": "",
+      "answer": "False"
+    },
+    {
+      "qid": 8,
+      "question": "Does the methodology explicitly describe the use of an oxidizer agent? 1. Identify the agent 2.ensure it is an oxidizer 3. ensure it is used on the substrate as a pretreatment. Consider photocatalysis with TiO2 as an oxidizer",
+      "reasoning": "",
+      "answer": "False"
+    },
+    {
+      "qid": 9,
+      "question": "Does the methodology explicitly describe the use of solvent for pretreatment on a substrate (e.g., organosolv, ioniq liquid,...), and mentions it as a solvent somewhere in the text (does not have to be in the methodology). Ignore implicit cases such as the use of water in a process. Only answer true when the methodology clearly identifies a solvent system as an intentional pretreatment medium rather than merely using chemicals dissolved in water. An aqueous chemical solution is NOT a solvent pretreatment unless the paper explicitly frames it as a solvent system. Before answering: 1.Identify the pretreatment medium in the methodology 2.Determine whether it is explicitly a named solvent system in the text 3.If not explicit, answer FALSE",
+      "reasoning": "",
+      "answer": "TRUE"
+    },
+    {
+      "qid": 10,
+      "question": "Does the methodology explicitly describe the use of a chemical pretreatment different from the more prevalent techniques (alkaline, acidic, oxidation and solvent)? Examples of those techniques can be (surfactant, solubilizer, salts,or other) on a substrate, where chemical pretreatment signifies the degradation of complex material to improve bioavailability using some chemical compound",
+      "reasoning": "",
+      "answer": "True"
+    },
+    {
+      "qid": 11,
+      "question": "Does the methodology explicitly describe the use of an enzyme for pretreatment on a substrate (this also includes crude enzyme treatments), This exclude any bacteria, fungi, or other secreting enzyme organism, it refers to the direct use of enzymes. Before answering: 1. Identify enzyme used in the methodology 2.ensure it is an enzyme preparation or extracted crude enzyme 3.ensure that the enzymes are used directly and not produced in situ by bacteria, fungi, or other enzyme-secreting organisms 4. answer false if any requirement are not satisfied",
+      "reasoning": "",
+      "answer": "false"
+    },
+    {
+      "qid": 12,
+      "question": "Does the methodology explicitly describe the use of a fungi for pretreatment on a substrate (this excludes enzymes extracted from a fungi)",
+      "reasoning": "",
+      "answer": "True"
+    },
+    {
+      "qid": 13,
+      "question": "Does the methodology explicitly describe the use of a microbial, such as isolate bacterial cultures or specialised microbila consortia, pretreatment on a substrate . You must exclude mediums rich in microorganisms(digestate, sludge,...) as well as fungi, and extracted enzymes. ",
+      "reasoning": "",
+      "answer": "True"
+    },
+    {
+      "qid": 14,
+      "question": "Excluding inoculum or other sludge necessary for starting the anaerobical biological activity in the digester, does the methodology explicitly describe the use of a external active organic material, such as but not only: rumen, compost, digestate, aerobic sludge or similar, as a pretreatment step; specifically to degrade or modify the substrate before anaerobic digestion, with the explicit purpose of increasing its bioavailability? This does not include any isolated or specialised microbial consortia. For clarity: a sludge or digestate are mainly composed of micro-organism but have large diversity and unknown species, while an isolated consortia of a more controlled species, such as bacteria isolated from fermenting straw and reporduced in a lab would be excluded from this definition.",
+      "reasoning": "",
+      "answer": "True"
+    },
+    {
+      "qid": 58,
+      "question": "Does the methodology explicitly references a microaerobic pretreatment by direct injection of limited air quantity in the anaerobic digester or in the substrate. Specifically, without the inclusion of an additional bacterial consortium or organic material that degrate the substrate under low oxygen conditions ?",
+      "reasoning": "",
+      "answer": "True"
+    },
+    {
+      "article_title": "TITLE: Chemical pretreatment of lignocellulosic agroindustrial waste for methane production"
+    }
+  ],
+  "article_path": "articletxt/333.txt"
+}

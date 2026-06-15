@@ -1,0 +1,49 @@
+{
+  "manual_review": [
+    [
+      588,
+      "thermal"
+    ],
+    [
+      588,
+      "acidic"
+    ]
+  ],
+  "llm_review": [
+    [
+      588,
+      "solvent"
+    ],
+    [
+      588,
+      "alkaline"
+    ]
+  ],
+  "correct_predictions": 0,
+  "false_predictions": 2,
+  "missed_predictions": 2,
+  "precision": 0.0,
+  "recall": 0.0,
+  "f1_score": 0,
+  "correct_items": [],
+  "false_items": [
+    [
+      588,
+      "solvent"
+    ],
+    [
+      588,
+      "alkaline"
+    ]
+  ],
+  "missed_items": [
+    [
+      588,
+      "thermal"
+    ],
+    [
+      588,
+      "acidic"
+    ]
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Mechanical shredding of olive pomace using a blender into small particles."
+    },
+    {
+      "id": 1,
+      "description": "Ultrasonic pre-treatment of wastewater sludge using an ultrasonic homogeniser at a frequency of 20 kHz and 70% amplitude with a supplied power of 200 W for durations of 15 and 30 min (specific energies of 15,000 and 25,000 kJ/kg TS)."
+    },
+    {
+      "id": 2,
+      "description": "Microwave pre-treatment of wastewater sludge using a Microwave Digestion Unit for 30 min at a temperature of 175 \u00b0C and pressure of 2000 kPa."
+    }
+  ]
+}

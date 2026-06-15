@@ -1,0 +1,105 @@
+{
+  "manual_review": [
+    [
+      1117,
+      "alkaline"
+    ],
+    [
+      1117,
+      "oxidizer"
+    ]
+  ],
+  "llm_review": [
+    [
+      1117,
+      "mechanical disintegration"
+    ],
+    [
+      1117,
+      "alkaline"
+    ],
+    [
+      1117,
+      "acidic"
+    ],
+    [
+      1117,
+      "oxidizer"
+    ],
+    [
+      1117,
+      "solvent"
+    ],
+    [
+      1117,
+      "enzyme"
+    ],
+    [
+      1117,
+      "fungi"
+    ],
+    [
+      1117,
+      "microbial consortium"
+    ],
+    [
+      1117,
+      "biological active substrate"
+    ],
+    [
+      1117,
+      "microaerobic"
+    ]
+  ],
+  "correct_predictions": 2,
+  "false_predictions": 8,
+  "missed_predictions": 0,
+  "precision": 0.2,
+  "recall": 1.0,
+  "f1_score": 0.3333,
+  "correct_items": [
+    [
+      1117,
+      "alkaline"
+    ],
+    [
+      1117,
+      "oxidizer"
+    ]
+  ],
+  "false_items": [
+    [
+      1117,
+      "mechanical disintegration"
+    ],
+    [
+      1117,
+      "acidic"
+    ],
+    [
+      1117,
+      "solvent"
+    ],
+    [
+      1117,
+      "enzyme"
+    ],
+    [
+      1117,
+      "fungi"
+    ],
+    [
+      1117,
+      "microbial consortium"
+    ],
+    [
+      1117,
+      "biological active substrate"
+    ],
+    [
+      1117,
+      "microaerobic"
+    ]
+  ],
+  "missed_items": []
+}

@@ -1,0 +1,28 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Biological pretreatment based on the joint action of the native microbiota of Agave bagasse, primarily composed of Clostridium, Lactobacillus, and Enterobacter species. This core microbiome hydrolyzes xylan into volatile fatty acids, simulated as acetic acid, and operates at high solids loading."
+    },
+    {
+      "id": 1,
+      "description": "Enzymatic pretreatment using a commercial enzyme cocktail, specifically Cellulase 50XL (293 EGU/g bagasse, 50 mM citrate buffer, pH 6). This treatment releases glucose, galactose, arabinose, and other sugars (representing 69% of simulated COD) and operates at high solids loading."
+    },
+    {
+      "id": 2,
+      "description": "Dilute acid pretreatment utilizing 1.8% HCl under soft operating conditions. This method solubilizes all xylan and partially cellulose, recovers sugars, and eliminates the generation of inhibitors like furfural and hydroxymethylfurfural."
+    },
+    {
+      "id": 3,
+      "description": "Steam explosion pretreatment performed in a plug flow reactor coupled to a flask tank. This method solubilizes xylan to produce a mixture of sugars and acetic acid, resulting in low concentrations of furfural (0.7 g/L) and hydroxymethylfurfural (0.12 g/L)."
+    },
+    {
+      "id": 4,
+      "description": "No pretreatment (case-based scenario). Agave bagasse is processed directly after milling without any prior treatment before entering the anaerobic digestion stage."
+    },
+    {
+      "id": 5,
+      "description": "Milling. Mechanical degradation applied to the Agave bagasse to reduce particle size. This involves shredding and grinding followed by screening to achieve a final particle size of 3 \u00b1 0.5 mm before hydration."
+    }
+  ]
+}

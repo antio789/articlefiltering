@@ -1,0 +1,32 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Mechanical pretreatment: blade milling to reduce bagasse length to 0.5 cm"
+    },
+    {
+      "id": 1,
+      "description": "Dilute acid hydrolysis using hydrochloric acid (HCl) at different concentrations, temperatures, and hydrolysis times"
+    },
+    {
+      "id": 2,
+      "description": "Dilute acid hydrolysis using sulfuric acid (H2SO4) at different concentrations, temperatures, and hydrolysis times"
+    },
+    {
+      "id": 3,
+      "description": "Filtration through a 0.45 mm membrane to remove solid particles"
+    },
+    {
+      "id": 4,
+      "description": "Anaerobic batch assays with HCl hydrolysates"
+    },
+    {
+      "id": 5,
+      "description": "Anaerobic batch assays with H2SO4 hydrolysates"
+    },
+    {
+      "id": 6,
+      "description": "AnSBR operation with HCl hydrolysates at different cycle times (5, 3, and 2 days)"
+    }
+  ]
+}

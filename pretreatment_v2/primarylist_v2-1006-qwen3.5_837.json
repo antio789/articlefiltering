@@ -1,0 +1,12 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Thermal pretreatment applied in electric mode, with temperatures ranging from 110 \u00b0C to 220 \u00b0C, lasting 30 minutes, performed in a 10 L agitated autoclave using only electric heating."
+    },
+    {
+      "id": 1,
+      "description": "Thermal pretreatment applied in steam mode, with temperatures of 165 \u00b0C, performed in the same 10 L agitated autoclave but using steam heating instead of electric heating."
+    }
+  ]
+}

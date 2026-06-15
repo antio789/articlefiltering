@@ -1,0 +1,113 @@
+{
+  "manual_review": [
+    [
+      1101,
+      "thermal"
+    ],
+    [
+      1101,
+      "ultrasonic"
+    ],
+    [
+      1101,
+      "alkaline"
+    ],
+    [
+      1101,
+      "pressure"
+    ]
+  ],
+  "llm_review": [
+    [
+      1101,
+      "mechanical disintegration"
+    ],
+    [
+      1101,
+      "thermal"
+    ],
+    [
+      1101,
+      "ultrasonic"
+    ],
+    [
+      1101,
+      "pressure"
+    ],
+    [
+      1101,
+      "electric"
+    ],
+    [
+      1101,
+      "alkaline"
+    ],
+    [
+      1101,
+      "acidic"
+    ],
+    [
+      1101,
+      "solvent"
+    ],
+    [
+      1101,
+      "fungi"
+    ],
+    [
+      1101,
+      "microaerobic"
+    ]
+  ],
+  "correct_predictions": 4,
+  "false_predictions": 6,
+  "missed_predictions": 0,
+  "precision": 0.4,
+  "recall": 1.0,
+  "f1_score": 0.5714,
+  "correct_items": [
+    [
+      1101,
+      "thermal"
+    ],
+    [
+      1101,
+      "ultrasonic"
+    ],
+    [
+      1101,
+      "pressure"
+    ],
+    [
+      1101,
+      "alkaline"
+    ]
+  ],
+  "false_items": [
+    [
+      1101,
+      "mechanical disintegration"
+    ],
+    [
+      1101,
+      "electric"
+    ],
+    [
+      1101,
+      "acidic"
+    ],
+    [
+      1101,
+      "solvent"
+    ],
+    [
+      1101,
+      "fungi"
+    ],
+    [
+      1101,
+      "microaerobic"
+    ]
+  ],
+  "missed_items": []
+}

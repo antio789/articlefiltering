@@ -1,0 +1,16 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Organosolv pretreatment with ethanol and sulfuric acid"
+    },
+    {
+      "id": 1,
+      "description": "Enzymatic hydrolysis using Cellic enzymes"
+    },
+    {
+      "id": 2,
+      "description": "Acid pretreatment with 1% sulfuric acid"
+    }
+  ]
+}

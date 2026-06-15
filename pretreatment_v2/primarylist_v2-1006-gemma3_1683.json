@@ -1,0 +1,28 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Milling and Grinding"
+    },
+    {
+      "id": 1,
+      "description": "Biological pretreatment (joint action of native microbiota: Clostridium, Lactobacillus, and Enterobacter hydrolyzing xylan into volatile fatty acids)"
+    },
+    {
+      "id": 2,
+      "description": "Enzymatic pretreatment (Cellulase 50XL enzyme cocktail at 293 EGU/g of bagasse in 50 mM citrate buffer pH 6, releasing glucose, galactose, arabinose, and other sugars)"
+    },
+    {
+      "id": 3,
+      "description": "Dilute acid pretreatment (1.8 % HCl under soft operating conditions, solubilizing xylan and partially cellulose, generating furfural, hydroxymethylfurfural, and phenols)"
+    },
+    {
+      "id": 4,
+      "description": "Steam explosion pretreatment (plug flow reactor coupled to a flask tank, depressurization generating furfural and hydroxymethylfurfural)"
+    },
+    {
+      "id": 5,
+      "description": "No pretreatment (direct digestion after milling)"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Thermal pretreatment: heating sludge samples in Teflon-laminated reactors in an oil bath at temperatures ranging from 110 \u00b0C to 150 \u00b0C for 20 min."
+    },
+    {
+      "id": 1,
+      "description": "Alkaline pretreatment: addition of 5 N NaOH, KOH, or Ca(OH)2 solutions to achieve a final pH ranging from 8 to 13, with mixing for 1 h (individual) or 20 min (combined)."
+    },
+    {
+      "id": 2,
+      "description": "Ultrasonication: treatment using 20 kHz frequency at an applied amplitude of 20% (Max. 750 W) for reaction times of 1, 5, 10, 15, and 20 min."
+    },
+    {
+      "id": 3,
+      "description": "Hydrodynamic cavitation (HC): forcing fluid flow through a stainless steel reactor with a radial orifice plate (27 holes of 1 mm diameter) at upstream/downstream pressures of approximately 0.7 and 0.07 MPa for reaction times of 1, 5, 10, 15, and 20 min."
+    }
+  ]
+}

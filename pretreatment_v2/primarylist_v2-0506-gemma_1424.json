@@ -1,0 +1,16 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Hydrothermal pretreatment by autohydrolysis of sugarcane bagasse. The reaction was performed at 183 \u00b0C, 41 min, and a liquid-to-solid ratio of 3.94 mL g^-1. The heating time required to reach the pretreatment temperature was 41 min, after which the reactor vessel was kept at 183 \u00b0C for 17 min, in order to obtain a severity factor (S_0) of 3.78. The reactor pressure at 183 \u00b0C was 11.7 bar. At the end of the pretreatment time, the heating was stopped and the reactor vessel was quenched in an ice-water bath and slowly depressurized."
+    },
+    {
+      "id": 1,
+      "description": "Alkaline extraction of pretreated SB. The pretreated SB was dried in a forced-air oven at 55 \u00b0C for 12 h, followed by grinding in a Wiley mill to pass through a 40-mesh (0.42 mm) sieve. The AE was performed in a blunt-bladed blender loaded with an aqueous 0.2 mol L^-1 NaOH solution, at a LSR of 10 mL g^-1, using a speed of 2,800 rpm for 30 s. The solid fraction was then washed with tap water on a 200-mesh (0.074 mm) screen, until neutral pH was reached."
+    },
+    {
+      "id": 2,
+      "description": "Advanced oxidative pretreatment of sugarcane bagasse. The AOP was performed in a white acrylic cylindrical 2 L reactor equipped with a mechanical stirrer with a three-disc acrylic shaft with grooves, in order to improve the mass transfer during the pretreatment. In a typical run, the reactor vessel was loaded with 30 g (dry weight basis) of alkaline-extracted pretreated SB, followed by the addition of distilled water, an aqueous H_2O_2 solution, and drops of an aqueous 5 mol L^-1 NaOH solution, to give a defined LSR and to adjust the solution pH to 11.6. After the solution pH had been adjusted to 11.6, the suspension was stirred at 150 rpm and 25 \u00b0C for a defined time interval. During the AOP, a pH value of ~11.6 was maintained by adding drops of an aqueous 5 mol L^-1 NaOH solution. The composition of each reaction medium, in terms of applied H_2O_2 load and LSR, was obtained from the DED."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Thermal pretreatment at 60\u00b0C for 1 hour, 80\u00b0C for 1 hour, 100\u00b0C for 30 minutes, 120\u00b0C for 30 minutes, and 140\u00b0C for 30 minutes."
+    },
+    {
+      "id": 1,
+      "description": "Biological pre-hydrolysis at 37\u00b0C for 20 hours, 55\u00b0C for 20 hours, 37\u00b0C for 20 hours, and 55\u00b0C for 20 hours."
+    }
+  ]
+}

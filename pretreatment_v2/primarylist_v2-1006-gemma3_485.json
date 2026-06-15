@@ -1,0 +1,20 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Knife milling (KM) \u2013 a knife mill for substrates with a total solids content higher than 85% \u2013 applies forces able to disaggregate solid particles, slices the fibres and typically produces small pieces (similar to chopping with a knife)."
+    },
+    {
+      "id": 1,
+      "description": "Hammer milling (HM) \u2013 consists of a rotor with a set of attached hammers: as the rotor turns, the hammers impact the material against a breaker plate, grinding the fibres in long and thin pieces."
+    },
+    {
+      "id": 2,
+      "description": "Extrusion (EX) \u2013 raw materials are fed into one end of the system and then transported along the length of the barrel with a driving screw. As the material moves along the barrel, it is subjected to friction heat, mixing, and vigorous shearing upon pressure release at the finishing end."
+    },
+    {
+      "id": 3,
+      "description": "Wet shredder and hydrodynamic cavitator (SHC) \u2013 a wet shredder with integrated heavy material separator homogenizes fluids and protects downstream cavitator components from damage caused by foreign matter and prevents blockages and clogging of pumps and pipe systems. The hydrodynamic cavitation reactor used for the generation of cavitation was a stator and rotor assembly."
+    }
+  ]
+}

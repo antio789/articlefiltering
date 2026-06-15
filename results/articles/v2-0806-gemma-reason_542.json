@@ -1,0 +1,52 @@
+{
+  "manual_review": [
+    [
+      542,
+      "oxidizer"
+    ],
+    [
+      542,
+      "alkaline"
+    ],
+    [
+      542,
+      "mechanical disintegration"
+    ]
+  ],
+  "llm_review": [
+    [
+      542,
+      "mechanical disintegration"
+    ],
+    [
+      542,
+      "oxidizer"
+    ],
+    [
+      542,
+      "alkaline"
+    ]
+  ],
+  "correct_predictions": 3,
+  "false_predictions": 0,
+  "missed_predictions": 0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1_score": 1.0,
+  "correct_items": [
+    [
+      542,
+      "mechanical disintegration"
+    ],
+    [
+      542,
+      "oxidizer"
+    ],
+    [
+      542,
+      "alkaline"
+    ]
+  ],
+  "false_items": [],
+  "missed_items": []
+}

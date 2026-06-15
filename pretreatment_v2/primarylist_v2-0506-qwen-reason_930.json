@@ -1,0 +1,24 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Basic Pretreatment (BP) involves adding 2 N NaOH to the mixture to reach a pH of 12, followed by stirring at 70 rpm for 24 h at 30 \u00b1 1 \u00b0C, and neutralizing with 2 N HCl before inoculum addition. This chemical treatment improves hydrolysis efficiency in ligno-cellulosic materials like OP through saponification reactions that increase porosity, reduce polymer degree of crystallinity, and disrupt structural links between lignin and carbohydrates."
+    },
+    {
+      "id": 1,
+      "description": "Salt Pretreatments (SP) involve treating OP and OMWW mixtures with solid salts (FeSO_4, MnSO_4, FeCl_3, CaCO_3) to achieve a 5 g/L salt concentration. The process includes adding 2 N HCl to reach pH 2, adding the specific salt at desired concentration, holding at 70 rpm for 24 h, and neutralizing with 2 N NaOH. This chemical treatment includes FeSO_4, FeCl_3, MnSO_4, and CaCO_3 as distinct pretreatment conditions."
+    },
+    {
+      "id": 2,
+      "description": "Dilution with Water (WP) involves adding tap water to the feed mixture to increase biogas production and methane content. This is a physical pretreatment that reduces acidity and polyphenol concentration in the reaction medium, though it has high lag phases (\u03bb) and HPT due to slow kinetics."
+    },
+    {
+      "id": 3,
+      "description": "Ultrasonic Pretreatment (USP) involves sonicating the mixture in an ultrasonic bath (CP823) at 30 \u00b0C, atmospheric pressure, and applying 1.8 kW of power for varying times (initially 8000 kJ/L for BMP, then 750 kJ/L for energy sustainability). This physical treatment breaks down complex molecular structures (lignin, cellulose) to increase surface area and mass transfer for microbial degradation."
+    },
+    {
+      "id": 4,
+      "description": "Combined Pretreatment (USP + Salt) involves combining ultrasonic pretreatment (USP) with specific salt pretreatments (CaCO_3 or FeCl_3). For example, CP_Ca involves ultrasonic pretreatment followed by CaCO_3 treatment, and CP_FeIII involves ultrasonic pretreatment followed by FeCl_3 treatment. This combination aims to increase biogas production and efficiency."
+    }
+  ]
+}

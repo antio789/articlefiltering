@@ -1,0 +1,54 @@
+{
+  "manual_review": [
+    [
+      485,
+      "mechanical disintegration"
+    ],
+    [
+      485,
+      "pressure"
+    ]
+  ],
+  "llm_review": [
+    [
+      485,
+      "pressure"
+    ],
+    [
+      485,
+      "alkaline"
+    ],
+    [
+      485,
+      "thermal"
+    ]
+  ],
+  "correct_predictions": 1,
+  "false_predictions": 2,
+  "missed_predictions": 1,
+  "precision": 0.3333,
+  "recall": 0.5,
+  "f1_score": 0.4,
+  "correct_items": [
+    [
+      485,
+      "pressure"
+    ]
+  ],
+  "false_items": [
+    [
+      485,
+      "alkaline"
+    ],
+    [
+      485,
+      "thermal"
+    ]
+  ],
+  "missed_items": [
+    [
+      485,
+      "mechanical disintegration"
+    ]
+  ]
+}

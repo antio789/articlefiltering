@@ -1,0 +1,32 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Freezing pretreatment: Freezing at \u221220 \u00b0C and \u221280 \u00b0C followed by thawing."
+    },
+    {
+      "id": 1,
+      "description": "Alkaline treatment with NaOH: Soaking in 6% or 10% NaOH solution at 20 \u00b0C for 24 h, followed by neutralization with HCl or NaOH solutions to pH 7.5."
+    },
+    {
+      "id": 2,
+      "description": "Alkaline treatment with NH_3: Soaking in 6% or 10% NH_3 solution at 20 \u00b0C for 24 h, followed by neutralization with HCl or NaOH solutions to pH 7.5."
+    },
+    {
+      "id": 3,
+      "description": "Acid pretreatment with HCl: Soaking in 6% or 10% HCl solution at 20 \u00b0C for 24 h, followed by neutralization with HCl or NaOH solutions to pH 7.5."
+    },
+    {
+      "id": 4,
+      "description": "PEF pretreatment: Applying high voltage (up to 3600 V cm^-1) and rectangular monopolar trains (240 pulses with 50 * 10^-6 s pulse duration) at different intensities (Z_0, Z_0.5, Z_1) and energy inputs."
+    },
+    {
+      "id": 5,
+      "description": "US pretreatment: Sonication with 50 kHz frequency and power output of 60 W at different durations (40 min and 70 min) to achieve different levels of disintegration (Z_0.5, Z_1)."
+    },
+    {
+      "id": 6,
+      "description": "Combined pretreatment: Freezing at \u221220 \u00b0C followed by alkaline treatment with 10% NaOH."
+    }
+  ]
+}

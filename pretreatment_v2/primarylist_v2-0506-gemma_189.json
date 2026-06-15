@@ -1,0 +1,32 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Hydrothermal pretreatment at 120 \u00b0C and 2 atm for 0, 10, 20, 30, 40, 60, and 70 minutes. The autoclave was equipped with a time programming system to control the pretreatment time. Each bottle was fed with 15 g of PP or EP substrate."
+    },
+    {
+      "id": 1,
+      "description": "Aerobic biodegradability test using a respirometer with a thermostated bath and two 1-L Erlenmeyer flasks. Oxygen concentration was monitored continuously by a data acquisition system. The experiment was performed in duplicate, measuring specific oxygen uptake rate (SOUR) and cumulative oxygen demand for twenty hours (OD_20)."
+    },
+    {
+      "id": 2,
+      "description": "Anaerobic digestion in four 1-L Pyrex complete mixing digesters under mesophilic conditions (37 \u00b0C). The digesters were equipped with connections for loading feedstock, ventilating biogas, injecting inert gas to maintain anaerobic conditions, and removing effluent. The experiment was performed over a 60-day period, with a substrate:inoculum ratio of 1:7 (g VS)."
+    },
+    {
+      "id": 3,
+      "description": "Initial inoculation of the digesters with a synthetic solution composed of glucose, sodium acetate, and lactic acid (GAL solution) at concentrations of 50 g/L, 25 g/L, and 21 mL/L, respectively, over a 15-day period. The organic load was gradually increased from 0.50 to 1.00 g VS/L."
+    },
+    {
+      "id": 4,
+      "description": "Co-digestion of pepper and eggplant residues in varying percentages (0-100%) within the anaerobic digesters, with a constant loading of 1.00 g VS/L."
+    },
+    {
+      "id": 5,
+      "description": "Monitoring of anaerobic digestion parameters including pH, TS, FS, VS, TOC, N-NH4 +, alkalinity, and volatile acidity. The digesters were magnetically stirred and temperature was maintained by a thermostatic jacket."
+    },
+    {
+      "id": 6,
+      "description": "Fourier-transform infrared spectroscopy (FTIR) analysis of the raw materials and pretreated substrates at 4000 cm^-1 to 4500 cm^-1 to evaluate structural changes."
+    }
+  ]
+}

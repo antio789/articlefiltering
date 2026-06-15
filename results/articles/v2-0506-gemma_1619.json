@@ -1,0 +1,49 @@
+{
+  "manual_review": [
+    [
+      1619,
+      "microbial consortium"
+    ],
+    [
+      1619,
+      "oxidizer"
+    ]
+  ],
+  "llm_review": [
+    [
+      1619,
+      "thermal"
+    ],
+    [
+      1619,
+      "mechanical disintegration"
+    ]
+  ],
+  "correct_predictions": 0,
+  "false_predictions": 2,
+  "missed_predictions": 2,
+  "precision": 0.0,
+  "recall": 0.0,
+  "f1_score": 0,
+  "correct_items": [],
+  "false_items": [
+    [
+      1619,
+      "thermal"
+    ],
+    [
+      1619,
+      "mechanical disintegration"
+    ]
+  ],
+  "missed_items": [
+    [
+      1619,
+      "microbial consortium"
+    ],
+    [
+      1619,
+      "oxidizer"
+    ]
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Subcritical water pretreatment of a\u00e7ai residue: This involved a semi-continuous flow unit operating at 400 \u00b0C and 42 MPa, utilizing a stainless steel hydrolysis reactor with a 110 mL volume. The process involved pumping water at 20 mL min^-1 and 15 MPa, evaluating temperatures of 170 and 200 \u00b0C for 20 minutes, followed by cooling the hot hydrolysate to below 30 \u00b0C in a shell-and-tube heat exchanger. The system utilized thermocouples for temperature monitoring and a micrometer valve for pressure control."
+    },
+    {
+      "id": 1,
+      "description": "Anaerobic digestion: This involved two reactors, a control reactor (a\u00e7ai seed and wastewater) and an integration reactor (a\u00e7ai seed hydrolysate and wastewater). The integration reactor utilized a high solids content (25%) and a mesophilic inoculum, while the control reactor had a low solids content (70% hydrolysate and 30% mesophilic sludge). Both reactors operated at 35 \u00b0C with a hydraulic retention time of 35 days, with continuous substrate feeding and pH control (maintained between 7 and 8) using 6N sodium hydroxide. Samples were collected three times a week and analyzed for various parameters."
+    }
+  ]
+}

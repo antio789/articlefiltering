@@ -1,0 +1,32 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Milling of pine wood chips to reduce particle size and increase surface area."
+    },
+    {
+      "id": 1,
+      "description": "Alkali pretreatment with 8% sodium hydroxide solution at room temperature for 10 minutes."
+    },
+    {
+      "id": 2,
+      "description": "Incubation of the alkali-pretreated mixture at 100 \u00b0C for 10 minutes, 30 minutes, or 60 minutes with mixing every 10 minutes."
+    },
+    {
+      "id": 3,
+      "description": "Centrifugation at 4500 rpm (5000 g) to separate the solid and liquid fractions."
+    },
+    {
+      "id": 4,
+      "description": "Washing of the settled solid with distilled water and vacuum filtration until pH 7 was achieved."
+    },
+    {
+      "id": 5,
+      "description": "Storage of the treated solids at 4 \u00b0C in plastic bags."
+    },
+    {
+      "id": 6,
+      "description": "Anaerobic batch digestion of the treated and untreated pine woods at mesophilic conditions (37 \u00b0C) with inoculum."
+    }
+  ]
+}

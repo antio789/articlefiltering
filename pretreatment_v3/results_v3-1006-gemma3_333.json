@@ -1,0 +1,16 @@
+{
+  "filters": [
+    2,
+    6,
+    7,
+    9,
+    10,
+    13,
+    14,
+    17
+  ],
+  "article_path": "articletxt/333.txt",
+  "article_title": "TITLE: Chemical pretreatment of lignocellulosic agroindustrial waste for methane production",
+  "prompt": "Consider this article about anaerobic digestion with particular interest in the pretreatment:\nYou are tasked with identifying the pretreatments on a substrates in a scientific article so that they can be subsequently classified.\nThere is need to be precise and not miss details, but there is no need for complex reasoning it is a simple identification process.\nStart by reading the text and the questions to better understand the context\n\nSTEP 1 Identify the pretreatments:\n- Consider only the methodology\n- Identify ALL the different pretreatments applied to the substrates, by consider ALL actions applied that affect the properties of the substrates, even if not mentioned as a pretreatment: this includes potential treatments during substrate sample preparation, only exclude the following 3 and nothing else:drying, washing and freezing for storage.\n- Describe the identified treatment in detail with information form the text\n\nSTEP 2:\nthe treatment identified above (in STEP 1) refers to treatments identified in a scientific article in the context of anaerobic digestion. More specifically it refers to a pretreatment of the substrate.\nYou must for each identified treatment identify which question from the list fits the treatment, you can only choose one\nit is possible that the description doesnt fit any questions.\n\n-ONLY answer with the qids of the question and nothing else, include them in a single list following this format:[int1,int2,...]\n-if the description doesn't fit any questions answer with -1\n-Do not answer with anything else a part form the requested list, no explanations, no markdowns\n\nSTEP 3:\nEnsure the answer is a single list of numbers and nothing else\n\nRule:\nDo not Exceed 5000 words for your reasoning, keep it short.",
+  "reasoning": ""
+}

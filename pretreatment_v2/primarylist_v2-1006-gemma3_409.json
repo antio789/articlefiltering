@@ -1,0 +1,16 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "2% KOH pretreatment: Mixing ZS with 2% KOH solution, setting moisture content to 95%, storing at room temperature for 24 h."
+    },
+    {
+      "id": 1,
+      "description": "4% NaOH pretreatment: Mixing ZS with 4% NaOH solution, setting moisture content to 95%, storing at room temperature for 24 h."
+    },
+    {
+      "id": 2,
+      "description": "4% AHP pretreatment: Adjusting the pH value of AHP solution to 11.5 by adding NaOH, mixing ZS with 4% AHP solution, setting moisture content to 95%, storing at room temperature for 24 h."
+    }
+  ]
+}

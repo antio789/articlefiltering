@@ -1,0 +1,16 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Ultrasonication with a frequency of 20 kHz (VCX-750, Sonics and Materials, USA) for 5, 10, 20, 40, and 60 min at 750 W and amplitude = 40%."
+    },
+    {
+      "id": 1,
+      "description": "Alkaline pretreatment with 6 mol/L KOH solution at pH values of 9, 10, 11, 12, and 13 for 1 h with a magnetic stirrer at 200 rpm."
+    },
+    {
+      "id": 2,
+      "description": "Combined pretreatment: Alkali-pretreated sludge at pH 9, 11, and 13 for 1 h followed by ultrasonication for 5, 20, and 60 min."
+    }
+  ]
+}

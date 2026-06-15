@@ -1,0 +1,1283 @@
+2026-06-10 19:07:34,199 start
+2026-06-10 19:07:34,199 articletxt/16.txt
+2026-06-10 19:07:34,199 TITLE: Mechanical pretreatment effects on macroalgae-derived biogas production in co-digestion with sludge in Ireland Title of processing article
+2026-06-10 19:07:53,946 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Milling: The macralgal biomass (Laminaria sp.) was subjected to mechanical degradation using a Hollander beater machine to reduce particle size and increase specific surface area before anaerobic digestion."
+    },
+    {
+      "id": 1,
+      "description": "Thermal treatment: The sludge was subjected to a thermal treatment process to improve its dewaterability and destroy pathogens, involving heating the material to high temperatures (specifically 175°C is mentioned as the ideal target)."
+    },
+    {
+      "id": 2,
+      "description": "Chemical treatment: Hydrogen peroxide was applied to sludge to reduce its volume by 30% and improve its dewaterability."
+    },
+    {
+      "id": 3,
+      "description": "Physical treatment (Mechanical): Ultrasound was used on sludge particles at 37°C to disintegrate sludge particles and produce extra biogas."
+    },
+    {
+      "id": 4,
+      "description": "Pre-treatment: Mechanical pretreatment (using a Hollander beater) was applied to the macroalgae biomass (Pelvetia Caniculata, Fucus Serratus, Gracilaria Gracilis, Fucus Vesiculosus, and Laminaria Digitata) prior to anaerobic digestion."
+    },
+    {
+      "id": 5,
+      "description": "Chemical treatment: Drying was performed at 105°C to obtain constant weight and calculate moisture content of both untreated and treated material samples."
+    },
+    {
+      "id": 6,
+      "description": "Hydrogen peroxide treatment: Applied to sludge to reduce volume by 30%."
+    },
+    {
+      "id": 7,
+      "description": "Appels treatment: 40% extra biogas was obtained for low frequency ultrasound treatment at 37°C."
+    },
+    {
+      "id": 8,
+      "description": "Milling: Applied to maize silage (not algae, but mentioned as a reference for the Hollander beater's effectiveness). Not applied to algae in this study."
+    }
+  ]
+}
+2026-06-10 19:08:03,347 articletxt/752.txt
+2026-06-10 19:08:03,371 TITLE: Accelerated biomethane production from lignocellulosic biomass: Pretreated by mixed enzymes secreted by Trichoderma viride and Aspergillus sp. Title of processing article
+2026-06-10 19:08:10,918 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Solid-state fermentation using crude enzyme solutions derived from Trichoderma viride and Aspergillus sp., with mixing ratios of ETv/EAs at 5/0, 4/1, 3/2, 2/3, 1/4, and 0/5."
+    },
+    {
+      "id": 1,
+      "description": "Pre-treatment using deionized water."
+    }
+  ]
+}
+2026-06-10 19:08:12,956 articletxt/1798.txt
+2026-06-10 19:08:12,979 TITLE: Biological pre-hydrolysis and thermal pretreatment applied for anaerobic digestion improvement: Kinetic study and statistical variable selection Title of processing article
+2026-06-10 19:08:19,929 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Thermal pretreatment at 60°C for 1 hour, 80°C for 1 hour, 100°C for 30 minutes, 120°C for 30 minutes, and 140°C for 30 minutes."
+    },
+    {
+      "id": 1,
+      "description": "Biological pre-hydrolysis at 37°C for 20 hours, 55°C for 20 hours, 37°C for 20 hours, and 55°C for 20 hours."
+    }
+  ]
+}
+2026-06-10 19:08:21,984 articletxt/1608.txt
+2026-06-10 19:08:22,008 TITLE: Enhanced digestibility and fermentability of sugarcane bagasse in biofuel production by surfactant-assisted dilute acid pretreatment Title of processing article
+2026-06-10 19:08:29,277 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Simultaneous saccharification and fermentation (SSF) of prehydrolysates and stillage residues for biomethane production"
+    },
+    {
+      "id": 1,
+      "description": "Chemical-thermal treatment of SCB using LHW (Lignin Hydrolysis Water), ethanol, 1% H2SO4, and 0.5% NaOH with or without PEG 6000 surfactant, conducted at 121°C for 60 min in a steam sterilizer"
+    }
+  ]
+}
+2026-06-10 19:08:31,370 articletxt/553.txt
+2026-06-10 19:08:31,372 TITLE: Comparison between ensilage and fungal pretreatment for storage of giant reed and subsequent methane production Title of processing article
+2026-06-10 19:08:38,411 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Ensilage (consisting of packing reed with water, vacuum sealing, and incubation at room temperature for 60 days, followed by sampling after 60 days, storage at -20°C, and subsequent AD/enzymatic hydrolysis tests)"
+    },
+    {
+      "id": 1,
+      "description": "Fungal pretreatment (inoculation of *Ceriporiopsis subvermispora* mycelium in sterilized DI water, autoclaving, incubation at 28 ± 1 °C for 30 days, followed by sampling, drying at 40 °C, and storage at -20°C)"
+    }
+  ]
+}
+2026-06-10 19:08:40,457 articletxt/1617.txt
+2026-06-10 19:08:40,481 TITLE: Surfactant assisted microwave disintegration of green marine macroalgae for enhanced anaerobic biodegradability and biomethane recovery Title of processing article
+2026-06-10 19:08:46,154 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Microwave pretreatment (MP) using IFB-30SC2 microwave oven at 900 W and 2450 MHz, with substrate and water ratio of 1:50, irradiating temperatures of 90-720 W and treatment times of 1-60 minutes."
+    },
+    {
+      "id": 1,
+      "description": "Surfactant microwave pretreatment (SMP) combining SDBS with microwave irradiation at optimal conditions."
+    }
+  ]
+}
+2026-06-10 19:08:48,257 articletxt/937.txt
+2026-06-10 19:08:48,259 TITLE: Assessment of organosolv, hydrothermal, and combined organosolv and hydrothermal with enzymatic pretreatment to increase the production of biogas from Napier grass and Napier silage Title of processing article
+2026-06-10 19:09:07,539 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Organosolv pretreatment using aqueous ethanol, 50% (v/v), with catalysts including H2SO4, HCl, CH3COOH, or NaOH; solid to liquid ratio 1:10; heated at 190°C for 15, 30, 45, or 60 min; followed by washing with 50% aqueous ethanol and distilled water until pH 7; dried at 60°C; solid fractions used."
+    },
+    {
+      "id": 1,
+      "description": "Hydrothermal pretreatment using distilled water, heated at 190°C for 15, 30, 45, or 60 min; solid to liquid ratio 1:1; followed by washing with distilled water until pH 7.0; dried at 60°C; solid fractions used."
+    },
+    {
+      "id": 2,
+      "description": "Combined organosolv and hydrothermal pretreatment: Napier grass pretreated with organosolv, then combined hydrolysate and solid fraction mixture of organosolv-pretreated grass used as substrate; Napier silage pretreated with organosolv, then combined hydrolysate and solid fraction mixture of organosolv-pretreated silage used as substrate."
+    },
+    {
+      "id": 3,
+      "description": "Combined organosolv and hydrothermal pretreatment: Napier grass pretreated with organosolv, then combined hydrolysate and solid fraction mixture of hydrothermally-pretreated grass used as substrate; Napier silage pretreated with hydrothermal, then combined hydrolysate and solid fraction mixture of hydrothermally-pretreated silage used as substrate."
+    },
+    {
+      "id": 4,
+      "description": "Enzymatic hydrolysis using Cellic® CTec2 (20 FPU/g-substrate) with 50 mM sodium citrate buffer at pH 5.0 at 50°C for 72 h."
+    },
+    {
+      "id": 5,
+      "description": "Anaerobic batch digestion in 120 mL serum bottles with 20 g VS/L of anaerobic sludge as inoculum; substrate at designated amount with or without added 29 mL enzymatic hydrolysate and solid fraction mixture; purged with nitrogen gas; incubated at 150 rpm; methane content analyzed via gas chromatography."
+    },
+    {
+      "id": 6,
+      "description": "Biogas volume measurement using wetted glass syringe method; methane analysis via gas chromatography."
+    },
+    {
+      "id": 7,
+      "description": "Solid yield calculation based on dry weight after pretreatment divided by dry weight before pretreatment; lignin removal and hemicellulose removal calculation."
+    },
+    {
+      "id": 8,
+      "description": "Cellulose, hemicellulose, and lignin content analysis according to NREL/TP-510-42618; TS and VS determination using APHA standard methods; morphological and compositional analysis via SEM and XRD; sugar concentration via HPLC; biogas composition via GC."
+    },
+    {
+      "id": 9,
+      "description": "Preparation of anaerobic sludge inoculum from SF Khon Kaen Co., Ltd. biogas plant; enrichment in 6 L bottles with 4 L sludge and 10 g Napier silage; incubation at room temperature for 3 weeks; separation of non-degradable materials by filtration through 10-mesh screen."
+    },
+    {
+      "id": 10,
+      "description": "Enrichment of anaerobic sludge for methane production; collection from biogas plant co-digestion of Napier silage with chicken manure; storage at room temperature."
+    }
+  ]
+}
+2026-06-10 19:09:19,128 articletxt/328.txt
+2026-06-10 19:09:19,151 TITLE: Prerequisite – An electrohydrolysis pretreatment for anaerobic digestion of lignocellulose waste material Title of processing article
+2026-06-10 19:09:24,339 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Electrohydrolysis pretreatment using direct current (DC) applied between graphite electrodes (cathode and anode) immersed in a slurry of 200 g PPMS in 600 mL of distilled water. The pretreatment conditions were optimized by varying the applied voltage (V) and exposure time (minutes) at a constant 15 V, with a total duration of 45 minutes. The setup included a flash mixer rotating at 300 rpm to disperse the slurry. Current and voltage were monitored using an ammeter and multimeter."
+    }
+  ]
+}
+2026-06-10 19:09:25,395 articletxt/87.txt
+2026-06-10 19:09:25,419 TITLE: Mesophilic aerobic digestion: An efficient and inexpensive biological pretreatment to improve biogas production from highly-recalcitrant pinewood Title of processing article
+2026-06-10 19:09:33,287 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "LHW + NaOH pretreatment"
+    },
+    {
+      "id": 1,
+      "description": "LHW + Biological pretreatment"
+    },
+    {
+      "id": 2,
+      "description": "LHW + Ultrasonic pretreatment"
+    },
+    {
+      "id": 3,
+      "description": "NaOH + Biological pretreatment"
+    },
+    {
+      "id": 4,
+      "description": "NaOH + Ultrasonic pretreatment"
+    },
+    {
+      "id": 5,
+      "description": "Ultrasound + Biological pretreatment"
+    },
+    {
+      "id": 6,
+      "description": "Ultrasound + NaOH pretreatment"
+    },
+    {
+      "id": 7,
+      "description": "LHW + NaOH + Ultrasonic pretreatment"
+    }
+  ]
+}
+2026-06-10 19:09:41,582 articletxt/2.txt
+2026-06-10 19:09:41,607 TITLE: Effect of hydrothermal pretreatment on Miscanthus anaerobic digestion Title of processing article
+2026-06-10 19:09:49,478 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Physical mechanical preparation of the substrate, including harvesting, air drying, breaking with a paper cutter, sieving (20-40 mesh), vacuum packaging to prevent degradation, and subsequent washing with distilled water before drying."
+    },
+    {
+      "id": 1,
+      "description": "Hydrothermal pretreatment at 125°C for 30 minutes, followed by cooling to room temperature and subsequent washing with distilled water."
+    },
+    {
+      "id": 2,
+      "description": "Hydrothermal pretreatment at 150°C for 30 minutes, followed by cooling to room temperature and subsequent washing with distilled water."
+    },
+    {
+      "id": 3,
+      "description": "Hydrothermal pretreatment at 175°C for 30 minutes, followed by cooling to room temperature and subsequent washing with distilled water."
+    },
+    {
+      "id": 4,
+      "description": "Hydrothermal pretreatment at 200°C for 30 minutes, followed by cooling to room temperature and subsequent washing with distilled water."
+    }
+  ]
+}
+2026-06-10 19:09:54,686 articletxt/625.txt
+2026-06-10 19:09:54,688 TITLE: Effect of ultrasonic assisted KOH pretreatment on physiochemical characteristic and anaerobic digestion performance of wheat straw Title of processing article
+2026-06-10 19:10:00,345 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Bath ultrasonication at 22°C (ambient temperature) with 20 kHz intensity applied to WS samples for 36 hours in triplicates, followed by pH monitoring."
+    },
+    {
+      "id": 1,
+      "description": "Bath ultrasonication at 22°C (ambient temperature) with 20 kHz intensity applied to WS samples for 36 hours in triplicates, followed by pH monitoring."
+    }
+  ]
+}
+2026-06-10 19:10:02,479 articletxt/189.txt
+2026-06-10 19:10:02,482 TITLE: Evaluation of hydrothermal pretreatment for biological treatment of lignocellulosic feedstock (pepper plant and eggplant) Title of processing article
+2026-06-10 19:10:07,385 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Hydrothermal pretreatment at 120°C for 0, 10, 20, 30, 40, 60, and 70 minutes"
+    }
+  ]
+}
+2026-06-10 19:10:08,413 articletxt/1028.txt
+2026-06-10 19:10:08,415 TITLE: Effect of inoculum pre-treatment on mesophilic hydrogen and methane production from food waste using two-stage anaerobic digestion Title of processing article
+2026-06-10 19:10:20,245 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Granular sludge collected from a full-scale Up-flow Anaerobic Sludge Blanket (UASB) digester of a brewery factory located in Padova, Italy, characterized by a Total Solids (TS) concentration of 15% and Volatile Solids (VS) concentration of 47% TS."
+    },
+    {
+      "id": 1,
+      "description": "Heat shock treatment: Granular sludge was boiled at 90°C for 30 minutes."
+    },
+    {
+      "id": 2,
+      "description": "Aeration treatment: Granular sludge was aerated for 24 hours using an aquarium pump with an air flow rate of 3 L/min."
+    },
+    {
+      "id": 3,
+      "description": "Alkaline pre-treatment: Granular sludge pH was adjusted to 12.0 ± 0.1 using 3 N NaOH and maintained for 24 hours."
+    },
+    {
+      "id": 4,
+      "description": "Pre-treatment with WFO: Fifteen g/L of WFO was added to the granular sludge cultures (33 gVS sludge/L saponified WFO solution) and maintained for 24 hours."
+    },
+    {
+      "id": 5,
+      "description": "Washing treatment: The pretreated cultures were washed three times with tap water by adding tap water and removing the supernatant to remove saponified WFO solution from the granular sludge."
+    },
+    {
+      "id": 6,
+      "description": "Sample preparation: Substrate samples were mixed and shredded in a kitchen mill to make a homogenous blend."
+    },
+    {
+      "id": 7,
+      "description": "pH adjustment: pH was adjusted to 5.5 using NaOH (3 M) and HCl (3 M) for the first stage of anaerobic digestion."
+    },
+    {
+      "id": 8,
+      "description": "pH adjustment: pH was adjusted to 7.0 for the second stage of anaerobic digestion."
+    },
+    {
+      "id": 9,
+      "description": "Temperature adjustment: Incubation was performed at 35°C."
+    }
+  ]
+}
+2026-06-10 19:10:30,572 articletxt/1293.txt
+2026-06-10 19:10:30,595 TITLE: Improvement of biogas production from pine wood by alkali pretreatment Title of processing article
+2026-06-10 19:10:36,089 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Physical grinding: The wood was debarked, cut, and grinded to achieve a relatively homogeneous size of less than 1 mm (20 mesh)."
+    },
+    {
+      "id": 1,
+      "description": "Physical milling (implied): The text mentions that milling was shown to improve enzymatic hydrolysis and is a typical process before most other pretreatments, but no specific mill conditions were detailed."
+    },
+    {
+      "id": 2,
+      "description": "Chemical alkali pretreatment (NaOH treatment): A 5 g sample of milled pine wood was mixed with 95 g NaOH solution (8% w/w) and incubated for 10, 30, or 60 minutes at either 0 °C or 100 °C."
+    }
+  ]
+}
+2026-06-10 19:10:39,262 articletxt/930.txt
+2026-06-10 19:10:39,265 TITLE: The selection of pretreatment options for anaerobic digestion (AD): A case study in olive oil waste production Title of processing article
+2026-06-10 19:10:50,425 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Dilution of olive oil waste residues (OP + OMWW) with tap water (WP), a physical pretreatment consisting of adding water to the feed mixture to mitigate acidity and reduce polyphenol concentration."
+    },
+    {
+      "id": 1,
+      "description": "Basic pretreatment (BP), a chemical treatment where 2N NaOH is added to adjust pH to 12, stirred at 70 rpm for 24h at 30°C, followed by neutralization with 2N HCl."
+    },
+    {
+      "id": 2,
+      "description": "Salt pretreatment with FeSO4 (SP_FeII), FeCl3 (SP_FeIi), MnSO4 (SP_Mn), or CaCO3 (SP_Ca), involving the addition of solid salts to achieve 5g/L concentration, pH adjustment to pH 2 with HCl, and subsequent neutralization."
+    },
+    {
+      "id": 3,
+      "description": "Ultrasonic pretreatment (USP), applying 1.8 kW of power for varying durations in an ultrasonic bath to break down large molecules into smaller pieces, tested at doses of 8000 kJ/L and 750 kJ/L."
+    },
+    {
+      "id": 4,
+      "description": "Combined pretreatment CP_Ca, combining ultrasonic rays at the highest dose (8000 kJ/L) with CaCO3 pretreatment; combined pretreatment CP_FeII, combining ultrasonic rays at the highest dose with FeCl3 pretreatment."
+    }
+  ]
+}
+2026-06-10 19:10:55,769 articletxt/1624.txt
+2026-06-10 19:10:55,771 TITLE: Anaerobic bioprocessing of wastewater-derived duckweed: Maximizing product yields in a biorefinery value cascade Title of processing article
+2026-06-10 19:11:03,494 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Enzymatic liquefaction and saccharification"
+    },
+    {
+      "id": 1,
+      "description": "Pretreatment with hot water at 150°C under 345 bar pressure"
+    }
+  ]
+}
+2026-06-10 19:11:05,544 articletxt/1263.txt
+2026-06-10 19:11:05,546 TITLE: Cleaner energy for cleaner production: Modeling and optimization of biogas generation from Carica papayas (Pawpaw) fruit peels Title of processing article
+2026-06-10 19:11:15,888 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Grinding of C. papayas fruit peels into ≤20 mm mesh sizes using a hammer mill."
+    },
+    {
+      "id": 1,
+      "description": "Thermal treatment at 80°C for 60 minutes using a water bath."
+    },
+    {
+      "id": 2,
+      "description": "Chemical treatment using 3 g NaOH for 100 g TS at 55°C for 24 hours."
+    },
+    {
+      "id": 3,
+      "description": "Application of mechanical breakdown without thermo-alkaline pretreatments."
+    },
+    {
+      "id": 4,
+      "description": "Combination of mechanical breakdown followed by thermo-alkaline pretreatments."
+    },
+    {
+      "id": 5,
+      "description": "Application of thermo-alkaline pretreatment at 80°C for 60 minutes followed by chemical treatment with 3 g NaOH for 100 g TS at 55°C for 24 hours."
+    },
+    {
+      "id": 6,
+      "description": "Application of thermo-alkaline pretreatment at 55°C for 24 hours with solid loading of 35 g TS/L."
+    }
+  ]
+}
+2026-06-10 19:11:23,044 articletxt/1114.txt
+2026-06-10 19:11:23,067 TITLE: Effect of hydrothermal pretreatment on two-stage anaerobic digestion of food waste and Enteromorpha: Digestion performance, bioenergy efficiency, and microbial community dynamics Title of processing article
+2026-06-10 19:11:30,235 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Hydrothermal pretreatment (HTP) of the substrates (Food Waste and Enteromorpha) at temperatures of 50, 80, 110, and 140 °C."
+    }
+  ]
+}
+2026-06-10 19:11:31,280 articletxt/1832.txt
+2026-06-10 19:11:31,283 TITLE: Peracetic acid pretreatment improves biogas production from anaerobic digestion of sewage sludge by promoting organic matter release, conversion and affecting microbial community Title of processing article
+2026-06-10 19:11:38,386 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Chemical pretreatment with peracetic acid (PAA) at dosages of 0, 1, 2, 3, and 4 mM/g VS, where PAA was added to the sludge using a magnetic stirrer at 450 rpm for 30 min at 25 °C."
+    }
+  ]
+}
+2026-06-10 19:11:39,442 articletxt/860.txt
+2026-06-10 19:11:39,466 TITLE: Evaluation of thermal, ultrasonic and alkali pretreatments on mixed-microalgal biomass to enhance anaerobic methane production Title of processing article
+2026-06-10 19:11:48,575 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Thermal-pretreatment conducted at 30 min at 50 °C using a water bath (CW-10G, Jeio Tech); at 80 °C with a water bath; at 120 °C using an autoclave (HAC-045, LK LabKorea)."
+    },
+    {
+      "id": 1,
+      "description": "Ultrasonic-pretreatment conducted for 30, 90, and 180 seconds on an ultrasonicator (VCX-130, Vibra-Cell) of 130 W."
+    },
+    {
+      "id": 2,
+      "description": "Alkali-pretreatment adjusted to pH 9, 11, and 13 using 5 N NaOH."
+    },
+    {
+      "id": 3,
+      "description": "Pre-treatment during substrate sample preparation involving sedimentation and centrifugation (5 min, 3000 rpm) of harvested microalgae biomass to separate solid and liquid phases."
+    },
+    {
+      "id": 4,
+      "description": "Pretreatment involving pH adjustment of the initial mixture to pH 10.2 (likely due to mixing conditions) before the BMP test, though this is not explicitly termed a 'pretreatment' method in the text, it affects the substrate properties."
+    }
+  ]
+}
+2026-06-10 19:11:53,814 articletxt/1127.txt
+2026-06-10 19:11:53,836 TITLE: Enhanced simultaneous saccharification and fermentation of Napier grass and Napier silage for two stage bio-hydrogen and methane production using organosolv and hydrothermal Title of processing article
+2026-06-10 19:12:20,478 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Organosolv pretreatment using sodium hydroxide (NaOH) as a catalyst for Napier grass, and sulfuric acid (H2SO4) as a catalyst for Napier silage, conducted in 150 mL high-pressure stainless-steel vessels at 190 °C for 60 min."
+    },
+    {
+      "id": 1,
+      "description": "Auto-catalyzed organosolv pretreatment for Napier grass using 50% (v/v) aqueous ethanol as a solvent without catalyst."
+    },
+    {
+      "id": 2,
+      "description": "Auto-catalyzed organosolv pretreatment for Napier silage using 50% (v/v) aqueous ethanol as a solvent without catalyst."
+    },
+    {
+      "id": 3,
+      "description": "Sulfuric acid (H2SO4)-catalyzed hydrothermal pretreatment for Napier grass using distilled water and 1% (w/w) H2SO4 at high temperatures (150–230 °C)."
+    },
+    {
+      "id": 4,
+      "description": "Auto-catalyzed hydrothermal pretreatment for Napier grass using distilled water as the solvent without catalyst."
+    },
+    {
+      "id": 5,
+      "description": "Sulfuric acid (H2SO4)-catalyzed hydrothermal pretreatment for Napier silage using distilled water and 1% (w/w) H2SO4 at high temperatures (150–230 °C)."
+    },
+    {
+      "id": 6,
+      "description": "Auto-catalyzed hydrothermal pretreatment for Napier silage using distilled water as the solvent without catalyst."
+    },
+    {
+      "id": 7,
+      "description": "Non-catalyzed organosolv pretreatment (auto-catalyzed) for Napier grass using 50% (v/v) aqueous ethanol."
+    },
+    {
+      "id": 8,
+      "description": "Non-catalyzed organosolv pretreatment (auto-catalyzed) for Napier silage using 50% (v/v) aqueous ethanol."
+    },
+    {
+      "id": 9,
+      "description": "Non-catalyzed hydrothermal pretreatment (auto-catalyzed) for Napier grass using distilled water."
+    },
+    {
+      "id": 10,
+      "description": "Non-catalyzed hydrothermal pretreatment (auto-catalyzed) for Napier silage using distilled water."
+    },
+    {
+      "id": 11,
+      "description": "Organosolv pretreatment for Napier grass using 50% (v/v) aqueous ethanol containing 1% (w/w) NaOH as a catalyst."
+    },
+    {
+      "id": 12,
+      "description": "Organosolv pretreatment for Napier silage using 50% (v/v) aqueous ethanol containing 1% (w/w) H2SO4 as a catalyst."
+    },
+    {
+      "id": 13,
+      "description": "Hydrothermal pretreatment for Napier grass using 1% (w/w) H2SO4 as the catalyst with 10 g of dried Napier grass."
+    },
+    {
+      "id": 14,
+      "description": "Hydrothermal pretreatment for Napier silage using 1% (w/w) H2SO4 as the catalyst with 10 g of dried Napier silage."
+    },
+    {
+      "id": 15,
+      "description": "Hydrothermal pretreatment for Napier grass using distilled water without catalyst (auto-catalyzed)."
+    },
+    {
+      "id": 16,
+      "description": "Hydrothermal pretreatment for Napier silage using distilled water without catalyst (auto-catalyzed)."
+    },
+    {
+      "id": 17,
+      "description": "Organosolv pretreatment for Napier grass using 50% (v/v) aqueous ethanol containing 1% (w/w) NaOH as a catalyst."
+    },
+    {
+      "id": 18,
+      "description": "Organosolv pretreatment for Napier silage using 50% (v/v) aqueous ethanol containing 1% (w/w) H2SO4 as a catalyst."
+    },
+    {
+      "id": 19,
+      "description": "Organosolv pretreatment for Napier grass using 50% (v/v) aqueous ethanol containing 1% (w/w) NaOH as a catalyst."
+    },
+    {
+      "id": 20,
+      "description": "Organosolv pretreatment for Napier silage using 50% (v/v) aqueous ethanol containing 1% (w/w) H2SO4 as a catalyst."
+    },
+    {
+      "id": 21,
+      "description": "Organosolv pretreatment for Napier grass using 50% (v/v) aqueous ethanol containing 1% (w/w) NaOH as a catalyst."
+    },
+    {
+      "id": 22,
+      "description": "Organosolv pretreatment for Napier silage using 50% (v/v) aqueous ethanol containing 1% (w/w) H2SO4 as a catalyst."
+    },
+    {
+      "id": 23,
+      "description": "Organosolv pretreatment for Napier grass using 50% (v/v) aqueous ethanol containing 1% (w/w) NaOH as a catalyst."
+    },
+    {
+      "id": 24,
+      "description": "Organosolv pretreatment for Napier silage using 50% (v/v) aqueous ethanol containing 1% (w/w) H2SO4 as a catalyst."
+    }
+  ]
+}
+2026-06-10 19:12:46,379 articletxt/676.txt
+2026-06-10 19:12:46,381 TITLE: Improving the methane production from zucchini stem by response surface methodology and different pretreatments Title of processing article
+2026-06-10 19:12:54,728 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Microwave pretreatment using 300 W, 500 W, and 700 W power levels for 10 minutes at 95% moisture content."
+    },
+    {
+      "id": 1,
+      "description": "KOH pretreatment at concentrations of 1%, 2%, 3%, and 4% (mass fraction)."
+    },
+    {
+      "id": 2,
+      "description": "Ca(OH)_2 pretreatment at concentrations of 1%, 2%, 3%, and 4% (mass fraction)."
+    },
+    {
+      "id": 3,
+      "description": "NaOH pretreatment at concentrations of 1%, 2%, 3%, and 4% (mass fraction)."
+    },
+    {
+      "id": 4,
+      "description": "AHP pretreatment using alkaline hydrogen peroxide (pH 11.5) adjusted with NaOH at concentrations of 1%, 2%, 3%, and 4% (mass fraction)."
+    },
+    {
+      "id": 5,
+      "description": "HCl pretreatment at concentrations of 1%, 2%, 3%, and 4% (mass fraction)."
+    }
+  ]
+}
+2026-06-10 19:13:00,986 articletxt/1101.txt
+2026-06-10 19:13:00,988 TITLE: The effects of waste-activated sludge pretreatment using hydrodynamic cavitation for methane production Title of processing article
+2026-06-10 19:13:07,974 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Alkaline pretreatment using NaOH (5 N), KOH, or Ca(OH)₂ solutions at pH ranging from 8 to 13, mixed for 1 hour (individual) or 20 minutes (combined)."
+    },
+    {
+      "id": 1,
+      "description": "Thermal pretreatment by heating sludge samples (50 ml) in an oil bath from 110 °C to 150 °C for 20 minutes."
+    },
+    {
+      "id": 2,
+      "description": "Ultrasonication using a VCX-750 probe with a 20 kHz frequency and 750 W amplitude for 1, 5, 10, 15, or 20 minutes."
+    },
+    {
+      "id": 3,
+      "description": "Hydrodynamic cavitation (HC) using an orifice plate with 27 holes of 1 mm diameter in a 20 mm pipe, generating cavitation at a pressure drop to vapor pressure, with reaction times of 1, 5, 10, 15, and 20 minutes."
+    }
+  ]
+}
+2026-06-10 19:13:12,243 articletxt/201.txt
+2026-06-10 19:13:12,266 TITLE: Conjoint effect of microwave irradiation and metal nanoparticles on biogas augmentation from anaerobic digestion of green algae Title of processing article
+2026-06-10 19:13:20,223 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Microwave (MW) pretreatment using household Panasonic microwave oven (1180 W) with a liquid:solid ratio of 20:1, pretreatment time of 6 min, and power of 600 W."
+    },
+    {
+      "id": 1,
+      "description": "Microwave (MW) pretreatment using household Panasonic microwave oven (1180 W) with a liquid:solid ratio of 20:1, pretreatment time of 6 min, and power of 600 W combined with Co and Ni NPs (1 mg/L each)."
+    },
+    {
+      "id": 2,
+      "description": "Microwave (MW) pretreatment using household Panasonic microwave oven (1180 W) with a liquid:solid ratio of 20:1, pretreatment time of 6 min, and power of 600 W combined with Ni NPs alone (1 mg/L)."
+    },
+    {
+      "id": 3,
+      "description": "Microwave (MW) pretreatment using household Panasonic microwave oven (1180 W) with a liquid:solid ratio of 20:1, pretreatment time of 6 min, and power of 600 W combined with Co NPs alone (1 mg/L)."
+    }
+  ]
+}
+2026-06-10 19:13:24,480 articletxt/1683.txt
+2026-06-10 19:13:24,482 TITLE: Process design and economic evaluation for methane and electricity production from Agave bagasse using different pretreatments Title of processing article
+2026-06-10 19:13:32,009 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Biological pretreatment utilizing a core microbiome primarily composed of Clostridium, Lactobacillus, and Enterobacter species to hydrolyze xylan into volatile fatty acids (modeled as acetic acid)."
+    },
+    {
+      "id": 1,
+      "description": "Enzymatic pretreatment using a commercial enzyme cocktail (Cellulase 50XL) with 293 endoglucanase units per gram of bagasse working in a 50 mM citrate buffer at pH 6, releasing mainly glucose, galactose, arabinose, and other sugars."
+    },
+    {
+      "id": 2,
+      "description": "Dilute acid pretreatment using 1.8 % HCl under soft operating conditions to solubilize xylan and partially cellulose while eliminating inhibitor generation."
+    },
+    {
+      "id": 3,
+      "description": "Steam explosion pretreatment using high-temperature depressurization in a plug flow reactor coupled to a flask tank to solubilize xylan, producing a mixture of sugars and acetic acid."
+    }
+  ]
+}
+2026-06-10 19:13:36,198 articletxt/1117.txt
+2026-06-10 19:13:36,222 TITLE: Enhancing methane production from dewatered waste activated sludge through alkaline and photocatalytic pretreatment Title of processing article
+2026-06-10 19:13:45,627 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Alkaline pretreatment using NaOH solutions (0.2%, 0.4%, 0.6%, 0.8% w/v) at temperatures of 37 °C for 3 hours."
+    },
+    {
+      "id": 1,
+      "description": "Photocatalytic pretreatment using TiO_2 nanoparticles (0.3, 0.4, 0.5, 0.6 g/L) in an enclosed chamber with UV-B lamps at 37 °C for 3 hours."
+    },
+    {
+      "id": 2,
+      "description": "Alkaline-photocatalytic pretreatment combining the above conditions."
+    },
+    {
+      "id": 3,
+      "description": "Sample preparation involving thickening and dewatering using a sand drying bed prior to storage."
+    }
+  ]
+}
+2026-06-10 19:13:49,695 articletxt/105.txt
+2026-06-10 19:13:49,697 TITLE: Accelerated high-solids anaerobic digestion of sewage sludge using low-temperature thermal pretreatment Title of processing article
+2026-06-10 19:13:56,455 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Low-temperature thermal pretreatment at 50-80 °C for 15-90 min"
+    },
+    {
+      "id": 1,
+      "description": "High-temperature thermal pretreatment at 170 °C for 60 min (mentioned as a previous study method)"
+    }
+  ]
+}
+2026-06-10 19:13:58,464 articletxt/761.txt
+2026-06-10 19:13:58,467 TITLE: Influence of pretreatment conditions on lignocellulosic fractions and methane production from grape pomace Title of processing article
+2026-06-10 19:14:07,874 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Chemical treatment with 6% NaOH, 10% NaOH, 6% NH3, 10% NH3, 6% HCl, 10% HCl"
+    },
+    {
+      "id": 1,
+      "description": "Freezing at -20°C"
+    },
+    {
+      "id": 2,
+      "description": "Freezing at -80°C"
+    },
+    {
+      "id": 3,
+      "description": "Ultrasounds (US) at Z_0.5 (40 min) and Z_1 (70 min) conditions"
+    },
+    {
+      "id": 4,
+      "description": "Pulsed Electric Fields (PEF) at Z_0.5 (153 kJ kg^-1) and Z_1 (153 kJ kg^-1) conditions"
+    },
+    {
+      "id": 5,
+      "description": "Combined treatment: Freezing at -20°C followed by 10% NaOH treatment"
+    }
+  ]
+}
+2026-06-10 19:14:13,981 articletxt/1749.txt
+2026-06-10 19:14:13,984 TITLE: Impact of the thermo-alkaline pretreatment on the anaerobic digestion of poly(butylene adipate-co-terephthalate) (PBAT) and poly(lactic acid) (PLA) blended plastics Title of processing article
+2026-06-10 19:14:20,566 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Thermo-alkaline pretreatment: Plastic samples (50 g TS/L) were heated in a water bath at 70 °C for 48 h using 1 % NaOH solution."
+    }
+  ]
+}
+2026-06-10 19:14:21,659 articletxt/1325.txt
+2026-06-10 19:14:21,661 TITLE: Biorefinery for efficient xanthan gum, ethanol, and biogas production from potato crop residues Title of processing article
+2026-06-10 19:14:29,234 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Organosolv pretreatment using ethanol (50% or 75%) with or without H2SO4 catalyst at temperatures of 120°C, 140°C, or 180°C for a duration of 60 minutes, followed by filtration, washing with 50% ethanol, drying at 40°C for 2 days, and solid recovery."
+    },
+    {
+      "id": 1,
+      "description": "Enzymatic hydrolysis of the recovered solids using a mixture of Cellic CTec2 and Cellic HTec2 enzymes at 45 ± 1°C for 72 hours, followed by sugar concentration analysis."
+    }
+  ]
+}
+2026-06-10 19:14:31,357 articletxt/1358.txt
+2026-06-10 19:14:31,381 TITLE: Assess a new strategy and develop a new mixer to improve anaerobic microbial activities and clean biogas production Title of processing article
+2026-06-10 19:14:39,937 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Substrates were anaerobically aged for 5 days in N2-saturated vessels at 35 ± 1 °C to adjust the chemical composition before co-digestion."
+    },
+    {
+      "id": 1,
+      "description": "Substrates were co-digested in airtight glass reactors with NaOH and/or H2O2 added to adjust alkalinity, pH, and organic loading."
+    },
+    {
+      "id": 2,
+      "description": "Substrates were mixed in two different mechanical configurations: a mechanical mixer (MM) and a pneu-mechanical mixer (PMM) within a semi-industrial biogas plant to test mixing effects on gas production and microbial communities."
+    },
+    {
+      "id": 3,
+      "description": "Substrates were co-digested in a laboratory setting using a combined D-optimal experimental design with different ratios of cow manure, municipal waste, and kitchen waste."
+    }
+  ]
+}
+2026-06-10 19:14:44,094 articletxt/542.txt
+2026-06-10 19:14:44,096 TITLE: Enhancing volatile fatty acid (VFA) and bio-methane production from lawn grass with pretreatment Title of processing article
+2026-06-10 19:14:53,823 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Ozone pretreatment performed at 5.3% ozone concentration (w/w) for 10 minutes using a Pacific Ozone generator, operating in a semi-continuous mode with 0.79 g O_3/g TS."
+    },
+    {
+      "id": 1,
+      "description": "Soaking aqueous ammonia (SAA) pretreatment using 28–30% (w/w) ammonium hydroxide solution at 50 °C for 24 hours with a solid-to-liquid ratio of 2:10, followed by washing with distilled water and drying at 50 °C."
+    },
+    {
+      "id": 2,
+      "description": "Ozone combined with SAA (OSAA) pretreatment, where ozone pretreatment (0.79 g O_3/g TS for 10 minutes) was followed by SAA pretreatment (28–30% ammonium hydroxide at 50 °C for 6 hours)."
+    },
+    {
+      "id": 3,
+      "description": "Size reduction treatment using a hammer mill to reduce grass particle size to less than 1 mm, followed by sieving to a size range of 0.354–0.5 mm for experiments."
+    },
+    {
+      "id": 4,
+      "description": "Mechanical grinding/drying process: The raw grass clippings were collected, dried at 60 °C for 24 hours, and then ground to a particle size of less than 1 mm in a hammer mill before being sieved for experimentation."
+    }
+  ]
+}
+2026-06-10 19:14:59,168 articletxt/768.txt
+2026-06-10 19:14:59,170 TITLE: Examining the mechanisms of short-term solubilization of ground food waste for high-rate anaerobic digestion Title of processing article
+2026-06-10 19:15:05,989 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Mechanical grinding using in-sink food dispoer (Badger 9 model) with 0.75 cm strainer hole"
+    },
+    {
+      "id": 1,
+      "description": "Mechanical grinding using manual meat grinder with medium (1.0 cm) extrusion plate"
+    },
+    {
+      "id": 2,
+      "description": "Mechanical grinding using manual meat grinder with small (0.5 cm) extrusion plate"
+    },
+    {
+      "id": 3,
+      "description": "Mechanical grinding using in-sink food dispoer with 500 mL deionized water flush to create a 1:1 mixture"
+    }
+  ]
+}
+2026-06-10 19:15:10,196 articletxt/1569.txt
+2026-06-10 19:15:10,208 TITLE: Enhancement of anaerobic digestion efficiency of wastewater sludge and olive waste: Synergistic effect of co-digestion and ultrasonic/microwave sludge pre-treatment Title of processing article
+2026-06-10 19:15:17,849 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Mechanical disintegration: The wastewater sludge was subjected to ultrasonication using a Bandelin-Sonopuls HD 3400 ultrasonic homogeniser at 20 kHz, 70% amplitude, and 200 W power. The treatment was performed for 15 and 30 minutes to achieve specific energies of 15,000 and 25,000 kJ/kg TS, respectively. This process was intended to disrupt the cell structure and enhance solubility of sludge solids."
+    },
+    {
+      "id": 1,
+      "description": "Thermal disintegration: Wastewater sludge samples underwent thermal treatment using a Microwave Digestion Unit (Berghoff Speedwave MWS-3+). The treatment applied a staged temperature profile, with microwave pre-treatment conducted at 175 °C and 2000 kPa for 30 minutes. This method aims to improve the biodegradability by breaking down sludge particles."
+    }
+  ]
+}
+2026-06-10 19:15:19,975 articletxt/526.txt
+2026-06-10 19:15:19,998 TITLE: Increased solubilization of excess sludge does not always result in enhanced anaerobic digestion efficiency Title of processing article
+2026-06-10 19:15:25,221 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Ultrasonication with varying power levels and times (5, 10, 20, 40, and 60 minutes) at 20 kHz frequency."
+    },
+    {
+      "id": 1,
+      "description": "Alkaline pretreatment using 6 mol/L KOH solution to achieve pH values of 9, 10, 11, 12, and 13 for 1 hour."
+    },
+    {
+      "id": 2,
+      "description": "Combined pretreatment where alkali-pretreated sludge at pH 9, 11, or 13 (1 hour) was subsequently ultrasonicated for 5, 20, or 60 minutes."
+    }
+  ]
+}
+2026-06-10 19:15:28,381 articletxt/106.txt
+2026-06-10 19:15:28,405 TITLE: Pretreatment of sugarcane bagasse with dilute citric acid and enzymatic hydrolysis: Use of black liquor and solid fraction for biogas production Title of processing article
+2026-06-10 19:15:36,718 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Dilute citric acid pretreatment with operational conditions of 120-180°C, 20-90 min, and 3-12 wt% Citric Acid by weight, optimized for highest fermentable sugar release"
+    },
+    {
+      "id": 1,
+      "description": "Enzymatic hydrolysis using Cellic® CTec 3 HS cocktail at 45-50°C and pH 5.0-5.5, resulting in solid residual fraction (RSF) and liquid hydrolysates"
+    }
+  ]
+}
+2026-06-10 19:15:38,806 articletxt/588.txt
+2026-06-10 19:15:38,830 TITLE: Assessment of pretreatment and digestion temperature on anaerobic digestion of whiskey byproducts and microbial taxonomy Title of processing article
+2026-06-10 19:15:48,934 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Steam pretreatment: Treatment of whiskey byproduct mixture (draff, thin stillage, and thick stillage) in an autoclave at 135 °C for 15 min, followed by cooling to room temperature, pH adjustment to 6.5–7.0 with 1 M NaOH, and storage at 4 °C for analysis. This method is applied to the untreated group to investigate the effect of low pH on steam heating."
+    },
+    {
+      "id": 1,
+      "description": "Sulfuric acid pretreatment: Treatment of whiskey byproduct mixture using 2% v/v sulfuric acid at mild temperatures. Specifically, samples were pretreated with 4% H_2SO_4 at room temperature for 2 days (mentioned in introduction) or 2% H_2SO_4 at 135 °C for 15 min (mentioned in methods as the final concentration). The pretreatment was conducted in quadruplicate."
+    }
+  ]
+}
+2026-06-10 19:15:51,108 articletxt/333.txt
+2026-06-10 19:15:51,111 TITLE: Chemical pretreatment of lignocellulosic agroindustrial waste for methane production Title of processing article
+2026-06-10 19:16:06,257 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Alkaline pretreatment using sodium hydroxide (NaOH), sodium bicarbonate (NaHCO3), or sodium chloride (NaCl) with dosages ranging from 0 to 4 mmol/g VS, durations from 1 to 24 hours, and temperatures of 25, 60, and 90 °C."
+    },
+    {
+      "id": 1,
+      "description": "Acidic pretreatment using citric acid (H3Cit), acetic acid (AcOH), sulfuric acid (implied in context of lignocellulosic studies often grouped, but text specifically lists H3Cit, AcOH, and implied sulfuric/phosphoric in comparative contexts, however strictly reading text: H3Cit and AcOH are explicitly listed for acid reagents, plus implied sulfuric/phosphoric in literature comparisons, but the text only explicitly lists H3Cit and AcOH under 'acid reagents' for this specific study's selection, while the methodology section mentions sulfuric, hydrochloric, phosphoric, acetic, citric, oxalic, and maleic acid as examples of inorganic/organic acids used in general studies, yet the specific study selection section lists NaOH, NaHCO3, NaCl, H3Cit, AcOH, H2O2, Me2CO, EtOH. Wait, re-reading Section 2.2: 'Chemical pretreatment was conducted by using eight different reagents... sodium hydroxide (NaOH), sodium bicarbonate (NaHCO3), citric acid (H3Cit), acetic acid (AcOH), sodium chloride (NaCl), hydrogen peroxide (H2O2), acetone (Me2CO) and ethanol (EtOH). Moreover, the effect of operating parameters... was investigated three different condition sets...'. The text does NOT explicitly state sulfuric or phosphoric were used in THIS specific study's experiments, though they were mentioned in the literature review of other studies. I must stick to the 'eight different reagents' listed in the methodology section for the identified treatments in this specific study.)
+    }
+  ]
+}
+2026-06-10 19:16:06,258 LLM did not return valid JSON Invalid control character at: line 9 column 1495 (char 1810). Response: {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Alkaline pretreatment using sodium hydroxide (NaOH), sodium bicarbonate (NaHCO3), or sodium chloride (NaCl) with dosages ranging from 0 to 4 mmol/g VS, durations from 1 to 24 hours, and temperatures of 25, 60, and 90 °C."
+    },
+    {
+      "id": 1,
+      "description": "Acidic pretreatment using citric acid (H3Cit), acetic acid (AcOH), sulfuric acid (implied in context of lignocellulosic studies often grouped, but text specifically lists H3Cit, AcOH, and implied sulfuric/phosphoric in comparative contexts, however strictly reading text: H3Cit and AcOH are explicitly listed for acid reagents, plus implied sulfuric/phosphoric in literature comparisons, but the text only explicitly lists H3Cit and AcOH under 'acid reagents' for this specific study's selection, while the methodology section mentions sulfuric, hydrochloric, phosphoric, acetic, citric, oxalic, and maleic acid as examples of inorganic/organic acids used in general studies, yet the specific study selection section lists NaOH, NaHCO3, NaCl, H3Cit, AcOH, H2O2, Me2CO, EtOH. Wait, re-reading Section 2.2: 'Chemical pretreatment was conducted by using eight different reagents... sodium hydroxide (NaOH), sodium bicarbonate (NaHCO3), citric acid (H3Cit), acetic acid (AcOH), sodium chloride (NaCl), hydrogen peroxide (H2O2), acetone (Me2CO) and ethanol (EtOH). Moreover, the effect of operating parameters... was investigated three different condition sets...'. The text does NOT explicitly state sulfuric or phosphoric were used in THIS specific study's experiments, though they were mentioned in the literature review of other studies. I must stick to the 'eight different reagents' listed in the methodology section for the identified treatments in this specific study.)
+    }
+  ]
+}
+2026-06-10 19:16:06,280 articletxt/652.txt
+2026-06-10 19:16:06,281 TITLE: Enhanced solid-state anaerobic digestion of corn stover by alkaline pretreatment Title of processing article
+2026-06-10 19:16:12,978 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Solid-state NaOH pretreatment using 2% NaOH for 3 days"
+    },
+    {
+      "id": 1,
+      "description": "Solid-state NaOH pretreatment using 6% NaOH at 80% moisture content and ambient temperature for 3 weeks"
+    },
+    {
+      "id": 2,
+      "description": "Simultaneous solid-state alkaline treatment and anaerobic digestion"
+    },
+    {
+      "id": 3,
+      "description": "Concurrent solid-state NaOH pretreatment and anaerobic digestion using 0.25, 0.625, or 1.25 M NaOH"
+    },
+    {
+      "id": 4,
+      "description": "Solid-state NaOH pretreatment using 5.0% NaOH for 40 days"
+    }
+  ]
+}
+2026-06-10 19:16:18,148 articletxt/1515.txt
+2026-06-10 19:16:18,149 TITLE: Effect of pretreatments on cellulosic composition and morphology of pine needle for possible utilization as substrate for anaerobic digestion Title of processing article
+2026-06-10 19:16:27,287 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Mechanical treatment (Milling): Dried pine needles were ground in an electric blender and sieved through a 20 mesh sieve."
+    },
+    {
+      "id": 1,
+      "description": "Steam explosion treatment: Pine needles were autoclaved in a flask plugged with non-absorbent cotton at 121 °C for 30 min."
+    },
+    {
+      "id": 2,
+      "description": "Acid-base-acid pretreatment: The lignocellulosic biomass was sequentially exposed to HCl, NaOH, and HCl cycles over 30 minute intervals until wash out liquid was clear, followed by washing with water to reach neutral pH."
+    },
+    {
+      "id": 3,
+      "description": "Anaerobic digestion (AD) treatment: The pretreated biomass was subjected to anaerobic digestion in 500 ml glass bottles with 1:1 inoculum-to-substrate ratio at 50 °C for 60 days under argon-flushed conditions."
+    },
+    {
+      "id": 4,
+      "description": "Drying treatment: The final pretreated LCB was dried before further experimentation."
+    }
+  ]
+}
+2026-06-10 19:16:32,561 articletxt/1556.txt
+2026-06-10 19:16:32,561 TITLE: Agave tequilana bagasse for methane production in batch and sequencing batch reactors: Acid catalyst effect, batch optimization and stability of the semi-continuous process Title of processing article
+2026-06-10 19:16:39,097 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Mechanical treatment involving dispersing the A. tequilana bagasse at 5% (w/v) in HCl or H2SO4 solutions at different concentrations, followed by reaction in 1 L Corning® bottles for varying periods at different temperatures."
+    },
+    {
+      "id": 1,
+      "description": "Mechanical treatment involving dispersing the A. tequilana bagasse at 5% (w/v) in HCl or H2SO4 solutions at different concentrations, followed by reaction in 1 L Corning® bottles for varying periods at different temperatures."
+    }
+  ]
+}
+2026-06-10 19:16:41,199 articletxt/409.txt
+2026-06-10 19:16:41,223 TITLE: Continuous anaerobic digestion of zucchini stem after pretreatment Title of processing article
+2026-06-10 19:16:48,796 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Chemical treatment with 2% KOH at 95% moisture content"
+    },
+    {
+      "id": 1,
+      "description": "Chemical treatment with 4% KOH at 95% moisture content"
+    },
+    {
+      "id": 2,
+      "description": "Chemical treatment with 4% NaOH at 95% moisture content"
+    },
+    {
+      "id": 3,
+      "description": "Chemical treatment with 4% AHP at 95% moisture content"
+    },
+    {
+      "id": 4,
+      "description": "Chemical treatment with 4% NaOH adjusted to pH 11.5"
+    },
+    {
+      "id": 5,
+      "description": "Chemical treatment with 4% AHP adjusted to pH 11.5"
+    }
+  ]
+}
+2026-06-10 19:16:55,008 articletxt/815.txt
+2026-06-10 19:16:55,032 TITLE: Understanding the role of mechanical pretreatment before anaerobic digestion: Lab-scale investigations Title of processing article
+2026-06-10 19:17:23,312 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Shredding (I-PT) – performed using a knife mill at low speed, which reduces the particle size of the substrates."
+    },
+    {
+      "id": 1,
+      "description": "Shredding and mixing (II-PT) – performed using a pulping operation, which favors the extraction of organic compounds into the liquid phase and combines shredding with mixing."
+    },
+    {
+      "id": 2,
+      "description": "Shredding, mixing and blending (III-PT) – performed using a fine blending operation, which alters the lignocellulosic structure and creates a homogeneous liquid slurry."
+    },
+    {
+      "id": 3,
+      "description": "Hammer mill (Noremat Valormax BA915D) – used at an on-farm AD plant (M3) for cattle manure, reducing particle size and increasing methane production kinetics without significantly affecting biodegradability."
+    },
+    {
+      "id": 4,
+      "description": "Fixed hammer mill – used at an on-farm AD plant (M4) for cattle manure, slightly increasing BMP and methane production kinetics."
+    },
+    {
+      "id": 5,
+      "description": "Chain mill (X-Chopper) – used at the METHELEC AD plant for the silage and manure mixture (SM), showing a significant impact on BMP and kinetics."
+    },
+    {
+      "id": 6,
+      "description": "Mixture of cattle manure (M2) – used as raw substrate before pretreatment and as part of the lab-scale SM sample, characterized for physical and biochemical properties."
+    },
+    {
+      "id": 7,
+      "description": "Mixture of maize and triticale silage (S) – used as raw substrate and in the lab-scale SM sample, characterized for physical and biochemical properties."
+    },
+    {
+      "id": 8,
+      "description": "Mixture of silage S and cattle manure (SM) – used as raw substrate and in the lab-scale SM sample, characterized for physical and biochemical properties."
+    },
+    {
+      "id": 9,
+      "description": "Storage at 4 °C (implied storage treatment) – applied to samples from farm M2, Ennezat, causing significant degradation of organic soluble compounds and reducing biodegradability compared to fresh samples."
+    },
+    {
+      "id": 10,
+      "description": "Shredding and mixing at full scale (HM3) – used at the on-farm AD plant (La Bouzule) for cattle manure, resulting in particle size reduction and kinetic enhancement."
+    },
+    {
+      "id": 11,
+      "description": "Shredding and mixing at full scale (HM4) – used at the on-farm AD plant (M4) for cattle manure, resulting in slight BMP increase and kinetic enhancement."
+    },
+    {
+      "id": 12,
+      "description": "Chain milling at full scale (CH-SM) – used at the METHELEC AD plant for the silage and manure mixture (SM), resulting in significant BMP increase and kinetic enhancement."
+    },
+    {
+      "id": 13,
+      "description": "Liquid leaching test (10:1 water/TS ratio for 2 hours with constant bottle rotation) – performed during sample preparation to separate liquid and particulate fractions before characterization."
+    },
+    {
+      "id": 14,
+      "description": "Centrifugation (20 min at 5000 G) – performed on samples after leaching to separate supernatant and particulate fractions."
+    },
+    {
+      "id": 15,
+      "description": "Particulate fraction drying (70 °C for 3 days and calcination at 550 °C for 2 hours) – performed on the remaining solid fraction to determine Total Solids (TS), Volatile Solids (VS), and COD."
+    },
+    {
+      "id": 16,
+      "description": "Water retention capacity (WRC) measurement – performed following Coarita Fernandez et al. method (water contact with substrate in a column for 2 hours) on all raw and pre-treated samples."
+    },
+    {
+      "id": 17,
+      "description": "Particle size distribution analysis using wet sieving method (sieve openings: 0.25, 0.5, 1, 4, 10, 20.0, and 31.5 mm) and drying at 105 °C for 24 hours on all samples."
+    },
+    {
+      "id": 18,
+      "description": "Biomethane potential (BMP) testing – carried out in mesophilic conditions (35 °C) with 80/20 %v N2/CO2 purging and monitoring of daily methane production to determine ultimate maximal biochemical methane potential."
+    },
+    {
+      "id": 19,
+      "description": "Biomethane potential kinetics testing – conducted simultaneously with BMP tests to fit first-order kinetic models for methane production."
+    },
+    {
+      "id": 20,
+      "description": "Biochemical Methane Potential (BMP) estimation – calculated from BMP and COD measurements using the formula: BMP [L_STP/kg VS] × COD [g_COD/kg VS] × 0.35."
+    },
+    {
+      "id": 21,
+      "description": "COD (Chemical Oxygen Demand) measurement – performed following NF U 44–161 and NF ISO 14235 standards on both particulate and water-soluble fractions."
+    },
+    {
+      "id": 22,
+      "description": "pH measurement – performed using a Consort C3020 device with a SP10B pH-electrode on water-soluble fraction samples."
+    },
+    {
+      "id": 23,
+      "description": "Volatile Solids (VS) content determination – performed through 105 °C drying for 24h and calcination at 550 °C for 2h with correction using volatilization coefficients."
+    },
+    {
+      "id": 24,
+      "description": "Water soluble fraction analysis – performed on supernatant samples after leaching to measure Total solids (TS), Volatile Solids (VS), BMP, pH, and COD."
+    },
+    {
+      "id": 25,
+      "description": "Total solids (TS) content measurement – performed on the particulate fraction after drying at 70 °C for 3 days."
+    }
+  ]
+}
+2026-06-10 19:17:50,196 articletxt/833.txt
+2026-06-10 19:17:50,219 TITLE: Enhanced mesophilic anaerobic digestion of food waste by thermal pretreatment: Substrate versus digestate heating Title of processing article
+2026-06-10 19:17:57,376 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Thermophilic Pretreatment (TPP) of food waste (FW) and inoculum together, followed by a reduction to mesophilic conditions (35 ± 2 °C). This involves heating the mixture containing both the substrate and inoculum to varying temperatures (50, 60, 70, or 80 °C) for a specific duration (12, 24, 36, or 48 hours) before switching to mesophilic conditions for digestion."
+    },
+    {
+      "id": 1,
+      "description": "Conventional Thermal Pretreatment (CTP) of food waste (FW), followed by inoculation in bottles and incubation at mesophilic conditions (35 ± 2 °C). This involves heating only the FW substrate to varying temperatures (50–80 °C) for a specific duration (1.5, 6, 12, or 24 hours) prior to adding the inoculum."
+    }
+  ]
+}
+2026-06-10 19:17:59,497 articletxt/1424.txt
+2026-06-10 19:17:59,521 TITLE: Fractionation of sugarcane bagasse using hydrothermal and advanced oxidative pretreatments for bioethanol and biogas production in lignocellulose biorefineries Title of processing article
+2026-06-10 19:18:13,590 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Hydrothermal pretreatment (HP) via autohydrolysis of sugarcane bagasse at 183 °C, 41 min, and liquid-to-solid ratio (LSR) of 3.94 mL g^−1, resulting in a weight loss of 29.5%, hemicellulose removal of 73%, and cellulose preservation of 82.1%, followed by alkaline extraction (AE) to partially delignify and remove low molar mass lignin fragments."
+    },
+    {
+      "id": 1,
+      "description": "Advanced oxidative pretreatment (AOP) on alkaline-extracted pretreated sugarcane bagasse using varying ratios of hydrogen peroxide to alkaline extracted pretreated SB, liquid-to-solid ratio (LSR), and reaction time at 25 °C, optimizing conditions (0.3 g_H2O2 g_SB^−1, 9.67 mL g^−1 LSR, 8 h) to achieve high cellulose preservation (82.24%), enzymatic conversion (88.94%), and overall glucose yield (60.87%) while minimizing weight loss and water consumption."
+    }
+  ]
+}
+2026-06-10 19:18:15,811 articletxt/1132.txt
+2026-06-10 19:18:15,834 TITLE: Improving biogas production from different parts of spruce tree using leading pretreatments Title of processing article
+2026-06-10 19:18:28,747 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Concentrated phosphoric acid pretreatment, involving heating the substrate with 83–85.9% phosphoric acid in a water bath at 50°C for 50 minutes, followed by washing with cold acetone, distilled water, and acetone washing to neutralize pH and remove solvents."
+    },
+    {
+      "id": 1,
+      "description": "Organosolv pretreatment, involving mixing the substrate with 75% v/v ethanol and sulfuric acid (1% w/w) in a stainless steel reactor at 150°C for 30 minutes, followed by separation, neutralization, drying at 40°C, and storage."
+    },
+    {
+      "id": 2,
+      "description": "Dilute sulfuric acid pretreatment, involving mixing the substrate with 0.5% w/w sulfuric acid in a 500 mL reactor at 140°C for 5 minutes, followed by separation, washing with distilled water, neutralization, and drying at 40°C."
+    },
+    {
+      "id": 3,
+      "description": "Acid pretreatment (mechanical degradation), involving grinding the substrates into small pieces (<2 cm), drying at room temperature, and screening to achieve powder with particle size between 295 and 833 µm."
+    },
+    {
+      "id": 4,
+      "description": "Steam pretreatment, involving steaming the spruce wastes at 220°C for a time duration to improve carbohydrate enzymatic hydrolysis yield."
+    },
+    {
+      "id": 5,
+      "description": "Alkali pretreatment, involving the use of NaOH, thiourea, urea, and polyethylene glycol at −15°C to improve biogas yield from hardwood and spruce."
+    },
+    {
+      "id": 6,
+      "description": "N-methylmorpholine-N-oxide (NMMO) pretreatment, involving using an industrial solvent at 130°C for 15 hours to improve biogas production from spruce."
+    }
+  ]
+}
+2026-06-10 19:18:36,072 articletxt/837.txt
+2026-06-10 19:18:36,075 TITLE: Kinetics of thermophilic batch anaerobic digestion of thermal hydrolysed waste activated sludge Title of processing article
+2026-06-10 19:18:41,828 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Thermal pretreatment applied in electric mode, with temperatures ranging from 110 °C to 220 °C, lasting 30 minutes, performed in a 10 L agitated autoclave using only electric heating."
+    },
+    {
+      "id": 1,
+      "description": "Thermal pretreatment applied in steam mode, with temperatures of 165 °C, performed in the same 10 L agitated autoclave but using steam heating instead of electric heating."
+    }
+  ]
+}
+2026-06-10 19:18:43,901 articletxt/1463.txt
+2026-06-10 19:18:43,925 TITLE: Combined treatment of alkaline and disperser for improving solubilization and anaerobic biodegradability of dairy waste activated sludge Title of processing article
+2026-06-10 19:18:54,153 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Chemo-mechanical pretreatment using NaOH (pH 10) combined with disperser (IKA T25 Ultra Turrax) at 12,000 rpm for 30 min, applied at specific energy of 4544 kJ/kg TS, to enhance sludge disintegration, solubilization, and biodegradability before anaerobic digestion."
+    },
+    {
+      "id": 1,
+      "description": "Chemo-mechanical pretreatment using KOH (pH 10) combined with disperser (IKA T25 Ultra Turrax) at 12,000 rpm for 30 min, applied at specific energy of 4544 kJ/kg TS, to enhance sludge disintegration, solubilization, and biodegradability before anaerobic digestion."
+    },
+    {
+      "id": 2,
+      "description": "Chemo-mechanical pretreatment using Ca(OH)_2 (pH 10) combined with disperser (IKA T25 Ultra Turrax) at 12,000 rpm for 30 min, applied at specific energy of 4544 kJ/kg TS, to enhance sludge disintegration, solubilization, and biodegradability before anaerobic digestion."
+    }
+  ]
+}
+2026-06-10 19:18:57,382 articletxt/1619.txt
+2026-06-10 19:18:57,385 TITLE: TiO2 - chitosan thin film induced solar photocatalytic deflocculation of sludge for profitable bacterial pretreatment and biofuel production Title of processing article
+2026-06-10 19:19:04,640 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Suspended TiO_2 photocatalysis"
+    },
+    {
+      "id": 1,
+      "description": "Bacterial disintegration using Bacillus jerish 03 and Bacillus jerish 04 strains"
+    },
+    {
+      "id": 2,
+      "description": "Batch anaerobic assay (mesophilic condition, 37 ± 1 °C, 3:1 inoculum-to-substrate ratio using bovine rumin fluid and sludge samples)"
+    }
+  ]
+}
+2026-06-10 19:19:07,742 articletxt/485.txt
+2026-06-10 19:19:07,765 TITLE: Mechanical pretreatments of different agri-based feedstock in full-scale biogas plants under real operational conditions Title of processing article
+2026-06-10 19:19:14,579 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Knife milling (KM)"
+    },
+    {
+      "id": 1,
+      "description": "Hammer milling (HM)"
+    },
+    {
+      "id": 2,
+      "description": "Extrusion (EX)"
+    },
+    {
+      "id": 3,
+      "description": "Shredding combined with hydrodynamic cavitation (SHC)"
+    }
+  ]
+}
+2026-06-10 19:19:18,622 articletxt/52.txt
+2026-06-10 19:19:18,646 TITLE: Integration of subcritical water pretreatment and anaerobic digestion technologies for valorization of açai processing industries residues Title of processing article
+2026-06-10 19:19:27,321 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Oven drying of açai seeds at 105 °C for 8 hours"
+    },
+    {
+      "id": 1,
+      "description": "Subcritical water hydrolysis pretreatment using water at 170 °C for 20 min"
+    },
+    {
+      "id": 2,
+      "description": "Subcritical water hydrolysis pretreatment using water at 200 °C for 20 min"
+    }
+  ]
+}
+2026-06-10 19:19:30,499 articletxt/1115.txt
+2026-06-10 19:19:30,523 TITLE: Synergistic pretreatment of waste activated sludge using CaO2 in combination with microwave irradiation to enhance methane production during anaerobic digestion Title of processing article
+2026-06-10 19:19:38,407 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Microwave (MW) irradiation at 480 W for 2 minutes"
+    },
+    {
+      "id": 1,
+      "description": "CaO2 oxidation (0.1 g/g VSS)"
+    }
+  ]
+}
+2026-06-10 19:19:40,484 articletxt/1062.txt
+2026-06-10 19:19:40,507 TITLE: Zero-valent iron enhanced methanogenic activity in anaerobic digestion of waste activated sludge after heat and alkali pretreatment Title of processing article
+2026-06-10 19:19:45,498 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Heat treatment (102 °C for 30 min) to kill methanogens and enhance hydrolysis"
+    },
+    {
+      "id": 1,
+      "description": "Alkali treatment (pH maintained at 10 with 4 M NaOH) to enhance hydrolysis and acidification while suppressing methanogens"
+    }
+  ]
+}
+2026-06-10 19:19:47,584 end
+2026-06-10 19:19:47,584 733: total time in seconds
+2026-06-10 19:19:47,584 0.20371791826354133: total time in hours
+2026-06-10 19:19:47,584 0.23062405841155623: time per article in minutes

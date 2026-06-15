@@ -1,0 +1,24 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Peracetic acid (PAA) pretreatment at concentrations of 0, 1, 2, 3 and 4 mM/g VS.  PAA was added by stirring the sludge with a magnetic stirrer at 450 rpm for 30 min at 25 \u00b0C."
+    },
+    {
+      "id": 1,
+      "description": "PAA pretreatment at concentrations of 1, 2, 3 and 4 mM/g VS.  PAA was added by stirring the sludge with a magnetic stirrer at 450 rpm for 30 min at 25 \u00b0C."
+    },
+    {
+      "id": 2,
+      "description": "PAA pretreatment at concentrations of 2, 3 and 4 mM/g VS.  PAA was added by stirring the sludge with a magnetic stirrer at 450 rpm for 30 min at 25 \u00b0C."
+    },
+    {
+      "id": 3,
+      "description": "PAA pretreatment at concentrations of 3 and 4 mM/g VS.  PAA was added by stirring the sludge with a magnetic stirrer at 450 rpm for 30 min at 25 \u00b0C."
+    },
+    {
+      "id": 4,
+      "description": "No PAA pretreatment (control)."
+    }
+  ]
+}

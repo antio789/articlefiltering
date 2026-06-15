@@ -1,0 +1,28 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Shredding operation (I-PT) - mechanical pretreatment using a low-speed knife mill to reduce particle size, eliminating larger particles >20mm"
+    },
+    {
+      "id": 1,
+      "description": "Shredding and mixing operation (II-PT) - combination of shredding and mixing using water addition at 10:1 Water content/Total Solids ratio, favors extraction of organic compounds into liquid phase"
+    },
+    {
+      "id": 2,
+      "description": "Shredding, mixing, and blending operation (III-PT) - sequence of shredding, mixing, and blending (like wet grinders) to alter lignocellulosic structure and create homogeneous liquid slurry"
+    },
+    {
+      "id": 3,
+      "description": "Hammer mill - mobile hammer mill (Noremat Valormax BA915D) on-farm full-scale treatment (M3) for cattle manure"
+    },
+    {
+      "id": 4,
+      "description": "Hammer mill - fixed hammer mill (on-line) on-farm full-scale treatment (M4) for cattle manure"
+    },
+    {
+      "id": 5,
+      "description": "Chain mill - X-Chopper chain mill (Xergi) on-farm full-scale treatment (M4) for silage and cattle manure mixture (SM)"
+    }
+  ]
+}

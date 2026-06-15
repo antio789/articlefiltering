@@ -71,8 +71,8 @@ def find_false_containing_string( search_string,subpath):
     return matching_files
 
 
-filter = 'mechanical disintegration'
-subpath = 'qwen80k0206-v2'
+filter = 'enzyme'
+subpath = 'qwen80k0206-1800-v2'
 matching_files = find_files_containing_string(filter,subpath)
 print(matching_files)
 print(f"{find_missed_containing_string( filter,subpath)} missing")

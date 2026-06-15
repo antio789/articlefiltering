@@ -1,0 +1,24 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Organosolv pretreatment with sodium hydroxide as a catalyst, using 50% (v/v) aqueous ethanol containing 1% (w/w) NaOH as a catalyst, heated at 190 \u00b0C for 60 min, followed by washing with 50% (v/v) aqueous ethanol and distilled water until pH 7.0."
+    },
+    {
+      "id": 1,
+      "description": "Organosolv pretreatment with sulfuric acid as a catalyst, using 50% (v/v) aqueous ethanol containing 1% (w/w) H_2SO_4 as a catalyst, heated at 190 \u00b0C for 60 min, followed by washing with 50% (v/v) aqueous ethanol and distilled water until pH 7.0."
+    },
+    {
+      "id": 2,
+      "description": "Hydrothermal pretreatment with sulfuric acid as a catalyst, using distilled water and 1% (w/w) H_2SO_4 as the catalyst, heated at 190 \u00b0C for 60 min, followed by washing with distilled water until pH 7.0."
+    },
+    {
+      "id": 3,
+      "description": "Auto-catalyzed organosolv pretreatment with 50% (v/v) aqueous ethanol, heated at 190 \u00b0C for 60 min, followed by washing with 50% (v/v) aqueous ethanol and distilled water until pH 7.0."
+    },
+    {
+      "id": 4,
+      "description": "Auto-catalyzed hydrothermal pretreatment with distilled water, heated at 190 \u00b0C for 60 min, followed by washing with distilled water until pH 7.0."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Hydrothermal pretreatment (HP) of SB using a floor-standing pressure reactor at 183 \u00b0C, 41 min, and LSR of 3.94 mL g^-1"
+    },
+    {
+      "id": 1,
+      "description": "Alkaline extraction (AE) of pretreated SB using aqueous 0.2 mol L^-1 NaOH solution at LSR of 10 mL g^-1 for 30 s, washed with tap water"
+    },
+    {
+      "id": 2,
+      "description": "Advanced oxidative pretreatment (AOP) in an acrylic cylindrical reactor using H2O2, NaOH, at pH 11.6, 25 \u00b0C, varying H2O2 load, LSR, and reaction time"
+    }
+  ]
+}

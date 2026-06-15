@@ -1,0 +1,88 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Harvesting and packaging of Miscanthus (Miscanthus sacchariflorus) from Jiangsu province, China."
+    },
+    {
+      "id": 1,
+      "description": "Air drying of harvested Miscanthus at room temperature."
+    },
+    {
+      "id": 2,
+      "description": "Breaking of Miscanthus with a paper cutter."
+    },
+    {
+      "id": 3,
+      "description": "Screening and collection of Miscanthus particles passing through a 20-mesh sieve and retained by a 40-mesh sieve."
+    },
+    {
+      "id": 4,
+      "description": "Storage of collected Miscanthus in a plastic vacuum bag to prevent degradation."
+    },
+    {
+      "id": 5,
+      "description": "Hydrothermal pretreatment performed in a 100 mL stainless steel reactor with a Teflon vessel."
+    },
+    {
+      "id": 6,
+      "description": "Addition of 2.5 g of Miscanthus and 25 mL of distilled water to the reactor."
+    },
+    {
+      "id": 7,
+      "description": "Continuous mixture provided by 20 rpm rotation."
+    },
+    {
+      "id": 8,
+      "description": "Setting of pretreatment temperature at 125, 150, 175 and 200 \u00b0C, respectively."
+    },
+    {
+      "id": 9,
+      "description": "Cooling of reactors to room temperature using cold water after a 30 min pretreatment period."
+    },
+    {
+      "id": 10,
+      "description": "Filtration for solid-liquid separation and recovery of Miscanthus."
+    },
+    {
+      "id": 11,
+      "description": "Washing of pretreated Miscanthus with distilled water."
+    },
+    {
+      "id": 12,
+      "description": "Drying and storage of the pretreated Miscanthus in a vacuum plastic bag."
+    },
+    {
+      "id": 13,
+      "description": "Anaerobic digestion performed in batch reactors with digested pig manure as inoculum."
+    },
+    {
+      "id": 14,
+      "description": "Enzymatic hydrolysis using commercial cellulase concentrated solution from Sigma-Aldrich with sodium acetate buffer (50 mM, pH 5.0)."
+    },
+    {
+      "id": 15,
+      "description": "Incubation of enzyme hydrolysis at 50 \u00b0C in a 50 \u00b0C incubator shaker at 190 rpm for 3\u201372 h."
+    },
+    {
+      "id": 16,
+      "description": "Deactivation of enzyme by incubation in a water bath at 100 \u00b0C for 10 min."
+    },
+    {
+      "id": 17,
+      "description": "Analysis of cellulose hydrolysis rate by HPLC with refractive index detector and NH2P-50 4E column."
+    },
+    {
+      "id": 18,
+      "description": "Fourier transform infrared spectrophotometry (Thermo Fisher Scientific, Nicolet 5700) to analyze changes in functional groups."
+    },
+    {
+      "id": 19,
+      "description": "X-ray diffraction (Bruker, D8 Advance) to analyze cellulose crystallinity."
+    },
+    {
+      "id": 20,
+      "description": "Scanning electron microscopy (Phenom, Pro) to analyze surface structure changes."
+    }
+  ]
+}

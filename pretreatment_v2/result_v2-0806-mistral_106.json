@@ -1,0 +1,14 @@
+{
+  "filters": [
+    {
+      "reasoning": "",
+      "answer": "7"
+    },
+    {
+      "reasoning": "",
+      "answer": "Based on the description provided, the treatment refers to enzymatic hydrolysis using Cellic\u00ae CTec 3 HS cocktail. This fits the criteria for question:\n\n{'qid': 11, 'question': 'Does the methodology explicitly describe the use of an enzyme for pretreatment on a substrate (this also includes crude enzyme treatments), This exclude any bacteria, fungi, or other secreting enzyme organism, it refers to the direct use of enzymes. Before answering: 1. Identify enzyme used in the methodology 2.ensure it is an enzyme preparation or extracted crude enzyme 3.ensure that the enzymes are used directly and not produced in situ by bacteria, fungi, or other enzyme-secreting organisms'}}\n\nSo the answer is:\n\n11"
+    }
+  ],
+  "article_path": "articletxt/106.txt",
+  "article_title": "TITLE: Pretreatment of sugarcane bagasse with dilute citric acid and enzymatic hydrolysis: Use of black liquor and solid fraction for biogas production"
+}

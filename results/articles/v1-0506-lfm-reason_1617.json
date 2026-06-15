@@ -1,0 +1,97 @@
+{
+  "manual_review": [
+    [
+      1617,
+      "mechanical disintegration"
+    ],
+    [
+      1617,
+      "thermal"
+    ]
+  ],
+  "llm_review": [
+    [
+      1617,
+      "mechanical disintegration"
+    ],
+    [
+      1617,
+      "thermal"
+    ],
+    [
+      1617,
+      "ultrasonic"
+    ],
+    [
+      1617,
+      "electric"
+    ],
+    [
+      1617,
+      "alkaline"
+    ],
+    [
+      1617,
+      "oxidizer"
+    ],
+    [
+      1617,
+      "enzyme"
+    ],
+    [
+      1617,
+      "fungi"
+    ],
+    [
+      1617,
+      "microaerobic"
+    ]
+  ],
+  "correct_predictions": 2,
+  "false_predictions": 7,
+  "missed_predictions": 0,
+  "precision": 0.2222,
+  "recall": 1.0,
+  "f1_score": 0.3636,
+  "correct_items": [
+    [
+      1617,
+      "mechanical disintegration"
+    ],
+    [
+      1617,
+      "thermal"
+    ]
+  ],
+  "false_items": [
+    [
+      1617,
+      "ultrasonic"
+    ],
+    [
+      1617,
+      "electric"
+    ],
+    [
+      1617,
+      "alkaline"
+    ],
+    [
+      1617,
+      "oxidizer"
+    ],
+    [
+      1617,
+      "enzyme"
+    ],
+    [
+      1617,
+      "fungi"
+    ],
+    [
+      1617,
+      "microaerobic"
+    ]
+  ],
+  "missed_items": []
+}

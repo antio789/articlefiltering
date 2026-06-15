@@ -1,0 +1,20 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Substrates were anaerobically aged for 5 days in N2-saturated vessels at 35 \u00b1 1 \u00b0C to adjust the chemical composition before co-digestion."
+    },
+    {
+      "id": 1,
+      "description": "Substrates were co-digested in airtight glass reactors with NaOH and/or H2O2 added to adjust alkalinity, pH, and organic loading."
+    },
+    {
+      "id": 2,
+      "description": "Substrates were mixed in two different mechanical configurations: a mechanical mixer (MM) and a pneu-mechanical mixer (PMM) within a semi-industrial biogas plant to test mixing effects on gas production and microbial communities."
+    },
+    {
+      "id": 3,
+      "description": "Substrates were co-digested in a laboratory setting using a combined D-optimal experimental design with different ratios of cow manure, municipal waste, and kitchen waste."
+    }
+  ]
+}

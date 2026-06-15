@@ -1,0 +1,24 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Milling (grinding) the dried pine needles in an electric blender"
+    },
+    {
+      "id": 1,
+      "description": "Steam explosion of pine needles, involving autoclaving in flask plugged with non-absorbent cotton at 121 \u00b0C for 30 min"
+    },
+    {
+      "id": 2,
+      "description": "Acid-base-acid pretreatment with repeated exposure to HCl and NaOH followed by water washes until neutral pH"
+    },
+    {
+      "id": 3,
+      "description": "Staining with 1% (w/w) KMnO4 solution"
+    },
+    {
+      "id": 4,
+      "description": "Coating with gold for FE-SEM analysis"
+    }
+  ]
+}

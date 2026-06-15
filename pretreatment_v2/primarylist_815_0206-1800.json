@@ -1,0 +1,28 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "lab-scale shredding operation (I-PT): low-speed knife mill reducing particle size of larger fibers (>20 mm) into smaller ones (10-20 mm) without changing overall structure significantly."
+    },
+    {
+      "id": 1,
+      "description": "lab-scale shredding and mixing operation (II-PT): pulping operation with 10:1 water/TS ratio favoring organic compound extraction into the liquid phase."
+    },
+    {
+      "id": 2,
+      "description": "lab-scale shredding, mixing and blending operation (III-PT): fine blending operation simulating industrial wet grinders to alter lignocellulosic structure and create homogeneous liquid slurry."
+    },
+    {
+      "id": 3,
+      "description": "full-scale mobile hammer mill (HM3): Noremat Valormax BA915D on cattle manure (M3)."
+    },
+    {
+      "id": 4,
+      "description": "full-scale fixed hammer mill (HM4): on-line fixed hammer mill on cattle manure (M4)."
+    },
+    {
+      "id": 5,
+      "description": "full-scale X-Chopper chain mill (CH-SM): Xergi on mixture of silage and cattle manure (SM)."
+    }
+  ]
+}

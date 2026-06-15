@@ -1,0 +1,49 @@
+{
+  "manual_review": [
+    [
+      16,
+      "mechanical disintegration"
+    ]
+  ],
+  "llm_review": [
+    [
+      16,
+      "oxidizer"
+    ],
+    [
+      16,
+      "pressure"
+    ],
+    [
+      16,
+      "thermal"
+    ]
+  ],
+  "correct_predictions": 0,
+  "false_predictions": 3,
+  "missed_predictions": 1,
+  "precision": 0.0,
+  "recall": 0.0,
+  "f1_score": 0,
+  "correct_items": [],
+  "false_items": [
+    [
+      16,
+      "oxidizer"
+    ],
+    [
+      16,
+      "pressure"
+    ],
+    [
+      16,
+      "thermal"
+    ]
+  ],
+  "missed_items": [
+    [
+      16,
+      "mechanical disintegration"
+    ]
+  ]
+}

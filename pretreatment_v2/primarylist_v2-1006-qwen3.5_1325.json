@@ -1,0 +1,12 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Organosolv pretreatment using ethanol (50% or 75%) with or without H2SO4 catalyst at temperatures of 120\u00b0C, 140\u00b0C, or 180\u00b0C for a duration of 60 minutes, followed by filtration, washing with 50% ethanol, drying at 40\u00b0C for 2 days, and solid recovery."
+    },
+    {
+      "id": 1,
+      "description": "Enzymatic hydrolysis of the recovered solids using a mixture of Cellic CTec2 and Cellic HTec2 enzymes at 45 \u00b1 1\u00b0C for 72 hours, followed by sugar concentration analysis."
+    }
+  ]
+}

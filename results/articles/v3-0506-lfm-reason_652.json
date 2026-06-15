@@ -1,0 +1,46 @@
+{
+  "manual_review": [
+    [
+      652,
+      "mechanical disintegration"
+    ],
+    [
+      652,
+      "alkaline"
+    ]
+  ],
+  "llm_review": [
+    [
+      652,
+      "ultrasonic"
+    ],
+    [
+      652,
+      "alkaline"
+    ]
+  ],
+  "correct_predictions": 1,
+  "false_predictions": 1,
+  "missed_predictions": 1,
+  "precision": 0.5,
+  "recall": 0.5,
+  "f1_score": 0.5,
+  "correct_items": [
+    [
+      652,
+      "alkaline"
+    ]
+  ],
+  "false_items": [
+    [
+      652,
+      "ultrasonic"
+    ]
+  ],
+  "missed_items": [
+    [
+      652,
+      "mechanical disintegration"
+    ]
+  ]
+}

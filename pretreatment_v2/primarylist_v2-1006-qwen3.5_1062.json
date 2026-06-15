@@ -1,0 +1,12 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Heat treatment (102 \u00b0C for 30 min) to kill methanogens and enhance hydrolysis"
+    },
+    {
+      "id": 1,
+      "description": "Alkali treatment (pH maintained at 10 with 4 M NaOH) to enhance hydrolysis and acidification while suppressing methanogens"
+    }
+  ]
+}

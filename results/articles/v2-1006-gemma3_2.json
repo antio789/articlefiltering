@@ -1,0 +1,73 @@
+{
+  "manual_review": [
+    [
+      2,
+      "thermal"
+    ],
+    [
+      2,
+      "mechanical disintegration"
+    ]
+  ],
+  "llm_review": [
+    [
+      2,
+      "thermal"
+    ],
+    [
+      2,
+      "mechanical disintegration"
+    ],
+    [
+      2,
+      "ultrasonic"
+    ],
+    [
+      2,
+      "alkaline"
+    ],
+    [
+      2,
+      "acidic"
+    ],
+    [
+      2,
+      "microbial consortium"
+    ]
+  ],
+  "correct_predictions": 2,
+  "false_predictions": 4,
+  "missed_predictions": 0,
+  "precision": 0.3333,
+  "recall": 1.0,
+  "f1_score": 0.5,
+  "correct_items": [
+    [
+      2,
+      "thermal"
+    ],
+    [
+      2,
+      "mechanical disintegration"
+    ]
+  ],
+  "false_items": [
+    [
+      2,
+      "ultrasonic"
+    ],
+    [
+      2,
+      "alkaline"
+    ],
+    [
+      2,
+      "acidic"
+    ],
+    [
+      2,
+      "microbial consortium"
+    ]
+  ],
+  "missed_items": []
+}

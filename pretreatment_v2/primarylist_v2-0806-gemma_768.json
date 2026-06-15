@@ -1,0 +1,24 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Mechanical grinding using an in-sink food disposer (Badger 9 model) with a strainer hole size of 0.75 cm."
+    },
+    {
+      "id": 1,
+      "description": "Mechanical grinding using a manual meat grinder (Grizzly H7778 No 32) with a medium extrusion plate opening of 1.0 cm."
+    },
+    {
+      "id": 2,
+      "description": "Mechanical grinding using a manual meat grinder (Grizzly H7778 No 32) with a small extrusion plate opening of 0.5 cm."
+    },
+    {
+      "id": 3,
+      "description": "Enzymatic hydrolysis using a commercial digestive enzyme formulation (Digest\u00ae) containing cellulases, amylases, proteases and lipases from Aspergillus niger and Aspergillus oryzae applied at a dosage rate of 1 g per 10 g of food waste."
+    },
+    {
+      "id": 4,
+      "description": "Dilution with a buffered aqueous solution (phosphate buffer: 0.5 M NaOH titrated into 0.5 M KH2PO4 to pH 6.5) to 3.5 g COD L\u22121."
+    }
+  ]
+}

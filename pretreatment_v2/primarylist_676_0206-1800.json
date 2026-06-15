@@ -1,0 +1,28 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "KOH pretreatment (1%, 2%, 3%, 4%) where concentrations varied from 1% to 4% mass fraction with 24 h reaction time at room temperature"
+    },
+    {
+      "id": 1,
+      "description": "Ca(OH)_2 pretreatment (3%, 4%) where 3% was selected as optimal dosage with 24 h reaction time at room temperature"
+    },
+    {
+      "id": 2,
+      "description": "NaOH pretreatment (4%) tested with 24 h reaction time at room temperature"
+    },
+    {
+      "id": 3,
+      "description": "AHP pretreatment (4%) adjusted to pH 11.5 with 24 h reaction time at room temperature"
+    },
+    {
+      "id": 4,
+      "description": "HCl pretreatment (3%) tested with 24 h reaction time at room temperature"
+    },
+    {
+      "id": 5,
+      "description": "Microwave (MW) pretreatment (300 W, 500 W, 700 W) tested under 10 min at room temperature with moisture content 95%"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Thermo-alkaline pretreatment: Plastic samples (50 g TS/L) were mixed with a NaOH solution (1% w/v) at a ratio of 50 g plastic to 1 L solution, heated to 70\u00b0C in a water bath for 48 hours. The treated samples were then divided into solid and liquid fractions using a 0.45 \u00b5m polyethersulfone (PES) membrane filter, with the solid fraction being rinsed with deionized water and dried using a vacuum freeze dryer."
+    },
+    {
+      "id": 1,
+      "description": "Mesophilic incubation (substrate only): Untreated and pretreated biodegradable plastic pellets (4 mm for PLA, 5 mm for PBAT, 2 cm x 2 cm for bags) and plastic bags (PL1 and PL2) were filled with 5 g VS each, inoculated with a mesophilic granular sludge (55\u00b0C incubated for 15 days, then supplemented with food waste slurry) in serum bottles (1 L), and incubated for 100 days at 35 \u00b1 1 \u00b0C. The bottles were manually shaken once daily. Samples were collected at day 40 (M40) and day 80 (M80)."
+    },
+    {
+      "id": 2,
+      "description": "Thermophilic incubation (substrate only): Untreated and pretreated biodegradable plastic pellets and bags were filled with 5 g VS each, inoculated with a thermophilic granular sludge (55\u00b0C incubated for 15 days, supplemented with food waste slurry) in serum bottles (1 L), and incubated for 100 days at 55 \u00b1 1 \u00b0C. The bottles were manually shaken once daily. Samples were collected at day 25 (T25) and day 60 (T60). Note: No PLA pellets, PLA-T, or PL2-T samples were successfully obtained from the digestate for this incubation period due to ineffective separation from the digestate."
+    },
+    {
+      "id": 3,
+      "description": "Batch experiment for inoculum control: Bottles containing only the mesophilic (35 \u00b1 1 \u00b0C) or thermophilic (55 \u00b1 1 \u00b0C) inoculum were incubated in serum bottles (1 L) to determine the contribution of inoculum to methane yield. These bottles were filled with 5 g VS of plastic, 165 mL of mesophilic or 192 mL of thermophilic inoculum (3 g VS/g VS ratio), water to 500 mL, sealed, and headspace flushed with nitrogen three times. Samples were taken on day 40 and day 80 for mesophilic, and day 25 and day 60 for thermophilic conditions."
+    }
+  ]
+}

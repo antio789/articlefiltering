@@ -1,0 +1,44 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Mechanical pretreatment: Food processor comminution of winery waste (WW), cotton gin waste (CGW), olive pomace (OP) and juice industry waste (JW) without drying."
+    },
+    {
+      "id": 1,
+      "description": "Chemical pretreatment with sodium hydroxide (NaOH), sodium bicarbonate (NaHCO_3), sodium chloride (NaCl), citric acid (H_3Cit), acetic acid (AcOH), hydrogen peroxide (H_2O_2), acetone (Me_2CO) and ethanol (EtOH) at varying dosages, process durations (1\u201324 h) and temperatures (25 and 90 \u00b0C)."
+    },
+    {
+      "id": 2,
+      "description": "Thermal pretreatment: Oven drying at 60 \u00b0C for cotton gin waste (CGW) and storage at \u221220 \u00b0C for winery waste (WW), olive pomace (OP) and juice industry waste (JW)."
+    },
+    {
+      "id": 3,
+      "description": "Centrifugation: Separation of solid and liquid fractions after pretreatment using centrifugation at 3900 rpm for 15 min."
+    },
+    {
+      "id": 4,
+      "description": "Filtration: Filtration of solid fractions through a 0.45 \u03bcm pore size membrane filter for sCOD and TPH concentration determination."
+    },
+    {
+      "id": 5,
+      "description": "Storage: Storage of solid samples at \u221220 \u00b0C until further use."
+    },
+    {
+      "id": 6,
+      "description": "pH measurement: Measurement of the final pH of the slurries after pretreatment."
+    },
+    {
+      "id": 7,
+      "description": "BMP assays: Conducting Biochemical Methane Potential (BMP) assays to determine the methane potential of pretreated samples."
+    },
+    {
+      "id": 8,
+      "description": "Analytical methods: Determination of TS, VS, C, H, N, S, and fiber composition (NDF, ADF, ADL) of the substrates and pretreated samples using standard analytical techniques."
+    },
+    {
+      "id": 9,
+      "description": "Methane volume measurement: Measurement of methane production by volume displacement using an 11.2% KOH solution."
+    }
+  ]
+}

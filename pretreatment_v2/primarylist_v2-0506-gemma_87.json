@@ -1,0 +1,40 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Drying at 45 \u00b0C for 24 h"
+    },
+    {
+      "id": 1,
+      "description": "Debarking"
+    },
+    {
+      "id": 2,
+      "description": "Cutting into small pieces using a carpentry chopper (Rasha WSH-T64, Iran)"
+    },
+    {
+      "id": 3,
+      "description": "Powdering using a grinder (Bosch MKM6003, Germany)"
+    },
+    {
+      "id": 4,
+      "description": "Screening using the Mesh 20 sieve"
+    },
+    {
+      "id": 5,
+      "description": "Sodium hydroxide (NaOH) pretreatment: presoaking in 8% wt. sodium hydroxide solution (95 g) at room temperature for 10 min with stirring; heating up to 100 \u00b0C using an oil bath (Memmert O200, Germany) and holding at this temperature for 10 min; cooling down in an ice bath; centrifugation at 4500 rpm for 15 min; washing with room temperature distilled water until pH of supernatant was close to neutral; freezing in liquid nitrogen and freeze-drying for 48 h"
+    },
+    {
+      "id": 6,
+      "description": "Liquid hot water (LHW) pretreatment: same steps as alkaline pretreatment using distilled water instead of alkaline solution; heating at high temperature and pressure using a high-pressure cooker"
+    },
+    {
+      "id": 7,
+      "description": "Biological pretreatment: aerobic digestion using the aerobic sludge at 37 \u00b0C and 90 rpm in a shaker incubator (JAL TAJHIZ, Iran) for 10 days"
+    },
+    {
+      "id": 8,
+      "description": "Ultrasonic pretreatment: incubation in an ultrasonic bath (Soltec SONICA 3200 L ETH S3, Italy, 180 W) at the frequency of 40 KHz for 30 min at 40 \u00b0C"
+    }
+  ]
+}

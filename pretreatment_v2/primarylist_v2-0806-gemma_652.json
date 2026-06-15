@@ -1,0 +1,16 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Mechanical grinding of corn stover to pass through a 5 mm sieve"
+    },
+    {
+      "id": 1,
+      "description": "Solid-state alkaline pretreatment using NaOH solution at concentrations of 0.25, 0.625, 1.25, and 1.85 M (corresponding to loadings of 1.0%, 2.5%, 5.0% and 7.5% w/w), kept at ambient temperature (20 \u00b1 0.5 \u00b0C) in sealed zipper plastic bags for 24 h"
+    },
+    {
+      "id": 2,
+      "description": "Simultaneous alkali treatment and digestion (SATD) using NaOH solution at concentrations of 0.25, 0.625, and 1.25 M mixed with effluent and immediately fed into the anaerobic digestion reactor"
+    }
+  ]
+}

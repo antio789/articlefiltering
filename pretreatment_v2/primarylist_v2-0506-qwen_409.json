@@ -1,0 +1,24 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Pretreatment using 2% KOH at a mass concentration of 2% (200 g/L) on Zucchini stem (ZS)."
+    },
+    {
+      "id": 1,
+      "description": "Pretreatment using 4% NaOH at a mass concentration of 4% (400 g/L) on Zucchini stem (ZS)."
+    },
+    {
+      "id": 2,
+      "description": "Pretreatment using 4% alkaline hydrogen peroxide (AHP) at a mass concentration of 4% (400 g/L) on Zucchini stem (ZS)."
+    },
+    {
+      "id": 3,
+      "description": "Combined pretreatment of Zucchini stem (ZS) with 11.5% NaOH adjusted pH."
+    },
+    {
+      "id": 4,
+      "description": "Combined pretreatment of Zucchini stem (ZS) with 11.5% alkaline hydrogen peroxide (AHP) adjusted pH."
+    }
+  ]
+}

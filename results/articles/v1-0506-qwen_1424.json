@@ -1,0 +1,126 @@
+{
+  "manual_review": [
+    [
+      1424,
+      "thermal"
+    ],
+    [
+      1424,
+      "alkaline"
+    ],
+    [
+      1424,
+      "oxidizer"
+    ]
+  ],
+  "llm_review": [
+    [
+      1424,
+      "thermal"
+    ],
+    [
+      1424,
+      "ultrasonic"
+    ],
+    [
+      1424,
+      "pressure"
+    ],
+    [
+      1424,
+      "electric"
+    ],
+    [
+      1424,
+      "acidic"
+    ],
+    [
+      1424,
+      "solvent"
+    ],
+    [
+      1424,
+      "enzyme"
+    ],
+    [
+      1424,
+      "fungi"
+    ],
+    [
+      1424,
+      "microbial consortium"
+    ],
+    [
+      1424,
+      "biological active substrate"
+    ],
+    [
+      1424,
+      "microaerobic"
+    ]
+  ],
+  "correct_predictions": 1,
+  "false_predictions": 10,
+  "missed_predictions": 2,
+  "precision": 0.0909,
+  "recall": 0.3333,
+  "f1_score": 0.1429,
+  "correct_items": [
+    [
+      1424,
+      "thermal"
+    ]
+  ],
+  "false_items": [
+    [
+      1424,
+      "ultrasonic"
+    ],
+    [
+      1424,
+      "pressure"
+    ],
+    [
+      1424,
+      "electric"
+    ],
+    [
+      1424,
+      "acidic"
+    ],
+    [
+      1424,
+      "solvent"
+    ],
+    [
+      1424,
+      "enzyme"
+    ],
+    [
+      1424,
+      "fungi"
+    ],
+    [
+      1424,
+      "microbial consortium"
+    ],
+    [
+      1424,
+      "biological active substrate"
+    ],
+    [
+      1424,
+      "microaerobic"
+    ]
+  ],
+  "missed_items": [
+    [
+      1424,
+      "alkaline"
+    ],
+    [
+      1424,
+      "oxidizer"
+    ]
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Milling of algal biomass using a modified Hollander beater machine (model Reina) with an elliptic water raceway, spinning blades at 580 RPM, and a bed-plate with sharp grooves, followed by high-pressure beat action, applied to both algal species and sludge to reduce particle size and increase specific surface area."
+    },
+    {
+      "id": 1,
+      "description": "Hydrogen peroxide (H2O2) treatment applied to digester sludge to improve dewaterability (reducing sludge volume by 30%) and destroy pathogens, alongside thermal treatment at an ideal temperature of 175 \u00b0C identified in literature."
+    },
+    {
+      "id": 2,
+      "description": "Low frequency ultrasound treatment at 37 \u00b0C applied to sludge particles for efficient disintegration to achieve extra biogas."
+    },
+    {
+      "id": 3,
+      "description": "Mechanical degradation via milling using the Hollander beater machine (modified Reina model) applied to macroalgal feedstock (Pelvetia Caniculata, Fucus Serratus, Gracilaria Gracilis, Fucus Vesiculosus, and Laminaria Digitata) to increase specific surface area and reduce particle sizes."
+    },
+    {
+      "id": 4,
+      "description": "Thermal treatment applied to digester sludge at an ideal temperature of 175 \u00b0C as identified in literature."
+    }
+  ]
+}

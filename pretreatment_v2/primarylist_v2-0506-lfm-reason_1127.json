@@ -1,0 +1,32 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Organosolv pretreatment"
+    },
+    {
+      "id": 1,
+      "description": "Hydrothermal pretreatment"
+    },
+    {
+      "id": 2,
+      "description": "Alkaline treatment (NaOH)"
+    },
+    {
+      "id": 3,
+      "description": "Acid treatment (H\u2082SO\u2084)"
+    },
+    {
+      "id": 4,
+      "description": "Steam explosion"
+    },
+    {
+      "id": 5,
+      "description": "Fungal pretreatment"
+    },
+    {
+      "id": 6,
+      "description": "Low-moisture ammonia treatment"
+    }
+  ]
+}

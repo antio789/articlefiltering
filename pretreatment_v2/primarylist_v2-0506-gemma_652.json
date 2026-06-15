@@ -1,0 +1,44 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Air-drying of corn stover to a moisture content less than 10%."
+    },
+    {
+      "id": 1,
+      "description": "Grinding of air-dried corn stover to pass through a 5 mm sieve."
+    },
+    {
+      "id": 2,
+      "description": "Solid-state alkaline pretreatment with NaOH solution (0.25 M) for 24 hours. Mixing of 200g corn stover with 200ml NaOH solution (1.0% w/w loading)."
+    },
+    {
+      "id": 3,
+      "description": "Solid-state alkaline pretreatment with NaOH solution (0.625 M) for 24 hours. Mixing of 200g corn stover with 200ml NaOH solution (2.5% w/w loading)."
+    },
+    {
+      "id": 4,
+      "description": "Solid-state alkaline pretreatment with NaOH solution (1.25 M) for 24 hours. Mixing of 200g corn stover with 200ml NaOH solution (5.0% w/w loading)."
+    },
+    {
+      "id": 5,
+      "description": "Solid-state alkaline pretreatment with NaOH solution (1.85 M) for 24 hours. Mixing of 200g corn stover with 200ml NaOH solution (7.5% w/w loading)."
+    },
+    {
+      "id": 6,
+      "description": "Solid-state anaerobic digestion of pretreated corn stover in SS-AD reactor with effluent of liquid AD as inoculum and nitrogen source. Digestion conditions: 37 \u00b0C for 40 days."
+    },
+    {
+      "id": 7,
+      "description": "Concurrent NaOH pretreatment and anaerobic digestion with simultaneous feeding of pretreated corn stover and effluent into SS-AD reactor. Digestion conditions: 37 \u00b0C for 40 days."
+    },
+    {
+      "id": 8,
+      "description": "Concurrent NaOH pretreatment and anaerobic digestion with simultaneous feeding of pretreated corn stover and effluent into SS-AD reactor. Digestion conditions: 37 \u00b0C for 40 days."
+    },
+    {
+      "id": 9,
+      "description": "Concurrent NaOH pretreatment and anaerobic digestion with simultaneous feeding of pretreated corn stover and effluent into SS-AD reactor. Digestion conditions: 37 \u00b0C for 40 days."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Mechanical disintegration: The wastewater sludge was shredded using a blender prior to addition into the reactors."
+    },
+    {
+      "id": 1,
+      "description": "Ultrasonic pre-treatment: Wastewater sludge samples were subjected to ultrasonication at 20 kHz, 70% amplitude, and 200 W power for 15 and 30 minutes, resulting in Specific Energies of 15,000 kJ/kg TS and 25,000 kJ/kg TS, respectively, to increase solubility and reduce particle size (d50 reduced by ~69-81%)."
+    },
+    {
+      "id": 2,
+      "description": "Microwave pre-treatment: Wastewater sludge samples were subjected to microwave thermal disintegration using a Microwave Digestion Unit (Berghoff Speedwave MWS-3+) at 175 \u00b0C and 2000 kPa for 30 minutes, optimizing the disintegration degree and specific energy input."
+    },
+    {
+      "id": 3,
+      "description": "Co-digestion process: Wastewater sludge and olive pomace were mixed in weight ratios of 1/1 (w/w basis) and fed into the anaerobic digesters in batch-fed reactors to adjust C/N ratios and enhance nutrient balance."
+    },
+    {
+      "id": 4,
+      "description": "Control treatment: Reactors R1 containing only inoculated sludge without substrate or pretreatment were used as a control baseline."
+    }
+  ]
+}

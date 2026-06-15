@@ -1,0 +1,121 @@
+{
+  "manual_review": [
+    [
+      588,
+      "thermal"
+    ],
+    [
+      588,
+      "acidic"
+    ]
+  ],
+  "llm_review": [
+    [
+      588,
+      "mechanical disintegration"
+    ],
+    [
+      588,
+      "thermal"
+    ],
+    [
+      588,
+      "pressure"
+    ],
+    [
+      588,
+      "electric"
+    ],
+    [
+      588,
+      "alkaline"
+    ],
+    [
+      588,
+      "acidic"
+    ],
+    [
+      588,
+      "solvent"
+    ],
+    [
+      588,
+      "enzyme"
+    ],
+    [
+      588,
+      "fungi"
+    ],
+    [
+      588,
+      "microbial consortium"
+    ],
+    [
+      588,
+      "biological active substrate"
+    ],
+    [
+      588,
+      "microaerobic"
+    ]
+  ],
+  "correct_predictions": 2,
+  "false_predictions": 10,
+  "missed_predictions": 0,
+  "precision": 0.1667,
+  "recall": 1.0,
+  "f1_score": 0.2857,
+  "correct_items": [
+    [
+      588,
+      "thermal"
+    ],
+    [
+      588,
+      "acidic"
+    ]
+  ],
+  "false_items": [
+    [
+      588,
+      "mechanical disintegration"
+    ],
+    [
+      588,
+      "pressure"
+    ],
+    [
+      588,
+      "electric"
+    ],
+    [
+      588,
+      "alkaline"
+    ],
+    [
+      588,
+      "solvent"
+    ],
+    [
+      588,
+      "enzyme"
+    ],
+    [
+      588,
+      "fungi"
+    ],
+    [
+      588,
+      "microbial consortium"
+    ],
+    [
+      588,
+      "biological active substrate"
+    ],
+    [
+      588,
+      "microaerobic"
+    ]
+  ],
+  "missed_items": []
+}

@@ -1,0 +1,28 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Shredding operation (I-PT) reduces particle size, enhancing digestibility."
+    },
+    {
+      "id": 1,
+      "description": "Mixing pretreatment (II-PT) homogenizes organic matter."
+    },
+    {
+      "id": 2,
+      "description": "Blending operation (III-PT) increases fine particle distribution."
+    },
+    {
+      "id": 3,
+      "description": "Hammer mill (HM3) achieves deep mechanical breakdown."
+    },
+    {
+      "id": 4,
+      "description": "Hammer mill (HM4) offers alternative mechanical degradation."
+    },
+    {
+      "id": 5,
+      "description": "Chain mill (CHSM) disrupts fiber structure effectively."
+    }
+  ]
+}

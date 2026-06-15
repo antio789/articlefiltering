@@ -1,0 +1,65 @@
+{
+  "manual_review": [
+    [
+      106,
+      "thermal"
+    ],
+    [
+      106,
+      "enzyme"
+    ],
+    [
+      106,
+      "nutrient"
+    ],
+    [
+      106,
+      "acidic"
+    ]
+  ],
+  "llm_review": [
+    [
+      106,
+      "ultrasonic"
+    ],
+    [
+      106,
+      "alkaline"
+    ]
+  ],
+  "correct_predictions": 0,
+  "false_predictions": 2,
+  "missed_predictions": 4,
+  "precision": 0.0,
+  "recall": 0.0,
+  "f1_score": 0,
+  "correct_items": [],
+  "false_items": [
+    [
+      106,
+      "ultrasonic"
+    ],
+    [
+      106,
+      "alkaline"
+    ]
+  ],
+  "missed_items": [
+    [
+      106,
+      "thermal"
+    ],
+    [
+      106,
+      "enzyme"
+    ],
+    [
+      106,
+      "nutrient"
+    ],
+    [
+      106,
+      "acidic"
+    ]
+  ]
+}

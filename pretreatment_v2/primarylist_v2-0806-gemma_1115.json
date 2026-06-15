@@ -1,0 +1,28 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Filtration with a 1 mm \u00d7 1 mm screen"
+    },
+    {
+      "id": 1,
+      "description": "Concentration by settling for approximately 24 h at 4 \u00b0C"
+    },
+    {
+      "id": 2,
+      "description": "Chemical oxidation using calcium peroxide (CaO2) at dosages of 0.05, 0.1, and 0.2 g/g VSS"
+    },
+    {
+      "id": 3,
+      "description": "Microwave (MW) irradiation with power outputs of 160, 320, and 480 W and durations of 2, 4, and 6 min"
+    },
+    {
+      "id": 4,
+      "description": "Chemical treatment using calcium hydroxide (Ca(OH)2) at a dosage of 0.05 g/gVSS"
+    },
+    {
+      "id": 5,
+      "description": "Chemical oxidation using liquid hydrogen peroxide (H2O2) at a dosage of 0.048 g/gVSS"
+    }
+  ]
+}

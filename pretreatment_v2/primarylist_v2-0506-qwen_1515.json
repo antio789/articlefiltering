@@ -1,0 +1,24 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Mechanical milling using an electric blender to grind the dried pine needles into a 20 mesh size slurry."
+    },
+    {
+      "id": 1,
+      "description": "Steam explosion treatment: Autoclaving the milled pine needles in a flask plugged with non-absorbent cotton at 121 \u00b0C for 30 minutes."
+    },
+    {
+      "id": 2,
+      "description": "Acid treatment: Exposure to hydrochloric acid (HCl) for 30 minutes."
+    },
+    {
+      "id": 3,
+      "description": "Base treatment: Exposure to sodium hydroxide (NaOH) for 30 minutes."
+    },
+    {
+      "id": 4,
+      "description": "Acid treatment: Repeated exposure to HCl for 30 minutes after the base treatment cycle."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Mechanical pretreatment: Cutting ZS into 3\u20135 mm pieces before use."
+    },
+    {
+      "id": 1,
+      "description": "2% KOH pretreatment: Mixing ZS with 2% KOH solution (mass concentration) for 24 h at room temperature, setting moisture content to 95%, and calculating weight ratios."
+    },
+    {
+      "id": 2,
+      "description": "4% NaOH pretreatment: Mixing ZS with 4% NaOH solution (mass concentration) for 24 h at room temperature, setting moisture content to 95%, and calculating weight ratios."
+    },
+    {
+      "id": 3,
+      "description": "4% AHP pretreatment: Adjusting the pH value of AHP solution to 11.5 by adding NaOH, mixing ZS with 4% AHP solution (mass concentration) for 24 h at room temperature, setting moisture content to 95%, and calculating weight ratios."
+    }
+  ]
+}

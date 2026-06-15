@@ -1,0 +1,24 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Ozone pretreatment performed at 5.3% ozone concentration (w/w) for 10 minutes using a Pacific Ozone generator, operating in a semi-continuous mode with 0.79 g O_3/g TS."
+    },
+    {
+      "id": 1,
+      "description": "Soaking aqueous ammonia (SAA) pretreatment using 28\u201330% (w/w) ammonium hydroxide solution at 50 \u00b0C for 24 hours with a solid-to-liquid ratio of 2:10, followed by washing with distilled water and drying at 50 \u00b0C."
+    },
+    {
+      "id": 2,
+      "description": "Ozone combined with SAA (OSAA) pretreatment, where ozone pretreatment (0.79 g O_3/g TS for 10 minutes) was followed by SAA pretreatment (28\u201330% ammonium hydroxide at 50 \u00b0C for 6 hours)."
+    },
+    {
+      "id": 3,
+      "description": "Size reduction treatment using a hammer mill to reduce grass particle size to less than 1 mm, followed by sieving to a size range of 0.354\u20130.5 mm for experiments."
+    },
+    {
+      "id": 4,
+      "description": "Mechanical grinding/drying process: The raw grass clippings were collected, dried at 60 \u00b0C for 24 hours, and then ground to a particle size of less than 1 mm in a hammer mill before being sieved for experimentation."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Microwave pretreatment (MP) involving irradiation with an electromagnetic field at 900 W and 2450 MHz, with varying treatment times from 1 to 60 minutes, and different microwave power levels from 90 W to 720 W. The substrate was placed in a polytetra fluoro ethylene sealed container with a 1:50 ratio of GMM to water. This process aimed to enhance the substrate lysis rate and increase biomethane yields."
+    },
+    {
+      "id": 1,
+      "description": "Surfactant microwave pretreatment (SMP) combining microwave pretreatment with the addition of sodium dodecylbenzene sulfonate (SDBS) as a surface active medium. The SDBS concentration ranged from 0.005 to 0.5 g/g TS, at an optimal MP conditions. The substrate was also placed in a polytetra fluoro ethylene sealed container with a 1:50 ratio of GMM to water. This treatment was performed at a fixed microwave power and treatment time, and was used to decrease the energy demand of microwave pretreatment and to achieve greater liquefaction for increased biomethane yield."
+    },
+    {
+      "id": 2,
+      "description": "Hydrolysis and acidogenesis study involving the use of sludge from an anaerobic digester as inoculum. The pretreated samples (MP and SMP) and the inoculum were placed in bottles at a 9:1 proportion, thermally treated at 102 \u00b0C for 30 minutes, and then treated with 2-bromoethyl sulfonic acid (BESA) to eliminate oxygen. The samples were then incubated at 35 \u00b0C with orbital shaking at 110 rpm for 72 hours."
+    },
+    {
+      "id": 3,
+      "description": "Biochemical methane potential (BMP) study utilizing rumen fluid as inoculum and GMM samples. The BMP study was conducted in 2L bottles with a 3:1 ratio of rumen fluid to GMM samples, incubated at 35 \u00b0C with orbital shaking at 110 rpm. The biogas content was measured using gas chromatography with a thermal conductivity detector and porapak Q column."
+    }
+  ]
+}

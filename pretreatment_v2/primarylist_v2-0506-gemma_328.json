@@ -1,0 +1,56 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Electrohydrolysis pretreatment: Application of DC current through PPMS slurry, resulting in electrophoresis, ohmic heating, and electroosmosis, leading to particle disintegration and microbial cell lysis. The applied voltage varied from 10 to 15 V, and the time of exposure ranged from 45 minutes. The process involved the movement of electrolyte towards electrodes due to DC current, generating ohmic heating and electroosmosis."
+    },
+    {
+      "id": 1,
+      "description": "Cow dung inoculum: Use of cow dung collected from a farm as an inoculum for the batch anaerobic digestion study."
+    },
+    {
+      "id": 2,
+      "description": "Slurry preparation: Mixing of PPMS with distilled water in a 1:3 ratio to create a slurry form, facilitating the DC current application and preventing clogging."
+    },
+    {
+      "id": 3,
+      "description": "Flash mixing: Use of a rotating flash mixer at 300 rpm to keep the PPMS slurry in suspension during the electrohydrolysis pretreatment."
+    },
+    {
+      "id": 4,
+      "description": "Control: Use of untreated PPMS as a control sample for comparison with the electrohydrolysis pretreated PPMS."
+    },
+    {
+      "id": 5,
+      "description": "Batch anaerobic biodegradability tests: Performance of batch reactor tests to assess the rate and extent of anaerobic biodegradation of both untreated and electrohydrolysis pretreated PPMS."
+    },
+    {
+      "id": 6,
+      "description": "Nutrient addition: Addition of essential macro and micro nutrients to the anaerobic reactors to support microbial growth and activity."
+    },
+    {
+      "id": 7,
+      "description": "Nitrogen purging: Purging of the anaerobic reactors with nitrogen to create an anaerobic environment."
+    },
+    {
+      "id": 8,
+      "description": "CO2 and H2S absorption: Coupling of the anaerobic reactors with an aspirator bottle containing 1.5 N NaOH solution to absorb CO2 and H2S and displace NaOH solution, representing methane (CH4) production."
+    },
+    {
+      "id": 9,
+      "description": "Temperature maintenance: Maintaining the temperature of the anaerobic reactors between 30 and 38 \u00b0C."
+    },
+    {
+      "id": 10,
+      "description": "Manual mixing: Performing manual mixing of the anaerobic reactors three to four times per day."
+    },
+    {
+      "id": 11,
+      "description": "Analytical measurements: Conducting analytical measurements of pH, sCOD, total solids, moisture content, volatile solids, and VFAs using standard protocols (APHA 2005)."
+    },
+    {
+      "id": 12,
+      "description": "Instrumental characterization: Performing instrumental analysis including FESEM, XRD, and FT-IR spectroscopy to study the structural changes in PPMS before and after pretreatment."
+    }
+  ]
+}

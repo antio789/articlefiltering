@@ -1,0 +1,24 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Thermal-pretreatment conducted at 30 min at 50 \u00b0C using a water bath (CW-10G, Jeio Tech); at 80 \u00b0C with a water bath; at 120 \u00b0C using an autoclave (HAC-045, LK LabKorea)."
+    },
+    {
+      "id": 1,
+      "description": "Ultrasonic-pretreatment conducted for 30, 90, and 180 seconds on an ultrasonicator (VCX-130, Vibra-Cell) of 130 W."
+    },
+    {
+      "id": 2,
+      "description": "Alkali-pretreatment adjusted to pH 9, 11, and 13 using 5 N NaOH."
+    },
+    {
+      "id": 3,
+      "description": "Pre-treatment during substrate sample preparation involving sedimentation and centrifugation (5 min, 3000 rpm) of harvested microalgae biomass to separate solid and liquid phases."
+    },
+    {
+      "id": 4,
+      "description": "Pretreatment involving pH adjustment of the initial mixture to pH 10.2 (likely due to mixing conditions) before the BMP test, though this is not explicitly termed a 'pretreatment' method in the text, it affects the substrate properties."
+    }
+  ]
+}

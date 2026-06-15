@@ -1,0 +1,28 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Hydrothermal pretreatment (HP) by autohydrolysis of sugarcane bagasse at 183 \u00b0C for 41 min with a liquid-to-solid ratio (LSR) of 3.94 mL g^-1."
+    },
+    {
+      "id": 1,
+      "description": "Mechanical degradation using a hydraulic press at 9 tons pressure to extract hemicelluloses hydrolysate."
+    },
+    {
+      "id": 2,
+      "description": "Grinding in a Wiley mill to pass through a 40-mesh (0.42 mm) sieve."
+    },
+    {
+      "id": 3,
+      "description": "Alkaline extraction (AE) using an aqueous 0.2 mol L^-1 NaOH solution at an LSR of 10 mL g^-1 in a blunt-bladed blender at 2,800 rpm for 30 s."
+    },
+    {
+      "id": 4,
+      "description": "Advanced oxidative pretreatment (AOP) using aqueous H2O2 and NaOH to adjust pH to 11.6, with conditions optimized via Doehlert experimental design (varying H2O2 load from 0.3 to 3.0 g_H2O2 g_SB^-1, LSR from 5 to 25 mL g^-1, and reaction time from 1 to 8 h) at 25 \u00b0C with stirring at 150 rpm."
+    },
+    {
+      "id": 5,
+      "description": "Mechanical deconstruction of cellulose pulp fibers using a blunt-bladed blender operated at 2,800 rpm for 30 s after AOP."
+    }
+  ]
+}

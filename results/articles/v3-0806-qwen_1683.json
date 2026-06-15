@@ -1,0 +1,93 @@
+{
+  "manual_review": [
+    [
+      1683,
+      "mechanical disintegration"
+    ],
+    [
+      1683,
+      "microbial consortium"
+    ],
+    [
+      1683,
+      "enzyme"
+    ],
+    [
+      1683,
+      "acidic"
+    ],
+    [
+      1683,
+      "thermal"
+    ]
+  ],
+  "llm_review": [
+    [
+      1683,
+      "mechanical disintegration"
+    ],
+    [
+      1683,
+      "thermal"
+    ],
+    [
+      1683,
+      "pressure"
+    ],
+    [
+      1683,
+      "acidic"
+    ],
+    [
+      1683,
+      "oxidizer"
+    ],
+    [
+      1683,
+      "enzyme"
+    ],
+    [
+      1683,
+      "microbial consortium"
+    ]
+  ],
+  "correct_predictions": 5,
+  "false_predictions": 2,
+  "missed_predictions": 0,
+  "precision": 0.7143,
+  "recall": 1.0,
+  "f1_score": 0.8333,
+  "correct_items": [
+    [
+      1683,
+      "mechanical disintegration"
+    ],
+    [
+      1683,
+      "thermal"
+    ],
+    [
+      1683,
+      "acidic"
+    ],
+    [
+      1683,
+      "enzyme"
+    ],
+    [
+      1683,
+      "microbial consortium"
+    ]
+  ],
+  "false_items": [
+    [
+      1683,
+      "pressure"
+    ],
+    [
+      1683,
+      "oxidizer"
+    ]
+  ],
+  "missed_items": []
+}

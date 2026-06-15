@@ -1,0 +1,32 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Concentrated phosphoric acid pretreatment, involving heating the substrate with 83\u201385.9% phosphoric acid in a water bath at 50\u00b0C for 50 minutes, followed by washing with cold acetone, distilled water, and acetone washing to neutralize pH and remove solvents."
+    },
+    {
+      "id": 1,
+      "description": "Organosolv pretreatment, involving mixing the substrate with 75% v/v ethanol and sulfuric acid (1% w/w) in a stainless steel reactor at 150\u00b0C for 30 minutes, followed by separation, neutralization, drying at 40\u00b0C, and storage."
+    },
+    {
+      "id": 2,
+      "description": "Dilute sulfuric acid pretreatment, involving mixing the substrate with 0.5% w/w sulfuric acid in a 500 mL reactor at 140\u00b0C for 5 minutes, followed by separation, washing with distilled water, neutralization, and drying at 40\u00b0C."
+    },
+    {
+      "id": 3,
+      "description": "Acid pretreatment (mechanical degradation), involving grinding the substrates into small pieces (<2 cm), drying at room temperature, and screening to achieve powder with particle size between 295 and 833 \u00b5m."
+    },
+    {
+      "id": 4,
+      "description": "Steam pretreatment, involving steaming the spruce wastes at 220\u00b0C for a time duration to improve carbohydrate enzymatic hydrolysis yield."
+    },
+    {
+      "id": 5,
+      "description": "Alkali pretreatment, involving the use of NaOH, thiourea, urea, and polyethylene glycol at \u221215\u00b0C to improve biogas yield from hardwood and spruce."
+    },
+    {
+      "id": 6,
+      "description": "N-methylmorpholine-N-oxide (NMMO) pretreatment, involving using an industrial solvent at 130\u00b0C for 15 hours to improve biogas production from spruce."
+    }
+  ]
+}

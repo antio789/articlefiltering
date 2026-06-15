@@ -1,0 +1,20 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Bacterial disintegration using Bacillus jerish 03 and Bacillus jerish 04 strains, involving enzyme secretion (protease and amylase) to degrade the sludge matrix and solubilize organic matter. The process was carried out at 40 \u00b0C with constant mixing for a period of 42 hours."
+    },
+    {
+      "id": 1,
+      "description": "Photocatalytic deflocculation using TiO2 nanoparticles (0.01 to 0.1 g/g SS) under solar radiation (15 min intervals), resulting in the disruption of exopolymer networks and release of biopolymers (protein, carbohydrate, and DNA)."
+    },
+    {
+      "id": 2,
+      "description": "Deflocculation using TiO2/chitosan nanocomposite thin film (TCTF) placed on the sludge under solar radiation for 1 hour, facilitating the dispersion of sludge aggregates and promoting the release of exopolymers."
+    },
+    {
+      "id": 3,
+      "description": "Batch anaerobic assay performed in serum bottles under mesophilic conditions (37 \u00b1 1 \u00b0C) with a 3:1 inoculum to substrate ratio, used to assess methane production from the treated sludge."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "CaO2 oxidation combined with MW irradiation. 450 mL of sludge were first mixed well with CaO2 for 2 min, then exposed to MW irradiation, after which the treated sludge samples were cooled to room temperature for subsequent use. The dosages of CaO2 were 0.05, 0.1, and 0.2 g/gVSS. MW power was 160, 320, and 480 W, and MW irradiation time was 2, 4, and 6 min."
+    },
+    {
+      "id": 1,
+      "description": "MW irradiation (480 W, 2 min) combined with H2O2. The dosages of H2O2 were 0.048 g/gVSS. CaO_2 and Ca(OH)_2 were added to the sludge samples to produce H_2O_2."
+    },
+    {
+      "id": 2,
+      "description": "MW irradiation (480 W, 2 min) combined with Ca(OH)2. The dosages of Ca(OH)_2 were 0.05 g/gVSS."
+    },
+    {
+      "id": 3,
+      "description": "MW irradiation (480 W, 2 min) combined with CaO2. The dosages of CaO2 were 0.05, 0.1, and 0.2 g/gVSS."
+    },
+    {
+      "id": 4,
+      "description": "Sole MW treatment. MW power was 480 W and MW irradiation time was 2 min."
+    },
+    {
+      "id": 5,
+      "description": "CaO2 treatment. The dosages of CaO2 were 0.05, 0.1, and 0.2 g/gVSS."
+    },
+    {
+      "id": 6,
+      "description": "Ca(OH)2 treatment. The dosages of Ca(OH)2 were 0.05 g/gVSS."
+    },
+    {
+      "id": 7,
+      "description": "H2O2 treatment. The dosages of H2O2 were 0.048 g/gVSS."
+    }
+  ]
+}

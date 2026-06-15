@@ -1,0 +1,16 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Physical mixing using mechanical (MM) and pneu-mechanical (PMM) mixers to distribute nutrients, shape a suspension of liquid and solid parts, avoid sedimentation, ensure uniform heat distribution, and prevent foam formation to facilitate gas lift from the fermentation substrate."
+    },
+    {
+      "id": 1,
+      "description": "Anaerobic incubation of the diluted substrates in N299% air-tight glass reactors for 5 days before co-digestion."
+    },
+    {
+      "id": 2,
+      "description": "Chemical pretreatment involving mixing the substrates (cow manure, municipal waste, and kitchen waste) with different amounts of NaOH and H2O2 in airtight glass reactors to determine optimal mixing proportions and chemical pretreatment factors."
+    }
+  ]
+}

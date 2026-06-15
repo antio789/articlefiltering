@@ -1,0 +1,57 @@
+{
+  "manual_review": [
+    [
+      815,
+      "mechanical disintegration"
+    ]
+  ],
+  "llm_review": [
+    [
+      815,
+      "thermal"
+    ],
+    [
+      815,
+      "ultrasonic"
+    ],
+    [
+      815,
+      "oxidizer"
+    ],
+    [
+      815,
+      "alkaline"
+    ]
+  ],
+  "correct_predictions": 0,
+  "false_predictions": 4,
+  "missed_predictions": 1,
+  "precision": 0.0,
+  "recall": 0.0,
+  "f1_score": 0,
+  "correct_items": [],
+  "false_items": [
+    [
+      815,
+      "thermal"
+    ],
+    [
+      815,
+      "ultrasonic"
+    ],
+    [
+      815,
+      "oxidizer"
+    ],
+    [
+      815,
+      "alkaline"
+    ]
+  ],
+  "missed_items": [
+    [
+      815,
+      "mechanical disintegration"
+    ]
+  ]
+}

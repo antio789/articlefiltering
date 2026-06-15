@@ -1,0 +1,20 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Mechanical grinding of grass waste to a particle size of less than 1 mm using a hammer mill and sieving through a 32\u201342 mesh to select particles of 0.354\u20130.5 mm."
+    },
+    {
+      "id": 1,
+      "description": "Ozone pretreatment: grass particles (adjusted for moisture 90% w/w) placed in an enclosed stainless steel reactor with 1 cm bed height and operated in semi-continuous mode under 5.3% ozone concentration at a flow rate of 2000 ml/min for 10 min, with an ozone dose of 0.79 g O3/g TS."
+    },
+    {
+      "id": 2,
+      "description": "Soaking aqueous ammonia (SAA) pretreatment: soaking grass waste particles in 28\u201330% (w/w) ammonium hydroxide solution with a solid to liquid ratio of 2:10 at 50 \u00b0C for 24 h without agitation."
+    },
+    {
+      "id": 3,
+      "description": "Size reduction: milling and sieving grass waste particles through a 42 mesh Tyler Standard Screen Scale to obtain particles with a size less than 0.354 mm."
+    }
+  ]
+}

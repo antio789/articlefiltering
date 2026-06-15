@@ -1,0 +1,12 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Mechanical grinding (maceration) utilizing an in-sink food disposer (Badger 9 model) and a manual meat grinder (Grizzly H7778 No 32) to disrupt cell tissues and increase substrate surface area for solubilization. The methods represent bench-scale analogues of commercial-scale equipment to simulate high-rate anaerobic digestion substrate preparation."
+    },
+    {
+      "id": 1,
+      "description": "Enzymatic hydrolysis applying a commercial digestive enzyme formulation containing cellulases, amylases, proteases, and lipases (derived from Aspergillus niger and Aspergillus oryzae) in excess to mechanically ground food waste. This maximizes the rate of enzymatic hydrolysis, contributing 29-31% of solubilized TCOD within 4 hours when combined with endogenous solubilization."
+    }
+  ]
+}

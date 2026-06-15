@@ -1,0 +1,57 @@
+{
+  "manual_review": [
+    [
+      625,
+      "mechanical disintegration"
+    ],
+    [
+      625,
+      "ultrasonic"
+    ],
+    [
+      625,
+      "alkaline"
+    ]
+  ],
+  "llm_review": [
+    [
+      625,
+      "biological active substrate"
+    ],
+    [
+      625,
+      "microbial consortium"
+    ]
+  ],
+  "correct_predictions": 0,
+  "false_predictions": 2,
+  "missed_predictions": 3,
+  "precision": 0.0,
+  "recall": 0.0,
+  "f1_score": 0,
+  "correct_items": [],
+  "false_items": [
+    [
+      625,
+      "biological active substrate"
+    ],
+    [
+      625,
+      "microbial consortium"
+    ]
+  ],
+  "missed_items": [
+    [
+      625,
+      "mechanical disintegration"
+    ],
+    [
+      625,
+      "ultrasonic"
+    ],
+    [
+      625,
+      "alkaline"
+    ]
+  ]
+}

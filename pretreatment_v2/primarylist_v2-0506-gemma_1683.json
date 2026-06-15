@@ -1,0 +1,28 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Milling and Grinding: Two rounds of shredding and grinding to reduce the size of particles, followed by screening to achieve a final particle size of 3 \u00b1 0.5 mm. This involved mechanical conveyance to the pretreatment section."
+    },
+    {
+      "id": 1,
+      "description": "Biological Pretreatment: Joint action of native microbiota (Clostridium, Lactobacillus, and Enterobacter) primarily hydrolyzing xylan into volatile fatty acids (acetic acid). Simulated solely as acetic acid."
+    },
+    {
+      "id": 2,
+      "description": "Enzymatic Pretreatment: Action of Cellulase 50XL enzyme cocktail (293 EGU/g) in 50 mM citrate buffer pH 6, releasing glucose, galactose, arabinose, and other sugars (69% COD)."
+    },
+    {
+      "id": 3,
+      "description": "Dilute Acid Pretreatment: Solubilization of all xylan and partially cellulose in 1.8% HCl under soft operating conditions, recovering sugars and eliminating inhibitors (furfural, hydroxymethylfurfural, and phenols)."
+    },
+    {
+      "id": 4,
+      "description": "Steam Explosion Pretreatment: Solubilization of xylan producing a mixture of sugars and acetic acid at 116 \u00b0C-15 min, generating low concentrations of furfural (0.7 g/L) and hydroxymethylfurfural (0.12 g/L)."
+    },
+    {
+      "id": 5,
+      "description": "No Pretreatment: Direct methanization of Agave bagasse after milling, with the digestate used to produce power."
+    }
+  ]
+}

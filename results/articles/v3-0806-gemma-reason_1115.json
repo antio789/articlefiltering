@@ -1,0 +1,52 @@
+{
+  "manual_review": [
+    [
+      1115,
+      "oxidizer"
+    ],
+    [
+      1115,
+      "alkaline"
+    ],
+    [
+      1115,
+      "thermal"
+    ]
+  ],
+  "llm_review": [
+    [
+      1115,
+      "thermal"
+    ],
+    [
+      1115,
+      "alkaline"
+    ],
+    [
+      1115,
+      "oxidizer"
+    ]
+  ],
+  "correct_predictions": 3,
+  "false_predictions": 0,
+  "missed_predictions": 0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1_score": 1.0,
+  "correct_items": [
+    [
+      1115,
+      "thermal"
+    ],
+    [
+      1115,
+      "alkaline"
+    ],
+    [
+      1115,
+      "oxidizer"
+    ]
+  ],
+  "false_items": [],
+  "missed_items": []
+}

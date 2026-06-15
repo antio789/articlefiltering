@@ -1,0 +1,20 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Chopping of wheat straw into 5\u201310 cm pieces"
+    },
+    {
+      "id": 1,
+      "description": "Crushing of wheat straw to a mesh size of 5-10 mm"
+    },
+    {
+      "id": 2,
+      "description": "Ultrasonic assisted potassium hydroxide pretreatment (KOH_Upt) with 2%, 4%, or 6% (w/w) KOH concentrations"
+    },
+    {
+      "id": 3,
+      "description": "Batch anaerobic digestion test with untreated and KOH_Upt WS"
+    }
+  ]
+}

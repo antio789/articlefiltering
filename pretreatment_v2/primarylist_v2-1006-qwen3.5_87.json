@@ -1,0 +1,36 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "LHW + NaOH pretreatment"
+    },
+    {
+      "id": 1,
+      "description": "LHW + Biological pretreatment"
+    },
+    {
+      "id": 2,
+      "description": "LHW + Ultrasonic pretreatment"
+    },
+    {
+      "id": 3,
+      "description": "NaOH + Biological pretreatment"
+    },
+    {
+      "id": 4,
+      "description": "NaOH + Ultrasonic pretreatment"
+    },
+    {
+      "id": 5,
+      "description": "Ultrasound + Biological pretreatment"
+    },
+    {
+      "id": 6,
+      "description": "Ultrasound + NaOH pretreatment"
+    },
+    {
+      "id": 7,
+      "description": "LHW + NaOH + Ultrasonic pretreatment"
+    }
+  ]
+}

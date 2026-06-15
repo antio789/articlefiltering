@@ -1,0 +1,113 @@
+{
+  "manual_review": [
+    [
+      1749,
+      "thermal"
+    ],
+    [
+      1749,
+      "alkaline"
+    ]
+  ],
+  "llm_review": [
+    [
+      1749,
+      "mechanical disintegration"
+    ],
+    [
+      1749,
+      "thermal"
+    ],
+    [
+      1749,
+      "ultrasonic"
+    ],
+    [
+      1749,
+      "pressure"
+    ],
+    [
+      1749,
+      "alkaline"
+    ],
+    [
+      1749,
+      "acidic"
+    ],
+    [
+      1749,
+      "oxidizer"
+    ],
+    [
+      1749,
+      "enzyme"
+    ],
+    [
+      1749,
+      "fungi"
+    ],
+    [
+      1749,
+      "microbial consortium"
+    ],
+    [
+      1749,
+      "microaerobic"
+    ]
+  ],
+  "correct_predictions": 2,
+  "false_predictions": 9,
+  "missed_predictions": 0,
+  "precision": 0.1818,
+  "recall": 1.0,
+  "f1_score": 0.3077,
+  "correct_items": [
+    [
+      1749,
+      "thermal"
+    ],
+    [
+      1749,
+      "alkaline"
+    ]
+  ],
+  "false_items": [
+    [
+      1749,
+      "mechanical disintegration"
+    ],
+    [
+      1749,
+      "ultrasonic"
+    ],
+    [
+      1749,
+      "pressure"
+    ],
+    [
+      1749,
+      "acidic"
+    ],
+    [
+      1749,
+      "oxidizer"
+    ],
+    [
+      1749,
+      "enzyme"
+    ],
+    [
+      1749,
+      "fungi"
+    ],
+    [
+      1749,
+      "microbial consortium"
+    ],
+    [
+      1749,
+      "microaerobic"
+    ]
+  ],
+  "missed_items": []
+}

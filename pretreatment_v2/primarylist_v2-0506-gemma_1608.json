@@ -1,0 +1,52 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "LHW pretreatment (liquid-to-solid ratio of 1:10, 100 mL pressure bottle, 121 \u00b0C for 60 min)"
+    },
+    {
+      "id": 1,
+      "description": "60% ethanol pretreatment (100 mL pressure bottle, 1:10 solid-to-liquid ratio, 121 \u00b0C for 60 min)"
+    },
+    {
+      "id": 2,
+      "description": "1% H_2SO_4 pretreatment (100 mL pressure bottle, 1:10 solid-to-liquid ratio, 121 \u00b0C for 60 min)"
+    },
+    {
+      "id": 3,
+      "description": "0.5% NaOH pretreatment (100 mL pressure bottle, 1:10 solid-to-liquid ratio, 121 \u00b0C for 60 min)"
+    },
+    {
+      "id": 4,
+      "description": "Surfactant-assisted LHW pretreatment (PEG 6000, Triton X-100 or Tween 80, 1.5% (w/v) dose, 100 mL pressure bottle, 121 \u00b0C for 60 min)"
+    },
+    {
+      "id": 5,
+      "description": "Surfactant-assisted 60% ethanol pretreatment (PEG 6000, Triton X-100 or Tween 80, 1.5% (w/v) dose, 100 mL pressure bottle, 121 \u00b0C for 60 min)"
+    },
+    {
+      "id": 6,
+      "description": "Surfactant-assisted 1% H_2SO_4 pretreatment (PEG 6000, Triton X-100 or Tween 80, 1.5% (w/v) dose, 100 mL pressure bottle, 121 \u00b0C for 60 min)"
+    },
+    {
+      "id": 7,
+      "description": "Surfactant-assisted 0.5% NaOH pretreatment (PEG 6000, Triton X-100 or Tween 80, 1.5% (w/v) dose, 100 mL pressure bottle, 121 \u00b0C for 60 min)"
+    },
+    {
+      "id": 8,
+      "description": "PEG 6000-assisted H_2SO_4 pretreatment (PEG 6000 (0\u20131.5 %, w/v)-assisted H_2SO_4 (1\u20133%, w/v) pretreatments)"
+    },
+    {
+      "id": 9,
+      "description": "PEG 6000-assisted H_2SO_4 pretreatment (PEG 6000 (0\u20131.5 %, w/v)-assisted H_2SO_4 (1\u20133%, w/v) pretreatments)"
+    },
+    {
+      "id": 10,
+      "description": "PEG 6000-assisted H_2SO_4 pretreatment (PEG 6000 (0\u20131.5 %, w/v)-assisted H_2SO_4 (1\u20133%, w/v) pretreatments)"
+    },
+    {
+      "id": 11,
+      "description": "PEG 6000-assisted H_2SO_4 pretreatment (PEG 6000 (0\u20131.5 %, w/v)-assisted H_2SO_4 (1\u20133%, w/v) pretreatments)"
+    }
+  ]
+}

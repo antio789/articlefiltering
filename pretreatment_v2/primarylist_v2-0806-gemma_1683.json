@@ -1,0 +1,28 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Biomass conditioning consisting of two rounds of shredding and grinding to reduce particle size, followed by screening to reach a final size of 3 \u00b1 0.5 mm and hydration in a tank."
+    },
+    {
+      "id": 1,
+      "description": "Biological pretreatment based on the joint action of native microbiota (Clostridium, Lactobacillus, and Enterobacter) of Agave bagasse to hydrolyze xylan into volatile fatty acids."
+    },
+    {
+      "id": 2,
+      "description": "Enzymatic pretreatment using a commercial enzyme cocktail, Cellulase 50XL, at a dose of 293 endoglucanase units (EGU)/g of bagasse in a 50 mM citrate buffer pH 6."
+    },
+    {
+      "id": 3,
+      "description": "Dilute acid pretreatment using 1.8 % HCl under soft operating conditions to solubilize xylan and partially cellulose."
+    },
+    {
+      "id": 4,
+      "description": "Steam explosion pretreatment performed in a plug flow reactor coupled to a flask tank for instant depressurization to solubilize xylan."
+    },
+    {
+      "id": 5,
+      "description": "Thermal treatment as part of the steam explosion and dilute acid processes (specifically mentioned temperatures such as 116 \u00b0C, 152 \u00b0C for steam explosion and 100 \u00b0C, 119 \u00b0C for dilute acid)."
+    }
+  ]
+}

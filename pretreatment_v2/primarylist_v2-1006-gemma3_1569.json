@@ -1,0 +1,16 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Ultrasonic pre-treatment using an ultrasonic homogeniser (Bandelin-Sonopuls HD 3400) at the frequency of 20 kHz, 70% amplitude and a supplied power of 200 W for 15 minutes."
+    },
+    {
+      "id": 1,
+      "description": "Ultrasonic pre-treatment using an ultrasonic homogeniser (Bandelin-Sonopuls HD 3400) at the frequency of 20 kHz, 70% amplitude and a supplied power of 200 W for 30 minutes."
+    },
+    {
+      "id": 2,
+      "description": "Thermal disintegration using a Microwave (MW) Digestion Unit (Berghoff Speedwave MWS-3+) with a staged temperature profile. Applied pressures to reach these temperatures are in the range of 600\u20132500 kPa. Microwave pre-treatment was applied to the sludge samples for 30 min at 175 \u00b0C and 2000 kPa."
+    }
+  ]
+}

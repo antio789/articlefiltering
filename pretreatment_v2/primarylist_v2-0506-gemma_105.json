@@ -1,0 +1,44 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Dewatering of sludge using a belt filter press to a water content of approximately 80%."
+    },
+    {
+      "id": 1,
+      "description": "Dilution of dewatered sludge with deionized water to achieve a TS content of 15%."
+    },
+    {
+      "id": 2,
+      "description": "Thermal treatment at temperatures between 50 \u00b0C and 80 \u00b0C for durations ranging from 15 to 90 min, using a controlled thermostatic water bath."
+    },
+    {
+      "id": 3,
+      "description": "Rapid cooling of thermally treated sludge to 33 \u00b0C immediately after thermal treatment using cold water."
+    },
+    {
+      "id": 4,
+      "description": "Measurement of sludge viscosity using a rate-controlled viscometer (Searle system) at various shear rates."
+    },
+    {
+      "id": 5,
+      "description": "Batch anaerobic digestion experiments conducted in bottles with a 1:1 ratio of inoculum VS to substrate VS (R_I/S = 0.7) at mesophilic conditions (35 \u00b1 2 \u00b0C, 60 times per minute shaking)."
+    },
+    {
+      "id": 6,
+      "description": "Semi-continuous HSAD experiments conducted in a pilot-scale digester with intermittent stirring (3 h stirring and 3 h off) at 35 \u00b1 2 \u00b0C and varying SRTs (22 days and 15 days)."
+    },
+    {
+      "id": 7,
+      "description": "Monitoring of biogas production and digestion time during batch and semi-continuous anaerobic digestion experiments."
+    },
+    {
+      "id": 8,
+      "description": "Measurement of physical and chemical parameters (TS, VS, COD, TAN, FAN, ALK, TP, C/N ratio) of the sludge and digestate."
+    },
+    {
+      "id": 9,
+      "description": "Evaluation of the release of soluble organic substances (SCOD) and VFAs during thermal treatment."
+    }
+  ]
+}

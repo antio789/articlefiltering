@@ -1,0 +1,24 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Size reduction by hammer mill to particle size of less than 1 mm, followed by sieving through a 32\u201342 mesh (Tyler Standard Screen Scale) to select particles of 0.354\u20130.5 mm."
+    },
+    {
+      "id": 1,
+      "description": "Ozone pretreatment: Ozone produced by a L11\u2013L24 Ozone Generator manufactured by Pacific Ozone, CA, USA. The grass particles (3 g) were adjusted for moisture (90% w/w) and placed into an enclosed stainless steel reactor, with a 1 cm bed height to ensure equal contact time between all particles with ozone and operated in a semi-continuous mode. The ozonation reaction was performed under 5.3% ozone concentration (w/w) at a flow rate of 2000 ml/min for 10 min. Ozone dose was 0.79 g O3/g TS."
+    },
+    {
+      "id": 2,
+      "description": "Soaking aqueous ammonia (SAA) pretreatment: Grass waste particles were pretreated by soaking aqueous ammonia (SAA) using 28\u201330% (w/w) ammonium hydroxide solution (JTB-9721-03), with a solid to liquid ratio of 2:10 at 50 \u00b0C for 24 h without agitation in the 1000 ml screw cap Pyrex solution bottle. After completion of incubation, the grass was washed twice thoroughly with distilled water to reach a neutral pH. The obtained cake was dried at 50 \u00b0C."
+    },
+    {
+      "id": 3,
+      "description": "Ozone combined with SAA (OSAA) pretreatment: Grass waste (32\u201342 mesh) was pretreated by the aforementioned ozone pretreatment (Section 2.3.1) for 10 min and followed by SAA pretreatment (Section 2.3.2) for 6 h. The resulting material was used for further investigation."
+    },
+    {
+      "id": 4,
+      "description": "Addition of 10 mM Sodium 2-bromoethanesulfonate (C_2H_4BrNaO_3S) to inhibit methanogenic bacteria."
+    }
+  ]
+}

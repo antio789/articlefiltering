@@ -1,0 +1,20 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Mechanical degradation: zucchini stem was cut into 3\u20135 mm pieces."
+    },
+    {
+      "id": 1,
+      "description": "Chemical pretreatment with 2% KOH (mass concentration), stored at room temperature for 24 h with a moisture content of 95%."
+    },
+    {
+      "id": 2,
+      "description": "Chemical pretreatment with 4% NaOH (mass concentration), stored at room temperature for 24 h with a moisture content of 95%."
+    },
+    {
+      "id": 3,
+      "description": "Chemical pretreatment with 4% alkaline hydrogen peroxide (AHP) (mass concentration), with pH value adjusted to 11.5 by adding NaOH, stored at room temperature for 24 h with a moisture content of 95%."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Sterilization by autoclaving with 945 ml water at 121 \u00b0C for 30 min prior to enzymatic liquefaction."
+    },
+    {
+      "id": 1,
+      "description": "Enzymatic liquefaction and saccharification of duckweed in four 2-L flasks using alpha-amylase, glucoamylase, and cellulase, followed by pH adjustment and saccharification at 50 \u00b0C."
+    },
+    {
+      "id": 2,
+      "description": "Liquid hot water pretreatment in a 500 ml stainless steel Parr reactor using nitrogen pressurization to 150 \u00b0C."
+    }
+  ]
+}

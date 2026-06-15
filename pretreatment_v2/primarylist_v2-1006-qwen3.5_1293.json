@@ -1,0 +1,16 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Physical grinding: The wood was debarked, cut, and grinded to achieve a relatively homogeneous size of less than 1 mm (20 mesh)."
+    },
+    {
+      "id": 1,
+      "description": "Physical milling (implied): The text mentions that milling was shown to improve enzymatic hydrolysis and is a typical process before most other pretreatments, but no specific mill conditions were detailed."
+    },
+    {
+      "id": 2,
+      "description": "Chemical alkali pretreatment (NaOH treatment): A 5 g sample of milled pine wood was mixed with 95 g NaOH solution (8% w/w) and incubated for 10, 30, or 60 minutes at either 0 \u00b0C or 100 \u00b0C."
+    }
+  ]
+}

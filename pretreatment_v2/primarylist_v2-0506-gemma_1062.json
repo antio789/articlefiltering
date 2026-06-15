@@ -1,0 +1,16 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Heat pretreatment: The waste activated sludge was heated at 102 \u00b0C for 30 min to kill most methanogens."
+    },
+    {
+      "id": 1,
+      "description": "Alkali pretreatment: 4 M NaOH was added to maintain the pH of all serum bottles at 10 during the digestion."
+    },
+    {
+      "id": 2,
+      "description": "ZVI addition: 200 mL of the sludge was added into five 250 mL serum bottles, respectively. Five dosage levels of ZVI powder (0, 1, 2, 5 and 10 g/L) were added into the five serum bottles above, respectively."
+    }
+  ]
+}

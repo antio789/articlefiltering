@@ -1,0 +1,113 @@
+{
+  "manual_review": [
+    [
+      485,
+      "mechanical disintegration"
+    ],
+    [
+      485,
+      "pressure"
+    ]
+  ],
+  "llm_review": [
+    [
+      485,
+      "mechanical disintegration"
+    ],
+    [
+      485,
+      "thermal"
+    ],
+    [
+      485,
+      "ultrasonic"
+    ],
+    [
+      485,
+      "pressure"
+    ],
+    [
+      485,
+      "electric"
+    ],
+    [
+      485,
+      "alkaline"
+    ],
+    [
+      485,
+      "acidic"
+    ],
+    [
+      485,
+      "oxidizer"
+    ],
+    [
+      485,
+      "solvent"
+    ],
+    [
+      485,
+      "microbial consortium"
+    ],
+    [
+      485,
+      "microaerobic"
+    ]
+  ],
+  "correct_predictions": 2,
+  "false_predictions": 9,
+  "missed_predictions": 0,
+  "precision": 0.1818,
+  "recall": 1.0,
+  "f1_score": 0.3077,
+  "correct_items": [
+    [
+      485,
+      "mechanical disintegration"
+    ],
+    [
+      485,
+      "pressure"
+    ]
+  ],
+  "false_items": [
+    [
+      485,
+      "thermal"
+    ],
+    [
+      485,
+      "ultrasonic"
+    ],
+    [
+      485,
+      "electric"
+    ],
+    [
+      485,
+      "alkaline"
+    ],
+    [
+      485,
+      "acidic"
+    ],
+    [
+      485,
+      "oxidizer"
+    ],
+    [
+      485,
+      "solvent"
+    ],
+    [
+      485,
+      "microbial consortium"
+    ],
+    [
+      485,
+      "microaerobic"
+    ]
+  ],
+  "missed_items": []
+}

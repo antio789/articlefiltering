@@ -1,0 +1,12 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Solar photocatalytic deflocculation using TiO2/chitosan thin film (TCTF) embedded in the sludge substrate. This treatment involves impregnating TiO2 nanoparticles into a chitosan nanocomposite matrix, followed by solar irradiation to facilitate exopolymer (EPS) removal. The process utilizes an optimized dosage of TiO2 (0.05 g/g SS) and chitosan to disrupt microbial aggregates, reduce turbidity, and expose microbial cells for subsequent enzymatic action. The deflocculation efficiency was optimized to ensure complete disruption of EPS layers, resulting in a 99.35% deflocculation degree within 25 minutes, which allows for effective exposure of microbial cells for bacterial disintegration."
+    },
+    {
+      "id": 1,
+      "description": "Enzyme secreting bacterial disintegration of deflocculated sludge. This pretreatment utilizes specific bacterial strains isolated and identified as Bacillus jerish 03 (Accession number: KC597266) and Bacillus jerish 04 (Accession number: KC597267). The treated sludge is incubated at 40 \u00b0C under constant mixing for 42 hours at a pH of 6.5. This process releases protease and amylase enzymes from the bacterial cells to solubilize particulate organic matter. The treatment significantly enhances SS reduction from 3914.58 mg/L to 3500 mg/L, increases COD solubilization efficiency to 16%, and promotes maximum intracellular substance release (Protein: 452.48 mg/L, Carbohydrate: 290.88 mg/L) before anaerobic digestion."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "KOH chemical pretreatment"
+    },
+    {
+      "id": 1,
+      "description": "Ca(OH)\u2082 alkaline hydrogen peroxide"
+    },
+    {
+      "id": 2,
+      "description": "NaOH alkaline solution"
+    },
+    {
+      "id": 3,
+      "description": "AHP enzymatic treatment"
+    },
+    {
+      "id": 4,
+      "description": "HCl acidic pretreatment"
+    },
+    {
+      "id": 5,
+      "description": "Microwave (MW) thermal treatment"
+    }
+  ]
+}

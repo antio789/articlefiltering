@@ -1,0 +1,16 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Concentrated phosphoric acid pretreatment was performed on substrates at 50 \u00b0C for 50 min using 83\u201385.9 % phosphoric acid, followed by centrifugation and washing with distilled water to remove excess acid, followed by drying and storage."
+    },
+    {
+      "id": 1,
+      "description": "Organosolv pretreatment involved mixing the substrate with 75 % v/v ethanol at 150 \u00b0C for 30 min with 1 % sulfuric acid catalyst, followed by separation, washing with distilled water, and storage at room temperature."
+    },
+    {
+      "id": 2,
+      "description": "Dilute acid pretreatment consisted of mixing the substrate with 0.5 % sulfuric acid solution (solid to liquid ratio 1:10) at 140 \u00b0C for 5 min, followed by separation, washing with distilled water, and storage."
+    }
+  ]
+}

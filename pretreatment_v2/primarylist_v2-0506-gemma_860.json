@@ -1,0 +1,16 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Thermal pretreatment at 50 \u00b0C for 30 min, followed by 80 \u00b0C for 30 min, and finally 120 \u00b0C for 30 min using a water bath. Also, thermal pretreatment at 120 \u00b0C for 30 min using an autoclave."
+    },
+    {
+      "id": 1,
+      "description": "Ultrasonic pretreatment for 30, 90, or 180 s using an ultrasonicator (VCX-130) with a power of 130 W."
+    },
+    {
+      "id": 2,
+      "description": "Alkali pretreatment adjusted to pH 9, 11, or 13 using 5 N NaOH."
+    }
+  ]
+}

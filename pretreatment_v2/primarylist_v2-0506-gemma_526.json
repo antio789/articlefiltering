@@ -1,0 +1,16 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Ultrasonication: Application of an ultrasonicator with a frequency of 20 kHz (VCX-750, Sonics and Materials, USA) for 5, 10, 20, 40, and 60 min. Parameters included 750 W power and 40% amplitude. This method was used to disintegrate sludge cells by generating microbubbles and high-temperature/pressure gradients."
+    },
+    {
+      "id": 1,
+      "description": "Alkaline Pretreatment: Addition of a 6 mol/L KOH solution to 300 mL of excess sludge, resulting in pH values of 9, 10, 11, 12, and 13. The samples were mixed for 1 h using a magnetic stirrer at 200 rpm, with continuous addition of alkaline solution to maintain the desired pH levels. This treatment aimed to disrupt cell walls and increase the solubility of organic matter."
+    },
+    {
+      "id": 2,
+      "description": "Combined (Alkaline + Ultrasonic) Pretreatment: Combination of alkaline pretreatment (pH 9, 11, and 13) with ultrasonication. Specifically, alkali-pretreated sludge at pH 9, 11, and 13 for 1 h was ultrasonicated for 5, 20, and 60 min, resulting in 9 different combinations. This combined approach aimed to synergistically disrupt cell walls and enhance solubilization."
+    }
+  ]
+}

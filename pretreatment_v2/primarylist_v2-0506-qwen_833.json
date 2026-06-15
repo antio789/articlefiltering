@@ -1,0 +1,16 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Thermophilic Pretreatment (TPP) with varying temperatures (50, 60, 70, and 80 \u00b0C) for a varying duration (12, 24, 36, and 48 hours). The substrate and inoculum were mixed in BMP bottles, incubated at the selected temperature for the specified time, and then the temperature was reduced to mesophilic (35 \u00b1 2 \u00b0C) conditions. The inoculum was added after the TPP treatment and incubated at mesophilic conditions. This method was used to determine the most favorable temperature range and treatment time for pathogen inactivation while enhancing hydrolysis. It also served as the reference for the thermophilic pretreatment (TPP) scenario in the second series of experiments."
+    },
+    {
+      "id": 1,
+      "description": "Conventional Thermal Pretreatment (CTP) with varying temperatures (50, 55, and 60 \u00b0C) for a varying duration (6 and 12 hours). Only the Food Waste (FW) substrate was placed inside the BMP bottles and directly placed in the incubator for the selected time, with the inoculum added later and incubated at mesophilic conditions. This method was used to compare the efficiency of thermophilic pretreatment (TPP) against conventional thermal pretreatment (CTP) at different temperatures and treatment times."
+    },
+    {
+      "id": 2,
+      "description": "No pretreatment (Control/Mesophilic AD only). The substrate was prepared fresh, the inoculum was added after the BMP test, and the mixture was incubated at mesophilic conditions (35 \u00b1 2 \u00b0C) for the full duration of the batch experiment without any prior heating of the substrate. This served as the baseline for comparison."
+    }
+  ]
+}

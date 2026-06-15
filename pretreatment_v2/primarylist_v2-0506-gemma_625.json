@@ -1,0 +1,64 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Chopping of wheat straw into 5-10 cm pieces."
+    },
+    {
+      "id": 1,
+      "description": "Crushing of chopped wheat straw to a mesh size of 5-10 mm using a hammer mill."
+    },
+    {
+      "id": 2,
+      "description": "Ultrasonic assisted potassium hydroxide pretreatment (KOH_Upt) with 2%, 4%, or 6% (w/w) KOH concentrations."
+    },
+    {
+      "id": 3,
+      "description": "Ultrasonic assisted potassium hydroxide pretreatment (KOH_Upt) with 2%, 4%, or 6% (w/w) KOH concentrations, operated at 22 \u00b1 1 \u00b0C and 20 kHz intensity."
+    },
+    {
+      "id": 4,
+      "description": "Batch anaerobic digestion test with untreated and KOH_Upt WS, operating at 35 \u00b1 1 \u00b0C and maintaining a 0.3 inoculum to substrate ratio (I/S)."
+    },
+    {
+      "id": 5,
+      "description": "Measurement of total solid (TS), volatile solid (VS), total alkalinity (TA), and total ammonia nitrogen (TAN) using APHA standards."
+    },
+    {
+      "id": 6,
+      "description": "Fiber analysis of pretreated samples using an ANKOM A2000i fiber analyzer, according to VanSoest et al. method."
+    },
+    {
+      "id": 7,
+      "description": "Daily biogas production measurement using water displacement method."
+    },
+    {
+      "id": 8,
+      "description": "Gas chromatography analysis of daily biogas samples to determine methane content."
+    },
+    {
+      "id": 9,
+      "description": "Centrifugation of liquid KOH_Upt samples to obtain liquid supernatants for TVFA analysis."
+    },
+    {
+      "id": 10,
+      "description": "Gas chromatography analysis of liquid supernatants to determine total volatile fatty acid (TVFA) composition."
+    },
+    {
+      "id": 11,
+      "description": "Scanning electron microscope (SEM) analysis and Fourier transform infrared (FTIR) spectroscopy of untreated and KOH_Upt samples."
+    },
+    {
+      "id": 12,
+      "description": "Calculation of theoretical methane yield (TMY) using Buswell's equation."
+    },
+    {
+      "id": 13,
+      "description": "Determination of biodegradability (B_d) using EMY and TMY data."
+    },
+    {
+      "id": 14,
+      "description": "Modified Gompertz model analysis to compare EMY values with model predictions."
+    }
+  ]
+}

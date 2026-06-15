@@ -1,0 +1,44 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Sodium hydroxide-catalyzed organosolv pretreatment of Napier grass, involving mixing 10 g of dried Napier grass with 100 mL of 50% (v/v) aqueous ethanol containing 1% (w/w) NaOH as a catalyst, heated at 190 \u00b0C for 60 min, followed by washing with 50% (v/v) aqueous ethanol and distilled water until pH reached 7.0."
+    },
+    {
+      "id": 1,
+      "description": "Sulfuric acid-catalyzed organosolv pretreatment of Napier grass, involving mixing 10 g of dried Napier grass with 100 mL of 50% (v/v) aqueous ethanol containing 1% (w/w) H2SO4 as a catalyst, heated at 190 \u00b0C for 60 min, followed by washing with 50% (v/v) aqueous ethanol and distilled water until pH reached 7.0."
+    },
+    {
+      "id": 2,
+      "description": "Sulfuric acid-catalyzed hydrothermal pretreatment of Napier grass, involving mixing 10 g of dried Napier grass with distilled water and 1% (w/w) H2SO4 as a catalyst, heated at 190 \u00b0C for 60 min (same heating process as organosolv), followed by washing with distilled water until pH reached 7.0."
+    },
+    {
+      "id": 3,
+      "description": "Auto-catalyzed organosolv pretreatment of Napier grass, involving mixing 10 g of dried Napier grass with 100 mL of 50% (v/v) aqueous ethanol containing no added catalyst (auto-catalyzed), heated at 190 \u00b0C for 60 min, followed by washing with 50% (v/v) aqueous ethanol and distilled water until pH reached 7.0."
+    },
+    {
+      "id": 4,
+      "description": "Auto-catalyzed hydrothermal pretreatment of Napier grass, involving mixing 10 g of dried Napier grass with distilled water, heated at 190 \u00b0C for 60 min (same heating process as organosolv), followed by washing with distilled water until pH reached 7.0."
+    },
+    {
+      "id": 5,
+      "description": "Sodium hydroxide-catalyzed organosolv pretreatment of Napier silage, involving mixing 10 g of dried Napier silage with 100 mL of 50% (v/v) aqueous ethanol containing 1% (w/w) NaOH as a catalyst, heated at 190 \u00b0C for 60 min, followed by washing with 50% (v/v) aqueous ethanol and distilled water until pH reached 7.0."
+    },
+    {
+      "id": 6,
+      "description": "Sulfuric acid-catalyzed organosolv pretreatment of Napier silage, involving mixing 10 g of dried Napier silage with 100 mL of 50% (v/v) aqueous ethanol containing 1% (w/w) H2SO4 as a catalyst, heated at 190 \u00b0C for 60 min, followed by washing with 50% (v/v) aqueous ethanol and distilled water until pH reached 7.0."
+    },
+    {
+      "id": 7,
+      "description": "Auto-catalyzed organosolv pretreatment of Napier silage, involving mixing 10 g of dried Napier silage with 100 mL of 50% (v/v) aqueous ethanol containing no added catalyst (auto-catalyzed), heated at 190 \u00b0C for 60 min, followed by washing with 50% (v/v) aqueous ethanol and distilled water until pH reached 7.0."
+    },
+    {
+      "id": 8,
+      "description": "Auto-catalyzed hydrothermal pretreatment of Napier silage, involving mixing 10 g of dried Napier silage with distilled water, heated at 190 \u00b0C for 60 min (same heating process as organosolv), followed by washing with distilled water until pH reached 7.0."
+    },
+    {
+      "id": 9,
+      "description": "Drying of Napier grass and Napier silage in a hot air oven at 60 \u00b0C overnight before chemical pretreatment."
+    }
+  ]
+}

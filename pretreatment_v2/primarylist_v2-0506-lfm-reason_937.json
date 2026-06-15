@@ -1,0 +1,16 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Organosolv pretreatment"
+    },
+    {
+      "id": 1,
+      "description": "Hydrothermal pretreatment"
+    },
+    {
+      "id": 2,
+      "description": "Combined organosolv and hydrothermal with enzyme pretreatment"
+    }
+  ]
+}

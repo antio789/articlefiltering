@@ -1,0 +1,24 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Mechanical degradation: pinewood was cut into small pieces using a carpentry chopper (Rasha WSH-T64) and then powdered using a grinder (Bosch MKM6003) and screened using a Mesh 20 sieve."
+    },
+    {
+      "id": 1,
+      "description": "Sodium hydroxide (NaOH) pretreatment: presoaking pinewood in 8% wt. sodium hydroxide solution at room temperature for 10 min with stirring, followed by heating to 100 \u00b0C in a stainless steel reactor for 10 min."
+    },
+    {
+      "id": 2,
+      "description": "Liquid hot water (LHW) pretreatment: pinewood was processed using distilled water instead of alkaline solution, following the same steps as NaOH pretreatment (heating to 100 \u00b0C for 10 min)."
+    },
+    {
+      "id": 3,
+      "description": "Biological pretreatment (aerobic digestion): addition of 20 mL aerobic sludge and 5 mL tap water to pinewood (untreated or pretreated) at 37 \u00b0C and 90 rpm in a shaker incubator for 10 days."
+    },
+    {
+      "id": 4,
+      "description": "Ultrasonic pretreatment: incubation of substrates/slurry in an ultrasonic bath at a frequency of 40 KHz for 30 min at 40 \u00b0C with a power of 180 W."
+    }
+  ]
+}

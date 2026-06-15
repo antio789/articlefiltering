@@ -1,0 +1,49 @@
+{
+  "manual_review": [
+    [
+      833,
+      "mechanical disintegration"
+    ],
+    [
+      833,
+      "thermal"
+    ]
+  ],
+  "llm_review": [
+    [
+      833,
+      "thermal"
+    ],
+    [
+      833,
+      "mechanical disintegration"
+    ],
+    [
+      833,
+      "ultrasonic"
+    ]
+  ],
+  "correct_predictions": 2,
+  "false_predictions": 1,
+  "missed_predictions": 0,
+  "precision": 0.6667,
+  "recall": 1.0,
+  "f1_score": 0.8,
+  "correct_items": [
+    [
+      833,
+      "thermal"
+    ],
+    [
+      833,
+      "mechanical disintegration"
+    ]
+  ],
+  "false_items": [
+    [
+      833,
+      "ultrasonic"
+    ]
+  ],
+  "missed_items": []
+}

@@ -1,0 +1,16 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Ultrasonication with varying power levels and times (5, 10, 20, 40, and 60 minutes) at 20 kHz frequency."
+    },
+    {
+      "id": 1,
+      "description": "Alkaline pretreatment using 6 mol/L KOH solution to achieve pH values of 9, 10, 11, 12, and 13 for 1 hour."
+    },
+    {
+      "id": 2,
+      "description": "Combined pretreatment where alkali-pretreated sludge at pH 9, 11, or 13 (1 hour) was subsequently ultrasonicated for 5, 20, or 60 minutes."
+    }
+  ]
+}

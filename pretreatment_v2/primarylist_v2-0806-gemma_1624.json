@@ -1,0 +1,28 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Sterilization by autoclaving with water for 30 min at 121 \u00b0C"
+    },
+    {
+      "id": 1,
+      "description": "pH adjustment to 7.0 \u00b1 0.1 using 2 M hydrochloric acid"
+    },
+    {
+      "id": 2,
+      "description": "Enzymatic liquefaction using \u03b1-amylase (5000 units g starch\u22121) at 90 \u00b0C for one hour"
+    },
+    {
+      "id": 3,
+      "description": "pH adjustment to 5.2 \u00b1 0.1 with sodium citrate buffer (25 mM)"
+    },
+    {
+      "id": 4,
+      "description": "Enzymatic saccharification using glucoamylase (334 units g starch\u22121) and cellulase (60 filter paper unit g cellulose\u22121) at 50 \u00b0C with mixing at 120 rpm for 24 h"
+    },
+    {
+      "id": 5,
+      "description": "Liquid hot water pretreatment in a stainless steel Parr reactor at 150 \u00b0C with pressurization using nitrogen gas for 5 min"
+    }
+  ]
+}

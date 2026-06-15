@@ -1,0 +1,52 @@
+{
+  "manual_review": [
+    [
+      1293,
+      "mechanical disintegration"
+    ],
+    [
+      1293,
+      "thermal"
+    ],
+    [
+      1293,
+      "alkaline"
+    ]
+  ],
+  "llm_review": [
+    [
+      1293,
+      "mechanical disintegration"
+    ],
+    [
+      1293,
+      "alkaline"
+    ],
+    [
+      1293,
+      "thermal"
+    ]
+  ],
+  "correct_predictions": 3,
+  "false_predictions": 0,
+  "missed_predictions": 0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1_score": 1.0,
+  "correct_items": [
+    [
+      1293,
+      "mechanical disintegration"
+    ],
+    [
+      1293,
+      "alkaline"
+    ],
+    [
+      1293,
+      "thermal"
+    ]
+  ],
+  "false_items": [],
+  "missed_items": []
+}

@@ -1,0 +1,32 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Freezing/thawing technique: samples frozen at -20 \u00b0C or -80 \u00b0C for 48 h and subsequently thawed for 24 h at 6 \u00b0C."
+    },
+    {
+      "id": 1,
+      "description": "Chemical alkaline treatment with NaOH: soaking fresh GP in chemical agent concentrations of 6% and 10% w/w dry basis at ambient temperature (20 \u00b1 1 \u00b0C) for 24 h with continuous shaking at 150 rpm, followed by neutralization to pH 7.5."
+    },
+    {
+      "id": 2,
+      "description": "Chemical alkaline treatment with NH3: soaking fresh GP in chemical agent concentrations of 6% and 10% w/w dry basis at ambient temperature (20 \u00b1 1 \u00b0C) for 24 h with continuous shaking at 150 rpm, followed by neutralization to pH 7.5."
+    },
+    {
+      "id": 3,
+      "description": "Chemical acid treatment with HCl: soaking fresh GP in chemical agent concentrations of 6% and 10% w/w dry basis at ambient temperature (20 \u00b1 1 \u00b0C) for 24 h with continuous shaking at 150 rpm, followed by neutralization to pH 7.5."
+    },
+    {
+      "id": 4,
+      "description": "Pulsed Electric Fields (PEF) treatment: application of rectangular monopolar trains with a voltage of 3600 V cm-1 and pulse duration of 50 \u00b5s at frequencies between 24\u2013240 Hz, with energy inputs of 41 kJ kg-1 (Z0.5) and 153 kJ kg-1 (Z1)."
+    },
+    {
+      "id": 5,
+      "description": "Ultrasounds (US) treatment: sonication at a frequency of 50 kHz and effective power output of 60 W for durations of 40 min (Z0.5) or 70 min (Z1), with energy inputs of 400 kJ kg-1 and 700 kJ kg-1 respectively."
+    },
+    {
+      "id": 6,
+      "description": "Mechanical degradation via grinding: use of a blender (Waring blender 8011EG) at a speed of 22,000 rpm for 10 minutes to reduce particle size."
+    }
+  ]
+}

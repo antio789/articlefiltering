@@ -1,0 +1,32 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Dilution of olive pomace (OP) and olive mill wastewaters (OMWW) mixture with tap water to a Total Solid (TS) concentration of approximately 120 g/L."
+    },
+    {
+      "id": 1,
+      "description": "Basic pretreatment (BP) consisting of the addition of 2 N NaOH to the substrate until a pH of 12 is reached, followed by stirring at 70 rpm for 24 h at 30 \u00b1 1 \u00b0C and subsequent neutralization with 2 N HCl."
+    },
+    {
+      "id": 2,
+      "description": "Salt pretreatment using FeSO4 (SP_FeII), consisting of pre-acid cracking with 2 N HCl to pH 2, mixing for 30 min at 70 rpm, addition of FeSO4 to achieve a concentration of 5 g/L, stirring at 70 rpm and 30 \u00b1 1 \u00b0C for 24 h, and neutralization with 2 N NaOH."
+    },
+    {
+      "id": 3,
+      "description": "Salt pretreatment using FeCl3 (SP_FeIII), consisting of pre-acid cracking with 2 N HCl to pH 2, mixing for 30 min at 70 rpm, addition of FeCl3 to achieve a concentration of 5 g/L, stirring at 70 rpm and 30 \u00b1 1 \u00b0C for 24 h, and neutralization with 2 N NaOH."
+    },
+    {
+      "id": 4,
+      "description": "Salt pretreatment using MnSO4 (SP_Mn), consisting of pre-acid cracking with 2 N HCl to pH 2, mixing for 30 min at 70 rpm, addition of MnSO4.H2O to achieve a concentration of 5 g/L, stirring at 70 rpm and 30 \u00b1 1 \u00b0C for 24 h, and neutralization with 2 N NaOH."
+    },
+    {
+      "id": 5,
+      "description": "Salt pretreatment using CaCO3 (SP_Ca), consisting of addition of CaCO3 to achieve a concentration of 5 g/L, stirring at 70 rpm and 30 \u00b1 1 \u00b0C for 24 h, and pH adjustment to approximately 7 using 2 N NaOH."
+    },
+    {
+      "id": 6,
+      "description": "Ultrasonic pretreatment (USP) carried out in an ultrasonic bath at 30 \u00b0C and atmospheric pressure with 1.8 kW of power for energy doses of either 750 kJ/L or 8000 kJ/L."
+    }
+  ]
+}

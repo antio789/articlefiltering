@@ -1,0 +1,16 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Dilute citric acid pretreatment of sugarcane bagasse with temperature (T), time (t), and percentage by weight of citric acid (PCA) as operational variables, using a 2^3 Doehlert experimental design (DED) with five replicates at the center point (CP) and investigating conditions of 120 to 180 \u00b0C, 20 to 90 min, and 3 to 12 wt% PCA. The pretreatment was carried out in a pressurized system using a 316L-grade stainless steel tubular reactor (autoclave type) with 150 mL of aqueous citric acid solution, followed by cooling in an ice-water bath and pressing to separate the solid (SF) and liquid (BL) fractions. The solid fraction was characterized in terms of yield and chemical composition (cellulose, lignin, and hemicelluloses) and used in enzymatic hydrolysis. The liquid fraction was stored in hermetically sealed containers in a freezer."
+    },
+    {
+      "id": 1,
+      "description": "Enzymatic hydrolysis assays with operational parameters (temperature of 45\u201350 \u00b0C and pH of 5.0\u20135.5) using Cellic\u00ae CTec 3 HS cocktail, with an FPase activity (Filter paper activity) of 264 FPU g^\u22121, and a minimal of 1.700 BHU (Biomass Hydrolysis Units - BHU(2)-HS) per gram of product. The liquid-to-solid ratio used in the tests was 10 mL g^\u22121, with 1.0 g of solid fraction (dry basis) for each test. The enzyme concentration was fixed at 10 FPU g^\u22121. The hydrolysates were filtered and centrifuged, and the liquid fractions were submitted to HPLC analysis for quantification of sugars (glucose, xylose, and arabinose), organic acids (acetic acid and formic acid) and furans (2-furfuraldehyde (FF) and 5-hydroxymethyl-2-furfuraldehyde (HMF))."
+    },
+    {
+      "id": 2,
+      "description": "Anaerobic digestion assays with the BL fraction obtained from dilute citric acid pretreatment of SCB and the RSF generated after enzymatic hydrolysis of pretreated SCB, performed under mesophilic conditions (35.1 \u00b1 0.3 \u00b0C) and 200 rpm in 120 mL glass bottles. The F/I ratio was maintained at 0.4 gVS gVS^\u22121. The inoculum was taken from a UASB mesophilic reactor fed with domestic sewage. The chemical oxygen demand (COD) and volatile solids (VS) of the inoculum and the RSF sample were determined."
+    }
+  ]
+}

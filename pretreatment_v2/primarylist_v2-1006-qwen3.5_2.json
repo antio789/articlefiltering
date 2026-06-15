@@ -1,0 +1,24 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Physical mechanical preparation of the substrate, including harvesting, air drying, breaking with a paper cutter, sieving (20-40 mesh), vacuum packaging to prevent degradation, and subsequent washing with distilled water before drying."
+    },
+    {
+      "id": 1,
+      "description": "Hydrothermal pretreatment at 125\u00b0C for 30 minutes, followed by cooling to room temperature and subsequent washing with distilled water."
+    },
+    {
+      "id": 2,
+      "description": "Hydrothermal pretreatment at 150\u00b0C for 30 minutes, followed by cooling to room temperature and subsequent washing with distilled water."
+    },
+    {
+      "id": 3,
+      "description": "Hydrothermal pretreatment at 175\u00b0C for 30 minutes, followed by cooling to room temperature and subsequent washing with distilled water."
+    },
+    {
+      "id": 4,
+      "description": "Hydrothermal pretreatment at 200\u00b0C for 30 minutes, followed by cooling to room temperature and subsequent washing with distilled water."
+    }
+  ]
+}

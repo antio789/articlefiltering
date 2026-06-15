@@ -1,0 +1,52 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Organosolv pretreatment with ethanol (50% v/v) and H2SO4 (1% w/w) at 190\u00b0C for 15, 30, 45, or 60 minutes. The pretreated solids were washed with ethanol and distilled water until pH 7.0."
+    },
+    {
+      "id": 1,
+      "description": "Organosolv pretreatment with ethanol (50% v/v) and H2SO4 (1% w/w) at 190\u00b0C for 15, 30, 45, or 60 minutes. The pretreated solids were washed with ethanol and distilled water until pH 7.0."
+    },
+    {
+      "id": 2,
+      "description": "Organosolv pretreatment with ethanol (50% v/v) and HCl (1% w/w) at 190\u00b0C for 15, 30, 45, or 60 minutes. The pretreated solids were washed with ethanol and distilled water until pH 7.0."
+    },
+    {
+      "id": 3,
+      "description": "Organosolv pretreatment with ethanol (50% v/v) and CH3COOH (1% w/w) at 190\u00b0C for 15, 30, 45, or 60 minutes. The pretreated solids were washed with ethanol and distilled water until pH 7.0."
+    },
+    {
+      "id": 4,
+      "description": "Organosolv pretreatment with ethanol (50% v/v) and NaOH (1% w/w) at 190\u00b0C for 15, 30, 45, or 60 minutes. The pretreated solids were washed with ethanol and distilled water until pH 7.0."
+    },
+    {
+      "id": 5,
+      "description": "Hydrothermal pretreatment with distilled water and H2SO4 (1% w/w) at 190\u00b0C for 15, 30, 45, or 60 minutes. The pretreated solids were washed with distilled water until pH 7.0."
+    },
+    {
+      "id": 6,
+      "description": "Hydrothermal pretreatment with distilled water and HCl (1% w/w) at 190\u00b0C for 15, 30, 45, or 60 minutes. The pretreated solids were washed with distilled water until pH 7.0."
+    },
+    {
+      "id": 7,
+      "description": "Hydrothermal pretreatment with distilled water and CH3COOH (1% w/w) at 190\u00b0C for 15, 30, 45, or 60 minutes. The pretreated solids were washed with distilled water until pH 7.0."
+    },
+    {
+      "id": 8,
+      "description": "Hydrothermal pretreatment with distilled water and NaOH (1% w/w) at 190\u00b0C for 15, 30, 45, or 60 minutes. The pretreated solids were washed with distilled water until pH 7.0."
+    },
+    {
+      "id": 9,
+      "description": "Combined organosolv and hydrothermal pretreatment with ethanol (50% v/v) and H2SO4 (1% w/w) at 190\u00b0C for 15, 30, 45, or 60 minutes. The pretreated solids were washed with ethanol and distilled water until pH 7.0."
+    },
+    {
+      "id": 10,
+      "description": "Combined organosolv and hydrothermal pretreatment with ethanol (50% v/v) and H2SO4 (1% w/w) at 190\u00b0C for 15, 30, 45, or 60 minutes. The pretreated solids were washed with ethanol and distilled water until pH 7.0."
+    },
+    {
+      "id": 11,
+      "description": "Enzymatic hydrolysis with Cellic\u00ae CTec2 (20 FPU/g-substrate) at 50\u00b0C for 72 h."
+    }
+  ]
+}

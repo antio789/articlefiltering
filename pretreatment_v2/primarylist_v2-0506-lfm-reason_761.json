@@ -1,0 +1,32 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Freezing"
+    },
+    {
+      "id": 1,
+      "description": "Chemical treatment with NaOH"
+    },
+    {
+      "id": 2,
+      "description": "Chemical treatment with NH3"
+    },
+    {
+      "id": 3,
+      "description": "Chemical treatment with HCl"
+    },
+    {
+      "id": 4,
+      "description": "Chemical treatment with PEF"
+    },
+    {
+      "id": 5,
+      "description": "Chemical treatment with US"
+    },
+    {
+      "id": 6,
+      "description": "Alkaline treatment with freezing"
+    }
+  ]
+}

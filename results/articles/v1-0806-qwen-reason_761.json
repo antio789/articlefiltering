@@ -1,0 +1,73 @@
+{
+  "manual_review": [
+    [
+      761,
+      "alkaline"
+    ],
+    [
+      761,
+      "acidic"
+    ],
+    [
+      761,
+      "ultrasonic"
+    ],
+    [
+      761,
+      "electric"
+    ]
+  ],
+  "llm_review": [
+    [
+      761,
+      "mechanical disintegration"
+    ],
+    [
+      761,
+      "ultrasonic"
+    ],
+    [
+      761,
+      "electric"
+    ],
+    [
+      761,
+      "alkaline"
+    ],
+    [
+      761,
+      "acidic"
+    ]
+  ],
+  "correct_predictions": 4,
+  "false_predictions": 1,
+  "missed_predictions": 0,
+  "precision": 0.8,
+  "recall": 1.0,
+  "f1_score": 0.8889,
+  "correct_items": [
+    [
+      761,
+      "ultrasonic"
+    ],
+    [
+      761,
+      "electric"
+    ],
+    [
+      761,
+      "alkaline"
+    ],
+    [
+      761,
+      "acidic"
+    ]
+  ],
+  "false_items": [
+    [
+      761,
+      "mechanical disintegration"
+    ]
+  ],
+  "missed_items": []
+}

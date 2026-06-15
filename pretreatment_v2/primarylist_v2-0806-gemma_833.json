@@ -1,0 +1,16 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Mechanical homogenization of various foods (fruits, vegetables, meat, rice, paste, and dairy products) using a blender to prepare the synthetic food waste slurry."
+    },
+    {
+      "id": 1,
+      "description": "Thermophilic pretreatment (TPP), consisting of heating the mixture of food waste and inoculum in BMP bottles at temperatures of 50, 60, 70, and 80 \u00b0C for durations of 6, 12, 24, 36, and 48 h."
+    },
+    {
+      "id": 2,
+      "description": "Conventional thermal pretreatment (CTP), consisting of heating only the food waste without inoculum at temperatures ranging from 50 to 80 \u00b0C for durations such as 1.5 h, 6 h, and 12 h."
+    }
+  ]
+}

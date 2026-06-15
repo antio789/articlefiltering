@@ -1,0 +1,52 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Milling of pine wood chips to reduce particle size to less than 1 mm."
+    },
+    {
+      "id": 1,
+      "description": "Alkali pretreatment with 8% sodium hydroxide (NaOH) solution at room temperature for 10 minutes."
+    },
+    {
+      "id": 2,
+      "description": "Incubation of the NaOH-treated pine wood at 100 \u00b0C for 10 minutes, mixed every 10 minutes."
+    },
+    {
+      "id": 3,
+      "description": "Incubation of the NaOH-treated pine wood at 100 \u00b0C for 30 minutes, mixed every 10 minutes."
+    },
+    {
+      "id": 4,
+      "description": "Incubation of the NaOH-treated pine wood at 100 \u00b0C for 60 minutes, mixed every 10 minutes."
+    },
+    {
+      "id": 5,
+      "description": "Incubation of the NaOH-treated pine wood at 0 \u00b0C for 10 minutes, mixed every 10 minutes."
+    },
+    {
+      "id": 6,
+      "description": "Incubation of the NaOH-treated pine wood at 0 \u00b0C for 30 minutes, mixed every 10 minutes."
+    },
+    {
+      "id": 7,
+      "description": "Incubation of the NaOH-treated pine wood at 0 \u00b0C for 60 minutes, mixed every 10 minutes."
+    },
+    {
+      "id": 8,
+      "description": "Centrifugation at 4500 rpm (5000 g) for 10 minutes to separate solids."
+    },
+    {
+      "id": 9,
+      "description": "Washing of the settled solids with distilled water followed by vacuum filtration until pH 7 was achieved."
+    },
+    {
+      "id": 10,
+      "description": "Keeping the washed solids in plastic bags at 4 \u00b0C until use."
+    },
+    {
+      "id": 11,
+      "description": "Anaerobic batch digestion of the treated and untreated pine woods at mesophilic conditions (37 \u00b0C) using inoculum from a large-scale biogas bioreactor."
+    }
+  ]
+}

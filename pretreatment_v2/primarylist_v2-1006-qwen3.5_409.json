@@ -1,0 +1,28 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Chemical treatment with 2% KOH at 95% moisture content"
+    },
+    {
+      "id": 1,
+      "description": "Chemical treatment with 4% KOH at 95% moisture content"
+    },
+    {
+      "id": 2,
+      "description": "Chemical treatment with 4% NaOH at 95% moisture content"
+    },
+    {
+      "id": 3,
+      "description": "Chemical treatment with 4% AHP at 95% moisture content"
+    },
+    {
+      "id": 4,
+      "description": "Chemical treatment with 4% NaOH adjusted to pH 11.5"
+    },
+    {
+      "id": 5,
+      "description": "Chemical treatment with 4% AHP adjusted to pH 11.5"
+    }
+  ]
+}

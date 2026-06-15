@@ -1,0 +1,85 @@
+{
+  "manual_review": [
+    [
+      542,
+      "oxidizer"
+    ],
+    [
+      542,
+      "alkaline"
+    ],
+    [
+      542,
+      "mechanical disintegration"
+    ]
+  ],
+  "llm_review": [
+    [
+      542,
+      "mechanical disintegration"
+    ],
+    [
+      542,
+      "alkaline"
+    ],
+    [
+      542,
+      "oxidizer"
+    ],
+    [
+      542,
+      "solvent"
+    ],
+    [
+      542,
+      "microbial consortium"
+    ],
+    [
+      542,
+      "biological active substrate"
+    ],
+    [
+      542,
+      "microaerobic"
+    ]
+  ],
+  "correct_predictions": 3,
+  "false_predictions": 4,
+  "missed_predictions": 0,
+  "precision": 0.4286,
+  "recall": 1.0,
+  "f1_score": 0.6,
+  "correct_items": [
+    [
+      542,
+      "mechanical disintegration"
+    ],
+    [
+      542,
+      "alkaline"
+    ],
+    [
+      542,
+      "oxidizer"
+    ]
+  ],
+  "false_items": [
+    [
+      542,
+      "solvent"
+    ],
+    [
+      542,
+      "microbial consortium"
+    ],
+    [
+      542,
+      "biological active substrate"
+    ],
+    [
+      542,
+      "microaerobic"
+    ]
+  ],
+  "missed_items": []
+}

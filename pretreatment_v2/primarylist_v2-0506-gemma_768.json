@@ -1,0 +1,20 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Mechanical grinding of food waste using an in-sink food disposer with a strainer hole size of 0.75 cm."
+    },
+    {
+      "id": 1,
+      "description": "Mechanical grinding of food waste using a manual meat grinder with a medium (1.0 cm) plate opening."
+    },
+    {
+      "id": 2,
+      "description": "Mechanical grinding of food waste using a manual meat grinder with a small (0.5 cm) plate opening."
+    },
+    {
+      "id": 3,
+      "description": "Addition of a commercial digestive enzyme formulation (Digest\u00ae, Enzymedica Inc.) in excess to the ground food waste, consisting of cellulases, amylases, proteases and lipases obtained from Aspergillus niger and Aspergillus oryzae, at a dosage rate of 1 g per 10 g of food waste."
+    }
+  ]
+}

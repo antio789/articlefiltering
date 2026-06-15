@@ -1,0 +1,28 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Organosolv pretreatment with sodium hydroxide catalyst"
+    },
+    {
+      "id": 1,
+      "description": "Organosolv pretreatment with sulfuric acid catalyst"
+    },
+    {
+      "id": 2,
+      "description": "Hydrothermal pretreatment with sulfuric acid catalyst"
+    },
+    {
+      "id": 3,
+      "description": "Organosolv pretreatment with sodium hydroxide catalyst (auto-catalyzed)"
+    },
+    {
+      "id": 4,
+      "description": "Organosolv pretreatment with sulfuric acid catalyst (auto-catalyzed)"
+    },
+    {
+      "id": 5,
+      "description": "Hydrothermal pretreatment with sulfuric acid catalyst (auto-catalyzed)"
+    }
+  ]
+}

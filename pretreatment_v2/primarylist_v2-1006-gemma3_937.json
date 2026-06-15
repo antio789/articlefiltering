@@ -1,0 +1,48 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Organosolv pretreatment with ethanol (50% v/v) and H2SO4 (1% w/w) at 190\u00b0C for 15, 30, 45, or 60 min, followed by washing with ethanol and distilled water until pH 7."
+    },
+    {
+      "id": 1,
+      "description": "Organosolv pretreatment with ethanol (50% v/v) and H2SO4 (1% w/w) at 190\u00b0C for 15, 30, 45, or 60 min, followed by washing with ethanol and distilled water until pH 7."
+    },
+    {
+      "id": 2,
+      "description": "Organosolv pretreatment with ethanol (50% v/v) and HCl (1% w/w) at 190\u00b0C for 15, 30, 45, or 60 min, followed by washing with ethanol and distilled water until pH 7."
+    },
+    {
+      "id": 3,
+      "description": "Organosolv pretreatment with ethanol (50% v/v) and CH3COOH (1% w/w) at 190\u00b0C for 15, 30, 45, or 60 min, followed by washing with ethanol and distilled water until pH 7."
+    },
+    {
+      "id": 4,
+      "description": "Organosolv pretreatment with ethanol (50% v/v) and NaOH (1% w/w) at 190\u00b0C for 15, 30, 45, or 60 min, followed by washing with ethanol and distilled water until pH 7."
+    },
+    {
+      "id": 5,
+      "description": "Hydrothermal pretreatment with distilled water and H2SO4 (1% w/w) at 190\u00b0C for 15, 30, 45, or 60 min, followed by washing with distilled water until pH 7."
+    },
+    {
+      "id": 6,
+      "description": "Hydrothermal pretreatment with distilled water and HCl (1% w/w) at 190\u00b0C for 15, 30, 45, or 60 min, followed by washing with distilled water until pH 7."
+    },
+    {
+      "id": 7,
+      "description": "Hydrothermal pretreatment with distilled water and CH3COOH (1% w/w) at 190\u00b0C for 15, 30, 45, or 60 min, followed by washing with distilled water until pH 7."
+    },
+    {
+      "id": 8,
+      "description": "Hydrothermal pretreatment with distilled water and NaOH (1% w/w) at 190\u00b0C for 15, 30, 45, or 60 min, followed by washing with distilled water until pH 7."
+    },
+    {
+      "id": 9,
+      "description": "Combined organosolv and hydrothermal pretreatment with ethanol (50% v/v) and H2SO4 (1% w/w) at 190\u00b0C for 15, 30, 45, or 60 min, followed by washing with ethanol and distilled water until pH 7."
+    },
+    {
+      "id": 10,
+      "description": "Combined organosolv and hydrothermal pretreatment with distilled water and H2SO4 (1% w/w) at 190\u00b0C for 15, 30, 45, or 60 min, followed by washing with distilled water until pH 7."
+    }
+  ]
+}

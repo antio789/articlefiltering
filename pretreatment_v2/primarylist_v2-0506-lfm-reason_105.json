@@ -1,0 +1,28 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Thermal pretreatment at 50-80\u00b0C"
+    },
+    {
+      "id": 1,
+      "description": "Thermal pretreatment at 70\u00b0C"
+    },
+    {
+      "id": 2,
+      "description": "Thermal pretreatment at 60\u00b0C"
+    },
+    {
+      "id": 3,
+      "description": "Dilution of dewatered sludge"
+    },
+    {
+      "id": 4,
+      "description": "Centrifugation"
+    },
+    {
+      "id": 5,
+      "description": "Concentration via centrifugation or filtration"
+    }
+  ]
+}

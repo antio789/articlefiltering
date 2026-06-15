@@ -1,0 +1,28 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "KOH pretreatment: 1%, 2%, 3%, and 4% solutions at room temperature for 24 h with MC of 95%."
+    },
+    {
+      "id": 1,
+      "description": "Ca(OH)_2 pretreatment: 1%, 2%, 3%, and 4% solutions at room temperature for 24 h with MC of 95%."
+    },
+    {
+      "id": 2,
+      "description": "NaOH pretreatment: 1%, 2%, 3%, and 4% solutions at room temperature for 24 h with MC of 95%."
+    },
+    {
+      "id": 3,
+      "description": "Alkaline hydrogen peroxide (AHP) pretreatment: 11.5 pH with NaOH adjustment, at room temperature for 24 h with MC of 95%."
+    },
+    {
+      "id": 4,
+      "description": "HCl pretreatment: 1%, 2%, 3%, and 4% solutions at room temperature for 24 h with MC of 95%."
+    },
+    {
+      "id": 5,
+      "description": "Microwave (MW) pretreatment: 300 w, 500 w, and 700 w at room temperature for 10 min with MC of 95%."
+    }
+  ]
+}

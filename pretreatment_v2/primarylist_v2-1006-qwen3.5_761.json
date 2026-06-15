@@ -1,0 +1,28 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Chemical treatment with 6% NaOH, 10% NaOH, 6% NH3, 10% NH3, 6% HCl, 10% HCl"
+    },
+    {
+      "id": 1,
+      "description": "Freezing at -20\u00b0C"
+    },
+    {
+      "id": 2,
+      "description": "Freezing at -80\u00b0C"
+    },
+    {
+      "id": 3,
+      "description": "Ultrasounds (US) at Z_0.5 (40 min) and Z_1 (70 min) conditions"
+    },
+    {
+      "id": 4,
+      "description": "Pulsed Electric Fields (PEF) at Z_0.5 (153 kJ kg^-1) and Z_1 (153 kJ kg^-1) conditions"
+    },
+    {
+      "id": 5,
+      "description": "Combined treatment: Freezing at -20\u00b0C followed by 10% NaOH treatment"
+    }
+  ]
+}

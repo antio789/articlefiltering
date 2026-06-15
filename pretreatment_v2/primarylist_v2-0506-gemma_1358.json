@@ -1,0 +1,24 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Cutting municipal waste into particulates using a cutter and grinding into small fine particles (lower than 4 mm) by a home type coffee grinder."
+    },
+    {
+      "id": 1,
+      "description": "Dilution of cow manure and grinded kitchen waste with tap water to reach a concentration near the municipal waste concentration."
+    },
+    {
+      "id": 2,
+      "description": "Co-digestion with different amounts of NaOH (0\u20134%) and H_2O_2 (0\u20134%) under mesophilic conditions (35 \u00b1 1 \u00b0C) for 40 days."
+    },
+    {
+      "id": 3,
+      "description": "Anaerobic stabilization with N_2 99% injection for 5 min, followed by 5 days of anaerobic digestion."
+    },
+    {
+      "id": 4,
+      "description": "Treatment with NaOH and H_2O_2, with different amounts (0\u20134%) of NaOH and H_2O_2 in total weight."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Shredding (I-PT code) - reducing the particle size of the substrates."
+    },
+    {
+      "id": 1,
+      "description": "Shredding and mixing (II-PT) - homogenizing the organic matter with water addition (10:1 Water content/Total Solids ratio)."
+    },
+    {
+      "id": 2,
+      "description": "Shredding, mixing and blending (III-PT) - a deeper breakdown of fibers, creating a homogeneous liquid slurry."
+    },
+    {
+      "id": 3,
+      "description": "Mobile hammer mill (Noremat Valormax BA915D) - used for treating cattle manure (M3) at full scale."
+    },
+    {
+      "id": 4,
+      "description": "Fixed hammer mill - used for treating cattle manure (M4) at full scale."
+    },
+    {
+      "id": 5,
+      "description": "X-Chopper chain mill (Xergi) - used for treating a mixture of silage and cattle manure (SM) at full scale."
+    }
+  ]
+}

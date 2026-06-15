@@ -1,0 +1,32 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Grinding of C. papayas fruit peels into \u226420 mm mesh sizes using a hammer mill."
+    },
+    {
+      "id": 1,
+      "description": "Thermal treatment at 80\u00b0C for 60 minutes using a water bath."
+    },
+    {
+      "id": 2,
+      "description": "Chemical treatment using 3 g NaOH for 100 g TS at 55\u00b0C for 24 hours."
+    },
+    {
+      "id": 3,
+      "description": "Application of mechanical breakdown without thermo-alkaline pretreatments."
+    },
+    {
+      "id": 4,
+      "description": "Combination of mechanical breakdown followed by thermo-alkaline pretreatments."
+    },
+    {
+      "id": 5,
+      "description": "Application of thermo-alkaline pretreatment at 80\u00b0C for 60 minutes followed by chemical treatment with 3 g NaOH for 100 g TS at 55\u00b0C for 24 hours."
+    },
+    {
+      "id": 6,
+      "description": "Application of thermo-alkaline pretreatment at 55\u00b0C for 24 hours with solid loading of 35 g TS/L."
+    }
+  ]
+}

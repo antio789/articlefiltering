@@ -1,0 +1,32 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Ensilage was performed on giant reed by supplementing harvested biomass with water to reach a total solids (TS) content of approximately 40%, packing the material into 1-gallon Ziploc vacuum bags, vacuum sealing the bags to minimize oxygen, and storing at room temperature (25 \u00b1 3 \u00b0C) for 60 days. The process was conducted in triplicate for each harvest date. The TS content in the silage was not measured at 105 \u00b0C to avoid loss of volatile organic compounds (VOCs) such as lactic acid, acetic acid, propionic acid, butyric acid, and ethanol; instead, TS values were corrected to calculate TS loss and volatile solids (VS) before anaerobic digestion and enzymatic hydrolysis testing. The fungal pretreatment method was not applied to the ensiled samples."
+    },
+    {
+      "id": 1,
+      "description": "Fungal pretreatment was applied to giant reed using the fungus species Ceriporiopsis subvermispora (ATCC 96608). The inoculum was prepared by growing the fungus on 2% malt extract agar plates at 28 \u00b0C for 7 days. The liquid inoculum was then prepared by suspending mycelium from agar in 2% malt extract liquid medium and incubating statically at 28 \u00b0C for 7 days. A final mixture was prepared by loading 150 g of ground giant reed into 1-L bottles, autoclaving at 121 \u00b0C for 30 minutes to sterilize, and then inoculating with 16 mL of the homogenized mycelium solution supplemented with DI water to achieve a moisture content of around 70% (w/w). The bottles were sealed with cotton stoppers to allow air diffusion but prevent microbial contamination, incubated at 28 \u00b1 1 \u00b0C for 30 days without stirring. After the pretreatment period, the mixture was thoroughly mixed, sampled for compositional analysis, and dried at 40 \u00b0C for approximately 2 days to reduce moisture to less than 10% (w/w) before being stored at -20 \u00b0C for subsequent enzymatic hydrolysis and anaerobic digestion testing."
+    },
+    {
+      "id": 2,
+      "description": "Enzymatic hydrolysis was performed on both ensiled and fungal pretreated giant reed to convert cellulose, hemicellulose, and lignin into fermentable sugars. Enzymes Cellic CTec 2 (Novozymes, Denmark) were added to the samples at a concentration of 60 FPU per gram of cellulose. The enzymatic hydrolysis was conducted in triplicate at 50 \u00b0C with shaking at 180 rpm for 72 hours. Each hydrolysate was filtered through a 0.2 \u03bcm nylon membrane prior to sugar analysis. Glucose yield was calculated by subtracting the amount of glucose in the enzyme solution before hydrolysis from the total glucose measured in the samples, then multiplying by the conversion factor f = 1.1."
+    },
+    {
+      "id": 3,
+      "description": "Anaerobic digestion (AD) was conducted using mesophilic liquid anaerobic digesters fed with sewage sludge effluent as the inoculum. The feedstock (ensiled or fungal pretreated giant reed) was mixed with the inoculum to achieve a feedstock-to-inoculum (F/I) ratio of 0.6 based on VS content, with DI water added to adjust the total solids (TS) content to 8%. Approximately 800 g of the mixture was loaded into 1-L bottles, sealed with rubber stoppers and outlet tubing for biogas collection, and placed in incubators at 37 \u00b1 1 \u00b0C for 30 days. AD tests were conducted in triplicate. Every 2\u20134 days, gas bags were collected to determine biogas composition and volume."
+    },
+    {
+      "id": 4,
+      "description": "Chemical analysis of all samples involved the measurement of total solids (TS), volatile solids (VS), total Kjeld nitrogen (TKN), and pH. For samples where TS was measured at 105 \u00b0C, the values were corrected using specific volatilization coefficients to account for the evaporation of organic acids and alcohols during the initial drying process (lactic acid, total VFAs, and ethanol). Crude protein content was calculated by determining total organic nitrogen (TKN minus ammonia nitrogen) and multiplying by a factor of 6.25. Cellulose, hemicellulose, and lignin contents were analyzed via automated extraction using an Accelerated Solvent Extraction (ASE) unit, followed by hydrolysis into monosaccharides and measurement of monosugar concentrations using HPLC with refractive index detection. Acid-soluble and acid-insoluble lignin were determined using UV-Vis spectroscopy and gravimetric analysis, respectively. Lactic acid, acetic acid, propionic acid, butyric acid, and ethanol concentrations were determined via HPLC using a Phenomenex Rezex RFQ-Fast Fruit H^+ column, with pH measured using a pH meter."
+    },
+    {
+      "id": 5,
+      "description": "Biogas analysis was performed using a gas chromatograph (Agilent, HP 6890) with a Bond/KCl deactivation column and a thermal conductivity detector. Helium was used as the carrier gas at a flow rate of 5.2 mL/min. The column temperature program included an initial hold at 40 \u00b0C for 4 min, a ramp to 60 \u00b0C with an increment of 20 \u00b0C/min, and a final hold at 60 \u00b0C for 5 min. The injector and detector temperatures were set at 150 \u00b0C and 200 \u00b0C, respectively. Biogas volume was measured using a drum-type gas meter (Ritter)."
+    },
+    {
+      "id": 6,
+      "description": "Statistical analysis was conducted using analysis of variance (ANOVA) with an alpha level of 0.05 using Minitab (Version 16). Data from the trials were compared to assess the significance of differences in TS, VS, organic acid production, degradation percentages, glucose yields, and methane production rates between the ensiled, fungal pretreated, and untreated giant reed groups harvested at different dates (August, October, November, and December)."
+    }
+  ]
+}

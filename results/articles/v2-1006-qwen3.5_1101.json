@@ -1,0 +1,74 @@
+{
+  "manual_review": [
+    [
+      1101,
+      "thermal"
+    ],
+    [
+      1101,
+      "ultrasonic"
+    ],
+    [
+      1101,
+      "alkaline"
+    ],
+    [
+      1101,
+      "pressure"
+    ]
+  ],
+  "llm_review": [
+    [
+      1101,
+      "thermal"
+    ],
+    [
+      1101,
+      "alkaline"
+    ],
+    [
+      1101,
+      "electric"
+    ],
+    [
+      1101,
+      "solvent"
+    ]
+  ],
+  "correct_predictions": 2,
+  "false_predictions": 2,
+  "missed_predictions": 2,
+  "precision": 0.5,
+  "recall": 0.5,
+  "f1_score": 0.5,
+  "correct_items": [
+    [
+      1101,
+      "thermal"
+    ],
+    [
+      1101,
+      "alkaline"
+    ]
+  ],
+  "false_items": [
+    [
+      1101,
+      "electric"
+    ],
+    [
+      1101,
+      "solvent"
+    ]
+  ],
+  "missed_items": [
+    [
+      1101,
+      "ultrasonic"
+    ],
+    [
+      1101,
+      "pressure"
+    ]
+  ]
+}

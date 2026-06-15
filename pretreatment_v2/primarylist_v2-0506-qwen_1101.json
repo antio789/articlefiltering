@@ -1,0 +1,20 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Alkaline pretreatment using NaOH (sodium hydroxide), KOH (potassium hydroxide), or Ca(OH)2 (calcium hydroxide), conducted in pH ranges from 8 to 13, typically at 150\u00b0C for 20 minutes, or combined with hydrodynamic cavitation."
+    },
+    {
+      "id": 1,
+      "description": "Hydrodynamic cavitation (HC) pretreatment using a hydrocavitator system, involving fluid flow through an orifice plate to create microbubbles, followed by mixing with NaOH for combined pretreatment."
+    },
+    {
+      "id": 2,
+      "description": "Thermal pretreatment using an oil bath to heat sludge samples at temperatures ranging from 110\u00b0C to 150\u00b0C for 20 minutes."
+    },
+    {
+      "id": 3,
+      "description": "Ultrasonication pretreatment using a VCX-750 ultrasonic processor at 20 kHz frequency with 750 W maximum amplitude for 1, 5, 10, 15, or 20 minutes."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Granular sludge collection from a full-scale UASB digester of a brewery factory. Characterized by a Total Solids (TS) concentration of 15% and Volatile Solids (VS) concentration of 47%. This represents the initial inoculum for the anaerobic digestion process."
+    },
+    {
+      "id": 1,
+      "description": "Heat shock: Boiling the granular sludge at 90 \u00b0C for 30 minutes. This treatment aims to inhibit H_2 consuming populations and enrich H_2 producing bacteria."
+    },
+    {
+      "id": 2,
+      "description": "Aeration: Aerating the granular sludge for 24 hours using an aquarium pump with an air flow rate of 3 L/min. This treatment is intended to enrich H_2 producing bacteria."
+    },
+    {
+      "id": 3,
+      "description": "Alkaline pre-treatment: Adjusting the pH of the granular sludge to 12.0 \u00b1 0.1 with 3 N NaOH and maintaining it for 24 hours. This treatment is also aimed at inhibiting H_2 consuming populations and enriching H_2 producing bacteria."
+    },
+    {
+      "id": 4,
+      "description": "Pre-treatment with WFO: Adding a saponified WFO solution (15 g/L WFO) to the granular sludge cultures (33 gVS sludge/L saponified WFO solution) and maintaining it for 24 hours. This treatment utilizes waste frying oil (WFO) as a source of LCFAs to inhibit methanogens."
+    },
+    {
+      "id": 5,
+      "description": "Addition of 5 gVS/L FW to the pretreated cultures as well as the control cultures."
+    },
+    {
+      "id": 6,
+      "description": "pH adjustment to 5.5 using NaOH (3 M) and HCl (3 M) after the first stage."
+    },
+    {
+      "id": 7,
+      "description": "Addition of 5 gVS/L of untreated granular sludge to the reactors to start the second stage of AD."
+    },
+    {
+      "id": 8,
+      "description": "pH adjustment at 7.0 since it is the optimal pH for methanogens."
+    }
+  ]
+}

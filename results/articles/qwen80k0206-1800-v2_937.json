@@ -1,0 +1,63 @@
+{
+  "manual_review": [
+    [
+      "937",
+      "acidic"
+    ],
+    [
+      "937",
+      "alkaline"
+    ],
+    [
+      "937",
+      "mechanical disintegration"
+    ],
+    [
+      "937",
+      "solvent"
+    ],
+    [
+      "937",
+      "thermal"
+    ],
+    [
+      "937",
+      "enzyme"
+    ]
+  ],
+  "llm_review": [],
+  "correct_predictions": 0,
+  "false_predictions": 0,
+  "missed_predictions": 6,
+  "precision": 0,
+  "recall": 0.0,
+  "f1_score": 0,
+  "correct_items": [],
+  "false_items": [],
+  "missed_items": [
+    [
+      "937",
+      "acidic"
+    ],
+    [
+      "937",
+      "alkaline"
+    ],
+    [
+      "937",
+      "mechanical disintegration"
+    ],
+    [
+      "937",
+      "solvent"
+    ],
+    [
+      "937",
+      "thermal"
+    ],
+    [
+      "937",
+      "enzyme"
+    ]
+  ]
+}

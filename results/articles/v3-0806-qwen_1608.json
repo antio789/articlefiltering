@@ -1,0 +1,76 @@
+{
+  "manual_review": [
+    [
+      1608,
+      "mechanical disintegration"
+    ],
+    [
+      1608,
+      "thermal"
+    ],
+    [
+      1608,
+      "solvent"
+    ],
+    [
+      1608,
+      "acidic"
+    ],
+    [
+      1608,
+      "alkaline"
+    ]
+  ],
+  "llm_review": [
+    [
+      1608,
+      "mechanical disintegration"
+    ],
+    [
+      1608,
+      "thermal"
+    ],
+    [
+      1608,
+      "alkaline"
+    ],
+    [
+      1608,
+      "acidic"
+    ],
+    [
+      1608,
+      "solvent"
+    ]
+  ],
+  "correct_predictions": 5,
+  "false_predictions": 0,
+  "missed_predictions": 0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "f1_score": 1.0,
+  "correct_items": [
+    [
+      1608,
+      "mechanical disintegration"
+    ],
+    [
+      1608,
+      "thermal"
+    ],
+    [
+      1608,
+      "alkaline"
+    ],
+    [
+      1608,
+      "acidic"
+    ],
+    [
+      1608,
+      "solvent"
+    ]
+  ],
+  "false_items": [],
+  "missed_items": []
+}

@@ -1,0 +1,65 @@
+{
+  "manual_review": [
+    [
+      2,
+      "thermal"
+    ],
+    [
+      2,
+      "mechanical disintegration"
+    ]
+  ],
+  "llm_review": [
+    [
+      2,
+      "solvent"
+    ],
+    [
+      2,
+      "pressure"
+    ],
+    [
+      2,
+      "alkaline"
+    ],
+    [
+      2,
+      "ultrasonic"
+    ]
+  ],
+  "correct_predictions": 0,
+  "false_predictions": 4,
+  "missed_predictions": 2,
+  "precision": 0.0,
+  "recall": 0.0,
+  "f1_score": 0,
+  "correct_items": [],
+  "false_items": [
+    [
+      2,
+      "solvent"
+    ],
+    [
+      2,
+      "pressure"
+    ],
+    [
+      2,
+      "alkaline"
+    ],
+    [
+      2,
+      "ultrasonic"
+    ]
+  ],
+  "missed_items": [
+    [
+      2,
+      "thermal"
+    ],
+    [
+      2,
+      "mechanical disintegration"
+    ]
+  ]
+}

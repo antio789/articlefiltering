@@ -1,0 +1,16 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Steam pretreatment at 135 \u00b0C for 15 min"
+    },
+    {
+      "id": 1,
+      "description": "Dilute H_2SO_4 pretreatment (2% v/v)"
+    },
+    {
+      "id": 2,
+      "description": "Un-treated"
+    }
+  ]
+}

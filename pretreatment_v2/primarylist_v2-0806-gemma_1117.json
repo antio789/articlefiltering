@@ -1,0 +1,16 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Dewatering of waste activated sludge (WAS) using a sand drying bed."
+    },
+    {
+      "id": 1,
+      "description": "Alkaline pretreatment using NaOH solutions of 0.2, 0.4, 0.6, and 0.8% w/v concentrations (specific alkali doses of 2, 4, 6, and 8 g NaOH/100 g TS_sludge) for 3 hours at 37 \u00b0C with stirring at 200 rpm, followed by neutralization to pH 7 using 0.02 N H2SO4."
+    },
+    {
+      "id": 2,
+      "description": "Photocatalytic pretreatment using TiO2 nanoparticles at doses of 0.3, 0.4, 0.5, and 0.6 g/L under UV-B light (4 lamps, 100 W each, 320 nm wavelength) for 3 hours at 37 \u00b0C with continuous stirring."
+    }
+  ]
+}

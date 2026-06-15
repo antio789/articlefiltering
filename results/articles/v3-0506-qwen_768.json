@@ -1,0 +1,81 @@
+{
+  "manual_review": [
+    [
+      768,
+      "mechanical disintegration"
+    ],
+    [
+      768,
+      "enzyme"
+    ]
+  ],
+  "llm_review": [
+    [
+      768,
+      "mechanical disintegration"
+    ],
+    [
+      768,
+      "alkaline"
+    ],
+    [
+      768,
+      "oxidizer"
+    ],
+    [
+      768,
+      "solvent"
+    ],
+    [
+      768,
+      "enzyme"
+    ],
+    [
+      768,
+      "microbial consortium"
+    ],
+    [
+      768,
+      "microaerobic"
+    ]
+  ],
+  "correct_predictions": 2,
+  "false_predictions": 5,
+  "missed_predictions": 0,
+  "precision": 0.2857,
+  "recall": 1.0,
+  "f1_score": 0.4444,
+  "correct_items": [
+    [
+      768,
+      "mechanical disintegration"
+    ],
+    [
+      768,
+      "enzyme"
+    ]
+  ],
+  "false_items": [
+    [
+      768,
+      "alkaline"
+    ],
+    [
+      768,
+      "oxidizer"
+    ],
+    [
+      768,
+      "solvent"
+    ],
+    [
+      768,
+      "microbial consortium"
+    ],
+    [
+      768,
+      "microaerobic"
+    ]
+  ],
+  "missed_items": []
+}

@@ -1,0 +1,36 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Chemical pretreatment with sodium hydroxide (NaOH) under various conditions including reagent dosage ranging from 0 to 4 mmol/g VS and process duration from 1 to 24 hours, operated under condition sets B and C"
+    },
+    {
+      "id": 1,
+      "description": "Chemical pretreatment with sodium bicarbonate (NaHCO_3) under various conditions including reagent dosage from 0 to 4 mmol/g VS and process duration from 1 to 24 hours, operated under condition sets B and C"
+    },
+    {
+      "id": 2,
+      "description": "Chemical pretreatment with sodium chloride (NaCl) under various conditions including reagent dosage from 0 to 4 mmol/g VS and process duration from 1 to 24 hours, operated under condition sets B and C"
+    },
+    {
+      "id": 3,
+      "description": "Chemical pretreatment with citric acid (H_3Cit) under various conditions including reagent dosage from 0 to 4 mmol/g VS and process duration from 1 to 24 hours, operated under condition sets B and C"
+    },
+    {
+      "id": 4,
+      "description": "Chemical pretreatment with acetic acid (AcOH) under various conditions including reagent dosage from 0 to 4 mmol/g VS and process duration from 1 to 24 hours, operated under condition sets B and C"
+    },
+    {
+      "id": 5,
+      "description": "Chemical pretreatment with hydrogen peroxide (H_2O_2) under various conditions including reagent dosage from 0 to 4 mmol/g VS and process duration from 1 to 24 hours, operated under condition sets B and C"
+    },
+    {
+      "id": 6,
+      "description": "Chemical pretreatment with acetone (Me_2CO) under various conditions including reagent dosage from 0 to 4 mmol/g VS and process duration from 1 to 24 hours, operated under condition sets B and C"
+    },
+    {
+      "id": 7,
+      "description": "Chemical pretreatment with ethanol (EtOH) under various conditions including reagent dosage from 0 to 4 mmol/g VS and process duration from 1 to 24 hours, operated under condition sets B and C"
+    }
+  ]
+}

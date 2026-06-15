@@ -1,0 +1,49 @@
+{
+  "manual_review": [
+    [
+      1117,
+      "alkaline"
+    ],
+    [
+      1117,
+      "oxidizer"
+    ]
+  ],
+  "llm_review": [
+    [
+      1117,
+      "electric"
+    ],
+    [
+      1117,
+      "alkaline"
+    ],
+    [
+      1117,
+      "oxidizer"
+    ]
+  ],
+  "correct_predictions": 2,
+  "false_predictions": 1,
+  "missed_predictions": 0,
+  "precision": 0.6667,
+  "recall": 1.0,
+  "f1_score": 0.8,
+  "correct_items": [
+    [
+      1117,
+      "alkaline"
+    ],
+    [
+      1117,
+      "oxidizer"
+    ]
+  ],
+  "false_items": [
+    [
+      1117,
+      "electric"
+    ]
+  ],
+  "missed_items": []
+}

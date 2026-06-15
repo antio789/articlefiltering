@@ -1,0 +1,24 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Dilution of olive oil waste residues (OP + OMWW) with tap water (WP), a physical pretreatment consisting of adding water to the feed mixture to mitigate acidity and reduce polyphenol concentration."
+    },
+    {
+      "id": 1,
+      "description": "Basic pretreatment (BP), a chemical treatment where 2N NaOH is added to adjust pH to 12, stirred at 70 rpm for 24h at 30\u00b0C, followed by neutralization with 2N HCl."
+    },
+    {
+      "id": 2,
+      "description": "Salt pretreatment with FeSO4 (SP_FeII), FeCl3 (SP_FeIi), MnSO4 (SP_Mn), or CaCO3 (SP_Ca), involving the addition of solid salts to achieve 5g/L concentration, pH adjustment to pH 2 with HCl, and subsequent neutralization."
+    },
+    {
+      "id": 3,
+      "description": "Ultrasonic pretreatment (USP), applying 1.8 kW of power for varying durations in an ultrasonic bath to break down large molecules into smaller pieces, tested at doses of 8000 kJ/L and 750 kJ/L."
+    },
+    {
+      "id": 4,
+      "description": "Combined pretreatment CP_Ca, combining ultrasonic rays at the highest dose (8000 kJ/L) with CaCO3 pretreatment; combined pretreatment CP_FeII, combining ultrasonic rays at the highest dose with FeCl3 pretreatment."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Alkaline pretreatment using sodium hydroxide (NaOH), sodium bicarbonate (NaHCO3), or sodium chloride (NaCl) applied to winery waste (WW), juice industry waste (JW), and cotton gin waste (CGW) to disrupt lignocellulosic structures, affecting pH, moisture content, and elemental composition before anaerobic digestion."
+    },
+    {
+      "id": 1,
+      "description": "Acid pretreatment using citric acid (H3Cit), acetic acid (AcOH), hydrogen peroxide (H2O2), or ethanol (EtOH) applied to winery waste (WW), cotton gin waste (CGW), olive pomace (OP), and juice industry waste (JW) to reduce lignin, hemicellulose, and cellulose crystallinity, alter pH, and enhance biodegradability for methane production."
+    },
+    {
+      "id": 2,
+      "description": "Oxidative pretreatment using hydrogen peroxide (H2O2) applied to winery waste (WW), cotton gin waste (CGW), olive pomace (OP), and juice industry waste (JW) to oxidize complex lignocellulosic structures and release soluble compounds before anaerobic digestion."
+    },
+    {
+      "id": 3,
+      "description": "Organic solvent pretreatment using ethanol (EtOH) applied to winery waste (WW), cotton gin waste (CGW), olive pomace (OP), and juice industry waste (JW) to break down lignin and hemicellulose bonds, increasing surface area and porosity prior to anaerobic digestion."
+    }
+  ]
+}

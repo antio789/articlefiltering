@@ -1,0 +1,28 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Solid-state NaOH pretreatment at 1% (0.25 M), 2.5% (0.625 M), 5% (1.25 M), and 7.5% (1.85 M) NaOH loadings on corn stover at ambient temperature (20 \u00b1 0.5 \u00b0C) for 24 hours."
+    },
+    {
+      "id": 1,
+      "description": "Concurrent solid-state NaOH pretreatment and anaerobic digestion at 1.0% (0.25 M), 2.5% (0.625 M), and 1.25% (0.3125 M) NaOH loadings."
+    },
+    {
+      "id": 2,
+      "description": "Simultaneous alkaline treatment (SATD) and solid-state anaerobic digestion at 1.0% (0.25 M) and 2.5% (0.625 M) NaOH loadings."
+    },
+    {
+      "id": 3,
+      "description": "Solid-state anaerobic digestion of 7.5% (1.85 M) NaOH pretreated corn stover."
+    },
+    {
+      "id": 4,
+      "description": "Solid-state NaOH pretreatment of corn stover."
+    },
+    {
+      "id": 5,
+      "description": "Solid-state NaOH pretreatment of corn stover at 2.5% (0.625 M)."
+    }
+  ]
+}

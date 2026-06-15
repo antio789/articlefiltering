@@ -1,0 +1,32 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Granular sludge collection from a full-scale UASB digester"
+    },
+    {
+      "id": 1,
+      "description": "Heat shock: Boiling granular sludge at 90 \u00b0C for 30 min"
+    },
+    {
+      "id": 2,
+      "description": "Aeration: Aerating granular sludge for 24 h with an air flow rate of 3 L/min"
+    },
+    {
+      "id": 3,
+      "description": "Alkaline pre-treatment: Adjusting the pH of granular sludge to 12.0 \u00b1 0.1 with 3 N NaOH and maintaining for 24 h"
+    },
+    {
+      "id": 4,
+      "description": "Pre-treatment with WFO: Adding a saponified WFO solution (15 g/L) to granular sludge cultures (33 gVS sludge/L saponified WFO solution) and maintaining for 24 h"
+    },
+    {
+      "id": 5,
+      "description": "pH adjustment to 5.5 using NaOH (3 M) and HCl (3 M)"
+    },
+    {
+      "id": 6,
+      "description": "Addition of 5 gVS/L of untreated granular sludge to the reactors for the second stage"
+    }
+  ]
+}

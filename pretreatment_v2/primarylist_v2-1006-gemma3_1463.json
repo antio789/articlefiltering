@@ -1,0 +1,16 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Alkaline pretreatment with NaOH at varying pH values (8, 9, 10, 11) combined with disperser (IKA T25 Ultra Turrax Digital disperser) at different rpm (4000\u201324,000) for varying durations (15\u2013180 min)."
+    },
+    {
+      "id": 1,
+      "description": "Alkaline pretreatment with KOH at varying pH values (8, 9, 10, 11) combined with disperser (IKA T25 Ultra Turrax Digital disperser) at different rpm (4000\u201324,000) for varying durations (15\u2013180 min)."
+    },
+    {
+      "id": 2,
+      "description": "Alkaline pretreatment with Ca(OH)_2 at varying pH values (8, 9, 10, 11) combined with disperser (IKA T25 Ultra Turrax Digital disperser) at different rpm (4000\u201324,000) for varying durations (15\u2013180 min)."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Thermal pretreatment"
+    },
+    {
+      "id": 1,
+      "description": "Alkaline pretreatment"
+    },
+    {
+      "id": 2,
+      "description": "Ultrasonication"
+    },
+    {
+      "id": 3,
+      "description": "Hydrodynamic cavitation (HC)"
+    },
+    {
+      "id": 4,
+      "description": "Combined thermal + alkaline"
+    },
+    {
+      "id": 5,
+      "description": "Combined HC + alkaline"
+    },
+    {
+      "id": 6,
+      "description": "Combined HC + NaOH"
+    }
+  ]
+}

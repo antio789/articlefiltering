@@ -1,0 +1,16 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Mechanical pretreatment consisting of grinding the biomass into \u226420 mm mesh sizes using a hammer mill."
+    },
+    {
+      "id": 1,
+      "description": "Thermal treatment at 80 \u00b0C for 60 minutes using a water bath."
+    },
+    {
+      "id": 2,
+      "description": "Chemical pretreatment using alkaline solution (3 g NaOH per 100 g TS) at 55 \u00b0C for 24 hours with a solid loading of 35 g TS/L."
+    }
+  ]
+}

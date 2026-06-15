@@ -1,0 +1,20 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Alkaline pretreatment using sodium hydroxide (NaOH) at 100\u00b0C for 10 minutes, involving presoaking, heating, cooling, centrifugation, and freeze-drying."
+    },
+    {
+      "id": 1,
+      "description": "Liquid hot water (LHW) pretreatment using distilled water at elevated temperature and pressure."
+    },
+    {
+      "id": 2,
+      "description": "Biological pretreatment using aerobic sludge at 37\u00b0C and 90 rpm for 10 days."
+    },
+    {
+      "id": 3,
+      "description": "Ultrasonic pretreatment using sound waves at 40 kHz for 30 minutes."
+    }
+  ]
+}

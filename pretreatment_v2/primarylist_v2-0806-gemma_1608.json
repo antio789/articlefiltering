@@ -1,0 +1,36 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Mechanical milling and screening to a size <1 mm"
+    },
+    {
+      "id": 1,
+      "description": "Liquid hot water (LHW) pretreatment at 121 \u00b0C for 60 min, with or without non-ionic surfactants (PEG 6000, Triton X-100, or Tween 80) at a dose of 1.5% (w/v)"
+    },
+    {
+      "id": 2,
+      "description": "Organosolve pretreatment using 60% ethanol at 121 \u00b0C for 60 min, with or without non-ionic surfactants (PEG 6000, Triton X-100, or Tween 80) at a dose of 1.5% (w/v)"
+    },
+    {
+      "id": 3,
+      "description": "Dilute acid pretreatment using H2SO4 (concentrations ranging from 1% to 3%, w/v) at 121 \u00b0C for 60 min, with or without non-ionic surfactants (PEG 6000, Triton X-100, or Tween 80), specifically PEG 6000 at doses of 0-1.5% (w/v)"
+    },
+    {
+      "id": 4,
+      "description": "Dilute alkali pretreatment using 0.5% NaOH at 121 \u00b0C for 60 min, with or without non-ionic surfactants (PEG 6000, Triton X-100, or Tween 80) at a dose of 1.5% (w/v)"
+    },
+    {
+      "id": 5,
+      "description": "Enzymatic hydrolysis using cellulase (Cellic CTec2) at a dose of 20 FPU/g dry substrate in pH 4.8 acetate buffer at 50 \u00b0C for 72 h"
+    },
+    {
+      "id": 6,
+      "description": "Simultaneous saccharification and fermentation (SSF) using cellulase (15 FPU/g pretreated SCB) and Saccharomyces cerevisiae at 34 \u00b0C for 72 h at pH 4.5"
+    },
+    {
+      "id": 7,
+      "description": "Neutralization of prehydrolysate with 5 M Na2CO3 to achieve a pH range of 6.50-7.00"
+    }
+  ]
+}

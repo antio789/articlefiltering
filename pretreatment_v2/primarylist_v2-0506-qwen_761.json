@@ -1,0 +1,32 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Chemical treatment with NaOH (Sodium Hydroxide) at concentrations of 6% and 10% w/w dry basis, carried out at ambient temperature (20 \u00b1 1 \u00b0C) for 24 hours, followed by neutralization with HCl or NaOH to pH 7.5."
+    },
+    {
+      "id": 1,
+      "description": "Chemical treatment with NH3 (Ammonia) at concentrations of 6% and 10% w/w dry basis, carried out at ambient temperature (20 \u00b1 1 \u00b0C) for 24 hours, followed by neutralization with HCl or NaOH to pH 7.5."
+    },
+    {
+      "id": 2,
+      "description": "Chemical treatment with HCl (Hydrochloric Acid) at concentrations of 6% and 10% w/w dry basis, carried out at ambient temperature (20 \u00b1 1 \u00b0C) for 24 hours, followed by neutralization with NaOH or HCl to pH 7.5."
+    },
+    {
+      "id": 3,
+      "description": "Physical treatment using Ultrasound (US) at a power output of 60 W for 40 minutes and 70 minutes, with a temperature control to not exceed 25 \u00b0C."
+    },
+    {
+      "id": 4,
+      "description": "Physical treatment using Pulsed Electric Fields (PEF) with three levels (Z0.5, Z0, Z1) where Z1 represents the highest treatment intensity resulting in tissue disintegration, with specific energy inputs of 153 kJ kg^-1 (Z0.5) and 153 kJ kg^-1 (Z1), and treatment duration of 1 second for Z1."
+    },
+    {
+      "id": 5,
+      "description": "Physical treatment using freezing at -20 \u00b0C for 48 hours, followed by thawing at 6 \u00b0C for 24 hours."
+    },
+    {
+      "id": 6,
+      "description": "Combined pretreatment involving freezing at -20 \u00b0C for 48 hours followed by treatment with 10% NaOH for 24 hours."
+    }
+  ]
+}

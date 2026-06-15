@@ -1,0 +1,1055 @@
+2026-06-06 16:05:29,410 start
+2026-06-06 16:05:29,411 articletxt/16.txt
+2026-06-06 16:05:29,411 TITLE: Mechanical pretreatment effects on macroalgae-derived biogas production in co-digestion with sludge in Ireland Title of processing article
+2026-06-06 16:05:39,418 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Milling reduces particle size and increases surface area, enhancing microbial access and digestion efficiency."
+    },
+    {
+      "id": 1,
+      "description": "Hollander beater mechanically breaks down macroalgae into smaller particles, improving biogas yield through better contact with microbes."
+    }
+  ]
+}
+2026-06-06 16:05:52,837 articletxt/752.txt
+2026-06-06 16:05:52,837 TITLE: Accelerated biomethane production from lignocellulosic biomass: Pretreated by mixed enzymes secreted by Trichoderma viride and Aspergillus sp. Title of processing article
+2026-06-06 16:06:06,268 ```json
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "3/2 mixing ratio"
+    },
+    {
+      "id": 1,
+      "description": "5/0 ratio"
+    },
+    {
+      "id": 2,
+      "description": "2/3 ratio"
+    },
+    {
+      "id": 3,
+      "description": "1/4 ratio"
+    }
+  ]
+}
+```
+2026-06-06 16:06:34,074 articletxt/1798.txt
+2026-06-06 16:06:34,075 TITLE: Biological pre-hydrolysis and thermal pretreatment applied for anaerobic digestion improvement: Kinetic study and statistical variable selection Title of processing article
+2026-06-06 16:06:41,297 ```json
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Thermal pretreatment involves heating substrates to 60-140°C for 1h, 80°C for 1.5h, and 100-140°C for 30m, enhancing hydrolysis efficiency."
+    },
+    "id": 1,
+    "description": "Biological pre-hydrolysis uses inoculation at 37-55°C for 40h and 35-70°C cycles to improve solubilization and microbial activity."
+  ]
+}
+```
+2026-06-06 16:06:41,297 LLM did not return valid JSON Expecting ',' delimiter: line 7 column 9 (char 222). Response: {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Thermal pretreatment involves heating substrates to 60-140°C for 1h, 80°C for 1.5h, and 100-140°C for 30m, enhancing hydrolysis efficiency."
+    },
+    "id": 1,
+    "description": "Biological pre-hydrolysis uses inoculation at 37-55°C for 40h and 35-70°C cycles to improve solubilization and microbial activity."
+  ]
+}
+2026-06-06 16:06:41,297 articletxt/1608.txt
+2026-06-06 16:06:41,298 TITLE: Enhanced digestibility and fermentability of sugarcane bagasse in biofuel production by surfactant-assisted dilute acid pretreatment Title of processing article
+2026-06-06 16:06:55,150 ```json
+{
+  "pretreatments": [
+    {"id": 0, "description": "LHW"},
+    {"id": 1, "description": "ethanol"},
+    {"id": 2, "description": "dilute acid"},
+    {"id": 3, "description": "dilute alkali"},
+    {"id": 4, "description": "organosolves"},
+    {"id": 5, "description": "ionic liquid"},
+    {"id": 6, "description": "Tween 80"},
+    {"id": 7, "description": "PEG 6000"}
+  ]
+}
+```
+2026-06-06 16:07:56,792 articletxt/553.txt
+2026-06-06 16:07:56,792 TITLE: Comparison between ensilage and fungal pretreatment for storage of giant reed and subsequent methane production Title of processing article
+2026-06-06 16:08:05,280 ```json
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Ensilage: Traditional process converting water soluble carbohydrates to organic acids, reducing dry matter loss and improving digestibility, enhancing methane production."
+    },
+    {
+      "id": 1,
+      "description": "Fungal pretreatment: Aerobic treatment using C. subvermispora to degrade lignin and hemicellulose, though less effective than ensilage, leading to lower methane yields."
+    }
+  ]
+}
+```
+2026-06-06 16:08:21,685 articletxt/1617.txt
+2026-06-06 16:08:21,685 TITLE: Surfactant assisted microwave disintegration of green marine macroalgae for enhanced anaerobic biodegradability and biomethane recovery Title of processing article
+2026-06-06 16:08:35,565 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Mechanical pretreatment"
+    },
+    {
+      "id": 1,
+      "description": "Chemical pretreatment"
+    },
+    {
+      "id": 2,
+      "description": "Microwave pretreatment"
+    },
+    {
+      "id": 3,
+      "description": "Surfactant-based pretreatment"
+    }
+  ]
+}
+2026-06-06 16:09:06,044 articletxt/937.txt
+2026-06-06 16:09:06,045 TITLE: Assessment of organosolv, hydrothermal, and combined organosolv and hydrothermal with enzymatic pretreatment to increase the production of biogas from Napier grass and Napier silage Title of processing article
+2026-06-06 16:09:24,271 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Organosolv pretreatment"
+    },
+    {
+      "id": 1,
+      "description": "Hydrothermal pretreatment"
+    },
+    {
+      "id": 2,
+      "description": "Combined organosolv and hydrothermal with enzyme pretreatment"
+    }
+  ]
+}
+2026-06-06 16:09:44,301 articletxt/328.txt
+2026-06-06 16:09:44,301 TITLE: Prerequisite – An electrohydrolysis pretreatment for anaerobic digestion of lignocellulose waste material Title of processing article
+2026-06-06 16:09:54,031 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Electrohydrolysis pretreatment"
+    }
+  ]
+}
+2026-06-06 16:10:00,301 articletxt/87.txt
+2026-06-06 16:10:00,301 TITLE: Mesophilic aerobic digestion: An efficient and inexpensive biological pretreatment to improve biogas production from highly-recalcitrant pinewood Title of processing article
+2026-06-06 16:10:11,184 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Sodium hydroxide pretreatment reduces lignin and hemicellulose, enhancing porosity and digestibility."
+    },
+    {
+      "id": 1,
+      "description": "Liquid hot water pretreatment improves degradation through enhanced solubility and structural breakdown."
+    },
+    {
+      "id": 2,
+      "description": "Biological pretreatment uses microbial degradation to break down complex polymers."
+    },
+    {
+      "id": 3,
+      "description": "Ultrasonic pretreatment disrupts cell walls via cavitation, increasing surface area."
+    }
+  ]
+}
+2026-06-06 16:10:38,390 articletxt/2.txt
+2026-06-06 16:10:38,390 TITLE: Effect of hydrothermal pretreatment on Miscanthus anaerobic digestion Title of processing article
+2026-06-06 16:10:49,880 ```json
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Hydrothermal pretreatment at 125°C"
+    },
+    {
+      "id": 1,
+      "description": "Hydrothermal pretreatment at 150°C"
+    },
+    {
+      "id": 2,
+      "description": "Hydrothermal pretreatment at 175°C"
+    },
+    {
+      "id": 3,
+      "description": "Enzymatic hydrolysis with cellulase solution"
+    }
+  ]
+}
+```
+2026-06-06 16:11:27,909 articletxt/625.txt
+2026-06-06 16:11:27,909 TITLE: Effect of ultrasonic assisted KOH pretreatment on physiochemical characteristic and anaerobic digestion performance of wheat straw Title of processing article
+2026-06-06 16:11:50,198 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Mechanical Pretreatment"
+    },
+    {
+      "id": 1,
+      "description": "Ultrasonic Application with Varying KOH Concentrations"
+    },
+    {
+      "id": 2,
+      "description": "Alkaline Pretreatment (Ca(OH)₂, NaOH, KOH)"
+    },
+    {
+      "id": 3,
+      "description": "Thermal Applications"
+    },
+    {
+      "id": 4,
+      "description": "Combined Ultrasonic + KOH Application"
+    }
+  ]
+}
+2026-06-06 16:12:40,777 articletxt/189.txt
+2026-06-06 16:12:40,777 TITLE: Evaluation of hydrothermal pretreatment for biological treatment of lignocellulosic feedstock (pepper plant and eggplant) Title of processing article
+2026-06-06 16:12:46,453 ```json
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Hydrothermal pretreatment at 120°C for 30 minutes"
+    },
+    {
+      "id": 1,
+      "description": "Co-digestion with pepper plant and eggplant"
+    }
+  ]
+}
+```
+2026-06-06 16:13:01,633 articletxt/1028.txt
+2026-06-06 16:13:01,633 TITLE: Effect of inoculum pre-treatment on mesophilic hydrogen and methane production from food waste using two-stage anaerobic digestion Title of processing article
+2026-06-06 16:13:17,580 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Heat shock"
+    },
+    {
+      "id": 1,
+      "description": "Alkaline pre-treatment"
+    },
+    {
+      "id": 2,
+      "description": "Gamma irradiation"
+    }
+  ]
+}
+2026-06-06 16:13:37,801 articletxt/1293.txt
+2026-06-06 16:13:37,801 TITLE: Improvement of biogas production from pine wood by alkali pretreatment Title of processing article
+2026-06-06 16:13:49,288 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Milling improved enzymatic hydrolysis by increasing surface area of lignocellulosic materials"
+    },
+    {
+      "id": 1,
+      "description": "Alkali pretreatment with NaOH dissolved lignin and cellulose, enhancing structural accessibility for bacteria"
+    }
+  ]
+}
+2026-06-06 16:14:02,686 articletxt/930.txt
+2026-06-06 16:14:02,686 TITLE: The selection of pretreatment options for anaerobic digestion (AD): A case study in olive oil waste production Title of processing article
+2026-06-06 16:14:17,091 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Basic pretreatment (BP)"
+    },
+    {
+      "id": 1,
+      "description": "Salt pretreatment (SP)"
+    },
+    {
+      "id": 2,
+      "description": "Ultrasonic pretreatment (USP)"
+    },
+    {
+      "id": 3,
+      "description": "CaCO3 addition (SP_Ca)"
+    },
+    {
+      "id": 4,
+      "description": "FeCl3 addition (SP_FeIII)"
+    },
+    {
+      "id": 5,
+      "description": "Dilution with water (WP)"
+    }
+  ]
+}
+2026-06-06 16:14:57,343 articletxt/1624.txt
+2026-06-06 16:14:57,343 TITLE: Anaerobic bioprocessing of wastewater-derived duckweed: Maximizing product yields in a biorefinery value cascade Title of processing article
+2026-06-06 16:15:06,516 ```json
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Saccharification process to remove soluble carbohydrates"
+    }
+  ]
+}
+```
+2026-06-06 16:15:13,208 articletxt/1263.txt
+2026-06-06 16:15:13,208 TITLE: Cleaner energy for cleaner production: Modeling and optimization of biogas generation from Carica papayas (Pawpaw) fruit peels Title of processing article
+2026-06-06 16:15:23,040 ```json
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Mechanical breakdown"
+    },
+    {
+      "id": 1,
+      "description": "Thermal pretreatment"
+    },
+    {
+      "id": 2,
+      "description": "Alkaline treatment"
+    }
+  ]
+}
+```
+2026-06-06 16:15:47,278 articletxt/1114.txt
+2026-06-06 16:15:47,279 TITLE: Effect of hydrothermal pretreatment on two-stage anaerobic digestion of food waste and Enteromorpha: Digestion performance, bioenergy efficiency, and microbial community dynamics Title of processing article
+2026-06-06 16:15:55,907 ```json
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Hydrothermal pretreatment at 50°C, 80°C, 110°C, and 140°C"
+    }
+  ]
+}
+```
+2026-06-06 16:16:04,841 articletxt/1832.txt
+2026-06-06 16:16:04,841 TITLE: Peracetic acid pretreatment improves biogas production from anaerobic digestion of sewage sludge by promoting organic matter release, conversion and affecting microbial community Title of processing article
+2026-06-06 16:16:20,914 ```json
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Peracetic acid, a potent oxidizing agent that breaks down extracellular polymeric substances and intracellular organic matter, enhancing microbial activity and reducing pretreatment costs."
+    },
+    {
+      "id": 1,
+      "description": "Hydrogen peroxide (H₂O₂) and calcium peroxide (CaO₂) as oxidants that degrade sludge components, improving substrate solubility and microbial efficiency."
+    },
+    {
+      "id": 2,
+      "description": "Potassium permanganate (KMnO₄) facilitates oxidation of organic matter, enhancing hydrolysis and reducing inhibition of microbial processes."
+    },
+    {
+      "id": 3,
+      "description": "Chemical pretreatment with acetic acid (implied via PAA's role) and other catalysts to accelerate sludge breakdown and nutrient availability."
+    }
+  ]
+}
+```
+2026-06-06 16:16:50,396 articletxt/860.txt
+2026-06-06 16:16:50,396 TITLE: Evaluation of thermal, ultrasonic and alkali pretreatments on mixed-microalgal biomass to enhance anaerobic methane production Title of processing article
+2026-06-06 16:17:09,859 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Thermal pretreatment at 50°C and 120°C"
+    },
+    {
+      "id": 1,
+      "description": "Ultrasonic pretreatment with 30, 90, and 180 seconds"
+    },
+    {
+      "id": 2,
+      "description": "Alkali pretreatment at pH 9, 11, and 13"
+    }
+  ]
+}
+2026-06-06 16:17:33,067 articletxt/1127.txt
+2026-06-06 16:17:33,068 TITLE: Enhanced simultaneous saccharification and fermentation of Napier grass and Napier silage for two stage bio-hydrogen and methane production using organosolv and hydrothermal Title of processing article
+2026-06-06 16:17:46,303 ```json
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Organosolv pretreatment"
+    },
+    {
+      "id": 1,
+      "description": "Hydrothermal pretreatment"
+    },
+    {
+      "id": 2,
+      "description": "Alkaline treatment (NaOH)"
+    },
+    {
+      "id": 3,
+      "description": "Acid treatment (H₂SO₄)"
+    },
+    {
+      "id": 4,
+      "description": "Steam explosion"
+    },
+    {
+      "id": 5,
+      "description": "Fungal pretreatment"
+    },
+    {
+      "id": 6,
+      "description": "Low-moisture ammonia treatment"
+    }
+  ]
+}
+```
+2026-06-06 16:18:44,829 articletxt/676.txt
+2026-06-06 16:18:44,830 TITLE: Improving the methane production from zucchini stem by response surface methodology and different pretreatments Title of processing article
+2026-06-06 16:18:53,311 {
+  "pretreatments": [
+    {"id": 0, "description": "KOH chemical pretreatment"},
+    {"id": 1, "description": "Ca(OH)₂ alkaline hydrogen peroxide"},
+    {"id": 2, "description": "NaOH alkaline solution"},
+    {"id": 3, "description": "AHP enzymatic treatment"},
+    {"id": 4, "description": "HCl acidic pretreatment"},
+    {"id": 5, "description": "Microwave (MW) thermal treatment"}
+  ]
+}
+2026-06-06 16:19:36,996 articletxt/1101.txt
+2026-06-06 16:19:36,996 TITLE: The effects of waste-activated sludge pretreatment using hydrodynamic cavitation for methane production Title of processing article
+2026-06-06 16:19:59,257 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Thermal pretreatment"
+    },
+    {
+      "id": 1,
+      "description": "Alkaline pretreatment"
+    },
+    {
+      "id": 2,
+      "description": "Ultrasonication"
+    },
+    {
+      "id": 3,
+      "description": "Hydrodynamic cavitation (HC)"
+    },
+    {
+      "id": 4,
+      "description": "Combined thermal + alkaline"
+    },
+    {
+      "id": 5,
+      "description": "Combined HC + alkaline"
+    },
+    {
+      "id": 6,
+      "description": "Combined HC + NaOH"
+    }
+  ]
+}
+2026-06-06 16:20:48,643 articletxt/201.txt
+2026-06-06 16:20:48,643 TITLE: Conjoint effect of microwave irradiation and metal nanoparticles on biogas augmentation from anaerobic digestion of green algae Title of processing article
+2026-06-06 16:21:03,125 ```json
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Co NPs"
+    },
+    {
+      "id": 1,
+      "description": "Ni NPs"
+    },
+    {
+      "id": 2,
+      "description": "Microwave"
+    },
+    {
+      "id": 3,
+      "description": "Alkaline pretreatment"
+    }
+  ]
+}
+```
+2026-06-06 16:21:28,709 articletxt/1683.txt
+2026-06-06 16:21:28,710 TITLE: Process design and economic evaluation for methane and electricity production from Agave bagasse using different pretreatments Title of processing article
+2026-06-06 16:21:37,799 ```json
+{
+  "pretreatments": [
+    {"id": 0, "description": "biological"},
+    {"id": 1, "description": "enzymatic"},
+    {"id": 2, "description": "dilute acid"},
+    {"id": 3, "description": "steam explosion"},
+    {"id": 4, "description": "no pretreatment"}
+  ]
+}
+```
+2026-06-06 16:22:15,269 articletxt/1117.txt
+2026-06-06 16:22:15,270 TITLE: Enhancing methane production from dewatered waste activated sludge through alkaline and photocatalytic pretreatment Title of processing article
+2026-06-06 16:22:28,070 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Alkaline pretreatment using NaOH solutions to solubilize organic matter and enhance biodegradability."
+    },
+    {
+      "id": 1,
+      "description": "Photocatalytic pretreatment with TiO₂ nanoparticles under UV light to degrade organic contaminants."
+    }
+  ]
+}
+2026-06-06 16:22:41,233 articletxt/105.txt
+2026-06-06 16:22:41,233 TITLE: Accelerated high-solids anaerobic digestion of sewage sludge using low-temperature thermal pretreatment Title of processing article
+2026-06-06 16:22:57,948 ```json
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Thermal pretreatment at 50-80°C"
+    },
+    {
+      "id": 1,
+      "description": "Thermal pretreatment at 70°C"
+    },
+    {
+      "id": 2,
+      "description": "Thermal pretreatment at 60°C"
+    },
+    {
+      "id": 3,
+      "description": "Dilution of dewatered sludge"
+    },
+    {
+      "id": 4,
+      "description": "Centrifugation"
+    },
+    {
+      "id": 5,
+      "description": "Concentration via centrifugation or filtration"
+    }
+  ]
+}
+```
+2026-06-06 16:23:50,268 articletxt/761.txt
+2026-06-06 16:23:50,268 TITLE: Influence of pretreatment conditions on lignocellulosic fractions and methane production from grape pomace Title of processing article
+2026-06-06 16:24:10,962 {
+  "pretreatments": [
+    {"id": 0, "description": "Freezing"},
+    {"id": 1, "description": "Chemical treatment with NaOH"},
+    {"id": 2, "description": "Chemical treatment with NH3"},
+    {"id": 3, "description": "Chemical treatment with HCl"},
+    {"id": 4, "description": "Chemical treatment with PEF"},
+    {"id": 5, "description": "Chemical treatment with US"},
+    {"id": 6, "description": "Alkaline treatment with freezing"}
+  ]
+}
+2026-06-06 16:25:00,795 articletxt/1749.txt
+2026-06-06 16:25:00,795 TITLE: Impact of the thermo-alkaline pretreatment on the anaerobic digestion of poly(butylene adipate-co-terephthalate) (PBAT) and poly(lactic acid) (PLA) blended plastics Title of processing article
+2026-06-06 16:25:19,320 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Thermo-alkaline pretreatment"
+    },
+    {
+      "id": 1,
+      "description": "Mechanical pretreatment"
+    },
+    {
+      "id": 2,
+      "description": "Chemical pretreatment"
+    },
+    {
+      "id": 3,
+      "description": "Thermal pretreatment"
+    },
+    {
+      "id": 4,
+      "description": "pH adjustment with NaOH"
+    }
+  ]
+}
+2026-06-06 16:25:58,155 articletxt/1325.txt
+2026-06-06 16:25:58,155 TITLE: Biorefinery for efficient xanthan gum, ethanol, and biogas production from potato crop residues Title of processing article
+2026-06-06 16:26:09,135 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Organosolv pretreatment with ethanol and sulfuric acid"
+    },
+    {
+      "id": 1,
+      "description": "Enzymatic hydrolysis using Cellic enzymes"
+    },
+    {
+      "id": 2,
+      "description": "Acid pretreatment with 1% sulfuric acid"
+    }
+  ]
+}
+2026-06-06 16:26:34,690 articletxt/1358.txt
+2026-06-06 16:26:34,690 TITLE: Assess a new strategy and develop a new mixer to improve anaerobic microbial activities and clean biogas production Title of processing article
+2026-06-06 16:26:48,314 ```json
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Use of mechanical mixers to enhance substrate dispersion and microbial activity."
+    },
+    {
+      "id": 1,
+      "description": "Application of pneumatic mixers to optimize substrate mixing and reduce settling."
+    },
+    {
+      "id": 2,
+      "description": "Implementation of chemical pretreatments including sodium hydroxide (NaOH) to neutralize acidic components."
+    },
+    {
+      "id": 3,
+      "description": "Application of hydrogen peroxide (H₂O₂) to break down organic matter and inhibit inhibitory compounds."
+    },
+    {
+      "id": 4,
+      "description": "Utilization of co-digestion strategies combining organic substrates to improve overall biogas yield."
+    },
+    {
+      "id": 5,
+      "description": "Adjustment of substrate ratios, such as increasing cow manure and municipal waste proportions, to enhance microbial diversity."
+    }
+  ]
+}
+```
+2026-06-06 16:27:34,987 articletxt/542.txt
+2026-06-06 16:27:34,988 TITLE: Enhancing volatile fatty acid (VFA) and bio-methane production from lawn grass with pretreatment Title of processing article
+2026-06-06 16:27:47,980 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Ozone pretreatment involves treating grass waste with ozone to degrade lignin and enhance biodegradation efficiency."
+    },
+    {
+      "id": 1,
+      "description": "Sodium 2-bromoethanesulfonate (SAA) is applied to inhibit methanogens, improving substrate solubility and reducing structural barriers."
+    },
+    {
+      "id": 2,
+      "description": "Ozone combined with SAA (OSAA) synergistically breaks down lignin and cellulose, optimizing hydrolysis and methane production."
+    },
+    {
+      "id": 3,
+      "description": "Size reduction through milling increases surface area and enzymatic activity for efficient breakdown."
+    },
+    {
+      "id": 4,
+      "description": "Enzymatic hydrolysis employs cellulase and β-glycosidase to degrade cellulose, boosting sugar recovery and biogas yield."
+    }
+  ]
+}
+2026-06-06 16:28:27,347 articletxt/768.txt
+2026-06-06 16:28:27,347 TITLE: Examining the mechanisms of short-term solubilization of ground food waste for high-rate anaerobic digestion Title of processing article
+2026-06-06 16:28:37,609 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Mechanical grinding of ground food waste to enhance solubilization efficiency"
+    },
+    {
+      "id": 1,
+      "description": "Excess hydrolytic enzymes accelerate initial breakdown of substrates"
+    }
+  ]
+}
+2026-06-06 16:28:55,304 articletxt/1569.txt
+2026-06-06 16:28:55,304 TITLE: Enhancement of anaerobic digestion efficiency of wastewater sludge and olive waste: Synergistic effect of co-digestion and ultrasonic/microwave sludge pre-treatment Title of processing article
+2026-06-06 16:29:10,681 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Ultrasonic homogenization to enhance biodegradability"
+    },
+    {
+      "id": 1,
+      "description": "Microwave irradiation to increase solubilization"
+    },
+    {
+      "id": 2,
+      "description": "Co-digestion of olive pomace and wastewater sludge to optimize nutrient balance"
+    }
+  ]
+}
+2026-06-06 16:29:37,201 articletxt/526.txt
+2026-06-06 16:29:37,202 TITLE: Increased solubilization of excess sludge does not always result in enhanced anaerobic digestion efficiency Title of processing article
+2026-06-06 16:29:45,981 ```json
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Ultrasonication uses cavitation to disrupt cell walls, enhancing biodegradation."
+    },
+    {
+      "id": 1,
+      "description": "Alkaline pretreatment increases solubilization through pH adjustment."
+    },
+    {
+      "id": 2,
+      "description": "Combined alkaline and ultrasonic pretreatment synergistically improves efficiency."
+    }
+  ]
+}
+```
+2026-06-06 16:30:15,960 articletxt/106.txt
+2026-06-06 16:30:15,960 TITLE: Pretreatment of sugarcane bagasse with dilute citric acid and enzymatic hydrolysis: Use of black liquor and solid fraction for biogas production Title of processing article
+2026-06-06 16:30:31,144 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Dilute citric acid pretreatment involves applying a low concentration of citric acid to break down lignin and hemicellulose, enhancing enzyme accessibility for subsequent enzymatic hydrolysis."
+    },
+    {
+      "id": 1,
+      "description": "Enzymatic hydrolysis employs cellulases and hemicellulases to convert complex carbohydrates into fermentable sugars, optimizing substrate availability for microbial digestion."
+    }
+  ]
+}
+2026-06-06 16:30:49,582 articletxt/588.txt
+2026-06-06 16:30:49,582 TITLE: Assessment of pretreatment and digestion temperature on anaerobic digestion of whiskey byproducts and microbial taxonomy Title of processing article
+2026-06-06 16:31:04,557 ```json
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Steam pretreatment"
+    },
+    {
+      "id": 1,
+      "description": "Sulfuric acid pretreatment"
+    },
+    {
+      "id": 2,
+      "description": "Acid pretreatment"
+    }
+  ]
+}
+```
+2026-06-06 16:31:23,860 articletxt/333.txt
+2026-06-06 16:31:23,860 TITLE: Chemical pretreatment of lignocellulosic agroindustrial waste for methane production Title of processing article
+2026-06-06 16:31:35,996 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Hydrogen Peroxide Treatment"
+    },
+    {
+      "id": 1,
+      "description": "Ethanol Treatment"
+    }
+  ]
+}
+2026-06-06 16:31:51,125 articletxt/652.txt
+2026-06-06 16:31:51,125 TITLE: Enhanced solid-state anaerobic digestion of corn stover by alkaline pretreatment Title of processing article
+2026-06-06 16:31:59,915 ```json
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Solid-state NaOH pretreatment to depolymerize lignin and enhance hydrolysis efficiency"
+    },
+    {
+      "id": 1,
+      "description": "Solid-state anaerobic digestion to optimize microbial activity and reduce acid production"
+    },
+    {
+      "id": 2,
+      "description": "Simultaneous alkaline treatment followed by digestion to improve biogas yield"
+    }
+  ]
+}
+```
+2026-06-06 16:32:22,897 articletxt/1515.txt
+2026-06-06 16:32:22,897 TITLE: Effect of pretreatments on cellulosic composition and morphology of pine needle for possible utilization as substrate for anaerobic digestion Title of processing article
+2026-06-06 16:32:31,216 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Milling: mechanical breakdown of pine needles to enhance surface accessibility and expose cellulose."
+    },
+    {
+      "id": 1,
+      "description": "Steam explosion: thermal decomposition of lignin and hemicellulose to improve biodegradability."
+    }
+  ]
+}
+2026-06-06 16:32:41,019 articletxt/1556.txt
+2026-06-06 16:32:41,020 TITLE: Agave tequilana bagasse for methane production in batch and sequencing batch reactors: Acid catalyst effect, batch optimization and stability of the semi-continuous process Title of processing article
+2026-06-06 16:32:50,409 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Acid hydrolysis with HCl"
+    },
+    {
+      "id": 1,
+      "description": "Acid hydrolysis with H2SO4"
+    }
+  ]
+}
+2026-06-06 16:33:10,331 articletxt/409.txt
+2026-06-06 16:33:10,331 TITLE: Continuous anaerobic digestion of zucchini stem after pretreatment Title of processing article
+2026-06-06 16:33:20,941 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "2% KOH pretreatment"
+    },
+    {
+      "id": 1,
+      "description": "4% NaOH pretreatment"
+    },
+    {
+      "id": 2,
+      "description": "4% AHP pretreatment"
+    }
+  ]
+}
+2026-06-06 16:33:45,188 articletxt/815.txt
+2026-06-06 16:33:45,188 TITLE: Understanding the role of mechanical pretreatment before anaerobic digestion: Lab-scale investigations Title of processing article
+2026-06-06 16:33:55,979 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Shredding operation (I-PT) reduces particle size, enhancing digestibility."
+    },
+    {
+      "id": 1,
+      "description": "Mixing pretreatment (II-PT) homogenizes organic matter."
+    },
+    {
+      "id": 2,
+      "description": "Blending operation (III-PT) increases fine particle distribution."
+    },
+    {
+      "id": 3,
+      "description": "Hammer mill (HM3) achieves deep mechanical breakdown."
+    },
+    {
+      "id": 4,
+      "description": "Hammer mill (HM4) offers alternative mechanical degradation."
+    },
+    {
+      "id": 5,
+      "description": "Chain mill (CHSM) disrupts fiber structure effectively."
+    }
+  ]
+}
+2026-06-06 16:34:44,042 articletxt/833.txt
+2026-06-06 16:34:44,043 TITLE: Enhanced mesophilic anaerobic digestion of food waste by thermal pretreatment: Substrate versus digestate heating Title of processing article
+2026-06-06 16:34:52,599 ```json
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Thermophilic pretreatment (heating to 50–60°C for 12 hours) to enhance hydrolysis and solubilize organic matter before anaerobic digestion."
+    },
+    {
+      "id": 1,
+      "description": "Thermal pretreatment (heating to 80°C for 1.5 hours) to disrupt macromolecules and improve biodegradation efficiency."
+    }
+  ]
+}
+```
+2026-06-06 16:35:06,326 articletxt/1424.txt
+2026-06-06 16:35:06,326 TITLE: Fractionation of sugarcane bagasse using hydrothermal and advanced oxidative pretreatments for bioethanol and biogas production in lignocellulose biorefineries Title of processing article
+2026-06-06 16:35:18,511 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Alkaline extraction (AE)"
+    },
+    {
+      "id": 1,
+      "description": "Hydrothermal pretreatment"
+    },
+    {
+      "id": 2,
+      "description": "Advanced oxidative pretreatment (AOP)"
+    },
+    {
+      "id": 3,
+      "description": "Anaerobic digestion of liquid streams"
+    }
+  ]
+}
+2026-06-06 16:35:49,569 articletxt/1132.txt
+2026-06-06 16:35:49,570 TITLE: Improving biogas production from different parts of spruce tree using leading pretreatments Title of processing article
+2026-06-06 16:36:08,513 ```json
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Concentrated phosphoric acid application reduces lignin content and enhances hydrolysis efficiency, significantly boosting biogas yields."
+    },
+    {
+      "id": 1,
+      "description": "Organosolv pretreatment effectively breaks down complex structures, maximizing methane production from pretreated substrates."
+    }
+  ]
+}
+```
+2026-06-06 16:36:24,893 articletxt/837.txt
+2026-06-06 16:36:24,894 TITLE: Kinetics of thermophilic batch anaerobic digestion of thermal hydrolysed waste activated sludge Title of processing article
+2026-06-06 16:36:46,210 ```json
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Thermal pretreatment (electric and steam modes)"
+    },
+    {
+      "id": 1,
+      "description": "Mechanical treatments (bead mill, sonication, etc.)"
+    },
+    {
+      "id": 2,
+      "description": "Solubilisation of COD and VS"
+    },
+    {
+      "id": 3,
+      "description": "Centrifugation"
+    },
+    {
+      "id": 4,
+      "description": "Membrane filtration"
+    },
+    {
+      "id": 5,
+      "description": "Chemical addition (alkaline)"
+    },
+    {
+      "id": 6,
+      "description": "Temperature variations (165°C, 220°C)"
+    },
+    {
+      "id": 7,
+      "description": "Batch experiments"
+    }
+  ]
+}
+```
+2026-06-06 16:37:44,383 articletxt/1463.txt
+2026-06-06 16:37:44,383 TITLE: Combined treatment of alkaline and disperser for improving solubilization and anaerobic biodegradability of dairy waste activated sludge Title of processing article
+2026-06-06 16:37:57,513 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Alkaline pretreatment using NaOH, KOH, and Ca(OH)₂ to enhance solubilization and stabilize sludge structure."
+    },
+    {
+      "id": 1,
+      "description": "Mechanical dispersion via ultrasonic treatment to disrupt cellular structures and improve biodegradability."
+    }
+  ]
+}
+2026-06-06 16:38:11,630 articletxt/1619.txt
+2026-06-06 16:38:11,630 TITLE: TiO2 - chitosan thin film induced solar photocatalytic deflocculation of sludge for profitable bacterial pretreatment and biofuel production Title of processing article
+2026-06-06 16:38:26,548 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Chemical pretreatment involving alkaline agents, cation-binding compounds, and photocatalytic agents like TiO₂ to enhance substrate solubilization and microbial activity prior to digestion."
+    },
+    {
+      "id": 1,
+      "description": "Bacterial disintegration utilizing specific microbial strains to disrupt sludge structure, facilitating efficient enzymatic breakdown and solubilization of intracellular components."
+    }
+  ]
+}
+2026-06-06 16:38:48,690 articletxt/485.txt
+2026-06-06 16:38:48,691 TITLE: Mechanical pretreatments of different agri-based feedstock in full-scale biogas plants under real operational conditions Title of processing article
+2026-06-06 16:38:59,207 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Knife milling disassembles and breaks down feedstock into fine particles, enhancing biodegradability."
+    },
+    {
+      "id": 1,
+      "description": "Hammer milling impacts feedstock fragments, improving digestibility through fragmentation."
+    },
+    {
+      "id": 2,
+      "description": "Extrusion applies shear forces to break down feedstock into fine particles, aiding digestion."
+    },
+    {
+      "id": 3,
+      "description": "Hydrodynamic cavitation induces microbubbles that disrupt feedstock structure, enhancing microbial activity."
+    }
+  ]
+}
+2026-06-06 16:39:28,953 articletxt/52.txt
+2026-06-06 16:39:28,954 TITLE: Integration of subcritical water pretreatment and anaerobic digestion technologies for valorization of açai processing industries residues Title of processing article
+2026-06-06 16:39:39,899 {
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Subcritical water pretreatment utilizes supercritical water conditions to enhance hydrolysis efficiency, breaking down complex organic matrices and improving substrate accessibility for microbial degradation."
+    },
+    {
+      "id": 1,
+      "description": "Chemical thermal treatment employs specific reagents to accelerate structural breakdown of biomass, increasing susceptibility to enzymatic and microbial activity."
+    }
+  ]
+}
+2026-06-06 16:39:52,499 articletxt/1115.txt
+2026-06-06 16:39:52,499 TITLE: Synergistic pretreatment of waste activated sludge using CaO2 in combination with microwave irradiation to enhance methane production during anaerobic digestion Title of processing article
+2026-06-06 16:40:00,338 ```json
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Alkaline oxidation to break down refractory compounds and improve solubilization."
+    },
+    {
+      "id": 1,
+      "description": "Thermal and athermal effects to enhance hydrolysis and solubilization."
+    }
+  ]
+}
+```
+2026-06-06 16:40:11,498 articletxt/1062.txt
+2026-06-06 16:40:11,498 TITLE: Zero-valent iron enhanced methanogenic activity in anaerobic digestion of waste activated sludge after heat and alkali pretreatment Title of processing article
+2026-06-06 16:40:24,215 ```json
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Heat pretreatment (102°C for 30 minutes)"
+    },
+    {
+      "id": 1,
+      "description": "Alkali pretreatment (adding NaOH to maintain pH 10)"
+    },
+    {
+      "id": 2,
+      "description": "ZVI addition (adding iron scrap to enhance methanogenesis)"
+    }
+  ]
+}
+```
+2026-06-06 16:40:45,325 end
+2026-06-06 16:40:45,325 2115: total time in seconds
+2026-06-06 16:40:45,325 0.5877540708250469: total time in hours
+2026-06-06 16:40:45,325 0.6653819669717512: time per article in minutes

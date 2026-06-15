@@ -1,0 +1,12 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Thermophilic Pretreatment (TPP) of food waste (FW) and inoculum together, followed by a reduction to mesophilic conditions (35 \u00b1 2 \u00b0C). This involves heating the mixture containing both the substrate and inoculum to varying temperatures (50, 60, 70, or 80 \u00b0C) for a specific duration (12, 24, 36, or 48 hours) before switching to mesophilic conditions for digestion."
+    },
+    {
+      "id": 1,
+      "description": "Conventional Thermal Pretreatment (CTP) of food waste (FW), followed by inoculation in bottles and incubation at mesophilic conditions (35 \u00b1 2 \u00b0C). This involves heating only the FW substrate to varying temperatures (50\u201380 \u00b0C) for a specific duration (1.5, 6, 12, or 24 hours) prior to adding the inoculum."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Mechanical degradation of A. tequilana bagasse using a blade mill to reduce fibers to an average length of 0.5 cm."
+    },
+    {
+      "id": 1,
+      "description": "Chemical pretreatment using dilute acid catalysts, specifically hydrochloric acid (HCl) or sulfuric acid (H2SO4), at concentrations varied according to a central composite design (CCD)."
+    },
+    {
+      "id": 2,
+      "description": "Thermal treatment where A. tequilana bagasse dispersed in acid solutions was introduced in an oven for periods of time and temperatures varied according to a central composite design (CCD), reaching up to 157 \u00b0C."
+    }
+  ]
+}

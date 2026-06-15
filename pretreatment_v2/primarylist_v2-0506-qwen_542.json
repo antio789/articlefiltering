@@ -1,0 +1,24 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Ozone pretreatment procedure: Grass particles (3 g) were adjusted for moisture (90% w/w) and placed into an enclosed stainless steel reactor with 1 cm bed height. Ozone was produced by a Pacific Ozone generator at 5.3% ozone concentration (w/w) using a flow rate of 2000 ml/min for 10 min. The reaction was performed at 100\u00b0C. Ozone dose was 0.79 g O_3/g TS."
+    },
+    {
+      "id": 1,
+      "description": "Soaking aqueous ammonia (SAA) pretreatment procedure: Grass waste particles were soaked in a 28\u201330% (w/w) ammonium hydroxide solution for 24 hours at 50\u00b0C for 24 hours without agitation. The solid to liquid ratio was 2:10. The sample was washed twice thoroughly with distilled water to reach neutral pH, dried at 50\u00b0C, and used for further investigation."
+    },
+    {
+      "id": 2,
+      "description": "Ozone combined with SAA (OSAA) pretreatment procedure: Grass waste particles were first treated with ozone for 10 min to deconstruct lignin, followed by SAA pretreatment for 6 hours at 50\u00b0C. The resulting material was used for further investigation."
+    },
+    {
+      "id": 3,
+      "description": "Size reduction: Milled grass waste particles were sieved through a 42 mesh Tyler Standard Screen Scale to obtain grass waste particles with a size less than 0.354 mm."
+    },
+    {
+      "id": 4,
+      "description": "Inoculum preparation: Anaerobic sludge containing a microbial community of hydrolyzing, acid-producing, acetate-producing, and methane-producing microbes was sampled from an anaerobic digester at the Pullman Wastewater Treatment Facility. The sludge had a concentration of 17.1 g TS/L (11.7 g VS/L) and pH of 7.5. It was used as inoculum for anaerobic tests."
+    }
+  ]
+}

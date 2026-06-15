@@ -1,0 +1,28 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Granular sludge (inoculum) was collected from a full-scale Up-flow Anaerobic Sludge Blanket (UASB) digester of a brewery factory located in Padova, Italy. The granular sludge had a Total Solids (TS) concentration of 15% and Volatile Solids (VS) concentration of 47% (TS). The granular sludge was used as the substrate for inoculation before anaerobic digestion."
+    },
+    {
+      "id": 1,
+      "description": "Heat shock: The granular sludge was boiled at 90\u00b0C for 30 minutes. This heat shock treatment was applied to enrich hydrogen-producing bacteria and inhibit hydrogen-consuming populations."
+    },
+    {
+      "id": 2,
+      "description": "Aeration: The granular sludge was aerated for 24 hours using an aquarium pump with an air flow rate of 3 L/min. This aeration treatment was applied to enrich hydrogen-producing bacteria and inhibit hydrogen-consuming populations."
+    },
+    {
+      "id": 3,
+      "description": "Alkaline pre-treatment: The pH of the granular sludge was adjusted to 12.0 \u00b1 0.1 with 3 N NaOH and maintained for 24 hours. This alkaline pre-treatment was applied to enrich hydrogen-producing bacteria and inhibit hydrogen-consuming populations."
+    },
+    {
+      "id": 4,
+      "description": "Pre-treatment with WFO: Fifteen g/L of WFO was added to the granular sludge cultures (33 gVS sludge/L saponified WFO solution), and maintained for 24 hours. After the treatment, the pretreated cultures were washed three times with tap water. The washing process involved adding tap water, maintaining the cultures for 30 minutes to precipitate granular sludge, and then removing the supernatant containing saponified WFO solution using a syringe. This washing step was repeated two additional times. This WFO pre-treatment was used to selectively enrich hydrogen-producing bacteria."
+    },
+    {
+      "id": 5,
+      "description": "Synthetic food waste samples were prepared to simulate the food waste composition in Italy. The samples were mixed and shredded in a kitchen mill to make a homogenous blend."
+    }
+  ]
+}

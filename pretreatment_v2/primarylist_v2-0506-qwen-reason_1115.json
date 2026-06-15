@@ -1,0 +1,28 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "CaO2 (0.1 g/g VSS) oxidation treatment: CaO2 dissolves in water to form H2O2 and Ca(OH)2, enhancing hydrolysis and acidification of the sludge by oxidizing refractory organic contaminants. This condition was selected as the optimal dosage for synergy testing."
+    },
+    {
+      "id": 1,
+      "description": "MW irradiation treatment: Microwave irradiation at 480 W for 2 min. This treatment causes thermal and athermal effects, disrupts flocs and cells, releases organic matter into the soluble phase, and minimizes heat loss. It was used as a standalone pretreatment."
+    },
+    {
+      "id": 2,
+      "description": "CaO2/MW combined treatment: CaO2 (0.1 g/g VSS) followed by MW irradiation (480 W, 2 min). This sequence enhances sludge disintegration and solubilization (36.8% SCOD improvement) with a synergistic effect on methane production (80.2% relative to control). CaO2 release Ca(OH)2 and H2O2 slowly, allowing for slower pH increase compared to MW/CaO2."
+    },
+    {
+      "id": 3,
+      "description": "MW/CaO2 combined treatment: MW irradiation (480 W, 2 min) followed by CaO2 (0.1 g/g VSS). This sequence enhances sludge disintegration and solubilization with a synergistic effect on methane production (80.2% relative to control). MW disrupts flocs and cells, and CaO2 oxidizes organic contaminants, strengthening the disintegration and solubilization of the sludge structure."
+    },
+    {
+      "id": 4,
+      "description": "Ca(OH)2 treatment: Ca(OH)2 (0.05 g/g VSS) treatment. Produced from CaO2 decomposition, this condition was tested alone to investigate synergistic effects. Synergistic effects on solubilization (45.8% SCOD improvement) were observed, though pH 10.8 inhibits subsequent methane production."
+    },
+    {
+      "id": 5,
+      "description": "H2O2 treatment: H2O2 (0.048 g/g VSS) treatment. H2O2 dosage was calculated according to stoichiometric release from 0.1 gCaO_2/gVSS. This condition was investigated alongside MW irradiation at 480 W and 2 min for synergy on sludge disintegration and oxidative effects."
+    }
+  ]
+}

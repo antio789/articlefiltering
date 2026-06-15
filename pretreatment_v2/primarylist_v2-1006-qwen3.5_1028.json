@@ -1,0 +1,44 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Granular sludge collected from a full-scale Up-flow Anaerobic Sludge Blanket (UASB) digester of a brewery factory located in Padova, Italy, characterized by a Total Solids (TS) concentration of 15% and Volatile Solids (VS) concentration of 47% TS."
+    },
+    {
+      "id": 1,
+      "description": "Heat shock treatment: Granular sludge was boiled at 90\u00b0C for 30 minutes."
+    },
+    {
+      "id": 2,
+      "description": "Aeration treatment: Granular sludge was aerated for 24 hours using an aquarium pump with an air flow rate of 3 L/min."
+    },
+    {
+      "id": 3,
+      "description": "Alkaline pre-treatment: Granular sludge pH was adjusted to 12.0 \u00b1 0.1 using 3 N NaOH and maintained for 24 hours."
+    },
+    {
+      "id": 4,
+      "description": "Pre-treatment with WFO: Fifteen g/L of WFO was added to the granular sludge cultures (33 gVS sludge/L saponified WFO solution) and maintained for 24 hours."
+    },
+    {
+      "id": 5,
+      "description": "Washing treatment: The pretreated cultures were washed three times with tap water by adding tap water and removing the supernatant to remove saponified WFO solution from the granular sludge."
+    },
+    {
+      "id": 6,
+      "description": "Sample preparation: Substrate samples were mixed and shredded in a kitchen mill to make a homogenous blend."
+    },
+    {
+      "id": 7,
+      "description": "pH adjustment: pH was adjusted to 5.5 using NaOH (3 M) and HCl (3 M) for the first stage of anaerobic digestion."
+    },
+    {
+      "id": 8,
+      "description": "pH adjustment: pH was adjusted to 7.0 for the second stage of anaerobic digestion."
+    },
+    {
+      "id": 9,
+      "description": "Temperature adjustment: Incubation was performed at 35\u00b0C."
+    }
+  ]
+}

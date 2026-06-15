@@ -1,0 +1,24 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Hydrothermal pretreatment at 120 \u00b0C and 2 atm for 0, 10, 20, 30, 40, 60, and 70 minutes using an autoclave."
+    },
+    {
+      "id": 1,
+      "description": "Aerobic biodegradability test using a respirometer with a thermostated bath and magnetically stirred flasks, monitoring oxygen content continuously via data acquisition system."
+    },
+    {
+      "id": 2,
+      "description": "Anaerobic digestion in four 1-L Pyrex complete mixing digesters under mesophilic conditions with a 1:7 substrate:inoculum ratio, gradually increasing organic load from 0.50 to 1.00 g VS/L over 15 days, followed by a series of experiments with varying percentages of pretreated PP and EP."
+    },
+    {
+      "id": 3,
+      "description": "Monitoring of parameters such as pH, TS, FS, VS, TOC, N-NH4 +, alkalinity, and VA in the effluents after each load of the anaerobic digesters."
+    },
+    {
+      "id": 4,
+      "description": "Fourier-transform infrared spectroscopy (FTIR) analysis to evaluate structural changes in the raw materials and pretreated substrates."
+    }
+  ]
+}

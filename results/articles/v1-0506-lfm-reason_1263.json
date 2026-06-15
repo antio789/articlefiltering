@@ -1,0 +1,133 @@
+{
+  "manual_review": [
+    [
+      1263,
+      "mechanical disintegration"
+    ],
+    [
+      1263,
+      "thermal"
+    ],
+    [
+      1263,
+      "alkaline"
+    ]
+  ],
+  "llm_review": [
+    [
+      1263,
+      "mechanical disintegration"
+    ],
+    [
+      1263,
+      "thermal"
+    ],
+    [
+      1263,
+      "ultrasonic"
+    ],
+    [
+      1263,
+      "pressure"
+    ],
+    [
+      1263,
+      "electric"
+    ],
+    [
+      1263,
+      "alkaline"
+    ],
+    [
+      1263,
+      "acidic"
+    ],
+    [
+      1263,
+      "oxidizer"
+    ],
+    [
+      1263,
+      "solvent"
+    ],
+    [
+      1263,
+      "fungi"
+    ],
+    [
+      1263,
+      "microbial consortium"
+    ],
+    [
+      1263,
+      "biological active substrate"
+    ],
+    [
+      1263,
+      "microaerobic"
+    ]
+  ],
+  "correct_predictions": 3,
+  "false_predictions": 10,
+  "missed_predictions": 0,
+  "precision": 0.2308,
+  "recall": 1.0,
+  "f1_score": 0.375,
+  "correct_items": [
+    [
+      1263,
+      "mechanical disintegration"
+    ],
+    [
+      1263,
+      "thermal"
+    ],
+    [
+      1263,
+      "alkaline"
+    ]
+  ],
+  "false_items": [
+    [
+      1263,
+      "ultrasonic"
+    ],
+    [
+      1263,
+      "pressure"
+    ],
+    [
+      1263,
+      "electric"
+    ],
+    [
+      1263,
+      "acidic"
+    ],
+    [
+      1263,
+      "oxidizer"
+    ],
+    [
+      1263,
+      "solvent"
+    ],
+    [
+      1263,
+      "fungi"
+    ],
+    [
+      1263,
+      "microbial consortium"
+    ],
+    [
+      1263,
+      "biological active substrate"
+    ],
+    [
+      1263,
+      "microaerobic"
+    ]
+  ],
+  "missed_items": []
+}

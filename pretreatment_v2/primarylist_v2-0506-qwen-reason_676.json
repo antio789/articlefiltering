@@ -1,0 +1,32 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Mechanical shredding of zucchini stem (ZS) into particles about 3-5 mm prior to anaerobic digestion"
+    },
+    {
+      "id": 1,
+      "description": "KOH pretreatment with concentrations ranging from 1% to 4% (mass fraction)"
+    },
+    {
+      "id": 2,
+      "description": "Ca(OH)_2 pretreatment with concentrations ranging from 1% to 4% (mass fraction)"
+    },
+    {
+      "id": 3,
+      "description": "NaOH pretreatment with concentrations ranging from 1% to 4% (mass fraction)"
+    },
+    {
+      "id": 4,
+      "description": "AHP pretreatment with concentration of 4% (mass fraction) and pH adjusted to 11.5"
+    },
+    {
+      "id": 5,
+      "description": "HCl pretreatment with concentration of 3% (mass fraction)"
+    },
+    {
+      "id": 6,
+      "description": "Microwave pretreatment with power levels ranging from 300 W to 700 W for 10 minutes at 95% moisture content"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Thermal pretreatment (electric and steam modes)"
+    },
+    {
+      "id": 1,
+      "description": "Mechanical treatments (bead mill, sonication, etc.)"
+    },
+    {
+      "id": 2,
+      "description": "Solubilisation of COD and VS"
+    },
+    {
+      "id": 3,
+      "description": "Centrifugation"
+    },
+    {
+      "id": 4,
+      "description": "Membrane filtration"
+    },
+    {
+      "id": 5,
+      "description": "Chemical addition (alkaline)"
+    },
+    {
+      "id": 6,
+      "description": "Temperature variations (165\u00b0C, 220\u00b0C)"
+    },
+    {
+      "id": 7,
+      "description": "Batch experiments"
+    }
+  ]
+}

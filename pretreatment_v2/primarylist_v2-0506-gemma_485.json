@@ -1,0 +1,20 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Knife milling (KM) \u2013 A knife mill (KM) for substrates with a total solids content higher than 85% \u2013 applies forces able to disaggregate solid particles, slices the fibres and typically produces small pieces (similar to chopping with a knife). KM was installed to improve the anaerobic degradability of mixed seeds of vegetables and to avoid their sedimentation in the digesters; mixed seed were processing residues originated from manufacturing of different vegetables within cereal and bean families."
+    },
+    {
+      "id": 1,
+      "description": "Hammer milling (HM) \u2013 HM consists of a rotor with a set of attached hammers: as the rotor turns, the hammers impact the material against a breaker plate, grinding the fibres in long and thin pieces [8]. HM grinds the fibres similarly to a mortar and pestle and it typically produces long thin fibres. HM was installed both to improve the kinetic of biogas formation of a mixture of solid substrates and to avoid floating layers in the digester. Samples of a mixture of solid substrates (chicken manure, cow manure, maize silage, corn meal) were collected before and after HM treatment. The mixture of solid substrates is fed into the feeding unit and then treated by HM prior to go into the digesters. Cow slurry was additionally used to the mixture of solid substrates for biogas production. Cow slurry was stored in liquid manure tanks and fed directly to the digester bypassing HM."
+    },
+    {
+      "id": 2,
+      "description": "Extrusion (EX) \u2013 With EX, raw materials are fed into one end of the system and then transported along the length of the barrel with a driving screw. As the material moves along the barrel, it is subjected to friction heat, mixing, and vigorous shearing upon pressure release at the finishing end [9]. Extrusion leads to considerable abrasion of the material upon pressure release, breaking down cell walls and causing structural changes, thus enabling easy digestion in the subsequent step. In BGP3, EX was installed to improve the anaerobic degradability of a mixture of solid substrates avoiding floating layers in the digester. Samples of a mixture of solid substrates (maize silage, maize mash, potatoes skins, chicken manure, solid fraction from cow slurry) were collected before and after EX treatment. The mixture of solid substrates is fed into the feeding unit and then treated by EX prior to going into the digesters. Cow slurry was additionally used to the mixture of solid substrates for biogas production. Cow slurry was stored in liquid manure tanks and fed directly to the digesters bypassing EX."
+    },
+    {
+      "id": 3,
+      "description": "Wet shredder and hydrodynamic cavitator (SHC) \u2013 The wet shredder with integrated heavy material separator homogenizes fluids and protects downstream cavitator components from damage caused by foreign matter and prevents blockages and clogging of pumps and pipe systems. The hydrodynamic cavitation reactor used for the generation of cavitation was a stator and rotor assembly. The rotor was a solid cylinder attached to a gear assembly which was connected to a variable frequency drive to control the speed of rotation of the rotor and thus the energy input provided to the system and the cavitation intensity. The hydrodynamic cavitator represents the main part of the mechanical pretreatment and it was used in BGP4 to avoid crust and floating layers in the digesters. Maize silage, sorghum silage, cow manure, and cow slurry were used to produce biogas. The solid substrates are fed into the feeding unit while cow slurry was stored in liquid manure tanks and fed directly to the digesters."
+    }
+  ]
+}

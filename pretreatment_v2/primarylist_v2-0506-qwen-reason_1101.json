@@ -1,0 +1,24 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Thermal pretreatment was carried out by heating sludge samples (50 ml) at temperatures ranging from 110 \u00b0C to 150 \u00b0C for 20 min in an oil bath (Daihan Science, Korea) to enhance sludge disintegration without improving methane yield significantly."
+    },
+    {
+      "id": 1,
+      "description": "Alkaline pretreatment was conducted by adding 5 N solutions of Ca(OH)_2, KOH, and NaOH to 50 ml of WAS, with pH adjusted to values ranging from 8 to 13. This method was evaluated for COD solubilization and sludge disintegration, showing the highest DD at pH 13 with NaOH (40.10%)."
+    },
+    {
+      "id": 2,
+      "description": "Ultrasonication was performed on 50 ml of WAS using a VCX-750 sonicator at 20 kHz frequency and 20% amplitude, resulting in microbubbles formation and cavitation effects similar to HC but requiring specific equipment and energy analysis."
+    },
+    {
+      "id": 3,
+      "description": "Hydrodynamic cavitation (HC) was applied using a stainless steel hydrocavitator with an orifice plate having 27 holes of 1 mm diameter, operating with upstream and downstream pressures of 0.7 and 0.07 MPa to generate microbubbles and disintegrate sludge efficiently."
+    },
+    {
+      "id": 4,
+      "description": "Combined pretreatment (HC + alkaline) was examined as a synergistic approach to sludge disintegration, showing higher DD (53.47%) than individual methods, with a specific energy consumption of 1200 kJ/kg TS compared to 3600 kJ/kg TS for ultrasonication."
+    }
+  ]
+}

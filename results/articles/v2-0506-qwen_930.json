@@ -1,0 +1,65 @@
+{
+  "manual_review": [
+    [
+      930,
+      "alkaline"
+    ],
+    [
+      930,
+      "ultrasonic"
+    ]
+  ],
+  "llm_review": [
+    [
+      930,
+      "pressure"
+    ],
+    [
+      930,
+      "electric"
+    ],
+    [
+      930,
+      "alkaline"
+    ],
+    [
+      930,
+      "oxidizer"
+    ],
+    [
+      930,
+      "ultrasonic"
+    ]
+  ],
+  "correct_predictions": 2,
+  "false_predictions": 3,
+  "missed_predictions": 0,
+  "precision": 0.4,
+  "recall": 1.0,
+  "f1_score": 0.5714,
+  "correct_items": [
+    [
+      930,
+      "alkaline"
+    ],
+    [
+      930,
+      "ultrasonic"
+    ]
+  ],
+  "false_items": [
+    [
+      930,
+      "pressure"
+    ],
+    [
+      930,
+      "electric"
+    ],
+    [
+      930,
+      "oxidizer"
+    ]
+  ],
+  "missed_items": []
+}

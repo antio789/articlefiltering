@@ -1,0 +1,16 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Dilute citric acid pretreatment of sugarcane bagasse with temperature (T), time (t), and percentage by weight of citric acid (PCA) as operational variables, using a 2^3 Doehlert experimental design (DED) with five replicates at the center point (CP) and investigating the effects of these variables on the accessibility of the cellulose fraction and biogas production."
+    },
+    {
+      "id": 1,
+      "description": "Enzymatic hydrolysis of pretreated sugarcane bagasse using Cellic\u00ae CTec 3 HS cocktail under operational parameters (temperature of 45\u201350 \u00b0C and pH of 5.0\u20135.5) with a liquid-to-solid ratio of 10 mL g^\u22121, an initial enzyme concentration of 10 FPU g^\u22121, and a fixed reaction time of 72 h."
+    },
+    {
+      "id": 2,
+      "description": "Anaerobic digestion of black liquor (BL) and residual solid fraction (RSF) obtained after pretreatment of sugarcane bagasse and enzymatic hydrolysis, using a mesophilic condition (35.1 \u00b1 0.3 \u00b0C) and 200 rpm agitation, with a F/I ratio of 0.4 gVS gVS^\u22121, and a chemical composition of sodium bicarbonate (pH buffer) and micro- and macronutrients."
+    }
+  ]
+}

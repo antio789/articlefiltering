@@ -1,0 +1,24 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Dilution with tap water"
+    },
+    {
+      "id": 1,
+      "description": "Basic pretreatment: addition of 2 N NaOH to pH 12, followed by neutralization with 2 N HCl"
+    },
+    {
+      "id": 2,
+      "description": "Salt pretreatment: addition of 5 g/L of FeSO_4, MnSO_4, FeCl_3 or CaCO_3, followed by pH adjustment with 2 N HCl or NaOH"
+    },
+    {
+      "id": 3,
+      "description": "Ultrasonic pretreatment: application of 1.8 kW power in an ultrasonic bath"
+    },
+    {
+      "id": 4,
+      "description": "Combined pretreatment: ultrasonic pretreatment combined with FeSO_4, FeCl_3 or CaCO_3 pretreatment"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Knife Milling (KM) for substrates with total solids content higher than 85%. In BGP1, KM was installed to improve anaerobic degradability of mixed seeds of vegetables and avoid sedimentation in digesters. The knife mills apply forces to disaggregate solid particles, slice fibres, and produce small pieces (similar to chopping with a knife). Samples of seeds were collected before and after KM treatment."
+    },
+    {
+      "id": 1,
+      "description": "Hammer Milling (HM) for substrates with total solids content ranging between 20 and 85%. In BGP2, HM grinds the fibres in long and thin pieces. The rotor with attached hammers impacts the material against a breaker plate as the rotor turns. Samples of a mixture of solid substrates (chicken manure, cow manure, maize silage, corn meal) were collected before and after HM treatment."
+    },
+    {
+      "id": 2,
+      "description": "Extrusion (EX) for substrates typical for energy crops (270\u2013380 g TS kg\u207b\u00b9). In BGP3, raw materials are fed into one end of the system, transported along the barrel with a driving screw. Material is subjected to friction heat, mixing, and vigorous shearing upon pressure release. Samples of a mixture of solid substrates (maize silage, maize mash, potatoes skins, chicken manure, solid fraction from cow slurry) were collected before and after EX treatment."
+    },
+    {
+      "id": 3,
+      "description": "Wet Shredding + Hydrodynamic Cavitation (SHC) for digestate recirculation and solid substrates. In BGP4, a wet shredder homogenizes fluids and protects downstream cavitator components. A hydrodynamic cavitation reactor using a stator and rotor assembly with a variable frequency drive was used. SHC treated the digestate from the top of the main digester in recirculation. Samples of maize silage, sorghum silage, cow manure, and cow slurry were used to produce biogas."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Mechanical pretreatment: Reduction of the A. tequilana bagasse to an average length of 0.5 cm by using a blade mill."
+    },
+    {
+      "id": 1,
+      "description": "Dilute acid hydrolysis using hydrochloric acid (HCl) at different concentrations, temperatures, and hydrolysis times."
+    },
+    {
+      "id": 2,
+      "description": "Dilute acid hydrolysis using sulfuric acid (H_2SO_4) at different concentrations, temperatures, and hydrolysis times."
+    },
+    {
+      "id": 3,
+      "description": "Filtration through a 0.45 mm membrane to remove solid particles after the acid hydrolysis."
+    },
+    {
+      "id": 4,
+      "description": "Anaerobic batch assays to determine the effect of the hydrolysates on methane production."
+    },
+    {
+      "id": 5,
+      "description": "Anaerobic sequencing batch reactor (AnSBR) operation with a constant concentration of 10 g COD/L, at three different cycle times (5, 3 and 2 days)."
+    },
+    {
+      "id": 6,
+      "description": "Inoculation of the AnSBR with 10 g VSS/L of anaerobic granular sludge collected from a full-scale UASB reactor treating tequila vinasses effluents."
+    },
+    {
+      "id": 7,
+      "description": "Adjustment of the initial pH to 7.5 prior to incubation."
+    },
+    {
+      "id": 8,
+      "description": "Constant agitation (120 rpm) during the anaerobic digestion experiments."
+    },
+    {
+      "id": 9,
+      "description": "Feeding of 400 mL of hydrolysate at an adjusted concentration of 8 g COD/L."
+    },
+    {
+      "id": 10,
+      "description": "Measurement of methane production at standard conditions (0 \u00b0C and 1 atm) using a National Instruments cRIO9004 device."
+    }
+  ]
+}

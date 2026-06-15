@@ -1,0 +1,118 @@
+{
+  "manual_review": [
+    [
+      1325,
+      "solvent"
+    ],
+    [
+      1325,
+      "thermal"
+    ],
+    [
+      1325,
+      "mechanical disintegration"
+    ],
+    [
+      1325,
+      "enzyme"
+    ]
+  ],
+  "llm_review": [
+    [
+      1325,
+      "thermal"
+    ],
+    [
+      1325,
+      "alkaline"
+    ],
+    [
+      1325,
+      "acidic"
+    ],
+    [
+      1325,
+      "oxidizer"
+    ],
+    [
+      1325,
+      "solvent"
+    ],
+    [
+      1325,
+      "enzyme"
+    ],
+    [
+      1325,
+      "fungi"
+    ],
+    [
+      1325,
+      "microbial consortium"
+    ],
+    [
+      1325,
+      "biological active substrate"
+    ],
+    [
+      1325,
+      "nanoparticles"
+    ]
+  ],
+  "correct_predictions": 3,
+  "false_predictions": 7,
+  "missed_predictions": 1,
+  "precision": 0.3,
+  "recall": 0.75,
+  "f1_score": 0.4286,
+  "correct_items": [
+    [
+      1325,
+      "thermal"
+    ],
+    [
+      1325,
+      "solvent"
+    ],
+    [
+      1325,
+      "enzyme"
+    ]
+  ],
+  "false_items": [
+    [
+      1325,
+      "alkaline"
+    ],
+    [
+      1325,
+      "acidic"
+    ],
+    [
+      1325,
+      "oxidizer"
+    ],
+    [
+      1325,
+      "fungi"
+    ],
+    [
+      1325,
+      "microbial consortium"
+    ],
+    [
+      1325,
+      "biological active substrate"
+    ],
+    [
+      1325,
+      "nanoparticles"
+    ]
+  ],
+  "missed_items": [
+    [
+      1325,
+      "mechanical disintegration"
+    ]
+  ]
+}

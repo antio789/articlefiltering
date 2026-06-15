@@ -1,0 +1,28 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Hydrothermal pretreatment by autohydrolysis of sugarcane bagasse at 183 \u00b0C, 41 min, and LSR of 3.94 mL g^-1"
+    },
+    {
+      "id": 1,
+      "description": "Alkaline extraction of pretreated SB using 0.2 mol L^-1 NaOH solution at LSR of 10 mL g^-1 and 2800 rpm for 30 s"
+    },
+    {
+      "id": 2,
+      "description": "Advanced oxidative pretreatment of sugarcane bagasse with H_2O_2 and NaOH at LSR of 5 mL g^-1, 25 \u00b0C, and 4.5 h"
+    },
+    {
+      "id": 3,
+      "description": "Enzymatic hydrolysis of pretreated sugarcane bagasse using Cellic HTec2\u00ae and Cellic CTec2\u00ae at 150 rpm and 50 \u00b0C for 72 h"
+    },
+    {
+      "id": 4,
+      "description": "Second-generation ethanol production by fermentation using Saccharomyces cerevisiae strains (PE2, CAT1, and LBCM1047) in a controlled environment"
+    },
+    {
+      "id": 5,
+      "description": "Biogas production by anaerobic digestion of the liquid waste streams from the AE and AOP pretreatment steps"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Control treatment with no pretreatment applied to feed sludge."
+    },
+    {
+      "id": 1,
+      "description": "Chemical pretreatment using peracetic acid (PAA) at 1 mM/g VS concentration."
+    },
+    {
+      "id": 2,
+      "description": "Chemical pretreatment using peracetic acid (PAA) at 2 mM/g VS concentration."
+    },
+    {
+      "id": 3,
+      "description": "Chemical pretreatment using peracetic acid (PAA) at 3 mM/g VS concentration."
+    },
+    {
+      "id": 4,
+      "description": "Chemical pretreatment using peracetic acid (PAA) at 4 mM/g VS concentration."
+    }
+  ]
+}

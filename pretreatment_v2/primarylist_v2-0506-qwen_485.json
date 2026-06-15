@@ -1,0 +1,24 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Knife milling (KM): A mechanical pretreatment involving a milling chamber with mobile milling elements mounted on a central shaft that apply forces to disaggregate solid particles, slice fibers, and produce small pieces (similar to chopping with a knife). This treatment is typically used for substrates with total solids content higher than 85%."
+    },
+    {
+      "id": 1,
+      "description": "Hammer mill (HM): A mechanical pretreatment consisting of a rotor with a set of attached hammers that impact the material against a breaker plate when the rotor turns, grinding the fibers into long and thin pieces. This technology grinds fibers similarly to a mortar and pestle."
+    },
+    {
+      "id": 2,
+      "description": "Extruder (EX): A mechanical pretreatment where raw materials are fed into one end of the system and transported along the length of the barrel with a driving screw. The material moves along the barrel, undergoing friction heat, mixing, and vigorous shearing upon pressure release at the finishing end."
+    },
+    {
+      "id": 3,
+      "description": "Shredding + hydrodynamic cavitation (SHC): A combined pretreatment system where a wet shredder with integrated heavy material separator homogenizes fluids, protecting downstream hydrodynamic cavitation components from damage. The hydrodynamic cavitation reactor uses a stator and rotor assembly to generate cavitation bubbles for the generation, growth, and collapse of microbubbles in the digestate."
+    },
+    {
+      "id": 4,
+      "description": "Pre-digestate storage and handling: The substrates were stored at 4 \u00b0C before and after mechanical pretreatment. While storage itself is not a pretreatment, the text explicitly mentions that SHC pretreatment was performed on digestate that was already processed by anaerobic digestion, implying prior anaerobic digestion occurred before this mechanical step. However, strictly adhering to the rule to exclude drying, washing, and freezing for storage, only the mechanical actions are classified as pretreatments. The text describes the SHC unit being used 'in recirculation' on digestate, indicating this is a post-digestion or specific recycling loop step, but the question asks for treatments on substrates to be classified. The text lists the SHC unit usage as a pretreatment on specific mixtures. Let's re-evaluate: The text says 'SHC treated the digestate from the top of the main digester in recirculation.' This implies a pre-treatment step for that specific digestate. The other units (KM, HM, EX) were used on solid substrates collected before digestion. So KM, HM, EX, SHC are the distinct treatment technologies. The 'storage' is just storage. The 'digestate from the top... in recirculation' is a usage of the SHC technology on a specific substrate type (digestate). The prompt asks to identify all pretreatments applied. The SHC unit was applied to digestate. So SHC is a pretreatment. KM, HM, EX were applied to solid substrates. So the list of pretreatments is KM, HM, EX, SHC."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Organosolv pretreatment with sodium hydroxide as catalyst for Napier grass."
+    },
+    {
+      "id": 1,
+      "description": "Organosolv pretreatment with sulfuric acid as catalyst for Napier silage."
+    },
+    {
+      "id": 2,
+      "description": "Hydrothermal pretreatment with sulfuric acid as catalyst for Napier grass."
+    },
+    {
+      "id": 3,
+      "description": "Hydrothermal pretreatment with sulfuric acid as catalyst for Napier silage."
+    },
+    {
+      "id": 4,
+      "description": "Non-catalyzed organosolv pretreatment for Napier grass."
+    },
+    {
+      "id": 5,
+      "description": "Non-catalyzed organosolv pretreatment for Napier silage."
+    },
+    {
+      "id": 6,
+      "description": "Hydrothermal pretreatment without catalyst (auto-catalyzed) for Napier grass."
+    },
+    {
+      "id": 7,
+      "description": "Hydrothermal pretreatment without catalyst (auto-catalyzed) for Napier silage."
+    },
+    {
+      "id": 8,
+      "description": "Organosolv pretreatment without catalyst (auto-catalyzed) for Napier grass."
+    },
+    {
+      "id": 9,
+      "description": "Organosolv pretreatment without catalyst (auto-catalyzed) for Napier silage."
+    },
+    {
+      "id": 10,
+      "description": "Non-catalyzed hydrothermal pretreatment for Napier grass."
+    },
+    {
+      "id": 11,
+      "description": "Non-catalyzed hydrothermal pretreatment for Napier silage."
+    }
+  ]
+}

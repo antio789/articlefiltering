@@ -1,0 +1,24 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Thermal pretreatment was conducted for 30 min at 50 \u00b0C and 80 \u00b0C with a water bath (CW-10G, Jeio Tech), and at 120 \u00b0C with an autoclave (HAC-045, LK LabKorea)."
+    },
+    {
+      "id": 1,
+      "description": "Ultrasonic pretreatments was conducted for 30, 90, and 180 s on an ultrasonicator (VCX-130, Vibra-Cell) of 130 W."
+    },
+    {
+      "id": 2,
+      "description": "Alkali pretreatment was adjusted to pH 9, 11, and 13 by 5 N NaOH."
+    },
+    {
+      "id": 3,
+      "description": "Centrifugation (10 min, 3,000 rpm) was performed to separate solid and liquid phases before further BMP test."
+    },
+    {
+      "id": 4,
+      "description": "Substrates were adjusted to 30 mL of distilled water for further BMP test after phase separation."
+    }
+  ]
+}

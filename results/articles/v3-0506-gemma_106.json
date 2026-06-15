@@ -1,0 +1,118 @@
+{
+  "manual_review": [
+    [
+      106,
+      "thermal"
+    ],
+    [
+      106,
+      "enzyme"
+    ],
+    [
+      106,
+      "nutrient"
+    ],
+    [
+      106,
+      "acidic"
+    ]
+  ],
+  "llm_review": [
+    [
+      106,
+      "thermal"
+    ],
+    [
+      106,
+      "alkaline"
+    ],
+    [
+      106,
+      "acidic"
+    ],
+    [
+      106,
+      "oxidizer"
+    ],
+    [
+      106,
+      "solvent"
+    ],
+    [
+      106,
+      "enzyme"
+    ],
+    [
+      106,
+      "fungi"
+    ],
+    [
+      106,
+      "microbial consortium"
+    ],
+    [
+      106,
+      "biological active substrate"
+    ],
+    [
+      106,
+      "nanoparticles"
+    ]
+  ],
+  "correct_predictions": 3,
+  "false_predictions": 7,
+  "missed_predictions": 1,
+  "precision": 0.3,
+  "recall": 0.75,
+  "f1_score": 0.4286,
+  "correct_items": [
+    [
+      106,
+      "thermal"
+    ],
+    [
+      106,
+      "acidic"
+    ],
+    [
+      106,
+      "enzyme"
+    ]
+  ],
+  "false_items": [
+    [
+      106,
+      "alkaline"
+    ],
+    [
+      106,
+      "oxidizer"
+    ],
+    [
+      106,
+      "solvent"
+    ],
+    [
+      106,
+      "fungi"
+    ],
+    [
+      106,
+      "microbial consortium"
+    ],
+    [
+      106,
+      "biological active substrate"
+    ],
+    [
+      106,
+      "nanoparticles"
+    ]
+  ],
+  "missed_items": [
+    [
+      106,
+      "nutrient"
+    ]
+  ]
+}

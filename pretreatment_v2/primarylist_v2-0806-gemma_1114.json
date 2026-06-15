@@ -1,0 +1,20 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Mechanical milling of food waste using a food grinder."
+    },
+    {
+      "id": 1,
+      "description": "Pulverization of air-dried Enteromorpha to approximately 0.25 mm using a hammer mill."
+    },
+    {
+      "id": 2,
+      "description": "Hydrothermal pretreatment (HTP) conducted in a stainless-steel autoclave reactor at temperatures of 50, 80, 110, or 140 \u00b0C for 20 min with a total volatile solids concentration of 30 g VS\u00b7L^\u22121 and moisture content set at 90%."
+    },
+    {
+      "id": 3,
+      "description": "Addition of pulverized oyster shells (less than 0.21 mm) at 8% (w/w) of total dry weight of food waste and Enteromorpha."
+    }
+  ]
+}

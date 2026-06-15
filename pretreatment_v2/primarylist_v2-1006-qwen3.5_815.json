@@ -1,0 +1,108 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Shredding (I-PT) \u2013 performed using a knife mill at low speed, which reduces the particle size of the substrates."
+    },
+    {
+      "id": 1,
+      "description": "Shredding and mixing (II-PT) \u2013 performed using a pulping operation, which favors the extraction of organic compounds into the liquid phase and combines shredding with mixing."
+    },
+    {
+      "id": 2,
+      "description": "Shredding, mixing and blending (III-PT) \u2013 performed using a fine blending operation, which alters the lignocellulosic structure and creates a homogeneous liquid slurry."
+    },
+    {
+      "id": 3,
+      "description": "Hammer mill (Noremat Valormax BA915D) \u2013 used at an on-farm AD plant (M3) for cattle manure, reducing particle size and increasing methane production kinetics without significantly affecting biodegradability."
+    },
+    {
+      "id": 4,
+      "description": "Fixed hammer mill \u2013 used at an on-farm AD plant (M4) for cattle manure, slightly increasing BMP and methane production kinetics."
+    },
+    {
+      "id": 5,
+      "description": "Chain mill (X-Chopper) \u2013 used at the METHELEC AD plant for the silage and manure mixture (SM), showing a significant impact on BMP and kinetics."
+    },
+    {
+      "id": 6,
+      "description": "Mixture of cattle manure (M2) \u2013 used as raw substrate before pretreatment and as part of the lab-scale SM sample, characterized for physical and biochemical properties."
+    },
+    {
+      "id": 7,
+      "description": "Mixture of maize and triticale silage (S) \u2013 used as raw substrate and in the lab-scale SM sample, characterized for physical and biochemical properties."
+    },
+    {
+      "id": 8,
+      "description": "Mixture of silage S and cattle manure (SM) \u2013 used as raw substrate and in the lab-scale SM sample, characterized for physical and biochemical properties."
+    },
+    {
+      "id": 9,
+      "description": "Storage at 4 \u00b0C (implied storage treatment) \u2013 applied to samples from farm M2, Ennezat, causing significant degradation of organic soluble compounds and reducing biodegradability compared to fresh samples."
+    },
+    {
+      "id": 10,
+      "description": "Shredding and mixing at full scale (HM3) \u2013 used at the on-farm AD plant (La Bouzule) for cattle manure, resulting in particle size reduction and kinetic enhancement."
+    },
+    {
+      "id": 11,
+      "description": "Shredding and mixing at full scale (HM4) \u2013 used at the on-farm AD plant (M4) for cattle manure, resulting in slight BMP increase and kinetic enhancement."
+    },
+    {
+      "id": 12,
+      "description": "Chain milling at full scale (CH-SM) \u2013 used at the METHELEC AD plant for the silage and manure mixture (SM), resulting in significant BMP increase and kinetic enhancement."
+    },
+    {
+      "id": 13,
+      "description": "Liquid leaching test (10:1 water/TS ratio for 2 hours with constant bottle rotation) \u2013 performed during sample preparation to separate liquid and particulate fractions before characterization."
+    },
+    {
+      "id": 14,
+      "description": "Centrifugation (20 min at 5000 G) \u2013 performed on samples after leaching to separate supernatant and particulate fractions."
+    },
+    {
+      "id": 15,
+      "description": "Particulate fraction drying (70 \u00b0C for 3 days and calcination at 550 \u00b0C for 2 hours) \u2013 performed on the remaining solid fraction to determine Total Solids (TS), Volatile Solids (VS), and COD."
+    },
+    {
+      "id": 16,
+      "description": "Water retention capacity (WRC) measurement \u2013 performed following Coarita Fernandez et al. method (water contact with substrate in a column for 2 hours) on all raw and pre-treated samples."
+    },
+    {
+      "id": 17,
+      "description": "Particle size distribution analysis using wet sieving method (sieve openings: 0.25, 0.5, 1, 4, 10, 20.0, and 31.5 mm) and drying at 105 \u00b0C for 24 hours on all samples."
+    },
+    {
+      "id": 18,
+      "description": "Biomethane potential (BMP) testing \u2013 carried out in mesophilic conditions (35 \u00b0C) with 80/20 %v N2/CO2 purging and monitoring of daily methane production to determine ultimate maximal biochemical methane potential."
+    },
+    {
+      "id": 19,
+      "description": "Biomethane potential kinetics testing \u2013 conducted simultaneously with BMP tests to fit first-order kinetic models for methane production."
+    },
+    {
+      "id": 20,
+      "description": "Biochemical Methane Potential (BMP) estimation \u2013 calculated from BMP and COD measurements using the formula: BMP [L_STP/kg VS] \u00d7 COD [g_COD/kg VS] \u00d7 0.35."
+    },
+    {
+      "id": 21,
+      "description": "COD (Chemical Oxygen Demand) measurement \u2013 performed following NF U 44\u2013161 and NF ISO 14235 standards on both particulate and water-soluble fractions."
+    },
+    {
+      "id": 22,
+      "description": "pH measurement \u2013 performed using a Consort C3020 device with a SP10B pH-electrode on water-soluble fraction samples."
+    },
+    {
+      "id": 23,
+      "description": "Volatile Solids (VS) content determination \u2013 performed through 105 \u00b0C drying for 24h and calcination at 550 \u00b0C for 2h with correction using volatilization coefficients."
+    },
+    {
+      "id": 24,
+      "description": "Water soluble fraction analysis \u2013 performed on supernatant samples after leaching to measure Total solids (TS), Volatile Solids (VS), BMP, pH, and COD."
+    },
+    {
+      "id": 25,
+      "description": "Total solids (TS) content measurement \u2013 performed on the particulate fraction after drying at 70 \u00b0C for 3 days."
+    }
+  ]
+}

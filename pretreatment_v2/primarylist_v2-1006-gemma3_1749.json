@@ -1,0 +1,28 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Thermo-alkaline pretreatment: 1 % (w/v) NaOH solution at 70 \u00b0C for 48 h"
+    },
+    {
+      "id": 1,
+      "description": "Mesophilic anaerobic incubation (35 \u00b1 1 \u00b0C)"
+    },
+    {
+      "id": 2,
+      "description": "Thermophilic anaerobic incubation (55 \u00b1 1 \u00b0C)"
+    },
+    {
+      "id": 3,
+      "description": "Filtration through a 0.45 \u00b5m PES membrane"
+    },
+    {
+      "id": 4,
+      "description": "Vacuum freeze drying"
+    },
+    {
+      "id": 5,
+      "description": "Mechanical pretreatment: Cutting PBAT/PLA plastic bags into 2 cm \u00d7 2 cm square pieces"
+    }
+  ]
+}

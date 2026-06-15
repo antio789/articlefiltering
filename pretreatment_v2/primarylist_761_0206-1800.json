@@ -1,0 +1,24 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Freezing: Samples were treated with different freezing rates to improve methane production, specifically at -20 \u00b0C and -80 \u00b0C for 48 h followed by thawing. This method is excluded from the exclusion list regarding storage freezing but is used as a pretreatment method in this study to alter substrate properties."
+    },
+    {
+      "id": 1,
+      "description": "Chemical Pretreatment: NaOH, NH3, and HCl treatments were evaluated as pretreatments. Specifically, NaOH at concentrations of 6% and 10% (w/w), NH3 at concentrations of 6% and 10% (w/w), and HCl at concentrations of 6% and 10% (w/w) were tested at ambient temperature (20 \u00b1 1 \u00b0C) for 24 h prior to BMP test."
+    },
+    {
+      "id": 2,
+      "description": "PEF Treatment: Electroporation phenomenon induced by PEF led to tissue damages, assessed by disintegration index (Z). Z_0, Z_0.5, and Z_1 levels were determined using a high voltage power supply (2.5 kV, 0.24A) and pulse generator (TGP 110-10 MHz) for moderate intensity PEF of 3600 V cm^-1."
+    },
+    {
+      "id": 3,
+      "description": "US Treatment (Ultrasound): Disintegration by US was performed using an ultrasonic processor (BPAC, Vern-Sur-Seiche, France) with operating frequency of 50 kHz and an effective power output of 60 W. Z_0.5 (40 min) and Z_1 (70 min) treatment durations were used with specific energy inputs of 400 kJ kg^-1 and 700 kJ kg^-1, respectively."
+    },
+    {
+      "id": 4,
+      "description": "Grinding: Particles were processed using a blender (Waring blender 8011EG) to adjust particle size distribution for the continuous digesters, ranging from 0.02 \u00b5m to 1000 \u00b5m, and specifically from 0.04 \u00b5m to 1000 \u00b5m to remove clogging risks due to seeds."
+    }
+  ]
+}

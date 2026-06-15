@@ -1,0 +1,24 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Air-drying of corn stover to a moisture content less than 10%."
+    },
+    {
+      "id": 1,
+      "description": "Grinding of air-dried corn stover to pass through a 5 mm sieve."
+    },
+    {
+      "id": 2,
+      "description": "Solid-state alkaline pretreatment with NaOH (0.25, 0.625, 1.25, and 1.85 M) soaking for 24 hours at ambient temperature (20 \u00b1 0.5 \u00b0C) in sealed zipper plastic bags."
+    },
+    {
+      "id": 3,
+      "description": "Solid-state anaerobic digestion of pretreated corn stover with effluent of liquid AD as inoculum and nitrogen source at 37 \u00b0C for 40 days."
+    },
+    {
+      "id": 4,
+      "description": "Simultaneous alkaline treatment and SS-AD with NaOH (0.25, 0.625, and 1.25 M) and effluent."
+    }
+  ]
+}

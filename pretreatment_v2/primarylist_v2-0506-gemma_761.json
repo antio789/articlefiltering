@@ -1,0 +1,24 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Freezing pretreatment: Samples of fresh grape pomace were frozen at \u221220 \u00b0C and \u221280 \u00b0C for 48 h, followed by thawing at 6 \u00b0C for 24 h. This involved a freezing/thawing technique to alter the structural properties of the lignocellulosic fractions."
+    },
+    {
+      "id": 1,
+      "description": "Chemical pretreatments:  The effects of chemical treatments on the methane production of GP were evaluated using NaOH, NH_3 and HCl, separately. These pretreatments were carried out in 250 mL flasks, closed with rubber septa.  GP samples were soaked in 6% or 10% concentration of NaOH, NH_3 or HCl for 24 h at ambient temperature (20 \u00b1 1 \u00b0C) with continuous shaking."
+    },
+    {
+      "id": 2,
+      "description": "Physical pretreatments: The effects of physical treatments on the methane production of GP were evaluated using ultrasounds (US) and pulsed electric fields (PEF). US treatment was performed with an ultrasonic processor (50 kHz, 60 W) for 40 min or 70 min. PEF treatment was carried out in a plexiglass cylinder with two steel electrodes using a high voltage power supply (2.5 kV, 0.24A) and a pulse generator to control the pulse duration and frequency. The PEF treatment was performed at different levels (Z_0, Z_0.5, Z_1) with specific energy inputs and pulse parameters."
+    },
+    {
+      "id": 3,
+      "description": "Biological pretreatments: Biological pretreatments (using fungi and enzymes) were not considered here, mainly due to the high loss of carbohydrates, the long treatment time and their high cost (Sambusiti et al., 2012)."
+    },
+    {
+      "id": 4,
+      "description": "Thermal pretreatments: Thermal pretreatments were not inspected since they are very energy intensive, particularly when compared to freezing process (Stabnikova et al., 2008)."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Mixing of whiskey byproducts (draff, thin stillage, and thick stillage) in a ratio of 1:7:6 based on wet weight"
+    },
+    {
+      "id": 1,
+      "description": "Steam pretreatment conducted in an autoclave at 135 \u00b0C for 15 min"
+    },
+    {
+      "id": 2,
+      "description": "Dilute sulfuric acid (H2SO4) pretreatment with a final concentration of 2% v/v conducted in an autoclave at 135 \u00b0C for 15 min"
+    },
+    {
+      "id": 3,
+      "description": "pH adjustment using 1 M NaOH solution to reach a value of 6.5\u20137.0 after heat/acid treatment"
+    }
+  ]
+}

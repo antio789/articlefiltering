@@ -1,0 +1,16 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Alkaline pretreatments using KOH, Ca(OH)2, NaOH, and alkaline hydrogen peroxide (AHP) at concentrations of 1%, 2%, 3%, and 4% (mass fraction), respectively. These treatments involved mixing the Zucchini stem (ZS) with the solutions at a moisture content of 95% for 24 hours at room temperature. The pH of the AHP was adjusted to 11.5 using NaOH before the treatment."
+    },
+    {
+      "id": 1,
+      "description": "Acid pretreatment using Hydrochloric acid (HCl) at concentrations of 1%, 2%, 3%, and 4% (mass fraction). The ZS was treated with the acid solutions at room temperature for 24 hours at moisture content of 95%."
+    },
+    {
+      "id": 2,
+      "description": "Microwave (MW) pretreatment using microwave energy at power levels of 300 W, 500 W, and 700 W for 10 minutes at a moisture content of 95%. The ZS was separated from the liquid after the treatment."
+    }
+  ]
+}

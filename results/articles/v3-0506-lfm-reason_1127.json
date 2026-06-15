@@ -1,0 +1,90 @@
+{
+  "manual_review": [
+    [
+      1127,
+      "solvent"
+    ],
+    [
+      1127,
+      "mechanical disintegration"
+    ],
+    [
+      1127,
+      "thermal"
+    ],
+    [
+      1127,
+      "alkaline"
+    ],
+    [
+      1127,
+      "acidic"
+    ]
+  ],
+  "llm_review": [
+    [
+      1127,
+      "mechanical disintegration"
+    ],
+    [
+      1127,
+      "thermal"
+    ],
+    [
+      1127,
+      "ultrasonic"
+    ],
+    [
+      1127,
+      "pressure"
+    ],
+    [
+      1127,
+      "enzyme"
+    ]
+  ],
+  "correct_predictions": 2,
+  "false_predictions": 3,
+  "missed_predictions": 3,
+  "precision": 0.4,
+  "recall": 0.4,
+  "f1_score": 0.4,
+  "correct_items": [
+    [
+      1127,
+      "mechanical disintegration"
+    ],
+    [
+      1127,
+      "thermal"
+    ]
+  ],
+  "false_items": [
+    [
+      1127,
+      "ultrasonic"
+    ],
+    [
+      1127,
+      "pressure"
+    ],
+    [
+      1127,
+      "enzyme"
+    ]
+  ],
+  "missed_items": [
+    [
+      1127,
+      "solvent"
+    ],
+    [
+      1127,
+      "alkaline"
+    ],
+    [
+      1127,
+      "acidic"
+    ]
+  ]
+}

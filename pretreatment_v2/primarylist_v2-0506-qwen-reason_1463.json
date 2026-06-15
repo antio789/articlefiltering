@@ -1,0 +1,16 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Alkaline pretreatment was applied to dairy waste activated sludge using NaOH, KOH, and Ca(OH)2 of different concentrations at pH values ranging from 8 to 11. The chemical treatment was performed as batch tests with a volume of 500 mL sludge sample at room temperature, without temperature regulation, to weaken the cell walls and make cellular substances more susceptible to enzymatic action. The alkaline agents induced swelling of particulate organics at high pH, enhancing hydrolysis of cell structures and microbial cell wall degradation. The effect was evaluated at different treatment times (15-180 min) and various working rpm ranges (4000\u201324,000 rpm) to optimize sludge disintegration and solubilization. The specific alkaline agents (NaOH, KOH, Ca(OH)2) were selected for subsequent studies as NaOH was found to be more effective than Ca(OH)2 for sludge solubilization due to the bivalent cation's role in dissolving organic polymers, and Ca(OH)2 was noted to have reduced COD solubilization efficiency compared to NaOH."
+    },
+    {
+      "id": 1,
+      "description": "Mechanical pretreatment (disperser) was applied using the IKA T25 Ultra Turrax Digital disperser. This method relies on the induced cavitation process where high-speed shearing forces disintegrate the sludge by disrupting microbial cell walls through shear stress and extensional shear. The dispersion effectiveness was heavily dependent on the product of shear gradient and time the particles spent in the shear zone. The disperser draws the medium axially and forces it radially through the slots in the rotor/stator arrangement, creating extreme shear and thrust forces that break down flocs and release soluble substances into the liquid phase. This treatment was used in conjunction with alkaline pretreatment to achieve combined chemo-mechanical disintegration, reducing viscosity and increasing solids concentration for anaerobic digestion."
+    },
+    {
+      "id": 2,
+      "description": "Combined chemo-mechanical pretreatment was applied to dairy waste activated sludge by combining alkaline chemical treatment with disperser mechanical treatment. The optimal specific energy input of 4544 kJ/kg TS was selected for NaOH pretreatment at pH 10 to maximize sludge disintegration efficiency. The combined method was trialed at the Chilliwack WWTP and resulted in improved VS reduction in mesophilic digesters by 18% points from 60% to 78%. The combined pretreatment improved COD solubilization and suspended solids reduction, enhanced hydrolysis, and led to higher biogas production. The optimized parameters for this combined treatment included specific energy input of 4544 kJ/kg TS, NaOH at pH 10, and treatment time of 15-180 minutes."
+    }
+  ]
+}

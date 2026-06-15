@@ -1,0 +1,32 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Oven drying of a\u00e7ai seeds at 105 \u00b0C for 8 hours followed by mechanical grinding (1 mm sieve) and storage at -18 \u00b0C."
+    },
+    {
+      "id": 1,
+      "description": "Subcritical water pretreatment using water at 200 \u00b0C and 15 MPa for a residence time of 20 minutes at a water flow rate of 20 mL min\u207b\u00b9 with a solvent-to-biomass mass ratio of 80 g water per g of a\u00e7ai seed, resulting in hydrolysis of sugars and release of organic acids."
+    },
+    {
+      "id": 2,
+      "description": "Integration reactor process where the hydrolysate from subcritical water pretreatment was used as the substrate for anaerobic digestion, with the reactor configuration showing a ratio of 70% hydrolyzed material and 30% mesophilic sludge."
+    },
+    {
+      "id": 3,
+      "description": "Anaerobic digestion process carried out in a stirred-tank reactor at mesophilic conditions (35 \u00b0C) with a hydraulic retention time of 35 days, maintaining pH between 7 and 8 using 6N NaOH additions as needed."
+    },
+    {
+      "id": 4,
+      "description": "Biogas collection and measurement via gas sampling bags coupled with bioreactors, calculating cumulative volume and yield based on total volatile solids added."
+    },
+    {
+      "id": 5,
+      "description": "Biogas composition analysis (CH4, H2, CO2) using gas chromatography (GC) equipped with a thermal conductivity detector (TCD) and a micro-packed column (6m length, 3 mm ID) with N2 as carrier gas."
+    },
+    {
+      "id": 6,
+      "description": "Analytical determination of physicochemical parameters including density, pH, total solids, moisture, total nitrogen, chemical oxygen demand, protein, and total extractives using specific laboratory equipment and protocols (APHA, AOAC, NREL)."
+    }
+  ]
+}

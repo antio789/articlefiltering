@@ -1,0 +1,20 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Alkaline pretreatment using NaOH (5 N), KOH, or Ca(OH)\u2082 solutions at pH ranging from 8 to 13, mixed for 1 hour (individual) or 20 minutes (combined)."
+    },
+    {
+      "id": 1,
+      "description": "Thermal pretreatment by heating sludge samples (50 ml) in an oil bath from 110 \u00b0C to 150 \u00b0C for 20 minutes."
+    },
+    {
+      "id": 2,
+      "description": "Ultrasonication using a VCX-750 probe with a 20 kHz frequency and 750 W amplitude for 1, 5, 10, 15, or 20 minutes."
+    },
+    {
+      "id": 3,
+      "description": "Hydrodynamic cavitation (HC) using an orifice plate with 27 holes of 1 mm diameter in a 20 mm pipe, generating cavitation at a pressure drop to vapor pressure, with reaction times of 1, 5, 10, 15, and 20 minutes."
+    }
+  ]
+}

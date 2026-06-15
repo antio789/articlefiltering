@@ -1,0 +1,68 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Harvesting and packaging of Miscanthus"
+    },
+    {
+      "id": 1,
+      "description": "Air drying at room temperature"
+    },
+    {
+      "id": 2,
+      "description": "Breaking with a paper cutter"
+    },
+    {
+      "id": 3,
+      "description": "Screening and particle size separation (20-mesh and 40-mesh sieves)"
+    },
+    {
+      "id": 4,
+      "description": "Hydrothermal pretreatment at 125 \u00b0C with 20 rpm rotation for 30 minutes"
+    },
+    {
+      "id": 5,
+      "description": "Hydrothermal pretreatment at 150 \u00b0C with 20 rpm rotation for 30 minutes"
+    },
+    {
+      "id": 6,
+      "description": "Hydrothermal pretreatment at 175 \u00b0C with 20 rpm rotation for 30 minutes"
+    },
+    {
+      "id": 7,
+      "description": "Hydrothermal pretreatment at 200 \u00b0C with 20 rpm rotation for 30 minutes"
+    },
+    {
+      "id": 8,
+      "description": "Filtration for solid-liquid separation"
+    },
+    {
+      "id": 9,
+      "description": "Washing of pretreated Miscanthus with distilled water"
+    },
+    {
+      "id": 10,
+      "description": "Drying of pretreated Miscanthus"
+    },
+    {
+      "id": 11,
+      "description": "Anaerobic digestion in batch reactors with pig manure inoculum at 35 \u00b0C for 35 days"
+    },
+    {
+      "id": 12,
+      "description": "Enzymatic hydrolysis with cellulase solution (Sigma-Aldrich) in sodium acetate buffer at 50 \u00b0C for 3-72 h"
+    },
+    {
+      "id": 13,
+      "description": "FTIR analysis of chemical bonds before and after hydrothermal pretreatment"
+    },
+    {
+      "id": 14,
+      "description": "X-ray diffraction analysis of cellulose crystallinity"
+    },
+    {
+      "id": 15,
+      "description": "Scanning electron microscopy (SEM) analysis of surface structure"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Grinding to pass through a 12 mm sieve using a shredder-chipper (Mighty Mac, Mackissic Inc., Parker Ford, PA, USA)"
+    },
+    {
+      "id": 1,
+      "description": "Ensilage: Supplemented with water to reach a total solids (TS) content of around 40%, packed into 1-gallon-size zipper bags with 1 kg of wet giant reed in each bag, vacuumed to minimize the presence of oxygen, and placed at room temperature (25 \u00b1 3 \u00b0C)."
+    },
+    {
+      "id": 2,
+      "description": "Fungal pretreatment: C. subvermispora (ATCC 96608) was activated on 2% malt extract agar plates at 28 \u00b0C for 7 days. The fungus was then prepared as a liquid inoculum and applied to the giant reed."
+    },
+    {
+      "id": 3,
+      "description": "Autoclaving at 121 \u00b0C for 30 min."
+    },
+    {
+      "id": 4,
+      "description": "Incubation at 28 \u00b1 1 \u00b0C for 30 days without stirring."
+    }
+  ]
+}

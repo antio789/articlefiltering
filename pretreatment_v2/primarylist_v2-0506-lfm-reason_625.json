@@ -1,0 +1,24 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Mechanical Pretreatment"
+    },
+    {
+      "id": 1,
+      "description": "Ultrasonic Application with Varying KOH Concentrations"
+    },
+    {
+      "id": 2,
+      "description": "Alkaline Pretreatment (Ca(OH)\u2082, NaOH, KOH)"
+    },
+    {
+      "id": 3,
+      "description": "Thermal Applications"
+    },
+    {
+      "id": 4,
+      "description": "Combined Ultrasonic + KOH Application"
+    }
+  ]
+}

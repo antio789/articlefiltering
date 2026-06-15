@@ -1,0 +1,16 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Ultrasonic treatment was performed using an ultrasonicator with a frequency of 20 kHz (VCX-750, Sonics and Materials, USA). Ultrasonic treatment (750 W, amplitude = 40%) was applied to 100 mL of excess sludge for 5, 10, 20, 40, and 60 min."
+    },
+    {
+      "id": 1,
+      "description": "Alkaline pretreatment applied a 6 mol/L KOH solution to reach pH values of 9, 10, 11, 12, and 13. Samples were mixed for 1 h using a magnetic stirrer at 200 rpm, with injection of alkaline solution continued throughout the hour."
+    },
+    {
+      "id": 2,
+      "description": "Combined (alkaline + ultrasonic) pretreatment: alkali-pretreated sludge at pH 9, 11, and 13 for 1 h was ultrasonicated for 5, 20, and 60 min."
+    }
+  ]
+}

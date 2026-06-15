@@ -89,13 +89,13 @@ def get_manual_review_article(artid): #Make sure there are no duplicates in the 
     with open("data/articlelist.csv", 'r', encoding='utf-8') as f:
         reader = csv.reader(f,delimiter=";")
         for row in reader:
-            if artid == str(row[1]):
+            if artid == int(row[1]):
                 doi=row[2]
                 break
         if doi == "":
             raise Exception(f"Error article not found for id: {artid}")
     results = []
-    with open('data/pretreatment0106.csv',encoding='utf-8') as f:
+    with open('data/pretreatment_0806.csv',encoding='utf-8') as f:
         reader = csv.reader(f, delimiter=";")
         for row in reader:
             if doi == row[5]:
@@ -118,14 +118,14 @@ def get_llm_review(jfile,art_id):
                 qid = item.get("qid")
                 pretreatment = pretreatment_map[qid]
                 datapoint = [art_id, pretreatment]
-                results.append(datapoint)
+                if datapoint not in results:
+                    results.append(datapoint)
     return results
 
 def get_llmv2_review(jfile,art_id):
     results = []
-    output = jfile.replace("ptoutput/", "pretreatment_v2/result_")
     try:
-        with open(output, 'r', encoding='utf-8') as file:
+        with open(jfile, 'r', encoding='utf-8') as file:
             data = json.load(file)
             filters = data.get("filters")
             for item in filters:
@@ -134,13 +134,45 @@ def get_llmv2_review(jfile,art_id):
                         if qid in pretreatment_map:
                             pretreatment = pretreatment_map[qid]
                             datapoint = [art_id,pretreatment]
-                            results.append(datapoint)
+                            if datapoint not in results:
+                                results.append(datapoint)
                         elif qid != -1:
                             print(f"Wrong id for {art_id}: {item.get('answer')}")
                     except:
                         print(f"Wrong answer format on {art_id}: {item.get('answer')}")
     except:
-        print(f"file not found: {output}")
+        print(f"file not found: {jfile}")
+    return results
+
+def get_llmv3_review(jfile,art_id):
+    results = []
+    try:
+        with open(jfile, 'r', encoding='utf-8') as file:
+            data = json.load(file)
+            filters = data.get("filters")
+            if isinstance(filters,int):
+                qid = filters
+                if qid in pretreatment_map:
+                    pretreatment = pretreatment_map[qid]
+                    datapoint = [art_id, pretreatment]
+                    if datapoint not in results:
+                        results.append(datapoint)
+            else:
+                for item in filters:
+                    try:
+                        qid = item
+
+                        if qid in pretreatment_map:
+                            pretreatment = pretreatment_map[qid]
+                            datapoint = [art_id, pretreatment]
+                            if datapoint not in results:
+                                results.append(datapoint)
+                        elif qid != -1:
+                            print(f"Wrong id for {art_id}: {item}")
+                    except Exception as e:
+                        print(f" {e}: {art_id}: {item}")
+    except Exception as e:
+        print(f"{e}: {jfile}")
     return results
 
 def extract_integer(output):
@@ -157,6 +189,7 @@ def compare(manual, llm, include_other=False):
     if include_other:
         manual_filtered = manual
         llm_filtered = llm
+
     else:
         manual_filtered = [item for item in manual if item[1] != pretreatment_map[10]]
         llm_filtered = [item for item in llm if item[1] != pretreatment_map[10]]
@@ -256,21 +289,36 @@ def compare_question(question_name, all_manual, all_llm):
 
     return compare_summary(manual_filtered, llm_filtered, include_other=True)
 
-def calculate_pretreatment(runname,v2=False):
+def calculate_pretreatment(runname,version=0):
     ensure_results_dirs()
-    json_files = glob.glob("ptoutput/*.json")
-
+    files = glob.glob("articletxt/*.txt")
+    id_list = []
+    for file in files:
+        id_list.append(int(file.replace('articletxt/', '').replace('.txt', '')))
+    folder_name = "ptoutput"
+    files_path = f"{folder_name}/{runname}_"
+    get_automated_review = get_llm_review
+    if version == 2:
+        folder_name = "pretreatment_v2"
+        files_path = f"{folder_name}/result_{runname}_"
+        get_automated_review = get_llmv2_review
+    elif version == 3:
+        folder_name = "pretreatment_v3"
+        files_path = f"{folder_name}/results_{runname}_"
+        get_automated_review = get_llmv3_review
     all_manual = []
     all_llm = []
-
-    for article_output in json_files:
-        processing_id = (os.path.basename(article_output).replace(".json", ""))
+    count=0
+    for processing_id in id_list:
+        count+=1
 
         manual_review = get_manual_review_article(processing_id)
-        llm_review = get_llm_review(article_output, processing_id)
-        if v2:
-            llm_review = get_llmv2_review(article_output,processing_id)
+        filepath = f"{files_path}{processing_id}.json"
 
+        if not os.path.isfile(filepath):
+            print(f"file not found for id: {processing_id}, filepath: {filepath} on {runname}")
+            llm_review = []
+        else: llm_review = get_automated_review(f"{files_path}{processing_id}.json", processing_id)
         article_report = compare(manual_review, llm_review, include_other=False)
         save_report(f"results/articles/{runname}_{processing_id}.json", article_report)
 
@@ -285,7 +333,7 @@ def calculate_pretreatment(runname,v2=False):
 
         filename = f"results/questions/questions_{runname}_{qid}.json"
         save_report(filename, question_report)
-
+    print(count)
     print("Finished")
 
 
@@ -384,7 +432,11 @@ def calculate_reactor(runname):
 
 ### Run
 print("start comparison calculation")
-calculate_pretreatment('qwen80k0206-v2',True)
+
+calculate_pretreatment('v2-0806-gemma-reason',2)
+calculate_pretreatment('v2-0806-qwen',2)
+calculate_pretreatment('v2-0806-qwen-reason',2)
+calculate_pretreatment('v2-0806-mistral',2)
 
 
 

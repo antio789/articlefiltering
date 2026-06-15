@@ -1,0 +1,16 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Concentrated phosphoric acid pretreatment (83-85.9% phosphoric acid, 50\u00b0C for 50 min, acetone precipitation, water washing, drying)"
+    },
+    {
+      "id": 1,
+      "description": "Organosolv pretreatment (75% ethanol, 150\u00b0C for 30 min, sulfuric acid catalyst, ethanol/water ratio 1:8, separation of solid and liquid phases, neutralization, drying)"
+    },
+    {
+      "id": 2,
+      "description": "Dilute sulfuric acid pretreatment (0.5% w/w, 140\u00b0C for 5 min, ice-water bath, separation of solid and liquid phases, neutralization, drying)"
+    }
+  ]
+}

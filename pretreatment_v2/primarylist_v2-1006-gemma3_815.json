@@ -1,0 +1,44 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Shredding (I-PT code)"
+    },
+    {
+      "id": 1,
+      "description": "Shredding and mixing (II-PT)"
+    },
+    {
+      "id": 2,
+      "description": "Shredding, mixing and blending (III-PT)"
+    },
+    {
+      "id": 3,
+      "description": "Water addition (10:1 Water content/Total Solids (TS) ratio)"
+    },
+    {
+      "id": 4,
+      "description": "Knife mill"
+    },
+    {
+      "id": 5,
+      "description": "Pulping operation"
+    },
+    {
+      "id": 6,
+      "description": "Fine blending operation"
+    },
+    {
+      "id": 7,
+      "description": "Mobile hammer mill (Noremat Valormax BA915D)"
+    },
+    {
+      "id": 8,
+      "description": "Fixed (on line) hammer mill"
+    },
+    {
+      "id": 9,
+      "description": "X-Chopper chain mill (Xergi)"
+    }
+  ]
+}

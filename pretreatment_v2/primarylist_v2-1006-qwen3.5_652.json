@@ -1,0 +1,24 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Solid-state NaOH pretreatment using 2% NaOH for 3 days"
+    },
+    {
+      "id": 1,
+      "description": "Solid-state NaOH pretreatment using 6% NaOH at 80% moisture content and ambient temperature for 3 weeks"
+    },
+    {
+      "id": 2,
+      "description": "Simultaneous solid-state alkaline treatment and anaerobic digestion"
+    },
+    {
+      "id": 3,
+      "description": "Concurrent solid-state NaOH pretreatment and anaerobic digestion using 0.25, 0.625, or 1.25 M NaOH"
+    },
+    {
+      "id": 4,
+      "description": "Solid-state NaOH pretreatment using 5.0% NaOH for 40 days"
+    }
+  ]
+}

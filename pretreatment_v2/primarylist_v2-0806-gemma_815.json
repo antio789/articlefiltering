@@ -1,0 +1,28 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Lab-scale shredding operation using a knife mill at low speed to reduce particle size (I-PT)."
+    },
+    {
+      "id": 1,
+      "description": "Lab-scale pulping/mixing operation aimed at favoring the extraction of organic compounds into the liquid phase, performed with water addition in a 10:1 Water content/Total Solids (TS) ratio (II-PT)."
+    },
+    {
+      "id": 2,
+      "description": "Lab-scale fine blending operation intended to alter lignocellulosic structure and create a homogeneous liquid slurry, performed with water addition in a 10:1 Water content/Total Solids (TS) ratio (III-PT)."
+    },
+    {
+      "id": 3,
+      "description": "Full-scale mechanical pretreatment using a mobile hammer mill (Noremat Valormax BA915D) for cattle manure."
+    },
+    {
+      "id": 4,
+      "description": "Full-scale mechanical pretreatment using a fixed on-line hammer mill for cattle manure."
+    },
+    {
+      "id": 5,
+      "description": "Full-scale mechanical pretreatment using a X-Chopper chain mill (Xergi) for a mixture of silage and cattle manure."
+    }
+  ]
+}

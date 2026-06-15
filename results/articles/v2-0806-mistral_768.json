@@ -1,0 +1,49 @@
+{
+  "manual_review": [
+    [
+      768,
+      "mechanical disintegration"
+    ],
+    [
+      768,
+      "enzyme"
+    ]
+  ],
+  "llm_review": [
+    [
+      768,
+      "mechanical disintegration"
+    ],
+    [
+      768,
+      "thermal"
+    ],
+    [
+      768,
+      "enzyme"
+    ]
+  ],
+  "correct_predictions": 2,
+  "false_predictions": 1,
+  "missed_predictions": 0,
+  "precision": 0.6667,
+  "recall": 1.0,
+  "f1_score": 0.8,
+  "correct_items": [
+    [
+      768,
+      "mechanical disintegration"
+    ],
+    [
+      768,
+      "enzyme"
+    ]
+  ],
+  "false_items": [
+    [
+      768,
+      "thermal"
+    ]
+  ],
+  "missed_items": []
+}

@@ -1,0 +1,24 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Mechanical treatment (Milling): Dried pine needles were ground in an electric blender and sieved through a 20 mesh sieve."
+    },
+    {
+      "id": 1,
+      "description": "Steam explosion treatment: Pine needles were autoclaved in a flask plugged with non-absorbent cotton at 121 \u00b0C for 30 min."
+    },
+    {
+      "id": 2,
+      "description": "Acid-base-acid pretreatment: The lignocellulosic biomass was sequentially exposed to HCl, NaOH, and HCl cycles over 30 minute intervals until wash out liquid was clear, followed by washing with water to reach neutral pH."
+    },
+    {
+      "id": 3,
+      "description": "Anaerobic digestion (AD) treatment: The pretreated biomass was subjected to anaerobic digestion in 500 ml glass bottles with 1:1 inoculum-to-substrate ratio at 50 \u00b0C for 60 days under argon-flushed conditions."
+    },
+    {
+      "id": 4,
+      "description": "Drying treatment: The final pretreated LCB was dried before further experimentation."
+    }
+  ]
+}

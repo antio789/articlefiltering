@@ -1,0 +1,65 @@
+{
+  "manual_review": [
+    [
+      526,
+      "ultrasonic"
+    ],
+    [
+      526,
+      "alkaline"
+    ]
+  ],
+  "llm_review": [
+    [
+      526,
+      "thermal"
+    ],
+    [
+      526,
+      "ultrasonic"
+    ],
+    [
+      526,
+      "alkaline"
+    ],
+    [
+      526,
+      "oxidizer"
+    ],
+    [
+      526,
+      "solvent"
+    ]
+  ],
+  "correct_predictions": 2,
+  "false_predictions": 3,
+  "missed_predictions": 0,
+  "precision": 0.4,
+  "recall": 1.0,
+  "f1_score": 0.5714,
+  "correct_items": [
+    [
+      526,
+      "ultrasonic"
+    ],
+    [
+      526,
+      "alkaline"
+    ]
+  ],
+  "false_items": [
+    [
+      526,
+      "thermal"
+    ],
+    [
+      526,
+      "oxidizer"
+    ],
+    [
+      526,
+      "solvent"
+    ]
+  ],
+  "missed_items": []
+}

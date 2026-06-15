@@ -1,0 +1,24 @@
+{
+  "pretreatments": [
+    {
+      "id": 0,
+      "description": "Heat shock treatment: Granular sludge was boiled at 90 \u00b0C for 30 min."
+    },
+    {
+      "id": 1,
+      "description": "Aeration treatment: Granular sludge was aerated for 24 h using an aquarium pump with an air flow rate of 3 L/min."
+    },
+    {
+      "id": 2,
+      "description": "Alkaline pre-treatment: pH of the granular sludge was adjusted to 12.0 \u00b1 0.1 with 3 N NaOH and maintained for 24 h."
+    },
+    {
+      "id": 3,
+      "description": "WFO pre-treatment: Saponified WFO solution was added at 15 g/L to granular sludge cultures, maintained for 24 h, then washed three times with tap water."
+    },
+    {
+      "id": 4,
+      "description": "Mechanical degradation: Synthetic FW samples were mixed and shredded in a kitchen mill to make a homogenous blend."
+    }
+  ]
+}
